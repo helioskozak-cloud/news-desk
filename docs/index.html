@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>news-desk · live financial headlines</title>
+<style>
+  :root {
+    --bg:#0d1117; --card:#161b22; --border:#30363d; --muted:#6e7681; --text:#c9d1d9;
+    --bright:#f0f6fc; --accent:#58a6ff; --green:#3fb950; --red:#f85149; --yellow:#e3b341;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;font-size:14px;line-height:1.5}
+  a{color:var(--accent);text-decoration:none}
+  a:hover{text-decoration:underline}
+
+  header{background:var(--card);border-bottom:1px solid var(--border);padding:14px 20px;position:sticky;top:0;z-index:10;backdrop-filter:saturate(180%) blur(10px)}
+  header h1{margin:0;font-size:18px;font-weight:700;color:var(--bright);letter-spacing:-.01em;display:inline-block}
+  header .sub{color:var(--muted);font-size:12px;margin-left:10px}
+  header .meta{float:right;font-size:11px;color:var(--muted);text-align:right}
+  header .meta strong{color:var(--text);font-weight:600}
+  .live-dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--green);margin-right:5px;animation:pulse 2.4s infinite ease-in-out;vertical-align:middle}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+
+  .toolbar{padding:14px 20px;border-bottom:1px solid var(--border);display:flex;gap:10px;flex-wrap:wrap;align-items:center;background:var(--card)}
+  .toolbar input,.toolbar select{background:#21262d;border:1px solid var(--border);color:var(--text);padding:5px 10px;border-radius:6px;font-size:12px}
+  .toolbar input[type="text"]{width:200px}
+  .toolbar input:focus,.toolbar select:focus{border-color:var(--accent);outline:none}
+  .toolbar .lbl{color:var(--muted);font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;margin-right:-4px}
+  .toolbar button{background:none;border:1px solid var(--border);color:var(--muted);padding:5px 10px;border-radius:6px;font-size:12px;cursor:pointer}
+  .toolbar button:hover{color:var(--text);border-color:var(--muted)}
+
+  main{max-width:920px;margin:0 auto;padding:18px 20px 80px}
+  .stream{display:flex;flex-direction:column;gap:1px;background:var(--border);border:1px solid var(--border);border-radius:8px;overflow:hidden}
+  .row{background:var(--card);padding:11px 14px;display:grid;grid-template-columns:90px 1fr;gap:14px;align-items:start;cursor:pointer;transition:background .12s}
+  .row:hover{background:#1c2128}
+  .row .time{color:var(--muted);font-size:11px;font-family:ui-monospace,SFMono-Regular,Consolas,monospace;padding-top:1px;white-space:nowrap}
+  .row .time .date{display:block;color:#484f58;font-size:10px;margin-top:1px}
+  .row .body{min-width:0}
+  .row .src{display:inline-block;font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);background:#21262d;border:1px solid var(--border);padding:1px 7px;border-radius:10px;margin-right:8px;vertical-align:middle}
+  .row .cat-press{color:#bc8cff;border-color:#5e3ea7}
+  .row .cat-filings{color:#e3b341;border-color:#806a26}
+  .row .cat-earnings{color:#3fb950;border-color:#1e6029}
+  .row .cat-macro{color:#58a6ff;border-color:#1f4d8a}
+  .row .title{color:var(--bright);font-weight:500;font-size:14px;line-height:1.4}
+  .row .title a{color:inherit;background-image:linear-gradient(currentColor,currentColor);background-position:0 100%;background-repeat:no-repeat;background-size:0 1px;transition:background-size .25s}
+  .row:hover .title a{background-size:100% 1px}
+  .row .summary{color:var(--muted);font-size:12px;margin-top:4px;line-height:1.5;display:none}
+  .row.expand .summary{display:block}
+  .tickers{margin-top:6px;display:flex;gap:5px;flex-wrap:wrap}
+  .ticker-chip{background:rgba(88,166,255,.10);color:var(--accent);border:1px solid rgba(88,166,255,.30);font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:11px;font-weight:600;padding:1px 7px;border-radius:4px;cursor:pointer}
+  .ticker-chip:hover{background:rgba(88,166,255,.20)}
+
+  .empty{padding:60px 20px;text-align:center;color:var(--muted)}
+  .empty h2{color:var(--text);font-weight:500;margin:0 0 8px}
+
+  .group-header{background:#0d1117;border:none;color:var(--muted);font-size:10px;text-transform:uppercase;letter-spacing:.7px;padding:14px 14px 6px;font-weight:600}
+
+  @media (max-width:640px){
+    .row{grid-template-columns:1fr;gap:6px}
+    .row .time{font-size:10px}
+    .row .time .date{display:inline;margin-left:6px}
+    .toolbar{padding:10px 14px}
+    .toolbar input[type="text"]{width:140px}
+    header{padding:10px 14px}
+    header .meta{font-size:10px}
+    main{padding:14px 10px 60px}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>news-desk</h1>
+  <span class="sub">live financial headlines</span>
+  <div class="meta">
+    <span class="live-dot"></span><strong id="updated">—</strong><br>
+    <span id="count">0 headlines</span> · <a href="#" onclick="event.preventDefault();reload()">refresh</a>
+  </div>
+  <div style="clear:both"></div>
+</header>
+
+<div class="toolbar">
+  <span class="lbl">Search</span>
+  <input type="text" id="search" placeholder="headline or ticker…" oninput="render()">
+  <span class="lbl">Source</span>
+  <select id="srcFilter" onchange="render()"><option value="">All</option></select>
+  <span class="lbl">Category</span>
+  <select id="catFilter" onchange="render()"><option value="">All</option></select>
+  <span class="lbl">Tickers only</span>
+  <input type="checkbox" id="tagOnly" onchange="render()" style="vertical-align:middle">
+  <button onclick="clearFilters()">Clear</button>
+  <span style="margin-left:auto;color:var(--muted);font-size:11px" id="counts"></span>
+</div>
+
+<main>
+  <div id="stream" class="stream"><div class="empty"><h2>Loading…</h2><div>Fetching latest headlines</div></div></div>
+</main>
+
+<script>
+let STATE={headlines:[],generated:null,sources:new Set(),categories:new Set()};
+
+function fmtTime(iso){
+  if(!iso) return '';
+  const d=new Date(iso);
+  if(isNaN(d)) return iso;
+  const now=new Date();
+  const diffMin=(now-d)/60000;
+  const hh=d.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit',hour12:false});
+  let dateLabel='';
+  if(diffMin<60*8){
+    if(diffMin<1) dateLabel='just now';
+    else if(diffMin<60) dateLabel=Math.floor(diffMin)+'m ago';
+    else dateLabel=Math.floor(diffMin/60)+'h ago';
+  } else {
+    dateLabel=d.toLocaleDateString('en-US',{month:'short',day:'numeric'});
+  }
+  return {hh, dateLabel};
+}
+
+function fmtUpdated(iso){
+  if(!iso) return '—';
+  const d=new Date(iso);
+  const diff=(new Date()-d)/1000;
+  if(diff<60) return 'live · just now';
+  if(diff<3600) return 'live · '+Math.floor(diff/60)+'m ago';
+  return 'live · '+d.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
+}
+
+function escapeHtml(s){
+  return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function groupKey(iso){
+  if(!iso) return '';
+  const d=new Date(iso);
+  const today=new Date();today.setHours(0,0,0,0);
+  const yest=new Date(today);yest.setDate(yest.getDate()-1);
+  const dStart=new Date(d);dStart.setHours(0,0,0,0);
+  if(dStart.getTime()===today.getTime()) return 'Today';
+  if(dStart.getTime()===yest.getTime()) return 'Yesterday';
+  return d.toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric'});
+}
+
+function render(){
+  const q=document.getElementById('search').value.trim().toLowerCase();
+  const src=document.getElementById('srcFilter').value;
+  const cat=document.getElementById('catFilter').value;
+  const tagOnly=document.getElementById('tagOnly').checked;
+
+  let list=STATE.headlines.filter(h=>{
+    if(src && h.source!==src) return false;
+    if(cat && h.category!==cat) return false;
+    if(tagOnly && !(h.tickers||[]).length) return false;
+    if(q){
+      const hay=(h.title+' '+(h.summary||'')+' '+(h.tickers||[]).join(' ')+' '+h.source).toLowerCase();
+      if(!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  document.getElementById('counts').textContent=list.length+' / '+STATE.headlines.length+' shown';
+
+  const stream=document.getElementById('stream');
+  if(!list.length){
+    stream.innerHTML='<div class="empty"><h2>No headlines match</h2><div>Try clearing filters or search</div></div>';
+    return;
+  }
+
+  let html='';
+  let curGroup=null;
+  list.forEach(h=>{
+    const g=groupKey(h.published);
+    if(g!==curGroup){
+      curGroup=g;
+      html+=`<div class="group-header" style="background:#0d1117">${g}</div>`;
+    }
+    const t=fmtTime(h.published);
+    const ticks=(h.tickers||[]).map(t=>`<span class="ticker-chip" onclick="event.stopPropagation();ticker(this,'${t}')">${t}</span>`).join('');
+    const catClass=h.category?'cat-'+h.category:'';
+    html+=`<div class="row" onclick="this.classList.toggle('expand')">
+      <div class="time">${t.hh}<span class="date">${t.dateLabel||''}</span></div>
+      <div class="body">
+        <span class="src ${catClass}" title="${escapeHtml(h.domain||h.source)}">${escapeHtml(h.source)}</span>
+        <span class="title"><a href="${escapeHtml(h.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(h.title)}</a></span>
+        ${h.summary?`<div class="summary">${escapeHtml(h.summary)}</div>`:''}
+        ${ticks?`<div class="tickers">${ticks}</div>`:''}
+      </div>
+    </div>`;
+  });
+  stream.innerHTML=html;
+}
+
+function ticker(el,t){
+  document.getElementById('search').value=t;
+  render();
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function clearFilters(){
+  document.getElementById('search').value='';
+  document.getElementById('srcFilter').value='';
+  document.getElementById('catFilter').value='';
+  document.getElementById('tagOnly').checked=false;
+  render();
+}
+
+function reload(){
+  fetch('data/headlines.json?_t='+Date.now())
+    .then(r=>r.json())
+    .then(doc=>{
+      STATE.headlines=doc.headlines||[];
+      STATE.generated=doc.generated;
+      STATE.sources=new Set(STATE.headlines.map(h=>h.source));
+      STATE.categories=new Set(STATE.headlines.map(h=>h.category).filter(Boolean));
+
+      const srcSel=document.getElementById('srcFilter');
+      const curSrc=srcSel.value;
+      srcSel.innerHTML='<option value="">All</option>'+
+        [...STATE.sources].sort().map(s=>`<option value="${escapeHtml(s)}"${s===curSrc?' selected':''}>${escapeHtml(s)}</option>`).join('');
+
+      const catSel=document.getElementById('catFilter');
+      const curCat=catSel.value;
+      catSel.innerHTML='<option value="">All</option>'+
+        [...STATE.categories].sort().map(c=>`<option value="${escapeHtml(c)}"${c===curCat?' selected':''}>${escapeHtml(c)}</option>`).join('');
+
+      document.getElementById('updated').textContent=fmtUpdated(STATE.generated);
+      document.getElementById('count').textContent=STATE.headlines.length+' headlines';
+      render();
+    })
+    .catch(err=>{
+      document.getElementById('stream').innerHTML='<div class="empty"><h2>Could not load headlines</h2><div>'+escapeHtml(String(err))+'</div></div>';
+    });
+}
+
+reload();
+setInterval(reload,60000);                   // poll JSON every minute
+setInterval(()=>{                              // refresh the "live" label even between polls
+  document.getElementById('updated').textContent=fmtUpdated(STATE.generated);
+},15000);
+</script>
+</body>
+</html>

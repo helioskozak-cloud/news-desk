@@ -1,0 +1,44 @@
+name: Refresh news feed
+
+on:
+  schedule:
+    # Every 10 min during US market hours + extended pre/post (weekdays UTC).
+    # In EDT, 12:00-21:00 UTC ≈ 08:00-17:00 ET.
+    - cron: "*/10 12-21 * * 1-5"
+    # Every 30 min off-hours weekdays.
+    - cron: "*/30 0-11,22-23 * * 1-5"
+    # Hourly on weekends.
+    - cron: "0 * * * 0,6"
+  workflow_dispatch:
+
+concurrency:
+  group: news-refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch news
+        run: python scan/fetch_news.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "news-desk-bot"
+          git config user.email "bot@news-desk"
+          git add docs/data/headlines.json
+          git diff --cached --quiet && echo "No new headlines" || \
+            git commit -m "chore: refresh feed $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main || true
+          git push || true
