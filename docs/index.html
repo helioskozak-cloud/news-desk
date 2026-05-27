@@ -347,9 +347,17 @@ function clearFilters(){
 }
 
 function reload(){
-  fetch('data/headlines.json?_t='+Date.now())
-    .then(r=>r.json())
-    .then(doc=>{
+  // Fetch headlines + stocks in parallel
+  Promise.all([
+    fetch('data/headlines.json?_t='+Date.now()).then(r=>r.json()).catch(()=>null),
+    fetch('data/stocks.json?_t='+Date.now()).then(r=>r.ok?r.json():null).catch(()=>null),
+  ]).then(([doc, stocksDoc])=>{
+    if(stocksDoc) STATE.stocks = stocksDoc.stocks || {};
+    if(!doc){
+      document.getElementById('content').innerHTML='<div class="empty"><h2>FEED ERROR</h2><div>Could not load headlines</div></div>';
+      return;
+    }
+    {
       STATE.headlines = doc.headlines || [];
       STATE.generated = doc.generated;
       STATE.tickerNames = doc.ticker_names || {};
@@ -367,10 +375,8 @@ function reload(){
 
       document.getElementById('updated').textContent = fmtUpdated(STATE.generated);
       render();
-    })
-    .catch(err=>{
-      document.getElementById('content').innerHTML='<div class="empty"><h2>FEED ERROR</h2><div>'+escapeHtml(String(err))+'</div></div>';
-    });
+    }
+  });
 }
 
 reload();
@@ -409,6 +415,46 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
     return Math.floor(diff/(60*24))+'d ago';
   }
 
+  function sparkSVG(closes){
+    if(!closes || closes.length<2) return '';
+    const W=238, H=34;
+    const mn=Math.min(...closes), mx=Math.max(...closes), rng=(mx-mn)||1, n=closes.length;
+    const pts = closes.map((v,i) => `${((i/(n-1))*W).toFixed(1)},${(H-2-((v-mn)/rng)*(H-6)).toFixed(1)}`).join(' ');
+    const col = closes[closes.length-1] >= closes[0] ? '#3fb950' : '#f85149';
+    return `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="display:block;margin-top:5px;overflow:visible">
+      <polyline points="${pts}" fill="none" stroke="${col}" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>`;
+  }
+
+  function priceBlock(ticker){
+    const s = (STATE.stocks||{})[ticker];
+    if(!s) return '';
+    const pc = s.change_pct >= 0 ? '#3fb950' : '#f85149';
+    const sign = s.change_pct >= 0 ? '+' : '';
+    const wkLow = s.wk_low, wkHigh = s.wk_high;
+    const wkRng = (wkHigh - wkLow) || 1;
+    const wkPos = Math.max(0, Math.min(100, ((s.price - wkLow) / wkRng) * 100));
+    const rangeBar = `<div style="margin-top:6px">
+      <div style="display:flex;justify-content:space-between;color:#6e7681;font-size:9px;margin-bottom:2px;font-family:IBM Plex Mono,monospace">
+        <span>$${wkLow.toFixed(2)}</span>
+        <span style="color:#484f58">7d range</span>
+        <span>$${wkHigh.toFixed(2)}</span>
+      </div>
+      <div style="position:relative;height:4px;background:#1c1c1c;border-radius:2px">
+        <div style="position:absolute;left:${wkPos.toFixed(0)}%;top:-2px;width:2px;height:8px;background:${pc};transform:translateX(-1px);border-radius:1px"></div>
+      </div>
+    </div>`;
+    return `<div style="border-top:1px solid #1c1c1c;border-bottom:1px solid #1c1c1c;margin:8px 0;padding:6px 0">
+      <div style="display:flex;align-items:baseline;gap:8px;font-family:IBM Plex Mono,monospace">
+        <span style="color:#f0f6fc;font-size:16px;font-weight:700">$${s.price.toFixed(2)}</span>
+        <span style="color:${pc};font-size:12px;font-weight:700">${sign}${s.change_pct.toFixed(2)}%</span>
+        <span style="color:#484f58;font-size:10px;letter-spacing:.05em">TODAY</span>
+      </div>
+      ${sparkSVG(s.week_closes)}
+      ${rangeBar}
+    </div>`;
+  }
+
   function show(ticker, cx, cy){
     _cx=cx; _cy=cy;
     const headlines = (STATE.headlines||[]).filter(h => (h.tickers||[]).includes(ticker));
@@ -436,12 +482,13 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
 
     tip.innerHTML = ''+
       '<div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">'+
-        `<img src="https://assets.parqet.com/logos/symbol/${ticker}?format=jpg" width="24" height="24" `+
+        `<img src="https://assets.parqet.com/logos/symbol/${ticker}?format=jpg" width="26" height="26" `+
         `style="border-radius:3px;background:#fff;border:1px solid #2a2a2a;object-fit:contain;flex-shrink:0" `+
         `onerror="this.style.display='none'" loading="lazy">`+
-        `<strong style="color:var(--amber);font-family:IBM Plex Mono,monospace;font-size:15px;letter-spacing:.04em">${ticker}</strong>`+
+        `<strong style="color:var(--amber);font-family:IBM Plex Mono,monospace;font-size:16px;letter-spacing:.04em">${ticker}</strong>`+
       '</div>'+
-      (name ? `<div style="color:var(--muted);font-size:11px;margin-bottom:6px">${escapeHtml(name)}</div>` : '')+
+      (name ? `<div style="color:var(--muted);font-size:11px;margin-bottom:4px">${escapeHtml(name)}</div>` : '')+
+      priceBlock(ticker)+
       `<div style="color:var(--text);font-size:11px;font-family:IBM Plex Mono,monospace"><strong style="color:var(--amber)">${total}</strong> headline${total===1?'':'s'} in feed</div>`+
       typeChips+
       recentList+
