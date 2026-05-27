@@ -3,102 +3,185 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>news-desk · live financial headlines</title>
+<title>NEWS-DESK · TERMINAL</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg:#0d1117; --card:#161b22; --border:#30363d; --muted:#6e7681; --text:#c9d1d9;
-    --bright:#f0f6fc; --accent:#58a6ff; --green:#3fb950; --red:#f85149; --yellow:#e3b341;
+    --bg:#000;
+    --panel:#0a0a0a;
+    --row:#0f0f0f;
+    --row-alt:#131313;
+    --border:#1f1f1f;
+    --border-bright:#2a2a2a;
+    --text:#d4d4d4;
+    --bright:#fff;
+    --muted:#6b6b6b;
+    --dim:#3a3a3a;
+    --amber:#ff9b00;
+    --amber-soft:#ff9b0033;
+    --cyan:#00d4ff;
+    --green:#00ff7f;
+    --red:#ff3b3b;
+    --magenta:#ff5cc8;
+    --blue:#5fa8ff;
+    --yellow:#ffd84d;
   }
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;font-size:14px;line-height:1.5}
-  a{color:var(--accent);text-decoration:none}
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',-apple-system,sans-serif;font-size:13px;line-height:1.4;overflow-x:hidden}
+  ::-webkit-scrollbar{width:10px;height:10px}
+  ::-webkit-scrollbar-track{background:#000}
+  ::-webkit-scrollbar-thumb{background:var(--border-bright);border-radius:5px}
+  ::-webkit-scrollbar-thumb:hover{background:#404040}
+  a{color:var(--cyan);text-decoration:none}
   a:hover{text-decoration:underline}
 
-  header{background:var(--card);border-bottom:1px solid var(--border);padding:14px 20px;position:sticky;top:0;z-index:10;backdrop-filter:saturate(180%) blur(10px)}
-  header h1{margin:0;font-size:18px;font-weight:700;color:var(--bright);letter-spacing:-.01em;display:inline-block}
-  header .sub{color:var(--muted);font-size:12px;margin-left:10px}
-  header .meta{float:right;font-size:11px;color:var(--muted);text-align:right}
-  header .meta strong{color:var(--text);font-weight:600}
-  .live-dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--green);margin-right:5px;animation:pulse 2.4s infinite ease-in-out;vertical-align:middle}
-  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+  /* ── Top bar (function-key style) ─────────────────────────── */
+  .topbar{position:sticky;top:0;z-index:100;background:#000;border-bottom:1px solid var(--amber);padding:6px 12px;display:flex;align-items:center;gap:14px;font-family:'IBM Plex Mono',monospace;font-size:11px;flex-wrap:wrap}
+  .topbar .brand{color:var(--amber);font-weight:700;letter-spacing:.15em;font-size:13px}
+  .topbar .brand span{color:var(--muted);font-weight:400;letter-spacing:.05em;margin-left:6px}
+  .topbar .clock{color:var(--green);font-weight:600;margin-left:auto}
+  .topbar .clock .label{color:var(--muted);margin-right:6px;font-weight:400}
+  .topbar .live{color:var(--green);display:inline-flex;align-items:center;gap:5px}
+  .topbar .live::before{content:'';width:7px;height:7px;border-radius:50%;background:var(--green);animation:pulse 2s infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
 
-  .toolbar{padding:14px 20px;border-bottom:1px solid var(--border);display:flex;gap:10px;flex-wrap:wrap;align-items:center;background:var(--card)}
-  .toolbar input,.toolbar select{background:#21262d;border:1px solid var(--border);color:var(--text);padding:5px 10px;border-radius:6px;font-size:12px}
+  /* ── View tabs ────────────────────────────────────────────── */
+  .tabs{background:#050505;border-bottom:1px solid var(--border-bright);padding:0 12px;display:flex;gap:0;font-family:'IBM Plex Mono',monospace;font-size:11px;overflow-x:auto;scrollbar-width:none}
+  .tabs::-webkit-scrollbar{display:none}
+  .tab{padding:9px 16px;color:var(--muted);background:none;border:none;cursor:pointer;font-family:inherit;font-size:11px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;border-bottom:2px solid transparent;white-space:nowrap}
+  .tab:hover{color:var(--text)}
+  .tab.active{color:var(--amber);border-bottom-color:var(--amber);background:#0a0a0a}
+  .tab .count{color:var(--muted);font-weight:400;margin-left:6px}
+  .tab.active .count{color:var(--text)}
+
+  /* ── Toolbar ──────────────────────────────────────────────── */
+  .toolbar{background:#080808;border-bottom:1px solid var(--border);padding:8px 12px;display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-family:'IBM Plex Mono',monospace;font-size:11px}
+  .toolbar input,.toolbar select{background:#000;border:1px solid var(--border-bright);color:var(--text);padding:4px 8px;border-radius:0;font-family:inherit;font-size:11px}
   .toolbar input[type="text"]{width:200px}
-  .toolbar input:focus,.toolbar select:focus{border-color:var(--accent);outline:none}
-  .toolbar .lbl{color:var(--muted);font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;margin-right:-4px}
-  .toolbar button{background:none;border:1px solid var(--border);color:var(--muted);padding:5px 10px;border-radius:6px;font-size:12px;cursor:pointer}
-  .toolbar button:hover{color:var(--text);border-color:var(--muted)}
+  .toolbar input:focus,.toolbar select:focus{border-color:var(--amber);outline:none}
+  .toolbar .lbl{color:var(--muted);text-transform:uppercase;letter-spacing:.05em;font-weight:600}
+  .toolbar button{background:none;border:1px solid var(--border-bright);color:var(--muted);padding:4px 10px;font-family:inherit;font-size:11px;cursor:pointer}
+  .toolbar button:hover{color:var(--amber);border-color:var(--amber)}
+  .toolbar .spacer{margin-left:auto;color:var(--muted)}
 
-  main{max-width:920px;margin:0 auto;padding:18px 20px 80px}
-  .stream{display:flex;flex-direction:column;gap:1px;background:var(--border);border:1px solid var(--border);border-radius:8px;overflow:hidden}
-  .row{background:var(--card);padding:11px 14px;display:grid;grid-template-columns:90px 1fr;gap:14px;align-items:start;cursor:pointer;transition:background .12s}
-  .row:hover{background:#1c2128}
-  .row .time{color:var(--muted);font-size:11px;font-family:ui-monospace,SFMono-Regular,Consolas,monospace;padding-top:1px;white-space:nowrap}
-  .row .time .date{display:block;color:#484f58;font-size:10px;margin-top:1px}
-  .row .body{min-width:0}
-  .row .src{display:inline-block;font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);background:#21262d;border:1px solid var(--border);padding:1px 7px;border-radius:10px;margin-right:8px;vertical-align:middle}
-  .row .cat-press{color:#bc8cff;border-color:#5e3ea7}
-  .row .cat-filings{color:#e3b341;border-color:#806a26}
-  .row .cat-earnings{color:#3fb950;border-color:#1e6029}
-  .row .cat-macro{color:#58a6ff;border-color:#1f4d8a}
-  .row .title{color:var(--bright);font-weight:500;font-size:14px;line-height:1.4}
-  .row .title a{color:inherit;background-image:linear-gradient(currentColor,currentColor);background-position:0 100%;background-repeat:no-repeat;background-size:0 1px;transition:background-size .25s}
-  .row:hover .title a{background-size:100% 1px}
-  .row .summary{color:var(--muted);font-size:12px;margin-top:4px;line-height:1.5;display:none}
+  /* ── Stream view ──────────────────────────────────────────── */
+  .stream{font-family:'IBM Plex Sans',sans-serif}
+  .grp{background:#000;color:var(--amber);padding:14px 12px 4px;font-family:'IBM Plex Mono',monospace;font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.15em;border-bottom:1px solid var(--border)}
+  .row{display:grid;grid-template-columns:60px 80px 1fr 130px;gap:10px;padding:6px 12px;background:var(--row);border-bottom:1px solid var(--border);align-items:start;cursor:pointer;transition:background .08s}
+  .row:nth-child(even){background:var(--row-alt)}
+  .row:hover{background:#1a1a1a}
+  .row .time{font-family:'IBM Plex Mono',monospace;color:var(--muted);font-size:11px;padding-top:1px;white-space:nowrap}
+  .row .ticks{display:flex;flex-wrap:wrap;gap:3px;padding-top:1px}
+  .row .ticks .t{background:transparent;color:var(--amber);font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:700;padding:1px 5px;border:1px solid var(--amber-soft);cursor:pointer}
+  .row .ticks .t:hover{background:var(--amber-soft)}
+  .row .title{color:var(--bright);font-size:13px;font-weight:500;line-height:1.42;min-width:0;overflow-wrap:break-word}
+  .row .title a{color:inherit}
+  .row .title a:hover{color:var(--amber);text-decoration:none}
+  .row .meta{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted);text-align:right;white-space:nowrap;padding-top:2px}
+  .row .meta .typ{display:inline-block;color:var(--muted);text-transform:uppercase;font-weight:600;letter-spacing:.05em;padding:0 4px;border:1px solid var(--border-bright);margin-right:4px}
+  .row .meta .src{color:var(--muted);font-weight:500}
+  .row .summary{grid-column:2 / -1;display:none;color:var(--muted);font-size:12px;padding:6px 0 4px;line-height:1.55;border-top:1px dashed var(--border);margin-top:6px}
   .row.expand .summary{display:block}
-  .tickers{margin-top:6px;display:flex;gap:5px;flex-wrap:wrap}
-  .ticker-chip{background:rgba(88,166,255,.10);color:var(--accent);border:1px solid rgba(88,166,255,.30);font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:11px;font-weight:600;padding:1px 7px;border-radius:4px;cursor:pointer}
-  .ticker-chip:hover{background:rgba(88,166,255,.20)}
 
+  /* Type color codes (Bloomberg-ish) */
+  .typ-upgrade{color:var(--green) !important;border-color:#1f5e2e !important}
+  .typ-downgrade{color:var(--red) !important;border-color:#5e1f1f !important}
+  .typ-analyst{color:var(--cyan) !important;border-color:#1f4d5e !important}
+  .typ-earnings{color:var(--yellow) !important;border-color:#5e571f !important}
+  .typ-ma{color:var(--magenta) !important;border-color:#5e1f4d !important}
+  .typ-fda{color:#5fff9e !important;border-color:#1f5e3e !important}
+  .typ-legal{color:#ff7a45 !important;border-color:#5e3e1f !important}
+  .typ-guidance{color:var(--yellow) !important;border-color:#5e571f !important}
+  .typ-dividend{color:var(--cyan) !important;border-color:#1f4d5e !important}
+  .typ-offering{color:#a78bfa !important;border-color:#3e1f5e !important}
+  .typ-8k{color:#fbbf24 !important;border-color:#5e441f !important}
+  .typ-macro{color:var(--blue) !important;border-color:#1f3e5e !important}
+  .typ-press{color:#a78bfa !important;border-color:#3e1f5e !important}
+  .typ-filings{color:#fbbf24 !important;border-color:#5e441f !important}
+
+  /* ── In Play view ─────────────────────────────────────────── */
+  .play-ticker-bar{background:#080808;color:var(--amber);padding:10px 12px;border-bottom:1px solid var(--border);font-family:'IBM Plex Mono',monospace;font-size:11px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+  .play-ticker-bar .lbl{color:var(--muted);text-transform:uppercase;letter-spacing:.1em;margin-right:8px}
+  .play-ticker-bar .t{color:var(--amber);border:1px solid var(--amber-soft);padding:2px 8px;cursor:pointer;font-weight:700}
+  .play-ticker-bar .t:hover{background:var(--amber-soft)}
+  .play-ticker-bar .t.active{background:var(--amber);color:#000}
+  .play-row{display:grid;grid-template-columns:60px 70px 1fr 90px 110px;gap:10px;padding:7px 12px;background:var(--row);border-bottom:1px solid var(--border);align-items:start;cursor:pointer}
+  .play-row:nth-child(even){background:var(--row-alt)}
+  .play-row:hover{background:#1a1a1a}
+  .play-row .time{font-family:'IBM Plex Mono',monospace;color:var(--muted);font-size:11px;white-space:nowrap;padding-top:1px}
+  .play-row .ticker{font-family:'IBM Plex Mono',monospace;color:var(--amber);font-size:14px;font-weight:700;letter-spacing:.02em;padding-top:0}
+  .play-row .multi{font-family:'IBM Plex Mono',monospace;color:var(--muted);font-size:10px;padding-top:2px}
+  .play-row .body{min-width:0}
+  .play-row .body .typ{font-family:'IBM Plex Mono',monospace;font-size:10px;text-transform:uppercase;font-weight:700;letter-spacing:.06em;padding:1px 5px;border:1px solid var(--border-bright);color:var(--muted);margin-right:6px;display:inline-block}
+  .play-row .body .title{color:var(--bright);font-weight:500;font-size:13px;line-height:1.4}
+  .play-row .body .title a{color:inherit}
+  .play-row .body .title a:hover{color:var(--amber);text-decoration:none}
+  .play-row .src{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted);text-align:right;white-space:nowrap;padding-top:2px}
+  .play-row .open{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted);text-align:right;padding-top:2px}
+
+  /* ── Empty / loading ──────────────────────────────────────── */
   .empty{padding:60px 20px;text-align:center;color:var(--muted)}
-  .empty h2{color:var(--text);font-weight:500;margin:0 0 8px}
+  .empty h2{color:var(--text);font-weight:500;margin-bottom:8px;font-family:'IBM Plex Mono',monospace;font-size:14px;letter-spacing:.1em;text-transform:uppercase}
 
-  .group-header{background:#0d1117;border:none;color:var(--muted);font-size:10px;text-transform:uppercase;letter-spacing:.7px;padding:14px 14px 6px;font-weight:600}
-
-  @media (max-width:640px){
-    .row{grid-template-columns:1fr;gap:6px}
-    .row .time{font-size:10px}
-    .row .time .date{display:inline;margin-left:6px}
-    .toolbar{padding:10px 14px}
-    .toolbar input[type="text"]{width:140px}
-    header{padding:10px 14px}
-    header .meta{font-size:10px}
-    main{padding:14px 10px 60px}
+  @media (max-width:760px){
+    .row{grid-template-columns:52px 1fr;gap:6px}
+    .row .meta,.row .ticks{grid-column:2}
+    .play-row{grid-template-columns:50px 64px 1fr}
+    .play-row .src,.play-row .open{grid-column:2 / -1;text-align:left}
+    .topbar{font-size:10px}
   }
 </style>
 </head>
 <body>
 
-<header>
-  <h1>news-desk</h1>
-  <span class="sub">live financial headlines</span>
-  <div class="meta">
-    <span class="live-dot"></span><strong id="updated">—</strong><br>
-    <span id="count">0 headlines</span> · <a href="#" onclick="event.preventDefault();reload()">refresh</a>
-  </div>
-  <div style="clear:both"></div>
-</header>
+<div class="topbar">
+  <span class="brand">NEWS-DESK <span>v0.2 · TERMINAL</span></span>
+  <span class="live" id="live">LIVE</span>
+  <span class="muted" id="updated" style="color:var(--muted);font-family:'IBM Plex Mono',monospace">—</span>
+  <span class="clock"><span class="label">UTC</span><span id="clock">—</span></span>
+</div>
+
+<div class="tabs">
+  <button class="tab active" data-view="stream" onclick="switchView('stream')">STREAM <span class="count" id="count-stream">0</span></button>
+  <button class="tab" data-view="inplay" onclick="switchView('inplay')">IN PLAY <span class="count" id="count-inplay">0</span></button>
+  <button class="tab" data-view="macro" onclick="switchView('macro')">MACRO <span class="count" id="count-macro">0</span></button>
+  <button class="tab" data-view="filings" onclick="switchView('filings')">FILINGS <span class="count" id="count-filings">0</span></button>
+</div>
 
 <div class="toolbar">
   <span class="lbl">Search</span>
-  <input type="text" id="search" placeholder="headline or ticker…" oninput="render()">
+  <input type="text" id="search" placeholder="headline / ticker / source" oninput="render()">
   <span class="lbl">Source</span>
   <select id="srcFilter" onchange="render()"><option value="">All</option></select>
-  <span class="lbl">Category</span>
-  <select id="catFilter" onchange="render()"><option value="">All</option></select>
-  <span class="lbl">Tickers only</span>
-  <input type="checkbox" id="tagOnly" onchange="render()" style="vertical-align:middle">
-  <button onclick="clearFilters()">Clear</button>
-  <span style="margin-left:auto;color:var(--muted);font-size:11px" id="counts"></span>
+  <span class="lbl">Type</span>
+  <select id="typeFilter" onchange="render()"><option value="">All</option></select>
+  <button onclick="clearFilters()">CLR</button>
+  <span class="spacer" id="counts">0 / 0</span>
 </div>
 
-<main>
-  <div id="stream" class="stream"><div class="empty"><h2>Loading…</h2><div>Fetching latest headlines</div></div></div>
-</main>
+<div id="content"></div>
 
 <script>
-let STATE={headlines:[],generated:null,sources:new Set(),categories:new Set()};
+const STATE = {
+  headlines: [],
+  generated: null,
+  view: 'stream',
+  topTickers: [],
+  selectedTicker: null,
+};
+
+function tick(){
+  const now=new Date();
+  const hh=String(now.getUTCHours()).padStart(2,'0');
+  const mm=String(now.getUTCMinutes()).padStart(2,'0');
+  const ss=String(now.getUTCSeconds()).padStart(2,'0');
+  const el=document.getElementById('clock');
+  if(el) el.textContent=`${hh}:${mm}:${ss}`;
+}
+setInterval(tick,1000);
+tick();
 
 function fmtTime(iso){
   if(!iso) return '';
@@ -106,25 +189,20 @@ function fmtTime(iso){
   if(isNaN(d)) return iso;
   const now=new Date();
   const diffMin=(now-d)/60000;
-  const hh=d.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit',hour12:false});
-  let dateLabel='';
-  if(diffMin<60*8){
-    if(diffMin<1) dateLabel='just now';
-    else if(diffMin<60) dateLabel=Math.floor(diffMin)+'m ago';
-    else dateLabel=Math.floor(diffMin/60)+'h ago';
-  } else {
-    dateLabel=d.toLocaleDateString('en-US',{month:'short',day:'numeric'});
-  }
-  return {hh, dateLabel};
+  const hh=String(d.getUTCHours()).padStart(2,'0')+':'+String(d.getUTCMinutes()).padStart(2,'0');
+  if(diffMin<1) return {hh, rel:'NOW'};
+  if(diffMin<60) return {hh, rel:Math.floor(diffMin)+'M'};
+  if(diffMin<60*8) return {hh, rel:Math.floor(diffMin/60)+'H'};
+  return {hh, rel:d.toLocaleDateString('en-US',{month:'numeric',day:'numeric'})};
 }
 
 function fmtUpdated(iso){
-  if(!iso) return '—';
+  if(!iso) return 'NO DATA';
   const d=new Date(iso);
   const diff=(new Date()-d)/1000;
-  if(diff<60) return 'live · just now';
-  if(diff<3600) return 'live · '+Math.floor(diff/60)+'m ago';
-  return 'live · '+d.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
+  if(diff<60) return 'JUST NOW';
+  if(diff<3600) return Math.floor(diff/60)+'M AGO';
+  return d.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit',hour12:false,timeZone:'UTC'})+' UTC';
 }
 
 function escapeHtml(s){
@@ -134,74 +212,137 @@ function escapeHtml(s){
 function groupKey(iso){
   if(!iso) return '';
   const d=new Date(iso);
-  const today=new Date();today.setHours(0,0,0,0);
-  const yest=new Date(today);yest.setDate(yest.getDate()-1);
-  const dStart=new Date(d);dStart.setHours(0,0,0,0);
-  if(dStart.getTime()===today.getTime()) return 'Today';
-  if(dStart.getTime()===yest.getTime()) return 'Yesterday';
-  return d.toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric'});
+  const today=new Date(); today.setUTCHours(0,0,0,0);
+  const yest=new Date(today); yest.setUTCDate(yest.getUTCDate()-1);
+  const dStart=new Date(d); dStart.setUTCHours(0,0,0,0);
+  if(dStart.getTime()===today.getTime()) return 'TODAY';
+  if(dStart.getTime()===yest.getTime()) return 'YESTERDAY';
+  return d.toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric',timeZone:'UTC'}).toUpperCase();
 }
 
-function render(){
+function computeTopTickers(headlines, n=20){
+  const map = {};
+  headlines.forEach(h => (h.tickers||[]).forEach(t => { map[t] = (map[t]||0)+1; }));
+  return Object.entries(map).sort((a,b)=>b[1]-a[1]).slice(0,n);
+}
+
+function applyFilters(headlines){
   const q=document.getElementById('search').value.trim().toLowerCase();
   const src=document.getElementById('srcFilter').value;
-  const cat=document.getElementById('catFilter').value;
-  const tagOnly=document.getElementById('tagOnly').checked;
+  const typ=document.getElementById('typeFilter').value;
 
-  let list=STATE.headlines.filter(h=>{
+  return headlines.filter(h=>{
     if(src && h.source!==src) return false;
-    if(cat && h.category!==cat) return false;
-    if(tagOnly && !(h.tickers||[]).length) return false;
+    if(typ && h.type!==typ) return false;
+    if(STATE.selectedTicker && !(h.tickers||[]).includes(STATE.selectedTicker)) return false;
     if(q){
       const hay=(h.title+' '+(h.summary||'')+' '+(h.tickers||[]).join(' ')+' '+h.source).toLowerCase();
       if(!hay.includes(q)) return false;
     }
     return true;
   });
+}
 
-  document.getElementById('counts').textContent=list.length+' / '+STATE.headlines.length+' shown';
-
-  const stream=document.getElementById('stream');
-  if(!list.length){
-    stream.innerHTML='<div class="empty"><h2>No headlines match</h2><div>Try clearing filters or search</div></div>';
-    return;
-  }
-
-  let html='';
+function renderStream(list){
+  if(!list.length) return '<div class="empty"><h2>NO HEADLINES MATCH</h2><div>Clear filters or refine your search</div></div>';
+  let html='<div class="stream">';
   let curGroup=null;
   list.forEach(h=>{
     const g=groupKey(h.published);
-    if(g!==curGroup){
-      curGroup=g;
-      html+=`<div class="group-header" style="background:#0d1117">${g}</div>`;
-    }
+    if(g!==curGroup){curGroup=g;html+=`<div class="grp">${g}</div>`;}
     const t=fmtTime(h.published);
-    const ticks=(h.tickers||[]).map(t=>`<span class="ticker-chip" onclick="event.stopPropagation();ticker(this,'${t}')">${t}</span>`).join('');
-    const catClass=h.category?'cat-'+h.category:'';
+    const ticks=(h.tickers||[]).map(tk=>`<span class="t" onclick="event.stopPropagation();pickTicker('${tk}')">${tk}</span>`).join('');
+    const typ=h.type||'news';
     html+=`<div class="row" onclick="this.classList.toggle('expand')">
-      <div class="time">${t.hh}<span class="date">${t.dateLabel||''}</span></div>
-      <div class="body">
-        <span class="src ${catClass}" title="${escapeHtml(h.domain||h.source)}">${escapeHtml(h.source)}</span>
-        <span class="title"><a href="${escapeHtml(h.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(h.title)}</a></span>
-        ${h.summary?`<div class="summary">${escapeHtml(h.summary)}</div>`:''}
-        ${ticks?`<div class="tickers">${ticks}</div>`:''}
-      </div>
+      <div class="time">${t.hh}<br><span style="color:var(--dim);font-size:10px">${t.rel||''}</span></div>
+      <div class="ticks">${ticks||'<span style="color:var(--dim);font-size:10px">·</span>'}</div>
+      <div class="title"><a href="${escapeHtml(h.link)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">${escapeHtml(h.title)}</a>${h.summary?`<div class="summary">${escapeHtml(h.summary)}</div>`:''}</div>
+      <div class="meta"><span class="typ typ-${typ}">${typ}</span><br><span class="src">${escapeHtml(h.source)}</span></div>
     </div>`;
   });
-  stream.innerHTML=html;
+  html+='</div>';
+  return html;
 }
 
-function ticker(el,t){
-  document.getElementById('search').value=t;
+function renderInPlay(list){
+  // Only headlines with tickers; sorted by recency
+  const filtered = list.filter(h => (h.tickers||[]).length > 0);
+  // Top-ticker quick-filter bar
+  const top = computeTopTickers(filtered, 20);
+  const bar = `<div class="play-ticker-bar"><span class="lbl">Most Active</span>${top.map(([t,c])=>`<span class="t ${STATE.selectedTicker===t?'active':''}" onclick="pickTicker('${t}')">${t} <span style="opacity:.6;font-weight:400">${c}</span></span>`).join('')}${STATE.selectedTicker?` <button onclick="pickTicker(null)" style="background:none;border:1px solid var(--amber);color:var(--amber);padding:2px 8px;font-family:inherit;font-size:11px;cursor:pointer;margin-left:8px">✕ ${STATE.selectedTicker}</button>`:''}</div>`;
+
+  if(!filtered.length) return bar + '<div class="empty"><h2>NO ACTIVE TICKERS</h2><div>No ticker-tagged headlines match your filters</div></div>';
+
+  let html=bar+'<div>';
+  let curGroup=null;
+  filtered.forEach(h=>{
+    const g=groupKey(h.published);
+    if(g!==curGroup){curGroup=g;html+=`<div class="grp">${g}</div>`;}
+    const t=fmtTime(h.published);
+    const primary=h.tickers[0];
+    const others=h.tickers.slice(1);
+    const typ=h.type||'news';
+    html+=`<div class="play-row" onclick="window.open('${escapeHtml(h.link)}','_blank')">
+      <div class="time">${t.hh}<br><span style="color:var(--dim);font-size:10px">${t.rel||''}</span></div>
+      <div>
+        <div class="ticker" onclick="event.stopPropagation();pickTicker('${primary}')">${primary}</div>
+        ${others.length?`<div class="multi">${others.join(' ')}</div>`:''}
+      </div>
+      <div class="body"><span class="typ typ-${typ}">${typ}</span><span class="title">${escapeHtml(h.title)}</span></div>
+      <div class="src">${escapeHtml(h.source)}</div>
+      <div class="open"><a href="${escapeHtml(h.link)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()" style="color:var(--muted)">OPEN ↗</a></div>
+    </div>`;
+  });
+  html+='</div>';
+  return html;
+}
+
+function render(){
+  let list = applyFilters(STATE.headlines);
+
+  // View-specific scoping
+  if(STATE.view==='macro'){
+    list = list.filter(h => !(h.tickers||[]).length && (h.type==='macro' || h.category==='macro'));
+  } else if(STATE.view==='filings'){
+    list = list.filter(h => h.category==='filings' || h.type==='8k' || h.type==='filings');
+  }
+
+  document.getElementById('counts').textContent = list.length+' / '+STATE.headlines.length+' shown';
+
+  // Counts on tab labels
+  document.getElementById('count-stream').textContent = STATE.headlines.length;
+  document.getElementById('count-inplay').textContent = STATE.headlines.filter(h=>(h.tickers||[]).length).length;
+  document.getElementById('count-macro').textContent = STATE.headlines.filter(h => !(h.tickers||[]).length && (h.type==='macro' || h.category==='macro')).length;
+  document.getElementById('count-filings').textContent = STATE.headlines.filter(h => h.category==='filings' || h.type==='8k' || h.type==='filings').length;
+
+  const content = document.getElementById('content');
+  if(STATE.view==='inplay'){
+    content.innerHTML = renderInPlay(list);
+  } else {
+    content.innerHTML = renderStream(list);
+  }
+}
+
+function pickTicker(t){
+  STATE.selectedTicker = (STATE.selectedTicker===t) ? null : t;
+  if(STATE.view !== 'inplay') STATE.view = 'inplay';
+  document.querySelectorAll('.tab').forEach(b=>b.classList.toggle('active', b.dataset.view===STATE.view));
   render();
   window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function switchView(v){
+  STATE.view = v;
+  STATE.selectedTicker = null;
+  document.querySelectorAll('.tab').forEach(b=>b.classList.toggle('active', b.dataset.view===v));
+  render();
 }
 
 function clearFilters(){
   document.getElementById('search').value='';
   document.getElementById('srcFilter').value='';
-  document.getElementById('catFilter').value='';
-  document.getElementById('tagOnly').checked=false;
+  document.getElementById('typeFilter').value='';
+  STATE.selectedTicker = null;
   render();
 }
 
@@ -209,35 +350,31 @@ function reload(){
   fetch('data/headlines.json?_t='+Date.now())
     .then(r=>r.json())
     .then(doc=>{
-      STATE.headlines=doc.headlines||[];
-      STATE.generated=doc.generated;
-      STATE.sources=new Set(STATE.headlines.map(h=>h.source));
-      STATE.categories=new Set(STATE.headlines.map(h=>h.category).filter(Boolean));
+      STATE.headlines = doc.headlines || [];
+      STATE.generated = doc.generated;
 
-      const srcSel=document.getElementById('srcFilter');
-      const curSrc=srcSel.value;
-      srcSel.innerHTML='<option value="">All</option>'+
-        [...STATE.sources].sort().map(s=>`<option value="${escapeHtml(s)}"${s===curSrc?' selected':''}>${escapeHtml(s)}</option>`).join('');
+      const sources = [...new Set(STATE.headlines.map(h=>h.source))].sort();
+      const types = [...new Set(STATE.headlines.map(h=>h.type).filter(Boolean))].sort();
 
-      const catSel=document.getElementById('catFilter');
-      const curCat=catSel.value;
-      catSel.innerHTML='<option value="">All</option>'+
-        [...STATE.categories].sort().map(c=>`<option value="${escapeHtml(c)}"${c===curCat?' selected':''}>${escapeHtml(c)}</option>`).join('');
+      const srcSel = document.getElementById('srcFilter');
+      const curSrc = srcSel.value;
+      srcSel.innerHTML = '<option value="">All</option>'+sources.map(s=>`<option value="${escapeHtml(s)}"${s===curSrc?' selected':''}>${escapeHtml(s)}</option>`).join('');
 
-      document.getElementById('updated').textContent=fmtUpdated(STATE.generated);
-      document.getElementById('count').textContent=STATE.headlines.length+' headlines';
+      const typSel = document.getElementById('typeFilter');
+      const curTyp = typSel.value;
+      typSel.innerHTML = '<option value="">All</option>'+types.map(t=>`<option value="${escapeHtml(t)}"${t===curTyp?' selected':''}>${escapeHtml(t.toUpperCase())}</option>`).join('');
+
+      document.getElementById('updated').textContent = fmtUpdated(STATE.generated);
       render();
     })
     .catch(err=>{
-      document.getElementById('stream').innerHTML='<div class="empty"><h2>Could not load headlines</h2><div>'+escapeHtml(String(err))+'</div></div>';
+      document.getElementById('content').innerHTML='<div class="empty"><h2>FEED ERROR</h2><div>'+escapeHtml(String(err))+'</div></div>';
     });
 }
 
 reload();
-setInterval(reload,60000);                   // poll JSON every minute
-setInterval(()=>{                              // refresh the "live" label even between polls
-  document.getElementById('updated').textContent=fmtUpdated(STATE.generated);
-},15000);
+setInterval(reload, 60000);
+setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STATE.generated);}, 15000);
 </script>
 </body>
 </html>
