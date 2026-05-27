@@ -27,6 +27,7 @@ ROOT = Path(__file__).parent.parent
 DATA = ROOT / "docs" / "data"
 TICKERS_FILE = Path(__file__).parent / "universe_tickers.csv"
 NAMES_FILE   = Path(__file__).parent / "universe_names.csv"
+ALIASES_FILE = Path(__file__).parent / "universe_aliases.csv"
 HEADLINES_PATH = DATA / "headlines.json"
 
 MAX_KEEP = 600
@@ -82,23 +83,32 @@ def load_tickers() -> set[str]:
 
 
 def load_name_map() -> list[tuple[str, str]]:
-    """Return list of (company_name_regex_pattern, ticker), longest-first."""
-    if not NAMES_FILE.exists():
-        return []
-    pairs = []
-    for line in NAMES_FILE.read_text(encoding="utf-8").splitlines():
-        s = line.strip()
-        if not s or s.startswith("#"):
+    """Return list of (company_name, ticker), longest-first. Pulls from BOTH
+    universe_names.csv (canonical names) and universe_aliases.csv (brand /
+    product / subsidiary aliases). De-duped by lowercase name."""
+    pairs: list[tuple[str, str]] = []
+    seen_keys = set()
+
+    for path in (NAMES_FILE, ALIASES_FILE):
+        if not path.exists():
             continue
-        parts = s.split(",", 1)
-        if len(parts) != 2:
-            continue
-        ticker = parts[0].strip().upper()
-        name = parts[1].strip()
-        if not name or not ticker:
-            continue
-        pairs.append((name, ticker))
-    # Longest names first so "JPMorgan Chase" beats "JPMorgan"
+        for line in path.read_text(encoding="utf-8").splitlines():
+            s = line.strip()
+            if not s or s.startswith("#"):
+                continue
+            parts = s.split(",", 1)
+            if len(parts) != 2:
+                continue
+            ticker = parts[0].strip().upper()
+            name = parts[1].strip()
+            if not name or not ticker or len(name) < 3:
+                continue
+            key = name.lower()
+            if key in seen_keys:
+                continue
+            seen_keys.add(key)
+            pairs.append((name, ticker))
+
     pairs.sort(key=lambda p: -len(p[0]))
     return pairs
 
@@ -151,14 +161,18 @@ def extract_tickers(text: str) -> list[str]:
         if t in TICKERS and t not in TICKER_BLOCKLIST:
             found[t] = found.get(t, 0) + 1
 
-    # Company-name matches (case-sensitive — proper-noun company names start
-    # with a capital in news copy; "Apple" matches but "apple" the fruit doesn't)
+    # Company-name + alias matches (case-sensitive — proper-noun company
+    # names start with a capital in news copy; "Apple" matches but "apple"
+    # the fruit doesn't). Allow optional possessive 's / ' suffix.
     for name, ticker in NAME_MAP:
         if ticker in TICKER_BLOCKLIST:
             continue
         try:
-            if re.search(r"\b" + re.escape(name) + r"\b", text):
-                found[ticker] = found.get(ticker, 0) + 3
+            # \b name (?:'s|’s|')? \b — possessive optional
+            pattern = r"\b" + re.escape(name) + r"(?:'s|’s|')?\b"
+            if re.search(pattern, text):
+                # Boost name matches over bare-token matches
+                found[ticker] = found.get(ticker, 0) + 4
         except re.error:
             continue
 
@@ -301,11 +315,21 @@ def main():
     tagged_pct = (sum(1 for h in combined if h["tickers"]) / max(1, len(combined))) * 100
     print(f"\nFinal: {len(combined)} headlines, {tagged_pct:.0f}% ticker-tagged", flush=True)
 
+    # Build a ticker -> canonical name map for tickers actually present in
+    # the feed (used by the UI tooltip). Pick the first name pair that matches.
+    tickers_in_feed = {tk for h in combined for tk in h.get("tickers", [])}
+    name_lookup = {}
+    for name, ticker in NAME_MAP:
+        if ticker in tickers_in_feed and ticker not in name_lookup:
+            name_lookup[ticker] = name
+    print(f"Built ticker_names map for {len(name_lookup)} symbols", flush=True)
+
     payload = {
         "generated":    datetime.now(timezone.utc).isoformat(),
         "feed_count":   len(FEEDS),
         "ticker_universe_size": len(TICKERS),
         "headlines":    combined,
+        "ticker_names": name_lookup,
     }
     HEADLINES_PATH.write_text(json.dumps(payload, indent=1, ensure_ascii=False), encoding="utf-8")
     print(f"Wrote {HEADLINES_PATH.relative_to(ROOT)}", flush=True)

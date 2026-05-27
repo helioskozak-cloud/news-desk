@@ -251,7 +251,7 @@ function renderStream(list){
     const g=groupKey(h.published);
     if(g!==curGroup){curGroup=g;html+=`<div class="grp">${g}</div>`;}
     const t=fmtTime(h.published);
-    const ticks=(h.tickers||[]).map(tk=>`<span class="t" onclick="event.stopPropagation();pickTicker('${tk}')">${tk}</span>`).join('');
+    const ticks=(h.tickers||[]).map(tk=>`<span class="t" data-ticker="${tk}" onclick="event.stopPropagation();pickTicker('${tk}')">${tk}</span>`).join('');
     const typ=h.type||'news';
     html+=`<div class="row" onclick="this.classList.toggle('expand')">
       <div class="time">${t.hh}<br><span style="color:var(--dim);font-size:10px">${t.rel||''}</span></div>
@@ -285,8 +285,8 @@ function renderInPlay(list){
     html+=`<div class="play-row" onclick="window.open('${escapeHtml(h.link)}','_blank')">
       <div class="time">${t.hh}<br><span style="color:var(--dim);font-size:10px">${t.rel||''}</span></div>
       <div>
-        <div class="ticker" onclick="event.stopPropagation();pickTicker('${primary}')">${primary}</div>
-        ${others.length?`<div class="multi">${others.join(' ')}</div>`:''}
+        <div class="ticker" data-ticker="${primary}" onclick="event.stopPropagation();pickTicker('${primary}')">${primary}</div>
+        ${others.length?`<div class="multi">${others.map(tk=>`<span data-ticker="${tk}" style="cursor:pointer" onclick="event.stopPropagation();pickTicker('${tk}')">${tk}</span>`).join(' ')}</div>`:''}
       </div>
       <div class="body"><span class="typ typ-${typ}">${typ}</span><span class="title">${escapeHtml(h.title)}</span></div>
       <div class="src">${escapeHtml(h.source)}</div>
@@ -352,6 +352,7 @@ function reload(){
     .then(doc=>{
       STATE.headlines = doc.headlines || [];
       STATE.generated = doc.generated;
+      STATE.tickerNames = doc.ticker_names || {};
 
       const sources = [...new Set(STATE.headlines.map(h=>h.source))].sort();
       const types = [...new Set(STATE.headlines.map(h=>h.type).filter(Boolean))].sort();
@@ -375,6 +376,97 @@ function reload(){
 reload();
 setInterval(reload, 60000);
 setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STATE.generated);}, 15000);
+
+/* ── Ticker hover tooltip (regime-desk style) ──────────────────────────── */
+(function(){
+  const tip = document.createElement('div');
+  tip.id = 'nd-tip';
+  Object.assign(tip.style, {
+    position:'fixed', zIndex:'500', display:'none', pointerEvents:'none',
+    background:'#0a0a0a', border:'1px solid var(--amber)',
+    boxShadow:'0 8px 24px rgba(0,0,0,.7), 0 0 18px rgba(255,155,0,.18)',
+    color:'var(--text)', padding:'10px 12px', maxWidth:'320px',
+    fontFamily:'IBM Plex Sans, sans-serif', fontSize:'12px', lineHeight:'1.5',
+    borderRadius:'2px',
+  });
+  document.body.appendChild(tip);
+  let _cx=0,_cy=0;
+
+  function pos(cx,cy){
+    const tw=tip.offsetWidth||260, th=tip.offsetHeight||140;
+    let lx=cx+14, ly=cy+14;
+    if(lx+tw > window.innerWidth-8) lx = cx-tw-14;
+    if(ly+th > window.innerHeight-8) ly = cy-th-14;
+    tip.style.left=lx+'px'; tip.style.top=ly+'px';
+  }
+
+  function relTime(iso){
+    if(!iso) return '';
+    const d=new Date(iso), diff=(new Date()-d)/60000;
+    if(diff<1) return 'just now';
+    if(diff<60) return Math.floor(diff)+'m ago';
+    if(diff<60*24) return Math.floor(diff/60)+'h ago';
+    return Math.floor(diff/(60*24))+'d ago';
+  }
+
+  function show(ticker, cx, cy){
+    _cx=cx; _cy=cy;
+    const headlines = (STATE.headlines||[]).filter(h => (h.tickers||[]).includes(ticker));
+    const name = (STATE.tickerNames||{})[ticker] || '';
+    const recent = headlines.slice(0, 3);
+    const total = headlines.length;
+    const latest = headlines[0];
+    const typeCounts = {};
+    headlines.forEach(h => { const t=h.type||'news'; typeCounts[t]=(typeCounts[t]||0)+1; });
+    const topTypes = Object.entries(typeCounts).sort((a,b)=>b[1]-a[1]).slice(0,3);
+
+    const recentList = recent.map(h => {
+      const t = h.type || 'news';
+      return `<div style="border-top:1px solid #1c1c1c;padding-top:6px;margin-top:6px">
+        <div style="color:var(--muted);font-size:10px;font-family:IBM Plex Mono,monospace;margin-bottom:2px">${escapeHtml(h.source)} · ${relTime(h.published)}</div>
+        <div style="color:var(--text);font-size:12px;line-height:1.4">${escapeHtml(h.title.length>90?h.title.slice(0,90)+'…':h.title)}</div>
+      </div>`;
+    }).join('');
+
+    const typeChips = topTypes.length
+      ? '<div style="margin-top:6px;display:flex;flex-wrap:wrap;gap:4px">'+
+          topTypes.map(([t,c])=>`<span style="font-family:IBM Plex Mono,monospace;font-size:9px;color:var(--muted);background:#181818;padding:1px 5px;border:1px solid #2a2a2a;letter-spacing:.05em;text-transform:uppercase">${t} ${c}</span>`).join('')+
+        '</div>'
+      : '';
+
+    tip.innerHTML = ''+
+      '<div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">'+
+        `<img src="https://assets.parqet.com/logos/symbol/${ticker}?format=jpg" width="24" height="24" `+
+        `style="border-radius:3px;background:#fff;border:1px solid #2a2a2a;object-fit:contain;flex-shrink:0" `+
+        `onerror="this.style.display='none'" loading="lazy">`+
+        `<strong style="color:var(--amber);font-family:IBM Plex Mono,monospace;font-size:15px;letter-spacing:.04em">${ticker}</strong>`+
+      '</div>'+
+      (name ? `<div style="color:var(--muted);font-size:11px;margin-bottom:6px">${escapeHtml(name)}</div>` : '')+
+      `<div style="color:var(--text);font-size:11px;font-family:IBM Plex Mono,monospace"><strong style="color:var(--amber)">${total}</strong> headline${total===1?'':'s'} in feed</div>`+
+      typeChips+
+      recentList+
+      '<div style="margin-top:8px;color:var(--muted);font-size:10px;font-family:IBM Plex Mono,monospace;letter-spacing:.06em;text-transform:uppercase">CLICK TO FILTER FEED</div>';
+
+    pos(cx, cy);
+    tip.style.display = 'block';
+  }
+
+  function hide(){ tip.style.display='none'; }
+
+  document.addEventListener('mouseover', e => {
+    const el = e.target.closest && e.target.closest('[data-ticker]');
+    if(el && el.dataset.ticker) show(el.dataset.ticker, e.clientX, e.clientY);
+    else hide();
+  });
+  document.addEventListener('mousemove', e => {
+    _cx=e.clientX; _cy=e.clientY;
+    if(tip.style.display==='block') pos(_cx, _cy);
+  });
+  document.addEventListener('mouseout', e => {
+    const el = e.target.closest && e.target.closest('[data-ticker]');
+    if(el && !el.contains(e.relatedTarget)) hide();
+  });
+})();
 </script>
 </body>
 </html>
