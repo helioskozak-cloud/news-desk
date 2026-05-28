@@ -140,7 +140,7 @@
   <span class="brand">NEWS-DESK <span>v0.2 · TERMINAL</span></span>
   <span class="live" id="live">LIVE</span>
   <span class="muted" id="updated" style="color:var(--muted);font-family:'IBM Plex Mono',monospace">—</span>
-  <span class="clock"><span class="label">UTC</span><span id="clock">—</span></span>
+  <span class="clock"><span class="label">ET</span><span id="clockET">—</span><span class="label" style="margin-left:14px">UTC</span><span id="clock">—</span></span>
 </div>
 
 <div class="tabs">
@@ -179,6 +179,12 @@ function tick(){
   const ss=String(now.getUTCSeconds()).padStart(2,'0');
   const el=document.getElementById('clock');
   if(el) el.textContent=`${hh}:${mm}:${ss}`;
+  // ET (America/New_York — handles EDT/EST automatically)
+  const etEl=document.getElementById('clockET');
+  if(etEl){
+    const et=new Intl.DateTimeFormat('en-US',{timeZone:'America/New_York',hour:'2-digit',minute:'2-digit',second:'2-digit',hour12:false}).format(now);
+    etEl.textContent=et;
+  }
 }
 setInterval(tick,1000);
 tick();
