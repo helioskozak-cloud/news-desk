@@ -2,13 +2,13 @@ name: Refresh news feed
 
 on:
   schedule:
-    # Every 10 min during US market hours + extended pre/post (weekdays UTC).
+    # Every 5 min during US market hours + extended pre/post (weekdays UTC).
     # In EDT, 12:00-21:00 UTC ≈ 08:00-17:00 ET.
-    - cron: "*/10 12-21 * * 1-5"
-    # Every 30 min off-hours weekdays.
-    - cron: "*/30 0-11,22-23 * * 1-5"
-    # Hourly on weekends.
-    - cron: "0 * * * 0,6"
+    - cron: "*/5 12-21 * * 1-5"
+    # Every 15 min off-hours weekdays.
+    - cron: "*/15 0-11,22-23 * * 1-5"
+    # Every 30 min on weekends (markets closed; just keeps macro flow current).
+    - cron: "*/30 * * * 0,6"
   workflow_dispatch:
 
 concurrency:
