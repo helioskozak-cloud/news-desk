@@ -79,6 +79,15 @@
   .row .title{color:var(--bright);font-size:13px;font-weight:500;line-height:1.42;min-width:0;overflow-wrap:break-word}
   .row .title a{color:inherit}
   .row .title a:hover{color:var(--amber);text-decoration:none}
+  /* Sentiment color: thin left accent on the row + slight title tint */
+  .row.sent-positive{box-shadow:inset 3px 0 0 #2e7d32}
+  .row.sent-positive .title a{color:#a6f4b9}
+  .row.sent-negative{box-shadow:inset 3px 0 0 #b73a3a}
+  .row.sent-negative .title a{color:#ffb8b8}
+  .play-row.sent-positive{box-shadow:inset 3px 0 0 #2e7d32}
+  .play-row.sent-positive .body .title{color:#a6f4b9}
+  .play-row.sent-negative{box-shadow:inset 3px 0 0 #b73a3a}
+  .play-row.sent-negative .body .title{color:#ffb8b8}
   .row .meta{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted);text-align:right;white-space:nowrap;padding-top:2px}
   .row .meta .typ{display:inline-block;color:var(--muted);text-transform:uppercase;font-weight:600;letter-spacing:.05em;padding:0 4px;border:1px solid var(--border-bright);margin-right:4px}
   .row .meta .src{color:var(--muted);font-weight:500}
@@ -321,7 +330,7 @@ function renderStream(list){
     const t=fmtTime(h.published);
     const ticks=(h.tickers||[]).map(tk=>`<span class="t" data-ticker="${tk}" onclick="event.stopPropagation();tickerClick(event,'${tk}')">${tk}</span>`).join('');
     const typ=h.type||'news';
-    html+=`<div class="row" onclick="this.classList.toggle('expand')">
+    html+=`<div class="row sent-${h.sentiment||'neutral'}" onclick="this.classList.toggle('expand')">
       <div class="time">${t.hh}<br><span style="color:var(--dim);font-size:10px">${t.rel||''}</span></div>
       <div class="ticks">${ticks||'<span style="color:var(--dim);font-size:10px">·</span>'}</div>
       <div class="title"><a href="${escapeHtml(h.link)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">${escapeHtml(h.title)}</a>${h.summary?`<div class="summary">${escapeHtml(h.summary)}</div>`:''}</div>
@@ -350,7 +359,7 @@ function renderInPlay(list){
     const primary=h.tickers[0];
     const others=h.tickers.slice(1);
     const typ=h.type||'news';
-    html+=`<div class="play-row" onclick="window.open('${escapeHtml(h.link)}','_blank')">
+    html+=`<div class="play-row sent-${h.sentiment||'neutral'}" onclick="window.open('${escapeHtml(h.link)}','_blank')">
       <div class="time">${t.hh}<br><span style="color:var(--dim);font-size:10px">${t.rel||''}</span></div>
       <div>
         <div class="ticker" data-ticker="${primary}" onclick="event.stopPropagation();tickerClick(event,'${primary}')">${primary}</div>

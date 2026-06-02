@@ -208,6 +208,46 @@ def classify(title: str, category: str) -> str:
     return category or "news"
 
 
+# ── Sentiment classifier (conservative — only color when confident) ─────────
+_POS_RE = re.compile(
+    r"\b(beats?|beat|surge[ds]?|soar[ds]?|jump[s]?|jumped|rall(?:y|ies|ied)|"
+    r"climb[s]?|climbed|gain[s]?|gained|rise[s]?|rose|hike[ds]?|raise[ds]?|"
+    r"upgrade[ds]?|outperform[s]?|tops?|topped|exceeds?|exceeded|strong|"
+    r"record\s+high|all[-\s]time\s+high|profit[s]?|profitable|expand[s]?|"
+    r"approves?|approved|wins?|won|secures?|secured|launches?|launched)\b",
+    re.I,
+)
+_NEG_RE = re.compile(
+    r"\b(misses?|missed|plunge[ds]?|slump[s]?|slumped|slide[ds]?|slid|"
+    r"falls?|fell|drop[s]?|dropped|tumble[ds]?|crash(?:es|ed)?|sink[s]?|sank|"
+    r"downgrade[ds]?|cut[s]?|slashe[ds]?|reduce[ds]?|lower[ed]?|"
+    r"lawsuit|sued?|charged?|fined?|fraud|scandal|probe|investigation|"
+    r"recall[s]?|halt[s]?|halted|suspend[s]?|suspended|"
+    r"bankrupt(?:cy)?|insolven(?:t|cy)|layoffs?|fired|resign[s]?|resigned|"
+    r"warn(?:s|ed|ing)?|weak|disappoint(?:s|ing|ed)?|"
+    r"shrink[s]?|shrank|loss(?:es)?|missed\s+estimates?|guides?\s+down)\b",
+    re.I,
+)
+
+
+def sentiment(title: str, type_: str) -> str:
+    """positive / negative / neutral. Falls through to the action-type
+    semantics when the verb-based check is ambiguous."""
+    t = title or ""
+    has_pos = bool(_POS_RE.search(t))
+    has_neg = bool(_NEG_RE.search(t))
+    if has_pos and not has_neg:
+        return "positive"
+    if has_neg and not has_pos:
+        return "negative"
+    # Type-based fallback
+    if type_ in ("upgrade", "dividend"):
+        return "positive"
+    if type_ in ("downgrade", "legal"):
+        return "negative"
+    return "neutral"
+
+
 # ── Feed parsing ─────────────────────────────────────────────────────────────
 def _hash_url(url: str) -> str:
     return hashlib.md5(url.encode("utf-8")).hexdigest()[:12]
@@ -266,6 +306,7 @@ def fetch_feed(name: str, category: str, url: str) -> list[dict]:
             "source":    name,
             "category":  category,
             "type":      classify(title, category),
+            "sentiment": sentiment(title, classify(title, category)),
             "domain":    _domain(link),
             "published": published,
             "tickers":   tickers,
@@ -301,10 +342,12 @@ def main():
     new_items = [h for h in fresh if h["id"] not in seen_ids]
     print(f"\nFetched {len(fresh)} total ({len(new_items)} new since last run)", flush=True)
 
-    # Backfill: existing entries before classifier was added won't have 'type'
+    # Backfill any field added after a headline was first written
     for h in existing:
         if not h.get("type"):
             h["type"] = classify(h.get("title", ""), h.get("category", ""))
+        if not h.get("sentiment"):
+            h["sentiment"] = sentiment(h.get("title", ""), h.get("type", "news"))
 
     by_id: dict[str, dict] = {h["id"]: h for h in existing}
     for h in fresh:
