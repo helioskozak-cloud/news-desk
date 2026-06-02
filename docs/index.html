@@ -202,11 +202,8 @@
 </div>
 
 <div class="tabs">
-  <button class="tab active" data-view="stream" onclick="switchView('stream')">STREAM <span class="count" id="count-stream">0</span></button>
-  <button class="tab" data-view="inplay" onclick="switchView('inplay')">IN PLAY <span class="count" id="count-inplay">0</span></button>
-  <button class="tab" data-view="holdings" onclick="switchView('holdings')">HOLDINGS <span class="count" id="count-holdings">0</span></button>
-  <button class="tab" data-view="macro" onclick="switchView('macro')">MACRO <span class="count" id="count-macro">0</span></button>
-  <button class="tab" data-view="filings" onclick="switchView('filings')">FILINGS <span class="count" id="count-filings">0</span></button>
+  <button class="tab active" data-view="news" onclick="switchView('news')">NEWS <span class="count" id="count-news">0</span></button>
+  <button class="tab" data-view="book" onclick="switchView('book')">MY BOOK <span class="count" id="count-book">0</span></button>
 </div>
 
 <div class="toolbar">
@@ -216,15 +213,8 @@
   <select id="srcFilter" onchange="render()"><option value="">All</option></select>
   <span class="lbl">Type</span>
   <select id="typeFilter" onchange="render()"><option value="">All</option></select>
-  <button id="watchToggle" onclick="toggleWatchOnly()" title="Show only headlines mentioning watchlist tickers">WATCH <span id="watchCount" style="color:var(--muted)">0</span></button>
   <button onclick="clearFilters()">CLR</button>
   <span class="spacer" id="counts">0 / 0</span>
-</div>
-<div id="watchPanel" style="display:none;background:#0a0a0a;border-bottom:1px solid var(--border-bright);padding:6px 12px;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);align-items:center;flex-wrap:wrap;gap:6px">
-  <span class="lbl" style="text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-right:6px">Watchlist:</span>
-  <span id="watchChips" style="display:inline-flex;flex-wrap:wrap;gap:4px"></span>
-  <input id="watchAdd" type="text" placeholder="Add ticker" style="background:#000;border:1px solid var(--border-bright);color:var(--text);padding:3px 8px;font-family:inherit;font-size:11px;width:110px;margin-left:6px" onkeydown="if(event.key==='Enter'){addWatch(this.value);this.value=''}">
-  <button onclick="clearWatchlist()" style="margin-left:auto">CLEAR ALL</button>
 </div>
 
 <div id="content"></div>
@@ -233,11 +223,11 @@
 const STATE = {
   headlines: [],
   generated: null,
-  view: 'stream',
+  view: 'news',          // 'news' = all headlines · 'book' = filtered to watchlist
   topTickers: [],
   selectedTicker: null,
   watchlist: [],         // persisted set of tickers the user cares about
-  watchOnly: false,      // when true, filter feed to watchlist tickers only
+  watchOnly: false,      // legacy — kept for the URL handoff; ignored in 2-tab world
   holdingsSummary: null, // metadata about the last parsed holdings file
 };
 
@@ -335,10 +325,6 @@ function applyFilters(headlines){
     if(src && h.source!==src) return false;
     if(typ && h.type!==typ) return false;
     if(STATE.selectedTicker && !(h.tickers||[]).includes(STATE.selectedTicker)) return false;
-    if(STATE.watchOnly && STATE.watchlist.length){
-      const tks = h.tickers || [];
-      if(!STATE.watchlist.some(w => tks.includes(w))) return false;
-    }
     if(q){
       const hay=(h.title+' '+(h.summary||'')+' '+(h.tickers||[]).join(' ')+' '+h.source).toLowerCase();
       if(!hay.includes(q)) return false;
@@ -404,32 +390,60 @@ function renderInPlay(list){
 function render(){
   let list = applyFilters(STATE.headlines);
 
-  // View-specific scoping
-  if(STATE.view==='macro'){
-    list = list.filter(h => !(h.tickers||[]).length && (h.type==='macro' || h.category==='macro'));
-  } else if(STATE.view==='filings'){
-    list = list.filter(h => h.category==='filings' || h.type==='8k' || h.type==='filings');
-  }
+  // BOOK view: only headlines mentioning at least one watchlist ticker
+  const bookList = STATE.watchlist.length
+    ? list.filter(h => (h.tickers||[]).some(t => STATE.watchlist.includes(t)))
+    : [];
 
-  document.getElementById('counts').textContent = list.length+' / '+STATE.headlines.length+' shown';
-
-  // Counts on tab labels
-  document.getElementById('count-stream').textContent = STATE.headlines.length;
-  document.getElementById('count-inplay').textContent = STATE.headlines.filter(h=>(h.tickers||[]).length).length;
-  const ch=document.getElementById('count-holdings');
-  if(ch) ch.textContent = STATE.watchlist.length;
-  document.getElementById('count-macro').textContent = STATE.headlines.filter(h => !(h.tickers||[]).length && (h.type==='macro' || h.category==='macro')).length;
-  document.getElementById('count-filings').textContent = STATE.headlines.filter(h => h.category==='filings' || h.type==='8k' || h.type==='filings').length;
+  // Tab counts
+  document.getElementById('count-news').textContent = STATE.headlines.length;
+  document.getElementById('count-book').textContent = STATE.watchlist.length
+    ? STATE.headlines.filter(h => (h.tickers||[]).some(t => STATE.watchlist.includes(t))).length
+    : 0;
 
   const content = document.getElementById('content');
-  if(STATE.view==='holdings'){
-    content.innerHTML = renderHoldings();
-    _wireHoldingsUI();
-  } else if(STATE.view==='inplay'){
-    content.innerHTML = renderInPlay(list);
+
+  if(STATE.view === 'book'){
+    if(!STATE.watchlist.length){
+      // No holdings loaded yet — show the upload UI
+      content.innerHTML = renderBookUpload();
+      _wireHoldingsUI();
+      document.getElementById('counts').textContent = '0 / ' + STATE.headlines.length + ' shown';
+    } else {
+      document.getElementById('counts').textContent = bookList.length + ' / ' + STATE.headlines.length + ' shown';
+      content.innerHTML = renderBookHeader() + renderStream(bookList);
+      _wireBookHeader();
+    }
   } else {
+    document.getElementById('counts').textContent = list.length + ' / ' + STATE.headlines.length + ' shown';
     content.innerHTML = renderStream(list);
   }
+}
+
+/* MY BOOK header — shown above the feed when a watchlist is loaded */
+function renderBookHeader(){
+  const s = STATE.holdingsSummary || {};
+  const fileLabel = s.filename
+    ? `loaded from <strong style="color:var(--text)">${escapeHtml(s.filename)}</strong>`
+    : 'pasted manually';
+  return `<div style="padding:10px 14px;background:#0a0a0a;border-bottom:1px solid var(--border);font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);display:flex;align-items:center;gap:12px;flex-wrap:wrap">
+    <span><strong style="color:var(--amber)">${STATE.watchlist.length}</strong> tickers · ${fileLabel}</span>
+    <button id="bookReload" style="background:#000;border:1px solid var(--border-bright);color:var(--text);padding:4px 10px;font-family:inherit;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer">↻ Reload holdings file</button>
+    <button id="bookClear" style="background:#000;border:1px solid var(--border-bright);color:var(--text);padding:4px 10px;font-family:inherit;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer">Clear book</button>
+  </div>`;
+}
+
+function _wireBookHeader(){
+  const reload = document.getElementById('bookReload');
+  const clear  = document.getElementById('bookClear');
+  if(reload) reload.addEventListener('click', () => {
+    // Bounce to the upload UI by clearing the watchlist temporarily
+    STATE.view = 'book';
+    STATE.holdingsSummary = null;
+    STATE.watchlist = [];
+    _savePrefs(); _renderWatchUI(); render();
+  });
+  if(clear) clear.addEventListener('click', () => clearWatchlist());
 }
 
 /* ── HOLDINGS view ─────────────────────────────────────────────────────────
@@ -437,40 +451,35 @@ function render(){
  * from a Symbol-like column, and populates the watchlist. Once loaded, the
  * stream feed (other tabs) honors the WATCH toggle to filter to those names.
  */
-function renderHoldings(){
-  const hasWatchlist = STATE.watchlist.length > 0;
-  const pills = STATE.watchlist.map(tk =>
-    `<span class="pill" data-ticker="${tk}" onclick="tickerClick(event,'${tk}')" title="Click → filter feed   ·   shift-click → regime-desk">${tk}</span>`
-  ).join('');
-  const summary = STATE.holdingsSummary || null;
-  let summaryBlock = '';
-  if(summary){
-    summaryBlock = `<div class="parse-result">
-      <div class="row"><span>File</span><span class="ok">${escapeHtml(summary.filename)}</span></div>
-      <div class="row"><span>Rows scanned</span><span>${summary.rowCount}</span></div>
-      <div class="row"><span>Symbol column</span><span class="ok">${escapeHtml(summary.symCol||'—')}</span></div>
-      <div class="row"><span>Tickers extracted</span><span class="ok">${summary.tickerCount}</span></div>
-      ${summary.skipped?`<div class="row"><span>Non-ticker values skipped</span><span class="warn">${summary.skipped}</span></div>`:''}
-    </div>`;
-  }
+function renderBookUpload(){
   return `<div class="holdings-panel">
-    <h2>▸ Client Holdings</h2>
-    <p class="lead">Drop a holdings spreadsheet (LPL <code style="color:var(--text)">Account-Investments-*.xlsx</code> or any file with a Symbol column). The tickers populate your watchlist — switch to STREAM or IN PLAY with the WATCH toggle on to see only the headlines mentioning those names. Files are parsed in your browser; nothing is uploaded anywhere.</p>
+    <h2>▸ My Book</h2>
+    <p class="lead">Drop a holdings spreadsheet (LPL <code style="color:var(--text)">Account-Investments-*.xlsx</code> or any file with a Symbol column). The tickers extracted from it become your book — this tab will then filter the feed to only show headlines mentioning those names. Files are parsed in your browser; nothing leaves your machine.</p>
     <label class="drop-zone" id="hldDrop">
       <div class="big">⬇ Drop .xlsx here or click to choose</div>
-      <div class="sml">Holdings file · we look for Symbol / Ticker / Symbol / CUSIP / ID columns</div>
+      <div class="sml">Looks for Symbol / Ticker / Symbol / CUSIP / ID columns</div>
       <input type="file" id="hldFile" accept=".xlsx,.xls,.csv">
     </label>
-    ${summaryBlock}
+    <p class="lead" style="margin-top:16px">Or paste tickers separated by commas / spaces / newlines:</p>
+    <textarea id="hldPaste" rows="3" placeholder="AAPL MSFT NVDA GOOGL META TSLA AMZN" style="width:100%;background:#0a0a0a;border:1px solid var(--border-bright);color:var(--text);padding:10px;font-family:'IBM Plex Mono',monospace;font-size:12px;border-radius:6px"></textarea>
     <div class="parse-actions">
-      ${hasWatchlist?`<button onclick="toggleWatchOnly()" class="${STATE.watchOnly?'primary':''}">${STATE.watchOnly?'✓ Watch-only filter ON':'Turn on Watch-only filter'}</button>`:''}
-      ${hasWatchlist?'<button onclick="switchView(\'stream\')">View Stream</button>':''}
-      ${hasWatchlist?'<button onclick="switchView(\'inplay\')">View In Play</button>':''}
-      ${hasWatchlist?'<button onclick="clearWatchlist()">Clear watchlist</button>':''}
+      <button onclick="_pasteWatchlist()" class="primary">Load these tickers</button>
     </div>
-    ${hasWatchlist?`<div class="ticker-grid">${pills}</div>`:''}
   </div>`;
 }
+
+function _pasteWatchlist(){
+  const ta = document.getElementById('hldPaste');
+  if(!ta || !ta.value.trim()) return;
+  const tks = ta.value.split(/[\s,;]+/)
+    .map(s => s.trim().toUpperCase().replace(/[^A-Z0-9.]/g,''))
+    .filter(s => s && /^[A-Z]{1,5}(?:\.[A-Z]{1,2})?$/.test(s));
+  if(!tks.length){ alert('No valid tickers found.'); return; }
+  STATE.watchlist = [...new Set(tks)].sort();
+  STATE.holdingsSummary = { filename: 'pasted (' + STATE.watchlist.length + ' tickers)' };
+  _savePrefs(); _renderWatchUI(); render();
+}
+window._pasteWatchlist = _pasteWatchlist;
 
 function _wireHoldingsUI(){
   const drop=document.getElementById('hldDrop');
@@ -567,8 +576,6 @@ function _parseHoldings(file){
 
 function pickTicker(t){
   STATE.selectedTicker = (STATE.selectedTicker===t) ? null : t;
-  if(STATE.view !== 'inplay') STATE.view = 'inplay';
-  document.querySelectorAll('.tab').forEach(b=>b.classList.toggle('active', b.dataset.view===STATE.view));
   render();
   window.scrollTo({top:0,behavior:'smooth'});
 }
@@ -604,31 +611,8 @@ function clearFilters(){
 
 /* ── Watchlist ─────────────────────────────────────────────────────────── */
 function _renderWatchUI(){
-  const cnt = document.getElementById('watchCount');
-  if(cnt) cnt.textContent = STATE.watchlist.length || '0';
-  const btn = document.getElementById('watchToggle');
-  if(btn){
-    if(STATE.watchOnly){
-      btn.style.background = 'var(--amber)';
-      btn.style.color = '#000';
-      btn.style.borderColor = 'var(--amber)';
-    } else {
-      btn.style.background = '';
-      btn.style.color = '';
-      btn.style.borderColor = '';
-    }
-  }
-  const panel = document.getElementById('watchPanel');
-  // Show the panel anytime watch mode is on or list has items
-  if(panel){
-    panel.style.display = (STATE.watchOnly || STATE.watchlist.length) ? 'flex' : 'none';
-    const chips = document.getElementById('watchChips');
-    if(chips){
-      chips.innerHTML = STATE.watchlist.map(tk =>
-        `<span style="display:inline-flex;align-items:center;gap:4px;background:#21262d;border:1px solid var(--border-bright);color:var(--amber);padding:1px 6px;font-weight:700">${tk}<span onclick="removeWatch('${tk}')" style="color:var(--muted);cursor:pointer;font-weight:400">×</span></span>`
-      ).join('');
-    }
-  }
+  // Toolbar widgets removed in the 2-tab redesign; tab counts are handled in render().
+  // Kept as a no-op so existing call sites still work.
 }
 function addWatch(raw){
   const tk = (raw||'').trim().toUpperCase().replace(/[^A-Z0-9.]/g,'');
@@ -702,10 +686,9 @@ setInterval(reload, 60000);
 setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STATE.generated);}, 15000);
 
 /* URL params:
- *   ?ticker=AAPL          → single-ticker filter, switches to In Play view
- *   ?watchlist=AAPL,MSFT  → REPLACES the saved watchlist and turns watchOnly on
- *                          (this is how FINvisible hands off client holdings)
- *   ?watchadd=AAPL,MSFT   → APPENDS to the saved watchlist without flipping
+ *   ?ticker=AAPL          → search-box filter on that ticker (inbound from regime-desk)
+ *   ?watchlist=AAPL,MSFT  → REPLACES the saved book and switches to BOOK tab
+ *   ?watchadd=AAPL,MSFT   → APPENDS to the saved book without switching tabs
  */
 (function applyUrlParams(){
   const params = new URLSearchParams(window.location.search);
@@ -714,7 +697,8 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
   const wlAdd     = params.get('watchadd');
   if(wlReplace !== null){
     STATE.watchlist = wlReplace.split(',').map(s => s.trim().toUpperCase()).filter(Boolean);
-    STATE.watchOnly = STATE.watchlist.length > 0;
+    STATE.holdingsSummary = { filename: 'URL handoff (' + STATE.watchlist.length + ' tickers)' };
+    STATE.view = 'book';
     _savePrefs(); _renderWatchUI();
   } else if(wlAdd){
     const additions = wlAdd.split(',').map(s => s.trim().toUpperCase()).filter(Boolean);
@@ -728,12 +712,11 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
   const tryApply = () => {
     if(!STATE.headlines.length) return setTimeout(tryApply, 200);
     if(t){
-      STATE.selectedTicker = t;
-      if(STATE.view !== 'inplay') STATE.view = 'inplay';
-      document.querySelectorAll('.tab').forEach(b => b.classList.toggle('active', b.dataset.view===STATE.view));
+      const s = document.getElementById('search');
+      if(s){ s.value = t; }
     }
+    document.querySelectorAll('.tab').forEach(b => b.classList.toggle('active', b.dataset.view===STATE.view));
     render();
-    // Strip the params so a refresh doesn't keep re-applying them
     if(history.replaceState){
       history.replaceState(null, '', location.pathname + location.hash);
     }
