@@ -90,7 +90,13 @@
   /* ── Stream view ──────────────────────────────────────────── */
   .stream{font-family:'IBM Plex Sans',sans-serif}
   .grp{background:#000;color:var(--amber);padding:14px 12px 4px;font-family:'IBM Plex Mono',monospace;font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.15em;border-bottom:1px solid var(--border)}
-  .row{display:grid;grid-template-columns:60px 80px 1fr 130px;gap:10px;padding:6px 12px;background:var(--row);border-bottom:1px solid var(--border);align-items:start;cursor:pointer;transition:background .08s}
+  .row{display:grid;grid-template-columns:54px 76px 1fr 130px;gap:10px;padding:7px 12px;background:var(--row);border-bottom:1px solid var(--border);align-items:start;cursor:pointer;transition:background .08s}
+  .row .ticks-col{display:flex;flex-direction:column;gap:2px;padding-top:0}
+  .row .ticker-primary{font-family:'IBM Plex Mono',monospace;font-size:14px;font-weight:700;color:var(--amber);letter-spacing:.02em;line-height:1.1;cursor:pointer}
+  .row .ticker-primary:hover{text-shadow:0 0 6px rgba(255,155,0,.6)}
+  .row .ticker-others{display:flex;flex-wrap:wrap;gap:3px;margin-top:2px}
+  .row .ticker-others span{font-family:'IBM Plex Mono',monospace;font-size:9.5px;color:var(--muted);background:transparent;border:1px solid var(--border-bright);padding:0 4px;cursor:pointer;font-weight:600}
+  .row .ticker-others span:hover{color:var(--amber);border-color:var(--amber-soft)}
   .row:nth-child(even){background:var(--row-alt)}
   .row:hover{background:#1a1a1a}
   .row .time{font-family:'IBM Plex Mono',monospace;color:var(--muted);font-size:11px;padding-top:1px;white-space:nowrap}
@@ -168,8 +174,9 @@
     .toolbar .spacer{flex-basis:100%;margin-left:0;text-align:right;font-size:9px}
   }
   @media (max-width:760px){
-    .row{grid-template-columns:48px 1fr;gap:6px;padding:7px 10px}
-    .row .meta,.row .ticks{grid-column:2}
+    .row{grid-template-columns:48px 64px 1fr;gap:6px;padding:7px 10px}
+    .row .meta{grid-column:1 / -1;text-align:left;display:flex;flex-wrap:wrap;gap:6px;justify-content:flex-start}
+    .row .ticker-primary{font-size:13px}
     .row .meta{font-size:10px;text-align:left;display:flex;flex-wrap:wrap;gap:6px}
     .row .meta .typ{margin-right:0}
     .row .title{font-size:12.5px;line-height:1.4}
@@ -334,18 +341,25 @@ function applyFilters(headlines){
 }
 
 function renderStream(list){
-  if(!list.length) return '<div class="empty"><h2>NO HEADLINES MATCH</h2><div>Clear filters or refine your search</div></div>';
+  // Only show headlines that have at least one extracted ticker.
+  // Anything we couldn't confidently tag is dropped.
+  const filtered = list.filter(h => (h.tickers||[]).length > 0);
+  if(!filtered.length) return '<div class="empty"><h2>NO TICKER-TAGGED HEADLINES</h2><div>The current filter set has no stories with extracted tickers. Try clearing filters or check back after the next refresh.</div></div>';
   let html='<div class="stream">';
   let curGroup=null;
-  list.forEach(h=>{
+  filtered.forEach(h=>{
     const g=groupKey(h.published);
     if(g!==curGroup){curGroup=g;html+=`<div class="grp">${g}</div>`;}
     const t=fmtTime(h.published);
-    const ticks=(h.tickers||[]).map(tk=>`<span class="t" data-ticker="${tk}" onclick="event.stopPropagation();tickerClick(event,'${tk}')">${tk}</span>`).join('');
+    const tickers = h.tickers || [];
+    const primary = tickers[0];
+    const others  = tickers.slice(1);
+    const ticksHtml = `<div class="ticker-primary" data-ticker="${primary}" onclick="event.stopPropagation();tickerClick(event,'${primary}')">${primary}</div>`
+      + (others.length ? `<div class="ticker-others">${others.map(tk => `<span data-ticker="${tk}" onclick="event.stopPropagation();tickerClick(event,'${tk}')">${tk}</span>`).join(' ')}</div>` : '');
     const typ=h.type||'news';
     html+=`<div class="row sent-${h.sentiment||'neutral'}" onclick="this.classList.toggle('expand')">
       <div class="time">${t.hh}<br><span style="color:var(--dim);font-size:10px">${t.rel||''}</span></div>
-      <div class="ticks">${ticks||'<span style="color:var(--dim);font-size:10px">·</span>'}</div>
+      <div class="ticks-col">${ticksHtml}</div>
       <div class="title"><a href="${escapeHtml(h.link)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">${escapeHtml(h.title)}</a>${h.summary?`<div class="summary">${escapeHtml(h.summary)}</div>`:''}</div>
       <div class="meta"><span class="typ typ-${typ}">${typ}</span><br><span class="src">${escapeHtml(h.source)}</span></div>
     </div>`;
@@ -395,27 +409,29 @@ function render(){
     ? list.filter(h => (h.tickers||[]).some(t => STATE.watchlist.includes(t)))
     : [];
 
-  // Tab counts
-  document.getElementById('count-news').textContent = STATE.headlines.length;
+  // Tab counts — NEWS reflects ticker-tagged stories only (matches what renders)
+  const tickerTagged = STATE.headlines.filter(h => (h.tickers||[]).length > 0);
+  document.getElementById('count-news').textContent = tickerTagged.length;
   document.getElementById('count-book').textContent = STATE.watchlist.length
-    ? STATE.headlines.filter(h => (h.tickers||[]).some(t => STATE.watchlist.includes(t))).length
+    ? tickerTagged.filter(h => (h.tickers||[]).some(t => STATE.watchlist.includes(t))).length
     : 0;
 
   const content = document.getElementById('content');
 
   if(STATE.view === 'book'){
     if(!STATE.watchlist.length){
-      // No holdings loaded yet — show the upload UI
       content.innerHTML = renderBookUpload();
       _wireHoldingsUI();
-      document.getElementById('counts').textContent = '0 / ' + STATE.headlines.length + ' shown';
+      document.getElementById('counts').textContent = '0 / ' + tickerTagged.length + ' ticker-tagged';
     } else {
-      document.getElementById('counts').textContent = bookList.length + ' / ' + STATE.headlines.length + ' shown';
+      const bookTagged = bookList.filter(h => (h.tickers||[]).length > 0);
+      document.getElementById('counts').textContent = bookTagged.length + ' / ' + tickerTagged.length + ' shown';
       content.innerHTML = renderBookHeader() + renderStream(bookList);
       _wireBookHeader();
     }
   } else {
-    document.getElementById('counts').textContent = list.length + ' / ' + STATE.headlines.length + ' shown';
+    const newsTagged = list.filter(h => (h.tickers||[]).length > 0);
+    document.getElementById('counts').textContent = newsTagged.length + ' / ' + tickerTagged.length + ' shown';
     content.innerHTML = renderStream(list);
   }
 }
