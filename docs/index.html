@@ -247,8 +247,9 @@ function _loadPrefs(){
     const p = JSON.parse(raw);
     if(Array.isArray(p.watchlist)) STATE.watchlist = p.watchlist.map(s => String(s).toUpperCase());
     if(typeof p.watchOnly === 'boolean') STATE.watchOnly = p.watchOnly;
-    if(typeof p.view === 'string') STATE.view = p.view;
     if(p.holdingsSummary) STATE.holdingsSummary = p.holdingsSummary;
+    // Note: STATE.view is NOT restored — page always lands on NEWS by default.
+    // BOOK is one click away if you've loaded a holdings file.
   }catch(e){ console && console.warn && console.warn('prefs load:', e); }
 }
 function _savePrefs(){
@@ -256,7 +257,6 @@ function _savePrefs(){
     localStorage.setItem(LS_KEY, JSON.stringify({
       watchlist: STATE.watchlist,
       watchOnly: STATE.watchOnly,
-      view: STATE.view,
       holdingsSummary: STATE.holdingsSummary,
     }));
   }catch(e){}
