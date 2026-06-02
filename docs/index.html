@@ -257,7 +257,7 @@ function renderStream(list){
     const g=groupKey(h.published);
     if(g!==curGroup){curGroup=g;html+=`<div class="grp">${g}</div>`;}
     const t=fmtTime(h.published);
-    const ticks=(h.tickers||[]).map(tk=>`<span class="t" data-ticker="${tk}" onclick="event.stopPropagation();pickTicker('${tk}')">${tk}</span>`).join('');
+    const ticks=(h.tickers||[]).map(tk=>`<span class="t" data-ticker="${tk}" onclick="event.stopPropagation();tickerClick(event,'${tk}')">${tk}</span>`).join('');
     const typ=h.type||'news';
     html+=`<div class="row" onclick="this.classList.toggle('expand')">
       <div class="time">${t.hh}<br><span style="color:var(--dim);font-size:10px">${t.rel||''}</span></div>
@@ -291,8 +291,8 @@ function renderInPlay(list){
     html+=`<div class="play-row" onclick="window.open('${escapeHtml(h.link)}','_blank')">
       <div class="time">${t.hh}<br><span style="color:var(--dim);font-size:10px">${t.rel||''}</span></div>
       <div>
-        <div class="ticker" data-ticker="${primary}" onclick="event.stopPropagation();pickTicker('${primary}')">${primary}</div>
-        ${others.length?`<div class="multi">${others.map(tk=>`<span data-ticker="${tk}" style="cursor:pointer" onclick="event.stopPropagation();pickTicker('${tk}')">${tk}</span>`).join(' ')}</div>`:''}
+        <div class="ticker" data-ticker="${primary}" onclick="event.stopPropagation();tickerClick(event,'${primary}')">${primary}</div>
+        ${others.length?`<div class="multi">${others.map(tk=>`<span data-ticker="${tk}" style="cursor:pointer" onclick="event.stopPropagation();tickerClick(event,'${tk}')">${tk}</span>`).join(' ')}</div>`:''}
       </div>
       <div class="body"><span class="typ typ-${typ}">${typ}</span><span class="title">${escapeHtml(h.title)}</span></div>
       <div class="src">${escapeHtml(h.source)}</div>
@@ -335,6 +335,20 @@ function pickTicker(t){
   document.querySelectorAll('.tab').forEach(b=>b.classList.toggle('active', b.dataset.view===STATE.view));
   render();
   window.scrollTo({top:0,behavior:'smooth'});
+}
+
+/* Click handler with modifier-key routing
+ *   plain click  → filter the feed (existing behavior)
+ *   shift+click  → open regime-desk in a new tab with the ticker pinned
+ *   meta/ctrl+click → also opens regime-desk (mac/win habits)
+ */
+function tickerClick(ev, t){
+  if(ev && (ev.shiftKey || ev.metaKey || ev.ctrlKey)){
+    window.open(`https://helioskozak-cloud.github.io/regime-desk/?pin=${encodeURIComponent(t)}#stocks`,
+                '_blank', 'noopener,noreferrer');
+    return;
+  }
+  pickTicker(t);
 }
 
 function switchView(v){
@@ -388,6 +402,22 @@ function reload(){
 reload();
 setInterval(reload, 60000);
 setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STATE.generated);}, 15000);
+
+/* ── URL param: ?ticker=AAPL filters to that ticker on landing ─────────── */
+(function applyUrlTicker(){
+  const params = new URLSearchParams(window.location.search);
+  const t = (params.get('ticker') || '').toUpperCase().trim();
+  if(!t) return;
+  // Wait until headlines are loaded, then apply
+  const tryApply = () => {
+    if(!STATE.headlines.length) return setTimeout(tryApply, 200);
+    STATE.selectedTicker = t;
+    if(STATE.view !== 'inplay') STATE.view = 'inplay';
+    document.querySelectorAll('.tab').forEach(b => b.classList.toggle('active', b.dataset.view===STATE.view));
+    render();
+  };
+  tryApply();
+})();
 
 /* ── Ticker hover tooltip (regime-desk style) ──────────────────────────── */
 (function(){
@@ -498,7 +528,10 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
       `<div style="color:var(--text);font-size:11px;font-family:IBM Plex Mono,monospace"><strong style="color:var(--amber)">${total}</strong> headline${total===1?'':'s'} in feed</div>`+
       typeChips+
       recentList+
-      '<div style="margin-top:8px;color:var(--muted);font-size:10px;font-family:IBM Plex Mono,monospace;letter-spacing:.06em;text-transform:uppercase">CLICK TO FILTER FEED</div>';
+      '<div style="margin-top:8px;color:var(--muted);font-size:10px;font-family:IBM Plex Mono,monospace;letter-spacing:.06em;text-transform:uppercase;line-height:1.55">'+
+        '<div>click → filter feed</div>'+
+        '<div style="color:#58a6ff">shift-click → regime-desk ↗</div>'+
+      '</div>';
 
     pos(cx, cy);
     tip.style.display = 'block';
