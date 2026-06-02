@@ -7,7 +7,29 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js" defer></script>
 <style>
+  /* Holdings tab — file uploader + parsed-tickers display */
+  .holdings-panel{padding:18px 16px;color:var(--text);font-family:'IBM Plex Sans',sans-serif}
+  .holdings-panel h2{font-family:'IBM Plex Mono',monospace;letter-spacing:.06em;font-size:14px;text-transform:uppercase;color:var(--amber);margin-bottom:6px}
+  .holdings-panel p.lead{color:var(--muted);font-size:12px;line-height:1.55;max-width:700px;margin-bottom:14px}
+  .drop-zone{border:2px dashed var(--border-bright);background:#0a0a0a;padding:32px;text-align:center;cursor:pointer;border-radius:6px;transition:border-color .15s,background .15s;margin-bottom:14px}
+  .drop-zone:hover, .drop-zone.dragover{border-color:var(--amber);background:#0f0c05}
+  .drop-zone .big{font-family:'IBM Plex Mono',monospace;font-size:14px;color:var(--amber);letter-spacing:.06em;text-transform:uppercase;margin-bottom:6px}
+  .drop-zone .sml{color:var(--muted);font-size:11px}
+  .drop-zone input[type=file]{display:none}
+  .parse-result{background:#0a0a0a;border:1px solid var(--border);padding:12px 14px;margin-top:10px;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--text)}
+  .parse-result .ok{color:var(--green)}
+  .parse-result .warn{color:var(--amber)}
+  .parse-result .err{color:var(--red)}
+  .parse-result .row{display:flex;justify-content:space-between;align-items:center;padding:2px 0}
+  .parse-actions{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap}
+  .parse-actions button{background:#000;border:1px solid var(--border-bright);color:var(--text);padding:5px 11px;font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer}
+  .parse-actions button.primary{background:var(--amber);color:#000;border-color:var(--amber);font-weight:700}
+  .parse-actions button:hover{border-color:var(--amber)}
+  .ticker-grid{margin-top:14px;display:grid;grid-template-columns:repeat(auto-fill,minmax(70px,1fr));gap:5px;max-height:300px;overflow-y:auto;background:#0a0a0a;border:1px solid var(--border);padding:10px;border-radius:6px}
+  .ticker-grid .pill{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--amber);border:1px solid #5a3a00;padding:3px 6px;text-align:center;background:#000}
+</style>
   :root {
     --bg:#000;
     --panel:#0a0a0a;
@@ -183,6 +205,7 @@
 <div class="tabs">
   <button class="tab active" data-view="stream" onclick="switchView('stream')">STREAM <span class="count" id="count-stream">0</span></button>
   <button class="tab" data-view="inplay" onclick="switchView('inplay')">IN PLAY <span class="count" id="count-inplay">0</span></button>
+  <button class="tab" data-view="holdings" onclick="switchView('holdings')">HOLDINGS <span class="count" id="count-holdings">0</span></button>
   <button class="tab" data-view="macro" onclick="switchView('macro')">MACRO <span class="count" id="count-macro">0</span></button>
   <button class="tab" data-view="filings" onclick="switchView('filings')">FILINGS <span class="count" id="count-filings">0</span></button>
 </div>
@@ -216,6 +239,7 @@ const STATE = {
   selectedTicker: null,
   watchlist: [],         // persisted set of tickers the user cares about
   watchOnly: false,      // when true, filter feed to watchlist tickers only
+  holdingsSummary: null, // metadata about the last parsed holdings file
 };
 
 /* localStorage helpers — keep user preferences across refreshes */
@@ -228,12 +252,16 @@ function _loadPrefs(){
     if(Array.isArray(p.watchlist)) STATE.watchlist = p.watchlist.map(s => String(s).toUpperCase());
     if(typeof p.watchOnly === 'boolean') STATE.watchOnly = p.watchOnly;
     if(typeof p.view === 'string') STATE.view = p.view;
+    if(p.holdingsSummary) STATE.holdingsSummary = p.holdingsSummary;
   }catch(e){ console && console.warn && console.warn('prefs load:', e); }
 }
 function _savePrefs(){
   try{
     localStorage.setItem(LS_KEY, JSON.stringify({
-      watchlist: STATE.watchlist, watchOnly: STATE.watchOnly, view: STATE.view,
+      watchlist: STATE.watchlist,
+      watchOnly: STATE.watchOnly,
+      view: STATE.view,
+      holdingsSummary: STATE.holdingsSummary,
     }));
   }catch(e){}
 }
@@ -389,15 +417,153 @@ function render(){
   // Counts on tab labels
   document.getElementById('count-stream').textContent = STATE.headlines.length;
   document.getElementById('count-inplay').textContent = STATE.headlines.filter(h=>(h.tickers||[]).length).length;
+  const ch=document.getElementById('count-holdings');
+  if(ch) ch.textContent = STATE.watchlist.length;
   document.getElementById('count-macro').textContent = STATE.headlines.filter(h => !(h.tickers||[]).length && (h.type==='macro' || h.category==='macro')).length;
   document.getElementById('count-filings').textContent = STATE.headlines.filter(h => h.category==='filings' || h.type==='8k' || h.type==='filings').length;
 
   const content = document.getElementById('content');
-  if(STATE.view==='inplay'){
+  if(STATE.view==='holdings'){
+    content.innerHTML = renderHoldings();
+    _wireHoldingsUI();
+  } else if(STATE.view==='inplay'){
     content.innerHTML = renderInPlay(list);
   } else {
     content.innerHTML = renderStream(list);
   }
+}
+
+/* ── HOLDINGS view ─────────────────────────────────────────────────────────
+ * Loads a client holdings .xlsx in the browser via SheetJS, extracts tickers
+ * from a Symbol-like column, and populates the watchlist. Once loaded, the
+ * stream feed (other tabs) honors the WATCH toggle to filter to those names.
+ */
+function renderHoldings(){
+  const hasWatchlist = STATE.watchlist.length > 0;
+  const pills = STATE.watchlist.map(tk =>
+    `<span class="pill" data-ticker="${tk}" onclick="tickerClick(event,'${tk}')" title="Click → filter feed   ·   shift-click → regime-desk">${tk}</span>`
+  ).join('');
+  const summary = STATE.holdingsSummary || null;
+  let summaryBlock = '';
+  if(summary){
+    summaryBlock = `<div class="parse-result">
+      <div class="row"><span>File</span><span class="ok">${escapeHtml(summary.filename)}</span></div>
+      <div class="row"><span>Rows scanned</span><span>${summary.rowCount}</span></div>
+      <div class="row"><span>Symbol column</span><span class="ok">${escapeHtml(summary.symCol||'—')}</span></div>
+      <div class="row"><span>Tickers extracted</span><span class="ok">${summary.tickerCount}</span></div>
+      ${summary.skipped?`<div class="row"><span>Non-ticker values skipped</span><span class="warn">${summary.skipped}</span></div>`:''}
+    </div>`;
+  }
+  return `<div class="holdings-panel">
+    <h2>▸ Client Holdings</h2>
+    <p class="lead">Drop a holdings spreadsheet (LPL <code style="color:var(--text)">Account-Investments-*.xlsx</code> or any file with a Symbol column). The tickers populate your watchlist — switch to STREAM or IN PLAY with the WATCH toggle on to see only the headlines mentioning those names. Files are parsed in your browser; nothing is uploaded anywhere.</p>
+    <label class="drop-zone" id="hldDrop">
+      <div class="big">⬇ Drop .xlsx here or click to choose</div>
+      <div class="sml">Holdings file · we look for Symbol / Ticker / Symbol / CUSIP / ID columns</div>
+      <input type="file" id="hldFile" accept=".xlsx,.xls,.csv">
+    </label>
+    ${summaryBlock}
+    <div class="parse-actions">
+      ${hasWatchlist?`<button onclick="toggleWatchOnly()" class="${STATE.watchOnly?'primary':''}">${STATE.watchOnly?'✓ Watch-only filter ON':'Turn on Watch-only filter'}</button>`:''}
+      ${hasWatchlist?'<button onclick="switchView(\'stream\')">View Stream</button>':''}
+      ${hasWatchlist?'<button onclick="switchView(\'inplay\')">View In Play</button>':''}
+      ${hasWatchlist?'<button onclick="clearWatchlist()">Clear watchlist</button>':''}
+    </div>
+    ${hasWatchlist?`<div class="ticker-grid">${pills}</div>`:''}
+  </div>`;
+}
+
+function _wireHoldingsUI(){
+  const drop=document.getElementById('hldDrop');
+  const inp=document.getElementById('hldFile');
+  if(!drop||!inp) return;
+  inp.addEventListener('change', e => { if(e.target.files[0]) _parseHoldings(e.target.files[0]); });
+  ['dragover','dragenter'].forEach(ev=>{
+    drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.add('dragover'); });
+  });
+  ['dragleave','drop'].forEach(ev=>{
+    drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.remove('dragover'); });
+  });
+  drop.addEventListener('drop', e => {
+    e.preventDefault();
+    const f = e.dataTransfer.files[0];
+    if(f) _parseHoldings(f);
+  });
+}
+
+/* Flexible column matchers — same idea as FINvisible's loaders.py */
+const _HLD_SYM_HEADERS = [
+  'symbol / cusip / id','symbol / cusip','symbol','ticker','security id','cusip'
+];
+
+function _findSymbolColumn(headers){
+  const norm = headers.map(h => String(h||'').trim().toLowerCase());
+  for(const want of _HLD_SYM_HEADERS){
+    for(let i=0;i<norm.length;i++){
+      if(norm[i] === want || norm[i].includes(want)) return {idx:i, label:headers[i]};
+    }
+  }
+  return null;
+}
+
+/* Accept the same shapes Python's normalize.looks_like_ticker accepts */
+const _TICKER_RE = /^[A-Z]{1,5}(?:\.[A-Z]{1,2})?$/;
+const _CASH_LIKE = new Set(['CASH','USD','MMF','SPAXX','VMFXX','SWVXX','FDRXX','FZFXX','VMRXX','SNSXX','MM','SWEEP','BANKDEP','INSURED','9999136']);
+
+function _parseHoldings(file){
+  if(typeof XLSX === 'undefined'){
+    alert('SheetJS still loading, try again in a moment.');
+    return;
+  }
+  const reader = new FileReader();
+  reader.onload = ev => {
+    try{
+      const data = new Uint8Array(ev.target.result);
+      const wb = XLSX.read(data, {type:'array'});
+      const sheet = wb.Sheets[wb.SheetNames[0]];
+      const rows = XLSX.utils.sheet_to_json(sheet, {header:1, raw:true, defval:''});
+      // Find the header row — try the first row with >= 4 useful cells
+      let headerIdx = 0;
+      for(let i=0;i<Math.min(rows.length,6);i++){
+        const non = rows[i].filter(v => String(v||'').trim().length > 0).length;
+        if(non >= 4){ headerIdx = i; break; }
+      }
+      const headers = rows[headerIdx] || [];
+      const dataRows = rows.slice(headerIdx + 1);
+      const symCol = _findSymbolColumn(headers);
+      if(!symCol){
+        STATE.holdingsSummary = { filename:file.name, rowCount:dataRows.length, symCol:null, tickerCount:0, skipped:dataRows.length, error:'No Symbol-like column found' };
+        render();
+        return;
+      }
+      const seen = new Set();
+      let skipped = 0;
+      for(const r of dataRows){
+        const raw = r[symCol.idx];
+        const tk = String(raw||'').trim().toUpperCase().replace(/\s+/g,'');
+        if(!tk){ continue; }
+        if(_CASH_LIKE.has(tk)){ skipped++; continue; }
+        if(!_TICKER_RE.test(tk)){ skipped++; continue; }
+        seen.add(tk);
+      }
+      STATE.watchlist = [...seen].sort();
+      STATE.watchOnly = STATE.watchlist.length > 0;
+      STATE.holdingsSummary = {
+        filename: file.name,
+        rowCount: dataRows.length,
+        symCol:   symCol.label,
+        tickerCount: STATE.watchlist.length,
+        skipped: skipped,
+      };
+      _savePrefs();
+      _renderWatchUI();
+      render();
+    } catch(err){
+      STATE.holdingsSummary = { filename:file.name, rowCount:0, error:String(err) };
+      render();
+    }
+  };
+  reader.readAsArrayBuffer(file);
 }
 
 function pickTicker(t){
