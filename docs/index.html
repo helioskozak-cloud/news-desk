@@ -185,8 +185,15 @@
   <select id="srcFilter" onchange="render()"><option value="">All</option></select>
   <span class="lbl">Type</span>
   <select id="typeFilter" onchange="render()"><option value="">All</option></select>
+  <button id="watchToggle" onclick="toggleWatchOnly()" title="Show only headlines mentioning watchlist tickers">WATCH <span id="watchCount" style="color:var(--muted)">0</span></button>
   <button onclick="clearFilters()">CLR</button>
   <span class="spacer" id="counts">0 / 0</span>
+</div>
+<div id="watchPanel" style="display:none;background:#0a0a0a;border-bottom:1px solid var(--border-bright);padding:6px 12px;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);align-items:center;flex-wrap:wrap;gap:6px">
+  <span class="lbl" style="text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-right:6px">Watchlist:</span>
+  <span id="watchChips" style="display:inline-flex;flex-wrap:wrap;gap:4px"></span>
+  <input id="watchAdd" type="text" placeholder="Add ticker" style="background:#000;border:1px solid var(--border-bright);color:var(--text);padding:3px 8px;font-family:inherit;font-size:11px;width:110px;margin-left:6px" onkeydown="if(event.key==='Enter'){addWatch(this.value);this.value=''}">
+  <button onclick="clearWatchlist()" style="margin-left:auto">CLEAR ALL</button>
 </div>
 
 <div id="content"></div>
@@ -198,7 +205,30 @@ const STATE = {
   view: 'stream',
   topTickers: [],
   selectedTicker: null,
+  watchlist: [],         // persisted set of tickers the user cares about
+  watchOnly: false,      // when true, filter feed to watchlist tickers only
 };
+
+/* localStorage helpers — keep user preferences across refreshes */
+const LS_KEY = 'nd-prefs-v1';
+function _loadPrefs(){
+  try{
+    const raw = localStorage.getItem(LS_KEY);
+    if(!raw) return;
+    const p = JSON.parse(raw);
+    if(Array.isArray(p.watchlist)) STATE.watchlist = p.watchlist.map(s => String(s).toUpperCase());
+    if(typeof p.watchOnly === 'boolean') STATE.watchOnly = p.watchOnly;
+    if(typeof p.view === 'string') STATE.view = p.view;
+  }catch(e){ console && console.warn && console.warn('prefs load:', e); }
+}
+function _savePrefs(){
+  try{
+    localStorage.setItem(LS_KEY, JSON.stringify({
+      watchlist: STATE.watchlist, watchOnly: STATE.watchOnly, view: STATE.view,
+    }));
+  }catch(e){}
+}
+_loadPrefs();
 
 function tick(){
   const now=new Date();
@@ -269,6 +299,10 @@ function applyFilters(headlines){
     if(src && h.source!==src) return false;
     if(typ && h.type!==typ) return false;
     if(STATE.selectedTicker && !(h.tickers||[]).includes(STATE.selectedTicker)) return false;
+    if(STATE.watchOnly && STATE.watchlist.length){
+      const tks = h.tickers || [];
+      if(!STATE.watchlist.some(w => tks.includes(w))) return false;
+    }
     if(q){
       const hay=(h.title+' '+(h.summary||'')+' '+(h.tickers||[]).join(' ')+' '+h.source).toLowerCase();
       if(!hay.includes(q)) return false;
@@ -394,6 +428,68 @@ function clearFilters(){
   render();
 }
 
+/* ── Watchlist ─────────────────────────────────────────────────────────── */
+function _renderWatchUI(){
+  const cnt = document.getElementById('watchCount');
+  if(cnt) cnt.textContent = STATE.watchlist.length || '0';
+  const btn = document.getElementById('watchToggle');
+  if(btn){
+    if(STATE.watchOnly){
+      btn.style.background = 'var(--amber)';
+      btn.style.color = '#000';
+      btn.style.borderColor = 'var(--amber)';
+    } else {
+      btn.style.background = '';
+      btn.style.color = '';
+      btn.style.borderColor = '';
+    }
+  }
+  const panel = document.getElementById('watchPanel');
+  // Show the panel anytime watch mode is on or list has items
+  if(panel){
+    panel.style.display = (STATE.watchOnly || STATE.watchlist.length) ? 'flex' : 'none';
+    const chips = document.getElementById('watchChips');
+    if(chips){
+      chips.innerHTML = STATE.watchlist.map(tk =>
+        `<span style="display:inline-flex;align-items:center;gap:4px;background:#21262d;border:1px solid var(--border-bright);color:var(--amber);padding:1px 6px;font-weight:700">${tk}<span onclick="removeWatch('${tk}')" style="color:var(--muted);cursor:pointer;font-weight:400">×</span></span>`
+      ).join('');
+    }
+  }
+}
+function addWatch(raw){
+  const tk = (raw||'').trim().toUpperCase().replace(/[^A-Z0-9.]/g,'');
+  if(!tk) return;
+  if(STATE.watchlist.includes(tk)) return;
+  STATE.watchlist.push(tk);
+  _savePrefs();
+  _renderWatchUI();
+  if(STATE.watchOnly) render();
+}
+function removeWatch(tk){
+  STATE.watchlist = STATE.watchlist.filter(t => t !== tk);
+  _savePrefs();
+  _renderWatchUI();
+  if(STATE.watchOnly) render();
+}
+function clearWatchlist(){
+  STATE.watchlist = [];
+  STATE.watchOnly = false;
+  _savePrefs();
+  _renderWatchUI();
+  render();
+}
+function toggleWatchOnly(){
+  STATE.watchOnly = !STATE.watchOnly;
+  _savePrefs();
+  _renderWatchUI();
+  render();
+}
+window.addWatch = addWatch;
+window.removeWatch = removeWatch;
+window.clearWatchlist = clearWatchlist;
+window.toggleWatchOnly = toggleWatchOnly;
+_renderWatchUI();
+
 function reload(){
   // Fetch headlines + stocks in parallel
   Promise.all([
@@ -431,18 +527,42 @@ reload();
 setInterval(reload, 60000);
 setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STATE.generated);}, 15000);
 
-/* ── URL param: ?ticker=AAPL filters to that ticker on landing ─────────── */
-(function applyUrlTicker(){
+/* URL params:
+ *   ?ticker=AAPL          → single-ticker filter, switches to In Play view
+ *   ?watchlist=AAPL,MSFT  → REPLACES the saved watchlist and turns watchOnly on
+ *                          (this is how FINvisible hands off client holdings)
+ *   ?watchadd=AAPL,MSFT   → APPENDS to the saved watchlist without flipping
+ */
+(function applyUrlParams(){
   const params = new URLSearchParams(window.location.search);
+
+  const wlReplace = params.get('watchlist');
+  const wlAdd     = params.get('watchadd');
+  if(wlReplace !== null){
+    STATE.watchlist = wlReplace.split(',').map(s => s.trim().toUpperCase()).filter(Boolean);
+    STATE.watchOnly = STATE.watchlist.length > 0;
+    _savePrefs(); _renderWatchUI();
+  } else if(wlAdd){
+    const additions = wlAdd.split(',').map(s => s.trim().toUpperCase()).filter(Boolean);
+    additions.forEach(tk => { if(!STATE.watchlist.includes(tk)) STATE.watchlist.push(tk); });
+    _savePrefs(); _renderWatchUI();
+  }
+
   const t = (params.get('ticker') || '').toUpperCase().trim();
-  if(!t) return;
-  // Wait until headlines are loaded, then apply
+  if(!t && !(wlReplace !== null || wlAdd)) return;
+
   const tryApply = () => {
     if(!STATE.headlines.length) return setTimeout(tryApply, 200);
-    STATE.selectedTicker = t;
-    if(STATE.view !== 'inplay') STATE.view = 'inplay';
-    document.querySelectorAll('.tab').forEach(b => b.classList.toggle('active', b.dataset.view===STATE.view));
+    if(t){
+      STATE.selectedTicker = t;
+      if(STATE.view !== 'inplay') STATE.view = 'inplay';
+      document.querySelectorAll('.tab').forEach(b => b.classList.toggle('active', b.dataset.view===STATE.view));
+    }
     render();
+    // Strip the params so a refresh doesn't keep re-applying them
+    if(history.replaceState){
+      history.replaceState(null, '', location.pathname + location.hash);
+    }
   };
   tryApply();
 })();
