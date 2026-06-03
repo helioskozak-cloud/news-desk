@@ -71,7 +71,11 @@ def _configure_git():
     auth_url = f"https://x-access-token:{GH_PAT}@github.com/{GH_OWNER}/{REPO_NAME}.git"
     r = _run(["git", "remote", "set-url", "origin", auth_url])
     if r.returncode != 0:
-        raise RuntimeError(f"remote set-url failed: {r.stderr[-300:]}")
+        r = _run(["git", "remote", "add", "origin", auth_url])
+        if r.returncode != 0:
+            raise RuntimeError(f"remote add origin failed: {r.stderr[-300:]}")
+    _run(["git", "fetch", "--unshallow", "origin"])
+    _run(["git", "branch", "--set-upstream-to=origin/main", "main"])
     _git_configured = True
     print("[worker] git configured", flush=True)
 
