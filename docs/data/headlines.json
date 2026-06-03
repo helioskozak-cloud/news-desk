@@ -1,8 +1,36 @@
 {
- "generated": "2026-06-03T22:42:03.707641+00:00",
+ "generated": "2026-06-03T22:47:18.967688+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "949a21f2255d",
+   "title": "Trump Administration Turns to a New Rationale to Justify Old Tariffs",
+   "link": "https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-forced-labor.html",
+   "summary": "The administration has settled on a more legally and politically durable way to impose tariffs, but some say the focus on forced labor laws is merely a pretext for protectionism.",
+   "source": "NYT Economy",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-03T22:42:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dcc9c54d66a8",
+   "title": "/C O R R E C T I O N -- Tessitura/",
+   "link": "https://www.prnewswire.com/news-releases/tessitura-accelerates-growth-strategy-with-new-chief-growth-officer-302789594.html",
+   "summary": "In the news release, Tessitura Accelerates Growth Strategy with New Chief Growth Officer, issued 03-Jun-2026 by Tessitura over PR Newswire, we are advised by the company that changes have been made. The complete, corrected release follows, with additional details at the end: Tessitura...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-06-03T22:42:00+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
   {
    "id": "7d410d9198bc",
    "title": "Jim Cramer warns excess supply could be the next biggest threat to the bull market",
@@ -15,6 +43,21 @@
    "domain": "cnbc.com",
    "published": "2026-06-03T22:38:50+00:00",
    "tickers": []
+  },
+  {
+   "id": "e2289244e4c9",
+   "title": "Commercial Metals Company: Not Yet Convinced, But Things Are Looking Better",
+   "link": "https://seekingalpha.com/article/4911665-commercial-metals-company-not-yet-convinced-but-things-are-looking-better?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-03T22:37:23+00:00",
+   "tickers": [
+    "CMC"
+   ]
   },
   {
    "id": "5fb34dbf83a1",
@@ -6661,19 +6704,6 @@
    "tickers": []
   },
   {
-   "id": "949a21f2255d",
-   "title": "Trump Administration Turns to a New Rationale to Justify Old Tariffs",
-   "link": "https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-forced-labor.html",
-   "summary": "The administration has settled on a more legally and politically durable way to impose tariffs, but some say the focus on forced labor is merely a pretext for protectionism.",
-   "source": "NYT Economy",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-06-03T19:49:28+00:00",
-   "tickers": []
-  },
-  {
    "id": "9061a4cb8f6a",
    "title": "Flesh-eating screwworm may have been detected in South Texas, USDA says",
    "link": "https://www.investing.com/news/commodities-news/unconfirmed-us-case-of-flesheating-screwworm-rattles-cattle-markets-traders-say-4724925",
@@ -8333,34 +8363,6 @@
    "tickers": [
     "TOL"
    ]
-  },
-  {
-   "id": "b41bfed090ef",
-   "title": "Tesla launches robotaxi service in Austin, accelerating autonomous vehicle push AI",
-   "link": "https://www.investing.com/news/stock-market-news/tesla-launches-robotaxi-service-in-austin-accelerating-autonomous-vehicle-push-ai-4725013",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-06-03T18:47:46+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "c254644103bf",
-   "title": "American Airlines to suspend California routes to mitigate fuel costs",
-   "link": "https://seekingalpha.com/news/4600403-american-airlines-to-suspend-california-routes-to-mitigate-fuel-costs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-03T18:47:19+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8410,6 +8412,7 @@
   "AEVA": "Aeva Technologies",
   "AMAT": "Applied Materials",
   "CAR": "Avis Budget Group",
+  "CMC": "Commercial Metals",
   "RIVN": "Rivian Automotive",
   "UBER": "Uber Technologies",
   "ALGN": "Align Technology",
