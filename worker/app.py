@@ -90,9 +90,10 @@ def _refresh_once():
     if news.returncode != 0:
         raise RuntimeError(f"fetch_news failed: {news.stderr[-300:]}")
 
-    _run([sys.executable, "scan/fetch_stocks.py"], timeout=180)
+    # Skip fetch_stocks.py — yfinance+pandas OOMs Render free tier (512MB).
+    # GitHub Actions cron still runs both scripts at lower frequency.
 
-    _run(["git", "add", "docs/data/headlines.json", "docs/data/stocks.json"])
+    _run(["git", "add", "docs/data/headlines.json"])
     diff = _run(["git", "diff", "--cached", "--quiet"])
     if diff.returncode == 0:
         return False
