@@ -1,13 +1,10 @@
 """
-Render free-tier worker that runs the news-desk refresh on /refresh.
+Render free-tier worker. On-demand async /refresh endpoint.
 
-Architecture: rather than running a background daemon thread (which
-proved unreliable under Render's gunicorn setup), we expose a /refresh
-endpoint that synchronously runs one fetch + commit + push cycle.
-An external pinger (cron-job.org, GitHub Actions, UptimeRobot) hits
-/refresh on whatever schedule we want.
-
-/refresh is idempotent and self-locking — concurrent calls return early.
+POST /refresh kicks off a background refresh and returns 202 immediately
+so Render's edge gateway doesn't 502 us on long fetches. GET /refresh
+and /health return current status. An external pinger (cron-job.org or
+similar) hits POST /refresh on whatever schedule we want.
 """
 import os
 import sys
@@ -41,10 +38,11 @@ _status = {
     "last_error": None,
     "runs": 0,
     "commits": 0,
+    "in_flight": False,
 }
 
 
-def _run(cmd, timeout=180):
+def _run(cmd, timeout=120):
     return subprocess.run(
         cmd,
         cwd=str(REPO_DIR),
@@ -67,15 +65,13 @@ def _configure_git():
     ):
         r = _run(cmd)
         if r.returncode != 0:
-            raise RuntimeError(f"{' '.join(cmd[:3])} failed: {r.stderr[-300:]}")
+            raise RuntimeError(f"{' '.join(cmd[:3])} failed: {r.stderr[-200:]}")
     auth_url = f"https://x-access-token:{GH_PAT}@github.com/{GH_OWNER}/{REPO_NAME}.git"
     r = _run(["git", "remote", "set-url", "origin", auth_url])
     if r.returncode != 0:
         r = _run(["git", "remote", "add", "origin", auth_url])
         if r.returncode != 0:
-            raise RuntimeError(f"remote add origin failed: {r.stderr[-300:]}")
-    _run(["git", "fetch", "--unshallow", "origin"])
-    _run(["git", "branch", "--set-upstream-to=origin/main", "main"])
+            raise RuntimeError(f"remote add origin failed: {r.stderr[-200:]}")
     _git_configured = True
     print("[worker] git configured", flush=True)
 
@@ -83,15 +79,18 @@ def _configure_git():
 def _refresh_once():
     _configure_git()
 
-    pull = _run(["git", "pull", "--rebase", "--autostash", "origin", "main"])
-    if pull.returncode != 0:
-        raise RuntimeError(f"pull failed: {pull.stderr[-400:]}")
+    fetch = _run(["git", "fetch", "--depth", "1", "origin", "main"])
+    if fetch.returncode != 0:
+        raise RuntimeError(f"fetch failed: {fetch.stderr[-300:]}")
+    reset = _run(["git", "reset", "--hard", "origin/main"])
+    if reset.returncode != 0:
+        raise RuntimeError(f"reset failed: {reset.stderr[-300:]}")
 
-    news = _run([sys.executable, "scan/fetch_news.py"], timeout=300)
+    news = _run([sys.executable, "scan/fetch_news.py"], timeout=180)
     if news.returncode != 0:
-        raise RuntimeError(f"fetch_news failed: {news.stderr[-400:]}")
+        raise RuntimeError(f"fetch_news failed: {news.stderr[-300:]}")
 
-    _run([sys.executable, "scan/fetch_stocks.py"], timeout=300)
+    _run([sys.executable, "scan/fetch_stocks.py"], timeout=180)
 
     _run(["git", "add", "docs/data/headlines.json", "docs/data/stocks.json"])
     diff = _run(["git", "diff", "--cached", "--quiet"])
@@ -101,15 +100,33 @@ def _refresh_once():
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
     commit = _run(["git", "commit", "-m", f"chore: refresh feed {stamp}"])
     if commit.returncode != 0:
-        raise RuntimeError(f"commit failed: {commit.stderr[-400:]}")
+        raise RuntimeError(f"commit failed: {commit.stderr[-300:]}")
 
     push = _run(["git", "push", "origin", "HEAD:main"])
     if push.returncode != 0:
-        _run(["git", "pull", "--rebase", "origin", "main"])
-        push = _run(["git", "push", "origin", "HEAD:main"])
-        if push.returncode != 0:
-            raise RuntimeError(f"push failed: {push.stderr[-400:]}")
+        raise RuntimeError(f"push failed: {push.stderr[-300:]}")
     return True
+
+
+def _do_refresh():
+    start = datetime.now(timezone.utc)
+    _status["last_run_at"] = start.isoformat()
+    _status["runs"] += 1
+    try:
+        committed = _refresh_once()
+        _status["last_run_result"] = "committed" if committed else "no-changes"
+        if committed:
+            _status["last_commit_at"] = start.isoformat()
+            _status["commits"] += 1
+        _status["last_error"] = None
+        print(f"[{start.isoformat()}] {_status['last_run_result']}", flush=True)
+    except Exception as e:
+        _status["last_run_result"] = "error"
+        _status["last_error"] = str(e)[:400]
+        print(f"[{start.isoformat()}] error: {e}", flush=True)
+    finally:
+        _status["in_flight"] = False
+        _lock.release()
 
 
 @app.route("/")
@@ -125,28 +142,15 @@ def refresh():
         if tok != REFRESH_TOKEN:
             return jsonify({"ok": False, "error": "unauthorized"}), 401
 
-    if not _lock.acquire(blocking=False):
-        return jsonify({"ok": False, "error": "refresh already running"}), 409
+    if request.method == "GET":
+        return jsonify({"ok": True, "now": datetime.now(timezone.utc).isoformat(), **_status}), 200
 
-    start = datetime.now(timezone.utc)
-    try:
-        _status["last_run_at"] = start.isoformat()
-        _status["runs"] += 1
-        committed = _refresh_once()
-        _status["last_run_result"] = "committed" if committed else "no-changes"
-        if committed:
-            _status["last_commit_at"] = start.isoformat()
-            _status["commits"] += 1
-        _status["last_error"] = None
-        print(f"[{start.isoformat()}] {_status['last_run_result']}", flush=True)
-        return jsonify({"ok": True, "result": _status["last_run_result"], **_status}), 200
-    except Exception as e:
-        _status["last_run_result"] = "error"
-        _status["last_error"] = str(e)[:400]
-        print(f"[{start.isoformat()}] error: {e}", flush=True)
-        return jsonify({"ok": False, "error": str(e), **_status}), 500
-    finally:
-        _lock.release()
+    if not _lock.acquire(blocking=False):
+        return jsonify({"ok": False, "error": "refresh already in flight", **_status}), 409
+
+    _status["in_flight"] = True
+    threading.Thread(target=_do_refresh, daemon=True).start()
+    return jsonify({"ok": True, "queued": True, **_status}), 202
 
 
 print("[worker] module loaded", flush=True)
