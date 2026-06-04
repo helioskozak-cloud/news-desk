@@ -1,8 +1,69 @@
 {
- "generated": "2026-06-04T00:32:19.123750+00:00",
+ "generated": "2026-06-04T00:36:52.850558+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e59c6e481d18",
+   "title": "Asia-Pacific markets open lower on renewed Middle East tensions",
+   "link": "https://www.cnbc.com/2026/06/04/asia-markets-today-asx-nikkei-kospi-hang-seng-csi-300-sensex-oil.html",
+   "summary": "Asia-Pacific markets open lower amid renewed tensions between Iran and the U.S. and worries that the conflict may keep inflation elevated.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-06-04T00:32:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8bd7ba63ae4b",
+   "title": "Reddit, Inc. (RDDT) Presents at Bank of America 2026 Global Technology Conference Transcript",
+   "link": "https://seekingalpha.com/article/4911732-reddit-inc-rddt-presents-at-bank-of-america-2026-global-technology-conference-transcript?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-04T00:32:00+00:00",
+   "tickers": [
+    "RDDT",
+    "BAC"
+   ]
+  },
+  {
+   "id": "b2a48270b92b",
+   "title": "PayPal Holdings, Inc. (PYPL) Presents at 2026 Evercore Global TMT Conference Transcript",
+   "link": "https://seekingalpha.com/article/4911737-paypal-holdings-inc-pypl-presents-at-2026-evercore-global-tmt-conference-transcript?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-04T00:31:59+00:00",
+   "tickers": [
+    "PYPL",
+    "EVR"
+   ]
+  },
+  {
+   "id": "431a69923bb7",
+   "title": "Cadence Design Systems, Inc. (CDNS) Presents at Bank of America 2026 Global Technology Conference Transcript",
+   "link": "https://seekingalpha.com/article/4911676-cadence-design-systems-inc-cdns-presents-at-bank-of-america-2026-global-technology-conference?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-04T00:31:57+00:00",
+   "tickers": [
+    "CDNS",
+    "BAC"
+   ]
+  },
   {
    "id": "2e7eb8a60cb6",
    "title": "ResumeTemplates.com Survey: Nearly Half of Hiring Managers Will Train AI Instead of Hiring 2026 College Grads",
@@ -138,19 +199,6 @@
    "tickers": [
     "HALO"
    ]
-  },
-  {
-   "id": "e59c6e481d18",
-   "title": "Asia-Pacific markets open lower on renewed Middle East tensions",
-   "link": "https://www.cnbc.com/2026/06/04/asia-markets-today-asx-nikkei-kospi-hang-seng-csi-300-sensex-oil.html",
-   "summary": "Asia-Pacific markets open lower amid renewed tensions between Iran and the U.S. and worries that the conflict may keep inflation elevated.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-06-04T00:16:33+00:00",
-   "tickers": []
   },
   {
    "id": "b6199115ee54",
@@ -8329,49 +8377,6 @@
    "domain": "investing.com",
    "published": "2026-06-03T19:54:56+00:00",
    "tickers": []
-  },
-  {
-   "id": "70794b19ff7d",
-   "title": "Vox Royalty initiated with Buy rating at Roth, citing 'differentiated model'",
-   "link": "https://seekingalpha.com/news/4600417-vox-royalty-initiated-with-buy-rating-at-roth-citing-differentiated-model?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-03T19:54:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "31bede4d6b4b",
-   "title": "Bank of America to hire interns, campus recruits despite AI threat",
-   "link": "https://www.investing.com/news/stock-market-news/bank-of-america-to-hire-interns-campus-recruits-despite-ai-threat-4725071",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-03T19:54:37+00:00",
-   "tickers": [
-    "BAC"
-   ]
-  },
-  {
-   "id": "5fdbe52c9f2f",
-   "title": "Form 144 NVIDIA CORP For: 3 June",
-   "link": "https://www.investing.com/news/filings/form-144-nvidia-corp-for-3-june-93CH-4725070",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-03T19:54:25+00:00",
-   "tickers": [
-    "NVDA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8400,6 +8405,7 @@
   "HON": "Honeywell International",
   "STRL": "Sterling Infrastructure",
   "AMD": "Advanced Micro Devices",
+  "CDNS": "Cadence Design Systems",
   "EOSE": "Eos Energy Enterprises",
   "VRTX": "Vertex Pharmaceuticals",
   "DOCN": "DigitalOcean Holdings",
@@ -8440,6 +8446,7 @@
   "DIS": "The Walt Disney",
   "EXP": "Eagle Materials",
   "LMT": "Lockheed Martin",
+  "PYPL": "PayPal Holdings",
   "RRC": "Range Resources",
   "TEL": "TE Connectivity",
   "AMT": "American Tower",
@@ -8515,6 +8522,7 @@
   "NDAQ": "Nasdaq",
   "PFE": "Pfizer",
   "RBRK": "Rubrik",
+  "RDDT": "Reddit",
   "RMBS": "Rambus",
   "VSAT": "Viasat",
   "WAT": "Waters",
