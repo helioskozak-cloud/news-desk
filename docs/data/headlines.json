@@ -1,8 +1,23 @@
 {
- "generated": "2026-06-04T10:17:17.765056+00:00",
+ "generated": "2026-06-04T10:22:01.917902+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a84444acfc27",
+   "title": "Form 8.5 (EPT/RI)-NCC Group Plc",
+   "link": "https://www.globenewswire.com/news-release/2026/06/04/3306604/0/en/Form-8-5-EPT-RI-NCC-Group-Plc.html",
+   "summary": "FORM 8.5 (EPT/RI)",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-06-04T10:18:00+00:00",
+   "tickers": [
+    "FORM"
+   ]
+  },
   {
    "id": "1f9bc322dd72",
    "title": "Form 8.5 (EPT/RI)-Gamma Communications Plc",
@@ -32,6 +47,47 @@
    "tickers": [
     "NVS"
    ]
+  },
+  {
+   "id": "0ccde70b81bc",
+   "title": "Coinbase launches pre-IPO perpetual futures contracts starting with SpaceX",
+   "link": "https://seekingalpha.com/news/4600556-coinbase-launches-pre-ipo-perpetual-futures-contracts-starting-with-spacex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "offering",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-04T10:14:50+00:00",
+   "tickers": [
+    "COIN"
+   ]
+  },
+  {
+   "id": "7bd7d44670f9",
+   "title": "SATA: 13% Yield Preferred Stock Paying Daily Dividends",
+   "link": "https://seekingalpha.com/article/4911863-sata-13-percent-yield-preferred-stock-paying-daily-dividends?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-04T10:14:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "48a0e75d1374",
+   "title": "X-Energy, Inc. reports Q1 results",
+   "link": "https://seekingalpha.com/news/4600558-x-energy-inc-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-04T10:14:02+00:00",
+   "tickers": []
   },
   {
    "id": "f9254b32d82a",
@@ -8165,60 +8221,6 @@
    "tickers": [
     "COST"
    ]
-  },
-  {
-   "id": "307f25db1270",
-   "title": "Form 144 Sandisk Corporation For: 3 June",
-   "link": "https://www.investing.com/news/filings/form-144-sandisk-corporation-for-3-june-93CH-4725619",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-04T03:06:39+00:00",
-   "tickers": [
-    "SNDK"
-   ]
-  },
-  {
-   "id": "0e4447651ef3",
-   "title": "Form 144 NANO NUCLEAR ENERGY INC. For: 3 June",
-   "link": "https://www.investing.com/news/filings/form-144-nano-nuclear-energy-inc-for-3-june-93CH-4725618",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-04T03:06:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1ce437ebbb89",
-   "title": "Form 144 VTEX For: 3 June",
-   "link": "https://www.investing.com/news/filings/form-144-vtex-for-3-june-93CH-4725617",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-04T03:06:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3586a2d62a08",
-   "title": "Form 144 LATTICE SEMICONDUCTOR CORPORATION For: 3 June",
-   "link": "https://www.investing.com/news/filings/form-144-lattice-semiconductor-corporation-for-3-june-93CH-4725616",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-04T03:06:08+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8266,6 +8268,7 @@
   "WM": "Waste Management",
   "MARA": "Marathon Digital",
   "BAC": "Bank of America",
+  "COIN": "Coinbase Global",
   "DIS": "The Walt Disney",
   "LNG": "Cheniere Energy",
   "RRC": "Range Resources",
