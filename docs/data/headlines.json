@@ -1,8 +1,51 @@
 {
- "generated": "2026-06-04T08:12:23.236068+00:00",
+ "generated": "2026-06-04T08:17:19.907393+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "79ad11434677",
+   "title": "PaidBy® by Xryma Plc, partners with Mastercard to scale cross-border account-to-account payments",
+   "link": "https://www.prnewswire.com/news-releases/paidby-by-xryma-plc-partners-with-mastercard-to-scale-cross-border-account-to-account-payments-302791340.html",
+   "summary": "Strategic partnership combines Mastercard's global Open Finance connectivity and scale with PaidBy®'s orchestration and settlement infrastructure to unlock international A2A payments AMSTERDAM, June 4, 2026 /PRNewswire/ -- PaidBy®, the global account-to-account (A2A) payment platform...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-06-04T08:12:00+00:00",
+   "tickers": [
+    "MA"
+   ]
+  },
+  {
+   "id": "90e9107865a8",
+   "title": "Universal Music stock slides as Bill Ackman's Pershing Square unwinds position",
+   "link": "https://seekingalpha.com/news/4600533-universal-music-repurchases-250m-of-shares-as-bill-ackmans-pershing-square-unwinds-position?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-04T08:11:26+00:00",
+   "tickers": [
+    "SQ"
+   ]
+  },
+  {
+   "id": "94f09f6ee0a9",
+   "title": "Partners Group warns it could cap more fund withdrawals after triggering private equity rout",
+   "link": "https://www.cnbc.com/2026/06/04/partners-group-private-equity-fund-restrictions-investor-redemptions.html",
+   "summary": "Partners Group said it could cap capital withdrawals from more of its funds after a European gating sparked a private equity stock sell-off on Wednesday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-06-04T08:08:07+00:00",
+   "tickers": []
+  },
   {
    "id": "4af7fd85a091",
    "title": "New base prospectus for covered bonds, mortgage bonds and bonds issued pursuant to Section 15 of the Danish Mortage-Credit Loans and Mortgage-Credit Bonds etc. Act",
@@ -881,21 +924,6 @@
    "domain": "investing.com",
    "published": "2026-06-04T07:18:32+00:00",
    "tickers": []
-  },
-  {
-   "id": "90e9107865a8",
-   "title": "Universal Music repurchases €250M of shares as Bill Ackman's Pershing Square unwinds position",
-   "link": "https://seekingalpha.com/news/4600533-universal-music-repurchases-250m-of-shares-as-bill-ackmans-pershing-square-unwinds-position?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-04T07:17:21+00:00",
-   "tickers": [
-    "SQ"
-   ]
   },
   {
    "id": "ae9357be6589",
@@ -8188,37 +8216,6 @@
    "domain": "prnewswire.com",
    "published": "2026-06-03T23:53:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "35e3185f79bc",
-   "title": "CoreWeave COO Sachin Jain sells $455,760 in class A stock",
-   "link": "https://www.investing.com/news/insider-trading-news/coreweave-coo-sachin-jain-sells-455760-in-class-a-stock-93CH-4725504",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-03T23:52:09+00:00",
-   "tickers": [
-    "CRWV"
-   ]
-  },
-  {
-   "id": "e5a0bd2ab1da",
-   "title": "Okta, Inc. (OKTA) Presents at 2026 Evercore Global TMT Conference Transcript",
-   "link": "https://seekingalpha.com/article/4911670-okta-inc-okta-presents-at-2026-evercore-global-tmt-conference-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-03T23:51:57+00:00",
-   "tickers": [
-    "OKTA",
-    "EVR"
-   ]
   }
  ],
  "ticker_names": {
@@ -8296,6 +8293,7 @@
   "CRM": "Salesforce",
   "FIVE": "Five Below",
   "LFUS": "Littelfuse",
+  "MA": "Mastercard",
   "RKLB": "Rocket Lab",
   "MSFT": "Office 365",
   "DE": "John Deere",
@@ -8331,7 +8329,6 @@
   "INTC": "Intel",
   "NE": "Noble",
   "RHHBY": "Roche",
-  "NVMI": "Nova",
-  "OKTA": "Okta"
+  "NVMI": "Nova"
  }
 }
