@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-06T20:42:16.820336+00:00",
+ "generated": "2026-06-06T20:47:07.834252+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -26,8 +26,36 @@
    "type": "macro",
    "sentiment": "neutral",
    "domain": "nytimes.com",
-   "published": "2026-06-06T20:31:24+00:00",
+   "published": "2026-06-06T20:41:02+00:00",
    "tickers": []
+  },
+  {
+   "id": "3c8817b9a50b",
+   "title": "Bitcoin's Biggest Buyer Just Sold Some. Should Other Investors Follow Suit?",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoins-biggest-buyer-just-sold-203100290.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-06T20:31:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ffbe91aa9079",
+   "title": "$10,000 in ETHT Became $7,731 in One Day as Ethereum Cracked Below $1,600",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/10-000-etht-became-7-203042289.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-06T20:30:42+00:00",
+   "tickers": [
+    "ETHT"
+   ]
   },
   {
    "id": "f259a3636108",
@@ -41,6 +69,21 @@
    "domain": "investing.com",
    "published": "2026-06-06T20:24:25+00:00",
    "tickers": []
+  },
+  {
+   "id": "2a1678195d90",
+   "title": "Snowflake Has a Hot New Product",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-hot-product-202001540.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-06T20:20:01+00:00",
+   "tickers": [
+    "SNOW"
+   ]
   },
   {
    "id": "64c3a0bd758c",
@@ -8227,45 +8270,6 @@
    "domain": "ft.com",
    "published": "2026-06-06T04:00:13+00:00",
    "tickers": []
-  },
-  {
-   "id": "0bc05b7762e4",
-   "title": "Why Nokia missed the smartphone shift",
-   "link": "https://www.cnbc.com/video/2026/06/06/why-nokia-missed-the-smartphone-shift.html",
-   "summary": "For years, Nokia didn't just compete in mobile phones — it defined the category. From the iconic 3310 to the best-selling Nokia 1100, the Finnish company built a global empire on durable devices, mass-market appeal and an unmatched ability to scale. At its peak, Nokia was Europe's most valuable company and one of the most dominant consumer tech brands in the world. But the smartphone era changed where value in the industry was created.",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-06-06T04:00:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "79295b4a1326",
-   "title": "Politics And The Markets 06/06/26",
-   "link": "https://seekingalpha.com/article/4910469-politics-and-the-markets-060626?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-06T04:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8d32a730f479",
-   "title": "Taiwan needs to ’spend smarter’ on its defence, senior US diplomat says",
-   "link": "https://www.investing.com/news/world-news/taiwan-needs-to-spend-smarter-on-its-defence-senior-us-diplomat-says-4729543",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-06T03:30:24+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8288,6 +8292,7 @@
   "PFSI": "PennyMac Financial Services",
   "GLDM": "SPDR Gold MiniShares Trust",
   "HPE": "Hewlett Packard Enterprise",
+  "ETHT": "ProShares Ultra Ether ETF",
   "NLY": "Annaly Capital Management",
   "TD": "The Toronto-Dominion Bank",
   "APO": "Apollo Global Management",
@@ -8373,6 +8378,7 @@
   "CRWV": "CoreWeave",
   "MDT": "Medtronic",
   "SBUX": "Starbucks",
+  "SNOW": "Snowflake",
   "ADBE": "Photoshop",
   "NWSA": "News Corp",
   "AIZ": "Assurant",
