@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-06T19:07:02.047344+00:00",
+ "generated": "2026-06-06T19:12:14.891670+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -40,6 +40,19 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-06-06T19:00:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "abf23b08e730",
+   "title": "$10,000 in Asia’s Biggest 50 Stocks Became $15,267 in Five Months: Here’s Why",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/10-000-asia-biggest-50-190008932.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-06T19:00:08+00:00",
    "tickers": []
   },
   {
@@ -119,6 +132,21 @@
    "domain": "prnewswire.com",
    "published": "2026-06-06T18:46:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "c23c5b222e74",
+   "title": "ICLN’s 45% YTD Surge Marks a Regime Shift: From Policy Bet to Infrastructure Play, With a July Deadline Looming",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/icln-45-ytd-surge-marks-184557804.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-06T18:45:57+00:00",
+   "tickers": [
+    "ICLN"
+   ]
   },
   {
    "id": "05ed132e11fb",
@@ -8216,32 +8244,6 @@
    "domain": "investing.com",
    "published": "2026-06-06T01:30:31+00:00",
    "tickers": []
-  },
-  {
-   "id": "438b648d58a9",
-   "title": "Form S-3 Unicycive Therapeutics Inc For: 5 June",
-   "link": "https://www.investing.com/news/filings/form-s3-unicycive-therapeutics-inc-for-5-june-93CH-4729507",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-06T01:30:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "407ea0e390dd",
-   "title": "Form 144 Butterfly Network For: 5 June",
-   "link": "https://www.investing.com/news/filings/form-144-butterfly-network-for-5-june-93CH-4729506",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-06T01:30:18+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8252,6 +8254,7 @@
   "INTW": "GraniteShares 2x Long INTC Daily ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "VYM": "Vanguard High Dividend Yield ETF",
+  "ICLN": "iShares Global Clean Energy ETF",
   "BMNR": "Bitmine Immersion Technologies",
   "CRDO": "Credo Technology Group Holding",
   "SCHD": "Schwab US Dividend Equity ETF",
