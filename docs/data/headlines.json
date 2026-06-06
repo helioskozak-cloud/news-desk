@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-06T21:22:18.086451+00:00",
+ "generated": "2026-06-06T21:27:18.092408+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,60 @@
    "domain": "investing.com",
    "published": "2026-06-07T10:00:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "64acb694cfef",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4729621",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-06-06T21:20:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a7779b48b25d",
+   "title": "Southwest eyes deeper revamp; MAX 7 service seen in 2027",
+   "link": "https://www.investing.com/news/stock-market-news/southwest-eyes-deeper-revamp-max-7-service-seen-in-2027-4729620",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-06T21:18:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a0fb01624207",
+   "title": "U.S. explores deploying Iranian assets to support gulf allies - Reuters",
+   "link": "https://www.investing.com/news/economy-news/us-explores-deploying-iranian-assets-to-support-gulf-allies--reuters-4729619",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-06T21:12:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b81fcf749d51",
+   "title": "Is Salesforce or ServiceNow a Better Stock to Buy Right Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-servicenow-better-stock-buy-211100800.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-06T21:11:00+00:00",
+   "tickers": [
+    "CRM"
+   ]
   },
   {
    "id": "ff8b30a8490c",
@@ -8216,62 +8270,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-06T04:01:19+00:00",
    "tickers": []
-  },
-  {
-   "id": "13ab4b7973fe",
-   "title": "Boeing studying increase in 737 MAX production to record 70 jets per month",
-   "link": "https://www.investing.com/news/company-news/boeing-studying-increase-in-737-max-production-to-record-70-jets-per-month-4729547",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-06T04:01:10+00:00",
-   "tickers": [
-    "BA"
-   ]
-  },
-  {
-   "id": "d2c76e8242ec",
-   "title": "Peru to vote on ninth president in a decade",
-   "link": "https://www.ft.com/content/ccf92ae6-1b31-4432-9873-e525490291d2",
-   "summary": "Neither candidate, who offer widely differing agendas, obtained 20% in first round of voting",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-06-06T04:00:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ece4e58a1017",
-   "title": "Wasting China’s solar panel surplus is madness",
-   "link": "https://www.ft.com/content/b6cac184-75a4-47ab-94c5-5eb8c92cd407",
-   "summary": "Clean power is within our reach — yet factories sit idle",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-06-06T04:00:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7fd3ac861fd2",
-   "title": "Directors’ Deals: BP veteran hives off nearly £2mn in shares ahead of Manifold brouhaha",
-   "link": "https://www.ft.com/content/7c111b20-f3ab-4865-a1c5-baa3bd9c9755",
-   "summary": "The group has been struggling to convince the market that it now possesses greater strategic clarity",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-06-06T04:00:49+00:00",
-   "tickers": [
-    "BP"
-   ]
   }
  ],
  "ticker_names": {
@@ -8369,6 +8367,7 @@
   "DDOG": "Datadog Inc",
   "BA": "The Boeing",
   "BN": "Brookfield",
+  "CRM": "Salesforce",
   "MCD": "McDonald's",
   "SPGI": "S&P Global",
   "STLA": "Stellantis",
@@ -8384,7 +8383,6 @@
   "NWSA": "News Corp",
   "AIZ": "Assurant",
   "AVGO": "Broadcom",
-  "BP": "BP p.l.c",
   "DASH": "DoorDash",
   "FTNT": "Fortinet",
   "GOOG": "Alphabet",
