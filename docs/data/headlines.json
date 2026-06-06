@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-06T12:47:19.641694+00:00",
+ "generated": "2026-06-06T12:52:00.978971+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,47 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-06-07T10:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d093eaa27696",
+   "title": "J&J cleared in talc-related cancer lawsuit in California",
+   "link": "https://seekingalpha.com/news/4601204-jj-wins-talc-related-cancer-case-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-06T12:45:55+00:00",
+   "tickers": [
+    "JNJ"
+   ]
+  },
+  {
+   "id": "53615334f0eb",
+   "title": "BCV: A Safer Way To Play A Frothy Market",
+   "link": "https://seekingalpha.com/article/4912615-bcv-a-safer-way-to-play-a-frothy-market?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-06T12:44:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fccec71f47c2",
+   "title": "Hegseth, at D-Day event, says Europe faces ’invasion’ of dangerous ideologies",
+   "link": "https://www.investing.com/news/economy-news/hegseth-at-dday-event-says-europe-faces-invasion-of-dangerous-ideologies-4729580",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-06T12:43:13+00:00",
    "tickers": []
   },
   {
@@ -184,6 +225,19 @@
    "tickers": [
     "MTB"
    ]
+  },
+  {
+   "id": "0a8517706084",
+   "title": "Oil tanker owners fear market crash after Iran war drove record profits",
+   "link": "https://www.ft.com/content/786f23d9-876d-4c56-a9e8-67ac5b78cd49",
+   "summary": "Shipowners ploughed windfall into new vessels and are braced for steep drop in rates if Strait of Hormuz reopens",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-06-06T12:28:02+00:00",
+   "tickers": []
   },
   {
    "id": "7aaee1f8da6b",
@@ -8125,60 +8179,6 @@
    "domain": "cnbc.com",
    "published": "2026-06-05T21:05:21+00:00",
    "tickers": []
-  },
-  {
-   "id": "164bcd70b6a5",
-   "title": "Form 13G Zhongchao Inc. For: 5 June",
-   "link": "https://www.investing.com/news/filings/form-13g-zhongchao-inc-for-5-june-93CH-4729282",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-05T21:03:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e754e11c369a",
-   "title": "NetApp director Gerald Held sells $1.28 million in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/netapp-director-gerald-held-sells-128-million-in-shares-93CH-4729281",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-05T21:03:57+00:00",
-   "tickers": [
-    "NTAP"
-   ]
-  },
-  {
-   "id": "bad51ab1cf48",
-   "title": "Form 13D/A SAIHEAT Ltd For: 5 June",
-   "link": "https://www.investing.com/news/filings/form-13da-saiheat-ltd-for-5-june-93CH-4729280",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-05T21:03:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9397e6d49aa6",
-   "title": "Form 13D/A Calumet For: 5 June",
-   "link": "https://www.investing.com/news/filings/form-13da-calumet-for-5-june-93CH-4729279",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-05T21:03:16+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8293,7 +8293,6 @@
   "LEN": "Lennar",
   "MAT": "Mattel",
   "NDAQ": "Nasdaq",
-  "NTAP": "NetApp",
   "NTRA": "Natera",
   "ORCL": "Oracle",
   "RMD": "ResMed",
