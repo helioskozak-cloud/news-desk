@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-07T09:12:19.887318+00:00",
+ "generated": "2026-06-07T09:17:02.126952+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,47 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-06-07T10:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "10a1c178f5d5",
+   "title": "Bouygues Telecom consortium agrees to buy Patrick Drahi’s SFR for €20.35bn",
+   "link": "https://www.ft.com/content/64686829-95e6-4af2-8568-579684606403",
+   "summary": "Bid from group including Orange and Free-Iliad faces showdown with antitrust regulators in Paris and Brussels",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-06-07T09:13:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fab5cb00917d",
+   "title": "Britain’s questionable reliance on Palantir",
+   "link": "https://www.ft.com/content/e54519ad-9f88-45b3-a4e8-dd64cefceb8f",
+   "summary": "Government should use the best technology for any task, but be wary of ‘lock-ins’",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-06-07T09:09:33+00:00",
+   "tickers": [
+    "PLTR"
+   ]
+  },
+  {
+   "id": "f9645007f15f",
+   "title": "Bitcoin climbs above $62,000 as crypto market steadies after brutal selloff",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-above-62000-as-crypto-market-steadies-after-brutal-selloff-4729656",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-06-07T09:03:57+00:00",
    "tickers": []
   },
   {
@@ -2469,19 +2510,6 @@
    "sentiment": "neutral",
    "domain": "finance.yahoo.com",
    "published": "2026-06-06T22:16:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "10a1c178f5d5",
-   "title": "Bouygues Telecom consortium agrees to buy Patrick Drahi’s SFR for €20.35bn",
-   "link": "https://www.ft.com/content/64686829-95e6-4af2-8568-579684606403",
-   "summary": "Bid from group including Orange and Free-Iliad faces showdown with antitrust regulators in Paris and Brussels",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-06-06T22:16:57+00:00",
    "tickers": []
   },
   {
@@ -8215,32 +8243,6 @@
    "title": "How reliable are mental health diagnostic interviews? #health",
    "link": "https://alltoc.com/health/how-reliable-are-mental-health-diagnostic-interviews",
    "summary": "Mental health interview diagnoses can vary in reliability A new study challenges the assumption that diagnostic interviews are uniformly reliable. Diagnostic interviews—often treated as the “gold standard” for diagnosing mental health and substance use conditions—show reliability that can differ…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "alltoc.com",
-   "published": "2026-06-06T12:03:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9a03212cc19e",
-   "title": "Could Ebola spread in Central Africa to 20,000? #health",
-   "link": "https://alltoc.com/health/could-ebola-spread-in-central-africa-to-20000",
-   "summary": "CDC modeling warns of 20,000 case risk without countermeasures U.S. health officials are warning that the current Ebola outbreak in Central Africa could grow dramatically unless infected people are isolated quickly and response efforts are strengthened. Multiple CDC focused reports describe…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "alltoc.com",
-   "published": "2026-06-06T12:03:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d0f2778611db",
-   "title": "Why are Ebola responses hard to predict? #health",
-   "link": "https://alltoc.com/health/why-are-ebola-responses-hard-to-predict",
-   "summary": "Timing, testing, and isolation determine whether Ebola accelerates Experts cited in coverage of the current Ebola outbreak stress that even strong modeling can be limited because Ebola transmission is shaped by fast changing real world factors. The CDC scenarios repeatedly point to one central…",
    "source": "BizToc",
    "category": "aggregator",
    "type": "aggregator",
