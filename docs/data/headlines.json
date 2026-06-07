@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-07T09:07:15.103535+00:00",
+ "generated": "2026-06-07T09:12:19.887318+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -17,6 +17,32 @@
    "tickers": []
   },
   {
+   "id": "5efb8e01850a",
+   "title": "How People Working in Debt Collection Handle Abuse From Callers",
+   "link": "https://www.nytimes.com/2026/06/07/business/debt-collectors-jobs-abuse.html",
+   "summary": "More Americans are taking on debt and falling behind on bills. The people calling them to collect often endure a torrent of verbal abuse and threats of violence.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-07T09:02:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a4976c9bf6d9",
+   "title": "My Boss Is a Manipulative Creep. What Can I Do?",
+   "link": "https://www.nytimes.com/2026/06/07/business/creep-boss-recruiter-unpaid-work.html",
+   "summary": "Plus: How much unpaid work can a recruiter demand? And what on earth is that smell?",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-07T09:01:45+00:00",
+   "tickers": []
+  },
+  {
    "id": "5c69dfdef6ca",
    "title": "British Airways chief says air fares will rise again if fuel costs stay high",
    "link": "https://www.ft.com/content/1f5e1135-a45a-4c2d-bcb5-4894d0ff2770",
@@ -27,6 +53,32 @@
    "sentiment": "positive",
    "domain": "ft.com",
    "published": "2026-06-07T09:01:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "86f249ace4da",
+   "title": "Daughter of Mrs. Fields Starts Fields Good, a Healthy Cookie Brand",
+   "link": "https://www.nytimes.com/2026/06/07/business/mrs-fields-daughter-cookies.html",
+   "summary": "Ashley Fields is a co-founder of Fields Good cookies. One variety contains protein, and others claim to boost brain performance or aid sleep.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-07T09:01:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ffc517a86043",
+   "title": "As Oil Prices Spike, Talk of ‘Demand Destruction’ Sets In",
+   "link": "https://www.nytimes.com/2026/06/07/business/07biz-demand-destruction-iran-war.html",
+   "summary": "The decades-old term refers to the sustained loss of demand for a commodity, caused by high prices.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-07T09:01:01+00:00",
    "tickers": []
   },
   {
@@ -2352,16 +2404,18 @@
   },
   {
    "id": "e3ba0f1f89c8",
-   "title": "Goldman on the dollar",
+   "title": "Goldman Sachs sees resilient U.S. economy, warns of slower consumer spending ahead",
    "link": "https://www.investing.com/news/forex-news/goldman-on-the-dollar-4729627",
    "summary": "",
    "source": "Investing Forex",
    "category": "fx",
    "type": "fx",
-   "sentiment": "neutral",
+   "sentiment": "negative",
    "domain": "investing.com",
    "published": "2026-06-06T22:41:55+00:00",
-   "tickers": []
+   "tickers": [
+    "GS"
+   ]
   },
   {
    "id": "53f51543825c",
@@ -8193,60 +8247,6 @@
    "sentiment": "neutral",
    "domain": "alltoc.com",
    "published": "2026-06-06T12:03:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6f631f778874",
-   "title": "Why did Craft close after 25 years? #food",
-   "link": "https://alltoc.com/food/why-did-craft-close-after-25-years",
-   "summary": "Craft’s closure ends a New York fine dining run Tom Colicchio will close Craft, his flagship restaurant in New York, after 25 years. He said the difficulty wasn’t purely operational—it reflected how much the restaurant’s customer base and the business environment have shifted in recent years. That…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "alltoc.com",
-   "published": "2026-06-06T12:03:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "09db506203ef",
-   "title": "How did lamb Weston impact Netherlands? #food",
-   "link": "https://alltoc.com/food/how-did-lamb-weston-impact-netherlands",
-   "summary": "Lamb Weston plans to close Netherlands site Lamb Weston, a major supplier of frozen potato products, plans to close its manufacturing site in Broekhuizenvorst in the Netherlands. The company said the move was communicated in a statement dated June 4, describing the site closure as part of its…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "alltoc.com",
-   "published": "2026-06-06T12:03:00+00:00",
-   "tickers": [
-    "LW"
-   ]
-  },
-  {
-   "id": "59aa0d3bc66d",
-   "title": "Why do people mock the PE Guy character? #lifestyle",
-   "link": "https://alltoc.com/lifestyle/why-do-people-mock-the-pe-guy-character",
-   "summary": "Why the “fake private equity guy” character goes viral Johnny Hilbrant Partridge’s “PE Guy” persona has become a magnet for online backlash because it’s built to signal entitlement and performative wealth—exactly the kind of stereotype many audiences are trained to distrust. The character’s appeal…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "alltoc.com",
-   "published": "2026-06-06T12:02:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "721fdc13e3e0",
-   "title": "What’s the Earth Partner Prize deadline? #lifestyle",
-   "link": "https://alltoc.com/lifestyle/whats-the-earth-partner-prize-deadline",
-   "summary": "Earth Partner Prize: youth submissions close in early October The 2026 Earth Partner Prize is inviting young creatives aged 14–30 to submit environmental themed works as part of an effort to raise awareness of environmental matters. The submissions period is open until October 7 , according to the…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "alltoc.com",
-   "published": "2026-06-06T12:02:51+00:00",
    "tickers": []
   }
  ],
