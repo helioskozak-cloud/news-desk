@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-07T18:42:16.541262+00:00",
+ "generated": "2026-06-07T18:47:22.915427+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "49054a20eaf4",
+   "title": "Trump urges Fed to cut rates as strong jobs data fuels expectations of hike",
+   "link": "https://seekingalpha.com/news/4601247-trump-urges-fed-to-cut-rates-as-strong-jobs-data-fuels-expectations-of-hike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-07T18:43:08+00:00",
+   "tickers": []
+  },
   {
    "id": "8e2951754446",
    "title": "Russian drone hits nuclear-fuel storage facility near Chornobyl, Ukraine says",
@@ -28,6 +41,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-07T18:35:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "b16596713f07",
+   "title": "Goldman Sachs CEO sends blunt message to stock market investors",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-ceo-sends-blunt-183300844.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-07T18:33:00+00:00",
+   "tickers": [
+    "GS"
+   ]
   },
   {
    "id": "37e11520db78",
@@ -135,6 +163,22 @@
    "published": "2026-06-07T18:24:30+00:00",
    "tickers": [
     "EMBJ"
+   ]
+  },
+  {
+   "id": "3610e373d097",
+   "title": "Forget SCHD: DGRO’s Looser Quality Filter Has Quietly Delivered Higher Total Returns Over the Last Decade",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-schd-dgro-looser-quality-182343992.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-07T18:23:43+00:00",
+   "tickers": [
+    "SCHD",
+    "DGRO"
    ]
   },
   {
@@ -8127,49 +8171,6 @@
    "tickers": [
     "BA"
    ]
-  },
-  {
-   "id": "b591c058f615",
-   "title": "Riyadh Air receives first Boeing 787 Dreamliners ahead of service launch",
-   "link": "https://seekingalpha.com/news/4601218-riyadh-air-receives-first-boeing-787-dreamliners-ahead-of-service-launch?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-06T21:51:47+00:00",
-   "tickers": [
-    "BA"
-   ]
-  },
-  {
-   "id": "1c13adf7de33",
-   "title": "SRAD Investors Have Opportunity to Lead Sportradar Group AG Securities Fraud Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/srad-investors-have-opportunity-to-lead-sportradar-group-ag-securities-fraud-lawsuit-302792986.html",
-   "summary": "NEW YORK, June 6, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of Class A ordinary shares of Sportradar Group AG (NASDAQ: SRAD) between November 7, 2024 and April 21, 2026, inclusive (the \"Class Period\"), of the important July 17, 2026...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-06-06T21:50:00+00:00",
-   "tickers": [
-    "SRAD"
-   ]
-  },
-  {
-   "id": "18490ff79257",
-   "title": "Communiqué Orange : Signing of a Memorandum of Understanding for the acquisition of SFR",
-   "link": "https://www.globenewswire.com/news-release/2026/06/06/3307708/0/en/Communiqu%C3%A9-Orange-Signing-of-a-Memorandum-of-Understanding-for-the-acquisition-of-SFR.html",
-   "summary": "Press releaseParis, 6 June 2026",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-06-06T21:50:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8178,10 +8179,12 @@
   "MSTX": "Defiance Daily Target 2x Long MSTR ETF",
   "ITA": "iShares U.S. Aerospace & Defense ETF",
   "MSTU": "T-Rex 2X Long MSTR Daily Target ETF",
+  "DGRO": "iShares Core Dividend Growth ETF",
   "VONG": "Vanguard Russell 1000 Growth ETF",
   "BMNR": "Bitmine Immersion Technologies",
   "CRDO": "Credo Technology Group Holding",
   "CTSH": "Cognizant Technology Solutions",
+  "SCHD": "Schwab US Dividend Equity ETF",
   "JBHT": "J.B. Hunt Transport Services",
   "WST": "West Pharmaceutical Services",
   "AMC": "AMC Entertainment Holdings",
@@ -8205,7 +8208,6 @@
   "ITW": "Illinois Tool Works",
   "MGA": "Magna International",
   "PGY": "Pagaya Technologies",
-  "SRAD": "Sportradar Group AG",
   "ZM": "Zoom Communications",
   "BRK-A": "Berkshire Hathaway",
   "COGT": "Cogent Biosciences",
