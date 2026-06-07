@@ -1,21 +1,34 @@
 {
- "generated": "2026-06-07T22:07:17.462094+00:00",
+ "generated": "2026-06-07T22:17:01.242102+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
   {
    "id": "c808dda3ff73",
-   "title": "Stock futures fall after Nasdaq rout as investors look ahead to SpaceX IPO: Live updates",
+   "title": "Stock futures fall as Iran missile reports shake Israel ceasefire: Live updates",
    "link": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html",
-   "summary": "Investors will be focused on inflation data and the public debut of SpaceX on Friday.",
+   "summary": "Investors will also be focused on inflation data and the public debut of SpaceX on Friday.",
    "source": "CNBC Top",
    "category": "markets",
-   "type": "offering",
+   "type": "markets",
    "sentiment": "negative",
    "domain": "cnbc.com",
-   "published": "2026-06-07T22:04:18+00:00",
+   "published": "2026-06-07T22:14:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "41e28022ecb4",
+   "title": "FSK Investors Have Opportunity to Lead FS KKR Capital Corp. Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/fsk-investors-have-opportunity-to-lead-fs-kkr-capital-corp-securities-fraud-lawsuit-302793017.html",
+   "summary": "NEW YORK, June 7, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of FS KKR Capital Corp. (NYSE: FSK) between May 8, 2024 and February 25, 2026, inclusive (the \"Class Period\"), of the important July 6, 2026 lead plaintiff...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-06-07T22:13:00+00:00",
    "tickers": [
-    "NDAQ"
+    "KKR"
    ]
   },
   {
@@ -29,6 +42,19 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-06-07T22:00:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c57541d95bf7",
+   "title": "Dow Jones Futures Due As Iran Attacks Israel; Market Rally Faces First Real Test",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investors.com",
+   "published": "2026-06-07T21:55:52+00:00",
    "tickers": []
   },
   {
@@ -133,19 +159,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "c57541d95bf7",
-   "title": "Dow Jones Futures Due As Iran Attacks Israel; Market Rally Faces First Real Test",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investors.com",
-   "published": "2026-06-07T21:35:47+00:00",
-   "tickers": []
   },
   {
    "id": "2d7da0cb432a",
@@ -656,6 +669,21 @@
    "domain": "wsj.com",
    "published": "2026-06-07T21:00:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "a0e1a415b108",
+   "title": "Post-War Oil Trade Could Look Nothing Like It Did Before Hormuz",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/post-war-oil-trade-could-210000522.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-07T21:00:00+00:00",
+   "tickers": [
+    "POST"
+   ]
   },
   {
    "id": "dce5592dd916",
@@ -8216,34 +8244,6 @@
    "domain": "alltoc.com",
    "published": "2026-06-07T06:01:35+00:00",
    "tickers": []
-  },
-  {
-   "id": "b4c872004703",
-   "title": "What happened with SoFi Stadium strike vote? #sports",
-   "link": "https://alltoc.com/sports/what-happened-with-sofi-stadium-strike-vote",
-   "summary": "SoFi Stadium workers move to authorize a strike SoFi Stadium workers have voted to authorize a strike, a development tied to event staffing concerns leading into major competitions, including the World Cup. The coverage indicates the vote gives workers the option to strike if negotiations fail,…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "alltoc.com",
-   "published": "2026-06-07T06:01:35+00:00",
-   "tickers": [
-    "SOFI"
-   ]
-  },
-  {
-   "id": "47653f22269b",
-   "title": "With China’s Xi in North Korea, Kim to project confidence, defiance",
-   "link": "https://www.investing.com/news/world-news/with-chinas-xi-in-north-korea-kim-to-project-confidence-defiance-4729648",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-07T05:48:29+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8304,7 +8304,6 @@
   "MU": "Micron Technology",
   "RIVN": "Rivian Automotive",
   "RSG": "Republic Services",
-  "SOFI": "SoFi Technologies",
   "VISN": "Vistance Networks",
   "CELH": "Celsius Holdings",
   "COST": "Costco Wholesale",
@@ -8418,6 +8417,7 @@
   "FIG": "Figma",
   "FLR": "Fluor",
   "HEI": "HEICO",
+  "KKR": "KKR &",
   "EBAY": "eBay",
   "NKE": "NIKE",
   "V": "Visa"
