@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-07T18:22:01.923900+00:00",
+ "generated": "2026-06-07T18:27:07.123514+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "7c76026cf267",
+   "title": "‘Scary Movie’ Returns Politically Incorrect Humor to Top of the Box Office",
+   "link": "https://www.nytimes.com/2026/06/07/business/media/scary-movie-politically-incorrect-humor.html",
+   "summary": "The film took in $55 million over the weekend in the United States and Canada. It was the biggest opening for an R-rated comedy in 12 years.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "nytimes.com",
+   "published": "2026-06-07T18:19:59+00:00",
+   "tickers": []
+  },
   {
    "id": "2273cd0d70ad",
    "title": "'Bring 'em on': Delta wants United's crown over the Pacific, too",
@@ -14,6 +27,32 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-06-07T18:19:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "243f3ef38486",
+   "title": "Thornburg Global Opportunities Fund Q1 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4912700-thornburg-global-opportunities-fund-q1-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-07T18:19:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "839c7aa08eaf",
+   "title": "It'll Be Awhile Before SpaceX Joins S&P 500 ETFs",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/itll-awhile-spacex-joins-p-180500818.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-07T18:05:00+00:00",
    "tickers": []
   },
   {
@@ -212,6 +251,21 @@
    "domain": "alltoc.com",
    "published": "2026-06-07T18:03:05+00:00",
    "tickers": []
+  },
+  {
+   "id": "d91333df51dd",
+   "title": "Morningstar drops bombshell message on SpaceX IPO",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morningstar-drops-bombshell-message-spacex-180300245.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "offering",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-07T18:03:00+00:00",
+   "tickers": [
+    "MORN"
+   ]
   },
   {
    "id": "0a09cd9528e8",
@@ -8121,67 +8175,12 @@
     "QQQ",
     "IVV"
    ]
-  },
-  {
-   "id": "64acb694cfef",
-   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4729621",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-06-06T21:20:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6bbad19beaac",
-   "title": "What we know about the plan to give Americans an equity stake in AI",
-   "link": "https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00",
-   "summary": "OpenAI has proposed a sovereign-wealth-style fund to ease public anxiety about the impact of artificial intelligence",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-06-06T21:18:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e04892f4e3f7",
-   "title": "$10,000 in FNGU Became $8,392 in One Session as Tech Leverage Cut Both Ways",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/10-000-fngu-became-8-211516060.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-06T21:15:16+00:00",
-   "tickers": [
-    "FNGU"
-   ]
-  },
-  {
-   "id": "a0fb01624207",
-   "title": "U.S. explores deploying Iranian assets to support gulf allies - Reuters",
-   "link": "https://www.investing.com/news/economy-news/us-explores-deploying-iranian-assets-to-support-gulf-allies--reuters-4729619",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-06T21:12:15+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "XLK": "State Street Technology Select Sector SPDR ETF",
   "MSTX": "Defiance Daily Target 2x Long MSTR ETF",
-  "FNGU": "MicroSectors FANG+ 3X Leveraged ETNs",
   "ITA": "iShares U.S. Aerospace & Defense ETF",
   "MSTU": "T-Rex 2X Long MSTR Daily Target ETF",
   "VONG": "Vanguard Russell 1000 Growth ETF",
@@ -8261,6 +8260,7 @@
   "SLB": "Schlumberger",
   "RACE": "Ferrari N.V.",
   "DUK": "Duke Energy",
+  "MORN": "Morningstar",
   "ROST": "Ross Stores",
   "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
