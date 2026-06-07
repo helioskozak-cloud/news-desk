@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-07T13:47:04.955055+00:00",
+ "generated": "2026-06-07T13:52:20.020617+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -17,6 +17,19 @@
    "tickers": []
   },
   {
+   "id": "6f0c9a87caae",
+   "title": "Trump vows uranium seizure; Israel strikes Beirut suburb",
+   "link": "https://www.investing.com/news/economy-news/us-weighs-using-iranian-assets-to-fund-gulf-reconstruction-after-latest-attacks-4729631",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-07T13:41:40+00:00",
+   "tickers": []
+  },
+  {
    "id": "1e9cc8063c26",
    "title": "Tariffs Re-Enter The Spotlight",
    "link": "https://seekingalpha.com/article/4912694-tariffs-re-enter-spotlight?source=feed_all_articles",
@@ -28,6 +41,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-07T13:40:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "2c73c1e4970b",
+   "title": "Italy’s ITA Airways weighs lawsuit over Pratt & Whitney engine faults",
+   "link": "https://www.investing.com/news/stock-market-news/italys-ita-airways-weighs-lawsuit-over-pratt--whitney-engine-faults-4729678",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-06-07T13:36:28+00:00",
+   "tickers": [
+    "ITA"
+   ]
   },
   {
    "id": "5d181909a82f",
@@ -185,19 +213,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-06-07T13:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6f0c9a87caae",
-   "title": "Israel bombs Beirut suburbs as Iran-US ceasefire talks hit deadlock",
-   "link": "https://www.investing.com/news/economy-news/us-weighs-using-iranian-assets-to-fund-gulf-reconstruction-after-latest-attacks-4729631",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-07T13:12:58+00:00",
    "tickers": []
   },
   {
@@ -8172,22 +8187,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-06-06T15:04:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "fbb09a1e356e",
-   "title": "Insider trades: Nvidia, Intel, Verizon among notable trades",
-   "link": "https://seekingalpha.com/news/4601161-insider-trades-nvidia-intel-verizon-among-notable-trades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-06T15:03:59+00:00",
-   "tickers": [
-    "VZ",
-    "INTC"
-   ]
   }
  ],
  "ticker_names": {
@@ -8196,6 +8195,7 @@
   "XLK": "State Street Technology Select Sector SPDR ETF",
   "CONL": "GraniteShares 2x Long COIN Daily ETF",
   "FNGU": "MicroSectors FANG+ 3X Leveraged ETNs",
+  "ITA": "iShares U.S. Aerospace & Defense ETF",
   "ICLN": "iShares Global Clean Energy ETF",
   "VTI": "Vanguard Total Stock Market ETF",
   "BMNR": "Bitmine Immersion Technologies",
@@ -8216,7 +8216,6 @@
   "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
   "CMG": "Chipotle Mexican Grill",
-  "VZ": "Verizon Communications",
   "HALO": "Halozyme Therapeutics",
   "PLTR": "Palantir Technologies",
   "CRWD": "CrowdStrike Holdings",
