@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-07T17:22:18.642823+00:00",
+ "generated": "2026-06-07T17:26:58.884376+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ce637e1dc9fa",
+   "title": "Rosen Law Firm Encourages DNOW Inc. Investors to Inquire About Securities Class Action Investigation - DNOW",
+   "link": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-dnow-inc-investors-to-inquire-about-securities-class-action-investigation--dnow-302793133.html",
+   "summary": "NEW YORK, June 7, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of DNOW Inc. (NYSE: DNOW) resulting from allegations that DNOW Inc. may have issued materially misleading business...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-06-07T17:24:00+00:00",
+   "tickers": []
+  },
   {
    "id": "29cb22bf8951",
    "title": "Israel kills nine in Gaza as Egypt hosts new ceasefire talks",
@@ -74,6 +87,21 @@
    "tickers": []
   },
   {
+   "id": "63d39809b3c5",
+   "title": "MSTU Down 95% in a Year, How a 2x Daily Fund Lost Nearly Everything While Its Underlying Fell 67%",
+   "link": "https://finance.yahoo.com/markets/options/articles/mstu-down-95-2x-daily-170023402.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-07T17:00:23+00:00",
+   "tickers": [
+    "MSTU"
+   ]
+  },
+  {
    "id": "1426e09dedba",
    "title": "CREDIT AGRICOLE S.A. ANNOUNCES REDEMPTION OF ¥84,200,000,000 Japanese Yen Callable Senior Non-Preferred Bonds issued on June 3, 2021 (ISIN: JP525022AM69)",
    "link": "https://www.globenewswire.com/news-release/2026/06/07/3307738/0/en/CREDIT-AGRICOLE-S-A-ANNOUNCES-REDEMPTION-OF-84-200-000-000-Japanese-Yen-Callable-Senior-Non-Preferred-Bonds-issued-on-June-3-2021-ISIN-JP525022AM69.html",
@@ -112,6 +140,19 @@
    "sentiment": "neutral",
    "domain": "finance.yahoo.com",
    "published": "2026-06-07T16:55:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b019e188943f",
+   "title": "ECB Steps Up as G7’s Lead Hawk With Interest-Rate Hike Primed",
+   "link": "https://finance.yahoo.com/economy/policy/articles/ecb-steps-g7-lead-hawk-112220637.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-07T16:55:57+00:00",
    "tickers": []
   },
   {
@@ -8117,45 +8158,6 @@
    "domain": "alltoc.com",
    "published": "2026-06-06T18:02:31+00:00",
    "tickers": []
-  },
-  {
-   "id": "bb684de85c7a",
-   "title": "What did ArenaNet say about Guild Wars updates after GW3? #gaming",
-   "link": "https://alltoc.com/gaming/what-did-arenanet-say-about-guild-wars-updates-after-gw3",
-   "summary": "ArenaNet confirms GW1 and GW2 won’t be replaced by GW3 ArenaNet says the upcoming Guild Wars 3 won’t end development for the long running Guild Wars 2 and the original Guild Wars . In a video blog, the studio framed Guild Wars 3 as an addition to its MMO lineup rather than a replacement. ArenaNet…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "alltoc.com",
-   "published": "2026-06-06T18:02:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6776e7917c0c",
-   "title": "What caused the X-59 first supersonic flight? #science",
-   "link": "https://alltoc.com/science/what-caused-the-x-59-first-supersonic-flight",
-   "summary": "NASA’s X 59 goes supersonic—what enabled the milestone NASA’s experimental X 59 aircraft achieved its first supersonic flight, marking a key step toward making faster than sound travel significantly quieter. The program’s aim matters because a major barrier to supersonic passenger flight is the…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "alltoc.com",
-   "published": "2026-06-06T18:02:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6736122e43b7",
-   "title": "How can predictive surrogates cut quantum measurement overhead? #science",
-   "link": "https://alltoc.com/science/how-can-predictive-surrogates-cut-quantum-measurement-overhead",
-   "summary": "Reducing quantum measurement overhead with predictive surrogates A new approach suggests that “predictive surrogates” could dramatically reduce the measurement overhead required during quantum computing. Quantum computers are promising because they can leverage quantum mechanical effects to solve…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "alltoc.com",
-   "published": "2026-06-06T18:02:21+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8164,6 +8166,7 @@
   "CONL": "GraniteShares 2x Long COIN Daily ETF",
   "FNGU": "MicroSectors FANG+ 3X Leveraged ETNs",
   "ITA": "iShares U.S. Aerospace & Defense ETF",
+  "MSTU": "T-Rex 2X Long MSTR Daily Target ETF",
   "VONG": "Vanguard Russell 1000 Growth ETF",
   "ICLN": "iShares Global Clean Energy ETF",
   "VTI": "Vanguard Total Stock Market ETF",
