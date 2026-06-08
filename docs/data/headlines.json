@@ -1,8 +1,37 @@
 {
- "generated": "2026-06-08T22:17:03.099603+00:00",
+ "generated": "2026-06-08T22:22:22.567661+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c86f012e73f9",
+   "title": "KinoSec Launches a Cross-Domain Autonomous Penetration Testing Platform",
+   "link": "https://www.prnewswire.com/news-releases/kinosec-launches-a-cross-domain-autonomous-penetration-testing-platform-302794489.html",
+   "summary": "KinoSec's autonomous penetration testing platform continuously identifies and exploits vulnerabilities before attackers are able to. SAN FRANCISCO, June 8, 2026 /PRNewswire/ -- KinoSec has launched an autonomous penetration testing platform aimed at covering the full external attack...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-06-08T22:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "77f4ac7598fb",
+   "title": "PG&E warns of possible power shutoffs amid heightened wildfire risk",
+   "link": "https://seekingalpha.com/news/4601612-pge-warns-of-possible-power-shutoffs-amid-heightened-wildfire-risk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-08T22:14:11+00:00",
+   "tickers": [
+    "PCG",
+    "PG"
+   ]
+  },
   {
    "id": "f59fd86d3f47",
    "title": "Pentagon restores Alibaba, Baidu and BYD to Chinese military groups blacklist",
@@ -17,6 +46,19 @@
    "tickers": [
     "BYD"
    ]
+  },
+  {
+   "id": "4ccb4cabce0e",
+   "title": "Flowers Foods: A Pure‑Play Leader Offering A 6.8% Yield And A Clearer Path Ahead",
+   "link": "https://seekingalpha.com/article/4913054-flowers-foods-a-pureplay-leader-offering-a-6-8-percent-yield-and-a-clearer-path-ahead?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-08T22:12:54+00:00",
+   "tickers": []
   },
   {
    "id": "c0984d23edac",
@@ -1854,7 +1896,7 @@
    "title": "HelloNation Article Featuring Insurance Expert Jose Gomez Shares Cheapest Car Insurance Tips in Illinois",
    "link": "https://www.prnewswire.com/news-releases/hellonation-article-featuring-insurance-expert-jose-gomez-shares-cheapest-car-insurance-tips-in-illinois-302738263.html",
    "summary": "The article outlines practical strategies for lowering premiums while maintaining reliable auto insurance coverage. CHICAGO, June 8, 2026 /PRNewswire/ -- How can Illinois drivers lower their car insurance premiums without sacrificing coverage? HelloNation has published the answer in an...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8227,47 +8269,6 @@
    "domain": "prnewswire.com",
    "published": "2026-06-08T17:39:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "b9e05fafefd8",
-   "title": "Vivos Therapeutics To Participate in the Small Cap Showcase & WTR Insights on June 9, 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/06/08/3308377/0/en/Vivos-Therapeutics-To-Participate-in-the-Small-Cap-Showcase-WTR-Insights-on-June-9-2026.html",
-   "summary": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-06-08T17:39:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0c00dee23ee1",
-   "title": "Markets Rebounding After Friday's Rout",
-   "link": "https://seekingalpha.com/article/4912967-markets-rebounding-after-friday-rout?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-08T17:37:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eb7863a25293",
-   "title": "Will SpaceX Merge With Tesla? The Answer Might Be Hiding in Plain Sight.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-merge-tesla-answer-might-173700488.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-08T17:37:00+00:00",
-   "tickers": [
-    "TSLA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8412,6 +8413,7 @@
   "NE": "Noble",
   "VICR": "Vicor",
   "AAON": "AAON",
-  "OKTA": "Okta"
+  "OKTA": "Okta",
+  "PCG": "PG&E"
  }
 }
