@@ -1,8 +1,36 @@
 {
- "generated": "2026-06-08T06:06:35.349562+00:00",
+ "generated": "2026-06-08T06:12:22.089169+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0a793cd6a0fc",
+   "title": "Tech sell-off widens as South Korea index plunges",
+   "link": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c",
+   "summary": "Asian markets start week sharply lower after Nasdaq’s big Friday fall",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-06-08T06:10:19+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "9d49a77dbf33",
+   "title": "Shurgard Self Storage: Asset Growth Is Outpacing Earnings Growth",
+   "link": "https://seekingalpha.com/article/4912770-shurgard-self-storage-stock-asset-growth-is-outpacing-earnings-growth?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-08T06:05:13+00:00",
+   "tickers": []
+  },
   {
    "id": "0595b92a7888",
    "title": "Configit, nombrada por Deloitte como una de las empresas mejor gestionadas de Dinamarca",
@@ -426,6 +454,19 @@
    "tickers": []
   },
   {
+   "id": "e1cf84ec7b7b",
+   "title": "Did jobs just kill the bull market?",
+   "link": "https://www.ft.com/content/86503ff9-3535-48bf-bc2d-75d8dafb02f1",
+   "summary": "The AI trade meets higher rates",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-06-08T05:30:01+00:00",
+   "tickers": []
+  },
+  {
    "id": "f1f1633d57dd",
    "title": "Sampo plc’s share buybacks week 23/2026",
    "link": "https://www.globenewswire.com/news-release/2026/06/08/3307784/0/en/Sampo-plc-s-share-buybacks-week-23-2026.html",
@@ -802,6 +843,21 @@
    "domain": "investing.com",
    "published": "2026-06-08T05:00:29+00:00",
    "tickers": []
+  },
+  {
+   "id": "54efc1fbffce",
+   "title": "Has Strategy lost its nerve?",
+   "link": "https://www.ft.com/content/a3f2bddf-b1b0-45c2-b800-401b9540a2c9",
+   "summary": "Flywheel no fly",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-06-08T05:00:03+00:00",
+   "tickers": [
+    "MSTR"
+   ]
   },
   {
    "id": "ada89380c789",
@@ -1612,21 +1668,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-08T03:59:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "0a793cd6a0fc",
-   "title": "Tech sell-off widens as South Korea index plunges",
-   "link": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c",
-   "summary": "Asian markets start week sharply lower after Nasdaq’s big Friday fall",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "ft.com",
-   "published": "2026-06-08T03:55:54+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   },
   {
    "id": "91635a1b8156",
@@ -8216,47 +8257,6 @@
    "tickers": [
     "AXTI"
    ]
-  },
-  {
-   "id": "0d006656bf4b",
-   "title": "Is Calix, Inc. (CALX) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/calix-inc-calx-good-stock-164834730.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-07T16:48:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "056c6074132b",
-   "title": "US lawmakers warn Pulte appointment could thwart surveillance law’s renewal",
-   "link": "https://www.investing.com/news/stock-market-news/us-lawmakers-warn-pulte-appointment-could-thwart-surveillance-laws-renewal-4729685",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-06-07T16:48:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "631ea8b80c3a",
-   "title": "Is Core Scientific, Inc. (CORZ) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-inc-corz-good-164820353.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-07T16:48:20+00:00",
-   "tickers": [
-    "CORZ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8327,7 +8327,6 @@
   "GE": "General Electric",
   "ANET": "Arista Networks",
   "COIN": "Coinbase Global",
-  "CORZ": "Core Scientific",
   "DIS": "The Walt Disney",
   "EXP": "Eagle Materials",
   "GILD": "Gilead Sciences",
