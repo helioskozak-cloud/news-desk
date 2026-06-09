@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-09T09:42:29.588803+00:00",
+ "generated": "2026-06-09T09:47:02.512703+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -100,6 +100,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-09T09:34:47+00:00",
    "tickers": []
+  },
+  {
+   "id": "9ae8eae1480d",
+   "title": "Monzo and Fair4All Finance pilot Flex Build card for excluded borrowers",
+   "link": "https://finance.yahoo.com/economy/policy/articles/monzo-fair4all-finance-pilot-flex-093443110.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-09T09:34:43+00:00",
+   "tickers": [
+    "FLEX"
+   ]
   },
   {
    "id": "3945a5b5f5c3",
@@ -229,6 +244,38 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-09T09:26:55+00:00",
    "tickers": []
+  },
+  {
+   "id": "692f4dfec4fd",
+   "title": "AI Juggernauts Nvidia, Palantir, Micron, and Broadcom Are Sending Shockwaves Through Wall Street With This Nearly $13 Billion Warning",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ai-juggernauts-nvidia-palantir-micron-092600269.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-09T09:26:00+00:00",
+   "tickers": [
+    "AVGO",
+    "PLTR",
+    "MU"
+   ]
+  },
+  {
+   "id": "139911b19705",
+   "title": "Is Costco Stock Finally Cheap Enough to Buy?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-finally-cheap-enough-092500438.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-09T09:25:00+00:00",
+   "tickers": [
+    "COST"
+   ]
   },
   {
    "id": "2a1d75028d8d",
@@ -8121,47 +8168,6 @@
    "tickers": [
     "DELL"
    ]
-  },
-  {
-   "id": "6c1cc156d0aa",
-   "title": "Cryoport CFO Robert Stefanovich sells $2.75m in common stock",
-   "link": "https://www.investing.com/news/insider-trading-news/cryoport-cfo-robert-stefanovich-sells-275m-in-common-stock-93CH-4731929",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-09T01:17:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c42feb8f458a",
-   "title": "Tim Moore from North Carolina’s 14th District makes significant trades in AT&T Inc.",
-   "link": "https://www.investing.com/news/company-news/tim-moore-from-north-carolinas-14th-district-makes-significant-trades-in-att-inc-93CH-4731928",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-09T01:13:54+00:00",
-   "tickers": [
-    "T"
-   ]
-  },
-  {
-   "id": "76054cc49be4",
-   "title": "Robert E. Latta from Ohio’s 5th district invests in Farmers & Merchants Bancorp, Inc.",
-   "link": "https://www.investing.com/news/company-news/robert-e-latta-from-ohios-5th-district-invests-in-farmers--merchants-bancorp-inc-93CH-4731927",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-09T01:12:06+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8194,6 +8200,7 @@
   "AU": "AngloGold Ashanti",
   "CMC": "Commercial Metals",
   "DELL": "Dell Technologies",
+  "MU": "Micron Technology",
   "BKNG": "Booking Holdings",
   "CELH": "Celsius Holdings",
   "COST": "Costco Wholesale",
@@ -8249,6 +8256,7 @@
   "PKG": "Packaging",
   "SNOW": "Snowflake",
   "NWSA": "News Corp",
+  "AVGO": "Broadcom",
   "BCS": "Barclays",
   "BP": "BP p.l.c",
   "CE": "Celanese",
@@ -8271,6 +8279,7 @@
   "GRAL": "GRAIL",
   "RHHBY": "Roche",
   "DAVE": "Dave",
+  "FLEX": "Flex",
   "IONQ": "IonQ",
   "MSCI": "MSCI",
   "T": "AT&T",
