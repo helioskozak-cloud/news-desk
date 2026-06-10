@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-10T10:46:52.955525+00:00",
+ "generated": "2026-06-10T10:52:22.218218+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -8,7 +8,7 @@
    "title": "BANCO SANTANDER, S.A. ANNOUNCES RESULTS OF TENDER OFFER FOR ONE SERIES OF ITS U.S. DOLLAR-DENOMINATED ADDITIONAL TIER 1 SECURITIES",
    "link": "https://www.prnewswire.com/news-releases/banco-santander-sa-announces-results-of-tender-offer-for-one-series-of-its-us-dollar-denominated-additional-tier-1-securities-302796619.html",
    "summary": "SANTANDER, Spain, June 10, 2026 /PRNewswire/ -- Banco Santander, S.A. (the \"Offeror\" or \"Banco Santander\") is today announcing the results of its tender offer (the \"Offer\") to purchase for cash up to $850,000,000 (the \"Maximum Offer Amount\") of its outstanding 4.750% Non-Step-Up...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "earnings",
    "sentiment": "neutral",
@@ -21,7 +21,7 @@
    "title": "Lazard Reports May 2026 Assets Under Management",
    "link": "https://www.prnewswire.com/news-releases/lazard-reports-may-2026-assets-under-management-302796160.html",
    "summary": "NEW YORK, June 10, 2026 /PRNewswire/ -- Lazard, Inc. (NYSE: LAZ) reported today that its preliminary assets under management (\"AUM\") as of May 31, 2026 totaled approximately $284.8 billion. The month's AUM included market appreciation of $11.6 billion, net outflows of $1.4 billion and FX...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -187,6 +187,21 @@
    ]
   },
   {
+   "id": "1e3fd81bba07",
+   "title": "Is Walmart a Millionaire-Maker Stock?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-millionaire-maker-stock-103500936.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-10T10:35:00+00:00",
+   "tickers": [
+    "WMT"
+   ]
+  },
+  {
    "id": "7e522b2ddf4b",
    "title": "Trane Technologies names Donald Simmons as COO",
    "link": "https://seekingalpha.com/news/4602093-trane-technologies-names-donald-simmons-as-coo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -225,6 +240,19 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-06-10T10:30:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d28c551c9094",
+   "title": "Financial Decisions People Regret Most After Age 50",
+   "link": "https://finance.yahoo.com/markets/articles/financial-decisions-people-regret-most-103041502.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-10T10:30:41+00:00",
    "tickers": []
   },
   {
@@ -8145,34 +8173,6 @@
    "domain": "globenewswire.com",
    "published": "2026-06-10T05:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "1511863e856d",
-   "title": "Apollo Adds Senior Policy and Government Affairs Leaders in Europe",
-   "link": "https://www.globenewswire.com/news-release/2026/06/10/3309443/0/en/Apollo-Adds-Senior-Policy-and-Government-Affairs-Leaders-in-Europe.html",
-   "summary": "Huw van Steenis to Join as European Economic &amp; Policy Strategist",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-06-10T05:00:00+00:00",
-   "tickers": [
-    "APO"
-   ]
-  },
-  {
-   "id": "83c316f88291",
-   "title": "Coop Pank AS consolidated results for May 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/06/10/3309442/0/en/Coop-Pank-AS-consolidated-results-for-May-2026.html",
-   "summary": "Coop Pank’s financial results in May 2026:",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-06-10T05:00:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8188,7 +8188,6 @@
   "STX": "Seagate Technology Holdings",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
-  "APO": "Apollo Global Management",
   "GS": "The Goldman Sachs Group",
   "CDNS": "Cadence Design Systems",
   "CMG": "Chipotle Mexican Grill",
@@ -8278,6 +8277,7 @@
   "PEP": "PepsiCo",
   "PSN": "Parsons",
   "SCI": "Service",
+  "WMT": "Walmart",
   "LI": "Li Auto",
   "GTLB": "GitLab",
   "INCY": "Incyte",
