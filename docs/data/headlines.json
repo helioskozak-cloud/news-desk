@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-11T03:42:04.716290+00:00",
+ "generated": "2026-06-11T03:47:16.831764+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,8 +13,23 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-06-11T03:38:31+00:00",
+   "published": "2026-06-11T03:41:34+00:00",
    "tickers": []
+  },
+  {
+   "id": "436ae73eba16",
+   "title": "SCHR: What Worries Us Is Shelter And Services Inflation",
+   "link": "https://seekingalpha.com/article/4914027-schr-what-worries-us-is-shelter-and-services-inflation-maintain-hold?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-11T03:40:25+00:00",
+   "tickers": [
+    "SCHR"
+   ]
   },
   {
    "id": "4ae7c66e9f22",
@@ -8257,25 +8272,11 @@
    "tickers": [
     "POST"
    ]
-  },
-  {
-   "id": "19663291a690",
-   "title": "Salesforce shares fell for seven consecutive sessions",
-   "link": "https://seekingalpha.com/news/4602352-salesforce-shares-fall-for-seven-consecutive-sessions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-10T20:01:52+00:00",
-   "tickers": [
-    "CRM"
-   ]
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
+  "SCHR": "Schwab Intermediate-Term U.S. Treasury ETF",
   "CP": "Canadian Pacific Kansas City Limited",
   "FLG": "Flagstar Bank, National Association",
   "UCO": "ProShares Ultra Bloomberg Crude Oil",
@@ -8364,7 +8365,6 @@
   "XOM": "Exxon Mobil",
   "DDOG": "Datadog Inc",
   "BA": "The Boeing",
-  "CRM": "Salesforce",
   "DKNG": "DraftKings",
   "RKLB": "Rocket Lab",
   "WT": "WisdomTree",
