@@ -1,8 +1,23 @@
 {
- "generated": "2026-06-11T01:27:01.006859+00:00",
+ "generated": "2026-06-11T01:32:20.842519+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "db8645834a3b",
+   "title": "Lee Raymond, Who Created Global Oil Behemoth Exxon Mobil, Dies at 87",
+   "link": "https://www.nytimes.com/2026/06/10/business/lee-raymond-dead.html",
+   "summary": "He oversaw Exxon’s acquisition of a rival, cut costs relentlessly and denied the scientific consensus on climate change.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-11T01:22:04+00:00",
+   "tickers": [
+    "XOM"
+   ]
+  },
   {
    "id": "7f37a443910e",
    "title": "United Auto Workers reaches deal with Dauch Corp after 10-day strike",
@@ -8253,21 +8268,6 @@
    "domain": "prnewswire.com",
    "published": "2026-06-10T19:37:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "554780b5f9af",
-   "title": "IDT Corporation to Present at East Coast IDEAS Investor Conference",
-   "link": "https://www.globenewswire.com/news-release/2026/06/10/3310069/33173/en/IDT-Corporation-to-Present-at-East-Coast-IDEAS-Investor-Conference.html",
-   "summary": "NEWARK, N.J., June 10, 2026 (GLOBE NEWSWIRE) -- IDT Corporation (NYSE: IDT), a provider of fintech and communications solutions, will present at the East Coast IDEAS Investor Conference on Thursday, June 11, 2026 at the Westin Times Square in New York.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-06-10T19:37:00+00:00",
-   "tickers": [
-    "SQ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8360,6 +8360,7 @@
   "CNM": "Core & Main",
   "MORN": "Morningstar",
   "S": "SentinelOne",
+  "XOM": "Exxon Mobil",
   "AMZN": "Whole Foods",
   "DDOG": "Datadog Inc",
   "BA": "The Boeing",
@@ -8385,7 +8386,6 @@
   "MC": "Moelis &",
   "SATS": "EchoStar",
   "TER": "Teradyne",
-  "SQ": "Cash App",
   "RTX": "Raytheon",
   "CNC": "Centene",
   "CVX": "Chevron",
