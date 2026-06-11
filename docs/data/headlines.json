@@ -1,8 +1,37 @@
 {
- "generated": "2026-06-11T04:32:23.989925+00:00",
+ "generated": "2026-06-11T04:37:12.902581+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "fe791e6edde5",
+   "title": "FirstFT: Iran threatens Hormuz after renewed US strikes",
+   "link": "https://www.ft.com/content/989ad683-2028-43e7-a65c-fad57256bb18",
+   "summary": "Also in today’s newsletter: EU’s diplomatic service and investor dispute with Spain",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-06-11T04:32:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e3c788f9a068",
+   "title": "Alcoa Corporation (AA) Presents at 16th Annual Wells Fargo Industrials & Materials Conference - Slideshow",
+   "link": "https://seekingalpha.com/article/4914045-alcoa-corporation-aa-presents-at-16th-annual-wells-fargo-industrials-and-materials-conference?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-11T04:32:10+00:00",
+   "tickers": [
+    "AA",
+    "WFC"
+   ]
+  },
   {
    "id": "3ea18b432a54",
    "title": "Commodities: Oil Moves Higher On Latest U.S.-Iran Escalation",
@@ -323,13 +352,13 @@
   },
   {
    "id": "81956bd1b682",
-   "title": "How the FSB cut Russia off from the internet",
+   "title": "‘We’re back in the Stone Age’: Russia’s spies turn off the internet",
    "link": "https://www.ft.com/content/da121259-3823-4109-bf7f-f7ff21d3118f",
    "summary": "Shutdowns have made one of the world’s most online nations resort to cash, paper maps and pet cams",
    "source": "FT Companies",
    "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
+   "type": "stocks",
+   "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-06-11T04:00:38+00:00",
    "tickers": []
@@ -502,6 +531,22 @@
    "domain": "ft.com",
    "published": "2026-06-11T04:00:06+00:00",
    "tickers": []
+  },
+  {
+   "id": "65e8054b87f9",
+   "title": "KKR launches $10bn data centre group led by former AWS chief",
+   "link": "https://www.ft.com/content/34a1a91e-bbe3-4c1f-a62e-682a23c12521",
+   "summary": "Helix Digital Infrastructure is latest investor-led effort to combine computing capacity with power supply",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-06-11T04:00:06+00:00",
+   "tickers": [
+    "KKR",
+    "AMZN"
+   ]
   },
   {
    "id": "147b1df29fdb",
@@ -5205,19 +5250,6 @@
    "tickers": []
   },
   {
-   "id": "fe791e6edde5",
-   "title": "FirstFT: Seven people charged over deadly Hong Kong fire",
-   "link": "https://www.ft.com/content/989ad683-2028-43e7-a65c-fad57256bb18",
-   "summary": "Also in today’s newsletter: US launches fresh wave of strikes on Iran, and BoJ governor Kazuo Ueda admitted to hospital",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "ft.com",
-   "published": "2026-06-10T21:43:24+00:00",
-   "tickers": []
-  },
-  {
    "id": "ff455542cfc5",
    "title": "Microsoft’s Xbox plans for major layoffs next month, Bloomberg News reports",
    "link": "https://www.investing.com/news/stock-market-news/microsofts-xbox-plans-for-major-layoffs-next-month-bloomberg-news-reports-4736300",
@@ -8206,35 +8238,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-10T20:12:17+00:00",
    "tickers": []
-  },
-  {
-   "id": "d4b89802fd85",
-   "title": "Stingray Group Inc. (RAY:CA) Q4 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4913952-stingray-group-inc-ray-ca-q4-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-10T20:12:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "18b9d58e29ec",
-   "title": "MetLife, Inc. (MET) Presents at Morgan Stanley US Financials Conference 2026 Transcript",
-   "link": "https://seekingalpha.com/article/4913913-metlife-inc-met-presents-at-morgan-stanley-us-financials-conference-2026-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-10T20:12:13+00:00",
-   "tickers": [
-    "MET",
-    "MS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8353,7 +8356,6 @@
   "GDDY": "GoDaddy",
   "IOT": "Samsara",
   "IVZ": "Invesco",
-  "MET": "MetLife",
   "NOVT": "Novanta",
   "ROL": "Rollins",
   "SCI": "Service",
