@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-12T21:32:28.213508+00:00",
+ "generated": "2026-06-12T21:37:25.986073+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,8 +13,25 @@
    "type": "offering",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-06-12T21:30:25+00:00",
+   "published": "2026-06-12T21:34:52+00:00",
    "tickers": []
+  },
+  {
+   "id": "23c8c592863f",
+   "title": "Justice Dept. Clears Way for Paramount-Warner Bros. Merger",
+   "link": "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html",
+   "summary": "The $111 billion deal would unite two major movie studios and put CNN under the same roof as CBS News.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-12T21:30:41+00:00",
+   "tickers": [
+    "PARA",
+    "WBD",
+    "NWSA"
+   ]
   },
   {
    "id": "1fedfda838b8",
@@ -99,23 +116,6 @@
    "tickers": [
     "PARA",
     "WBD"
-   ]
-  },
-  {
-   "id": "23c8c592863f",
-   "title": "Justice Dept. Clears Way for Paramount-Warner Bros. Merger",
-   "link": "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html",
-   "summary": "The $111 billion deal would unite two major movie studios and put CNN under the same roof as CBS News.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-06-12T21:27:29+00:00",
-   "tickers": [
-    "PARA",
-    "WBD",
-    "NWSA"
    ]
   },
   {
