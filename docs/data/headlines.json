@@ -1,8 +1,62 @@
 {
- "generated": "2026-06-12T08:17:31.542674+00:00",
+ "generated": "2026-06-12T08:22:19.130631+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e8cb7b3d89d5",
+   "title": "Global stocks jump on signs of a potential peace deal",
+   "link": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+   "summary": "The draft version of the Iran-U.S. memorandum of understanding also includes a commitment from the U.S. to lift oil sanctions, according to reports.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-06-12T08:20:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f4c74aa60ca6",
+   "title": "Stock index futures mixed as traders gear up for SpaceX IPO",
+   "link": "https://seekingalpha.com/news/4602856-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-12T08:18:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7a7fab491283",
+   "title": "Proposed Iran-U.S. deal would reopen Hormuz strait and lift oil sanctions, Iran state media says",
+   "link": "https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html",
+   "summary": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-12T08:16:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4bfb72a2e5ab",
+   "title": "Netflix: A High-Quality Compounder Back On Sale",
+   "link": "https://seekingalpha.com/article/4914449-netflix-a-high-quality-compounder-back-on-sale?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-12T08:16:11+00:00",
+   "tickers": [
+    "NFLX"
+   ]
+  },
   {
    "id": "aef855ee2688",
    "title": "European indexes gain as Trump indicates deal with Iran; yields dip",
@@ -290,21 +344,6 @@
    "published": "2026-06-12T07:58:32+00:00",
    "tickers": [
     "HON"
-   ]
-  },
-  {
-   "id": "e8cb7b3d89d5",
-   "title": "Stock futures tick higher as Wall Street gears up for SpaceX’s historic IPO: Live updates",
-   "link": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
-   "summary": "Elon Musk's rocket maker is set to debut on the Nasdaq on Friday in what will be the largest IPO in history.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-12T07:58:22+00:00",
-   "tickers": [
-    "NDAQ"
    ]
   },
   {
@@ -8113,45 +8152,6 @@
    "tickers": [
     "WDC"
    ]
-  },
-  {
-   "id": "e457ea0ff17f",
-   "title": "Form 4 Sound Financial Bancorp Inc For: 11 June",
-   "link": "https://www.investing.com/news/filings/form-4-sound-financial-bancorp-inc-for-11-june-93CH-4738643",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-11T22:57:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e7590bd75818",
-   "title": "Trump picks top Manhattan federal prosecutor as next intelligence chief",
-   "link": "https://www.investing.com/news/world-news/trump-nominates-jay-clayton-to-be-next-director-of-national-intelligence-4738132",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-06-11T22:55:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f8a4999ab15c",
-   "title": "Marathon Bancorp EVP and COO Michelle Knopf buys $14,936 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/marathon-bancorp-evp-and-coo-michelle-knopf-buys-14936-in-shares-93CH-4738640",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-11T22:55:05+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8257,6 +8257,7 @@
   "PEP": "PepsiCo",
   "SCI": "Service",
   "WDAY": "Workday",
+  "NFLX": "Netflix",
   "ZS": "Zscaler",
   "ABBV": "AbbVie",
   "ERAS": "Erasca",
