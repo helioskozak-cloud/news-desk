@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-12T08:37:01.275475+00:00",
+ "generated": "2026-06-12T08:42:25.670405+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,8 +13,38 @@
    "type": "ma",
    "sentiment": "positive",
    "domain": "cnbc.com",
-   "published": "2026-06-12T08:33:29+00:00",
+   "published": "2026-06-12T08:37:01+00:00",
    "tickers": []
+  },
+  {
+   "id": "0ffb566a2b02",
+   "title": "Goldman Sachs: Waldron's QT Warning Is Not In The Price",
+   "link": "https://seekingalpha.com/article/4914453-goldman-sachs-waldrons-qt-warning-is-not-in-the-price?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-12T08:34:44+00:00",
+   "tickers": [
+    "GS"
+   ]
+  },
+  {
+   "id": "58fcca6f72f2",
+   "title": "Nasdaq-100 shakeup rewards winners, ejects laggards",
+   "link": "https://seekingalpha.com/news/4602857-nasdaqminus-100-shakeup-rewards-winners-ejects-laggards?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-12T08:33:47+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
   },
   {
    "id": "3b18786356d3",
@@ -8116,36 +8146,6 @@
    "domain": "prnewswire.com",
    "published": "2026-06-11T23:05:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "6a31426311df",
-   "title": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in GRAIL, Inc. of Class Action Lawsuit and Upcoming Deadlines - GRAL",
-   "link": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-grail-inc-of-class-action-lawsuit-and-upcoming-deadlines--gral-302798586.html",
-   "summary": "NEW YORK, June 11, 2026 /PRNewswire/ -- Pomerantz LLP announces that a class action lawsuit has been filed against GRAIL, Inc. (\"Grail\" or the \"Company\") (NASDAQ: GRAL). Such investors are advised to contact Danielle Peyton at newaction@pomlaw.com or 646-581-9980, (or 888.4-POMLAW),...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-06-11T23:05:00+00:00",
-   "tickers": [
-    "GRAL"
-   ]
-  },
-  {
-   "id": "2a6b04673cd8",
-   "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Compass, Inc. - COMP",
-   "link": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-compass-inc---comp-302798583.html",
-   "summary": "NEW YORK, June 11, 2026 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Compass, Inc. (\"Compass\" or the \"Company\") (NYSE: COMP). Such investors are advised to contact Danielle Peyton at newaction@pomlaw.com or 646-581-9980, ext. 7980. The investigation...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-06-11T23:05:00+00:00",
-   "tickers": [
-    "COMP"
-   ]
   }
  ],
  "ticker_names": {
@@ -8239,7 +8239,6 @@
   "SQ": "Cash App",
   "AES": "The AES",
   "CMCSA": "Comcast",
-  "COMP": "Compass",
   "ENS": "EnerSys",
   "GAP": "The Gap",
   "IDA": "IDACORP",
@@ -8258,7 +8257,6 @@
   "ORCL": "Oracle",
   "CHWY": "Chewy",
   "FDX": "FedEx",
-  "GRAL": "GRAIL",
   "QRVO": "Qorvo",
   "NVMI": "Nova",
   "POOL": "Pool",
