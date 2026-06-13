@@ -1,8 +1,36 @@
 {
- "generated": "2026-06-13T07:22:20.359353+00:00",
+ "generated": "2026-06-13T07:26:51.268471+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b58755fb9d0c",
+   "title": "Former Tesla board member says SpaceX needs to achieve 2 of its 3 moonshots to keep its valuation",
+   "link": "https://www.cnbc.com/2026/06/12/spacex-moonshots-valuation-westly-tesla.html",
+   "summary": "SpaceX has achieved its goal of becoming the largest IPO on record.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-13T07:22:10+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "94047a478861",
+   "title": "Can The Eurozone Tolerate Higher Rates For Long?",
+   "link": "https://seekingalpha.com/article/4914738-can-eurozone-tolerate-higher-rates-for-long?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-13T07:20:00+00:00",
+   "tickers": []
+  },
   {
    "id": "553bc2db013f",
    "title": "Is Cardano Too Risky to Own -- or Too Cheap to Ignore?",
@@ -120,6 +148,19 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-06-13T07:10:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fda1a9c934e6",
+   "title": "Bitcoin stalls below $64,375 resistance: Hourly levels",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-63970-resistance-in-vshaped-rally-live-levels-93CH-4729724",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-13T07:01:57+00:00",
    "tickers": []
   },
   {
@@ -8215,52 +8256,6 @@
    "domain": "globenewswire.com",
    "published": "2026-06-12T22:43:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "83c7e266e088",
-   "title": "GPK Investor Alert - Graphic Packaging Holding Company Stockholders with Large Losses Should Contact Robbins LLP for Information About the Securities Fraud Class Action Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/gpk-investor-alert--graphic-packaging-holding-company-stockholders-with-large-losses-should-contact-robbins-llp-for-information-about-the-securities-fraud-class-action-lawsuit-302799417.html",
-   "summary": "SAN DIEGO, June 12, 2026 /PRNewswire/ -- Robbins LLP is Investigating Allegations that Graphic Packaging Holding Company (GPK) Misled Investors Regarding its Inventory Management Issues On May 7, 2026, a class action was filed on behalf of all investors who purchased or otherwise acquired...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-06-12T22:41:00+00:00",
-   "tickers": [
-    "GPK",
-    "PKG"
-   ]
-  },
-  {
-   "id": "259b873d7562",
-   "title": "Judge extends block on Trump administration 'anti-weaponization' fund",
-   "link": "https://biztoc.com/x/de50c16389a77503?ref=rss",
-   "summary": "A federal judge on Friday extended an order to indefinitely block President Donald Trump's $1.776 billion \"anti-weaponization\" fund because she does not trust the administration's word that it will not attempt to enact it. The fund was announced last month and meant to compensate people the Trump…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-12T22:39:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b7e8aa95e77c",
-   "title": "Paramount-WBD merger wins approval from DOJ, source says",
-   "link": "https://biztoc.com/x/58891dba36d85f0d?ref=rss",
-   "summary": "The U.S. Department of Justice has signed off on Paramount Skydance's proposed acquisition of Warner Bros. Discovery, clearing the merger of federal antitrust concerns. \"The Division has completed its analysis of the proposed merger of Paramount and Warner Bros. and determined based on the…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-06-12T22:39:03+00:00",
-   "tickers": [
-    "WBD",
-    "PSKY",
-    "PARA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8277,7 +8272,6 @@
   "AEIS": "Advanced Energy Industries",
   "FBIN": "Fortune Brands Innovations",
   "PRAX": "Praxis Precision Medicines",
-  "GPK": "Graphic Packaging Holding",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "LYV": "Live Nation Entertainment",
@@ -8372,7 +8366,6 @@
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "NXT": "Nextpower",
-  "PKG": "Packaging",
   "NWSA": "News Corp",
   "ALKS": "Alkermes",
   "APP": "AppLovin",
