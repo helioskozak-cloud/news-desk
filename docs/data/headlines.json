@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-13T14:07:22.417428+00:00",
+ "generated": "2026-06-13T14:12:02.788438+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -43,6 +43,23 @@
    "domain": "biztoc.com",
    "published": "2026-06-13T14:06:41+00:00",
    "tickers": []
+  },
+  {
+   "id": "f4d6f4498b4d",
+   "title": "Notable analyst calls this week: Pfizer, AMD and Intel among top picks",
+   "link": "https://seekingalpha.com/news/4602944-notable-analyst-calls-this-week-pfizer-amd-and-intel-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-13T14:05:59+00:00",
+   "tickers": [
+    "AMD",
+    "PFE",
+    "INTC"
+   ]
   },
   {
    "id": "1eaf8943b663",
@@ -377,6 +394,21 @@
    "published": "2026-06-13T14:00:13+00:00",
    "tickers": [
     "VZ"
+   ]
+  },
+  {
+   "id": "1096ae7f9a18",
+   "title": "This 28-year-old paid off her law school loans selling stickers and coloring books",
+   "link": "https://www.cnbc.com/2026/06/13/paid-off-law-school-student-loans-art-business.html",
+   "summary": "Elyse Burns started selling her art on Etsy when she turned 18. Now she's paid off her student loans and did nearly $5 million last year.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-13T14:00:01+00:00",
+   "tickers": [
+    "ETSY"
    ]
   },
   {
@@ -8227,32 +8259,6 @@
    "domain": "biztoc.com",
    "published": "2026-06-13T07:14:22+00:00",
    "tickers": []
-  },
-  {
-   "id": "380c7b0670bf",
-   "title": "US says downed multiple Iran drones as both insist deal closer",
-   "link": "https://biztoc.com/x/53e904740bc5429f?ref=rss",
-   "summary": "US Central Command said the Strait of Hormuz \"remains open for transit\"",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T07:14:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b402b2595f13",
-   "title": "OpenAI Reportedly Faces Legal And Regulatory Storm As States Probe AI Safety and Consumer Protections Ahead Of IPO",
-   "link": "https://biztoc.com/x/ea8173116c28e642?ref=rss",
-   "summary": "OpenAI is reportedly facing a multi-state investigation as attorneys general examine the company’s data practices, safety measures and the potential impact of its artificial intelligence products on consumers ahead of its anticipated initial public offering. State Attorneys General Seek…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T07:14:01+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8279,6 +8285,7 @@
   "GS": "The Goldman Sachs Group",
   "IYE": "iShares U.S. Energy ETF",
   "ADM": "Archer-Daniels-Midland",
+  "AMD": "Advanced Micro Devices",
   "CRSP": "CRISPR Therapeutics AG",
   "RYTM": "Rhythm Pharmaceuticals",
   "VZ": "Verizon Communications",
@@ -8390,6 +8397,7 @@
   "NUE": "Nucor",
   "DAVE": "Dave",
   "EBAY": "eBay",
+  "ETSY": "Etsy",
   "ROKU": "Roku"
  }
 }
