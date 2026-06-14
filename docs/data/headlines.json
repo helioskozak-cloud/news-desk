@@ -1,8 +1,23 @@
 {
- "generated": "2026-06-14T09:07:20.682213+00:00",
+ "generated": "2026-06-14T09:12:18.524273+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "36893c744e28",
+   "title": "Merger Cleared, David Ellison to Join Trump at U.F.C. Bout",
+   "link": "https://www.nytimes.com/2026/06/14/business/media/trump-ufc-david-ellison.html",
+   "summary": "A U.F.C. fight on President Trump’s birthday will now double as a capstone for Paramount’s successful effort to secure Justice Department approval for a mega media merger.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-14T09:01:45+00:00",
+   "tickers": [
+    "PARA"
+   ]
+  },
   {
    "id": "e80726904650",
    "title": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
@@ -55,6 +70,47 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-06-14T09:00:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "04edbbeb6d44",
+   "title": "5 big analyst AI moves: Double-upgrade for Intel; SpaceX gets Buy call after IPO",
+   "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-doubleupgrade-for-intel-spacex-gets-buy-call-after-ipo-4741047",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-06-14T09:00:02+00:00",
+   "tickers": [
+    "INTC"
+   ]
+  },
+  {
+   "id": "417e827db952",
+   "title": "Bitcoin advances as SpaceX’s $1.3 billion crypto reserve draws attention",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-advances-as-spacexs-13-billion-crypto-reserve-draws-attention-4741070",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-14T08:55:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "91a23e7ad083",
+   "title": "Switzerland votes on proposal to cap population at 10 million",
+   "link": "https://www.investing.com/news/world-news/switzerland-votes-on-proposal-to-cap-population-at-10-million-4741051",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-14T08:54:28+00:00",
    "tickers": []
   },
   {
@@ -271,19 +327,6 @@
    "sentiment": "positive",
    "domain": "investing.com",
    "published": "2026-06-14T08:30:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "91a23e7ad083",
-   "title": "Switzerland votes on proposal to cap population at 10 million",
-   "link": "https://www.investing.com/news/world-news/switzerland-votes-on-proposal-to-cap-population-at-10-million-4741051",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-14T08:24:25+00:00",
    "tickers": []
   },
   {
@@ -8306,51 +8349,6 @@
    "tickers": [
     "HPE"
    ]
-  },
-  {
-   "id": "6806f42d4b2b",
-   "title": "Modine Manufacturing Company (MOD): A Hot Stock to Buy Amid Solid Growth Metrics",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/modine-manufacturing-company-mod-hot-193102804.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T19:31:02+00:00",
-   "tickers": [
-    "MOD"
-   ]
-  },
-  {
-   "id": "1fbbe12e961d",
-   "title": "Onto Innovation Inc. (ONTO): A Hot Stock to Buy Amid Robust Inspection Technology Adoption",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/onto-innovation-inc-onto-hot-193052210.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T19:30:52+00:00",
-   "tickers": [
-    "ONTO"
-   ]
-  },
-  {
-   "id": "55fbb0f72e15",
-   "title": "TeraWulf Inc. (WULF) Eyes Leveraged Loans to Accelerate AI Infrastructure Expansion",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/terawulf-inc-wulf-eyes-leveraged-193043821.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T19:30:43+00:00",
-   "tickers": [
-    "WULF"
-   ]
   }
  ],
  "ticker_names": {
@@ -8511,6 +8509,7 @@
   "CHWY": "Chewy",
   "CIEN": "Ciena",
   "FDX": "FedEx",
+  "INTC": "Intel",
   "NUE": "Nucor",
   "XYZ": "Block",
   "BALL": "Ball",
