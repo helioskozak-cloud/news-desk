@@ -1,8 +1,37 @@
 {
- "generated": "2026-06-14T22:02:16.701433+00:00",
+ "generated": "2026-06-14T22:07:03.173483+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1b39125a698f",
+   "title": "Stock futures jump after the U.S. and Iran reach a deal to end the war: Live updates",
+   "link": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html",
+   "summary": "The three major indexes are coming off a winning week.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-06-14T22:05:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "02e99a8f53bf",
+   "title": "Zymeworks Presents New Phase 1 Data for Folate Receptor Alpha-Targeting ADC ZW191 at ESMO Gynaecological Cancers Congress 2026",
+   "link": "https://www.globenewswire.com/news-release/2026/06/14/3311472/0/en/Zymeworks-Presents-New-Phase-1-Data-for-Folate-Receptor-Alpha-Targeting-ADC-ZW191-at-ESMO-Gynaecological-Cancers-Congress-2026.html",
+   "summary": "VANCOUVER, British Columbia, June 14, 2026 (GLOBE NEWSWIRE) -- Zymeworks Inc. (Nasdaq: ZYME), a biotechnology company managing a portfolio of licensed healthcare assets while developing a diverse pipeline of novel, multifunctional biotherapeutics, today presented new clinical data from the dose-escalation portion of its ongoing Phase 1 study evaluating ZW191, a folate receptor alpha (FRα)-targeting antibody-drug conjugate (ADC), at the European Society for Medical Oncology (ESMO) Gynaecological ",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-06-14T22:05:00+00:00",
+   "tickers": [
+    "ADC",
+    "NDAQ"
+   ]
+  },
   {
    "id": "9618d083b801",
    "title": "Why Gen Z Is Right To Be Concerned About AI",
@@ -442,6 +471,19 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-06-14T21:43:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d4d40014bdc7",
+   "title": "Dow Jones Futures Due As Trump Announces Iran Deal, Hormuz To Open; SpaceX's Next Test",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investors.com",
+   "published": "2026-06-14T21:42:57+00:00",
    "tickers": []
   },
   {
@@ -931,19 +973,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-06-14T21:13:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d4d40014bdc7",
-   "title": "Dow Jones Futures Due With Iran Deal In Focus, SpaceX's Next Test",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&yptr=yahoo",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investors.com",
-   "published": "2026-06-14T21:08:37+00:00",
    "tickers": []
   },
   {
@@ -8207,32 +8236,6 @@
    "tickers": [
     "MDT"
    ]
-  },
-  {
-   "id": "08ebffa6a7d1",
-   "title": "Touchstone Mid Cap Value Fund Q1 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4914875-touchstone-mid-cap-value-fund-q1-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-14T15:05:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1a36b429d333",
-   "title": "AI finds critical flaw in Zcash, raising new security fears for crypto investors",
-   "link": "https://seekingalpha.com/news/4603126-ai-finds-critical-flaw-in-zcash-raising-new-security-fears-for-crypto-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-14T15:04:46+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8296,6 +8299,7 @@
   "POST": "Post Holdings",
   "TLRY": "Tilray Brands",
   "MSTR": "MicroStrategy",
+  "ADC": "Agree Realty",
   "MELI": "MercadoLibre",
   "RBC": "RBC Bearings",
   "GOOGL": "Google Cloud",
