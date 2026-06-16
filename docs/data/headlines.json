@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-16T04:17:11.585795+00:00",
+ "generated": "2026-06-16T04:22:04.108079+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "87701f05002a",
+   "title": "Bank of Japan hikes rates to highest since 1995 as yen languishes at historic lows",
+   "link": "https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html",
+   "summary": "This is the BOJ's first hike since December, when it raised rates to its current level of 0.75%, also its highest level in over 30 years.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-06-16T04:18:16+00:00",
+   "tickers": []
+  },
   {
    "id": "8e517bea2a5c",
    "title": "China’s retail sales sink for first time in more than three years",
@@ -13,7 +26,20 @@
    "type": "stocks",
    "sentiment": "negative",
    "domain": "ft.com",
-   "published": "2026-06-16T04:16:26+00:00",
+   "published": "2026-06-16T04:17:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e4d6ef3ff8b0",
+   "title": "Ballard Power lands second major 15 MW stationary power order",
+   "link": "https://seekingalpha.com/news/4603843-ballard-power-lands-second-major-15-mw-stationary-power-order?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-16T04:15:15+00:00",
    "tickers": []
   },
   {
@@ -597,19 +623,6 @@
    "tickers": [
     "SOFI"
    ]
-  },
-  {
-   "id": "87701f05002a",
-   "title": "Bank of Japan hikes rates to highest since 1995 as yen languishes at historic lows",
-   "link": "https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html",
-   "summary": "This is the BOJ's first hike since December, when it raised rates to its current level of 0.75%, also its highest level in over 30 years.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-06-16T03:56:43+00:00",
-   "tickers": []
   },
   {
    "id": "5c281961d537",
@@ -8220,21 +8233,6 @@
    "domain": "marketwatch.com",
    "published": "2026-06-15T23:07:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "d021a8c85729",
-   "title": "Form 4 Autodesk Inc For: 15 June",
-   "link": "https://www.investing.com/news/filings/form-4-autodesk-inc-for-15-june-93CH-4743573",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-15T23:06:46+00:00",
-   "tickers": [
-    "ADSK"
-   ]
   }
  ],
  "ticker_names": {
@@ -8348,7 +8346,6 @@
   "SNOW": "Snowflake",
   "TEAM": "Atlassian",
   "NWSA": "News Corp",
-  "ADSK": "Autodesk",
   "APP": "AppLovin",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
