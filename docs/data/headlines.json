@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-16T04:12:24.826838+00:00",
+ "generated": "2026-06-16T04:17:11.585795+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8e517bea2a5c",
+   "title": "China’s retail sales sink for first time in more than three years",
+   "link": "https://www.ft.com/content/f0238d1d-8b35-4686-84f7-cdf90a628ebf",
+   "summary": "Investment slump deepens as divergence widens in second-biggest economy",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-06-16T04:16:26+00:00",
+   "tickers": []
+  },
   {
    "id": "8238c86fd7e0",
    "title": "China’s Property Stocks Tumble Back to Pre-2024 Stimulus Levels",
@@ -15,6 +28,34 @@
    "domain": "biztoc.com",
    "published": "2026-06-16T04:12:25+00:00",
    "tickers": []
+  },
+  {
+   "id": "a7d9282a855f",
+   "title": "U.S. stock futures are flat after Dow record close on U.S.-Iran deal; Nikkei 225 hits record high: Live updates",
+   "link": "https://www.cnbc.com/2026/06/15/stock-market-today-live-updates.html",
+   "summary": "On Monday, the Dow Jones Industrial Average climbed to new intraday and closing records on a potential deal between the U.S. and Iran.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-06-16T04:11:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e7f8662f1ce6",
+   "title": "T-Mobile US declares $1.02 dividend",
+   "link": "https://seekingalpha.com/news/4603844-t-mobile-us-declares-1_02-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-16T04:11:31+00:00",
+   "tickers": [
+    "TMUS"
+   ]
   },
   {
    "id": "36cb1c579d72",
@@ -146,6 +187,19 @@
    "category": "stocks",
    "type": "stocks",
    "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-06-16T04:00:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7cd04551f62c",
+   "title": "Will there be a peace dividend for markets?",
+   "link": "https://www.ft.com/content/ff9ca3f4-c82b-4d8a-93f0-df4c58bd2e53",
+   "summary": "An end to the Iran war will boost confidence in the resilience of the global economy and corporate earnings",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
    "domain": "ft.com",
    "published": "2026-06-16T04:00:33+00:00",
    "tickers": []
@@ -363,6 +417,19 @@
    "type": "ma",
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
+   "published": "2026-06-16T04:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9da435b88b57",
+   "title": "Investors celebrate US-Iran deal",
+   "link": "https://www.ft.com/content/e7d665aa-3a2b-457d-b2ee-4da7afbd527f",
+   "summary": "Stocks surge as agreement to reopen the Strait of Hormuz ignites global rally",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "ft.com",
    "published": "2026-06-16T04:00:00+00:00",
    "tickers": []
   },
@@ -2163,19 +2230,6 @@
    ]
   },
   {
-   "id": "a7d9282a855f",
-   "title": "Stock futures are little changed after Dow posts new record close on potential U.S.-Iran deal: Live updates",
-   "link": "https://www.cnbc.com/2026/06/15/stock-market-today-live-updates.html",
-   "summary": "On Monday, the Dow Jones Industrial Average climbed to new intraday and closing records on a potential deal between the U.S. and Iran.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-16T02:47:49+00:00",
-   "tickers": []
-  },
-  {
    "id": "e3f41d92f968",
    "title": "Bambu Lab Launches PLA Pure: A Filament Made for Printing Where You Live",
    "link": "https://www.prnewswire.com/news-releases/bambu-lab-launches-pla-pure-a-filament-made-for-printing-where-you-live-302800995.html",
@@ -2544,19 +2598,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-06-16T02:36:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8e517bea2a5c",
-   "title": "China’s economy shows signs of weakness in May",
-   "link": "https://www.ft.com/content/f0238d1d-8b35-4686-84f7-cdf90a628ebf",
-   "summary": "Retail sales decline for first time in more than three years and fixed asset investment slump deepens",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-06-16T02:34:29+00:00",
    "tickers": []
   },
   {
@@ -8194,45 +8235,6 @@
    "tickers": [
     "ADSK"
    ]
-  },
-  {
-   "id": "bb89f740e643",
-   "title": "US Air Force B-52 bomber crashes in California; 8-member crew presumed dead",
-   "link": "https://www.cnbc.com/2026/06/15/us-air-force-b-52-bomber-crashes-on-takeoff-in-california-air-force-says.html",
-   "summary": "A U.S. Air Force B-52 Stratofortress bomber crashed on Monday shortly after takeoff from Edwards Air Force Base.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-06-15T23:06:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2261d6009c66",
-   "title": "North Korea touts industrial ‘miracles’ as output exceeds targets, state media says",
-   "link": "https://www.investing.com/news/economic-indicators/north-korea-touts-industrial-miracles-as-output-exceeds-targets-state-media-says-4743572",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-06-15T23:06:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "60ac754401f5",
-   "title": "Nicholas Begich III invests in Listen Ventures IV, LP",
-   "link": "https://www.investing.com/news/company-news/nicholas-begich-iii-invests-in-listen-ventures-iv-lp-93CH-4743571",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-15T23:05:50+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8324,6 +8326,7 @@
   "LCID": "Lucid Group",
   "ROST": "Ross Stores",
   "S": "SentinelOne",
+  "TMUS": "T-Mobile US",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
