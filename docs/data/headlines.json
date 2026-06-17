@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-17T01:52:27.158138+00:00",
+ "generated": "2026-06-17T01:57:21.210156+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ee8ac75a776c",
+   "title": "SpaceX options debut signals 'expensive' and 'dangerous' bets, strategist says",
+   "link": "https://www.cnbc.com/2026/06/17/spacex-options-debut-with-tails-looking-dangerous-strategist-says.html",
+   "summary": "Options on SpaceX have started trading after the company's IPO, and they show a wide variation in bets.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-17T01:53:57+00:00",
+   "tickers": []
+  },
   {
    "id": "33c71db64efc",
    "title": "Travere therapeutics director sells $225,000 of TVTX shares",
@@ -47,25 +60,12 @@
    ]
   },
   {
-   "id": "ee8ac75a776c",
-   "title": "SpaceX options debut signals 'expensive' and 'dangerous' bets, strategist says",
-   "link": "https://www.cnbc.com/2026/06/17/spacex-options-debut-with-tails-looking-dangerous-strategist-says.html",
-   "summary": "Options on SpaceX have started trading after the company's IPO, and they show a wide variation in bets.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-17T01:48:18+00:00",
-   "tickers": []
-  },
-  {
    "id": "9c56be973b5f",
    "title": "Ambani’s Reliance Jio set to file for $4 bln IPO within days, FT reports",
    "link": "https://www.investing.com/news/stock-market-news/ambanis-reliance-jio-set-to-file-for-4-bln-ipo-within-days-ft-reports-4746337",
    "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
+   "source": "Investing Stock",
+   "category": "stocks",
    "type": "offering",
    "sentiment": "neutral",
    "domain": "investing.com",
@@ -154,6 +154,19 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-06-17T01:40:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9dd2bc785e35",
+   "title": "Singapore non-oil exports jump 38.4% in May on AI-driven demand",
+   "link": "https://www.investing.com/news/stock-market-news/singapore-nonoil-exports-jump-384-in-may-on-aidriven-demand-93CH-4746328",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-06-17T01:38:09+00:00",
    "tickers": []
   },
   {
@@ -8245,21 +8258,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-16T21:29:03+00:00",
    "tickers": []
-  },
-  {
-   "id": "2c83d469bca0",
-   "title": "Azitra, Inc. to Present at 2026 BIO International Convention",
-   "link": "https://www.prnewswire.com/news-releases/azitra-inc-to-present-at-2026-bio-international-convention-302802364.html",
-   "summary": "BRANFORD, Conn., June 16, 2026 /PRNewswire/ -- Azitra, Inc. (NYSE American: AZTR), a clinical stage biopharmaceutical company focused on developing innovative therapies for precision dermatology, today announced that Cofounder and Chief Operating Officer, Travis Whitfill Ph.D., MPH, will...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-06-16T21:28:00+00:00",
-   "tickers": [
-    "BIO"
-   ]
   }
  ],
  "ticker_names": {
@@ -8284,7 +8282,6 @@
   "IONS": "Ionis Pharmaceuticals",
   "OPEN": "Opendoor Technologies",
   "PLTR": "Palantir Technologies",
-  "BIO": "Bio-Rad Laboratories",
   "PG": "The Procter & Gamble",
   "RVMD": "Revolution Medicines",
   "TVTX": "Travere Therapeutics",
