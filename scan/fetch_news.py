@@ -64,12 +64,21 @@ FEEDS = [
     ("PR Newswire Fin",   "press",     "https://www.prnewswire.com/rss/financial-services-latest-news/financial-services-latest-news-list.rss"),
     ("PR Newswire All",   "press",     "https://www.prnewswire.com/rss/news-releases-list.rss"),
     ("GlobeNewswire",     "press",     "https://www.globenewswire.com/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies"),
-    # Aggregators
-    ("BizToc",            "aggregator","https://biztoc.com/feed"),
+    # Ticker-tagged stock news (every headline structurally tagged with a symbol)
+    ("Stock Titan",       "stocks",    "https://www.stocktitan.net/rss"),
+    ("Benzinga News",     "stocks",    "https://www.benzinga.com/news/feed/"),
+    ("Benzinga Markets",  "markets",   "https://www.benzinga.com/markets/feed/"),
     # SEC filings — actual current-events feed (was broken in v1)
     ("SEC 8-K Filings",   "filings",   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=8-K&company=&dateb=&owner=include&count=40&output=atom"),
     ("SEC 13D/G",         "filings",   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=SC+13D&company=&dateb=&owner=include&count=40&output=atom"),
 ]
+
+# Source names that have ever been retired — used to purge historical
+# entries from the running headlines.json on the next merge so the UI
+# doesn't keep showing them after a feed is dropped.
+DROPPED_SOURCES = {
+    "BizToc",  # affiliate-link spam aggregator, retired 2026-06-17
+}
 
 # ── Ticker universe ──────────────────────────────────────────────────────────
 def load_tickers() -> set[str]:
@@ -139,7 +148,9 @@ TICKER_BLOCKLIST = {
 _TICKER_PATTERNS = [
     re.compile(r"\$([A-Z]{1,5})\b"),                        # $TSLA
     re.compile(r"\(([A-Z]{1,5})\)"),                        # (TSLA)
+    re.compile(r"\(([A-Z]{1,5}):[A-Z]{1,4}\)"),             # (TSLA:US), (LABS:CA) — Seeking Alpha
     re.compile(r"\b(?:NYSE|NASDAQ|NYSEARCA|AMEX):\s*([A-Z]{1,5})"),  # NYSE: TSLA
+    re.compile(r"\|\s*([A-Z]{1,5})\s+Stock\s+News\s*$"),    # ... | TSLA Stock News (Stock Titan)
 ]
 _BARE_TICKER = re.compile(r"\b([A-Z]{2,5})\b")
 
@@ -338,6 +349,16 @@ def main():
         time.sleep(0.25)
 
     existing = load_existing()
+    # Purge any entries from sources we've retired — keeps the UI clean
+    # when a feed is dropped instead of letting old items hang around for
+    # MAX_KEEP rotations.
+    before = len(existing)
+    existing = [h for h in existing if h.get("source") not in DROPPED_SOURCES]
+    purged = before - len(existing)
+    if purged:
+        print(f"Purged {purged} entries from retired sources: "
+              f"{', '.join(sorted(DROPPED_SOURCES))}", flush=True)
+
     seen_ids = {h["id"] for h in existing}
     new_items = [h for h in fresh if h["id"] not in seen_ids]
     print(f"\nFetched {len(fresh)} total ({len(new_items)} new since last run)", flush=True)
