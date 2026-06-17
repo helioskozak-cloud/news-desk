@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-17T04:22:25.977440+00:00",
+ "generated": "2026-06-17T04:27:24.903070+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "7798652369ed",
+   "title": "Nearly All Monetary Rules Say The Fed Should Raise Rates",
+   "link": "https://seekingalpha.com/article/4915542-nearly-all-monetary-rules-say-fed-should-raise-rates?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-17T04:25:00+00:00",
+   "tickers": []
+  },
   {
    "id": "c41981273a43",
    "title": "U.S. Bancorp declares $0.52 dividend",
@@ -31,6 +44,22 @@
    "published": "2026-06-17T04:16:21+00:00",
    "tickers": [
     "DELL"
+   ]
+  },
+  {
+   "id": "509a04ae7846",
+   "title": "Public Service Enterprise Group: What It Would Take For Upside",
+   "link": "https://seekingalpha.com/article/4915528-public-service-enterprise-group-what-it-would-take-for-upside?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-17T04:16:07+00:00",
+   "tickers": [
+    "PEG",
+    "SCI"
    ]
   },
   {
@@ -768,6 +797,19 @@
    "source": "FT Companies",
    "category": "stocks",
    "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-06-17T04:00:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1475960ae944",
+   "title": "Investors pile into bullish dollar bets as ‘US exceptionalism’ trade returns",
+   "link": "https://www.ft.com/content/c2369546-6857-47fe-84bb-30f4290c9bb5",
+   "summary": "Traders expect buoyant American economy to keep Fed from cutting rates despite oil price fall",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-06-17T04:00:44+00:00",
@@ -8180,45 +8222,6 @@
    "domain": "biztoc.com",
    "published": "2026-06-16T22:45:58+00:00",
    "tickers": []
-  },
-  {
-   "id": "0c7338586b16",
-   "title": "Oklahoma begins choosing a new U.S. senator and governor in crowded primary",
-   "link": "https://biztoc.com/x/eb818c2bdb0e6d25?ref=rss",
-   "summary": "If no candidate receives at least 50% of the vote, the top two will have a runoff Aug. 25.",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-16T22:45:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a1be1e2abfe1",
-   "title": "Trump wants Iran in ‘rearview mirror’",
-   "link": "https://biztoc.com/x/719e849b139c5455?ref=rss",
-   "summary": "US President Donald Trump said Tuesday he hoped the Iran war would be in the “rearview mirror” soon, but details of the ceasefire deal are still a mystery and Israel’s presence in Lebanon remains a thorny issue. The US vice president suggested the initial agreement was a “very general document”:…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-16T22:45:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e945beb230aa",
-   "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-   "link": "https://biztoc.com/x/633b72e896ec7243?ref=rss",
-   "summary": "Anthropic is having a month. The AI lab finished May by surpassing OpenAI in market share of business spending for the first time, Ramp just revealed. It raised $65 billion at a $965 billion valuation (also besting OpenAI) at the end of May, then waltzed into June by filing confidential paperwork…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-16T22:45:49+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8226,6 +8229,7 @@
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "IBM": "International Business Machines",
+  "PEG": "Public Service Enterprise Group",
   "BMNR": "Bitmine Immersion Technologies",
   "CWAN": "Clearwater Analytics Holdings",
   "WST": "West Pharmaceutical Services",
@@ -8348,6 +8352,7 @@
   "MRNA": "Moderna",
   "NEM": "Newmont",
   "PCVX": "Vaxcyte",
+  "SCI": "Service",
   "SNDK": "Sandisk",
   "WMT": "Walmart",
   "NFLX": "Netflix",
