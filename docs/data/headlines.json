@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-19T04:42:31.448005+00:00",
+ "generated": "2026-06-19T04:47:23.200461+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "abf3127133fb",
+   "title": "South Korea's Kospi extends record run as Asia markets open mixed; Samsung, SK Hynix hit all-time highs",
+   "link": "https://www.cnbc.com/2026/06/19/asia-pacific-markets-poised-for-mixed-open-as-iran-deal-faces-scrutiny.html",
+   "summary": "Asia-Pacific markets were set to trade mixed on Friday as investors assessed the durability of a U.S.-brokered peace agreement with Iran.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-19T04:44:26+00:00",
+   "tickers": []
+  },
   {
    "id": "a4c477771ada",
    "title": "Da KI das Stromnetz stark belastet, startet Envision auf der VivaTech 2026 „Mission Gobi\"",
@@ -15,6 +28,21 @@
    "domain": "prnewswire.com",
    "published": "2026-06-19T04:39:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "37e13aa36ddd",
+   "title": "Project Glasswing: Cisco, banks reportedly maintain access to Anthropic's Mythos AI",
+   "link": "https://seekingalpha.com/news/4605154-project-glasswing-cisco-banks-reportedly-maintain-access-to-anthropics-mythos-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-19T04:36:28+00:00",
+   "tickers": [
+    "CSCO"
+   ]
   },
   {
    "id": "2b3f0cecbbf7",
@@ -621,19 +649,6 @@
    "sentiment": "positive",
    "domain": "investing.com",
    "published": "2026-06-19T03:48:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "abf3127133fb",
-   "title": "South Korea's Kospi extends record run as Asia markets open mixed; Samsung, SK Hynix hit all-time highs",
-   "link": "https://www.cnbc.com/2026/06/19/asia-pacific-markets-poised-for-mixed-open-as-iran-deal-faces-scrutiny.html",
-   "summary": "Asia-Pacific markets were set to trade mixed on Friday as investors assessed the durability of a U.S.-brokered peace agreement with Iran.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-19T03:45:55+00:00",
    "tickers": []
   },
   {
@@ -8400,19 +8415,6 @@
    "tickers": [
     "MORN"
    ]
-  },
-  {
-   "id": "59b1b06e7a36",
-   "title": "Ameris Bancorp declares $0.20 dividend",
-   "link": "https://seekingalpha.com/news/4605100-ameris-bancorp-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-18T20:21:13+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8482,6 +8484,7 @@
   "NET": "Cloudflare Inc",
   "AVAV": "AeroVironment",
   "BRO": "Brown & Brown",
+  "CSCO": "Cisco Systems",
   "FHN": "First Horizon",
   "FTAI": "FTAI Aviation",
   "O": "Realty Income",
