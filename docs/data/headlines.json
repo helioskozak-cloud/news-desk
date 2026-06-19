@@ -1,8 +1,23 @@
 {
- "generated": "2026-06-19T16:17:13.433832+00:00",
+ "generated": "2026-06-19T16:22:13.820050+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "923e31ba0e0e",
+   "title": "Red Chris Mine Receives Major Regulatory Authorizations for Block Cave Project",
+   "link": "https://www.globenewswire.com/news-release/2026/06/19/3314844/0/en/Red-Chris-Mine-Receives-Major-Regulatory-Authorizations-for-Block-Cave-Project.html",
+   "summary": "VANCOUVER, British Columbia, June 19, 2026 (GLOBE NEWSWIRE) -- Imperial Metals Corporation (“Imperial”) (TSX:III) is pleased to report that the Province of British Columbia has granted key authorizations approving the transition of Red Chris from open pit operations to a block cave mine. The authorization of an amended Environmental Assessment Certificate, following a consent-based framework with the Tahltan Nation, and an amended Mines Act authorization effectively permit an extension of mine l",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-06-19T16:16:00+00:00",
+   "tickers": [
+    "XYZ"
+   ]
+  },
   {
    "id": "abf3127133fb",
    "title": "Global stock markets close lower on Friday as investors assess durability of U.S.-Iran peace deal",
@@ -88,8 +103,8 @@
    "title": "Netherlands stocks lower at close of trade; AEX down 0.30%",
    "link": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-030-4751542",
    "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
+   "source": "Investing Stock",
+   "category": "stocks",
    "type": "downgrade",
    "sentiment": "negative",
    "domain": "investing.com",
@@ -237,6 +252,19 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-06-19T16:01:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "be51d3e3b2ef",
+   "title": "Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investors.com",
+   "published": "2026-06-19T16:00:40+00:00",
    "tickers": []
   },
   {
@@ -515,19 +543,6 @@
    "sentiment": "neutral",
    "domain": "finance.yahoo.com",
    "published": "2026-06-19T15:53:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "be51d3e3b2ef",
-   "title": "Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investors.com",
-   "published": "2026-06-19T15:53:39+00:00",
    "tickers": []
   },
   {
@@ -8245,19 +8260,6 @@
    "tickers": [
     "ETH"
    ]
-  },
-  {
-   "id": "6004bcc41369",
-   "title": "Vietnamese man deported to South Sudan by US leaves for home",
-   "link": "https://www.investing.com/news/world-news/vietnamese-man-deported-to-south-sudan-by-us-leaves-for-home-4751473",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-19T10:42:52+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8402,6 +8404,7 @@
   "NDAQ": "Nasdaq",
   "WAT": "Waters",
   "INTC": "Intel",
+  "XYZ": "Block",
   "TREX": "Trex"
  }
 }
