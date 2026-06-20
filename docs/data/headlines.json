@@ -1,8 +1,38 @@
 {
- "generated": "2026-06-20T15:02:49.948481+00:00",
+ "generated": "2026-06-20T15:07:27.079250+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b0df842919f3",
+   "title": "The budget airline model in the U.S. is running out of runway",
+   "link": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
+   "summary": "Spirit's bankruptcy as United and Delta fly high suggests there's more to success in airline industry than low fares, and failure isn't about jet fuel spikes.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-20T15:05:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0f2fc39c65ff",
+   "title": "Insider trades: American Express, Dell and Broadcom among notable names",
+   "link": "https://seekingalpha.com/news/4605205-insider-trades-american-express-dell-and-broadcom-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-20T15:00:24+00:00",
+   "tickers": [
+    "AXP",
+    "AVGO",
+    "DELL"
+   ]
+  },
   {
    "id": "c6054915e7e1",
    "title": "Bitcoin's future as revolutionary as the smartphone, according to CoinDesk",
@@ -17,17 +47,20 @@
    "tickers": []
   },
   {
-   "id": "b0df842919f3",
-   "title": "The budget airline model in the U.S. is running out of runway",
-   "link": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
-   "summary": "Spirit's bankruptcy as United and Delta fly high suggests there's more to success in airline industry than low fares, and failure isn't about jet fuel spikes.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
+   "id": "74f369b2e925",
+   "title": "Micron, FedEx Set To Headline Earnings Next Week",
+   "link": "https://seekingalpha.com/article/4916158-micron-fedex-set-to-headline-earnings-next-week?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-20T14:58:19+00:00",
-   "tickers": []
+   "domain": "seekingalpha.com",
+   "published": "2026-06-20T15:00:00+00:00",
+   "tickers": [
+    "MU",
+    "FDX"
+   ]
   },
   {
    "id": "ef4a16b8b227",
@@ -8312,34 +8345,6 @@
    "domain": "prnewswire.com",
    "published": "2026-06-19T16:22:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "f2ea391d9f56",
-   "title": "Is TG Therapeutics, Inc. (TGTX) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tg-therapeutics-inc-tgtx-good-162200486.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-19T16:22:00+00:00",
-   "tickers": [
-    "TGTX"
-   ]
-  },
-  {
-   "id": "f6238b4da88c",
-   "title": "Is Trinity Industries, Inc. (TRN) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/trinity-industries-inc-trn-good-162147200.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-19T16:21:47+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8398,6 +8403,7 @@
   "PSKY": "Paramount Skydance",
   "SCHW": "The Charles Schwab",
   "CL": "Colgate-Palmolive",
+  "DELL": "Dell Technologies",
   "FLY": "Firefly Aerospace",
   "FWONK": "Formula One Group",
   "HOOD": "Robinhood Markets",
@@ -8421,7 +8427,6 @@
   "HOG": "Harley-Davidson",
   "KRMN": "Karman Holdings",
   "PL": "Planet Labs PBC",
-  "TGTX": "TG Therapeutics",
   "WDC": "Western Digital",
   "WGS": "GeneDx Holdings",
   "CAG": "Conagra Brands",
@@ -8505,6 +8510,7 @@
   "VST": "Vistra",
   "AMCR": "Amcor",
   "CX": "CEMEX",
+  "FDX": "FedEx",
   "FIG": "Figma",
   "INTC": "Intel",
   "TOST": "Toast",
