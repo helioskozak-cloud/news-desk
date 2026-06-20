@@ -1,8 +1,24 @@
 {
- "generated": "2026-06-20T00:12:10.546262+00:00",
+ "generated": "2026-06-20T00:17:16.272492+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f497053424fc",
+   "title": "Amazon’s Movie Arm Abandons Film About OpenAI",
+   "link": "https://www.nytimes.com/2026/06/19/business/media/amazon-openai-artificial-movie-sam-altman.html",
+   "summary": "The company, which invested $50 billion in the artificial intelligence start-up this year, will let the team behind the film, “Artificial,” try to sell the project to another studio.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-20T00:11:02+00:00",
+   "tickers": [
+    "AMZN",
+    "ARM"
+   ]
+  },
   {
    "id": "61c13ace97e6",
    "title": "Rush Street Interactive, Inc. (RSI) Shareholder/Analyst Call Transcript",
@@ -8284,19 +8300,6 @@
    "tickers": [
     "SPOT"
    ]
-  },
-  {
-   "id": "635b6805b0f0",
-   "title": "Dredging Market to Reach USD 21.3 Billion by 2036 as Port Expansion and Coastal Resilience Projects Sustain Global Demand",
-   "link": "https://www.prnewswire.com/news-releases/dredging-market-to-reach-usd-21-3-billion-by-2036-as-port-expansion-and-coastal-resilience-projects-sustain-global-demand-302805429.html",
-   "summary": "NEWARK, Del., June 19, 2026 /PRNewswire/ -- According to the latest analysis by Future Market Insights, the global Dredging Market is projected to expand from USD 17.3 billion in 2026 to USD 21.3 billion by 2036, registering a CAGR of 2.1% during the forecast period. According to Future...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-06-19T13:42:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8389,6 +8392,7 @@
   "Z": "Zillow Group",
   "GOOGL": "Google Cloud",
   "NVDA": "Grace Hopper",
+  "ARM": "Arm Holdings",
   "AGI": "Alamos Gold",
   "ALAB": "Astera Labs",
   "DUK": "Duke Energy",
