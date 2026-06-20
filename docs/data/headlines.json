@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-20T13:42:11.460215+00:00",
+ "generated": "2026-06-20T13:47:32.630852+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,8 +13,23 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-06-20T13:39:21+00:00",
+   "published": "2026-06-20T13:43:44+00:00",
    "tickers": []
+  },
+  {
+   "id": "431a6308fbb5",
+   "title": "XBI: A \"Hidden\" ETF Up +70% In 1 Year.",
+   "link": "https://seekingalpha.com/article/4916472-xbi-a-hidden-etf-up-plus-70-percent-in-1-year?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-20T13:40:44+00:00",
+   "tickers": [
+    "XBI"
+   ]
   },
   {
    "id": "9693d9fd0011",
@@ -1708,7 +1723,7 @@
    "type": "macro",
    "sentiment": "neutral",
    "domain": "nytimes.com",
-   "published": "2026-06-20T09:01:46+00:00",
+   "published": "2026-06-20T09:01:47+00:00",
    "tickers": []
   },
   {
@@ -1721,7 +1736,7 @@
    "type": "macro",
    "sentiment": "neutral",
    "domain": "nytimes.com",
-   "published": "2026-06-20T09:00:43+00:00",
+   "published": "2026-06-20T09:00:44+00:00",
    "tickers": []
   },
   {
@@ -8282,19 +8297,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-06-19T15:53:52+00:00",
    "tickers": []
-  },
-  {
-   "id": "25eaadd85ae8",
-   "title": "The riskiest SpaceX stock trade of all had a big first week",
-   "link": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
-   "summary": "SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-19T15:53:11+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8306,6 +8308,7 @@
   "FIS": "Fidelity National Information Services",
   "FAS": "Direxion Financial Bull 3X Shares",
   "IWP": "iShares Russell Midcap Growth ETF",
+  "XBI": "State Street SPDR S&P Biotech ETF",
   "EEM": "iShares MSCI Emerging Index Fund",
   "QSR": "Restaurant Brands International",
   "SCHF": "Schwab International Equity ETF",
