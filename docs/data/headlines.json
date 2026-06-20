@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-20T15:12:28.932762+00:00",
+ "generated": "2026-06-20T15:17:31.351007+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "be51d3e3b2ef",
+   "title": "Dow Jones Futures: Iran Closes Strait Of Hormuz; Nvidia Near Buy Point, Watch For This SpaceX Move",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investors.com",
+   "published": "2026-06-20T15:07:51+00:00",
+   "tickers": []
+  },
   {
    "id": "a06c2a23089e",
    "title": "Iran closes Strait of Hormuz again and says its negotiating team is heading to Switzerland",
@@ -117,6 +130,19 @@
    ]
   },
   {
+   "id": "0e5c3d7e237c",
+   "title": "Hyperliquid loses Anthropic, OpenAI markets",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-loses-anthropic-openai-markets-150000779.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-20T15:00:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "ef4a16b8b227",
    "title": "‘Money can make you happy’: My wife and I have no heirs, but we’re making the world a better place by giving it away",
    "link": "https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories",
@@ -142,6 +168,23 @@
    "published": "2026-06-20T14:55:05+00:00",
    "tickers": [
     "IREN"
+   ]
+  },
+  {
+   "id": "ecb2db52de1c",
+   "title": "Expert Predicts Drones Are the ‘Unlikely Catalyst’ for Battery Breakthroughs. Time to Buy AeroVironment, Ondas, and Red Cat?",
+   "link": "https://finance.yahoo.com/technology/articles/expert-predicts-drones-unlikely-catalyst-145417128.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-20T14:54:17+00:00",
+   "tickers": [
+    "AVAV",
+    "RCAT",
+    "ONDS"
    ]
   },
   {
@@ -1861,19 +1904,6 @@
    "sentiment": "neutral",
    "domain": "finance.yahoo.com",
    "published": "2026-06-20T12:09:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "be51d3e3b2ef",
-   "title": "Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investors.com",
-   "published": "2026-06-20T12:01:53+00:00",
    "tickers": []
   },
   {
@@ -8319,32 +8349,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-06-19T16:24:37+00:00",
    "tickers": []
-  },
-  {
-   "id": "2ad28e68205e",
-   "title": "Is Pebblebrook Hotel Trust (PEB) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/pebblebrook-hotel-trust-peb-good-162424092.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-19T16:24:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1902ed6547b2",
-   "title": "Is SunocoCorp LLC (SUNC) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sunococorp-llc-sunc-good-stock-162409101.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-19T16:24:09+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8416,6 +8420,7 @@
   "GTLS": "Chart Industries",
   "JPM": "JPMorgan Chase &",
   "NVO": "Novo Nordisk A/S",
+  "RCAT": "Red Cat Holdings",
   "SPXC": "SPX Technologies",
   "GE": "General Electric",
   "ASTS": "AST SpaceMobile",
@@ -8435,6 +8440,7 @@
   "FSM": "Fortuna Mining",
   "META": "Meta Platforms",
   "TSCO": "Tractor Supply",
+  "AVAV": "AeroVironment",
   "CIFR": "Cipher Mining",
   "JOBY": "Joby Aviation",
   "KMI": "Kinder Morgan",
@@ -8512,6 +8518,7 @@
   "FDX": "FedEx",
   "FIG": "Figma",
   "INTC": "Intel",
+  "ONDS": "Ondas",
   "TOST": "Toast",
   "VICR": "Vicor",
   "XYZ": "Block",
