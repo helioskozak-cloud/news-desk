@@ -1,8 +1,37 @@
 {
- "generated": "2026-06-20T21:57:11.997887+00:00",
+ "generated": "2026-06-20T22:02:38.068522+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8d0eeb5e0090",
+   "title": "What Does the Nayax President's Sale of 4,500 Company Shares Mean for Investors?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-nayax-presidents-sale-4-213901412.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-20T21:39:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "56fa1cf14041",
+   "title": "Pfizer's Dividend Yield is 10X Bigger Than Eli Lilly's. Does That Make It the Better Stock for Income Investors?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pfizers-dividend-yield-10x-bigger-213500494.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-20T21:35:00+00:00",
+   "tickers": [
+    "LLY",
+    "PFE"
+   ]
+  },
   {
    "id": "824b019d05a0",
    "title": "Labor Law Attorneys, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, File Suit Against My Wireless GLA, Inc., for Alleged Failure to Pay Employees' Full Wages",
@@ -8279,34 +8308,6 @@
    "domain": "cnbc.com",
    "published": "2026-06-19T20:18:05+00:00",
    "tickers": []
-  },
-  {
-   "id": "d496f340fcf4",
-   "title": "Eightco Holdings (NASDAQ : ORBS) annonce un portefeuille total d'environ 472 millions de dollars, comprenant notamment OpenAI, Beast Industries, plus de 16 000 ETH et plus de 283 millions de tokens WLD",
-   "link": "https://www.prnewswire.com/news-releases/eightco-holdings-nasdaq--orbs-annonce-un-portefeuille-total-denviron-472-millions-de-dollars-comprenant-notamment-openai-beast-industries-plus-de-16-000-eth-et-plus-de-283-millions-de-tokens-wld-302805672.html",
-   "summary": "Composition de la trésorerie d'Eightco au 18 juin 2026 : 90 millions de dollars de participations (indirectes) dans OpenAI, 18 millions de dollars de participations dans Beast Industries, 16 278 ETH, 283 millions de WLD, ainsi que 149 millions de dollars de trésorerie et équivalents de...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-06-19T20:18:00+00:00",
-   "tickers": [
-    "ETH"
-   ]
-  },
-  {
-   "id": "37d318688b22",
-   "title": "Lawsuit Claims San Angelo School Leaders' Inaction Enabled Preschooler's Abuse",
-   "link": "https://www.prnewswire.com/news-releases/lawsuit-claims-san-angelo-school-leaders-inaction-enabled-preschoolers-abuse-302805670.html",
-   "summary": "In case filed by The Button Law Firm, amended complaint alleges Trinity Lutheran School administrators saw surveillance footage of abuse and ignored state childcare laws SAN ANGELO, Texas, June 19, 2026 /PRNewswire/ -- A newly amended lawsuit, filed by The Button Law Firm on behalf of...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-06-19T20:17:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8464,6 +8465,7 @@
   "NDAQ": "Nasdaq",
   "OMER": "Omeros",
   "ORCL": "Oracle",
+  "PFE": "Pfizer",
   "RDDT": "Reddit",
   "RMD": "ResMed",
   "VST": "Vistra",
