@@ -1,8 +1,34 @@
 {
- "generated": "2026-06-20T22:37:15.769130+00:00",
+ "generated": "2026-06-20T22:42:12.467987+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c3f155e695d2",
+   "title": "Rosen Law Firm Encourages America's Car-Mart, Inc. Investors to Inquire About Securities Class Action Investigation - CRMT",
+   "link": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-americas-car-mart-inc-investors-to-inquire-about-securities-class-action-investigation--crmt-302805571.html",
+   "summary": "NEW YORK, June 20, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of America's Car-Mart, Inc. (NASDAQ: CRMT) resulting from allegations that America's Car-Mart may have issued...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-06-20T22:36:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fd6ea3abb49a",
+   "title": "Massive fire destroys resort in Dominican Republic and forces evacuation of almost 1,700 tourists",
+   "link": "https://www.cnbc.com/2026/06/20/fire-destroys-dominican-republic-resort-1700-tourists-evacuated.html",
+   "summary": "The fire forced the evacuation of nearly 1,700 tourists and caused the death of an Italian national, authorities said.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-20T22:35:06+00:00",
+   "tickers": []
+  },
   {
    "id": "a25230594afc",
    "title": "Trump tries to blame Reflecting Pool woes on vandalism, without offering substantiation",
@@ -30,6 +56,21 @@
    "domain": "finance.yahoo.com",
    "published": "2026-06-20T22:17:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "2a7f531f8c83",
+   "title": "Lower Fee or Bigger Bitcoin ETF Scale? HODL vs. IBIT",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/lower-fee-bigger-bitcoin-etf-221632824.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-20T22:16:32+00:00",
+   "tickers": [
+    "IBIT"
+   ]
   },
   {
    "id": "7e4b56fa0506",
@@ -8265,52 +8306,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "db6841cc6ea3",
-   "title": "Ultragenyx Reports Inducement Grant Under Nasdaq Listing Rule 5635(c)(4) | RARE Stock News",
-   "link": "https://www.stocktitan.net/news/RARE/ultragenyx-reports-inducement-grant-under-nasdaq-listing-rule-5635-c-gjtyjeosb294.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-06-19T20:30:00+00:00",
-   "tickers": [
-    "RARE",
-    "NDAQ",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "b0109184e087",
-   "title": "Weatherford Announces Second-Quarter 2026 Conference Call | WFRD Stock News",
-   "link": "https://www.stocktitan.net/news/WFRD/weatherford-announces-second-quarter-2026-conference-ghqvwhiw1ged.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-06-19T20:30:00+00:00",
-   "tickers": [
-    "WFRD",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "0784dd0586ab",
-   "title": "Invitation to attend the extraordinary shareholders’ meeting of the Company to be held on July 9, 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/06/19/3314894/0/en/Invitation-to-attend-the-extraordinary-shareholders-meeting-of-the-Company-to-be-held-on-July-9-2026.html",
-   "summary": "REGULATED INFORMATIONJune 19, 2026, 10:30pm CET / 4:30pm ET",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-06-19T20:30:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8332,6 +8327,7 @@
   "AMR": "Alpha Metallurgical Resources",
   "TSLQ": "Tradr 2X Short TSLA Daily ETF",
   "CHH": "Choice Hotels International",
+  "IBIT": "iShares Bitcoin Trust ETF",
   "ICE": "Intercontinental Exchange",
   "ODFL": "Old Dominion Freight Line",
   "RARE": "Ultragenyx Pharmaceutical",
