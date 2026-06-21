@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-21T22:02:27.998794+00:00",
+ "generated": "2026-06-21T22:07:27.807648+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b539ca35f559",
+   "title": "Trump threatens Iran with fresh strikes as Vance leads peace talks in Switzerland",
+   "link": "https://www.cnbc.com/2026/06/21/us-and-iranians-meet-in-switzerland-for-peace-talks.html",
+   "summary": "The talks in Switzerland were the first to be held under the terms of a memorandum of understanding agreed a week ago.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-21T22:01:33+00:00",
+   "tickers": []
+  },
   {
    "id": "c65db74758ba",
    "title": "Here are the major earnings before the open Monday",
@@ -68,6 +81,21 @@
    "published": "2026-06-21T21:35:00+00:00",
    "tickers": [
     "TLRY"
+   ]
+  },
+  {
+   "id": "52047679b86a",
+   "title": "Unprofitable Russell 2000 Stocks Surge 60%, Outpacing Firms That Actually Earn Money",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/unprofitable-russell-2000-stocks-surge-213237828.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-21T21:32:37+00:00",
+   "tickers": [
+    "IWM"
    ]
   },
   {
@@ -262,6 +290,19 @@
     "MLTX",
     "NWSA"
    ]
+  },
+  {
+   "id": "6631732280b8",
+   "title": "Hormuz Crisis Sparks a Middle East Pipeline Boom",
+   "link": "https://finance.yahoo.com/energy/articles/hormuz-crisis-sparks-middle-east-210000952.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-21T21:00:00+00:00",
+   "tickers": []
   },
   {
    "id": "0cc8da82fff3",
@@ -1701,19 +1742,6 @@
    "sentiment": "neutral",
    "domain": "finance.yahoo.com",
    "published": "2026-06-21T16:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b539ca35f559",
-   "title": "Trump threatens Iran with fresh strikes as Vance leads peace talks in Switzerland",
-   "link": "https://www.cnbc.com/2026/06/21/us-and-iranians-meet-in-switzerland-for-peace-talks.html",
-   "summary": "The talks in Switzerland were the first to be held under the terms of a memorandum of understanding agreed a week ago.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-21T16:18:03+00:00",
    "tickers": []
   },
   {
@@ -8251,36 +8279,6 @@
    "tickers": [
     "LLY"
    ]
-  },
-  {
-   "id": "2f6be97f87f8",
-   "title": "U.S. Global Investors declares $0.0075 dividend",
-   "link": "https://seekingalpha.com/news/4605283-u-s-global-investors-declares-0_0075-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-20T15:03:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0f2fc39c65ff",
-   "title": "Insider trades: American Express, Dell and Broadcom among notable names",
-   "link": "https://seekingalpha.com/news/4605205-insider-trades-american-express-dell-and-broadcom-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-20T15:00:24+00:00",
-   "tickers": [
-    "AXP",
-    "AVGO",
-    "DELL"
-   ]
   }
  ],
  "ticker_names": {
@@ -8312,6 +8310,7 @@
   "JEF": "Jefferies Financial Group",
   "RARE": "Ultragenyx Pharmaceutical",
   "TD": "The Toronto-Dominion Bank",
+  "IWM": "iShares Russell 2000 ETF",
   "FBND": "Fidelity Total Bond ETF",
   "GS": "The Goldman Sachs Group",
   "ADM": "Archer-Daniels-Midland",
@@ -8349,7 +8348,6 @@
   "POET": "POET Technologies",
   "TJX": "The TJX Companies",
   "AR": "Antero Resources",
-  "AXP": "American Express",
   "COST": "Costco Wholesale",
   "JPM": "JPMorgan Chase &",
   "NVO": "Novo Nordisk A/S",
@@ -8407,7 +8405,6 @@
   "ADBE": "Photoshop",
   "NWSA": "News Corp",
   "APP": "AppLovin",
-  "AVGO": "Broadcom",
   "BCS": "Barclays",
   "BLD": "TopBuild",
   "CCL": "Carnival",
