@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-21T18:47:28.616620+00:00",
+ "generated": "2026-06-21T18:52:30.916270+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,7 +13,35 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-06-21T18:43:12+00:00",
+   "published": "2026-06-21T18:47:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fbc8354d812a",
+   "title": "Pixar's ‘Toy Story 5’ delivers record $160M opening as summer box office soars",
+   "link": "https://seekingalpha.com/news/4605314-pixars-toy-story-5-delivers-record-160m-opening-as-summer-box-office-soars?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-21T18:45:20+00:00",
+   "tickers": [
+    "DIS"
+   ]
+  },
+  {
+   "id": "44e7b0464d79",
+   "title": "John Hancock Multi-Asset Absolute Return Fund Q1 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4916564-john-hancock-multi-asset-absolute-return-fund-q1-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-21T18:45:00+00:00",
    "tickers": []
   },
   {
@@ -8283,34 +8311,6 @@
    "tickers": [
     "CRM"
    ]
-  },
-  {
-   "id": "63adc2efba3c",
-   "title": "IWP: Don't Look For Growth In The Middle Lane",
-   "link": "https://seekingalpha.com/article/4916469-iwp-dont-look-for-growth-in-the-middle-lane?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-20T13:23:39+00:00",
-   "tickers": [
-    "IWP"
-   ]
-  },
-  {
-   "id": "e43b17acbe3c",
-   "title": "3 Penny Stocks Under $5 Backed by Real Revenue Growth",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-penny-stocks-under-5-132000082.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T13:20:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8332,7 +8332,6 @@
   "SPLV": "Invesco S&P 500 Low Volatility ETF",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "VWO": "Vanguard FTSE Emerging Markets ETF",
-  "IWP": "iShares Russell Midcap Growth ETF",
   "XBI": "State Street SPDR S&P Biotech ETF",
   "SCHF": "Schwab International Equity ETF",
   "TSLQ": "Tradr 2X Short TSLA Daily ETF",
