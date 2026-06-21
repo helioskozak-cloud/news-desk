@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-21T20:17:30.767558+00:00",
+ "generated": "2026-06-21T20:22:13.252327+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -261,6 +261,21 @@
    "domain": "investing.com",
    "published": "2026-06-21T19:00:27+00:00",
    "tickers": []
+  },
+  {
+   "id": "d2cb7e52bb5f",
+   "title": "Dad, 24, Earning $60K Survives Building Collapse, Wonders If He’ll Get $1M Settlement — Dave Ramsey Says It’s Just 'Gravy On The Biscuit'",
+   "link": "https://finance.yahoo.com/small-business/articles/dad-24-earning-60k-survives-190025170.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-21T19:00:25+00:00",
+   "tickers": [
+    "DAVE"
+   ]
   },
   {
    "id": "8649b98bb9bf",
@@ -2275,6 +2290,34 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-21T14:01:39+00:00",
    "tickers": []
+  },
+  {
+   "id": "d433e023eae9",
+   "title": "Adyen Is Betting Big on Agentic AI. The Rally Could Just Be Getting Started.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/adyen-betting-big-agentic-ai-140002576.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-21T14:00:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5915771b16a2",
+   "title": "Oracle Stock Tumbles on Higher Capex and Equity Raise - Shorting ORCL Puts Works",
+   "link": "https://finance.yahoo.com/markets/options/articles/oracle-stock-tumbles-higher-capex-140002312.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-21T14:00:02+00:00",
+   "tickers": [
+    "ORCL"
+   ]
   },
   {
    "id": "ab1747629d1f",
@@ -8250,50 +8293,6 @@
    "domain": "prnewswire.com",
    "published": "2026-06-20T14:10:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "66b4fc61551e",
-   "title": "Why Jim Cramer says Ford's real story isn't trucks or EVs",
-   "link": "https://finance.yahoo.com/technology/ai/articles/why-jim-cramer-says-fords-140700527.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T14:07:00+00:00",
-   "tickers": [
-    "F"
-   ]
-  },
-  {
-   "id": "2193c782253a",
-   "title": "TSLQ: Understanding This ETF Built For Aggressive Tesla Bears",
-   "link": "https://seekingalpha.com/article/4916475-tslq-understanding-this-etf-built-for-aggressive-telsa-bears?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-20T14:06:58+00:00",
-   "tickers": [
-    "TSLA",
-    "TSLQ"
-   ]
-  },
-  {
-   "id": "d550fbf2758d",
-   "title": "Wall Street Technician Declares Financials, Industrials, and Biotech Poised for Breakouts. 3 ETFs Could Soar.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-technician-declares-financials-140506752.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T14:05:06+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8314,7 +8313,6 @@
   "TSM": "Taiwan Semiconductor Manufacturing",
   "VWO": "Vanguard FTSE Emerging Markets ETF",
   "SCHF": "Schwab International Equity ETF",
-  "TSLQ": "Tradr 2X Short TSLA Daily ETF",
   "BK": "The Bank of New York Mellon",
   "CHH": "Choice Hotels International",
   "QQQ": "Invesco QQQ Trust, Series 1",
@@ -8462,6 +8460,7 @@
   "OKE": "ONEOK",
   "ONDS": "Ondas",
   "XYZ": "Block",
+  "DAVE": "Dave",
   "MSCI": "MSCI",
   "PCG": "PG&E",
   "POOL": "Pool",
