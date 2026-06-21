@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-21T19:17:25.410557+00:00",
+ "generated": "2026-06-21T19:22:27.925808+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -339,6 +339,19 @@
    "category": "markets",
    "type": "earnings",
    "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-06-21T18:00:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8e9ad3d07a6f",
+   "title": "Wars trigger $12bn venture capital rush into defence tech",
+   "link": "https://www.ft.com/content/cb535f43-d2b7-4d14-82fe-abdd14765dfe",
+   "summary": "Funding this year has already surpassed 2025 total as soaring valuations fuel fears of a hype cycle",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-06-21T18:00:01+00:00",
    "tickers": []
@@ -8287,21 +8300,6 @@
    "tickers": [
     "MSTR"
    ]
-  },
-  {
-   "id": "d5dbb8ad2dad",
-   "title": "The Campbell's Company - Sell: Structural Problems Are Serious",
-   "link": "https://seekingalpha.com/article/4916474-the-campbells-company-sell-structural-problems-are-serious?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-20T13:54:39+00:00",
-   "tickers": [
-    "CPB"
-   ]
   }
  ],
  "ticker_names": {
@@ -8382,7 +8380,6 @@
   "DAL": "Delta Air Lines",
   "DIS": "The Walt Disney",
   "WDC": "Western Digital",
-  "CPB": "The Campbell's",
   "DPZ": "Domino's Pizza",
   "HD": "The Home Depot",
   "META": "Meta Platforms",
