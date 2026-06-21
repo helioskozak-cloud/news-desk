@@ -1,8 +1,52 @@
 {
- "generated": "2026-06-21T17:42:28.517578+00:00",
+ "generated": "2026-06-21T17:47:32.549980+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2c4d744352b8",
+   "title": "Mines, Logistics and Deep Uncertainty Threaten a Middle East Oil Rebound",
+   "link": "https://www.nytimes.com/2026/06/20/business/iran-us-persian-gulf-oil-production.html",
+   "summary": "More oil is getting out of the Persian Gulf, but the region’s producers are looking for signs that it is safe as they ramp up plans for alternative routes.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-21T17:39:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "709aabc2eb4e",
+   "title": "Morgan Stanley gives Google stock investors reason to rethink AI spending",
+   "link": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-gives-google-stock-173300559.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-21T17:33:00+00:00",
+   "tickers": [
+    "MS",
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "c5c1e7c555f6",
+   "title": "Is Alphabet the Best \"Magnificent Seven\" AI Stock?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-best-magnificent-seven-ai-173300250.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-21T17:33:00+00:00",
+   "tickers": [
+    "GOOG"
+   ]
+  },
   {
    "id": "2815db918d41",
    "title": "Ocado Group is said to search for CEO successor",
@@ -15,6 +59,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-21T17:31:13+00:00",
    "tickers": []
+  },
+  {
+   "id": "70eaa9ccc744",
+   "title": "Archer Aviation vs. Kraken Robotics: With Geopolitical Risk Rising, Which Defense Stock Wins?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-kraken-robotics-172500777.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-21T17:25:00+00:00",
+   "tickers": [
+    "ACHR"
+   ]
   },
   {
    "id": "0a59dbb341d9",
@@ -8246,63 +8305,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-20T13:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "b1457cb12624",
-   "title": "Don't Freak Out Over Fed Chair Kevin Warsh's 'New' Regime",
-   "link": "https://seekingalpha.com/article/4916443-dont-freak-out-over-fed-chair-kevin-warshs-new-regime?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-20T13:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "82b7d5c378bc",
-   "title": "BITO: Dividends Did Not Save Investors (Rating Downgrade)",
-   "link": "https://seekingalpha.com/article/4916466-bito-dividends-did-not-save-investors-rating-downgrade?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-20T12:59:50+00:00",
-   "tickers": [
-    "BITO"
-   ]
-  },
-  {
-   "id": "aebd38ddd4ca",
-   "title": "Gold Bear Market: Time to Buy This Top Gold Stock/ETF",
-   "link": "https://finance.yahoo.com/markets/commodities/articles/gold-bear-market-time-buy-125700360.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T12:57:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5ee6732ad75d",
-   "title": "State Street SPDR vs. iShares: Which Bank ETF Wins This Showdown?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-vs-ishares-125601150.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T12:56:01+00:00",
-   "tickers": [
-    "STT",
-    "IAGG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8345,7 +8347,6 @@
   "AMD": "Advanced Micro Devices",
   "MAR": "Marriott International",
   "WBD": "Warner Bros. Discovery",
-  "BITO": "ProShares Bitcoin ETF",
   "COF": "Capital One Financial",
   "GRAB": "Grab Holdings Limited",
   "NTLA": "Intellia Therapeutics",
@@ -8383,6 +8384,7 @@
   "NVO": "Novo Nordisk A/S",
   "RCAT": "Red Cat Holdings",
   "GE": "General Electric",
+  "ACHR": "Archer Aviation",
   "BZ": "Kanzhun Limited",
   "CHYM": "Chime Financial",
   "DAL": "Delta Air Lines",
