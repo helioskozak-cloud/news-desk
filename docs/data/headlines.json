@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-21T21:12:21.187020+00:00",
+ "generated": "2026-06-21T21:17:32.715725+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,19 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-06-21T21:04:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4c656e3b9d10",
+   "title": "India plays ‘whack-a-mole’ with online financial influencers",
+   "link": "https://www.ft.com/content/79ef658b-e5df-48cf-9e0a-f520dfed8836",
+   "summary": "Regulator targets scammers who give stock tips under guise of financial education as ranks of retail investors grow",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-06-21T21:00:01+00:00",
    "tickers": []
   },
   {
@@ -309,6 +322,21 @@
    "domain": "finance.yahoo.com",
    "published": "2026-06-21T19:35:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "efb9ecf9b9b9",
+   "title": "Building materials group CRH nears its biggest-ever deal to buy Arcosa",
+   "link": "https://www.ft.com/content/6c95c41b-7bf1-4adf-84e9-08356f8a4981",
+   "summary": "Irish company closes in on purchase of Dallas-based construction firm with market capitalisation of almost $7bn",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-06-21T19:31:29+00:00",
+   "tickers": [
+    "CRH"
+   ]
   },
   {
    "id": "5a044a0264ff",
@@ -2116,6 +2144,19 @@
    "tickers": [
     "ROKU"
    ]
+  },
+  {
+   "id": "659440236f68",
+   "title": "Why This Mega-Cap Stock Might Be the Best Crash Warning We Have",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-mega-cap-stock-might-150002434.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-21T15:00:02+00:00",
+   "tickers": []
   },
   {
    "id": "e2332784e9c1",
@@ -8249,51 +8290,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-20T14:44:52+00:00",
    "tickers": []
-  },
-  {
-   "id": "9f5357b5a62f",
-   "title": "This Space Stock Will Beat SpaceX to the Nasdaq-100 — And It’s the One to Buy",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/space-stock-beat-spacex-nasdaq-144433375.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T14:44:33+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "91ab084b7390",
-   "title": "Energy Expert: Electric Vehicles Are the ‘Keystone Species’ of the Next Megatrend. Will Tesla’s Stock See Massive Gains?",
-   "link": "https://finance.yahoo.com/energy/articles/energy-expert-electric-vehicles-keystone-144107683.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T14:41:07+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "08413df7b48b",
-   "title": "Tesla booted from the ‘Magnificent Seven’ by a top fund manager. Here is the tech giant he’s crowned.",
-   "link": "https://www.marketwatch.com/story/a-veteran-investor-is-kicking-tesla-out-of-the-magnificent-seven-replacing-it-with-this-tech-giant-a2828cec?mod=mw_rss_topstories",
-   "summary": "T. Rowe Price fund manager David Giroux says Big Tech isn’t in a bubble, but there’s value in healthcare and utilities.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-06-20T14:38:00+00:00",
-   "tickers": [
-    "TSLA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8448,7 +8444,6 @@
   "ABBV": "AbbVie",
   "BIIB": "Biogen",
   "INTU": "Intuit",
-  "NDAQ": "Nasdaq",
   "OMER": "Omeros",
   "ORCL": "Oracle",
   "PFE": "Pfizer",
