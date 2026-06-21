@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-21T23:52:30.195112+00:00",
+ "generated": "2026-06-21T23:57:28.861669+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,32 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-06-21T23:47:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "64f18bc4a2d1",
+   "title": "Brazil seizes suspected massive cocaine haul hidden in timber cargo",
+   "link": "https://www.investing.com/news/commodities-news/brazil-seizes-suspected-massive-cocaine-haul-hidden-in-timber-cargo-4751689",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-21T23:42:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b4724fb18e39",
+   "title": "Shipping slows after Iran says it has again shut the Strait of Hormuz",
+   "link": "https://www.investing.com/news/commodities-news/shipping-slows-after-iran-says-it-has-again-shut-the-strait-of-hormuz-4751688",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-21T23:42:30+00:00",
    "tickers": []
   },
   {
@@ -5147,6 +5173,21 @@
    ]
   },
   {
+   "id": "e2a956082e85",
+   "title": "Analyst Raises Solaris Energy Infrastructure (SEI) Price Target by $18",
+   "link": "https://finance.yahoo.com/energy/articles/analyst-raises-solaris-energy-infrastructure-011646949.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-21T01:16:46+00:00",
+   "tickers": [
+    "SEI"
+   ]
+  },
+  {
    "id": "b403947ea941",
    "title": "CureGene Achieves First Participant Dosed in U.S. Pivotal Trial for Evategrel (CG-0255), a Best-in-Class Antiplatelet Drug, Accelerating Global Commercialization",
    "link": "https://www.prnewswire.com/news-releases/curegene-achieves-first-participant-dosed-in-us-pivotal-trial-for-evategrel-cg-0255-a-best-in-class-antiplatelet-drug-accelerating-global-commercialization-302805841.html",
@@ -8244,47 +8285,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-20T15:40:16+00:00",
    "tickers": []
-  },
-  {
-   "id": "0e155fb68526",
-   "title": "CGTN: Čína a Mjanmarsko sa dohodli na prehĺbení vecnej spolupráce vo všetkých oblastiach",
-   "link": "https://www.prnewswire.com/news-releases/cgtn-ina-a-mjanmarsko-sa-dohodli-na-prehbeni-vecnej-spoluprace-vo-vetkych-oblastiach-302805800.html",
-   "summary": "PEKING, 20. júna 2026 /PRNewswire/ -- Prezident Mjanmarska Min Aun Hlain uskutočnil svoju prvú štátnu návštevu Číny v období od 15. do 19. júna, čo znamená nový míľnik v bilaterálnych vzťahoch a otvoril tak novú kapitolu rozsiahlej a vecnej spolupráce medzi oboma susednými krajinami...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-06-20T15:40:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "903acb251032",
-   "title": "Wells Fargo: Raking In A 6.4% Preferred Dividend Yield",
-   "link": "https://seekingalpha.com/article/4915836-wells-fargo-raking-in-a-6-4-percent-preferred-dividend-yield?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-20T15:40:00+00:00",
-   "tickers": [
-    "WFC"
-   ]
-  },
-  {
-   "id": "8dcf753a2c1b",
-   "title": "Baby Boomers Have $525,000 Saved for Retirement. They Need $1.6 Million.",
-   "link": "https://finance.yahoo.com/markets/currencies/articles/baby-boomers-525-000-saved-153653897.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T15:36:53+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8306,6 +8306,7 @@
   "TSM": "Taiwan Semiconductor Manufacturing",
   "VWO": "Vanguard FTSE Emerging Markets ETF",
   "SCHF": "Schwab International Equity ETF",
+  "SEI": "Solaris Energy Infrastructure",
   "BK": "The Bank of New York Mellon",
   "CHH": "Choice Hotels International",
   "MLTX": "MoonLake Immunotherapeutics",
