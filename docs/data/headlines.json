@@ -1,8 +1,51 @@
 {
- "generated": "2026-06-21T17:17:32.281871+00:00",
+ "generated": "2026-06-21T17:22:00.629931+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "6714ab6be60e",
+   "title": "‘Toy Story 5’ Fuels Hollywood’s Hottest Summer Since 2019",
+   "link": "https://www.nytimes.com/2026/06/21/business/media/toy-story-5-box-office-hollywood-summer.html",
+   "summary": "The Disney-Pixar sequel was expected to make $160 million in North America over the weekend, lifting the summer box office to $1.85 billion to date.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-21T17:17:10+00:00",
+   "tickers": [
+    "DIS"
+   ]
+  },
+  {
+   "id": "fabe50612211",
+   "title": "Iran suspends U.S. talks after Trump threatens new strikes",
+   "link": "https://seekingalpha.com/news/4605311-iran-suspends-u-s-talks-after-trump-threatens-new-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-21T17:16:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "399057523eff",
+   "title": "Meta Platforms Looks Unbelievably Cheap After the Tech Sell-Off. Is It Time to Load Up on Shares?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-looks-unbelievably-cheap-170500860.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-21T17:05:00+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
   {
    "id": "6faaa6b2dc26",
    "title": "Aluminum rally loses steam as producers adapt to Iran supply shock",
@@ -15,6 +58,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-21T17:02:48+00:00",
    "tickers": []
+  },
+  {
+   "id": "30f7048e35f4",
+   "title": "Near Its 52-Week Low, Domino's Is Flashing a Signal Long-Term Investors Shouldn't Ignore",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/near-52-week-low-dominos-170200397.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-21T17:02:00+00:00",
+   "tickers": [
+    "DPZ"
+   ]
   },
   {
    "id": "fd17d2784c3f",
@@ -8245,60 +8303,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-06-20T12:45:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "b6310b6d53e8",
-   "title": "Cerebras vs. SpaceX: Which Is the Better AI IPO Stock to Buy and Hold for the Next 10 Years?",
-   "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-vs-spacex-better-ai-124300908.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T12:43:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e3b8f2088baa",
-   "title": "Alibaba Is A Steal Despite Geopolitical And Regulatory Risks",
-   "link": "https://seekingalpha.com/article/4916464-alibaba-is-a-steal-despite-geopolitical-and-regulatory-risks?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-20T12:42:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3b3a0eb7acc4",
-   "title": "Will SpaceX Stock Be Higher or Lower in 1 Year? Here's My Honest Take",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-higher-lower-1-124200925.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T12:42:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ac253aeab48a",
-   "title": "Conagra Brands: Mirror, Mirror On The Wall, Who's Going To Cut The Dividend After All?",
-   "link": "https://seekingalpha.com/article/4916463-conagra-brands-mirror-mirror-on-the-wall-whos-going-to-cut-the-dividend-after-all?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-20T12:39:21+00:00",
-   "tickers": [
-    "CAG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8387,8 +8391,8 @@
   "FOUR": "Shift4 Payments",
   "GPN": "Global Payments",
   "WDC": "Western Digital",
-  "CAG": "Conagra Brands",
   "CPB": "The Campbell's",
+  "DPZ": "Domino's Pizza",
   "HD": "The Home Depot",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
