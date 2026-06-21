@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-21T14:52:10.244781+00:00",
+ "generated": "2026-06-21T14:57:27.636484+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "718403cc7acb",
+   "title": "Iran oil exports poised for return under new U.S. deal, but recovery faces hurdles",
+   "link": "https://seekingalpha.com/news/4605302-iran-oil-exports-poised-for-return-under-new-u-s-deal-but-recovery-faces-hurdles?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-21T14:54:16+00:00",
+   "tickers": []
+  },
   {
    "id": "1a06a9a5715b",
    "title": "UK’s Starmer considers political future, could decide as soon as Monday",
@@ -6319,6 +6332,21 @@
    "tickers": []
   },
   {
+   "id": "f6274fc124d5",
+   "title": "Why Bernstein Just Raised Its Price Target on Arm Stock by Nearly 70%",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-bernstein-just-raised-price-134501918.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-20T13:45:01+00:00",
+   "tickers": [
+    "ARM"
+   ]
+  },
+  {
    "id": "431a6308fbb5",
    "title": "XBI: A \"Hidden\" ETF Up +70% In 1 Year.",
    "link": "https://seekingalpha.com/article/4916472-xbi-a-hidden-etf-up-plus-70-percent-in-1-year?source=feed_all_articles",
@@ -8281,35 +8309,6 @@
    "tickers": [
     "NFLX"
    ]
-  },
-  {
-   "id": "500f2571d937",
-   "title": "The Fed's Warsh era clearly has a new vibe — and that's not all bad for investors",
-   "link": "https://finance.yahoo.com/markets/article/the-feds-warsh-era-clearly-has-a-new-vibe--and-thats-not-all-bad-for-investors-110147708.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T11:01:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6160d8750d39",
-   "title": "SCHD vs. HDV: Which Dividend ETF Is the Better Buy for Long-Term Investors?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/schd-vs-hdv-dividend-etf-110134938.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T11:01:34+00:00",
-   "tickers": [
-    "SCHD",
-    "HDV"
-   ]
   }
  ],
  "ticker_names": {
@@ -8334,8 +8333,6 @@
   "EEM": "iShares MSCI Emerging Index Fund",
   "VONG": "Vanguard Russell 1000 Growth ETF",
   "SCHF": "Schwab International Equity ETF",
-  "HDV": "iShares Core High Dividend ETF",
-  "SCHD": "Schwab US Dividend Equity ETF",
   "TSLQ": "Tradr 2X Short TSLA Daily ETF",
   "BK": "The Bank of New York Mellon",
   "CHH": "Choice Hotels International",
@@ -8426,6 +8423,7 @@
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "SLB": "Schlumberger",
+  "ARM": "Arm Holdings",
   "DLTR": "Dollar Tree",
   "LCID": "Lucid Group",
   "NU": "Nu Holdings",
