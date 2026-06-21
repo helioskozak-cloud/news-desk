@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-21T22:47:28.799068+00:00",
+ "generated": "2026-06-21T22:52:12.117036+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5d86b0f1f8a7",
+   "title": "Stock futures fall as oil prices rise; investors await key reading on inflation: Live updates",
+   "link": "https://www.cnbc.com/2026/06/21/stock-market-today-live-updates.html",
+   "summary": "U.S. equity futures were lower on Sunday as Wall Street awaited the release of inflation data that is closely watched by the Federal Reserve.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-21T22:46:28+00:00",
+   "tickers": []
+  },
   {
    "id": "918bf61ffb70",
    "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
@@ -14,19 +27,6 @@
    "sentiment": "positive",
    "domain": "marketwatch.com",
    "published": "2026-06-21T22:41:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5d86b0f1f8a7",
-   "title": "Stock futures fall as oil prices rise; investors await key reading on inflation: Live updates",
-   "link": "https://www.cnbc.com/2026/06/21/stock-market-today-live-updates.html",
-   "summary": "U.S. equity futures were lower on Sunday as Wall Street awaited the release of inflation data that is closely watched by the Federal Reserve.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-21T22:33:11+00:00",
    "tickers": []
   },
   {
@@ -4976,6 +4976,22 @@
    ]
   },
   {
+   "id": "5b1c1babdae1",
+   "title": "Marathon Petroleum (MPC) Price Target Boosted at Wells Fargo. Here is Why",
+   "link": "https://finance.yahoo.com/energy/articles/marathon-petroleum-mpc-price-target-011701431.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-21T01:17:01+00:00",
+   "tickers": [
+    "MPC",
+    "WFC"
+   ]
+  },
+  {
    "id": "b403947ea941",
    "title": "CureGene Achieves First Participant Dosed in U.S. Pivotal Trial for Evategrel (CG-0255), a Best-in-Class Antiplatelet Drug, Accelerating Global Commercialization",
    "link": "https://www.prnewswire.com/news-releases/curegene-achieves-first-participant-dosed-in-us-pivotal-trial-for-evategrel-cg-0255-a-best-in-class-antiplatelet-drug-accelerating-global-commercialization-302805841.html",
@@ -8264,19 +8280,6 @@
    "domain": "prnewswire.com",
    "published": "2026-06-20T15:29:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "841b3f8ecb37",
-   "title": "Chemtrade Logistics Income Fund declares CAD 0.06 dividend",
-   "link": "https://seekingalpha.com/news/4605285-chemtrade-logistics-income-fund-declares-cad-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-20T15:28:57+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8330,6 +8333,7 @@
   "BRK-A": "Berkshire Hathaway",
   "CRK": "Comstock Resources",
   "DRI": "Darden Restaurants",
+  "MPC": "Marathon Petroleum",
   "TKO": "TKO Group Holdings",
   "TT": "Trane Technologies",
   "RBLX": "Roblox Corporation",
