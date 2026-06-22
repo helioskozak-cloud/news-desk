@@ -1,8 +1,64 @@
 {
- "generated": "2026-06-22T00:52:27.616404+00:00",
+ "generated": "2026-06-22T00:56:52.109041+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "02264276c919",
+   "title": "Stocks slip in Asia, oil up on peace doubts",
+   "link": "https://www.investing.com/news/economy-news/stocks-slip-in-asia-oil-up-on-peace-doubts-4751702",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-22T00:42:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ef7ce485a0b4",
+   "title": "AbbVie-Apogee acquisition a ‘solid fit,’ JPMorgan says",
+   "link": "https://www.investing.com/news/stock-market-news/abbvieapogee-acquisition-a-solid-fit-jpmorgan-says-4751701",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-22T00:41:23+00:00",
+   "tickers": [
+    "JIRE",
+    "ABBV",
+    "APGE"
+   ]
+  },
+  {
+   "id": "3444f3a0a263",
+   "title": "Antengene licenses ATG-106 to K2 Therapeutics for $20M upfront",
+   "link": "https://www.investing.com/news/company-news/antengene-licenses-atg106-to-k2-therapeutics-for-20m-upfront-93CH-4751700",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-22T00:37:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "34950474c1c7",
+   "title": "Oil rises after Iran shuts Hormuz again, Trump threatens new attacks",
+   "link": "https://www.investing.com/news/commodities-news/brent-oil-rises-more-than-1bbl-after-bumpy-start-to-usiran-peace-talks-4751687",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-06-22T00:36:25+00:00",
+   "tickers": []
+  },
   {
    "id": "89b1352f0cf1",
    "title": "Faraday Future Founder and Global CEO YT Jia Shares Weekly Investor Update: Provides Updates on Positive June Sales Targets; Recaps June 16 Robotics and Education Ecosystem Product Launch; Previews June 22 Automate Launch | FFAI Stock News",
@@ -477,19 +533,6 @@
    "sentiment": "neutral",
    "domain": "finance.yahoo.com",
    "published": "2026-06-21T22:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "34950474c1c7",
-   "title": "Brent oil rises more than $1/bbl after bumpy start to US-Iran peace talks",
-   "link": "https://www.investing.com/news/commodities-news/brent-oil-rises-more-than-1bbl-after-bumpy-start-to-usiran-peace-talks-4751687",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-06-21T22:18:29+00:00",
    "tickers": []
   },
   {
@@ -8242,49 +8285,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-06-20T16:37:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "38ec7a0cc3b3",
-   "title": "Novo Nordisk's Wegovy Pill Just Hit 3 Million Prescriptions. Is Wall Street Missing Something With This Beaten-Down Stock?",
-   "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisks-wegovy-pill-just-163500105.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T16:35:00+00:00",
-   "tickers": [
-    "NVO"
-   ]
-  },
-  {
-   "id": "f9799cbb35be",
-   "title": "The initial SpaceX frenzy is cooling off — but a new wave of cash is waiting to strike",
-   "link": "https://www.marketwatch.com/story/the-initial-spacex-frenzy-is-cooling-off-but-a-new-wave-of-cash-is-waiting-to-strike-6eacca9b?mod=mw_rss_topstories",
-   "summary": "SpaceX is expected to secure index entry in the coming days and weeks, unlocking a new source of investor demand after there’s been “striking” breadth so far.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-06-20T16:32:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cf9e844f6bd7",
-   "title": "State Street or Fidelity: Which Financial ETF Stands Out in 2026?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-fidelity-financial-etf-163001860.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T16:30:01+00:00",
-   "tickers": [
-    "STT"
-   ]
   }
  ],
  "ticker_names": {
@@ -8334,6 +8334,7 @@
   "RVMD": "Revolution Medicines",
   "VOO": "Vanguard S&P 500 ETF",
   "ABT": "Abbott Laboratories",
+  "APGE": "Apogee Therapeutics",
   "IP": "International Paper",
   "PGY": "Pagaya Technologies",
   "QLD": "ProShares Ultra QQQ",
@@ -8358,7 +8359,6 @@
   "AR": "Antero Resources",
   "COST": "Costco Wholesale",
   "JPM": "JPMorgan Chase &",
-  "NVO": "Novo Nordisk A/S",
   "ACHR": "Archer Aviation",
   "BZ": "Kanzhun Limited",
   "COIN": "Coinbase Global",
