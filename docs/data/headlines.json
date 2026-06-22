@@ -1,8 +1,62 @@
 {
- "generated": "2026-06-22T02:42:28.057651+00:00",
+ "generated": "2026-06-22T02:47:17.112442+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5d86b0f1f8a7",
+   "title": "Stock futures slip as investors weigh Iran deal progress and await key reading on inflation: Live updates",
+   "link": "https://www.cnbc.com/2026/06/21/stock-market-today-live-updates.html",
+   "summary": "U.S. equity futures were lower on Sunday as Wall Street awaited the release of inflation data that is closely watched by the Federal Reserve.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-22T02:44:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e3f63722816d",
+   "title": "The AI trade has left the hyperscalers in the dust. What will it take for that to change?",
+   "link": "https://www.cnbc.com/2026/06/21/the-ai-trade-has-left-the-hyperscalers-in-the-dust-what-will-it-take-for-that-to-change-.html",
+   "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer examines the market's love affair with memory and semi-cap equipment stocks.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-22T02:44:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cb821cbe3386",
+   "title": "Financial Big Bang: Extended Trading Hours Coming Soon, Buy These Exchanges",
+   "link": "https://seekingalpha.com/article/4916583-extended-trading-hours-coming-soon-buy-these-exchanges?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-22T02:43:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a8e5e220805a",
+   "title": "Occidental Petroleum: I'm Turning More Bearish (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4916582-occidental-petroleum-im-turning-more-bearish-rating-downgrade?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-22T02:43:00+00:00",
+   "tickers": [
+    "OXY"
+   ]
+  },
   {
    "id": "0fbb21acc781",
    "title": "EV Battery Recycling Market to Reach USD 19.0 Billion by 2033, CAGR 45.0%, Creating Multi-Billion-Dollar Opportunity for Battery Recycling Companies",
@@ -27,19 +81,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-06-22T02:37:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5d86b0f1f8a7",
-   "title": "Stock futures fall as oil prices rise; investors await key reading on inflation: Live updates",
-   "link": "https://www.cnbc.com/2026/06/21/stock-market-today-live-updates.html",
-   "summary": "U.S. equity futures were lower on Sunday as Wall Street awaited the release of inflation data that is closely watched by the Federal Reserve.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-22T02:35:35+00:00",
    "tickers": []
   },
   {
@@ -1895,19 +1936,6 @@
    "sentiment": "positive",
    "domain": "investing.com",
    "published": "2026-06-21T18:52:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e3f63722816d",
-   "title": "The AI trade has left the hyperscalers in the dust. What will it take for that to change?",
-   "link": "https://www.cnbc.com/2026/06/21/the-ai-trade-has-left-the-hyperscalers-in-the-dust-what-will-it-take-for-that-to-change-.html",
-   "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer examines the market's love affair with memory and semi-cap equipment stocks.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-21T18:47:42+00:00",
    "tickers": []
   },
   {
@@ -8265,32 +8293,6 @@
    "tickers": [
     "DVLT"
    ]
-  },
-  {
-   "id": "a2faf8a3d444",
-   "title": "Enhanced Group (ENHA) Secures $50M in Strategic Equity Financing",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/enhanced-group-enha-secures-50m-172836382.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T17:28:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "63eb0ea06a70",
-   "title": "Precigen (PGEN) Secures FDA Orphan Drug Exclusivity for PAPZIMEOS",
-   "link": "https://finance.yahoo.com/healthcare/articles/precigen-pgen-secures-fda-orphan-172827430.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-20T17:28:27+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8336,6 +8338,7 @@
   "COF": "Capital One Financial",
   "CRWD": "CrowdStrike Holdings",
   "JETS": "U.S. Global Jets ETF",
+  "OXY": "Occidental Petroleum",
   "PG": "The Procter & Gamble",
   "PTEN": "Patterson-UTI Energy",
   "RVMD": "Revolution Medicines",
