@@ -1,8 +1,37 @@
 {
- "generated": "2026-06-24T23:47:28.035437+00:00",
+ "generated": "2026-06-24T23:51:51.657875+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "34efe324a660",
+   "title": "US banks would lose $700bn in economic crash, Fed stress tests find",
+   "link": "https://www.ft.com/content/7f33dfda-bc49-4645-8e71-422ba7cc4d17",
+   "summary": "Several Wall Street lenders boost investor payouts after receiving pass grades",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-06-24T23:49:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d26220f7bb2e",
+   "title": "Rocket Lab, Lockheed Martin among the partners in SpaceX’s military space-laser project",
+   "link": "https://www.marketwatch.com/story/rocket-lab-lockheed-martin-among-the-partners-in-spacexs-military-space-laser-project-1b8d61e2?mod=mw_rss_topstories",
+   "summary": "Government documents show a lineup of defense contractors joining SpaceX to create a satellite network to track airborne threats.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-06-24T23:47:00+00:00",
+   "tickers": [
+    "LMT",
+    "RKLB"
+   ]
+  },
   {
    "id": "8c0b777d7f86",
    "title": "Enerflex Ltd. Announces Extension of Revolving Credit Facility and Timing of Second Quarter Financial and Operational Results",
@@ -4618,19 +4647,6 @@
    "tickers": []
   },
   {
-   "id": "34efe324a660",
-   "title": "US banks would lose $700bn in economic crash, Fed stress tests find",
-   "link": "https://www.ft.com/content/7f33dfda-bc49-4645-8e71-422ba7cc4d17",
-   "summary": "Several Wall Street lenders boost investor payouts after receiving pass grades",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "ft.com",
-   "published": "2026-06-24T20:35:49+00:00",
-   "tickers": []
-  },
-  {
    "id": "d3cf0ec3115d",
    "title": "Trump cancels signing of bipartisan housing bill ahead of tense meeting with GOP senators",
    "link": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
@@ -8522,19 +8538,6 @@
    "domain": "cnbc.com",
    "published": "2026-06-24T19:29:56+00:00",
    "tickers": []
-  },
-  {
-   "id": "c3c2ce1fea09",
-   "title": "Trump is said to advance $700M jet-engine sale to Turkey",
-   "link": "https://seekingalpha.com/news/4606946-trump-is-said-to-advance-700m-jet-engine-sale-to-turkey?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-24T19:28:40+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8646,6 +8649,7 @@
   "BN": "Brookfield",
   "F": "Ford Motor",
   "FORM": "FormFactor",
+  "RKLB": "Rocket Lab",
   "SSRM": "SSR Mining",
   "TRU": "TransUnion",
   "MSFT": "Office 365",
