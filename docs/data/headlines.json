@@ -1,8 +1,36 @@
 {
- "generated": "2026-06-25T03:21:50.238997+00:00",
+ "generated": "2026-06-25T03:27:08.296842+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "06e0474b22e5",
+   "title": "Dimora Medical has joined the NPIAP Corporate Advisory Council as an Honorary Member",
+   "link": "https://www.prnewswire.com/news-releases/dimora-medical-has-joined-the-npiap-corporate-advisory-council-as-an-honorary-member-302810146.html",
+   "summary": "NEW YORK, June 24, 2026 /PRNewswire/ -- Dimora Medical, a continuous innovator in high-end medical care supplies, has officially joined the National Pressure Injury Advisory Panel (NPIAP) as a corporate member, marking a new step in its engagement with the global clinical community...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-06-25T03:24:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b8f29c8b65f2",
+   "title": "Investors still seek a human touch even with AI tools at hand: HSBC",
+   "link": "https://www.cnbc.com/2026/06/25/investors-still-seek-a-human-touch-even-with-ai-tools-at-hand-hsbc-.html",
+   "summary": "Investors are still turning to the judgment of a professional adviser in their last investment decision, despite using AI tools, a HSBC survey found.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-25T03:22:15+00:00",
+   "tickers": [
+    "HSBC"
+   ]
+  },
   {
    "id": "3f24f764e809",
    "title": "Adobe: The Fear Is Overdone, The Franchise Is Not",
@@ -2212,7 +2240,7 @@
    "title": "Novogradac Releases New Tool to Estimate Likelihood of QCT Status",
    "link": "https://www.prnewswire.com/news-releases/novogradac-releases-new-tool-to-estimate-likelihood-of-qct-status-302809942.html",
    "summary": "Estimator Can Help Developers Know Prospect of Basis Boost to Aid in LIHTC Planning SAN FRANCISCO, June 24, 2026 /PRNewswire/ -- Affordable housing developers and investors can now get a preview of which census tracts will likely be designated as qualified census tracts (QCTs) by the U.S....",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8332,34 +8360,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-24T20:20:43+00:00",
    "tickers": []
-  },
-  {
-   "id": "43d96cd9f8f4",
-   "title": "Microsoft: Don't Sit On Your Hands, We Might Never See Such A Discount Again",
-   "link": "https://seekingalpha.com/article/4917464-microsoft-dont-sit-on-your-hands-we-might-never-see-such-a-discount-again?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-24T20:20:15+00:00",
-   "tickers": [
-    "MSFT"
-   ]
-  },
-  {
-   "id": "86bbcd88e25e",
-   "title": "MillerKnoll Non-GAAP EPS of $0.55 beats by $0.03, revenue of $1B beats by $26.12M",
-   "link": "https://seekingalpha.com/news/4606990-millerknoll-non-gaap-eps-of-0_55-beats-by-0_03-revenue-of-1b-beats-by-26_12m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-24T20:19:19+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8434,6 +8434,7 @@
   "MS": "Morgan Stanley",
   "PSA": "Public Storage",
   "RPRX": "Royalty Pharma",
+  "HSBC": "HSBC Holdings",
   "WFC": "Wells Fargo &",
   "MSTR": "MicroStrategy",
   "CRUS": "Cirrus Logic",
@@ -8457,7 +8458,6 @@
   "RKLB": "Rocket Lab",
   "SSRM": "SSR Mining",
   "TRU": "TransUnion",
-  "MSFT": "Office 365",
   "QCOM": "Snapdragon",
   "AL": "Air Lease",
   "ALB": "Albemarle",
