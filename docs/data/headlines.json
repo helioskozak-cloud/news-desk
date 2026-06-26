@@ -1,8 +1,23 @@
 {
- "generated": "2026-06-26T10:32:36.346788+00:00",
+ "generated": "2026-06-26T10:37:33.467943+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e7a115281694",
+   "title": "Bets + predictions: DraftKings' Super App is taking shape",
+   "link": "https://seekingalpha.com/news/4607463-bets-predictions-draftkings-super-app-is-taking-shape?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-26T10:30:30+00:00",
+   "tickers": [
+    "DKNG"
+   ]
+  },
   {
    "id": "0cea5c8c90c8",
    "title": "Nasdaq futures fall as tech sell-off continues: Live updates",
@@ -17,6 +32,19 @@
    "tickers": [
     "NDAQ"
    ]
+  },
+  {
+   "id": "cde5a4e4d7dd",
+   "title": "Sounding the AI alarm, Grantham says to flee U.S. equities before epic crash",
+   "link": "https://seekingalpha.com/news/4607660-sounding-the-ai-alarm-grantham-says-to-flee-us-equities-before-epic-crash?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-26T10:30:05+00:00",
+   "tickers": []
   },
   {
    "id": "fdb586e19e65",
@@ -143,8 +171,8 @@
    "title": "European stocks trade lower on OpenAI delay, Fed hike bets",
    "link": "https://www.investing.com/news/stock-market-news/european-stocks-open-lower-on-openai-delay-fed-hike-bets-4762031",
    "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
+   "source": "Investing.com",
+   "category": "markets",
    "type": "upgrade",
    "sentiment": "positive",
    "domain": "investing.com",
@@ -184,9 +212,9 @@
    "title": "Stellantis shares hit record low in Milan trading",
    "link": "https://www.investing.com/news/stock-market-news/stellantis-shares-hit-record-low-in-milan-trading-93CH-4762351",
    "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-06-26T10:25:31+00:00",
@@ -246,8 +274,8 @@
    "title": "Rescuers comb Venezuelan quake rubble, thousands reported missing",
    "link": "https://www.investing.com/news/stock-market-news/rescuers-comb-venezuelan-quake-rubble-thousands-reported-missing-4762206",
    "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
+   "source": "Investing.com",
+   "category": "markets",
    "type": "earnings",
    "sentiment": "neutral",
    "domain": "investing.com",
@@ -269,19 +297,6 @@
     "GS",
     "BYD"
    ]
-  },
-  {
-   "id": "ab91e6cc9e49",
-   "title": "China Eastern Airlines to buy 25 Airbus A330 neo jets for $9.4 billion",
-   "link": "https://www.investing.com/news/stock-market-news/china-eastern-airlines-to-buy-25-airbus-a330-neo-jets-for-94-billion-4762263",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-26T10:24:35+00:00",
-   "tickers": []
   },
   {
    "id": "5b2464e1c139",
@@ -605,6 +620,45 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-06-26T10:10:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "013837551cd9",
+   "title": "Why is Evonik Industries stock moving today?",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-evonik-industries-stock-moving-today-93CH-4762296",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-26T10:09:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d31e7ad4a038",
+   "title": "Trump to return to hotel where potential assassination attempt was thwarted",
+   "link": "https://www.investing.com/news/stock-market-news/trump-to-return-to-hotel-where-potential-assassination-attempt-was-thwarted-4762292",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-26T10:08:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ab91e6cc9e49",
+   "title": "China Eastern Airlines to buy 25 Airbus A330 neo jets for $9.4 billion",
+   "link": "https://www.investing.com/news/stock-market-news/china-eastern-airlines-to-buy-25-airbus-a330-neo-jets-for-94-billion-4762263",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-26T10:07:46+00:00",
    "tickers": []
   },
   {
@@ -8141,63 +8195,6 @@
    "tickers": [
     "MSFT"
    ]
-  },
-  {
-   "id": "595c49bcf2d3",
-   "title": "BEAR STEWART LLC ISSUES ALLERGY ALERT ON UNDECLARED SOY IN BAKR BROWN BUTTER CHOCOLATE CHUNK READY TO BAKE COOKIE DOUGH",
-   "link": "https://www.prnewswire.com/news-releases/bear-stewart-llc-issues-allergy-alert-on-undeclared-soy-in-bakr-brown-butter-chocolate-chunk-ready-to-bake-cookie-dough-302811376.html",
-   "summary": "CHICAGO, June 25, 2026 /PRNewswire/ -- Bear Stewart LLC of Chicago, IL is voluntarily recalling a single lot of Bakr Brown Butter Chocolate Chunk Ready To Bake Cookie Dough pouches because it may contain undeclared soy. People who have an allergy or severe sensitivity to soy run the risk...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-06-26T00:02:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ef176c65fd6e",
-   "title": "Form 4 Prairie Operating Co For: 25 June",
-   "link": "https://www.investing.com/news/filings/form-4-prairie-operating-co-for-25-june-93CH-4761915",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-26T00:00:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7ed1130cc59f",
-   "title": "CV Sciences Expands +PlusHLTH(TM) Portfolio with Personalized Wellness Solutions for Healthy Aging | CVSI Stock News",
-   "link": "https://www.stocktitan.net/news/CVSI/cv-sciences-expands-plus-hlth-tm-portfolio-with-personalized-9f8vapsj03or.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "stocktitan.net",
-   "published": "2026-06-26T00:00:00+00:00",
-   "tickers": [
-    "TM",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "509712fd8ae7",
-   "title": "Franklin High Yield Municipal SMA Q1 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4917888-franklin-high-yield-municipal-sma-q1-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-26T00:00:00+00:00",
-   "tickers": [
-    "BEN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8228,7 +8225,6 @@
   "APGE": "Apogee Therapeutics",
   "KYMR": "Kymera Therapeutics",
   "SYF": "Synchrony Financial",
-  "BEN": "Franklin Resources",
   "DRI": "Darden Restaurants",
   "GPI": "Group 1 Automotive",
   "NYT": "The New York Times",
@@ -8261,13 +8257,13 @@
   "MSTR": "MicroStrategy",
   "EQX": "Equinox Gold",
   "RBC": "RBC Bearings",
-  "TM": "Toyota Motor",
   "GOOGL": "Google Cloud",
   "BYD": "Boyd Gaming",
   "FE": "FirstEnergy",
   "LCID": "Lucid Group",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
+  "DKNG": "DraftKings",
   "FORM": "FormFactor",
   "SSRM": "SSR Mining",
   "STLA": "Stellantis",
