@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T22:07:23.816471+00:00",
+ "generated": "2026-06-27T22:12:25.483067+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,8 +13,23 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-06-27T22:05:05+00:00",
+   "published": "2026-06-27T22:09:17+00:00",
    "tickers": []
+  },
+  {
+   "id": "28711b50ca4e",
+   "title": "Accenture Shares Plunged 50% This Year. Here's What Investors Need to Know.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-shares-plunged-50-heres-215000434.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-27T21:50:00+00:00",
+   "tickers": [
+    "ACN"
+   ]
   },
   {
    "id": "b13a4082d39e",
@@ -8337,22 +8352,6 @@
    "tickers": [
     "WGS"
    ]
-  },
-  {
-   "id": "8760d1a49135",
-   "title": "Zillow Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against Zillow Group, Inc. - ZG, Z",
-   "link": "https://www.prnewswire.com/news-releases/zillow-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-zillow-group-inc--zg-z-302812330.html",
-   "summary": "NEW ORLEANS, June 26, 2026 /PRNewswire/ -- ClaimsFiler, a FREE shareholder information service, reminds investors that they have until August 10, 2026 to file lead plaintiff applications in a securities class action lawsuit against Zillow Group, Inc. (NasdaqGS: ZG, Z) (\"Zillow\" or the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-06-27T02:00:00+00:00",
-   "tickers": [
-    "Z",
-    "ZG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8468,7 +8467,6 @@
   "MP": "MP Materials",
   "STT": "State Street",
   "UBS": "UBS Group AG",
-  "Z": "Zillow Group",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
