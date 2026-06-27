@@ -1,8 +1,34 @@
 {
- "generated": "2026-06-27T12:42:09.932911+00:00",
+ "generated": "2026-06-27T12:47:28.186654+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f1102a63bfdf",
+   "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
+   "link": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
+   "summary": "The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-27T12:43:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a97d752d86af",
+   "title": "In Colorado, the Long Aftermath of a Fire Feels Political",
+   "link": "https://www.nytimes.com/2026/06/27/business/colorado-fire-fema-aid-denied.html",
+   "summary": "When the Trump administration rejected a request for federal assistance to a fire-ravaged part of western Colorado, residents debated which political party was to blame.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-27T12:40:09+00:00",
+   "tickers": []
+  },
   {
    "id": "dd0b9fe1fdea",
    "title": "Bitcoin holds above $60,000 as Strategy’s funding model faces growing scrutiny",
@@ -16,6 +42,22 @@
    "published": "2026-06-27T12:36:17+00:00",
    "tickers": [
     "MSTR"
+   ]
+  },
+  {
+   "id": "daf133dacc29",
+   "title": "These stocks are the most oversold after a turbulent week for the market",
+   "link": "https://www.cnbc.com/2026/06/27/these-stocks-are-the-most-oversold-after-a-turbulent-week-for-the-market.html",
+   "summary": "Intercontinental Exchange and CME were among the most oversold stocks this week amid ongoing concerns over a regulatory spat concerning perpetual futures.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-27T12:36:12+00:00",
+   "tickers": [
+    "ICE",
+    "CME"
    ]
   },
   {
@@ -710,19 +752,6 @@
    "tickers": []
   },
   {
-   "id": "f1102a63bfdf",
-   "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
-   "link": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
-   "summary": "The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-27T11:02:04+00:00",
-   "tickers": []
-  },
-  {
    "id": "ef51a394da4d",
    "title": "InvestingPro Fair Value predicted 53% drop in Regencell stock",
    "link": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-predicted-53-drop-in-regencell-stock-93CH-4763966",
@@ -1121,19 +1150,6 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-06-27T09:00:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a97d752d86af",
-   "title": "In Colorado, the Long Aftermath of a Fire Feels Political",
-   "link": "https://www.nytimes.com/2026/06/27/business/colorado-fire-fema-aid-denied.html",
-   "summary": "When the Trump administration rejected a request for federal assistance to a fire-ravaged part of western Colorado, residents debated which political party was to blame.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-06-27T09:00:48+00:00",
    "tickers": []
   },
   {
@@ -8285,19 +8301,6 @@
    "tickers": [
     "RITM"
    ]
-  },
-  {
-   "id": "7d523612b20b",
-   "title": "S&P 500 notches longest losing streak in 10 months as chipmakers slide",
-   "link": "https://www.ft.com/content/bb70e272-5b09-4806-8b19-7c03c350f580",
-   "summary": "Software stock-led recovery proves fleeting as Wall Street’s main indices fall for fifth consecutive session",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "ft.com",
-   "published": "2026-06-26T20:24:12+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8310,6 +8313,7 @@
   "FNF": "Fidelity National Financial",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "PRAX": "Praxis Precision Medicines",
+  "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "IWM": "iShares Russell 2000 ETF",
   "AMD": "Advanced Micro Devices",
@@ -8385,6 +8389,7 @@
   "AL": "Air Lease",
   "BC": "Brunswick",
   "C": "Citigroup",
+  "CME": "CME Group",
   "CRWV": "CoreWeave",
   "PKG": "Packaging",
   "SNOW": "Snowflake",
