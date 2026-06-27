@@ -1,8 +1,63 @@
 {
- "generated": "2026-06-27T09:02:32.171320+00:00",
+ "generated": "2026-06-27T09:07:12.834493+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c855b2977b5b",
+   "title": "Colette Shulman, Soviet Analyst With On-the-Ground Insights, Dies at 94",
+   "link": "https://www.nytimes.com/2026/06/27/business/media/colette-shulman-dead.html",
+   "summary": "She arrived in Moscow in 1955, two years after Stalin’s death, and spent several years as a journalist covering major events and ordinary Soviet lives.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-27T09:01:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "95bd778b4162",
+   "title": "Chaos Came to CBS News. What’s in Store for CNN?",
+   "link": "https://www.nytimes.com/2026/06/27/business/media/cnn-bari-weiss-david-ellison.html",
+   "summary": "The tech scion David Ellison is close to completing a merger that would put the legacy broadcaster and the 24-hour cable news network under the same roof.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-27T09:01:24+00:00",
+   "tickers": [
+    "NWSA",
+    "PARA"
+   ]
+  },
+  {
+   "id": "3e87428000c5",
+   "title": "How Much Have Airfares Risen With High Jet Fuel Costs?",
+   "link": "https://www.nytimes.com/2026/06/27/upshot/airfares-jet-fuel-prices.html",
+   "summary": "While prices are up overall, there’s a surprising pattern depending on your destination.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-27T09:00:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a97d752d86af",
+   "title": "In Colorado, the Long Aftermath of a Fire Feels Political",
+   "link": "https://www.nytimes.com/2026/06/27/business/colorado-fire-fema-aid-denied.html",
+   "summary": "When the Trump administration rejected a request for federal assistance to a fire-ravaged part of western Colorado, residents debated which political party was to blame.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-27T09:00:47+00:00",
+   "tickers": []
+  },
   {
    "id": "b0cceb2d5728",
    "title": "Figma: The Stock Fell On AI Fear, But AI May Be The Rerating Trigger",
@@ -8292,60 +8347,6 @@
     "LNTH",
     "NWSA"
    ]
-  },
-  {
-   "id": "6f52c837c458",
-   "title": "Form 4 Globe Life Inc For: 26 June",
-   "link": "https://www.investing.com/news/filings/form-4-globe-life-inc-for-26-june-93CH-4763379",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-26T20:00:59+00:00",
-   "tickers": [
-    "GL"
-   ]
-  },
-  {
-   "id": "007086492bfe",
-   "title": "Wiley stock hits 52-week high at 48.22 USD",
-   "link": "https://www.investing.com/news/company-news/wiley-stock-hits-52week-high-at-4822-usd-93CH-4763378",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-26T20:00:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b7e50340e49c",
-   "title": "FDA declines to approve Sobi’s gout therapy on concerns over manufacturing",
-   "link": "https://www.investing.com/news/stock-market-news/us-fda-declines-to-approve-sobis-therapy-for-uncontrolled-gout-4763346",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-06-26T20:00:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "617de618c700",
-   "title": "Nisource Inc stock hits all-time high at 48.98 USD",
-   "link": "https://www.investing.com/news/company-news/nisource-inc-stock-hits-alltime-high-at-4898-usd-93CH-4763377",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-06-26T20:00:48+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8421,8 +8422,8 @@
   "BA": "The Boeing",
   "BN": "Brookfield",
   "CRM": "Salesforce",
-  "GL": "Globe Life",
   "MSFT": "Office 365",
+  "PARA": "Paramount+",
   "AL": "Air Lease",
   "BC": "Brunswick",
   "CRWV": "CoreWeave",
