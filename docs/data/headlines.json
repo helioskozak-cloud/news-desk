@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T20:32:13.456979+00:00",
+ "generated": "2026-06-27T20:37:28.304312+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,35 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-06-27T20:24:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "69d8be55abbe",
+   "title": "Restaurant Brands International vs. McDonald's: Comparing Revenue Trends for These Fast-Food Giants",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/restaurant-brands-international-vs-mcdonalds-202301399.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-27T20:23:01+00:00",
+   "tickers": [
+    "QSR",
+    "MCD"
+   ]
+  },
+  {
+   "id": "455db06f0406",
+   "title": "3 Reasons to Buy Silicon Motion Technology Stock Like There's No Tomorrow",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-silicon-motion-202000611.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-27T20:20:00+00:00",
    "tickers": []
   },
   {
@@ -8321,34 +8350,6 @@
    "tickers": [
     "NTRA"
    ]
-  },
-  {
-   "id": "3895c9838e78",
-   "title": "Natera director Herm Rosenman sells $4.13m in common stock",
-   "link": "https://www.investing.com/news/insider-trading-news/natera-director-herm-rosenman-sells-413m-in-common-stock-93CH-4763912",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-27T01:09:53+00:00",
-   "tickers": [
-    "NTRA"
-   ]
-  },
-  {
-   "id": "2df54cbcec83",
-   "title": "Persistent and Nagarro sign Business Combination Agreement to form the Persistent - Nagarro Group, a global leader in AI-led digital engineering",
-   "link": "https://www.prnewswire.com/news-releases/persistent-and-nagarro-sign-business-combination-agreement-to-form-the-persistent---nagarro-group-a-global-leader-in-ai-led-digital-engineering-302812476.html",
-   "summary": "Persistent announces the intention to launch a voluntary public takeover offer for all outstanding Nagarro shares at EUR 81 per share All-cash offer represents a highly attractive premium of ~140% to the undisturbed closing price on June 25, 2026, and ~94% to the three-month...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-06-27T01:08:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8363,6 +8364,7 @@
   "TSM": "Taiwan Semiconductor Manufacturing",
   "CHKP": "Check Point Software Technologies",
   "IBM": "International Business Machines",
+  "QSR": "Restaurant Brands International",
   "BND": "Vanguard Total Bond Market ETF",
   "CRDO": "Credo Technology Group Holding",
   "BJ": "BJ's Wholesale Club Holdings",
@@ -8476,6 +8478,7 @@
   "BROS": "Dutch Bros",
   "CRM": "Salesforce",
   "GEV": "GE Vernova",
+  "MCD": "McDonald's",
   "PLUG": "Plug Power",
   "RKLB": "Rocket Lab",
   "STLA": "Stellantis",
