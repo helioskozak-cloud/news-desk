@@ -1,8 +1,49 @@
 {
- "generated": "2026-06-28T11:17:28.275526+00:00",
+ "generated": "2026-06-28T11:22:12.222774+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8381b83befd0",
+   "title": "Death toll in Venezuela quake tops 1,400 as rescue efforts intensify",
+   "link": "https://www.investing.com/news/world-news/venezuela-welcomes-1600-foreign-rescuers-in-urgent-search-for-quake-survivors-4764033",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-06-28T11:18:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "44709c94d583",
+   "title": "Deutsche Bank surges 69% after InvestingPro Fair Value signal",
+   "link": "https://www.investing.com/news/investment-ideas/deutsche-bank-surges-69-after-investingpro-fair-value-signal-93CH-4764088",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-06-28T11:08:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "170d8d07676e",
+   "title": "InvestingPro Fair Value flagged Opendoor drop before 49% decline",
+   "link": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-flagged-opendoor-drop-before-49-decline-93CH-4764087",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-06-28T11:01:45+00:00",
+   "tickers": [
+    "OPEN"
+   ]
+  },
   {
    "id": "8a762738187d",
    "title": "Robots, not chatbots, will realise AI’s potential",
@@ -722,19 +763,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-06-28T05:55:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8381b83befd0",
-   "title": "Death toll in Venezuela quake tops 1,400 as rescue efforts intensify",
-   "link": "https://www.investing.com/news/world-news/venezuela-welcomes-1600-foreign-rescuers-in-urgent-search-for-quake-survivors-4764033",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-06-28T05:48:30+00:00",
    "tickers": []
   },
   {
@@ -5596,7 +5624,7 @@
    "title": "Eightco Holdings (NASDAQ: ORBS) dichiara un patrimonio complessivo di circa 436 milioni di dollari, tra cui OpenAI, Beast Industries, oltre 16.000 ETH e più di 283 milioni di token WLD",
    "link": "https://www.prnewswire.com/news-releases/eightco-holdings-nasdaq-orbs-dichiara-un-patrimonio-complessivo-di-circa-436-milioni-di-dollari-tra-cui-openai-beast-industries-oltre-16-000-eth-e-piu-di-283-milioni-di-token-wld-302812613.html",
    "summary": "Composizione della tesoreria di Eightco al 24 giugno 2026: 90 milioni di dollari di azioni OpenAI (indirette), 18 milioni di dollari di azioni Beast Industries, 16.278 ETH, 283 milioni di WLD e 149 milioni di dollari in contanti e mezzi equivalenti, per un totale di circa 436 milioni di...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8358,34 +8386,6 @@
    "tickers": [
     "LLY"
    ]
-  },
-  {
-   "id": "b0239d2bd7b0",
-   "title": "NVIDIA (NVDA) Launches BioNeMo Agent Toolkit to Accelerate AI-Driven Scientific Discovery in Life Sciences",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-launches-bionemo-agent-112142349.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T11:21:42+00:00",
-   "tickers": [
-    "NVDA"
-   ]
-  },
-  {
-   "id": "ac6395124d02",
-   "title": "Monster Energy Athletes Bring the Heat on Day 1 of X Games Sacramento 2026",
-   "link": "https://www.prnewswire.com/news-releases/monster-energy-athletes-bring-the-heat-on-day-1-of-x-games-sacramento-2026-302812570.html",
-   "summary": "Women's Skateboard Park: 16-Year-Old Arisa Trew from Australia Claims Gold, Monster Army's Raicca Ventura from Brazil Takes Bronze Moto X Best Whip: 30-Year-Old Julien Vanstippen from Ophain, Belgium, Defends Gold Medal Men's BMX Park: 31-Year-Old Kevin Peraza from Tucson, Arizona, Claims...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-06-27T11:19:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8420,6 +8420,7 @@
   "CHTR": "Charter Communications",
   "EOSE": "Eos Energy Enterprises",
   "VZ": "Verizon Communications",
+  "OPEN": "Opendoor Technologies",
   "PLTR": "Palantir Technologies",
   "ALGM": "Allegro MicroSystems",
   "CRWD": "CrowdStrike Holdings",
