@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-28T22:02:40.111220+00:00",
+ "generated": "2026-06-28T22:07:24.912452+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f8f25ac8b52e",
+   "title": "Stock futures are little changed, oil prices rise following U.S. attacks on Iran targets over the weekend: Live updates",
+   "link": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html",
+   "summary": "Wall Street is coming off a mixed week, characterized by a rotation out of tech and into other parts of the stock market.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-06-28T22:03:58+00:00",
+   "tickers": []
+  },
   {
    "id": "ad48fe8ff0a6",
    "title": "Here are the major earnings before the open Monday",
@@ -45,6 +58,19 @@
    ]
   },
   {
+   "id": "15d898a60d7b",
+   "title": "Philippe Stern, Heir to the Patek Philippe Watch Brand, Dies at 88",
+   "link": "https://www.nytimes.com/2026/06/28/obituaries/phillipe-stern-dead.html",
+   "summary": "In an era of electronic timepieces, he marketed $40,000 handmade watches as status symbols, breathing new life into a struggling industry.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-28T21:59:28+00:00",
+   "tickers": []
+  },
+  {
    "id": "98b07ca39d9f",
    "title": "HOFSETH BIOCARE ASA: PRIVATE PLACEMENT SUCCESSFULLY PLACED",
    "link": "https://www.globenewswire.com/news-release/2026/06/28/3318620/0/en/HOFSETH-BIOCARE-ASA-PRIVATE-PLACEMENT-SUCCESSFULLY-PLACED.html",
@@ -55,6 +81,19 @@
    "sentiment": "neutral",
    "domain": "globenewswire.com",
    "published": "2026-06-28T21:52:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a276480da1d6",
+   "title": "SpaceX landed in millions of 401(k)s through index funds — and the same rules open the door to OpenAI and Anthropic",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-landed-millions-401-k-214500017.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-28T21:45:00+00:00",
    "tickers": []
   },
   {
@@ -8345,48 +8384,6 @@
    "tickers": [
     "PYPL"
    ]
-  },
-  {
-   "id": "eb799493f8f7",
-   "title": "How TE Connectivity plc (TEL) Turns Connectors Into an AI, EV, and Factory Automation Growth Story",
-   "link": "https://finance.yahoo.com/technology/ai/articles/te-connectivity-plc-tel-turns-174936291.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T17:49:36+00:00",
-   "tickers": [
-    "TEL",
-    "TE"
-   ]
-  },
-  {
-   "id": "8a716967a6ca",
-   "title": "Why American Superconductor Corporation (AMSC) Is Drawing More Attention From Grid, Wind, and Data-Center Demand",
-   "link": "https://finance.yahoo.com/energy/articles/why-american-superconductor-corporation-amsc-174906441.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T17:49:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "221e2dcbd1af",
-   "title": "How Ballard Power Systems Inc. (BLDP) Uses GeoPura to Move Deeper Into Stationary Hydrogen Power",
-   "link": "https://finance.yahoo.com/energy/articles/ballard-power-systems-inc-bldp-174852939.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T17:48:52+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8464,7 +8461,6 @@
   "DIS": "The Walt Disney",
   "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
-  "TEL": "TE Connectivity",
   "WDC": "Western Digital",
   "WGS": "GeneDx Holdings",
   "ADI": "Analog Devices",
@@ -8521,7 +8517,6 @@
   "PKG": "Packaging",
   "SBUX": "Starbucks",
   "SNOW": "Snowflake",
-  "TE": "T1 Energy",
   "ADBE": "Photoshop",
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
