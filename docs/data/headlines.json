@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-28T19:52:27.948567+00:00",
+ "generated": "2026-06-28T19:57:26.052582+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "275a8b2ec571",
+   "title": "‘Supergirl’ Falters at the Box Office, Testing DC Studios’ Reboot",
+   "link": "https://www.nytimes.com/2026/06/28/business/media/supergirl-box-office.html",
+   "summary": "Overall, ticket sales for the weekend were up 21 percent from last year. But the expensive “Supergirl” debuted as a disappointing second, with an estimated $38 million.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-28T19:52:50+00:00",
+   "tickers": []
+  },
   {
    "id": "98bf33602217",
    "title": "Solar stocks get boost from grid ambitions, but BNP Paribas urges caution",
@@ -54,6 +67,38 @@
    "domain": "prnewswire.com",
    "published": "2026-06-28T19:35:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "b82718e022be",
+   "title": "Is GameStop the Next Berkshire Hathaway?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-next-berkshire-hathaway-193500721.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-28T19:35:00+00:00",
+   "tickers": [
+    "BRK-A",
+    "GME"
+   ]
+  },
+  {
+   "id": "456418f5235f",
+   "title": "Meta Platforms vs. Snap: Comparing Revenue Scale and Recent Trajectories",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-vs-snap-comparing-193201964.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-28T19:32:01+00:00",
+   "tickers": [
+    "META",
+    "SNAP"
+   ]
   },
   {
    "id": "dbb483865f70",
@@ -175,6 +220,21 @@
    "domain": "investing.com",
    "published": "2026-06-28T19:06:32+00:00",
    "tickers": []
+  },
+  {
+   "id": "c832380c60a9",
+   "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+   "link": "https://finance.yahoo.com/technology/ai/articles/ford-rehires-gray-beard-engineers-190539658.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-28T19:05:39+00:00",
+   "tickers": [
+    "F"
+   ]
   },
   {
    "id": "cb80141f403f",
@@ -622,19 +682,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-06-28T18:08:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "275a8b2ec571",
-   "title": "‘Supergirl’ Falters at the Box Office, Testing DC Studios’ Reboot",
-   "link": "https://www.nytimes.com/2026/06/28/business/media/supergirl-box-office.html",
-   "summary": "Overall, ticket sales for the weekend were up 21 percent from last year. But the expensive “Supergirl” debuted as a disappointing second, with an estimated $38 million.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-06-28T18:07:42+00:00",
    "tickers": []
   },
   {
@@ -8318,47 +8365,6 @@
    "tickers": [
     "GWW"
    ]
-  },
-  {
-   "id": "011b9f778c04",
-   "title": "The AI trade cooled and oil sank. A closer look at Wall Street's volatile week",
-   "link": "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html",
-   "summary": "Micron finished the week in the red despite a blockbuster earnings report. But falling oil prices was good news for the fight against inflation.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-06-27T16:39:52+00:00",
-   "tickers": [
-    "MU"
-   ]
-  },
-  {
-   "id": "7684d70307ff",
-   "title": "Solar Beats Coal for the First Time: 3 Dividend Stocks to Buy Now",
-   "link": "https://finance.yahoo.com/energy/articles/solar-beats-coal-first-time-163500483.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T16:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5581d080f31c",
-   "title": "What to Know About This $476,000 Palvella Therapeutics Insider Sale After a 620% Stock Rally",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/know-476-000-palvella-therapeutics-163154872.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T16:31:54+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8503,9 +8509,11 @@
   "DASH": "DoorDash",
   "ENB": "Enbridge",
   "FAST": "Fastenal",
+  "GME": "GameStop",
   "GOOG": "Alphabet",
   "SNPS": "Synopsys",
   "SQ": "Cash App",
+  "SNAP": "Snapchat",
   "BLSH": "Bullish",
   "BPOP": "Popular",
   "CVNA": "Carvana",
