@@ -1,16 +1,59 @@
 {
- "generated": "2026-06-28T19:17:20.931908+00:00",
+ "generated": "2026-06-28T19:22:31.411805+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "87e37750ed3d",
+   "title": "Volkswagen plans to end automated driving tie-up with Bosch, Bild reports",
+   "link": "https://www.investing.com/news/stock-market-news/volkswagen-plans-to-end-automated-driving-tieup-with-bosch-bild-reports-4764164",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-28T19:18:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "48ab825fba2b",
+   "title": "Williams is said to near $5.5B Momentum deal to expand LNG pipeline reach",
+   "link": "https://seekingalpha.com/news/4607907-williams-is-said-to-near-5_5b-momentum-deal-to-expand-lng-pipeline-reach?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-28T19:17:44+00:00",
+   "tickers": [
+    "LNG"
+   ]
+  },
+  {
+   "id": "3460f4f12d5d",
+   "title": "Morningstar cuts Reece fair value estimate by 2% to A$10.30",
+   "link": "https://www.investing.com/news/stock-market-news/morningstar-cuts-reece-fair-value-estimate-by-2-to-a1030-93CH-4764163",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-06-28T19:15:17+00:00",
+   "tickers": [
+    "MORN"
+   ]
+  },
   {
    "id": "c4c3a5133bed",
    "title": "U.S. likely to remain global superpower despite mounting headwinds",
    "link": "https://www.investing.com/news/stock-market-news/us-likely-to-remain-global-superpower-despite-mounting-headwinds-4764162",
    "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-06-28T19:11:09+00:00",
@@ -8318,49 +8361,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-06-27T16:20:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "56db53259513",
-   "title": "Starting at $0? Here's How You Can Build Up a $500,000 Portfolio in 25 Years",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/starting-0-heres-build-500-162000415.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T16:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b30b9b4bbd1e",
-   "title": "What Walmart, Target, and Kroger pay their CEOs",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-kroger-pay-ceos-161700183.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T16:17:00+00:00",
-   "tickers": [
-    "WMT"
-   ]
-  },
-  {
-   "id": "2d0499423eb5",
-   "title": "Citrix (CTXS), HPE (HPE) Expand Partnership for Hybrid Cloud and Virtualization",
-   "link": "https://finance.yahoo.com/technology/articles/citrix-ctxs-hpe-hpe-expand-161648138.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T16:16:48+00:00",
-   "tickers": [
-    "HPE"
-   ]
   }
  ],
  "ticker_names": {
@@ -8379,7 +8379,6 @@
   "QQQ": "Invesco QQQ Trust, Series 1",
   "STX": "Seagate Technology Holdings",
   "AMC": "AMC Entertainment Holdings",
-  "HPE": "Hewlett Packard Enterprise",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "REGN": "Regeneron Pharmaceuticals",
@@ -8471,6 +8470,7 @@
   "AGI": "Alamos Gold",
   "ALAB": "Astera Labs",
   "DUK": "Duke Energy",
+  "MORN": "Morningstar",
   "ULTA": "Ulta Beauty",
   "WPC": "W. P. Carey",
   "XOM": "Exxon Mobil",
