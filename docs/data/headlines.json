@@ -1,8 +1,21 @@
 {
- "generated": "2026-06-28T18:22:30.733132+00:00",
+ "generated": "2026-06-28T18:27:28.421512+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a65f8d9ec7ce",
+   "title": "US Small and Midsize Businesses Poised for Growth, Waiting to Make Significant Moves: 2026 Columbia Bank Business Barometer",
+   "link": "https://finance.yahoo.com/small-business/articles/us-small-midsize-businesses-poised-181414660.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-28T18:14:14+00:00",
+   "tickers": []
+  },
   {
    "id": "0ef1bf66953a",
    "title": "Aramco helicopter crashes at Saudi port",
@@ -41,6 +54,22 @@
    "domain": "nytimes.com",
    "published": "2026-06-28T18:07:41+00:00",
    "tickers": []
+  },
+  {
+   "id": "fd04ac36c0d7",
+   "title": "SpaceX, Tesla, and Alphabet All Fall in a Broad Tech Rout. Should You Rebalance Your Portfolio?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-alphabet-fall-broad-180500091.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-28T18:05:00+00:00",
+   "tickers": [
+    "GOOG",
+    "TSLA"
+   ]
   },
   {
    "id": "d25aa3b783a9",
@@ -8345,36 +8374,6 @@
    "tickers": [
     "NVDA"
    ]
-  },
-  {
-   "id": "c8913b679b65",
-   "title": "Abbott Laboratories (ABT) must face a Lawsuit over PediaSure, Statements about Children’s Growth",
-   "link": "https://finance.yahoo.com/healthcare/articles/abbott-laboratories-abt-must-face-153214128.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T15:32:14+00:00",
-   "tickers": [
-    "ABT"
-   ]
-  },
-  {
-   "id": "0f750f28354b",
-   "title": "Medtronic plc (MDT) CEO Discloses the Impacts of Tariffs on the Company",
-   "link": "https://finance.yahoo.com/economy/policy/articles/medtronic-plc-mdt-ceo-discloses-153207076.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T15:32:07+00:00",
-   "tickers": [
-    "MDT"
-   ]
   }
  ],
  "ticker_names": {
@@ -8421,7 +8420,6 @@
   "PCOR": "Procore Technologies",
   "STZ": "Constellation Brands",
   "VOO": "Vanguard S&P 500 ETF",
-  "ABT": "Abbott Laboratories",
   "APGE": "Apogee Therapeutics",
   "IP": "International Paper",
   "ROK": "Rockwell Automation",
@@ -8513,7 +8511,6 @@
   "BLK": "BlackRock",
   "C": "Citigroup",
   "DT": "Dynatrace",
-  "MDT": "Medtronic",
   "NXT": "Nextpower",
   "PKG": "Packaging",
   "SBUX": "Starbucks",
