@@ -1,8 +1,24 @@
 {
- "generated": "2026-06-28T06:32:30.652348+00:00",
+ "generated": "2026-06-28T06:37:30.256639+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "585934191193",
+   "title": "Auto business no longer in spotlight in Tesla investor conversations: Barclays",
+   "link": "https://www.investing.com/news/company-news/auto-business-no-longer-in-spotlight-in-tesla-investor-conversations-barclays-4764068",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-28T06:16:01+00:00",
+   "tickers": [
+    "BCS",
+    "TSLA"
+   ]
+  },
   {
    "id": "c6b84f347511",
    "title": "Petrobras: We're Adding Hundreds Of Shares On The Dips",
@@ -8188,6 +8204,19 @@
    "tickers": []
   },
   {
+   "id": "d207091f1dd6",
+   "title": "HELOC and home equity loan rates Saturday, June 27, 2026: 'FedWatch' tool suggests higher rates are coming",
+   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-saturday-june-27-2026-fedwatch-tool-suggests-higher-rates-are-coming-100000972.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-27T10:00:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "f721a9637ca1",
    "title": "Ukraine hits defence plant in Russia’s Volgograd region, Zelenskiy says",
    "link": "https://www.investing.com/news/world-news/ukraine-hits-defence-plant-in-russias-volgograd-region-zelenskiy-says-4763963",
@@ -8346,34 +8375,6 @@
    "tickers": [
     "TSLA"
    ]
-  },
-  {
-   "id": "b0cceb2d5728",
-   "title": "Figma: The Stock Fell On AI Fear, But AI May Be The Rerating Trigger",
-   "link": "https://seekingalpha.com/article/4918228-figma-the-stock-fell-on-ai-fear-but-ai-may-be-the-rerating-trigger?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-27T08:49:04+00:00",
-   "tickers": [
-    "FIG"
-   ]
-  },
-  {
-   "id": "e601e1073b68",
-   "title": "Catching A Falling Calf: A Contrarian Case For America's Beef Packers",
-   "link": "https://seekingalpha.com/article/4918234-catching-falling-calf-contrarian-case-for-america-beef-packers?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-27T08:45:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8530,6 +8531,7 @@
   "ADBE": "Photoshop",
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
+  "BCS": "Barclays",
   "ENB": "Enbridge",
   "FAST": "Fastenal",
   "GOOG": "Alphabet",
@@ -8554,7 +8556,6 @@
   "PFE": "Pfizer",
   "PI": "Impinj",
   "ACM": "AECOM",
-  "FIG": "Figma",
   "INTC": "Intel",
   "NE": "Noble",
   "SYY": "Sysco",
