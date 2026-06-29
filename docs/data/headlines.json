@@ -1,8 +1,49 @@
 {
- "generated": "2026-06-29T04:27:25.851744+00:00",
+ "generated": "2026-06-29T04:32:02.041590+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0b527ce59876",
+   "title": "FirstFT: Burnham’s ‘growth in every UK postcode’ plan",
+   "link": "https://www.ft.com/content/1efdddb9-e72c-43c4-bbe5-d5e2aba00c1e",
+   "summary": "Also in today’s newsletter: Russia’s fuel shortage and Europe’s low gas stocks",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-06-29T04:30:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f8f25ac8b52e",
+   "title": "Stock futures rise, Asia mixed as fragile U.S.-Iran truce keeps oil markets on edge: Live updates",
+   "link": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html",
+   "summary": "Wall Street is coming off a mixed week, characterized by a rotation out of tech and into other parts of the stock market.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-06-29T04:30:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "32db1aac70e4",
+   "title": "DOJ dropped Abbott baby formula criminal probe despite pile of evidence: WSJ",
+   "link": "https://seekingalpha.com/news/4607923-doj-dropped-abbott-baby-formula-criminal-probe-despite-pile-of-evidence-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-29T04:25:59+00:00",
+   "tickers": [
+    "ABT"
+   ]
+  },
   {
    "id": "699f70a30653",
    "title": "Japan retail sales beat forecasts with 5.3% jump in May",
@@ -14,19 +55,6 @@
    "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-06-29T04:20:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f8f25ac8b52e",
-   "title": "Stock futures edge higher, Asia mixed as renewed U.S.-Iran attacks push oil prices up: Live updates",
-   "link": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html",
-   "summary": "Wall Street is coming off a mixed week, characterized by a rotation out of tech and into other parts of the stock market.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-29T04:20:36+00:00",
    "tickers": []
   },
   {
@@ -271,7 +299,7 @@
   },
   {
    "id": "5564f416470d",
-   "title": "‘You saw it get out of hand’: WeWork CEO on rebuilding a wayward brand",
+   "title": "‘You saw it get out of hand’: WeWork’s CEO on rebuilding a wayward brand",
    "link": "https://www.ft.com/content/6b2348bf-59c2-41cc-9a6e-0a55e7bc6a7d",
    "summary": "After half a century at a traditional property group, John Santora is helping the one-time disrupter grow up",
    "source": "FT Companies",
@@ -2216,19 +2244,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-06-28T21:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0b527ce59876",
-   "title": "FirstFT: AI ‘exuberance’ threatens the global economy, BIS warns",
-   "link": "https://www.ft.com/content/1efdddb9-e72c-43c4-bbe5-d5e2aba00c1e",
-   "summary": "Also in today’s newsletter: Aramco helicopter crashes at Saudi port, and Indian snack giant Haldiram’s preparing European expansion",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "ft.com",
-   "published": "2026-06-28T21:32:25+00:00",
    "tickers": []
   },
   {
@@ -8251,21 +8266,6 @@
    "tickers": [
     "VYMI"
    ]
-  },
-  {
-   "id": "96645ecf08e6",
-   "title": "Here's Why Buying Brookfield Renewable Today Could Be the Best Financial Decision You Ever Make",
-   "link": "https://finance.yahoo.com/energy/articles/heres-why-buying-brookfield-renewable-205000584.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T20:50:00+00:00",
-   "tickers": [
-    "BN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8304,6 +8304,7 @@
   "PCOR": "Procore Technologies",
   "STZ": "Constellation Brands",
   "VOO": "Vanguard S&P 500 ETF",
+  "ABT": "Abbott Laboratories",
   "FIX": "Comfort Systems USA",
   "ARRY": "Array Technologies",
   "BEN": "Franklin Resources",
@@ -8363,7 +8364,6 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "DDOG": "Datadog Inc",
-  "BN": "Brookfield",
   "BX": "Blackstone",
   "F": "Ford Motor",
   "GEV": "GE Vernova",
