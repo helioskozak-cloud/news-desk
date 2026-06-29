@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-29T04:32:02.041590+00:00",
+ "generated": "2026-06-29T04:37:24.681508+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -28,6 +28,34 @@
    "domain": "cnbc.com",
    "published": "2026-06-29T04:30:08+00:00",
    "tickers": []
+  },
+  {
+   "id": "04ccecf09eca",
+   "title": "Warsh’s Fed communication is adding volatility to rates markets",
+   "link": "https://www.ft.com/content/774f8385-d983-4af6-adcd-4db60e711d3d",
+   "summary": "The downsides of seeking more fundamental information from markets will be in greater surprises",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-06-29T04:30:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ae0f4dd48062",
+   "title": "Franklin Municipal Ladder 1-15 Year SMA Q1 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4918392-franklin-municipal-ladder-1-15-year-sma-q1-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-29T04:30:00+00:00",
+   "tickers": [
+    "BEN"
+   ]
   },
   {
    "id": "32db1aac70e4",
@@ -346,6 +374,19 @@
    "type": "stocks",
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
+   "published": "2026-06-29T04:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bc6a3fd6d8ae",
+   "title": "AI wakes up the sleepy US power sector",
+   "link": "https://www.ft.com/content/6511c0de-6baf-4592-a3ab-b6fdfa7e7ff6",
+   "summary": "Companies in dealmaking blitz as they seek to build the energy infrastructure for data centres",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
    "published": "2026-06-29T04:00:00+00:00",
    "tickers": []
   },
@@ -6911,9 +6952,9 @@
    "title": "Spanish import hub urges EU to delay ban on Russian gas",
    "link": "https://www.ft.com/content/8606fc3c-6576-4ab2-8d28-9e8a46515a2c",
    "summary": "LNG shipments to the bloc have risen in the wake of the Middle East war",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-06-28T04:00:21+00:00",
@@ -8223,49 +8264,6 @@
    "tickers": [
     "MSTR"
    ]
-  },
-  {
-   "id": "86a6b645f5b9",
-   "title": "Time's running out for Americans to claim a possible COVID tax refund",
-   "link": "https://finance.yahoo.com/economy/policy/articles/times-running-americans-claim-possible-210058683.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T21:00:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f18b13f79533",
-   "title": "WGS Investors Have Opportunity to Lead GeneDx Holdings Corp. Securities Fraud Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/wgs-investors-have-opportunity-to-lead-genedx-holdings-corp-securities-fraud-lawsuit-302812196.html",
-   "summary": "NEW YORK, June 27, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of GeneDx Holdings Corp. (NASDAQ: WGS) between April 16, 2025 and May 4, 2026, inclusive (the \"Class Period\"), of the important August 3, 2026 lead plaintiff...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-06-27T21:00:00+00:00",
-   "tickers": [
-    "WGS"
-   ]
-  },
-  {
-   "id": "1148e5f86537",
-   "title": "Looking for Reliable Retirement Income? This Vanguard ETF Could Be Worth a Closer Look.",
-   "link": "https://finance.yahoo.com/news/looking-reliable-retirement-income-vanguard-205600664.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-27T20:56:00+00:00",
-   "tickers": [
-    "VYMI"
-   ]
   }
  ],
  "ticker_names": {
@@ -8324,7 +8322,6 @@
   "ASTS": "AST SpaceMobile",
   "BAC": "Bank of America",
   "LNG": "Cheniere Energy",
-  "WGS": "GeneDx Holdings",
   "HPQ": "Hewlett-Packard",
   "ADI": "Analog Devices",
   "HCA": "HCA Healthcare",
