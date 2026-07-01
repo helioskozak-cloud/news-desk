@@ -1,8 +1,24 @@
 {
- "generated": "2026-07-01T21:52:10.437614+00:00",
+ "generated": "2026-07-01T21:57:30.127679+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "15065c12a903",
+   "title": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
+   "link": "https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories",
+   "summary": "Most of Sandisk’s annual revenue could eventually come from its new business model contracts that provide better visibility, BofA said.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "marketwatch.com",
+   "published": "2026-07-01T21:51:00+00:00",
+   "tickers": [
+    "SNDK",
+    "MU"
+   ]
+  },
   {
    "id": "e089c0362225",
    "title": "Eaton Vance Short Duration Diversified Income Fund decreases dividend by -0.1% to $0.0738/share",
@@ -112,6 +128,19 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-01T21:48:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d75ec1a3b189",
+   "title": "2026 First Half Portfolio Review: The Great Rotation Might Be Starting",
+   "link": "https://seekingalpha.com/article/4919295-2026-first-half-portfolio-review-the-great-rotation-might-be-starting?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-01T21:48:23+00:00",
    "tickers": []
   },
   {
@@ -418,6 +447,21 @@
    "published": "2026-07-01T21:38:42+00:00",
    "tickers": [
     "ETN"
+   ]
+  },
+  {
+   "id": "917c7a76c1d7",
+   "title": "Meridian3 Industrials prices $175M IPO on Nasdaq",
+   "link": "https://www.investing.com/news/stock-market-news/meridian3-industrials-prices-175m-ipo-on-nasdaq-432SI-4771789",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-01T21:37:02+00:00",
+   "tickers": [
+    "NDAQ"
    ]
   },
   {
@@ -8575,49 +8619,6 @@
    "tickers": [
     "META"
    ]
-  },
-  {
-   "id": "e11e67e0afad",
-   "title": "Microsoft charges into $394-$408 resistance wall: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/microsoft-rebounds-from-52week-low-into-resistance-live-levels-93CH-4765667",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-07-01T19:08:48+00:00",
-   "tickers": [
-    "MSFT"
-   ]
-  },
-  {
-   "id": "0d6747cd15bb",
-   "title": "UFP Technologies, Inc. to Present and Host 1x1 Investor Meetings at the CJS Securities 26th Annual New Ideas Summer Conference | UFPT Stock News",
-   "link": "https://www.stocktitan.net/news/UFPT/ufp-technologies-inc-to-present-and-host-1x1-investor-meetings-at-h9hi9bwk34wi.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-01T19:08:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "98bd44eccb78",
-   "title": "Harbor Health Care ETF Q1 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4919272-harbor-health-care-etf-q1-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-01T19:07:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8736,7 +8737,6 @@
   "FIVE": "Five Below",
   "MUSA": "Murphy USA",
   "UNM": "Unum Group",
-  "MSFT": "Office 365",
   "DE": "John Deere",
   "BLK": "BlackRock",
   "C": "Citigroup",
@@ -8754,6 +8754,7 @@
   "MRNA": "Moderna",
   "NEM": "Newmont",
   "SCI": "Service",
+  "SNDK": "Sandisk",
   "NFLX": "Netflix",
   "BULL": "Webull",
   "CPRT": "Copart",
