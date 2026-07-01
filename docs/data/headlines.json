@@ -1,8 +1,50 @@
 {
- "generated": "2026-07-01T05:37:07.679938+00:00",
+ "generated": "2026-07-01T05:42:13.609355+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "695c597ce524",
+   "title": "Skanska divests rental multifamily project in Sollentuna, Sweden, for about SEK 570M",
+   "link": "https://www.prnewswire.com/news-releases/skanska-divests-rental-multifamily-project-in-sollentuna-sweden-for-about-sek-570m-302815419.html",
+   "summary": "STOCKHOLM, July 1, 2026 /PRNewswire/ -- Skanska divests a self-developed rental multifamily project, Traktören 20, in Tureberg in central Sollentuna, Sweden, to the Folksam Group through KPA Pension. The transaction value is about SEK 570M which will be recorded by Skanska Commercial...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-01T05:39:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b8fe883a2af9",
+   "title": "PharmaResearch Accelerates REJURAN Cosmetics Expansion Across North and South America with Planned Acquisition of CG USA",
+   "link": "https://www.prnewswire.com/news-releases/pharmaresearch-accelerates-rejuran-cosmetics-expansion-across-north-and-south-america-with-planned-acquisition-of-cg-usa-302815417.html",
+   "summary": "Acquisition strengthens local manufacturing and logistics capabilities as REJURAN Cosmetics expands across Sephora, Amazon and Canada, with future growth across the Americas in view SEOUL, South Korea, July 1, 2026 /PRNewswire/ -- PharmaResearch, the South Korea-based regenerative...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-01T05:38:00+00:00",
+   "tickers": [
+    "AMZN",
+    "CG"
+   ]
+  },
+  {
+   "id": "eda6ef2a6175",
+   "title": "China's manufacturing PMI eases to 51.7 in June but beats forecasts; caps strongest quarter since 2020",
+   "link": "https://seekingalpha.com/news/4608698-china-manufacturing-pmi-eases-to-517-in-june-but-beats-forecasts-caps-strongest-quarter-since-2020?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-01T05:35:30+00:00",
+   "tickers": []
+  },
   {
    "id": "44d29da530a6",
    "title": "Yen slides to new 40-year low while Dow futures ease after strongest first half in five years: Live updates",
@@ -8331,49 +8373,6 @@
    "domain": "investing.com",
    "published": "2026-06-30T20:39:55+00:00",
    "tickers": []
-  },
-  {
-   "id": "96f599ccbe1d",
-   "title": "Utilities sector slips in Q2 as Vistra leads gainers, Constellation Energy lags",
-   "link": "https://seekingalpha.com/news/4608649-utilities-sector-slips-in-q2-as-vistra-leads-gainers-constellation-energy-lags?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-30T20:39:24+00:00",
-   "tickers": [
-    "CEG",
-    "STZ",
-    "VST"
-   ]
-  },
-  {
-   "id": "73754912eef4",
-   "title": "Form 144 WORKDAY For: 30 June",
-   "link": "https://www.investing.com/news/filings/form-144-workday-for-30-june-93CH-4768839",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-30T20:39:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "74dae1679e85",
-   "title": "Form 144 DROPBOX INC For: 30 June",
-   "link": "https://www.investing.com/news/filings/form-144-dropbox-inc-for-30-june-93CH-4768838",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-30T20:39:11+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8409,6 +8408,7 @@
   "LUNR": "Intuitive Machines",
   "TKO": "TKO Group Holdings",
   "AMAT": "Applied Materials",
+  "CG": "The Carlyle Group",
   "DELL": "Dell Technologies",
   "ES": "Eversource Energy",
   "HOOD": "Robinhood Markets",
@@ -8481,7 +8481,6 @@
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "STE": "STERIS",
-  "VST": "Vistra",
   "AA": "Alcoa",
   "FDX": "FedEx",
   "FRMI": "Fermi",
