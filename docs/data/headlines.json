@@ -1,8 +1,52 @@
 {
- "generated": "2026-07-02T04:52:34.619791+00:00",
+ "generated": "2026-07-02T04:57:22.767283+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "3b1486ade2fd",
+   "title": "Russia launches massive strike on Ukraine as Poland scrambles jets, Finland restricts airspace",
+   "link": "https://www.cnbc.com/2026/07/02/russia-launches-missile-drone-strikes-ukraine-kyiv.html",
+   "summary": "The Russian defence ministry said that it launched a \"massive strike using long-range precision air, land, and sea-based weapons and attack drones.\"",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-07-02T04:53:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6d9d69a93fa3",
+   "title": "Microsoft joins consortium to build India-Southeast Asia undersea AI cable - report",
+   "link": "https://seekingalpha.com/news/4609519-microsoft-joins-consortium-to-build-india-southeast-asia-undersea-ai-cable---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-02T04:50:46+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
+  {
+   "id": "849d12cb9b25",
+   "title": "AbbVie: Apogee Deal Just Widened An Already Dominant Moat",
+   "link": "https://seekingalpha.com/article/4919340-abbvie-apogee-deal-just-widened-an-already-dominant-moat?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-02T04:47:34+00:00",
+   "tickers": [
+    "ABBV",
+    "APGE"
+   ]
+  },
   {
    "id": "f54f3a2b9466",
    "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report",
@@ -30,19 +74,6 @@
    "tickers": [
     "UMAC"
    ]
-  },
-  {
-   "id": "3b1486ade2fd",
-   "title": "Russia launches massive strike on Ukraine as Poland scrambles jets, Finland restricts airspace",
-   "link": "https://www.cnbc.com/2026/07/02/russia-launches-missile-drone-strikes-ukraine-kyiv.html",
-   "summary": "The Russian defence ministry said that it launched a \"massive strike using long-range precision air, land, and sea-based weapons and attack drones.\"",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-07-02T04:43:19+00:00",
-   "tickers": []
   },
   {
    "id": "be468f0eef22",
@@ -646,13 +677,13 @@
   },
   {
    "id": "d3ea8b696415",
-   "title": "BAE lands funding lift from UK spending on next-generation combat jet",
+   "title": "BAE’s next-generation combat jet lifted by defence funding boost",
    "link": "https://www.ft.com/content/f9459ff5-617f-4577-af85-fcef3c2f593e",
    "summary": "New technology is speeding up development and cutting costs of military equipment",
    "source": "FT Companies",
    "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
+   "type": "upgrade",
+   "sentiment": "positive",
    "domain": "ft.com",
    "published": "2026-07-02T04:00:13+00:00",
    "tickers": []
@@ -8328,34 +8359,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-01T20:28:52+00:00",
    "tickers": []
-  },
-  {
-   "id": "f9b435bc8f95",
-   "title": "Franklin Covey GAAP EPS of $0.27 misses by $0.04, revenue of $67.8M misses by $0.53M",
-   "link": "https://seekingalpha.com/news/4609413-franklin-covey-gaap-eps-of-0_27-misses-by-0_04-revenue-of-67_8m-misses-by-0_53m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-01T20:28:05+00:00",
-   "tickers": [
-    "BEN"
-   ]
-  },
-  {
-   "id": "2ad408800eeb",
-   "title": "Lime rolls into the public market with 6.7M share offering",
-   "link": "https://seekingalpha.com/news/4609372-lime-rolls-into-the-public-market-with-67m-share-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-01T20:28:03+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8388,6 +8391,7 @@
   "CRWD": "CrowdStrike Holdings",
   "GVA": "Granite Construction",
   "PTEN": "Patterson-UTI Energy",
+  "APGE": "Apogee Therapeutics",
   "AXSM": "Axsome Therapeutics",
   "ORLY": "O'Reilly Automotive",
   "SRAD": "Sportradar Group AG",
@@ -8462,6 +8466,7 @@
   "SNDK": "Sandisk",
   "WMT": "Walmart",
   "NFLX": "Netflix",
+  "ABBV": "AbbVie",
   "BULL": "Webull",
   "CPRT": "Copart",
   "ERAS": "Erasca",
