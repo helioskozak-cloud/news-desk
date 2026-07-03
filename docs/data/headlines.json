@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-03T02:37:28.966988+00:00",
+ "generated": "2026-07-03T02:42:31.326381+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a109d90a00e4",
+   "title": "Oil up slightly ahead of long US weekend as peace efforts hold",
+   "link": "https://www.cnbc.com/2026/07/03/oil-up-slightly-ahead-of-long-us-weekend-as-peace-efforts-hold.html",
+   "summary": "Oil rose on Friday before a long holiday weekend in the U.S. as wary optimism held over efforts to make peace in the Middle East between the U.S. and Iran.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-03T02:36:40+00:00",
+   "tickers": []
+  },
   {
    "id": "64ad1cd47b51",
    "title": "The Ordinary, CeraVe and Charlotte Tilbury Dominate Beauty's New Shelf: The AI Chatbox",
@@ -17,6 +30,19 @@
    "tickers": [
     "GOOGL"
    ]
+  },
+  {
+   "id": "8637b7a11b13",
+   "title": "Venezuela’s Rodriguez defends government response in wake of criticism",
+   "link": "https://www.investing.com/news/world-news/security-guard-rescued-from-rubble-a-week-after-venezuela-quakes-4773476",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-03T02:24:28+00:00",
+   "tickers": []
   },
   {
    "id": "899edb9555ad",
@@ -7970,6 +7996,23 @@
    ]
   },
   {
+   "id": "2171a2c8230f",
+   "title": "CORRECTING and REPLACING Xeris Announces Inducement Grants Under Nasdaq Listing Rule 5635(C)(4) | XERS Stock News",
+   "link": "https://www.stocktitan.net/news/XERS/correcting-and-replacing-xeris-announces-inducement-grants-under-vvdzgpgzf0py.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-07-02T20:05:00+00:00",
+   "tickers": [
+    "C",
+    "NDAQ",
+    "NWSA"
+   ]
+  },
+  {
    "id": "0555177a1fc3",
    "title": "Ryerson to Host Earnings Call on Thursday, July 30th to Discuss Second Quarter 2026 Results",
    "link": "https://www.prnewswire.com/news-releases/ryerson-to-host-earnings-call-on-thursday-july-30th-to-discuss-second-quarter-2026-results-302817208.html",
@@ -8443,52 +8486,6 @@
    "domain": "investing.com",
    "published": "2026-07-02T19:58:52+00:00",
    "tickers": []
-  },
-  {
-   "id": "60f248b3df94",
-   "title": "TD Cowen Names Edwards Lifesciences as Top Medical Device Pick",
-   "link": "https://www.investing.com/news/stock-market-news/td-cowen-names-edwards-lifesciences-as-top-medical-device-pick-93CH-4774010",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-02T19:58:40+00:00",
-   "tickers": [
-    "EW",
-    "TD"
-   ]
-  },
-  {
-   "id": "7d2aed39a97e",
-   "title": "Corgi Launches 24 ETFs on Cboe BZX: 15 Leveraged 2x Daily ETFs and Nine July Series Structured Buffer ETFs",
-   "link": "https://www.prnewswire.com/news-releases/corgi-launches-24-etfs-on-cboe-bzx-15-leveraged-2x-daily-etfs-and-nine-july-series-structured-buffer-etfs-302817129.html",
-   "summary": "Corgi lists 14 single-stock 2x Daily ETFs plus the Corgi Quantum Computing 2x Daily ETF on June 30, each at a 0.45% expense ratio and the lowest net expense ratio of any U.S.-listed 2x daily long ETF tracking the same underlying,* and nine July Series Structured Buffer ETFs on July 2,...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-07-02T19:58:00+00:00",
-   "tickers": [
-    "QUBT"
-   ]
-  },
-  {
-   "id": "7273e72daa84",
-   "title": "Omega Healthcare Investors stock hits all-time high at 49.33 USD",
-   "link": "https://www.investing.com/news/company-news/omega-healthcare-investors-stock-hits-alltime-high-at-4933-usd-93CH-4774008",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-02T19:57:08+00:00",
-   "tickers": [
-    "OHI"
-   ]
   }
  ],
  "ticker_names": {
@@ -8501,11 +8498,9 @@
   "AEM": "Agnico Eagle Mines Limited",
   "EL": "The Est?e Lauder Companies",
   "FBIN": "Fortune Brands Innovations",
-  "OHI": "Omega Healthcare Investors",
   "PRAX": "Praxis Precision Medicines",
   "UPRO": "ProShares UltraPro S&P 500",
   "JEF": "Jefferies Financial Group",
-  "TD": "The Toronto-Dominion Bank",
   "GLUE": "Monte Rosa Therapeutics",
   "GS": "The Goldman Sachs Group",
   "RYAN": "Ryan Specialty Holdings",
@@ -8521,7 +8516,6 @@
   "PLTR": "Palantir Technologies",
   "CRWD": "CrowdStrike Holdings",
   "EIX": "Edison International",
-  "EW": "Edwards Lifesciences",
   "JAZZ": "Jazz Pharmaceuticals",
   "SMCI": "Super Micro Computer",
   "VOYG": "Voyager Technologies",
@@ -8536,7 +8530,6 @@
   "HOOD": "Robinhood Markets",
   "MOH": "Molina Healthcare",
   "MU": "Micron Technology",
-  "QUBT": "Quantum Computing",
   "RF": "Regions Financial",
   "AMKR": "Amkor Technology",
   "IRTC": "iRhythm Holdings",
