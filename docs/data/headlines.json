@@ -1,8 +1,50 @@
 {
- "generated": "2026-07-03T04:32:28.595076+00:00",
+ "generated": "2026-07-03T04:37:21.702705+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1e982db29a72",
+   "title": "Asia markets trade mixed as chip slump weighs on sentiment: Live updates",
+   "link": "https://www.cnbc.com/2026/07/03/stock-market-today-live-updates.html",
+   "summary": "Asia-Pacific markets traded mixed on Friday as investors continued rotating out of technology stocks, tracking declines in the U.S.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-07-03T04:34:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2bf733445226",
+   "title": "FirstFT: Anthropic clamps down on Chinese access to Claude",
+   "link": "https://www.ft.com/content/a30da432-910f-4879-ad8f-845970d3cce3",
+   "summary": "Also in today’s newsletter: Wall Street profits and Burnham’s fiscal plans",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-07-03T04:32:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "53053e25201a",
+   "title": "From Ancient Capital to New Digital Silk Road Hub: The 7th Western Digital Economy Expo Sees Xi'an's Industrial Integration Unleash Strong Momentum",
+   "link": "https://www.prnewswire.com/news-releases/from-ancient-capital-to-new-digital-silk-road-hub-the-7th-western-digital-economy-expo-sees-xians-industrial-integration-unleash-strong-momentum-302817433.html",
+   "summary": "XI'AN, China, July 3, 2026 /PRNewswire/ -- Under the theme \"Digital Convergence Revitalizes the Silk Road, Smart Innovation Shapes the West's Future,\" the 7th Western Digital Economy Expo (WDEE Expo) has successfully concluded in the ancient capital of Xi'an on June 28. The expo brought...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-07-03T04:31:00+00:00",
+   "tickers": [
+    "WDC",
+    "WST"
+   ]
+  },
   {
    "id": "33959b662fc6",
    "title": "Pembina to join multi-party Canadian energy corridor initiative",
@@ -146,19 +188,6 @@
    "sentiment": "neutral",
    "domain": "marketwatch.com",
    "published": "2026-07-03T04:09:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1e982db29a72",
-   "title": "Asia markets trade mixed as chip slump weighs on sentiment: Live updates",
-   "link": "https://www.cnbc.com/2026/07/03/stock-market-today-live-updates.html",
-   "summary": "Asia-Pacific markets traded mixed on Friday as investors continued rotating out of technology stocks, tracking declines in the U.S.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-07-03T04:07:24+00:00",
    "tickers": []
   },
   {
@@ -8354,38 +8383,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "8dd2b9f50cc0",
-   "title": "MGIC Investment Corporation Schedules 2nd Quarter 2026 Earnings Call | MTG Stock News",
-   "link": "https://www.stocktitan.net/news/MTG/mgic-investment-corporation-schedules-2nd-quarter-2026-earnings-ljd23xwm3u5e.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-02T20:05:00+00:00",
-   "tickers": [
-    "MTG",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "a00e16e37321",
-   "title": "Terex Announces Quarterly Dividend | TEX Stock News",
-   "link": "https://www.stocktitan.net/news/TEX/terex-announces-quarterly-d7odl1n8noc5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-02T20:05:00+00:00",
-   "tickers": [
-    "TEX",
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8396,6 +8393,7 @@
   "PEG": "Public Service Enterprise Group",
   "WAL": "Western Alliance Bancorporation",
   "CTSH": "Cognizant Technology Solutions",
+  "WST": "West Pharmaceutical Services",
   "PFSI": "PennyMac Financial Services",
   "AEM": "Agnico Eagle Mines Limited",
   "EL": "The Est?e Lauder Companies",
@@ -8445,6 +8443,7 @@
   "LMT": "Lockheed Martin",
   "MTG": "MGIC Investment",
   "RRC": "Range Resources",
+  "WDC": "Western Digital",
   "WGS": "GeneDx Holdings",
   "BTU": "Peabody Energy",
   "LEU": "Centrus Energy",
