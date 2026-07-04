@@ -1,8 +1,23 @@
 {
- "generated": "2026-07-04T16:47:24.217850+00:00",
+ "generated": "2026-07-04T16:52:26.689377+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a03cddbc280f",
+   "title": "Adobe: Looks Like A Value Trap",
+   "link": "https://seekingalpha.com/article/4919857-adobe-looks-like-a-value-trap?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-04T16:45:46+00:00",
+   "tickers": [
+    "ADBE"
+   ]
+  },
   {
    "id": "580eb4eb400f",
    "title": "I’ve worked with over 5,000 kids: My 'simple' parenting rule has prevented countless power struggles",
@@ -15,6 +30,21 @@
    "domain": "cnbc.com",
    "published": "2026-07-04T16:35:53+00:00",
    "tickers": []
+  },
+  {
+   "id": "a2b3619b08ae",
+   "title": "Why Arm Is a Strong Buy Despite the 35% Pullback From Peak Levels",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-arm-strong-buy-despite-163056546.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-04T16:30:56+00:00",
+   "tickers": [
+    "ARM"
+   ]
   },
   {
    "id": "c2c3f696c311",
@@ -54,6 +84,21 @@
    "domain": "marketwatch.com",
    "published": "2026-07-04T16:27:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "79cf329fd443",
+   "title": "Nvidia vs. Strategy: Which Stock Has a Better Chance of Surging 10x by 2036?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-strategy-stock-better-162700393.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-04T16:27:00+00:00",
+   "tickers": [
+    "MSTR"
+   ]
   },
   {
    "id": "aba0a43ea1d7",
@@ -8333,45 +8378,6 @@
    "tickers": [
     "DIS"
    ]
-  },
-  {
-   "id": "f7f08b039244",
-   "title": "How Retirees Can Turn $100,000 Into Steady Monthly Income With This Dividend Stock",
-   "link": "https://finance.yahoo.com/real-estate/articles/retirees-turn-100-000-steady-173030435.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-03T17:30:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2a4d47ee641f",
-   "title": "Robbins LLP Reminds ASTC Stockholders of its Investigation into Astrotech Corporation; Contact the Firm for Information",
-   "link": "https://www.prnewswire.com/news-releases/robbins-llp-reminds-astc-stockholders-of-its-investigation-into-astrotech-corporation-contact-the-firm-for-information-302817135.html",
-   "summary": "SAN DIEGO, July 3, 2026 /PRNewswire/ -- Shareholder rights law firm Robbins LLP is investigating Astrotech Corporation (NASDAQ: ASTC) to determine whether certain Astrotech Corporation officers and directors violated securities laws and breached fiduciary duties to shareholders. Astrotech...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-07-03T17:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "312af0a09b86",
-   "title": "Robbins LLP Reminds VHUB Stockholders of its Investigation into VenHub Global, Inc.; Contact the Firm for Information",
-   "link": "https://www.prnewswire.com/news-releases/robbins-llp-reminds-vhub-stockholders-of-its-investigation-into-venhub-global-inc-contact-the-firm-for-information-302817128.html",
-   "summary": "SAN DIEGO, July 3, 2026 /PRNewswire/ -- Shareholder rights law firm Robbins LLP is investigating VenHub Global, Inc. (NASDAQ: VHUB) to determine whether certain VenHub Global, Inc. officers and directors violated securities laws and breached fiduciary duties to shareholders. VenHub...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-07-03T17:30:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8486,6 +8492,7 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
+  "ARM": "Arm Holdings",
   "RACE": "Ferrari N.V.",
   "FSLR": "First Solar",
   "LCID": "Lucid Group",
@@ -8518,6 +8525,7 @@
   "CRWV": "CoreWeave",
   "DT": "Dynatrace",
   "PKG": "Packaging",
+  "ADBE": "Photoshop",
   "NWSA": "News Corp",
   "APP": "AppLovin",
   "AVGO": "Broadcom",
