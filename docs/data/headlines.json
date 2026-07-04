@@ -1,8 +1,36 @@
 {
- "generated": "2026-07-04T20:22:34.743989+00:00",
+ "generated": "2026-07-04T20:27:23.404816+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5772e037f90e",
+   "title": "Jim Cramer surprises investors with his favorite stock pick",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-surprises-investors-favorite-200700700.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-04T20:07:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "291b6a7b01c9",
+   "title": "Numbers Don't Lie: Ferrari Is Still a Unicorn and Still a Big Buy Despite Luce Backlash",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/numbers-dont-lie-ferrari-still-200700365.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-04T20:07:00+00:00",
+   "tickers": [
+    "RACE"
+   ]
+  },
   {
    "id": "12708a93b7d4",
    "title": "SA Asks: What's the best space stock play right now?",
@@ -8367,32 +8395,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "61b449e9a6f3",
-   "title": "David S. Doty, Judge Who Helped Shape the Modern N.F.L., Dies at 96",
-   "link": "https://www.nytimes.com/2026/07/03/sports/football/david-s-doty-dead.html",
-   "summary": "He presided over the 1993 agreement that led to free agency and the salary cap, and for years oversaw the league’s disputes with its players.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-07-03T19:21:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "39a7dabb92e8",
-   "title": "StubHub under investigation over alleged ‘ghost ticketing’ at World Cup",
-   "link": "https://www.ft.com/content/bbcb648b-f6e6-4d79-8911-7d8fa8b04903",
-   "summary": "Texas attorney-general probes whether group is ‘cancelling or failing to provide’ purchases through its website",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "ft.com",
-   "published": "2026-07-03T19:21:23+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8516,6 +8518,7 @@
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "ARM": "Arm Holdings",
+  "RACE": "Ferrari N.V.",
   "FE": "FirstEnergy",
   "FSLR": "First Solar",
   "LCID": "Lucid Group",
