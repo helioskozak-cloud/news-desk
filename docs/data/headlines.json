@@ -1,8 +1,53 @@
 {
- "generated": "2026-07-04T14:07:22.759016+00:00",
+ "generated": "2026-07-04T14:12:34.631118+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "848895eddda3",
+   "title": "Laugh Factory Hosts 25th Annual Show to Support the USO and Celebrate America's 250th Birthday",
+   "link": "https://www.prnewswire.com/news-releases/laugh-factory-hosts-25th-annual-show-to-support-the-uso-and-celebrate-americas-250th-birthday-302817872.html",
+   "summary": "HOLLYWOOD, Calif., July 4, 2026 /PRNewswire/ -- A dozen top comedians performed live at Laugh Factory Hollywood to salute America's troops and celebrate America's 250th birthday during KRTH's 25th Annual Radiothon. \"Laugh Factory thanks all the comedians who got up very early and gave...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-04T14:11:00+00:00",
+   "tickers": [
+    "USO"
+   ]
+  },
+  {
+   "id": "4c608f276c6e",
+   "title": "St Petersburg region oil terminal hit in major Ukrainian drone attack",
+   "link": "https://www.investing.com/news/commodities-news/st-petersburg-region-hit-by-major-ukrainian-drone-attack-russian-officials-say-4775344",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-04T14:06:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "771665f093eb",
+   "title": "Notable analyst calls this week: Palantir, Chevron and Morgan Stanley among top picks",
+   "link": "https://seekingalpha.com/news/4609772-notable-analyst-calls-this-week-palantir-chevron-and-morgan-stanley-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-04T14:05:31+00:00",
+   "tickers": [
+    "MS",
+    "PLTR",
+    "CVX"
+   ]
+  },
   {
    "id": "66493c20ad9e",
    "title": "Mastercard, Visa, Robinhood in gainers; crypto, big banks among losers: week's financials wrap",
@@ -1429,19 +1474,6 @@
    "tickers": [
     "TSLA"
    ]
-  },
-  {
-   "id": "4c608f276c6e",
-   "title": "St Petersburg region port, oil terminal hit in major Ukrainian drone attack",
-   "link": "https://www.investing.com/news/commodities-news/st-petersburg-region-hit-by-major-ukrainian-drone-attack-russian-officials-say-4775344",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-04T12:24:30+00:00",
-   "tickers": []
   },
   {
    "id": "53d3dd8039bd",
@@ -8295,35 +8327,6 @@
    "domain": "investing.com",
    "published": "2026-07-03T16:00:49+00:00",
    "tickers": []
-  },
-  {
-   "id": "545cd10f7680",
-   "title": "Fiserv, service station operators including BP warn US stores on illegal vapes",
-   "link": "https://www.investing.com/news/stock-market-news/fiserv-service-station-operators-including-bp-warn-us-stores-on-illegal-vapes-4775283",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-07-03T16:00:32+00:00",
-   "tickers": [
-    "FISV",
-    "BP"
-   ]
-  },
-  {
-   "id": "10ba71a76203",
-   "title": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.14%",
-   "link": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-114-4775282",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-03T16:00:30+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8353,6 +8356,7 @@
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
   "ADM": "Archer-Daniels-Midland",
+  "USO": "United States Oil Fund",
   "VPU": "Vanguard Utilities ETF",
   "WBD": "Warner Bros. Discovery",
   "MIRM": "Mirum Pharmaceuticals",
@@ -8459,7 +8463,6 @@
   "PKG": "Packaging",
   "SNOW": "Snowflake",
   "NWSA": "News Corp",
-  "BP": "BP p.l.c",
   "DOCS": "Doximity",
   "GOOG": "Alphabet",
   "NI": "NiSource",
@@ -8468,6 +8471,7 @@
   "SQ": "Cash App",
   "BLSH": "Bullish",
   "BPOP": "Popular",
+  "CVX": "Chevron",
   "DHR": "Danaher",
   "IVZ": "Invesco",
   "KVYO": "Klaviyo",
@@ -8483,7 +8487,6 @@
   "NFLX": "Netflix",
   "DXCM": "DexCom",
   "ERAS": "Erasca",
-  "FISV": "Fiserv",
   "HUM": "Humana",
   "MTZ": "MasTec",
   "NDAQ": "Nasdaq",
