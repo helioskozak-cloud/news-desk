@@ -1,8 +1,34 @@
 {
- "generated": "2026-07-04T23:47:29.765818+00:00",
+ "generated": "2026-07-04T23:52:21.913262+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "028333b133e1",
+   "title": "Vance says Britain needs political change, pledges support for next PM",
+   "link": "https://www.investing.com/news/economy-news/vance-says-britain-needs-political-change-pledges-support-for-next-pm-4775389",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-04T23:45:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4d80b0fd5e85",
+   "title": "As Venezuela death toll rises, survivor recounts days beneath the rubble",
+   "link": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-2954-4775382",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-04T23:42:28+00:00",
+   "tickers": []
+  },
   {
    "id": "40e99130b3c6",
    "title": "Berkshire Hathaway Is Really a Financial Powerhouse in Disguise. Here's What That Means for Investors.",
@@ -161,17 +187,20 @@
    ]
   },
   {
-   "id": "4d80b0fd5e85",
-   "title": "As Venezuela death toll rises, survivor recounts days beneath the rubble",
-   "link": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-2954-4775382",
+   "id": "97c8390eb82c",
+   "title": "Palantir CEO Alex Karp Says AI Labs Are Chasing 'Tokens' While Enterprises Fear for Their IP: 'Something Has Gone Completely Wrong'",
+   "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-alex-karp-says-223226928.html",
    "summary": "",
-   "source": "Investing.com",
+   "source": "Yahoo Finance",
    "category": "markets",
    "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-04T22:36:30+00:00",
-   "tickers": []
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-04T22:32:26+00:00",
+   "tickers": [
+    "PLTR",
+    "IP"
+   ]
   },
   {
    "id": "0ec4c954e77c",
@@ -8373,34 +8402,6 @@
    "domain": "investing.com",
    "published": "2026-07-03T23:03:12+00:00",
    "tickers": []
-  },
-  {
-   "id": "74f8acb0bddf",
-   "title": "Hypercharge Announces Issuance of Option Grants",
-   "link": "https://www.globenewswire.com/news-release/2026/07/03/3321997/0/en/Hypercharge-Announces-Issuance-of-Option-Grants.html",
-   "summary": "VANCOUVER, British Columbia, July 03, 2026 (GLOBE NEWSWIRE) -- Hypercharge Networks Corp. (TSXV: HC; OTC: HCNWF; FSE: PB7) (the “Company” or “Hypercharge”), a leading EV charging operator, is announcing it has granted 1,000,000 stock options (“Options”) to David Bibby, CEO and President of the Company. The Options are issued to replace 1,000,000 options previously granted to Mr. Bibby that expired unexercised on June 29, 2026. Each Option is exercisable to purchase one common share in capital of",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-03T23:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2b2642e0c663",
-   "title": "A Tribute to the American Spirit | ELEK Stock News",
-   "link": "https://www.stocktitan.net/news/ELEK/a-tribute-to-the-american-rlg0df4wo54n.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-03T23:00:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8453,6 +8454,7 @@
   "SPHR": "Sphere Entertainment",
   "VOO": "Vanguard S&P 500 ETF",
   "ZETA": "Zeta Global Holdings",
+  "IP": "International Paper",
   "ROK": "Rockwell Automation",
   "BRK-A": "Berkshire Hathaway",
   "EQH": "Equitable Holdings",
