@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-05T16:32:31.660469+00:00",
+ "generated": "2026-07-05T16:37:17.375859+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "262363c03c70",
+   "title": "ClearBridge Select Fund Q1 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4919923-clearbridge-select-fund-q1-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-05T16:31:00+00:00",
+   "tickers": []
+  },
   {
    "id": "e998676c6747",
    "title": "Wikipedia Is Battling for the Soul of the Internet",
@@ -30,6 +43,35 @@
    "tickers": []
   },
   {
+   "id": "175ff2bb0c05",
+   "title": "Forget Micron? This New AI Memory Stock Could Be the Best Buy of the Decade",
+   "link": "https://finance.yahoo.com/technology/ai/articles/forget-micron-ai-memory-stock-161348158.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-05T16:13:48+00:00",
+   "tickers": [
+    "BBY",
+    "MU"
+   ]
+  },
+  {
+   "id": "33f2fedfd144",
+   "title": "The Real Cost of Retiring in Charleston, SC, at 65 on $975,000 Worry Free",
+   "link": "https://finance.yahoo.com/real-estate/articles/real-cost-retiring-charleston-sc-160959942.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-05T16:09:59+00:00",
+   "tickers": []
+  },
+  {
    "id": "b06e0c0ca6e1",
    "title": "Sigenergy lance SigenStor Neo, une évolution pilotée par l’IA de son système résidentiel tout-en-un de gestion de l’énergie",
    "link": "https://www.globenewswire.com/news-release/2026/07/05/3322108/0/fr/Sigenergy-lance-SigenStor-Neo-une-%C3%A9volution-pilot%C3%A9e-par-l-IA-de-son-syst%C3%A8me-r%C3%A9sidentiel-tout-en-un-de-gestion-de-l-%C3%A9nergie.html",
@@ -54,6 +96,21 @@
    "domain": "globenewswire.com",
    "published": "2026-07-05T16:09:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "5b82ef78bf29",
+   "title": "Paramount’s Warner deal has a new $650 million problem",
+   "link": "https://finance.yahoo.com/media-advertising/articles/paramount-warner-deal-650-million-160300665.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-05T16:03:00+00:00",
+   "tickers": [
+    "PARA"
+   ]
   },
   {
    "id": "153d774d0711",
@@ -8369,66 +8426,6 @@
    "tickers": [
     "SOFI"
    ]
-  },
-  {
-   "id": "807f94f73a8a",
-   "title": "Nebius (NBIS) AI Cloud 3.6 Launches With AI-Powered Agent Nebius Echo",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nebius-nbis-ai-cloud-3-125557692.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T12:55:57+00:00",
-   "tickers": [
-    "NBIS"
-   ]
-  },
-  {
-   "id": "2e000450bc7c",
-   "title": "CoStar Group (CSGP): 10 Best NASDAQ Stocks to Invest In For Long Term",
-   "link": "https://finance.yahoo.com/real-estate/articles/costar-group-csgp-10-best-125550444.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T12:55:50+00:00",
-   "tickers": [
-    "CSGP"
-   ]
-  },
-  {
-   "id": "76620e03b9ea",
-   "title": "Why Flywire and Airbnb Could Be Quiet Winners of a Ceasefire",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-flywire-airbnb-could-quiet-125500594.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T12:55:00+00:00",
-   "tickers": [
-    "ABNB"
-   ]
-  },
-  {
-   "id": "f49198fae12d",
-   "title": "Texas Instruments (TXN) Appoints Julie Knecht as New CFO",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-appoints-julie-125458818.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T12:54:58+00:00",
-   "tickers": [
-    "TXN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8507,7 +8504,6 @@
   "MU": "Micron Technology",
   "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
-  "TXN": "Texas Instruments",
   "UBER": "Uber Technologies",
   "BKNG": "Booking Holdings",
   "DY": "Dycom Industries",
@@ -8550,13 +8546,11 @@
   "UNH": "United Health",
   "MSTR": "MicroStrategy",
   "ASML": "ASML Holding",
-  "CSGP": "CoStar Group",
   "EQX": "Equinox Gold",
   "IREN": "IREN Limited",
   "KGC": "Kinross Gold",
   "LRCX": "Lam Research",
   "MELI": "MercadoLibre",
-  "NBIS": "Nebius Group",
   "QS": "QuantumScape",
   "STT": "State Street",
   "VNOM": "Viper Energy",
@@ -8586,6 +8580,7 @@
   "RZLV": "Rezolve AI",
   "MSFT": "Office 365",
   "DE": "John Deere",
+  "PARA": "Paramount+",
   "AMBA": "Ambarella",
   "C": "Citigroup",
   "CME": "CME Group",
@@ -8595,6 +8590,7 @@
   "NWSA": "News Corp",
   "APP": "AppLovin",
   "AVGO": "Broadcom",
+  "BBY": "Best Buy",
   "CCL": "Carnival",
   "EVR": "Evercore",
   "FAST": "Fastenal",
@@ -8628,7 +8624,6 @@
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "LI": "Li Auto",
-  "ABNB": "Airbnb",
   "BIIB": "Biogen",
   "EXC": "Exelon",
   "MTZ": "MasTec",
