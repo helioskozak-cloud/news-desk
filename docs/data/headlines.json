@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-05T20:57:14.535958+00:00",
+ "generated": "2026-07-05T21:02:55.173714+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "92d6ef46063d",
+   "title": "Trump asked FIFA to review Balogun's World Cup game suspension: Reports",
+   "link": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
+   "summary": "Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-05T20:59:18+00:00",
+   "tickers": []
+  },
   {
    "id": "3635225f744e",
    "title": "Bitcoin trades above $62K as U.S. crypto bill gains fresh traction",
@@ -17,30 +30,47 @@
    "tickers": []
   },
   {
-   "id": "92d6ef46063d",
-   "title": "Trump asked FIFA to review Balogun's World Cup game suspension: Reports",
-   "link": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
-   "summary": "Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-05T20:52:41+00:00",
-   "tickers": []
-  },
-  {
    "id": "c3595aa4d6ce",
    "title": "EasyJet’s flight path from start-up to takeover deal",
    "link": "https://www.investing.com/news/stock-market-news/easyjets-flight-path-from-startup-to-takeover-deal-4775493",
    "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
+   "source": "Investing Stock",
+   "category": "stocks",
    "type": "ma",
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-05T20:36:28+00:00",
    "tickers": []
+  },
+  {
+   "id": "ad2be372811d",
+   "title": "The $82 Annual Fee Is Just the Start: TQQQ’s Hidden Cost Structure Explained",
+   "link": "https://finance.yahoo.com/markets/options/articles/82-annual-fee-just-start-203352514.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-05T20:33:52+00:00",
+   "tickers": [
+    "TQQQ"
+   ]
+  },
+  {
+   "id": "888880545a4d",
+   "title": "Top Analyst strongly resets AMD stock price target",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-strongly-resets-amd-203300360.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-05T20:33:00+00:00",
+   "tickers": [
+    "AMD"
+   ]
   },
   {
    "id": "1ec5cff963b0",
@@ -8327,36 +8357,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-04T14:19:44+00:00",
    "tickers": []
-  },
-  {
-   "id": "85d666176ddc",
-   "title": "Jim Cramer Explains Why He Thinks Meta Has “More Room to Run”",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-thinks-141944498.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T14:19:44+00:00",
-   "tickers": [
-    "META"
-   ]
-  },
-  {
-   "id": "74bc3528b4dc",
-   "title": "Jim Cramer Calls Medline the “Best IPO of the Year”",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-medline-best-141935578.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T14:19:35+00:00",
-   "tickers": [
-    "MDLN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8396,6 +8396,7 @@
   "AMD": "Advanced Micro Devices",
   "CHTR": "Charter Communications",
   "CMG": "Chipotle Mexican Grill",
+  "TQQQ": "ProShares UltraPro QQQ",
   "WBD": "Warner Bros. Discovery",
   "PLTR": "Palantir Technologies",
   "PG": "The Procter & Gamble",
@@ -8509,7 +8510,6 @@
   "GAP": "The Gap",
   "GLW": "Corning",
   "IVZ": "Invesco",
-  "MDLN": "Medline",
   "MET": "MetLife",
   "MRNA": "Moderna",
   "NEM": "Newmont",
