@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-05T23:52:45.209718+00:00",
+ "generated": "2026-07-05T23:57:21.991253+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -32,6 +32,21 @@
    "tickers": []
   },
   {
+   "id": "5351c03b0a03",
+   "title": "McDonald's and Burger King rival shuttering 100s of restaurants",
+   "link": "https://finance.yahoo.com/small-business/articles/fast-food-chain-closes-70-150700372.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-05T23:37:36+00:00",
+   "tickers": [
+    "MCD"
+   ]
+  },
+  {
    "id": "56e4a7cf6bcd",
    "title": "Ukrainian capital Kyiv under missile attack, officials say",
    "link": "https://www.investing.com/news/world-news/ukrainian-capital-kyiv-under-missile-attack-officials-say-4775500",
@@ -45,6 +60,21 @@
    "tickers": []
   },
   {
+   "id": "7460cdc5d4f2",
+   "title": "Revolution Medicines Is Up Nearly 140% in 2026. Is the Hot Biotech Stock Still a Buy?",
+   "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-nearly-140-2026-233500896.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-05T23:35:00+00:00",
+   "tickers": [
+    "RVMD"
+   ]
+  },
+  {
    "id": "7bd48103985e",
    "title": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
    "link": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories",
@@ -56,6 +86,21 @@
    "domain": "marketwatch.com",
    "published": "2026-07-05T23:34:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "88893d769828",
+   "title": "Why Robinhood Stock Jumped This Week",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-robinhood-stock-jumped-week-233209394.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-05T23:32:09+00:00",
+   "tickers": [
+    "HOOD"
+   ]
   },
   {
    "id": "3a7269caf699",
@@ -8311,47 +8356,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-07-04T15:35:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "291ebd993c7e",
-   "title": "Volatility in Tech Stocks Just Hit a 23-Year Extreme. Why That May Mean the Bull Market Clock Is Ticking.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/volatility-tech-stocks-just-hit-153002246.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T15:30:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5cc4138c6114",
-   "title": "Quantinuum Stock Has Tremendous Potential, but It Isn’t Cheap",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/quantinuum-stock-tremendous-potential-isn-153002947.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T15:30:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "689231b71e3f",
-   "title": "Coinbase CEO has a radical fix for America's $36 trillion debt",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-radical-fix-americas-153000408.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T15:30:00+00:00",
-   "tickers": [
-    "COIN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8393,6 +8397,7 @@
   "PLTR": "Palantir Technologies",
   "PG": "The Procter & Gamble",
   "PRU": "Prudential Financial",
+  "RVMD": "Revolution Medicines",
   "VOO": "Vanguard S&P 500 ETF",
   "ABT": "Abbott Laboratories",
   "IP": "International Paper",
@@ -8427,7 +8432,6 @@
   "AFRM": "Affirm Holdings",
   "BAC": "Bank of America",
   "BSY": "Bentley Systems",
-  "COIN": "Coinbase Global",
   "CORZ": "Core Scientific",
   "GH": "Guardant Health",
   "GILD": "Gilead Sciences",
@@ -8474,6 +8478,7 @@
   "AZN": "AstraZeneca",
   "BN": "Brookfield",
   "CVS": "CVS Health",
+  "MCD": "McDonald's",
   "RKLB": "Rocket Lab",
   "MSFT": "Office 365",
   "QCOM": "Snapdragon",
