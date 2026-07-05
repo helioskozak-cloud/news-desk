@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-05T19:22:43.010276+00:00",
+ "generated": "2026-07-05T19:27:07.045681+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-05T19:16:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "11b555bc557a",
+   "title": "3 iShares ETFs Crushing the S&P 500 by 30 Points in 2026",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-ishares-etfs-crushing-p-191014206.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-05T19:10:14+00:00",
+   "tickers": [
+    "IAGG"
+   ]
   },
   {
    "id": "ca29f7d1fbbc",
@@ -72,6 +87,22 @@
    "domain": "investing.com",
    "published": "2026-07-05T19:01:22+00:00",
    "tickers": []
+  },
+  {
+   "id": "dd1295cf1684",
+   "title": "SGOV vs. BIL: Where Should You Actually Park Your Cash?",
+   "link": "https://finance.yahoo.com/markets/options/articles/sgov-vs-bil-where-actually-190005006.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-05T19:00:05+00:00",
+   "tickers": [
+    "SGOV",
+    "BIL"
+   ]
   },
   {
    "id": "a80e6ca7c209",
@@ -436,6 +467,21 @@
    "domain": "finance.yahoo.com",
    "published": "2026-07-05T18:02:05+00:00",
    "tickers": []
+  },
+  {
+   "id": "b164cd8258b1",
+   "title": "Billionaire Investor Bets on AI Infrastructure With New Hut 8 Stake",
+   "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-investor-bets-ai-infrastructure-180104557.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-05T18:01:04+00:00",
+   "tickers": [
+    "HUT"
+   ]
   },
   {
    "id": "60dba727e1e1",
@@ -8346,55 +8392,11 @@
    "tickers": [
     "ROK"
    ]
-  },
-  {
-   "id": "0b0ff56e82f5",
-   "title": "Sandisk Stock Was the Biggest Winner in the First Half of 2026. What's Next for the Second Half?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-biggest-winner-first-135000844.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T13:50:00+00:00",
-   "tickers": [
-    "SNDK"
-   ]
-  },
-  {
-   "id": "7e26f713bd8e",
-   "title": "​Honeywell International Inc. (HON): One of The Best Robotics Stocks to Buy Poised for Manufacturing Automation Opportunities",
-   "link": "https://finance.yahoo.com/technology/ai/articles/honeywell-international-inc-hon-one-134808247.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T13:48:08+00:00",
-   "tickers": [
-    "HON"
-   ]
-  },
-  {
-   "id": "14d4d89e99ef",
-   "title": "BofA Boosts Teradyne (TER) Price Target on Industry Growth",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-boosts-teradyne-ter-price-134801547.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T13:48:01+00:00",
-   "tickers": [
-    "TER"
-   ]
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
+  "BIL": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "VCIT": "Vanguard Intermediate-Term Corporate Bond ETF",
   "GPIQ": "Goldman Sachs Nasdaq-100 Premium Income ETF",
@@ -8403,6 +8405,7 @@
   "JEPQ": "JPMorgan Nasdaq Equity Premium Income ETF",
   "SPDW": "SPDR Portfolio Developed World ex-US ETF",
   "VT": "Vanguard Total World Stock Index ETF",
+  "SGOV": "iShares 0-3 Month Treasury Bond ETF",
   "WTW": "Willis Towers Watson Public Limited",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "JEPI": "JPMorgan Equity Premium Income ETF",
@@ -8547,7 +8550,6 @@
   "GOOG": "Alphabet",
   "MCK": "McKesson",
   "NI": "NiSource",
-  "TER": "Teradyne",
   "SNAP": "Snapchat",
   "RTX": "Raytheon",
   "BNTX": "BioNTech",
@@ -8577,6 +8579,7 @@
   "AA": "Alcoa",
   "FDX": "FedEx",
   "GRAL": "GRAIL",
+  "HUT": "Hut 8",
   "INTC": "Intel",
   "LIN": "Linde",
   "XYZ": "Block",
