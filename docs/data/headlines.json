@@ -1,8 +1,36 @@
 {
- "generated": "2026-07-06T02:52:46.692936+00:00",
+ "generated": "2026-07-06T02:57:11.613773+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "56e4a7cf6bcd",
+   "title": "Russian attack on Kyiv kills seven, hits apartments, other buildings",
+   "link": "https://www.investing.com/news/world-news/ukrainian-capital-kyiv-under-missile-attack-officials-say-4775500",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-06T02:54:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "606d4bdde472",
+   "title": "Lockheed Martin leading race for $3.5 billion purchase of naval defense firm Ultra Maritime",
+   "link": "https://www.cnbc.com/2026/07/06/lockheed-martin-leading-race-for-3point5-billion-buy-of-ultra-maritime-.html",
+   "summary": "Ultra is owned by private equity firm Advent International, and specialises in anti-submarine technology.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-06T02:51:03+00:00",
+   "tickers": [
+    "LMT"
+   ]
+  },
   {
    "id": "92d6ef46063d",
    "title": "Trump asked FIFA to review Balogun's World Cup game suspension: Reports",
@@ -14,19 +42,6 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-07-06T02:37:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "56e4a7cf6bcd",
-   "title": "Russian attack on Kyiv kills three, hits apartments, other buildings",
-   "link": "https://www.investing.com/news/world-news/ukrainian-capital-kyiv-under-missile-attack-officials-say-4775500",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-06T02:31:09+00:00",
    "tickers": []
   },
   {
@@ -8320,19 +8335,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "fc34ffaa9528",
-   "title": "Cardano Climbs 12% In Rally",
-   "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-12-in-rally-4775372",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-04T17:08:57+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8413,6 +8415,7 @@
   "GH": "Guardant Health",
   "GILD": "Gilead Sciences",
   "GPN": "Global Payments",
+  "LMT": "Lockheed Martin",
   "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
   "VICI": "VICI Properties",
