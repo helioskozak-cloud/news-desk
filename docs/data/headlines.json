@@ -1,8 +1,34 @@
 {
- "generated": "2026-07-06T01:52:31.292707+00:00",
+ "generated": "2026-07-06T01:57:22.980789+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f2aa50994bd0",
+   "title": "Gold prices rise as cooling rate hike bets hit dollar",
+   "link": "https://www.investing.com/news/commodities-news/gold-prices-rise-as-cooling-rate-hike-bets-hit-dollar-4775514",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-06T01:52:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "118918ed8e84",
+   "title": "Vaalco Energy: Drilling Campaign Overlap",
+   "link": "https://seekingalpha.com/article/4919946-vaalco-energy-drilling-campaign-overlap?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-06T01:52:01+00:00",
+   "tickers": []
+  },
   {
    "id": "8c86e0737509",
    "title": "Der biomimetische EC-Lüfter von LONGWELL erreicht einen statischen Wirkungsgrad von 73-82 % bei einer Geräuschreduzierung von 4-6 dB(A)",
@@ -15,6 +41,22 @@
    "domain": "prnewswire.com",
    "published": "2026-07-06T01:51:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "9b65dc2981b8",
+   "title": "Citi lifts TSMC PT, sees chipmaker raising 2026 growth outlook on AI demand",
+   "link": "https://www.investing.com/news/technology-news/citi-lifts-tsmc-pt-sees-chipmaker-raising-2026-growth-outlook-on-ai-demand-4775513",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-06T01:49:43+00:00",
+   "tickers": [
+    "C",
+    "TSM"
+   ]
   },
   {
    "id": "9f75064d1b8c",
@@ -8297,49 +8339,6 @@
    "domain": "cnbc.com",
    "published": "2026-07-04T17:03:15+00:00",
    "tickers": []
-  },
-  {
-   "id": "086d4c9aec67",
-   "title": "SK Hynix reportedly eyeing 0.5% fee rate in Nasdaq debut",
-   "link": "https://seekingalpha.com/news/4611506-sk-hynix-eyeing-05-fee-rate-in-nasdaq-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-04T17:01:56+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "b4142b23ce4f",
-   "title": "Bill Ackman Drives a Tesla: Here's Why He Won't Buy the Stock",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-drives-tesla-heres-165700124.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T16:57:00+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "d44e0d6db0ab",
-   "title": "Thousands protest in Germany as far-right AfD sets sights on power",
-   "link": "https://www.investing.com/news/world-news/thousands-protest-in-germany-against-farright-afd-4775345",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-04T16:54:27+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8353,6 +8352,7 @@
   "WTW": "Willis Towers Watson Public Limited",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "JEPI": "JPMorgan Equity Premium Income ETF",
+  "TSM": "Taiwan Semiconductor Manufacturing",
   "DGRO": "iShares Core Dividend Growth ETF",
   "QSR": "Restaurant Brands International",
   "HDV": "iShares Core High Dividend ETF",
