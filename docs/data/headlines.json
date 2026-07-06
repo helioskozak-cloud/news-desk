@@ -1,8 +1,23 @@
 {
- "generated": "2026-07-06T00:57:28.087016+00:00",
+ "generated": "2026-07-06T01:02:46.024676+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c192be592d3f",
+   "title": "InnoCare Announces First Patient Dosed in Clinical Trial of Novel CDH17 targeted ADC ICP-B208 in China",
+   "link": "https://www.globenewswire.com/news-release/2026/07/06/3322119/0/en/InnoCare-Announces-First-Patient-Dosed-in-Clinical-Trial-of-Novel-CDH17-targeted-ADC-ICP-B208-in-China.html",
+   "summary": "ICP-B208 is InnoCare's second ADC from its in-house platform to enter clinical development. There are no approved CDH17 targeted ADCs globally.",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-07-06T01:00:00+00:00",
+   "tickers": [
+    "ADC"
+   ]
+  },
   {
    "id": "7bd48103985e",
    "title": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
@@ -13,7 +28,20 @@
    "type": "markets",
    "sentiment": "positive",
    "domain": "marketwatch.com",
-   "published": "2026-07-06T00:46:00+00:00",
+   "published": "2026-07-06T00:56:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1ae561a4242a",
+   "title": "Wall St futures rise as investors reassess AI trade, await Fed minutes",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-as-investors-reassess-ai-trade-await-fed-minutes-4775507",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-06T00:54:53+00:00",
    "tickers": []
   },
   {
@@ -8327,37 +8355,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-04T16:00:43+00:00",
    "tickers": []
-  },
-  {
-   "id": "308453d3b5c9",
-   "title": "AMD Beats NVDA in 1H26 Returns. Here’s What's Next for 2H26.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/amd-beats-nvda-1h26-returns-160002385.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T16:00:02+00:00",
-   "tickers": [
-    "AMD",
-    "NVDA"
-   ]
-  },
-  {
-   "id": "8cc67eb9282b",
-   "title": "AeroVironment Posted Solid Earnings and the Stock Reacted Sharply Higher. If You Can Tolerate Risk, Buy Here.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-posted-solid-earnings-stock-160002078.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-04T16:00:02+00:00",
-   "tickers": [
-    "AVAV"
-   ]
   }
  ],
  "ticker_names": {
@@ -8447,7 +8444,6 @@
   "GM": "General Motors",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
-  "AVAV": "AeroVironment",
   "ELF": "e.l.f. Beauty",
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
@@ -8456,6 +8452,7 @@
   "TLRY": "Tilray Brands",
   "UNH": "United Health",
   "MSTR": "MicroStrategy",
+  "ADC": "Agree Realty",
   "ASML": "ASML Holding",
   "EQX": "Equinox Gold",
   "IREN": "IREN Limited",
