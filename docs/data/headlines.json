@@ -1,8 +1,49 @@
 {
- "generated": "2026-07-07T05:12:30.184913+00:00",
+ "generated": "2026-07-07T05:17:25.793216+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8e02d04fd725",
+   "title": "Samsung shares tumble 10% despite record quarterly profit from AI boom",
+   "link": "https://www.ft.com/content/db4f9501-046c-4683-b59c-03b5a5ebfafb",
+   "summary": "Investor concerns about massive investments outweigh April-to-June earnings fuelled by high memory chip prices",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-07-07T05:15:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6635b22dca6d",
+   "title": "Coca-Cola: Steady Growth Wins The Race (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4920196-coca-cola-stock-steady-growth-wins-race?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-07T05:10:51+00:00",
+   "tickers": [
+    "KO"
+   ]
+  },
+  {
+   "id": "5ac9f386a83c",
+   "title": "Solstice CEO says Wall Street misread ESI acquisition after 15% stock drop",
+   "link": "https://seekingalpha.com/news/4611825-solstice-ceo-says-wall-street-misread-esi-acquisition-after-15-stock-drop?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-07T05:08:11+00:00",
+   "tickers": []
+  },
   {
    "id": "dd37b8637d2b",
    "title": "Why is Cochin Shipyard stock sliding today?",
@@ -1485,19 +1526,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-07T01:45:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8e02d04fd725",
-   "title": "Samsung shares fall despite third straight quarter of record profit",
-   "link": "https://www.ft.com/content/db4f9501-046c-4683-b59c-03b5a5ebfafb",
-   "summary": "High memory chip prices fuel April-to-June earnings but investors concerned about returns on massive AI investment",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-07-07T01:44:31+00:00",
    "tickers": []
   },
   {
@@ -8484,34 +8512,6 @@
     "NWSA",
     "BP"
    ]
-  },
-  {
-   "id": "0c8704facb70",
-   "title": "Element Solutions Inc (ESI) M&A Call Transcript",
-   "link": "https://seekingalpha.com/article/4920106-element-solutions-inc-esi-m-and-a-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-06T20:02:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3fc0918f1049",
-   "title": "CrowdStrike extends rally to seven sessions after stock split",
-   "link": "https://seekingalpha.com/news/4611773-crowdstrike-extends-rally-to-seven-sessions-after-stock-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-06T20:02:24+00:00",
-   "tickers": [
-    "CRWD"
-   ]
   }
  ],
  "ticker_names": {
@@ -8542,7 +8542,6 @@
   "LHX": "L3Harris Technologies",
   "NTLA": "Intellia Therapeutics",
   "NVTS": "Navitas Semiconductor",
-  "CRWD": "CrowdStrike Holdings",
   "MANH": "Manhattan Associates",
   "PTEN": "Patterson-UTI Energy",
   "TMHC": "Taylor Morrison Home",
@@ -8576,6 +8575,7 @@
   "CNX": "CNX Resources",
   "DX": "Dynex Capital",
   "HSBC": "HSBC Holdings",
+  "KO": "The Coca-Cola",
   "RITM": "Rithm Capital",
   "MSTR": "MicroStrategy",
   "EQX": "Equinox Gold",
