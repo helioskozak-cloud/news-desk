@@ -1,8 +1,64 @@
 {
- "generated": "2026-07-07T05:47:24.167580+00:00",
+ "generated": "2026-07-07T05:52:44.518002+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c8a947125117",
+   "title": "Stock futures are mixed after Dow tops 53,000 for first time: Live updates",
+   "link": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html",
+   "summary": "Monday night's action follows a winning session on Wall Street.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-07-07T05:50:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1464330c9d46",
+   "title": "IPG Photonics: Lowered Earnings Expectations And Higher Valuation (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4920200-ipg-photonics-lowered-earnings-expectations-and-higher-valuation-rating-downgrade?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-07T05:45:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "de13e9d1d2c7",
+   "title": "Celsius: The One-Brand Era Is Over, But Wall Street Hasn't Woken Up",
+   "link": "https://seekingalpha.com/article/4920199-celsius-stock-one-brand-era-over-but-wall-street-hasnt-woken-up?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-07T05:45:14+00:00",
+   "tickers": [
+    "CELH"
+   ]
+  },
+  {
+   "id": "ab87623a39b2",
+   "title": "Morgan Stanley buys into SpaceX’s AI future with new Overweight rating",
+   "link": "https://seekingalpha.com/news/4611831-morgan-stanley-buys-into-spacexs-ai-future-with-new-overweight-rating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-07T05:44:31+00:00",
+   "tickers": [
+    "MS"
+   ]
+  },
   {
    "id": "c30ccbad23f9",
    "title": "Asian markets bleed as tech selloff overwhelms overnight Wall Street gains",
@@ -684,19 +740,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-07-07T04:30:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c8a947125117",
-   "title": "Stock futures are mixed after Dow tops 53,000 for first time: Live updates",
-   "link": "https://www.cnbc.com/2026/07/06/stock-market-today-live-updates.html",
-   "summary": "Monday night's action follows a winning session on Wall Street.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-07-07T04:28:26+00:00",
    "tickers": []
   },
   {
@@ -8447,52 +8490,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "9555b3e32c16",
-   "title": "Valley National Bancorp to Announce Second Quarter 2026 Earnings | VLY Stock News",
-   "link": "https://www.stocktitan.net/news/VLY/valley-national-bancorp-to-announce-second-quarter-2026-vy1lyqpt7aas.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-06T20:05:00+00:00",
-   "tickers": [
-    "VLY",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "78160d3ac043",
-   "title": "Longeveron® Appoints Marie Washburn as Chief Financial Officer | LGVN Stock News",
-   "link": "https://www.stocktitan.net/news/LGVN/longeveron-appoints-marie-washburn-as-chief-financial-35uut2ldqdhc.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-06T20:05:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "e038306e27f2",
-   "title": "PennantPark Investment Corporation Schedules Earnings Release of Third Fiscal Quarter 2026 Results | PNNT Stock News",
-   "link": "https://www.stocktitan.net/news/PNNT/pennant-park-investment-corporation-schedules-earnings-release-of-46k3kttgxshq.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-06T20:05:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8543,6 +8540,7 @@
   "MU": "Micron Technology",
   "RIVN": "Rivian Automotive",
   "BMO": "Bank of Montreal",
+  "CELH": "Celsius Holdings",
   "UPST": "Upstart Holdings",
   "CALM": "Cal-Maine Foods",
   "ELV": "Elevance Health",
