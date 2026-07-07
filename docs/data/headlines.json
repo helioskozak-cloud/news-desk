@@ -1,8 +1,36 @@
 {
- "generated": "2026-07-07T06:12:48.998529+00:00",
+ "generated": "2026-07-07T06:17:28.459634+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "13de49dc1ecf",
+   "title": "Skanska signs additional contract for data center in Virginia, USA, for USD 94M about SEK 870M",
+   "link": "https://www.prnewswire.com/news-releases/skanska-signs-additional-contract-for-data-center-in-virginia-usa-for-usd-94m-about-sek-870m-302819103.html",
+   "summary": "STOCKHOLM, July 7, 2026 /PRNewswire/ -- Skanska has signed a contract with an existing client to build a data center in Virginia, USA. The contract is worth USD 94M, about SEK 870M, which will be included in the US order bookings for the second quarter of 2026. Work is for a new building...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-07T06:14:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b02feb8916a1",
+   "title": "Ares Management Is Oversold, Here's Why",
+   "link": "https://seekingalpha.com/article/4920202-ares-management-is-oversold-heres-why?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-07T06:13:24+00:00",
+   "tickers": [
+    "ARES"
+   ]
+  },
   {
    "id": "45d34601f4da",
    "title": "CCTV+: Hello, Beijing! Wo Tradition auf Moderne trifft",
@@ -856,13 +884,13 @@
   },
   {
    "id": "6635b22dca6d",
-   "title": "Coca-Cola: Steady Growth Wins The Race",
+   "title": "Coca-Cola: Steady Growth Wins The Race (Rating Downgrade)",
    "link": "https://seekingalpha.com/article/4920196-coca-cola-stock-steady-growth-wins-race?source=feed_all_articles",
    "summary": "",
    "source": "Seeking Alpha",
    "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
+   "type": "downgrade",
+   "sentiment": "negative",
    "domain": "seekingalpha.com",
    "published": "2026-07-07T05:10:51+00:00",
    "tickers": [
@@ -8424,38 +8452,6 @@
     "IWM",
     "NDAQ"
    ]
-  },
-  {
-   "id": "4234184e87d5",
-   "title": "Canaan Inc. Completes Transfer to Nasdaq Capital Market | CAN Stock News",
-   "link": "https://www.stocktitan.net/news/CAN/canaan-inc-completes-transfer-to-nasdaq-capital-24urhhp90l97.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-06T20:07:00+00:00",
-   "tickers": [
-    "NDAQ",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "1cd0b1e22674",
-   "title": "Context Therapeutics Added to Russell 2000® and Russell 3000® Indexes | CNTX Stock News",
-   "link": "https://www.stocktitan.net/news/CNTX/context-therapeutics-added-to-russell-2000-and-russell-3000-pr5u58hmraw4.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-06T20:07:00+00:00",
-   "tickers": [
-    "IWM",
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8501,6 +8497,7 @@
   "CELH": "Celsius Holdings",
   "TTE": "TotalEnergies SE",
   "UPST": "Upstart Holdings",
+  "ARES": "Ares Management",
   "CALM": "Cal-Maine Foods",
   "ELV": "Elevance Health",
   "LMT": "Lockheed Martin",
