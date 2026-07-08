@@ -1,8 +1,36 @@
 {
- "generated": "2026-07-08T02:17:28.757595+00:00",
+ "generated": "2026-07-08T02:22:40.995610+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1f4541fe36f6",
+   "title": "US launches new wave of Iran strikes after attacks on tankers",
+   "link": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c",
+   "summary": "Trump administration also revokes licence allowing Islamic republic’s oil sales, sending crude prices higher",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-07-08T02:20:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "036d4cc9532c",
+   "title": "Compass Pathways Phase 3 COMP006 Data Review",
+   "link": "https://seekingalpha.com/article/4920492-compass-pathways-phase-3-comp006-data-review?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-08T02:13:30+00:00",
+   "tickers": [
+    "COMP"
+   ]
+  },
   {
    "id": "bc9fa26618d2",
    "title": "Form 4 CapsoVision Inc For: 7 July",
@@ -1260,19 +1288,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-08T00:09:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1f4541fe36f6",
-   "title": "US launches new wave of Iran strikes after attacks on tankers",
-   "link": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c",
-   "summary": "Trump administration also revokes licence allowing Islamic republic’s oil sales, sending crude prices higher",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "ft.com",
-   "published": "2026-07-08T00:08:05+00:00",
    "tickers": []
   },
   {
@@ -8436,19 +8451,6 @@
    "domain": "globenewswire.com",
    "published": "2026-07-07T20:05:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "44d11f8a2ac4",
-   "title": "Nyxoah Annonce ses Résultats Préliminaires pour le Deuxième Trimestre 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/07/07/3323627/0/fr/Nyxoah-Annonce-ses-R%C3%A9sultats-Pr%C3%A9liminaires-pour-le-Deuxi%C3%A8me-Trimestre-2026.html",
-   "summary": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-07T20:05:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8555,6 +8557,7 @@
   "GME": "GameStop",
   "GOOG": "Alphabet",
   "BLSH": "Bullish",
+  "COMP": "Compass",
   "EFX": "Equifax",
   "FTV": "Fortive",
   "GDDY": "GoDaddy",
