@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-09T01:37:28.253597+00:00",
+ "generated": "2026-07-09T01:42:30.069433+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "238b295becea",
+   "title": "AirPods maker Luxshare slides over 5% in Hong Kong debut",
+   "link": "https://www.cnbc.com/2026/07/09/luxshare-ipo-hong-kong-debut-apple-airpod-.html",
+   "summary": "The company, which is already listed in Shenzhen, had priced shares in the IPO at 63.28 Hong Kong dollars apiece, raising HK$24.27 billion ($3.09 billion).",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-07-09T01:38:29+00:00",
+   "tickers": []
+  },
   {
    "id": "c31dda1a1796",
    "title": "Platner quits Maine Senate race; Democrats set to pick new nominee",
@@ -67,6 +80,21 @@
    "domain": "globenewswire.com",
    "published": "2026-07-09T01:20:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "a5dd85d0cad0",
+   "title": "Indonesia’s Pertamina, Boeing sign MoU on sustainable aviation fuel development",
+   "link": "https://www.investing.com/news/stock-market-news/indonesias-pertamina-boeing-sign-mou-on-sustainable-aviation-fuel-development-4782918",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-09T01:18:48+00:00",
+   "tickers": [
+    "BA"
+   ]
   },
   {
    "id": "e7f13e33bd3b",
@@ -1084,7 +1112,7 @@
    "id": "31e497cf2de7",
    "title": "US launches second day of strikes against Iran",
    "link": "https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439",
-   "summary": "Trump claims Iran has ‘called’ to negotiate but the president casts doubt on the prospects of a deal",
+   "summary": "Donald Trump claims Iran ‘called’ to negotiate but casts doubt on the prospects of a deal",
    "source": "FT Markets",
    "category": "markets",
    "type": "markets",
@@ -8478,38 +8506,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "38a4612fb39e",
-   "title": "AGNC Investment Corp. Declares Monthly Common Stock Dividend of $0.12 per Common Share for July 2026 | AGNC Stock News",
-   "link": "https://www.stocktitan.net/news/AGNC/agnc-investment-corp-declares-monthly-common-stock-dividend-of-0-12-wiehrqt8nigm.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "stocktitan.net",
-   "published": "2026-07-08T20:01:00+00:00",
-   "tickers": [
-    "AGNC",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "ef40426d4828",
-   "title": "Expedia Group to Webcast Second Quarter 2026 Results on August 5, 2026 | EXPE Stock News",
-   "link": "https://www.stocktitan.net/news/EXPE/expedia-group-to-webcast-second-quarter-2026-results-on-august-5-rzrrs2tenihp.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-08T20:01:00+00:00",
-   "tickers": [
-    "EXPE",
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8572,7 +8568,6 @@
   "VG": "Venture Global",
   "NET": "Cloudflare Inc",
   "AVAV": "AeroVironment",
-  "EXPE": "Expedia Group",
   "POST": "Post Holdings",
   "VERO": "Venus Concept",
   "MSTR": "MicroStrategy",
