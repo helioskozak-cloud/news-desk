@@ -1,8 +1,36 @@
 {
- "generated": "2026-07-10T11:12:39.430573+00:00",
+ "generated": "2026-07-10T11:17:09.504853+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e2b7aa9c8288",
+   "title": "Delta beats Q2 earnings estimates",
+   "link": "https://www.cnbc.com/video/2026/07/10/delta-q2-earnings.html",
+   "summary": "CNBC's Phil LeBeau reports on Delta's second-quarter earnings.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-07-10T11:13:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a4a53856be43",
+   "title": "Delta reports record revenue and a profit beat, even as fuel costs surge",
+   "link": "https://www.marketwatch.com/story/delta-reports-record-revenue-and-a-profit-beat-even-as-fuel-costs-surge-b1e33336?mod=mw_rss_topstories",
+   "summary": "Delta Air Lines’ stock was set to gain despite the company saying that profit fell — but beat expectations — even after the air carrier absorbed the highest quarterly fuel expense in its history.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "marketwatch.com",
+   "published": "2026-07-10T11:12:00+00:00",
+   "tickers": [
+    "DAL"
+   ]
+  },
   {
    "id": "1a0913692d51",
    "title": "Save the Date: 7-Eleven, Inc. Celebrates 60 Years of Slurpee® Tomorrow with Free Drinks and a New Flavor on the Coolest Slurpee Day Yet",
@@ -39,6 +67,19 @@
    "type": "press",
    "sentiment": "neutral",
    "domain": "prnewswire.com",
+   "published": "2026-07-10T11:10:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0fb567c441bf",
+   "title": "AI Capex Risk Cuts Both Ways In The American Economy",
+   "link": "https://seekingalpha.com/article/4921141-ai-capex-risk-cuts-both-ways-in-american-economy?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
    "published": "2026-07-10T11:10:00+00:00",
    "tickers": []
   },
@@ -84,6 +125,22 @@
    "tickers": []
   },
   {
+   "id": "af906382d5eb",
+   "title": "UK to regulate cloud service providers Microsoft, Google and others to protect financial stability",
+   "link": "https://www.investing.com/news/stock-market-news/uk-to-regulate-cloud-service-providers-microsoft-google-and-others-to-protect-financial-stability-4785783",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-10T11:06:49+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOGL"
+   ]
+  },
+  {
    "id": "e882515b0540",
    "title": "China temporarily bans helium exports as US-Iran tensions flare again",
    "link": "https://www.investing.com/news/commodities-news/china-temporarily-bans-helium-exports-as-usiran-tensions-flare-again-4785887",
@@ -101,9 +158,9 @@
    "title": "South Korean billionaire’s risky bet pays off, as SK Hynix debuts in New York",
    "link": "https://www.investing.com/news/stock-market-news/south-korean-billionaires-risky-bet-pays-off-as-sk-hynix-debuts-in-new-york-4785886",
    "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-10T11:06:35+00:00",
@@ -494,8 +551,8 @@
    "title": "Circle wins final regulatory approval to establish US trust bank, shares rise",
    "link": "https://www.investing.com/news/stock-market-news/circle-wins-final-regulatory-approval-to-establish-us-trust-bank-shares-rise-4785855",
    "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
+   "source": "Investing Stock",
+   "category": "stocks",
    "type": "fda",
    "sentiment": "positive",
    "domain": "investing.com",
@@ -1135,19 +1192,6 @@
    "tickers": []
   },
   {
-   "id": "a4a53856be43",
-   "title": "Delta reports record revenue and a profit beat, even as fuel costs surge",
-   "link": "https://www.marketwatch.com/story/delta-reports-record-revenue-and-a-profit-beat-even-as-fuel-costs-surge-b1e33336?mod=mw_rss_topstories",
-   "summary": "Delta Air’s stock gains after profit falls but beats expectations, even after the air carrier absorbed the highest quarterly fuel expense in its history.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-07-10T10:56:00+00:00",
-   "tickers": []
-  },
-  {
    "id": "aca4260e56f9",
    "title": "Hanshow Energy destaca sus soluciones energéticas integradas en Intersolar Europe 2026",
    "link": "https://www.prnewswire.com/news-releases/hanshow-energy-destaca-sus-soluciones-energeticas-integradas-en-intersolar-europe-2026-302822705.html",
@@ -1264,19 +1308,6 @@
    "sentiment": "positive",
    "domain": "cnbc.com",
    "published": "2026-07-10T10:45:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e2b7aa9c8288",
-   "title": "Delta beats Q2 earnings estimates",
-   "link": "https://www.cnbc.com/video/2026/07/10/delta-q2-earnings.html",
-   "summary": "CNBC's Phil LeBeau reports on Delta's second-quarter earnings.",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-07-10T10:44:25+00:00",
    "tickers": []
   },
   {
@@ -1698,7 +1729,7 @@
    "title": "Ares Management Corporation Updates the Time of Its Earnings Conference Call for the Second Quarter Ending June 30, 2026",
    "link": "https://www.prnewswire.com/news-releases/ares-management-corporation-updates-the-time-of-its-earnings-conference-call-for-the-second-quarter-ending-june-30-2026-302822342.html",
    "summary": "NEW YORK, July 10, 2026 /PRNewswire/ -- Ares Management Corporation announced today that it has updated the time it will hold its earnings webcast/conference call for the second quarter ending June 30, 2026 to 9:00am ET on Friday, July 31, 2026. Ares Management Corporation will report its...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1947,22 +1978,6 @@
    "tickers": [
     "WDC",
     "WFC"
-   ]
-  },
-  {
-   "id": "af906382d5eb",
-   "title": "UK to regulate cloud service providers Microsoft, Google and others to protect financial stability",
-   "link": "https://www.investing.com/news/stock-market-news/uk-to-regulate-cloud-service-providers-microsoft-google-and-others-to-protect-financial-stability-4785783",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T10:25:34+00:00",
-   "tickers": [
-    "MSFT",
-    "GOOGL"
    ]
   },
   {
@@ -8211,19 +8226,6 @@
    "source": "GlobeNewswire",
    "category": "press",
    "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-10T03:50:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cc959fb07b99",
-   "title": "Liven AS – Acquisition of development properties in Tallinn city centre",
-   "link": "https://www.globenewswire.com/news-release/2026/07/10/3325299/0/en/Liven-AS-Acquisition-of-development-properties-in-Tallinn-city-centre.html",
-   "summary": "Liven AS group’s (Liven) wholly owned subsidiary Liven Kodu 25 OÜ has entered into a notarised agreement to acquire development properties located at Pärnu maantee 35, 37 and 41 in Tallinn city centre.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "ma",
    "sentiment": "neutral",
    "domain": "globenewswire.com",
    "published": "2026-07-10T03:50:00+00:00",
