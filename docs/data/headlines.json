@@ -1,8 +1,23 @@
 {
- "generated": "2026-07-10T05:05:52.500698+00:00",
+ "generated": "2026-07-10T05:12:35.627584+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e4543d92c17e",
+   "title": "OpenAI, Google sold AI model access to China-linked blacklisted group - report",
+   "link": "https://seekingalpha.com/news/4612802-openai-google-sold-ai-model-access-to-china-linked-blacklisted-group---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-10T05:08:18+00:00",
+   "tickers": [
+    "GOOGL"
+   ]
+  },
   {
    "id": "ad0ad2151ffa",
    "title": "The 26th CIFIT Promotes September Fair Through Hong Kong and Macao Roadshows",
@@ -27,6 +42,19 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-07-10T05:00:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6bfc9ebd0dc9",
+   "title": "SK Hynix raises $26.5 billion in US offering after pricing ADRs at $149",
+   "link": "https://www.investing.com/news/stock-market-news/sk-hynix-us-listing-more-than-seven-times-oversubscribed-source-says-4782931",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-10T05:00:26+00:00",
    "tickers": []
   },
   {
@@ -181,9 +209,9 @@
    "title": "Why is Tata Consultancy Services stock rising today?",
    "link": "https://www.investing.com/news/stock-market-news/why-is-tata-consultancy-services-stock-rising-today-93CH-4785298",
    "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-10T04:58:54+00:00",
@@ -220,9 +248,9 @@
    "title": "Morgan Stanley Names a New European Retail Top Pick",
    "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-names-a-new-european-retail-top-pick-93CH-4785297",
    "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "positive",
    "domain": "investing.com",
    "published": "2026-07-10T04:51:22+00:00",
@@ -247,16 +275,18 @@
   },
   {
    "id": "b8a35cd6154b",
-   "title": "SK Hynix edges higher after pricing $26.5 billion U.S. ADR offering",
+   "title": "SK Hynix rises after Nasdaq ADR pricing as investors lock in gains",
    "link": "https://www.investing.com/news/stock-market-news/sk-hynix-edges-higher-after-pricing-265-billion-us-adr-offering-4785267",
    "summary": "",
    "source": "Investing Stock",
    "category": "stocks",
-   "type": "offering",
-   "sentiment": "neutral",
+   "type": "stocks",
+   "sentiment": "positive",
    "domain": "investing.com",
    "published": "2026-07-10T04:41:09+00:00",
-   "tickers": []
+   "tickers": [
+    "NDAQ"
+   ]
   },
   {
    "id": "b148d425a8bc",
@@ -1458,19 +1488,6 @@
    "sentiment": "positive",
    "domain": "investing.com",
    "published": "2026-07-10T01:44:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6bfc9ebd0dc9",
-   "title": "SK Hynix raises $26.5 billion in US offering after pricing ADRs at $149",
-   "link": "https://www.investing.com/news/stock-market-news/sk-hynix-us-listing-more-than-seven-times-oversubscribed-source-says-4782931",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-10T01:43:29+00:00",
    "tickers": []
   },
   {
@@ -8371,21 +8388,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-09T20:14:45+00:00",
    "tickers": []
-  },
-  {
-   "id": "8dda1383ba81",
-   "title": "Barnes &amp; Noble Education GAAP EPS of $0.49 beats by $0.01, revenue of $1.72B in-line",
-   "link": "https://seekingalpha.com/news/4612761-barnes-and-noble-education-gaap-eps-of-0_49-beats-by-0_01-revenue-of-1_72b-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-09T20:13:57+00:00",
-   "tickers": [
-    "NE"
-   ]
   }
  ],
  "ticker_names": {
@@ -8505,7 +8507,6 @@
   "FDX": "FedEx",
   "FRMI": "Fermi",
   "KKR": "KKR &",
-  "NE": "Noble",
   "OKE": "ONEOK",
   "TOST": "Toast",
   "BALL": "Ball"
