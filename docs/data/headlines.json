@@ -1,8 +1,39 @@
 {
- "generated": "2026-07-11T04:02:45.909707+00:00",
+ "generated": "2026-07-11T04:07:21.650410+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "62750e65c35d",
+   "title": "Apple suing OpenAI over alleged trade secret theft",
+   "link": "https://www.cnbc.com/video/2026/07/10/apple-suing-openai-over-alleged-trade-secret-theft.html",
+   "summary": "CNBC’s MacKenzie Sigalos reports on Apple’s lawsuit accusing OpenAI of stealing trade secrets to develop its consumer hardware.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-11T04:04:06+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "b517a1516359",
+   "title": "Oregon drops motion to delay Paramount-Warner Bros deal",
+   "link": "https://www.investing.com/news/stock-market-news/oregon-drops-motion-to-delay-paramountwarner-bros-deal-4787212",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-07-11T04:00:34+00:00",
+   "tickers": [
+    "WBD",
+    "PARA"
+   ]
+  },
   {
    "id": "5e204519cbe4",
    "title": "Politics And The Markets 07/11/26",
@@ -30,6 +61,19 @@
    "tickers": []
   },
   {
+   "id": "701e06dc02ec",
+   "title": "Trump says missiles aimed at Iran if Tehran targets US president",
+   "link": "https://www.investing.com/news/world-news/trump-says-missiles-aimed-at-iran-if-tehran-targets-us-president-4787210",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-11T03:48:30+00:00",
+   "tickers": []
+  },
+  {
    "id": "a07b847f96b6",
    "title": "North Korea condemns US, allies after NATO summit, vows to safeguard sovereignty",
    "link": "https://www.investing.com/news/world-news/north-korea-condemns-us-allies-after-nato-summit-vows-to-safeguard-sovereignty-4787211",
@@ -40,19 +84,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-11T03:36:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "701e06dc02ec",
-   "title": "Trump says missiles aimed at Iran if Tehran targets US president",
-   "link": "https://www.investing.com/news/world-news/trump-says-missiles-aimed-at-iran-if-tehran-targets-us-president-4787210",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-11T03:36:30+00:00",
    "tickers": []
   },
   {
@@ -80,21 +111,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-11T03:30:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "62750e65c35d",
-   "title": "Apple suing OpenAI over alleged trade secret theft",
-   "link": "https://www.cnbc.com/video/2026/07/10/apple-suing-openai-over-alleged-trade-secret-theft.html",
-   "summary": "CNBC’s MacKenzie Sigalos reports on Apple’s lawsuit accusing OpenAI of stealing trade secrets to develop its consumer hardware.",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-11T03:24:56+00:00",
-   "tickers": [
-    "AAPL"
-   ]
   },
   {
    "id": "d29cabd67781",
@@ -8410,19 +8426,6 @@
    "domain": "prnewswire.com",
    "published": "2026-07-10T18:01:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "72a711eb8045",
-   "title": "OPEC meeting and Federal Budget Balance among economic data due Monday",
-   "link": "https://www.investing.com/news/stock-market-news/opec-meeting-and-federal-budget-balance-among-economic-data-due-monday-93CH-4786650",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T18:00:25+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8441,6 +8444,7 @@
   "ADM": "Archer-Daniels-Midland",
   "COKE": "Coca-Cola Consolidated",
   "MDLZ": "Mondelez International",
+  "WBD": "Warner Bros. Discovery",
   "AMH": "American Homes 4 Rent",
   "CRWD": "CrowdStrike Holdings",
   "EW": "Edwards Lifesciences",
@@ -8510,6 +8514,7 @@
   "TECH": "Bio-Techne",
   "MSFT": "Office 365",
   "DE": "John Deere",
+  "PARA": "Paramount+",
   "AL": "Air Lease",
   "BC": "Brunswick",
   "BLK": "BlackRock",
