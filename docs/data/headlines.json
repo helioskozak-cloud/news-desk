@@ -1,8 +1,24 @@
 {
- "generated": "2026-07-11T09:47:26.086462+00:00",
+ "generated": "2026-07-11T09:52:40.032354+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b75de53b8d67",
+   "title": "Pfizer: The Post-Pandemic Turnaround Is Already Underway",
+   "link": "https://seekingalpha.com/article/4921345-pfizer-the-post-pandemic-turnaround-is-already-underway?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-11T09:45:18+00:00",
+   "tickers": [
+    "PFE",
+    "POST"
+   ]
+  },
   {
    "id": "6516f796d175",
    "title": "Haverty Furniture Company: A Focus On Affluent Customers Could Pay Off Big",
@@ -27,6 +43,19 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-07-11T09:36:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a1c574f508e6",
+   "title": "Bitcoin stays above $64,000 as U.S. crypto policy advances, adoption grows",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stays-above-64000-as-us-crypto-policy-advances-adoption-grows-4787225",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-11T09:31:36+00:00",
    "tickers": []
   },
   {
@@ -8353,32 +8382,6 @@
    "tickers": [
     "ZTS"
    ]
-  },
-  {
-   "id": "a82f3bb061b2",
-   "title": "‘Trump accounts’ are great — if you’re already rich",
-   "link": "https://www.marketwatch.com/story/trump-accounts-are-great-if-youre-already-rich-0bfe5227?mod=mw_rss_topstories",
-   "summary": "They’re a poor deal for most other people.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-07-10T18:49:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5de37072804f",
-   "title": "Altera returns to growth as AI, robotics fuel demand, CEO says",
-   "link": "https://www.investing.com/news/stock-market-news/altera-returns-to-growth-as-ai-robotics-fuel-demand-ceo-says-4786673",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T18:48:43+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8440,6 +8443,7 @@
   "FHN": "First Horizon",
   "KO": "The Coca-Cola",
   "KRC": "Kilroy Realty",
+  "POST": "Post Holdings",
   "MSTR": "MicroStrategy",
   "PINS": "Pinterest Inc",
   "BKR": "Baker Hughes",
@@ -8494,6 +8498,7 @@
   "INSM": "Insmed",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
+  "PFE": "Pfizer",
   "AA": "Alcoa",
   "FDX": "FedEx",
   "INTC": "Intel",
