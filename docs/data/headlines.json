@@ -1,8 +1,37 @@
 {
- "generated": "2026-07-11T07:57:25.580287+00:00",
+ "generated": "2026-07-11T08:02:52.968965+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "128a005748c8",
+   "title": "2027 French presidential election: Where do we stand now?",
+   "link": "https://www.investing.com/news/economy-news/2027-french-presidential-election-where-do-we-stand-now-4787219",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-11T07:57:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dfacb1223f7c",
+   "title": "NextEra Energy: Merger With Dominion Energy Introduces Risks",
+   "link": "https://seekingalpha.com/article/4921325-nextera-energy-merger-with-dominion-energy-introduces-risks?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-11T07:54:43+00:00",
+   "tickers": [
+    "D",
+    "NEE"
+   ]
+  },
   {
    "id": "48929bae2b5e",
    "title": "Kanzhun: AI Risk Looks Too Discounted For This Recruitment Platform",
@@ -8369,36 +8398,6 @@
    "tickers": [
     "DE"
    ]
-  },
-  {
-   "id": "2e6efce7cc45",
-   "title": "Analyst Report: Monster Beverage Corp",
-   "link": "https://finance.yahoo.com/research/reports/ARGUS_3631_AnalystReport_1783708426000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-10T18:33:46+00:00",
-   "tickers": [
-    "MNST"
-   ]
-  },
-  {
-   "id": "126bb1d2337c",
-   "title": "Major Shareholder Announcement",
-   "link": "https://www.globenewswire.com/news-release/2026/07/10/3325717/0/en/Major-Shareholder-Announcement.html",
-   "summary": "Bang &amp; Olufsen A/S has, pursuant to the Danish Capital Markets Act, received a major shareholder notification from UBS Group AG.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-10T18:32:00+00:00",
-   "tickers": [
-    "UBS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8440,12 +8439,12 @@
   "WBS": "Webster Financial",
   "BBIO": "BridgeBio Pharma",
   "J": "Jacobs Solutions",
-  "MNST": "Monster Beverage",
   "VMC": "Vulcan Materials",
   "GE": "General Electric",
   "ARES": "Ares Management",
   "AXON": "Axon Enterprise",
   "COIN": "Coinbase Global",
+  "D": "Dominion Energy",
   "DIS": "The Walt Disney",
   "HBM": "Hudbay Minerals",
   "HOG": "Harley-Davidson",
@@ -8456,6 +8455,7 @@
   "WGS": "GeneDx Holdings",
   "BTU": "Peabody Energy",
   "META": "Meta Platforms",
+  "NEE": "NextEra Energy",
   "AVAV": "AeroVironment",
   "FHN": "First Horizon",
   "GIS": "General Mills",
