@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-11T16:52:45.212925+00:00",
+ "generated": "2026-07-11T16:57:29.155109+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5f7cc996521b",
+   "title": "Victory Home Remodeling Ranked Among Selling Power Magazine's Top 60 Best Places to Sell in America",
+   "link": "https://www.prnewswire.com/news-releases/victory-home-remodeling-ranked-among-selling-power-magazines-top-60-best-places-to-sell-in-america-302823243.html",
+   "summary": "Selling Power Magazine recognizes the company's commitment to building a world-class sales organization through leadership, culture, coaching, and career opportunities. HOLMDEL, N.J., July 11, 2026 /PRNewswire/ -- Victory Home Remodeling, one of the fastest-growing home remodeling...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-07-11T16:56:00+00:00",
+   "tickers": []
+  },
   {
    "id": "513b2b8dce6b",
    "title": "Trump says he ’just finished’ a physical at Walter Reed",
@@ -27,6 +40,19 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-11T16:48:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5c4e9ee4d05d",
+   "title": "Big fast-food burger chain franchisee files Chapter 11 bankruptcy",
+   "link": "https://finance.yahoo.com/small-business/articles/big-fast-food-burger-chain-164700124.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T16:47:00+00:00",
    "tickers": []
   },
   {
@@ -110,6 +136,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-11T16:39:36+00:00",
    "tickers": []
+  },
+  {
+   "id": "ff7cb4cd42a1",
+   "title": "Nvidia and Apple may solve AI investors’ biggest worry",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-apple-may-solve-ai-163823588.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T16:38:23+00:00",
+   "tickers": [
+    "AAPL"
+   ]
   },
   {
    "id": "187146dd5a02",
@@ -8277,49 +8318,6 @@
    "domain": "investing.com",
    "published": "2026-07-10T21:12:08+00:00",
    "tickers": []
-  },
-  {
-   "id": "4781508822f7",
-   "title": "Form PRE 14A WORKSPORT LTD. For: 10 July",
-   "link": "https://www.investing.com/news/filings/form-pre-14a-worksportltd-for-10-july-93CH-4786994",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T21:12:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6782ae958b85",
-   "title": "Form 4 Moderna Inc For: 10 July",
-   "link": "https://www.investing.com/news/filings/form-4-moderna-inc-for-10-july-93CH-4786993",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T21:12:07+00:00",
-   "tickers": [
-    "MRNA"
-   ]
-  },
-  {
-   "id": "4a25cdd0d13b",
-   "title": "Form 4 MongoDB For: 10 July",
-   "link": "https://www.investing.com/news/filings/form-4-mongodb-for-10-july-93CH-4786992",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T21:12:07+00:00",
-   "tickers": [
-    "MDB"
-   ]
   }
  ],
  "ticker_names": {
@@ -8464,8 +8462,6 @@
   "GLW": "Corning",
   "IOT": "Samsara",
   "KBH": "KB Home",
-  "MDB": "MongoDB",
-  "MRNA": "Moderna",
   "ROL": "Rollins",
   "SCI": "Service",
   "SNDK": "Sandisk",
