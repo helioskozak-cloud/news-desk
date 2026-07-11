@@ -1,8 +1,24 @@
 {
- "generated": "2026-07-11T12:17:26.872041+00:00",
+ "generated": "2026-07-11T12:22:42.012714+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d4ecc8b73ed5",
+   "title": "This is a test from PRN Test - 8:17",
+   "link": "https://www.prnewswire.com/news-releases/this-is-a-test-from-prn-test---817-302822909.html",
+   "summary": "This is a test subheadline. This is a test from PRN Test CLEVELAND, July 11, 2026 /PRNewswire/ -- THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG'S TAIL This is a test from PRN Test The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-11T12:17:00+00:00",
+   "tickers": [
+    "FOX",
+    "DOG"
+   ]
+  },
   {
    "id": "4c7bb09d2851",
    "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (July 2026)",
@@ -127,6 +143,19 @@
    "tickers": [
     "NVO"
    ]
+  },
+  {
+   "id": "4bb94555ca77",
+   "title": "Here’s the minimum net worth you need to be considered ‘upper class’ in your 60s — and the magic step to get you there",
+   "link": "https://finance.yahoo.com/markets/articles/minimum-net-worth-considered-upper-120500252.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T12:05:00+00:00",
+   "tickers": []
   },
   {
    "id": "126ef06fd97e",
@@ -8351,34 +8380,6 @@
    "tickers": [
     "CRWD"
    ]
-  },
-  {
-   "id": "2c3f496adc7b",
-   "title": "Why is Oracle stock sliding today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-oracle-stock-sliding-today-93CH-4786723",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T19:25:42+00:00",
-   "tickers": [
-    "ORCL"
-   ]
-  },
-  {
-   "id": "2bb31e9b6def",
-   "title": "FAA extends flight cuts at Chicago O’Hare for another year",
-   "link": "https://www.investing.com/news/stock-market-news/faa-extends-flight-cuts-at-chicago-ohare-for-another-year-4786722",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-07-10T19:25:12+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8498,7 +8499,6 @@
   "INSM": "Insmed",
   "INTU": "Intuit",
   "NDAQ": "Nasdaq",
-  "ORCL": "Oracle",
   "PFE": "Pfizer",
   "AA": "Alcoa",
   "FIG": "Figma",
