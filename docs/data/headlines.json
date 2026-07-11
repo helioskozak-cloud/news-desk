@@ -1,8 +1,39 @@
 {
- "generated": "2026-07-11T11:12:40.022890+00:00",
+ "generated": "2026-07-11T11:17:28.666607+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f98d4d5c7767",
+   "title": "The REIT Strategy I Would Use To Retire Today",
+   "link": "https://seekingalpha.com/article/4920041-reit-strategy-i-would-use-to-retire-today?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-11T11:15:00+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
+  {
+   "id": "cfe417e25e60",
+   "title": "This is a test from PRN Test - 7:13",
+   "link": "https://www.prnewswire.com/news-releases/this-is-a-test-from-prn-test---713-302822880.html",
+   "summary": "This is a test subheadline. This is a test from PRN Test CLEVELAND, July 11, 2026 /PRNewswire/ -- THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG'S TAIL This is a test from PRN Test The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-11T11:13:00+00:00",
+   "tickers": [
+    "FOX",
+    "DOG"
+   ]
+  },
   {
    "id": "18cf46908356",
    "title": "Pfizer: The AI Hedge That Pays You To Stay Defensive",
@@ -302,6 +333,19 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-11T09:31:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "77967c9d34c5",
+   "title": "UK inflation is not distributed equally",
+   "link": "https://www.ft.com/content/8916354a-4c7c-4df6-8c9e-2303f883855d",
+   "summary": "The poorest pay the most in an energy shock",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-07-11T09:30:08+00:00",
    "tickers": []
   },
   {
@@ -8336,47 +8380,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-10T19:01:54+00:00",
    "tickers": []
-  },
-  {
-   "id": "67bd2b3cd9f8",
-   "title": "Catalyst Watch: Bank earnings, Netflix results, Alzheimer's conference",
-   "link": "https://seekingalpha.com/news/4612725-catalyst-watch-bank-earnings-netflix-results-alzheimers-conference?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-10T19:00:57+00:00",
-   "tickers": [
-    "NFLX"
-   ]
-  },
-  {
-   "id": "263a2c9428d4",
-   "title": "SK Hynix shares jump in marquee US debut as AI euphoria persists",
-   "link": "https://www.investing.com/news/stock-market-news/sk-hynix-set-for-marquee-us-debut-in-test-for-ai-appetite-4785365",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-10T19:00:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "95de612ebd8e",
-   "title": "Form 4 Caseys General Stores Inc For: 10 July",
-   "link": "https://www.investing.com/news/filings/form-4-caseys-general-stores-inc-for-10-july-93CH-4786687",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T19:00:03+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8396,6 +8399,7 @@
   "MDLZ": "Mondelez International",
   "WBD": "Warner Bros. Discovery",
   "AMH": "American Homes 4 Rent",
+  "DOG": "ProShares Short Dow30",
   "PLTR": "Palantir Technologies",
   "CRWD": "CrowdStrike Holdings",
   "EW": "Edwards Lifesciences",
@@ -8478,6 +8482,7 @@
   "GME": "GameStop",
   "GOOG": "Alphabet",
   "NUVL": "Nuvalent",
+  "FOX": "Fox Corp",
   "BLSH": "Bullish",
   "COMP": "Compass",
   "DHR": "Danaher",
@@ -8489,7 +8494,6 @@
   "PODD": "Insulet",
   "SCI": "Service",
   "STNE": "StoneCo",
-  "NFLX": "Netflix",
   "BTG": "B2Gold",
   "ERAS": "Erasca",
   "INSM": "Insmed",
