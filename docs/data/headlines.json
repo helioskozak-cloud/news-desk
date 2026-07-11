@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-11T13:42:20.912546+00:00",
+ "generated": "2026-07-11T13:47:24.664769+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "92b127ff7baf",
+   "title": "New housing law targets affordability — what it means for homebuyers and sellers",
+   "link": "https://www.cnbc.com/2026/07/11/21st-century-road-to-housing-act-homebuyers-sellers.html",
+   "summary": "While the legislation is aimed at least partly at addressing affordability, experts say the benefits of the measure will take time to show up in the market.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-11T13:41:13+00:00",
+   "tickers": []
+  },
   {
    "id": "cc85e6715c15",
    "title": "The Market Still Underestimates Nvidia's Next Phase",
@@ -27,6 +40,19 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-07-11T13:35:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "33de2bbd3ad8",
+   "title": "Big bank profit engines expected to roar into earnings as Main Street keeps spending",
+   "link": "https://finance.yahoo.com/markets/article/big-bank-profit-engines-expected-to-roar-into-earnings-as-main-street-keeps-spending-133238691.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T13:32:38+00:00",
    "tickers": []
   },
   {
@@ -58,17 +84,19 @@
    ]
   },
   {
-   "id": "92b127ff7baf",
-   "title": "New housing law targets affordability — what it means for homebuyers and sellers",
-   "link": "https://www.cnbc.com/2026/07/11/21st-century-road-to-housing-act-homebuyers-sellers.html",
-   "summary": "While the legislation is aimed at least partly at addressing affordability, experts say the benefits of the measure will take time to show up in the market.",
-   "source": "CNBC Top",
+   "id": "ae02c25ca029",
+   "title": "Dave Ramsey says grab Social Security ASAP — but NBER data shows early claiming costs a median $182,370",
+   "link": "https://finance.yahoo.com/economy/policy/articles/dave-ramsey-says-grab-social-133000522.html",
+   "summary": "",
+   "source": "Yahoo Finance",
    "category": "markets",
    "type": "markets",
    "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-11T13:30:02+00:00",
-   "tickers": []
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T13:30:00+00:00",
+   "tickers": [
+    "DAVE"
+   ]
   },
   {
    "id": "12bdd7206f7d",
@@ -108,6 +136,21 @@
    "domain": "investing.com",
    "published": "2026-07-11T13:25:52+00:00",
    "tickers": []
+  },
+  {
+   "id": "27f3ceb0c928",
+   "title": "Costco Could Be Poised for Major Gains Before 2030. Here Is Why Now May Be the Time to Buy.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/costco-could-poised-major-gains-132500005.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T13:25:00+00:00",
+   "tickers": [
+    "COST"
+   ]
   },
   {
    "id": "cfe147c6bc28",
@@ -151,6 +194,21 @@
    "tickers": []
   },
   {
+   "id": "27fe2ac39ed2",
+   "title": "AT&T Yields 5.3% and Trades Near a 52-Week Low. Is the SpaceX Threat Really Worth That Discount?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/t-yields-5-3-trades-132000928.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T13:20:00+00:00",
+   "tickers": [
+    "T"
+   ]
+  },
+  {
    "id": "98420f49eca6",
    "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
    "link": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
@@ -191,7 +249,7 @@
   },
   {
    "id": "ac970ba1d3a5",
-   "title": "Stock Market Week Ahead: Watching Big Banks, GE, TSMC For Signals",
+   "title": "Stock Market Week Ahead: Watching Big Banks, Warsh, TSMC For Signals",
    "link": "https://www.investors.com/research/investing-action-plan/stock-market-big-banks-ge-tsmc-asml-sp-500-nasdaq/?src=A00220&yptr=yahoo",
    "summary": "",
    "source": "Yahoo Finance",
@@ -201,8 +259,7 @@
    "domain": "investors.com",
    "published": "2026-07-11T13:10:05+00:00",
    "tickers": [
-    "TSM",
-    "GE"
+    "TSM"
    ]
   },
   {
@@ -8287,67 +8344,6 @@
     "NDAQ",
     "NWSA"
    ]
-  },
-  {
-   "id": "d87c22e48f49",
-   "title": "Smith Micro Files Registration Statements Relating to Previously Issued Securities and Equity Incentive Plan | SMSI Stock News",
-   "link": "https://www.stocktitan.net/news/SMSI/smith-micro-files-registration-statements-relating-to-previously-788sa576zr7r.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-10T20:05:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "ef2a5a9da90e",
-   "title": "Enterprise Financial Services Corp Announces Second Quarter 2026 Earnings Release and Conference Call | EFSC Stock News",
-   "link": "https://www.stocktitan.net/news/EFSC/enterprise-financial-services-corp-announces-second-quarter-2026-gk2ibxk3ojx3.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-10T20:05:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "9ee64ad7f558",
-   "title": "AMERISAFE Earns Spot on Ward’s Top 50 Property and Casualty Insurers for 18th Consecutive Year | AMSF Stock News",
-   "link": "https://www.stocktitan.net/news/AMSF/amerisafe-earns-spot-on-ward-s-top-50-property-and-casualty-insurers-ch239nhe6rxg.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "stocktitan.net",
-   "published": "2026-07-10T20:05:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "74ac6011e57c",
-   "title": "Fastenal Company Announces Cash Dividend and Share Repurchase Activity | FAST Stock News",
-   "link": "https://www.stocktitan.net/news/FAST/fastenal-company-announces-cash-dividend-and-share-repurchase-h895l3b5hlz8.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "stocktitan.net",
-   "published": "2026-07-10T20:05:00+00:00",
-   "tickers": [
-    "FAST",
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8396,6 +8392,7 @@
   "WBS": "Webster Financial",
   "AXP": "American Express",
   "BBIO": "BridgeBio Pharma",
+  "COST": "Costco Wholesale",
   "GTLS": "Chart Industries",
   "J": "Jacobs Solutions",
   "NVO": "Novo Nordisk A/S",
@@ -8485,6 +8482,8 @@
   "AA": "Alcoa",
   "FIG": "Figma",
   "INTC": "Intel",
-  "NKE": "NIKE"
+  "DAVE": "Dave",
+  "NKE": "NIKE",
+  "T": "AT&T"
  }
 }
