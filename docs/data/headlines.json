@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-11T22:42:23.309620+00:00",
+ "generated": "2026-07-11T22:47:11.333629+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -41,6 +41,36 @@
    "domain": "investing.com",
    "published": "2026-07-11T22:36:29+00:00",
    "tickers": []
+  },
+  {
+   "id": "ab4217bb335a",
+   "title": "AppLovin vs. Fastly: A Look at Recent Revenue Trends for These Tech Companies",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-vs-fastly-look-recent-223101229.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T22:31:01+00:00",
+   "tickers": [
+    "APP"
+   ]
+  },
+  {
+   "id": "be4bfbb4ea00",
+   "title": "CrowdStrike Just Completed a Stock Split. Is the Stock a Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-just-completed-stock-split-223000167.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T22:30:00+00:00",
+   "tickers": [
+    "CRWD"
+   ]
   },
   {
    "id": "da49d133c26e",
@@ -8321,34 +8351,6 @@
    "domain": "investing.com",
    "published": "2026-07-10T22:57:08+00:00",
    "tickers": []
-  },
-  {
-   "id": "40dbba4e1f20",
-   "title": "Charlie Kirk’s widow views video she requested of husband’s alleged killer",
-   "link": "https://www.investing.com/news/world-news/charlie-kirks-widow-views-video-she-requested-of-husbands-alleged-killer-4787150",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T22:54:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a2ba55234d9c",
-   "title": "Form 4 Broadcom Inc For: 10 July",
-   "link": "https://www.investing.com/news/filings/form-4-broadcom-inc-for-10-july-93CH-4787149",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T22:51:49+00:00",
-   "tickers": [
-    "AVGO"
-   ]
   }
  ],
  "ticker_names": {
@@ -8399,6 +8401,7 @@
   "DOG": "ProShares Short Dow30",
   "PLTR": "Palantir Technologies",
   "CEG": "Constellation Energy",
+  "CRWD": "CrowdStrike Holdings",
   "SLV": "iShares Silver Trust",
   "SMCI": "Super Micro Computer",
   "STZ": "Constellation Brands",
@@ -8495,6 +8498,7 @@
   "NXT": "Nextpower",
   "ADBE": "Photoshop",
   "NWSA": "News Corp",
+  "APP": "AppLovin",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
   "CCL": "Carnival",
