@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-11T13:50:08.173548+00:00",
+ "generated": "2026-07-11T13:52:09.540301+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -41,6 +41,35 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-11T13:35:48+00:00",
    "tickers": []
+  },
+  {
+   "id": "c31169e5c734",
+   "title": "3 Dividend Stocks That Are No-Brainer Buys Heading Into the Second Half of 2026",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-no-brainer-133500905.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T13:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "021bb05e78e1",
+   "title": "Goldman Sachs doubles down on Applied Materials stock target",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-doubles-down-applied-133300462.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T13:33:00+00:00",
+   "tickers": [
+    "AMAT",
+    "GS"
+   ]
   },
   {
    "id": "33de2bbd3ad8",
@@ -905,7 +934,7 @@
    "title": "ALTA Celebrates 21st Century ROAD to Housing Act Becoming Law",
    "link": "https://www.prnewswire.com/news-releases/alta-celebrates-21st-century-road-to-housing-act-becoming-law-302823220.html",
    "summary": "WASHINGTON, July 11, 2026 /PRNewswire/ -- The American Land Title Association (ALTA), the national trade association of the land title insurance industry, issued the following statement after the bipartisan, bicameral 21st Century ROAD to Housing Act became law. ALTA applauds...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1390,7 +1419,7 @@
    "title": "Leadership Expert Robert \"Bob\" Morgan Shares Daily Approach to Values-Based Leadership in HelloNation",
    "link": "https://www.prnewswire.com/news-releases/leadership-expert-robert-bob-morgan-shares-daily-approach-to-values-based-leadership-in-hellonation-302823093.html",
    "summary": "ROCHESTER, N.Y., July 11, 2026 /PRNewswire/ -- What does leadership in real estate look like on a daily basis? In a recent HelloNation article, Robert \"Bob\" Morgan of Morgan Communities explains that meaningful leadership is not about titles but about consistent choices. He describes his...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8311,35 +8340,6 @@
    "tickers": [
     "NDAQ"
    ]
-  },
-  {
-   "id": "4e7c3c074f87",
-   "title": "Vera Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-   "link": "https://www.globenewswire.com/news-release/2026/07/10/3325748/0/en/Vera-Therapeutics-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
-   "summary": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-10T20:05:00+00:00",
-   "tickers": [
-    "VERA",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "3e2eb003ed27",
-   "title": "VERAXA Biotech AG Appoints Carl von Halem as Interim Chief Financial Officer and Successor to Torsten Bürgermeister",
-   "link": "https://www.globenewswire.com/news-release/2026/07/10/3325749/0/en/VERAXA-Biotech-AG-Appoints-Carl-von-Halem-as-Interim-Chief-Financial-Officer-and-Successor-to-Torsten-B%C3%BCrgermeister.html",
-   "summary": "VERAXA Biotech AG today announced the appointment of Carl von Halem as as Interim Chief Financial Officer.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-10T20:05:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8358,6 +8358,7 @@
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "MPWR": "Monolithic Power Systems",
+  "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
   "INSP": "Inspire Medical Systems",
   "ADM": "Archer-Daniels-Midland",
@@ -8379,12 +8380,12 @@
   "MLI": "Mueller Industries",
   "NYT": "The New York Times",
   "AEVA": "Aeva Technologies",
+  "AMAT": "Applied Materials",
   "DELL": "Dell Technologies",
   "FLY": "Firefly Aerospace",
   "HOOD": "Robinhood Markets",
   "MU": "Micron Technology",
   "QUBT": "Quantum Computing",
-  "VERA": "Vera Therapeutics",
   "WBS": "Webster Financial",
   "AXP": "American Express",
   "BBIO": "BridgeBio Pharma",
