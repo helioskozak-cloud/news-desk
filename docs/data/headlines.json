@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-11T19:52:41.874033+00:00",
+ "generated": "2026-07-11T19:57:25.298963+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f09f2724b5eb",
+   "title": "US, Canada strike deal on tolls to let new bridge open on July 27",
+   "link": "https://www.investing.com/news/world-news/new-us-canada-bridge-to-open-soon-michigan-republican-says-4786914",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-11T19:42:31+00:00",
+   "tickers": []
+  },
   {
    "id": "1a0913692d51",
    "title": "/C O R R E C T I O N -- 7-Eleven, Inc./",
@@ -28,6 +41,37 @@
    "domain": "prnewswire.com",
    "published": "2026-07-11T19:38:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "6b1811a71e0c",
+   "title": "Morgan Stanley drops timely Honeywell stock opinion",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-drops-timely-honeywell-193700470.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T19:37:00+00:00",
+   "tickers": [
+    "MS",
+    "HON"
+   ]
+  },
+  {
+   "id": "c7d38a111a64",
+   "title": "US Postal Service raises stamp price to 82 cents",
+   "link": "https://www.investing.com/news/economy-news/us-postal-service-raises-stamp-price-to-82-cents-4787302",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-11T19:36:45+00:00",
+   "tickers": [
+    "SCI"
+   ]
   },
   {
    "id": "81f55400e520",
@@ -5918,19 +5962,6 @@
    "tickers": []
   },
   {
-   "id": "f09f2724b5eb",
-   "title": "US, Canada strike deal on tolls to let new bridge open on July 27",
-   "link": "https://www.investing.com/news/world-news/new-us-canada-bridge-to-open-soon-michigan-republican-says-4786914",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-11T04:36:23+00:00",
-   "tickers": []
-  },
-  {
    "id": "e1b41a9adbb2",
    "title": "BlackRock lists top 10 geopolitical risks",
    "link": "https://www.investing.com/news/economy-news/blackrock-lists-top-10-geopolitical-risks-4787213",
@@ -8304,34 +8335,6 @@
    "domain": "investing.com",
    "published": "2026-07-10T22:15:45+00:00",
    "tickers": []
-  },
-  {
-   "id": "682d42ed7e92",
-   "title": "Form 4 Comstock Holding Companies Inc For: 10 July",
-   "link": "https://www.investing.com/news/filings/form-4-comstock-holding-companies-inc-for-10-july-93CH-4787088",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T22:15:06+00:00",
-   "tickers": [
-    "CRK"
-   ]
-  },
-  {
-   "id": "15b275b2715a",
-   "title": "Big digital energy director’s firm buys $16.7m preferred stock",
-   "link": "https://www.investing.com/news/insider-trading-news/big-digital-energy-directors-firm-buys-167m-preferred-stock-93CH-4787087",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T22:12:52+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8389,7 +8392,6 @@
   "ZM": "Zoom Communications",
   "ARKK": "ARK Innovation ETF",
   "BRK-A": "Berkshire Hathaway",
-  "CRK": "Comstock Resources",
   "MRVL": "Marvell Technology",
   "NYT": "The New York Times",
   "PANW": "Palo Alto Networks",
