@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-11T19:47:08.067137+00:00",
+ "generated": "2026-07-11T19:52:41.874033+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -40,6 +40,32 @@
    "sentiment": "positive",
    "domain": "prnewswire.com",
    "published": "2026-07-11T19:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5efff5ee6c99",
+   "title": "The SEC Is Rethinking Its Approach to ETFs. Here's What It Could Mean For Crypto Investors",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/sec-rethinking-approach-etfs-heres-193500087.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T19:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d07cdb0298ba",
+   "title": "Could You Retire Like Royalty in Vietnam With $400,000?",
+   "link": "https://finance.yahoo.com/small-business/articles/could-retire-royalty-vietnam-400-193140429.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T19:31:40+00:00",
    "tickers": []
   },
   {
@@ -111,6 +137,36 @@
     "SCI",
     "ZETA"
    ]
+  },
+  {
+   "id": "3aae6f044f66",
+   "title": "Which Tech ETF Wins for Your Portfolio, Fidelity's FTEC or Vanguard's VGT?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tech-etf-wins-portfolio-fidelitys-192701200.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T19:27:01+00:00",
+   "tickers": [
+    "VYMI",
+    "FTEC",
+    "VGT"
+   ]
+  },
+  {
+   "id": "4a1e6f2cb784",
+   "title": "3 Stocks Worth Holding Through Any Market Condition",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-worth-holding-market-192500280.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T19:25:00+00:00",
+   "tickers": []
   },
   {
    "id": "f7613f1aa478",
@@ -8276,62 +8332,12 @@
    "domain": "investing.com",
    "published": "2026-07-10T22:12:52+00:00",
    "tickers": []
-  },
-  {
-   "id": "b1d4e2fcab72",
-   "title": "Box VP chief acct officer & controller Eli Berkovitch sells $52,110",
-   "link": "https://www.investing.com/news/insider-trading-news/box-vp-chief-acct-officer--controller-eli-berkovitch-sells-52110-93CH-4787086",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T22:12:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3c47c98da5d2",
-   "title": "US extends work permits for Haitians, other immigrants with temporary protected status",
-   "link": "https://www.investing.com/news/world-news/us-extends-work-permits-for-haitians-other-immigrants-with-temporary-protected-status-4787085",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T22:12:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "426f8fb09ee7",
-   "title": "Form 4 Borgwarner For: 10 July",
-   "link": "https://www.investing.com/news/filings/form-4-borgwarner-for-10-july-93CH-4787084",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T22:12:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9dbe26bc6f1f",
-   "title": "Janus Research wins $200M Army contract for research support services",
-   "link": "https://seekingalpha.com/news/4613037-janus-research-wins-200m-army-contract-for-research-support-services?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-10T22:06:19+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "XLV": "State Street Health Care Select Sector SPDR ETF",
+  "FTEC": "Fidelity MSCI Information Technology Index ETF",
+  "VYMI": "Vanguard International High Dividend Yield ETF",
   "IAGG": "iShares International Aggregate Bond Fund",
   "CPER": "United States Copper Index Fund ETV",
   "CCC": "CCC Intelligent Solutions Holdings",
@@ -8345,6 +8351,7 @@
   "CTSH": "Cognizant Technology Solutions",
   "IJR": "iShares Core S&P Small-Cap ETF",
   "SCHD": "Schwab US Dividend Equity ETF",
+  "VGT": "Vanguard Information Tech ETF",
   "EWY": "iShares MSCI South Korea ETF",
   "WST": "West Pharmaceutical Services",
   "CHH": "Choice Hotels International",
