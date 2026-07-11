@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-11T05:42:42.103961+00:00",
+ "generated": "2026-07-11T05:47:31.894227+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -67,6 +67,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-11T05:02:48+00:00",
    "tickers": []
+  },
+  {
+   "id": "526a2da8e0f7",
+   "title": "AstraZeneca's trial flop raises a bigger question: Is its pipeline premium becoming more vulnerable?",
+   "link": "https://www.cnbc.com/2026/07/11/astrazenecas-trial-pipeline-pharma-valutaion-stock.html",
+   "summary": "For years, AstraZeneca has commanded one of the richest valuations among large European pharma companies on the assumption that it consistently delivers results.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-07-11T05:00:01+00:00",
+   "tickers": [
+    "AZN"
+   ]
   },
   {
    "id": "4a84b47d753a",
@@ -8388,22 +8403,6 @@
    "domain": "prnewswire.com",
    "published": "2026-07-10T18:22:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "406a9bdc1970",
-   "title": "TeraWulf's Hidden Capacity Advantage: Why It Could Outrun Core Scientific",
-   "link": "https://seekingalpha.com/article/4921234-terawulfs-hidden-capacity-advantage-why-it-could-outrun-core-scientific?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-10T18:21:53+00:00",
-   "tickers": [
-    "CORZ",
-    "WULF"
-   ]
   }
  ],
  "ticker_names": {
@@ -8449,7 +8448,6 @@
   "ARES": "Ares Management",
   "AXON": "Axon Enterprise",
   "COIN": "Coinbase Global",
-  "CORZ": "Core Scientific",
   "DIS": "The Walt Disney",
   "HBM": "Hudbay Minerals",
   "HOG": "Harley-Davidson",
@@ -8483,6 +8481,7 @@
   "SIDU": "Sidus Space",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
+  "AZN": "AstraZeneca",
   "CRM": "Salesforce",
   "F": "Ford Motor",
   "TECH": "Bio-Techne",
@@ -8502,7 +8501,6 @@
   "GME": "GameStop",
   "GOOG": "Alphabet",
   "NUVL": "Nuvalent",
-  "WULF": "TeraWulf",
   "BLSH": "Bullish",
   "COMP": "Compass",
   "DHR": "Danaher",
