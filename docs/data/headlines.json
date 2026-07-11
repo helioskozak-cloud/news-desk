@@ -1,8 +1,24 @@
 {
- "generated": "2026-07-11T19:17:28.101773+00:00",
+ "generated": "2026-07-11T19:22:35.245286+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c4dc9954df90",
+   "title": "Key deals this week: MGM, PERF, VRTX, and more",
+   "link": "https://seekingalpha.com/news/4613044-key-deals-this-week-mgm-perf-vrtx-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-11T19:15:49+00:00",
+   "tickers": [
+    "MGM",
+    "VRTX"
+   ]
+  },
   {
    "id": "a4d6fb31b994",
    "title": "AFX supera 1,1 miliardi di dollari in volume di trading totale, mettendo in evidenza l'efficienza del capitale nei derivati onchain",
@@ -17,6 +33,19 @@
    "tickers": []
   },
   {
+   "id": "3a11db120586",
+   "title": "The Supermarket That Turned Cashiers Into Millionaires",
+   "link": "https://finance.yahoo.com/video/supermarket-turned-cashiers-millionaires-190154431.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T19:01:54+00:00",
+   "tickers": []
+  },
+  {
    "id": "98420f49eca6",
    "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
    "link": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
@@ -28,6 +57,21 @@
    "domain": "marketwatch.com",
    "published": "2026-07-11T19:00:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "1245e70c9893",
+   "title": "SK Hynix's Nasdaq Debut Just Became the Largest U.S. Listing by a Foreign Company",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynixs-nasdaq-debut-just-190000828.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T19:00:00+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
   },
   {
    "id": "4d2d98eb0dab",
@@ -8289,47 +8333,6 @@
    "domain": "investing.com",
    "published": "2026-07-10T21:51:07+00:00",
    "tickers": []
-  },
-  {
-   "id": "fa2d00317735",
-   "title": "Form 4 Kilroy Realty Corp For: 10 July",
-   "link": "https://www.investing.com/news/filings/form-4-kilroy-realty-corp-for-10-july-93CH-4787067",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T21:51:07+00:00",
-   "tickers": [
-    "KRC"
-   ]
-  },
-  {
-   "id": "bf23ef5cae53",
-   "title": "Form 4 Village Farms International Inc For: 10 July",
-   "link": "https://www.investing.com/news/filings/form-4-village-farms-international-inc-for-10-july-93CH-4787066",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T21:51:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fb2f7d22bd03",
-   "title": "Form 4 Village Farms International Inc For: 10 July",
-   "link": "https://www.investing.com/news/filings/form-4-village-farms-international-inc-for-10-july-93CH-4787065",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T21:51:06+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8368,6 +8371,7 @@
   "AMD": "Advanced Micro Devices",
   "FND": "Floor & Decor Holdings",
   "MDLZ": "Mondelez International",
+  "VRTX": "Vertex Pharmaceuticals",
   "WBD": "Warner Bros. Discovery",
   "WMB": "The Williams Companies",
   "DOG": "ProShares Short Dow30",
@@ -8428,7 +8432,6 @@
   "AVAV": "AeroVironment",
   "FTAI": "FTAI Aviation",
   "KO": "The Coca-Cola",
-  "KRC": "Kilroy Realty",
   "MT": "ArcelorMittal",
   "O": "Realty Income",
   "POST": "Post Holdings",
