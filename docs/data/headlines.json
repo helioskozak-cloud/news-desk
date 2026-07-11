@@ -1,8 +1,34 @@
 {
- "generated": "2026-07-11T19:02:44.530291+00:00",
+ "generated": "2026-07-11T19:06:59.568976+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a4d6fb31b994",
+   "title": "AFX supera 1,1 miliardi di dollari in volume di trading totale, mettendo in evidenza l'efficienza del capitale nei derivati onchain",
+   "link": "https://www.prnewswire.com/news-releases/afx-supera-1-1-miliardi-di-dollari-in-volume-di-trading-totale-mettendo-in-evidenza-lefficienza-del-capitale-nei-derivati-onchain-302823276.html",
+   "summary": "ROAD TOWN, Isole Vergini Britanniche, 11 luglio 2026 /PRNewswire/ -- AFX, una sovrana L1 ad alte prestazioni, progettata appositamente per i derivati decentralizzati, ha comunicato oggi un importante traguardo in termini operativi: il superamento di 1,1 miliardi di dollari in volume di...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-11T19:04:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "98420f49eca6",
+   "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+   "link": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
+   "summary": "“I have very little money, while my ex’s financial statements show assets in the millions.”",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-07-11T19:00:00+00:00",
+   "tickers": []
+  },
   {
    "id": "4d2d98eb0dab",
    "title": "En dépassant les 1,1 milliard de dollars de volume transactionnel, AFX souligne l'efficacité du capital dans le domaine des produits dérivés on-chain",
@@ -43,6 +69,24 @@
    "domain": "prnewswire.com",
    "published": "2026-07-11T18:52:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "a6315bee5d30",
+   "title": "Which Is the Better Small-Cap ETF, Schwab's SCHA or iShares' IJR?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-small-cap-etf-schwabs-184701374.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-11T18:47:01+00:00",
+   "tickers": [
+    "IAGG",
+    "SCHF",
+    "SCHA",
+    "IJR"
+   ]
   },
   {
    "id": "c35164cfe74a",
@@ -3266,19 +3310,6 @@
    "tickers": [
     "T"
    ]
-  },
-  {
-   "id": "98420f49eca6",
-   "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
-   "link": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
-   "summary": "“I have very little money, while my ex’s financial statements show assets in the millions.”",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-07-11T13:15:00+00:00",
-   "tickers": []
   },
   {
    "id": "3a9edb8e5ee1",
@@ -8299,40 +8330,11 @@
    "domain": "investing.com",
    "published": "2026-07-10T21:51:06+00:00",
    "tickers": []
-  },
-  {
-   "id": "90b2227e2c01",
-   "title": "Southern First Bancshares Is Improving, But Not Enough To Turn Bullish Over",
-   "link": "https://seekingalpha.com/article/4921275-southern-first-bancshares-improving-but-not-enough-to-turn-bullish?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-10T21:50:35+00:00",
-   "tickers": [
-    "BLSH"
-   ]
-  },
-  {
-   "id": "42bf4115c694",
-   "title": "Form 4 Pure Storage Inc For: 10 July",
-   "link": "https://www.investing.com/news/filings/form-4-pure-storage-inc-for-10-july-93CH-4787064",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-10T21:48:56+00:00",
-   "tickers": [
-    "PSTG"
-   ]
   }
  ],
  "ticker_names": {
   "XLV": "State Street Health Care Select Sector SPDR ETF",
+  "IAGG": "iShares International Aggregate Bond Fund",
   "CPER": "United States Copper Index Fund ETV",
   "CCC": "CCC Intelligent Solutions Holdings",
   "TSM": "Taiwan Semiconductor Manufacturing",
@@ -8340,8 +8342,10 @@
   "SIVR": "abrdn Physical Silver Shares ETF",
   "IBM": "International Business Machines",
   "QSR": "Restaurant Brands International",
+  "SCHF": "Schwab International Equity ETF",
   "CRDO": "Credo Technology Group Holding",
   "CTSH": "Cognizant Technology Solutions",
+  "IJR": "iShares Core S&P Small-Cap ETF",
   "SCHD": "Schwab US Dividend Equity ETF",
   "EWY": "iShares MSCI South Korea ETF",
   "WST": "West Pharmaceutical Services",
@@ -8355,6 +8359,7 @@
   "SIL": "Global X Silver Miners ETF",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
+  "SCHA": "Schwab U.S. Small-Cap ETF",
   "MPWR": "Monolithic Power Systems",
   "SMH": "VanEck Semiconductor ETF",
   "GS": "The Goldman Sachs Group",
@@ -8434,7 +8439,6 @@
   "CSGP": "CoStar Group",
   "IDCC": "InterDigital",
   "LRCX": "Lam Research",
-  "PSTG": "Pure Storage",
   "TLN": "Talen Energy",
   "TTAN": "ServiceTitan",
   "Z": "Zillow Group",
