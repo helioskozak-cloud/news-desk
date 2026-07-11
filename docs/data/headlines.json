@@ -1,8 +1,37 @@
 {
- "generated": "2026-07-11T12:52:37.740461+00:00",
+ "generated": "2026-07-11T12:57:25.094136+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "319175d15a10",
+   "title": "This is a test from PRN Test - This is a test from PRN Test",
+   "link": "https://www.prnewswire.com/news-releases/this-is-a-test-from-prn-test---this-is-a-test-from-prn-test-302823222.html",
+   "summary": "This is a test subheadline. This is a test from PRN Test CLEVELAND, July 11, 2026 /PRNewswire/ -- THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG'S TAIL This is a test from PRN Test The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-11T12:54:00+00:00",
+   "tickers": [
+    "FOX",
+    "DOG"
+   ]
+  },
+  {
+   "id": "cdbcd8f4b1db",
+   "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+   "link": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+   "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-11T12:51:50+00:00",
+   "tickers": []
+  },
   {
    "id": "352468a8cdd0",
    "title": "Twilio: Wait For The Pullback",
@@ -1083,19 +1112,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-07-11T09:41:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cdbcd8f4b1db",
-   "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-   "link": "https://www.cnbc.com/2026/07/11/trump-threat.html",
-   "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-11T09:36:03+00:00",
    "tickers": []
   },
   {
@@ -8359,21 +8375,6 @@
    "domain": "investing.com",
    "published": "2026-07-10T19:42:29+00:00",
    "tickers": []
-  },
-  {
-   "id": "5872d92b28b7",
-   "title": "BTU Investors Have Opportunity to Lead Peabody Energy Corporation Securities Fraud Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/btu-investors-have-opportunity-to-lead-peabody-energy-corporation-securities-fraud-lawsuit-302822989.html",
-   "summary": "NEW YORK, July 10, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Peabody Energy Corporation (NYSE: BTU) between October 14, 2024 to May 4, 2026, inclusive (the \"Class Period\"), of the important August 24, 2026 lead...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-07-10T19:42:00+00:00",
-   "tickers": [
-    "BTU"
-   ]
   }
  ],
  "ticker_names": {
@@ -8434,7 +8435,6 @@
   "RIO": "Rio Tinto Group",
   "RRC": "Range Resources",
   "WGS": "GeneDx Holdings",
-  "BTU": "Peabody Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "NEE": "NextEra Energy",
