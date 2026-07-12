@@ -1,8 +1,50 @@
 {
- "generated": "2026-07-12T21:17:27.647660+00:00",
+ "generated": "2026-07-12T21:22:39.007069+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d8bea8330f51",
+   "title": "Sen. Lindsey Graham, influential lawmaker and Trump ally, dies at 71 after a brief illness",
+   "link": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
+   "summary": "Graham, a prominent Republican senator from South Carolina, had just returned from a trip to Ukraine.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-12T21:17:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "36e3914ddacd",
+   "title": "Brookfield nears Hudson Square deal as AI firms fuel Manhattan office revival: WSJ",
+   "link": "https://seekingalpha.com/news/4613078-brookfield-nears-hudson-square-deal-as-ai-firms-fuel-manhattan-office-revival-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-12T21:16:25+00:00",
+   "tickers": [
+    "BN",
+    "SQ"
+   ]
+  },
+  {
+   "id": "cbe4b69db019",
+   "title": "What This Immunome Sale Means a Day Before a Big FDA Milestone",
+   "link": "https://finance.yahoo.com/healthcare/articles/immunome-sale-means-day-big-210453257.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-12T21:04:53+00:00",
+   "tickers": []
+  },
   {
    "id": "e9d7caf9b08e",
    "title": "Study: \"Physical Therapy for the Brain\" Delivered by Telephone Shows Outcomes Meeting or Exceeding National In-Person Benchmarks",
@@ -1160,19 +1202,6 @@
    "sentiment": "negative",
    "domain": "seekingalpha.com",
    "published": "2026-07-12T16:52:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d8bea8330f51",
-   "title": "Sen. Lindsey Graham, influential lawmaker and Trump ally, dies at 71 after a brief illness",
-   "link": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
-   "summary": "Graham, a prominent Republican senator from South Carolina, had just returned from a trip to Ukraine.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-12T16:49:18+00:00",
    "tickers": []
   },
   {
@@ -8313,36 +8342,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-11T14:30:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "49edbbbae1ec",
-   "title": "Barclays, Morgan Stanley boost Robinhood price target by up to 50%",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-morgan-stanley-boost-robinhood-143000052.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-11T14:30:00+00:00",
-   "tickers": [
-    "MS",
-    "HOOD",
-    "BCS"
-   ]
-  },
-  {
-   "id": "964491a04072",
-   "title": "Brixmor Property: A Durable Yield With Double-Digit Return Potential",
-   "link": "https://seekingalpha.com/article/4921343-brixmor-property-a-durable-yield-with-double-digit-return-potential?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T14:29:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8475,6 +8474,7 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "AZN": "AstraZeneca",
+  "BN": "Brookfield",
   "CRM": "Salesforce",
   "CVS": "CVS Health",
   "F": "Ford Motor",
@@ -8500,6 +8500,7 @@
   "OZK": "Bank OZK",
   "SNPS": "Synopsys",
   "WULF": "TeraWulf",
+  "SQ": "Cash App",
   "FOX": "Fox Corp",
   "BLSH": "Bullish",
   "CVNA": "Carvana",
