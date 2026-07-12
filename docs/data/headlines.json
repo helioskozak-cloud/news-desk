@@ -1,8 +1,37 @@
 {
- "generated": "2026-07-12T09:02:48.731242+00:00",
+ "generated": "2026-07-12T09:07:11.565260+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2c7ba1eaa36d",
+   "title": "‘Michael’ Crosses $1 Billion at the Box Office as Lionsgate Roars Back",
+   "link": "https://www.nytimes.com/2026/07/12/business/media/michael-movie-lionsgate.html",
+   "summary": "Shunned by bigger studios as too risky, “Michael” and other hits have revived Hollywood’s last major independent studio. But is it enough?",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-07-12T09:00:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "67f9737de85d",
+   "title": "Big-Box Retailers Have a New Strategy for Breaking Into Urban Markets",
+   "link": "https://www.nytimes.com/2026/07/12/business/costco-target-affordable-housing.html",
+   "summary": "As more states and municipalities continue their push to build affordable housing, companies like Costco and Target are riding along and getting their stores into crowded cities.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-07-12T09:00:11+00:00",
+   "tickers": [
+    "MSTR",
+    "COST"
+   ]
+  },
   {
    "id": "37008eb05712",
    "title": "5 big analyst AI moves: SpaceX gets a Street-high target, Samsung selloff overdone",
@@ -15,6 +44,34 @@
    "domain": "investing.com",
    "published": "2026-07-12T09:00:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "a6c5e3e5cb1d",
+   "title": "Week Ahead: U.S. CPI, China's Q2 GDP, And Bank Of Canada Meeting Featured",
+   "link": "https://seekingalpha.com/article/4921413-week-ahead-us-cpi-chinas-q2-gdp-and-bank-of-canada-meeting-featured?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-12T09:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d4cdb2119984",
+   "title": "Manhattan Associates: Q2 Needs To Justify The Premium",
+   "link": "https://seekingalpha.com/article/4921407-manhattan-associates-stock-q2-justify-premium?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-12T08:59:12+00:00",
+   "tickers": [
+    "MANH"
+   ]
   },
   {
    "id": "6009d18cf1b6",
@@ -8276,60 +8333,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-07-11T03:02:02+00:00",
    "tickers": []
-  },
-  {
-   "id": "d2101f478d9a",
-   "title": "Mark Zuckerberg Is Turning Meta Into a Bigger Chipmaker. Its Newest In-House AI Chip Enters Production in September.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-turning-meta-bigger-030100431.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-11T03:01:00+00:00",
-   "tickers": [
-    "META"
-   ]
-  },
-  {
-   "id": "1149c1244802",
-   "title": "Easterly Government Properties: Remains A Buy On Visible Progress",
-   "link": "https://seekingalpha.com/article/4921296-easterly-government-properties-remains-a-buy-on-visible-progress?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T02:54:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "59b66f586511",
-   "title": "Soccer-England’s Kane confirms golf outing with Trump, praises president’s game",
-   "link": "https://www.investing.com/news/world-news/soccerenglands-kane-confirms-golf-outing-with-trump-praises-presidents-game-4787207",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-11T02:54:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0c17b9267891",
-   "title": "Atlas Energy Solutions: Removal From The Russell Growth Index Is A Gift To Investors",
-   "link": "https://seekingalpha.com/article/4921295-atlas-energy-solutions-removal-from-the-russell-growth-index-is-a-gift-to-investors?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T02:41:09+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8382,6 +8385,7 @@
   "PLTR": "Palantir Technologies",
   "CEG": "Constellation Energy",
   "CRWD": "CrowdStrike Holdings",
+  "MANH": "Manhattan Associates",
   "SLV": "iShares Silver Trust",
   "SMCI": "Super Micro Computer",
   "STZ": "Constellation Brands",
