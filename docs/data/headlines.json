@@ -1,8 +1,53 @@
 {
- "generated": "2026-07-12T12:02:35.106752+00:00",
+ "generated": "2026-07-12T12:07:10.087226+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b94d24154e3a",
+   "title": "Goldman Sachs picks its favorite Chinese AI models",
+   "link": "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html",
+   "summary": "The investment bank released its Chinese AI model competitive positioning framework on Friday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-12T12:03:29+00:00",
+   "tickers": [
+    "GS"
+   ]
+  },
+  {
+   "id": "5ffd0d196470",
+   "title": "Earnings playbook: Reporting season gets underway with JPMorgan Chase, Netflix on deck",
+   "link": "https://www.cnbc.com/2026/07/12/earnings-playbook-reporting-season-starts-with-jpmorgan-chase-netflix.html",
+   "summary": "Nearly 28 S&amp;P 500 companies are set to report earnings this week.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-12T12:02:15+00:00",
+   "tickers": [
+    "JPM",
+    "JIRE",
+    "NFLX"
+   ]
+  },
+  {
+   "id": "0b2b48f6799d",
+   "title": "RYLD: The Rally Is Hiding The Structural Flaws",
+   "link": "https://seekingalpha.com/article/4921386-ryld-the-rally-is-hiding-the-structural-flaws?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-12T12:00:00+00:00",
+   "tickers": []
+  },
   {
    "id": "9a4968dd13c6",
    "title": "Iraq PM to visit Washington Monday for oil and gas deals",
@@ -8293,51 +8338,10 @@
    "domain": "investing.com",
    "published": "2026-07-11T07:57:26+00:00",
    "tickers": []
-  },
-  {
-   "id": "dfacb1223f7c",
-   "title": "NextEra Energy: Merger With Dominion Energy Introduces Risks",
-   "link": "https://seekingalpha.com/article/4921325-nextera-energy-merger-with-dominion-energy-introduces-risks?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T07:54:43+00:00",
-   "tickers": [
-    "D",
-    "NEE"
-   ]
-  },
-  {
-   "id": "48929bae2b5e",
-   "title": "Kanzhun: AI Risk Looks Too Discounted For This Recruitment Platform",
-   "link": "https://seekingalpha.com/article/4921324-kanzhun-ai-risk-looks-too-discounted-for-this-recruitment-platform?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T07:50:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "935f0e77762f",
-   "title": "Tradeweb Government Bond Update - June 2026",
-   "link": "https://seekingalpha.com/article/4921333-tradeweb-government-bond-update-june-2026?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T07:40:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
+  "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "XLV": "State Street Health Care Select Sector SPDR ETF",
   "FTEC": "Fidelity MSCI Information Technology Index ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
@@ -8414,6 +8418,7 @@
   "COST": "Costco Wholesale",
   "GTLS": "Chart Industries",
   "HCC": "Warrior Met Coal",
+  "JPM": "JPMorgan Chase &",
   "LOW": "Lowe's Companies",
   "NSC": "Norfolk Southern",
   "NVO": "Novo Nordisk A/S",
@@ -8424,7 +8429,6 @@
   "APLD": "Applied Digital",
   "BAC": "Bank of America",
   "COIN": "Coinbase Global",
-  "D": "Dominion Energy",
   "DIS": "The Walt Disney",
   "ELV": "Elevance Health",
   "EXP": "Eagle Materials",
@@ -8435,7 +8439,6 @@
   "HD": "The Home Depot",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
-  "NEE": "NextEra Energy",
   "FTAI": "FTAI Aviation",
   "KO": "The Coca-Cola",
   "MT": "ArcelorMittal",
@@ -8499,6 +8502,7 @@
   "SCI": "Service",
   "SNDK": "Sandisk",
   "WMT": "Walmart",
+  "NFLX": "Netflix",
   "ABNB": "Airbnb",
   "INTU": "Intuit",
   "MAT": "Mattel",
