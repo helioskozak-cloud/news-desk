@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12T21:02:23.683780+00:00",
+ "generated": "2026-07-12T21:07:28.726088+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,22 @@
    "domain": "prnewswire.com",
    "published": "2026-07-12T21:00:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "d9ee8a9cac39",
+   "title": "J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merger \"Strategically Coherent\"",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-called-potential-205000345.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-12T20:50:00+00:00",
+   "tickers": [
+    "COHR",
+    "TSLA"
+   ]
   },
   {
    "id": "6e68e77b3efb",
@@ -8327,19 +8343,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-11T14:29:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "ea6e23a04263",
-   "title": "Kansas City, the Smallest World Cup Host, Has the World at Its Feet",
-   "link": "https://www.nytimes.com/2026/07/11/business/kansas-city-world-cup-host.html",
-   "summary": "The city has a proud history with the sport thanks to Lamar Hunt, who owned the Kansas City Chiefs and co-founded Major League Soccer.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-07-11T14:28:53+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8491,6 +8494,7 @@
   "AVGO": "Broadcom",
   "BCS": "Barclays",
   "CCL": "Carnival",
+  "COHR": "Coherent",
   "EVR": "Evercore",
   "GOOG": "Alphabet",
   "OZK": "Bank OZK",
