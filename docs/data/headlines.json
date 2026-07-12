@@ -1,8 +1,25 @@
 {
- "generated": "2026-07-12T20:12:43.975637+00:00",
+ "generated": "2026-07-12T20:17:26.180039+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b88fbb4f1c57",
+   "title": "States Prepare Lawsuit to Block Paramount’s Merger With Warner Bros.",
+   "link": "https://www.nytimes.com/2026/07/12/business/state-ag-lawsuit-paramount-warner-bros.html",
+   "summary": "State attorneys general are preparing to file a lawsuit as soon as this week to halt the $111 billion deal, a potential major obstacle.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "nytimes.com",
+   "published": "2026-07-12T20:05:53+00:00",
+   "tickers": [
+    "WBD",
+    "PARA",
+    "XYZ"
+   ]
+  },
   {
    "id": "16b3262f0a37",
    "title": "S&P500: Set Up For Disappointment, And Earnings Won't Help",
@@ -27,6 +44,19 @@
    "sentiment": "negative",
    "domain": "seekingalpha.com",
    "published": "2026-07-12T19:58:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5b12503d1daa",
+   "title": "What This $1.1 Million Insider Sale at Accelerant Means for Investors",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-1-million-insider-sale-195316695.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-12T19:53:16+00:00",
    "tickers": []
   },
   {
@@ -8317,37 +8347,6 @@
    "tickers": [
     "CSGP"
    ]
-  },
-  {
-   "id": "6088abe79402",
-   "title": "Cognizant (CTSH) Launches Neuro AI Trust Platform for AI Governance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/cognizant-ctsh-launches-neuro-ai-142239147.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-11T14:22:39+00:00",
-   "tickers": [
-    "CTSH"
-   ]
-  },
-  {
-   "id": "f39a44ec26ec",
-   "title": "Is Agnico Eagle Mines (AEM) One of the Best Large Cap Stocks to Buy According to Analysts?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-one-142234470.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-11T14:22:34+00:00",
-   "tickers": [
-    "AEM",
-    "EXP"
-   ]
   }
  ],
  "ticker_names": {
@@ -8363,7 +8362,6 @@
   "SIVR": "abrdn Physical Silver Shares ETF",
   "QSR": "Restaurant Brands International",
   "SCHF": "Schwab International Equity ETF",
-  "CTSH": "Cognizant Technology Solutions",
   "IJR": "iShares Core S&P Small-Cap ETF",
   "ALSN": "Allison Transmission Holdings",
   "HII": "Huntington Ingalls Industries",
@@ -8376,7 +8374,6 @@
   "SOLS": "Solstice Advanced Materials",
   "STX": "Seagate Technology Holdings",
   "AEIS": "Advanced Energy Industries",
-  "AEM": "Agnico Eagle Mines Limited",
   "AMC": "AMC Entertainment Holdings",
   "COPX": "Global X Copper Miners ETF",
   "EL": "The Est?e Lauder Companies",
@@ -8394,6 +8391,7 @@
   "FND": "Floor & Decor Holdings",
   "HYMC": "Hycroft Mining Holding",
   "VRTX": "Vertex Pharmaceuticals",
+  "WBD": "Warner Bros. Discovery",
   "WMB": "The Williams Companies",
   "DOG": "ProShares Short Dow30",
   "IONS": "Ionis Pharmaceuticals",
@@ -8446,7 +8444,6 @@
   "BAC": "Bank of America",
   "COIN": "Coinbase Global",
   "DIS": "The Walt Disney",
-  "EXP": "Eagle Materials",
   "GFS": "GLOBALFOUNDRIES",
   "HBM": "Hudbay Minerals",
   "VIAV": "Viavi Solutions",
@@ -8540,6 +8537,7 @@
   "CIEN": "Ciena",
   "FDX": "FedEx",
   "NE": "Noble",
+  "XYZ": "Block",
   "DAVE": "Dave"
  }
 }
