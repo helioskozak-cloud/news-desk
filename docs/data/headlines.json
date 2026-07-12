@@ -1,8 +1,49 @@
 {
- "generated": "2026-07-12T12:07:10.087226+00:00",
+ "generated": "2026-07-12T12:12:40.766519+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "01920e2f175b",
+   "title": "I've studied more than 200 kids: Parents whose kids still confide in them as adults do 7 things early on",
+   "link": "https://www.cnbc.com/2026/07/12/ive-studied-more-than-200-kids-parents-whose-children-actually-enjoy-talking-to-them-do-7-things.html",
+   "summary": "After studying more than 200 parent-child relationships, parenting expert Reem Raouda shares the habits that help kids feel comfortable talking to their parents — from childhood through adulthood.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-12T12:10:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e15d57eb47c2",
+   "title": "Argan: Solid Visibility And Disciplined Execution Still Justifies A Buy",
+   "link": "https://seekingalpha.com/article/4921420-argan-stock-solid-visibility-disciplined-execution-justifies-buy?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-12T12:05:21+00:00",
+   "tickers": [
+    "AGX"
+   ]
+  },
+  {
+   "id": "e604d2107bf6",
+   "title": "Top Wall Street analysts are confident about these 3 stocks for the long haul",
+   "link": "https://www.cnbc.com/2026/07/12/top-analysts-are-confident-about-these-3-stocks-for-the-long-haul.html",
+   "summary": "Those looking for attractive stock picks amid the ongoing volatility can gain key insights by tracking the recommendations of top Wall Street analysts.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-07-12T12:05:02+00:00",
+   "tickers": []
+  },
   {
    "id": "b94d24154e3a",
    "title": "Goldman Sachs picks its favorite Chinese AI models",
@@ -23,9 +64,9 @@
    "title": "Earnings playbook: Reporting season gets underway with JPMorgan Chase, Netflix on deck",
    "link": "https://www.cnbc.com/2026/07/12/earnings-playbook-reporting-season-starts-with-jpmorgan-chase-netflix.html",
    "summary": "Nearly 28 S&amp;P 500 companies are set to report earnings this week.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-07-12T12:02:15+00:00",
@@ -8299,45 +8340,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-11T08:02:27+00:00",
    "tickers": []
-  },
-  {
-   "id": "515b8d087833",
-   "title": "World Cup TV rights in the US: no longer a discount",
-   "link": "https://www.ft.com/content/ec7a4254-0216-455a-88be-910d18b4100d",
-   "summary": "Also in today’s newsletter: F1 on horseback and Lawn Tennis Association set to move into VC investing",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-07-11T08:00:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "baeb2e424602",
-   "title": "Why the 2026 IPO boom is about to broaden beyond AI mega-deals",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-2026-ipo-boom-broaden-080000019.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-11T08:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "128a005748c8",
-   "title": "2027 French presidential election: Where do we stand now?",
-   "link": "https://www.investing.com/news/economy-news/2027-french-presidential-election-where-do-we-stand-now-4787219",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-11T07:57:26+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8514,6 +8516,7 @@
   "RMD": "ResMed",
   "TWLO": "Twilio",
   "VTR": "Ventas",
+  "AGX": "Argan",
   "CIEN": "Ciena",
   "FDX": "FedEx",
   "FIG": "Figma",
