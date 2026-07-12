@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-12T21:27:28.096516+00:00",
+ "generated": "2026-07-12T21:32:41.346957+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "de164bdca9fb",
+   "title": "U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz",
+   "link": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+   "summary": "The U.S. and Iran exchanged a barrage of missile and drone airstrikes amid a dispute over the status of the Strait of Hormuz.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-12T21:29:51+00:00",
+   "tickers": []
+  },
   {
    "id": "d8bea8330f51",
    "title": "Sen. Lindsey Graham, influential lawmaker and Trump ally, dies at 71 after a brief illness",
@@ -15,6 +28,34 @@
    "domain": "cnbc.com",
    "published": "2026-07-12T21:23:23+00:00",
    "tickers": []
+  },
+  {
+   "id": "0242a1bb7445",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4787375",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-07-12T21:20:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2e6c00ab60cd",
+   "title": "Is PayPal Stock a Bargain or a Value Trap?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/paypal-stock-bargain-value-trap-212000461.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-12T21:20:00+00:00",
+   "tickers": [
+    "PYPL"
+   ]
   },
   {
    "id": "36e3914ddacd",
@@ -1623,19 +1664,6 @@
    "tickers": [
     "IONS"
    ]
-  },
-  {
-   "id": "de164bdca9fb",
-   "title": "U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz",
-   "link": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
-   "summary": "The U.S. and Iran exchanged a barrage of missile and drone airstrikes amid a dispute over the status of the Strait of Hormuz.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-12T16:14:06+00:00",
-   "tickers": []
   },
   {
    "id": "fc417f957ac3",
@@ -8314,34 +8342,6 @@
    "domain": "marketwatch.com",
    "published": "2026-07-11T14:30:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "c0afcc9ef2cb",
-   "title": "Disney: Value Trap Or Contrarian Buy? It Isn't For The Weak",
-   "link": "https://seekingalpha.com/article/4921314-disney-value-trap-or-contrarian-buy-it-isnt-for-the-weak?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T14:30:00+00:00",
-   "tickers": [
-    "DIS"
-   ]
-  },
-  {
-   "id": "c7105a036da5",
-   "title": "Multi-Decade High Yields: Why We Are Buying Fixed-Income Debt At A 20-Year Low",
-   "link": "https://seekingalpha.com/article/4921066-multi-decade-high-yields-why-we-are-buying-fixed-income-debt-at-a-20-year-low?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T14:30:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8439,6 +8439,7 @@
   "DIS": "The Walt Disney",
   "GFS": "GLOBALFOUNDRIES",
   "HBM": "Hudbay Minerals",
+  "PYPL": "PayPal Holdings",
   "VIAV": "Viavi Solutions",
   "VRT": "Vertiv Holdings",
   "WDC": "Western Digital",
