@@ -1,11 +1,11 @@
 {
- "generated": "2026-07-12T14:47:29.076437+00:00",
+ "generated": "2026-07-12T14:52:36.674617+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
   {
    "id": "de164bdca9fb",
-   "title": "U.S. and Iran trade airstrikes again amid conflicting claims over the Strait of Hormuz",
+   "title": "U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz",
    "link": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
    "summary": "The U.S. and Iran exchanged a barrage of missile and drone airstrikes amid a dispute over the status of the Strait of Hormuz.",
    "source": "CNBC Top",
@@ -13,7 +13,20 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-07-12T14:45:10+00:00",
+   "published": "2026-07-12T14:48:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8111616d3393",
+   "title": "Trump says Strait of Hormuz remains open after U.S. strikes on Iran",
+   "link": "https://seekingalpha.com/news/4613065-trump-says-strait-of-hormuz-remains-open-after-u-s-strikes-on-iran?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-12T14:47:18+00:00",
    "tickers": []
   },
   {
@@ -137,6 +150,19 @@
    "sentiment": "positive",
    "domain": "investing.com",
    "published": "2026-07-12T14:18:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2c1850474c9f",
+   "title": "Spectrum makes significant decision as customer losses mount",
+   "link": "https://finance.yahoo.com/technology/articles/spectrum-makes-significant-decision-customer-141700401.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-12T14:17:00+00:00",
    "tickers": []
   },
   {
@@ -8301,35 +8327,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-07-11T11:53:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "e86bd1801cf6",
-   "title": "CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-sank-11-mark-115000979.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-11T11:50:00+00:00",
-   "tickers": [
-    "CRWV",
-    "META"
-   ]
-  },
-  {
-   "id": "478bb2ed71cb",
-   "title": "OpenAI safety head is said to be leaving amid reorganization",
-   "link": "https://seekingalpha.com/news/4613042-openai-safety-head-leaving-chatgpt-maker?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T11:47:33+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8465,7 +8462,6 @@
   "DE": "John Deere",
   "PARA": "Paramount+",
   "C": "Citigroup",
-  "CRWV": "CoreWeave",
   "FRO": "Frontline",
   "NXT": "Nextpower",
   "NWSA": "News Corp",
