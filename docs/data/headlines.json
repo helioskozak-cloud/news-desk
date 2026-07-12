@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12T16:37:05.466874+00:00",
+ "generated": "2026-07-12T16:42:26.301044+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -30,6 +30,19 @@
    "tickers": []
   },
   {
+   "id": "65293759d70b",
+   "title": "The Stock Market Just Flashed a Warning Sign Seen Only One Other Time Since 1890. History Couldn't Be Any Clearer About What Happens Next.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-just-flashed-warning-162000085.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-12T16:20:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "6a58d621669b",
    "title": "Bitcoin steadies above $64,000 as investors shrug off Hormuz tensions",
    "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-63000-as-iran-tensions-rise-bip110-debate-intensifies-4787336",
@@ -41,6 +54,21 @@
    "domain": "investing.com",
    "published": "2026-07-12T16:19:22+00:00",
    "tickers": []
+  },
+  {
+   "id": "6e53257e66dc",
+   "title": "Panic grips Ionis Pharmaceuticals investors amid bad news spree",
+   "link": "https://finance.yahoo.com/healthcare/articles/panic-grips-ionis-pharmaceuticals-investors-161700262.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-12T16:17:00+00:00",
+   "tickers": [
+    "IONS"
+   ]
   },
   {
    "id": "16d7bc00d863",
@@ -8322,36 +8350,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-11T12:54:14+00:00",
    "tickers": []
-  },
-  {
-   "id": "3fc3238fe91a",
-   "title": "Jim Cramer Left Enthused By Lam Research Corporation (LRCX)’s Shares",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-left-enthused-lam-125410592.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-11T12:54:10+00:00",
-   "tickers": [
-    "LRCX"
-   ]
-  },
-  {
-   "id": "1f9c1e0de6b5",
-   "title": "Jim Cramer Remains Upbeat About Meta Platforms (META)",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-remains-upbeat-meta-125401761.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-11T12:54:01+00:00",
-   "tickers": [
-    "META"
-   ]
   }
  ],
  "ticker_names": {
@@ -8396,6 +8394,7 @@
   "VRTX": "Vertex Pharmaceuticals",
   "WMB": "The Williams Companies",
   "DOG": "ProShares Short Dow30",
+  "IONS": "Ionis Pharmaceuticals",
   "PLTR": "Palantir Technologies",
   "CEG": "Constellation Energy",
   "CRWD": "CrowdStrike Holdings",
