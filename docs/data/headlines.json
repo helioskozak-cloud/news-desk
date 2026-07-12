@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12T20:17:26.180039+00:00",
+ "generated": "2026-07-12T20:22:27.020694+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -7,17 +7,45 @@
    "id": "b88fbb4f1c57",
    "title": "States Prepare Lawsuit to Block Paramount’s Merger With Warner Bros.",
    "link": "https://www.nytimes.com/2026/07/12/business/state-ag-lawsuit-paramount-warner-bros.html",
-   "summary": "State attorneys general are preparing to file a lawsuit as soon as this week to halt the $111 billion deal, a potential major obstacle.",
+   "summary": "State attorneys general are said to be getting ready to file a lawsuit as soon as this week to halt the $111 billion deal, a potential major obstacle.",
    "source": "NYT Business",
    "category": "macro",
    "type": "ma",
    "sentiment": "negative",
    "domain": "nytimes.com",
-   "published": "2026-07-12T20:05:53+00:00",
+   "published": "2026-07-12T20:17:49+00:00",
    "tickers": [
     "WBD",
     "PARA",
     "XYZ"
+   ]
+  },
+  {
+   "id": "a8a3e6fc6c58",
+   "title": "Federal monitor says UAW head Shawn Fain abused authority; Fain denies findings",
+   "link": "https://www.cnbc.com/2026/07/12/watchdog-says-uaw-head-shawn-fain-abused-authority-he-denies-findings.html",
+   "summary": "A report found that Shawn Fain retaliated against a union official, Rich Boyer, after Boyer pushed back against some of Fain's actions.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-12T20:17:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "587a911801c2",
+   "title": "1 Low-Cost Vanguard ETF Could Turn $300 per Month Into a $1 Million Portfolio. Here's How.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-low-cost-vanguard-etf-200500543.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-12T20:05:00+00:00",
+   "tickers": [
+    "VYMI"
    ]
   },
   {
@@ -8317,36 +8345,6 @@
     "FTAI",
     "BA"
    ]
-  },
-  {
-   "id": "15ac6ac18d6c",
-   "title": "Rollins (ROL) Names William Harkins as CFO Following Kenneth Krause Resignation",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rollins-rol-names-william-harkins-142254333.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-11T14:22:54+00:00",
-   "tickers": [
-    "ROL"
-   ]
-  },
-  {
-   "id": "606078dd7ba7",
-   "title": "CoStar Group (CSGP) Acquires 30% Stake in Wikicasa",
-   "link": "https://finance.yahoo.com/real-estate/articles/costar-group-csgp-acquires-30-142248654.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-11T14:22:48+00:00",
-   "tickers": [
-    "CSGP"
-   ]
   }
  ],
  "ticker_names": {
@@ -8466,7 +8464,6 @@
   "MSTR": "MicroStrategy",
   "BKR": "Baker Hughes",
   "CRUS": "Cirrus Logic",
-  "CSGP": "CoStar Group",
   "HL": "Hecla Mining",
   "LRCX": "Lam Research",
   "TTAN": "ServiceTitan",
@@ -8517,7 +8514,6 @@
   "MDLN": "Medline",
   "OSK": "Oshkosh",
   "PEP": "PepsiCo",
-  "ROL": "Rollins",
   "SCI": "Service",
   "SNDK": "Sandisk",
   "WMT": "Walmart",
