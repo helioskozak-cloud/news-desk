@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-13T05:02:28.599450+00:00",
+ "generated": "2026-07-13T05:07:22.042695+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,8 +13,23 @@
    "type": "markets",
    "sentiment": "negative",
    "domain": "cnbc.com",
-   "published": "2026-07-13T05:00:22+00:00",
+   "published": "2026-07-13T05:02:27+00:00",
    "tickers": []
+  },
+  {
+   "id": "bed21a52a26f",
+   "title": "AVDV: The Commodity Engine Has Cooled, Japan Hasn't",
+   "link": "https://seekingalpha.com/article/4921473-avdv-the-commodity-engine-has-cooled-japan-hasnt-downgrade-hold?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-13T05:00:16+00:00",
+   "tickers": [
+    "AVDV"
+   ]
   },
   {
    "id": "aea419f736c0",
@@ -727,19 +742,6 @@
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-07-13T03:55:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0d686c7fc9bf",
-   "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed",
-   "link": "https://www.investing.com/news/commodities-news/iran-declares-strait-of-hormuz-closed-as-unauthorised-vessel-hit-4787310",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-13T03:48:31+00:00",
    "tickers": []
   },
   {
@@ -1690,6 +1692,19 @@
    "sentiment": "positive",
    "domain": "finance.yahoo.com",
    "published": "2026-07-12T23:28:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0d686c7fc9bf",
+   "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed",
+   "link": "https://www.investing.com/news/commodities-news/iran-declares-strait-of-hormuz-closed-as-unauthorised-vessel-hit-4787310",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-12T23:24:21+00:00",
    "tickers": []
   },
   {
@@ -8292,22 +8307,6 @@
    "domain": "investing.com",
    "published": "2026-07-11T19:22:34+00:00",
    "tickers": []
-  },
-  {
-   "id": "c4dc9954df90",
-   "title": "Key deals this week: MGM, PERF, VRTX, and more",
-   "link": "https://seekingalpha.com/news/4613044-key-deals-this-week-mgm-perf-vrtx-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T19:15:49+00:00",
-   "tickers": [
-    "MGM",
-    "VRTX"
-   ]
   }
  ],
  "ticker_names": {
@@ -8315,6 +8314,7 @@
   "FTEC": "Fidelity MSCI Information Technology Index ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
+  "AVDV": "Avantis International Small Cap Value ETF",
   "IAGG": "iShares International Aggregate Bond Fund",
   "CNQ": "Canadian Natural Resources Limited",
   "TSM": "Taiwan Semiconductor Manufacturing",
