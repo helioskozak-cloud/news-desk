@@ -1,8 +1,36 @@
 {
- "generated": "2026-07-13T18:32:46.176240+00:00",
+ "generated": "2026-07-13T18:37:24.400274+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a38e42c8bc3d",
+   "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
+   "link": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
+   "summary": "The Strait of Hormuz is a major oil shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-13T18:35:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "30003a990153",
+   "title": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives",
+   "link": "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
+   "summary": "Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost more than $50 billion.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-13T18:31:09+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
   {
    "id": "e9d78975cca4",
    "title": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
@@ -28,6 +56,21 @@
    "domain": "prnewswire.com",
    "published": "2026-07-13T18:30:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "862eb8345949",
+   "title": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+   "link": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
+   "summary": "“The hood is bent, the radiator is cracked, and the front bumper is destroyed.”",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "marketwatch.com",
+   "published": "2026-07-13T18:30:00+00:00",
+   "tickers": [
+    "F"
+   ]
   },
   {
    "id": "54e38c4e6f52",
@@ -301,19 +344,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-07-13T18:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a38e42c8bc3d",
-   "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
-   "link": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
-   "summary": "The Strait of Hormuz is a major oil shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-13T18:19:13+00:00",
    "tickers": []
   },
   {
@@ -5643,21 +5673,6 @@
    "tickers": []
   },
   {
-   "id": "30003a990153",
-   "title": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives",
-   "link": "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
-   "summary": "Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost more than $50 billion.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-13T15:50:51+00:00",
-   "tickers": [
-    "META"
-   ]
-  },
-  {
    "id": "5230d4dd04e1",
    "title": "Sezzle stock loses some sizzle after KBW downgrades to Market Perform",
    "link": "https://seekingalpha.com/news/4613269-sezzle-stock-loses-some-sizzle-after-kbw-downgrades-to-market-perform?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -8326,21 +8341,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-13T14:56:42+00:00",
    "tickers": []
-  },
-  {
-   "id": "ccea726a39fc",
-   "title": "What Makes HCA Healthcare (HCA) a Compelling Investment Bet?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/makes-hca-healthcare-hca-compelling-145617464.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-13T14:56:17+00:00",
-   "tickers": [
-    "HCA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8408,7 +8408,6 @@
   "RRC": "Range Resources",
   "WDC": "Western Digital",
   "CNH": "CNH Industrial",
-  "HCA": "HCA Healthcare",
   "HLI": "Houlihan Lokey",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
@@ -8439,6 +8438,7 @@
   "CMS": "CMS Energy",
   "CRM": "Salesforce",
   "CVS": "CVS Health",
+  "F": "Ford Motor",
   "MA": "Mastercard",
   "RKLB": "Rocket Lab",
   "SPGI": "S&P Global",
