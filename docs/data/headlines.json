@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-13T04:37:11.264785+00:00",
+ "generated": "2026-07-13T04:41:15.409295+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -620,6 +620,21 @@
    "domain": "ft.com",
    "published": "2026-07-13T03:00:03+00:00",
    "tickers": []
+  },
+  {
+   "id": "57a01570d6a4",
+   "title": "EU buys record amount of gas from Russia’s flagship plant",
+   "link": "https://www.ft.com/content/de9bbc3a-c317-4e5f-a324-6ec0dde45722",
+   "summary": "Europe purchased almost all the LNG produced by the Yamal facility in the first half of 2026 ahead of import ban",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-07-13T03:00:02+00:00",
+   "tickers": [
+    "LNG"
+   ]
   },
   {
    "id": "f9f4273b1367",
@@ -6428,9 +6443,9 @@
    "title": "Big private equity firms pull in more cash as winners take all",
    "link": "https://www.ft.com/content/b7130eb3-c8bd-460f-9d8a-082e7bb48b48",
    "summary": "Shrinking pool of recipients points to coming wave of so-called zombie firms",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-07-12T04:00:06+00:00",
@@ -8307,21 +8322,6 @@
     "COPX",
     "CPER"
    ]
-  },
-  {
-   "id": "b41b85d37d25",
-   "title": "Salesforce receives double blow over an AI product",
-   "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-receives-double-blow-over-181700627.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-11T18:17:00+00:00",
-   "tickers": [
-    "CRM"
-   ]
   }
  ],
  "ticker_names": {
@@ -8406,6 +8406,7 @@
   "GFS": "GLOBALFOUNDRIES",
   "HBM": "Hudbay Minerals",
   "KRMN": "Karman Holdings",
+  "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
   "VIAV": "Viavi Solutions",
   "VRT": "Vertiv Holdings",
