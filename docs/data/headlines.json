@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-14T04:17:30.653343+00:00",
+ "generated": "2026-07-14T04:22:42.308464+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b655923d2be3",
+   "title": "Stock futures slip as Middle East tensions escalate; traders await earnings and inflation data: Live updates",
+   "link": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html",
+   "summary": "Oil prices surged and stocks slid on Monday after President Donald Trump said he would reinstate a blockade on Iranian shipping through the Strait of Hormuz.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-14T04:20:05+00:00",
+   "tickers": []
+  },
   {
    "id": "caf1e7118e19",
    "title": "VEON and JazzWorld Acquire TPL Insurance to Expand Digital Insurance Access Across Pakistan",
@@ -35,17 +48,20 @@
    ]
   },
   {
-   "id": "b655923d2be3",
-   "title": "Stock futures slip as Middle East tensions escalate; traders await earnings and inflation data: Live updates",
-   "link": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html",
-   "summary": "Oil prices surged and stocks slid on Monday after President Donald Trump said he would reinstate a blockade on Iranian shipping through the Strait of Hormuz.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "macro",
+   "id": "6136d911870c",
+   "title": "Paramount Skydance pushes back deadlines for exchange, tender offers",
+   "link": "https://seekingalpha.com/news/4613411-paramount-skydance-pushes-back-deadlines-for-exchange-tender-offers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
    "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-14T04:13:01+00:00",
-   "tickers": []
+   "domain": "seekingalpha.com",
+   "published": "2026-07-14T04:13:21+00:00",
+   "tickers": [
+    "PSKY",
+    "PARA"
+   ]
   },
   {
    "id": "51362c690ce0",
@@ -8385,22 +8401,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "2ddf24e27605",
-   "title": "Klarna to Publish Q2 2026 Earnings on August 18, 2026 | KLAR Stock News",
-   "link": "https://www.stocktitan.net/news/KLAR/klarna-to-publish-q2-2026-earnings-on-august-18-d8qjbx6pbprl.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-13T20:10:00+00:00",
-   "tickers": [
-    "KLAR",
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8426,6 +8426,7 @@
   "FIX": "Comfort Systems USA",
   "EQR": "Equity Residential",
   "LUV": "Southwest Airlines",
+  "PSKY": "Paramount Skydance",
   "TPL": "Texas Pacific Land",
   "CAR": "Avis Budget Group",
   "DELL": "Dell Technologies",
@@ -8463,7 +8464,6 @@
   "BF-B": "Brown-Forman",
   "CSGP": "CoStar Group",
   "DVLT": "Datavault AI",
-  "KLAR": "Klarna Group",
   "OSCR": "Oscar Health",
   "PSTG": "Pure Storage",
   "WY": "Weyerhaeuser",
