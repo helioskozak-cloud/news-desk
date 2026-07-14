@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-14T04:42:39.762537+00:00",
+ "generated": "2026-07-14T04:47:32.101404+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a1e565bb6a38",
+   "title": "Morning Bid: Fed in the spotlight as Warsh faces Congress",
+   "link": "https://www.investing.com/news/economy-news/morning-bid-fed-in-the-spotlight-as-warsh-faces-congress-4789685",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-14T04:42:24+00:00",
+   "tickers": []
+  },
   {
    "id": "67ffa80e906e",
    "title": "U.S. completes latest round of strikes against Iran, while Tehran targets Gulf neighbors",
@@ -13,7 +26,7 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-07-14T04:39:55+00:00",
+   "published": "2026-07-14T04:41:42+00:00",
    "tickers": []
   },
   {
@@ -137,6 +150,19 @@
    ]
   },
   {
+   "id": "99aba167a899",
+   "title": "Yaskawa Electric falls to April low as weak earnings trigger second day of selling",
+   "link": "https://www.investing.com/news/stock-market-news/yaskawa-electric-falls-to-april-low-as-weak-earnings-trigger-second-day-of-selling-4789684",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-07-14T04:20:20+00:00",
+   "tickers": []
+  },
+  {
    "id": "b655923d2be3",
    "title": "Stock futures slip as Middle East tensions escalate; traders await earnings and inflation data: Live updates",
    "link": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html",
@@ -161,6 +187,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-14T04:20:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "079a3a0ec78e",
+   "title": "California-led states sue to block Paramount’s $110 billion Warner Bros Discovery deal",
+   "link": "https://www.investing.com/news/stock-market-news/californialed-states-sue-to-block-paramounts-110-billion-warner-bros-discovery-deal-4789044",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-07-14T04:18:30+00:00",
+   "tickers": [
+    "WBD",
+    "PARA"
+   ]
   },
   {
    "id": "0e15dab9ee14",
@@ -221,6 +263,34 @@
     "PSKY",
     "PARA"
    ]
+  },
+  {
+   "id": "b37b88996e40",
+   "title": "ICE agent fatally shoots driver in Maine, six days after similar death in Texas",
+   "link": "https://www.investing.com/news/world-news/person-killed-in-iceinvolved-shooting-in-maine-media-reports-4788774",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-14T04:12:29+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "b0e01d123b00",
+   "title": "Australia’s Vault, Genesis agree to merge to create $8.7 bln gold major",
+   "link": "https://www.investing.com/news/stock-market-news/australias-vault-genesis-agree-to-merge-to-create-87-bln-gold-major-4789683",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-14T04:10:45+00:00",
+   "tickers": []
   },
   {
    "id": "51362c690ce0",
@@ -1683,21 +1753,6 @@
    "tickers": []
   },
   {
-   "id": "b37b88996e40",
-   "title": "ICE agent fatally shoots driver in Maine, six days after similar death in Texas",
-   "link": "https://www.investing.com/news/world-news/person-killed-in-iceinvolved-shooting-in-maine-media-reports-4788774",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-14T01:24:27+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "8345b7ac5f21",
    "title": "Form 4 Keel Infrastructure Corp For: 13 July",
    "link": "https://www.investing.com/news/filings/form-4-keel-infrastructure-corp-for-13-july-93CH-4789652",
@@ -1724,22 +1779,6 @@
    "tickers": [
     "MSTR",
     "LINE"
-   ]
-  },
-  {
-   "id": "079a3a0ec78e",
-   "title": "California-led states sue to block Paramount’s $110 billion Warner Bros Discovery deal",
-   "link": "https://www.investing.com/news/stock-market-news/californialed-states-sue-to-block-paramounts-110-billion-warner-bros-discovery-deal-4789044",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-07-14T01:18:50+00:00",
-   "tickers": [
-    "WBD",
-    "PARA"
    ]
   },
   {
@@ -8322,51 +8361,6 @@
    "source": "Stock Titan",
    "category": "stocks",
    "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-13T20:15:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "96bbe192d97d",
-   "title": "MFA Financial, Inc. Plans Live Audio Webcast of Second Quarter 2026 Earnings Conference Call | MFA Stock News",
-   "link": "https://www.stocktitan.net/news/MFA/mfa-financial-inc-plans-live-audio-webcast-of-second-quarter-2026-s454iako7oum.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-13T20:15:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "c8a9e9a8e5a7",
-   "title": "DHT Holdings, Inc. Business Update | DHT Stock News",
-   "link": "https://www.stocktitan.net/news/DHT/dht-holdings-inc-business-w777ueohrsm7.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-13T20:15:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "e6d222160c22",
-   "title": "MBX Biosciences Announces Executive Leadership Transition to Support the Company’s Next Phase of Growth | MBX Stock News",
-   "link": "https://www.stocktitan.net/news/MBX/mbx-biosciences-announces-executive-leadership-transition-to-support-gd6wmwxdvwt5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
    "sentiment": "neutral",
    "domain": "stocktitan.net",
    "published": "2026-07-13T20:15:00+00:00",
