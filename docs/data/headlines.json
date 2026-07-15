@@ -1,8 +1,23 @@
 {
- "generated": "2026-07-15T08:37:13.774997+00:00",
+ "generated": "2026-07-15T08:42:58.444180+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "bd4a34e211f0",
+   "title": "Major Shareholder Announcement",
+   "link": "https://www.globenewswire.com/news-release/2026/07/15/3327505/0/en/Major-Shareholder-Announcement.html",
+   "summary": "Bang &amp; Olufsen A/S has, pursuant to the Danish Capital Markets Act, received a major shareholder notification from UBS Group AG.",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-07-15T08:38:00+00:00",
+   "tickers": [
+    "UBS"
+   ]
+  },
   {
    "id": "fe3c77539ec9",
    "title": "SK Hynix South Korean shares jump 8% as Asia tech stocks rally",
@@ -13,8 +28,51 @@
    "type": "markets",
    "sentiment": "positive",
    "domain": "cnbc.com",
-   "published": "2026-07-15T08:33:30+00:00",
+   "published": "2026-07-15T08:37:47+00:00",
    "tickers": []
+  },
+  {
+   "id": "cfaf80687759",
+   "title": "PayPal jumps 15% in premarket trading on reports Stripe, Advent are weighing $53 billion takeover",
+   "link": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html",
+   "summary": "Stripe and Advent International have reportedly made a joint offer to acquire PayPal Holdings Inc for $60.50 per share, in a deal that would value the payments company at more than $53 billion.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-07-15T08:37:19+00:00",
+   "tickers": [
+    "PYPL"
+   ]
+  },
+  {
+   "id": "97e2f7d7f136",
+   "title": "Aokah und Branchenführer identifizieren fünf Trends, die globale Global Capability Centers (Kompetenzzentren) neu gestalten",
+   "link": "https://www.prnewswire.com/news-releases/aokah-und-branchenfuhrer-identifizieren-funf-trends-die-globale-global-capability-centers-kompetenzzentren-neu-gestalten-302826227.html",
+   "summary": "Da sich Global Capability Centers (GCCs) zu strategischen Unternehmenswerten entwickeln, kristallisiert sich die Fähigkeit, Arbeit souverän zu globalisieren (Globalize Work with Confidence™), als entscheidende Kompetenz für das kommende Jahrzehnt heraus. NEW YORK, 15. Juli 2026...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-15T08:36:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3a41d4b4a506",
+   "title": "A $53 billion lifeline? Stripe and Advent reportedly team up to bid for battered PayPal.",
+   "link": "https://www.marketwatch.com/story/a-53-billion-lifeline-stripe-and-advent-reportedly-team-up-to-bid-for-battered-paypal-3bc6fcc2?mod=mw_rss_topstories",
+   "summary": "PayPal, the struggling payments processor, rallied in premarket trade on Wednesday on a report that rival Stripe is teaming up with private-equity group Advent International on a bid.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-07-15T08:34:00+00:00",
+   "tickers": [
+    "PYPL"
+   ]
   },
   {
    "id": "3e0d819d21f3",
@@ -1177,9 +1235,9 @@
   },
   {
    "id": "dfc5d62d2489",
-   "title": "Barratt Redrow launches buyback programme after investor pressure",
+   "title": "Barratt Redrow launches £400mn buyback after investor pressure",
    "link": "https://www.ft.com/content/f3c2ab09-eda2-4de0-89bb-613b1771f146",
-   "summary": "Housebuilder to return £400mn to investors after share price discount widens",
+   "summary": "Housebuilder announces move after warning from activist",
    "source": "FT Companies",
    "category": "stocks",
    "type": "dividend",
@@ -3855,21 +3913,6 @@
    "tickers": []
   },
   {
-   "id": "cfaf80687759",
-   "title": "Stripe, Advent offer to buy PayPal for more than $53 billion: Reuters",
-   "link": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html",
-   "summary": "Stripe and Advent International have made a joint offer to acquire PayPal Holdings Inc for $60.50 per share, in a deal that would value the payments company at more than $53 billion.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-15T05:04:46+00:00",
-   "tickers": [
-    "PYPL"
-   ]
-  },
-  {
    "id": "ffe68bb975ca",
    "title": "ASML beats top-line and bottom-line estimates; gives Q3 and raises FY2026 outlook",
    "link": "https://seekingalpha.com/news/4613825-asml-beats-top-line-and-bottom-line-estimates-gives-q3-and-raises-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -4659,7 +4702,7 @@
   },
   {
    "id": "34b6111a3943",
-   "title": "The race to break China’s metals grip",
+   "title": "The global minerals arms race",
    "link": "https://www.ft.com/content/a5018a00-0f96-4b39-b82f-c4ccd5e929f7",
    "summary": "Beijing’s export controls on rare earths and other niche metals are distorting markets and fuelling resource nationalism",
    "source": "FT Companies",
@@ -8172,45 +8215,6 @@
     "PNR",
     "NWSA"
    ]
-  },
-  {
-   "id": "dad2f1a57fea",
-   "title": "Pollution from Musk’s unpermitted xAI power project hits hardest in Black communities",
-   "link": "https://www.investing.com/news/stock-market-news/pollution-from-musks-unpermitted-xai-power-project-hits-hardest-in-black-communities-4790181",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-14T22:07:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1c6e7d5ee117",
-   "title": "Sandbox VR Continues to Expand Across Colorado with a New Denver Venue",
-   "link": "https://www.prnewswire.com/news-releases/sandbox-vr-continues-to-expand-across-colorado-with-a-new-denver-venue-302825677.html",
-   "summary": "Sandbox VR brings the 'best virtual reality experience on the planet' to Denver DENVER, July 14, 2026 /PRNewswire/ -- Sandbox VR, the world's premier destination for premium location-based virtual reality experiences, has opened its newest location in Denver, Colorado. The location in the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-07-14T22:06:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eb99907f827a",
-   "title": "U.S. crude stockpiles fell 564K barrels last week, API says",
-   "link": "https://seekingalpha.com/news/4613790-u-s-crude-stockpiles-fell-564k-barrels-last-week-api-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-14T22:05:04+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8264,6 +8268,7 @@
   "MSTR": "MicroStrategy",
   "ASML": "ASML Holding",
   "STT": "State Street",
+  "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
   "ARM": "Arm Holdings",
   "BYD": "Boyd Gaming",
