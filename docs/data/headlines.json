@@ -1,8 +1,66 @@
 {
- "generated": "2026-07-15T04:17:28.938489+00:00",
+ "generated": "2026-07-15T04:22:35.597195+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "071eeff792cc",
+   "title": "Stock futures rise as soft inflation reading lifts market: Live updates",
+   "link": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
+   "summary": "Stocks climbed Tuesday after a cooler-than-expected inflation report bolstered hopes that the Fed may not need to raise interest rates as aggressively.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-07-15T04:17:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ea2dff95dd86",
+   "title": "Liberty Energy declares $0.09 dividend",
+   "link": "https://seekingalpha.com/news/4613808-liberty-energy-declares-0_09-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-15T04:15:11+00:00",
+   "tickers": [
+    "LBRT"
+   ]
+  },
+  {
+   "id": "8869a38904af",
+   "title": "International Paper declares $0.4625 dividend",
+   "link": "https://seekingalpha.com/news/4613807-international-paper-declares-0_4625-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-15T04:15:03+00:00",
+   "tickers": [
+    "IP"
+   ]
+  },
+  {
+   "id": "f2b514211773",
+   "title": "State Street raises dividend by 10% to $0.92 per share",
+   "link": "https://seekingalpha.com/news/4613806-state-street-declares-0_92-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-15T04:14:54+00:00",
+   "tickers": [
+    "STT"
+   ]
+  },
   {
    "id": "cc4ea759be81",
    "title": "Stripe and Advent offer to buy PayPal for $53B, Reuters reports",
@@ -198,19 +256,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-15T03:54:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "071eeff792cc",
-   "title": "Stock futures rise as soft inflation reading lifts market: Live updates",
-   "link": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
-   "summary": "Stocks climbed Tuesday after a cooler-than-expected inflation report bolstered hopes that the Fed may not need to raise interest rates as aggressively.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-07-15T03:54:26+00:00",
    "tickers": []
   },
   {
@@ -8368,51 +8413,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "0f9c1e793361",
-   "title": "USANA Schedules Second Quarter 2026 Earnings Release and Conference Call | USNA Stock News",
-   "link": "https://www.stocktitan.net/news/USNA/usana-schedules-second-quarter-2026-earnings-release-and-conference-j0i3k84y5gxd.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-14T20:15:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "baf37cb62526",
-   "title": "Gladstone Capital Announces Monthly Cash Distributions for July, August and September 2026 and Conference Call Date | GLAD Stock News",
-   "link": "https://www.stocktitan.net/news/GLAD/gladstone-capital-announces-monthly-cash-distributions-for-july-rtlznpaywdol.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-14T20:15:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "9ecffb7a8adf",
-   "title": "Gladstone Land Announces Monthly Cash Distributions for July, August and September 2026 and Earnings Release and Conference Call Dates for the Second Quarter Ended June 30, 2026 | LAND Stock News",
-   "link": "https://www.stocktitan.net/news/LAND/gladstone-land-announces-monthly-cash-distributions-for-july-august-xc888w0ma1la.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-14T20:15:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8442,6 +8442,7 @@
   "STZ": "Constellation Brands",
   "APGE": "Apogee Therapeutics",
   "FIX": "Comfort Systems USA",
+  "IP": "International Paper",
   "SRAD": "Sportradar Group AG",
   "VSNT": "Versant Media Group",
   "ZM": "Zoom Communications",
