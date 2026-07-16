@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-16T00:22:36.855539+00:00",
+ "generated": "2026-07-16T00:27:09.028546+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0ca4324346b2",
+   "title": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt",
+   "link": "https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories",
+   "summary": "Shares of the trucking giant jump 8% after hours, as fuel charges and demand for its railroad-connection business lift results",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-07-16T00:22:00+00:00",
+   "tickers": []
+  },
   {
    "id": "efefe1e7780a",
    "title": "Clinicians Are Adopting AI to Solve the Documentation Crisis, New Global Survey Finds",
@@ -15,6 +28,21 @@
    "domain": "prnewswire.com",
    "published": "2026-07-16T00:19:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "ed560db9e952",
+   "title": "Eli Lilly in talks to buy psychedelic drugmaker AtaiBeckley - Bloomberg",
+   "link": "https://www.investing.com/news/stock-market-news/eli-lilly-in-talks-to-buy-psychedelic-drugmaker-ataibeckley--bloomberg-4794556",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-16T00:17:57+00:00",
+   "tickers": [
+    "LLY"
+   ]
   },
   {
    "id": "994af86f364d",
@@ -305,7 +333,7 @@
   },
   {
    "id": "79c73ddf657b",
-   "title": "Oil stockpiles close to running on empty as Hormuz shuts again, traders warn",
+   "title": "Oil stockpiles running dangerously low as Hormuz shuts again, traders warn",
    "link": "https://seekingalpha.com/news/4614322-oil-stockpiles-close-to-running-on-empty-as-hormuz-shuts-again-traders-warn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
    "summary": "",
    "source": "Seeking Alpha M&A",
@@ -537,19 +565,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "0ca4324346b2",
-   "title": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt",
-   "link": "https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories",
-   "summary": "Shares of the trucking giant jump 8% after hours, as fuel charges and demand for its railroad-connection business lift results",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-07-15T23:34:00+00:00",
-   "tickers": []
   },
   {
    "id": "4e590e047ecc",
@@ -8550,21 +8565,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "9a946fc75b32",
-   "title": "American Tungsten Corp. Announces Results of Annual General and Special Meeting of Shareholders and Provides Management Update | TUNGF Stock News",
-   "link": "https://www.stocktitan.net/news/TUNGF/american-tungsten-corp-announces-results-of-annual-general-and-1aq7y07dc8yh.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-15T20:05:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8643,6 +8643,7 @@
   "FHN": "First Horizon",
   "FTAI": "FTAI Aviation",
   "KO": "The Coca-Cola",
+  "LLY": "Eli Lilly and",
   "OC": "Owens Corning",
   "SGML": "Sigma Lithium",
   "MSTR": "MicroStrategy",
