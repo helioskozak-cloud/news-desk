@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T00:02:43.492863+00:00",
+ "generated": "2026-07-16T00:07:22.129665+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,21 @@
    "domain": "prnewswire.com",
    "published": "2026-07-16T00:01:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "8d94f12d2923",
+   "title": "PayPal: Gotta Raise The Bid",
+   "link": "https://seekingalpha.com/article/4922434-paypal-gotta-raise-the-bid?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-16T00:00:53+00:00",
+   "tickers": [
+    "PYPL"
+   ]
   },
   {
    "id": "9d49fb5a7d71",
@@ -54,6 +69,19 @@
    "type": "legal",
    "sentiment": "negative",
    "domain": "prnewswire.com",
+   "published": "2026-07-16T00:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fcc1759c059f",
+   "title": "‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?",
+   "link": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
+   "summary": "“Since her death, her bank balance fell to $9,000 from $16,000.”",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "marketwatch.com",
    "published": "2026-07-16T00:00:00+00:00",
    "tickers": []
   },
@@ -600,6 +628,19 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-07-15T23:07:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ec4b2a8f92f8",
+   "title": "US Mint will produce $1 coin with Trump’s image, Treasury Secretary says",
+   "link": "https://www.investing.com/news/forex-news/us-mint-will-produce-1-coin-with-trumps-image-treasury-secretary-says-4794441",
+   "summary": "",
+   "source": "Investing Forex",
+   "category": "fx",
+   "type": "fx",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-15T23:07:38+00:00",
    "tickers": []
   },
   {
@@ -2327,19 +2368,6 @@
    "tickers": [
     "LCID"
    ]
-  },
-  {
-   "id": "ec4b2a8f92f8",
-   "title": "US Mint will produce $1 coin with Trump’s image, Treasury Secretary says",
-   "link": "https://www.investing.com/news/forex-news/us-mint-will-produce-1-coin-with-trumps-image-treasury-secretary-says-4794441",
-   "summary": "",
-   "source": "Investing Forex",
-   "category": "fx",
-   "type": "fx",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-15T21:31:15+00:00",
-   "tickers": []
   },
   {
    "id": "451cf1b6b23b",
@@ -8544,34 +8572,6 @@
    "tickers": [
     "TOL"
    ]
-  },
-  {
-   "id": "6a0fa1b50c2d",
-   "title": "[Communiqué de presse] iliad SA émet avec succès un emprunt obligataire de 650 millions d’euros",
-   "link": "https://www.globenewswire.com/news-release/2026/07/15/3328096/0/fr/Communiqu%C3%A9-de-presse-iliad-SA-%C3%A9met-avec-succ%C3%A8s-un-emprunt-obligataire-de-650-millions-d-euros.html",
-   "summary": "COMMUNIQUE DE PRESSE",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-15T20:02:00+00:00",
-   "tickers": [
-    "DE"
-   ]
-  },
-  {
-   "id": "d5b80b0e9b9b",
-   "title": "Fed reports economic expansion with mixed inflation signals",
-   "link": "https://www.investing.com/news/economy-news/fed-reports-economic-expansion-with-mixed-inflation-signals-93CH-4794136",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-15T20:01:03+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8665,7 +8665,6 @@
   "LFUS": "Littelfuse",
   "MOS": "The Mosaic",
   "MSFT": "Office 365",
-  "DE": "John Deere",
   "PARA": "Paramount+",
   "AL": "Air Lease",
   "BLK": "BlackRock",
