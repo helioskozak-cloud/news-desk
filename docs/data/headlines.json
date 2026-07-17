@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-17T01:12:33.854779+00:00",
+ "generated": "2026-07-17T01:17:24.725690+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c6c2b2c867ed",
+   "title": "Trump suspends teleprompter operator over Kalshi bets allegations, White House says",
+   "link": "https://www.cnbc.com/2026/07/16/trump-kalshi-teleprompter-cftc-investigation.html",
+   "summary": "Kalshi retained most of the profits, which were more than $90,000, from the trades made on public statements by President Trump.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-07-17T01:11:29+00:00",
+   "tickers": []
+  },
   {
    "id": "abe12a8c2374",
    "title": "Trump is set to deliver an election-focused national address tonight. Here's what to know",
@@ -15,6 +28,21 @@
    "domain": "cnbc.com",
    "published": "2026-07-17T01:10:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "93002b658e0a",
+   "title": "SoftBank sinks 8% as Japanese chip stocks track Wall Street AI sell-off",
+   "link": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
+   "summary": "Japanese AI-linked stocks tumbled as a fresh rout in U.S. semiconductor shares spread across Asia after Taiwan Semiconductor Manufacturing's outlook failed to reassure investors.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-07-17T01:07:37+00:00",
+   "tickers": [
+    "TSM"
+   ]
   },
   {
    "id": "b3e74c26db2f",
@@ -8509,38 +8537,11 @@
    "tickers": [
     "NDAQ"
    ]
-  },
-  {
-   "id": "f70ed0bdb2de",
-   "title": "GSI Technology to Announce Fiscal First Quarter 2027 Results on July 30, 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/07/16/3328796/0/en/GSI-Technology-to-Announce-Fiscal-First-Quarter-2027-Results-on-July-30-2026.html",
-   "summary": "SUNNYVALE, Calif., July 16, 2026 (GLOBE NEWSWIRE) -- GSI Technology, Inc. (Nasdaq: GSIT), the inventor of the Associative Processing Unit (APU), a paradigm shift in artificial intelligence (AI) and high-performance compute processing, providing true compute-in-memory technology, will announce financial results for its fiscal first quarter 2027 ended June 30, 2026 after the market close on Thursday, July 30, 2026. Management will also conduct a conference call to review the Company's first quarte",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-16T20:05:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "62dd35d76d35",
-   "title": "SPS Commerce Announces Date of Second Quarter 2026 Financial Results",
-   "link": "https://www.globenewswire.com/news-release/2026/07/16/3328797/12398/en/SPS-Commerce-Announces-Date-of-Second-Quarter-2026-Financial-Results.html",
-   "summary": "MINNEAPOLIS, July 16, 2026 (GLOBE NEWSWIRE) -- SPS Commerce, Inc. (NASDAQ: SPSC), the leading intelligent supply chain network, today announced that it will issue its financial results for the second quarter ended June 30, 2026, after the market close on Thursday, July 30, 2026. SPS Commerce will host a call to discuss the results at 3:30 p.m. Central Time (4:30 p.m. Eastern Time) on the same day.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-16T20:05:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "FIS": "Fidelity National Information Services",
+  "TSM": "Taiwan Semiconductor Manufacturing",
   "IBM": "International Business Machines",
   "PEG": "Public Service Enterprise Group",
   "BJ": "BJ's Wholesale Club Holdings",
