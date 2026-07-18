@@ -1,8 +1,36 @@
 {
- "generated": "2026-07-18T22:17:30.294788+00:00",
+ "generated": "2026-07-18T22:22:32.748249+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "66d89aa1d329",
+   "title": "Madison Square Garden Sues Wired Magazine Over L.G.B.T.Q. Tracking Report",
+   "link": "https://www.nytimes.com/2026/07/18/business/media/msg-entertainment-sues-wired-magazine.html",
+   "summary": "The Manhattan venue claims a July article from the technology magazine falsely implied that it tracked information about some celebrities’ sexual orientation for “discriminatory purposes.”",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-07-18T22:14:32+00:00",
+   "tickers": [
+    "SQ"
+   ]
+  },
+  {
+   "id": "f00d0c538fbc",
+   "title": "Cuban dissident artist arrives in US after five years in prison, Rubio says",
+   "link": "https://www.investing.com/news/world-news/cuban-dissident-artist-arrives-in-us-after-five-years-in-prison-rubio-says-4799680",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-18T22:12:28+00:00",
+   "tickers": []
+  },
   {
    "id": "bef3e5c68f88",
    "title": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
@@ -30,6 +58,19 @@
    "tickers": []
   },
   {
+   "id": "caad628af0eb",
+   "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, US WARN notice says",
+   "link": "https://www.investing.com/news/stock-market-news/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says-4799679",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-07-18T22:00:30+00:00",
+   "tickers": []
+  },
+  {
    "id": "9394ff76685a",
    "title": "3 AI Stocks That Can Outperform Nvidia Next Year",
    "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-outperform-nvidia-215600814.html",
@@ -43,19 +84,17 @@
    "tickers": []
   },
   {
-   "id": "66d89aa1d329",
-   "title": "Madison Square Garden Sues Wired Magazine Over L.G.B.T.Q. Tracking Report",
-   "link": "https://www.nytimes.com/2026/07/18/business/media/msg-entertainment-sues-wired-magazine.html",
-   "summary": "The Manhattan venue claims a July article from the technology magazine falsely implied that it tracked information about some celebrities’ sexual orientation for “discriminatory purposes.”",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
+   "id": "2e0e2ed67f35",
+   "title": "KOSPI earnings are better. So why are stocks falling harder?",
+   "link": "https://www.investing.com/news/stock-market-news/kospi-earnings-are-better-so-why-are-stocks-falling-harder-4799678",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-07-18T21:53:27+00:00",
-   "tickers": [
-    "SQ"
-   ]
+   "domain": "investing.com",
+   "published": "2026-07-18T21:52:41+00:00",
+   "tickers": []
   },
   {
    "id": "78de7fec9233",
@@ -8269,47 +8308,6 @@
     "GME",
     "EBAY"
    ]
-  },
-  {
-   "id": "03e4676e630a",
-   "title": "Form 4 Cloudflare Inc For: 17 July",
-   "link": "https://www.investing.com/news/filings/form-4-cloudflare-inc-for-17-july-93CH-4799463",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-17T23:11:43+00:00",
-   "tickers": [
-    "NET"
-   ]
-  },
-  {
-   "id": "705c42331e62",
-   "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say",
-   "link": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
-   "summary": "The Trump administration is taking steps to control who gets access to the latest frontier models, people familiar with the matter told CNBC.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-17T23:10:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c69dbcc64e16",
-   "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
-   "link": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
-   "summary": "The smoke coming from active wildfires in Canada has led to unhealthy air quality in swaths of the U.S., which could affect the World Cup final in New Jersey.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-17T23:08:24+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8389,7 +8387,6 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "NEE": "NextEra Energy",
-  "NET": "Cloudflare Inc",
   "AVAV": "AeroVironment",
   "JOBY": "Joby Aviation",
   "LLY": "Eli Lilly and",
