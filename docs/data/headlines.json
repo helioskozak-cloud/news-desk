@@ -1,8 +1,64 @@
 {
- "generated": "2026-07-18T10:11:57.451491+00:00",
+ "generated": "2026-07-18T10:17:43.111502+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "16e1cf17fe14",
+   "title": "US data center protests go national as backlash grows",
+   "link": "https://www.investing.com/news/stock-market-news/us-data-center-protests-go-national-as-backlash-grows-4799582",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-18T10:12:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a11287d9c635",
+   "title": "ManpowerGroup: The Recovery Can Now Support Earnings Growth (Rating Upgrade)",
+   "link": "https://seekingalpha.com/article/4923212-manpowergroup-the-recovery-can-now-support-earnings-growth-rating-upgrade?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-18T10:11:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f56fb77b7329",
+   "title": "Assembly Biosciences: A Gilead-Backed Antiviral Option With More Embedded Leverage Than The Market Appreciates",
+   "link": "https://seekingalpha.com/article/4923211-assembly-biosciences-a-gilead-backed-antiviral-option-with-more-embedded-leverage-than-the-market-appreciates?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-18T10:10:34+00:00",
+   "tickers": [
+    "GILD"
+   ]
+  },
+  {
+   "id": "76aa7c910e26",
+   "title": "Intuitive Surgical Is Getting Punished For No Good Reason",
+   "link": "https://seekingalpha.com/article/4923210-intuitive-surgical-is-getting-punished-for-no-good-reason?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-18T10:09:58+00:00",
+   "tickers": [
+    "ISRG"
+   ]
+  },
   {
    "id": "1b11250fa6ee",
    "title": "Best AI Design Tools (2026): CapCut Named a Top Choice for Creating Images and Marketing Assets by Software Experts",
@@ -8376,62 +8432,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-17T19:30:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "1a25ebc892d8",
-   "title": "Oil Prices Rise to Highest Level in a Month as Shipping in the Persian Gulf Nears a Halt",
-   "link": "https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html",
-   "summary": "Shipping traffic was at its lowest level in more than a month and oil prices moved higher as the Iran war continued to disrupt the supply of energy.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-07-17T19:28:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2ba5941a8d8c",
-   "title": "3M upgraded to Overweight at J.P. Morgan as growth seen taking hold",
-   "link": "https://seekingalpha.com/news/4615026-3m-upgraded-to-overweight-at-jp-morgan-as-growth-seen-taking-hold?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-17T19:27:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9757daa4463a",
-   "title": "Autoliv reiterates 2026 10.5%-11% margin outlook while planning $40M annual pretax savings from Turkey closure",
-   "link": "https://seekingalpha.com/news/4615031-autoliv-reiterates-2026-10_5-percentminus-11-percent-margin-outlook-while-planning-40m-annual?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-17T19:26:59+00:00",
-   "tickers": [
-    "ALV"
-   ]
-  },
-  {
-   "id": "8982778a3569",
-   "title": "Autoliv, Inc. 2026 Q2 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4923127-autoliv-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-17T19:26:54+00:00",
-   "tickers": [
-    "ALV"
-   ]
   }
  ],
  "ticker_names": {
@@ -8482,6 +8482,7 @@
   "JPM": "JPMorgan Chase &",
   "BAC": "Bank of America",
   "CI": "The Cigna Group",
+  "GILD": "Gilead Sciences",
   "PYPL": "PayPal Holdings",
   "WGS": "GeneDx Holdings",
   "META": "Meta Platforms",
@@ -8523,7 +8524,6 @@
   "NI": "NiSource",
   "PLD": "Prologis",
   "RTX": "Raytheon",
-  "ALV": "Autoliv",
   "DBX": "Dropbox",
   "KVYO": "Klaviyo",
   "LINE": "Lineage",
