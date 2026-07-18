@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T19:37:07.965182+00:00",
+ "generated": "2026-07-18T19:42:29.645253+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,35 @@
    "sentiment": "negative",
    "domain": "cnbc.com",
    "published": "2026-07-18T19:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "95846001976f",
+   "title": "JPMorgan Chase CEO Jamie Dimon Thinks AI Spending Is Going to Reach $1 Trillion Next Year",
+   "link": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-chase-ceo-jamie-dimon-192300766.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-18T19:23:00+00:00",
+   "tickers": [
+    "JPM",
+    "JIRE"
+   ]
+  },
+  {
+   "id": "80476e150f91",
+   "title": "SpaceX Is in Talks on a Multibillion Dollar Defense Contract. Here Is What It Means for Investors",
+   "link": "https://finance.yahoo.com/technology/ai/articles/spacex-talks-multibillion-dollar-defense-192001719.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-18T19:20:01+00:00",
    "tickers": []
   },
   {
@@ -86,6 +115,22 @@
    "domain": "finance.yahoo.com",
    "published": "2026-07-18T19:13:41+00:00",
    "tickers": []
+  },
+  {
+   "id": "eb8275d15033",
+   "title": "Bank of America sends strong verdict on Microsoft stock",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-strong-verdict-191300518.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-18T19:13:00+00:00",
+   "tickers": [
+    "BAC",
+    "MSFT"
+   ]
   },
   {
    "id": "ff313ede4fc5",
@@ -1776,7 +1821,7 @@
    "title": "Bitmine Immersion Technologies (BMNR) pubblica il messaggio di luglio del Presidente: \"ETH è la cura per la 'Valle perturbante della ricchezza'\"",
    "link": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-pubblica-il-messaggio-di-luglio-del-presidente-eth-e-la-cura-per-la-valle-perturbante-della-ricchezza-302829016.html",
    "summary": "Bitmine possiede il 4,8% dell'offerta totale di ETH pari a 120,7 milioni Bitmine ha raggiunto il 96% dell'obiettivo \"Alchemy of 5%\" in soli 12 mesi Bitmine è stata aggiunta all'indice Russell 1000 Large-cap il 26 giugno 2026 Le azioni privilegiate di Serie A di Bitmine saranno negoziate...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8268,47 +8313,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "61987728a547",
-   "title": "Pudu Robotics wurde von Frost &amp; Sullivan in vier Bereichen der gewerblichen Servicerobotik weltweit auf Platz 1 eingestuft",
-   "link": "https://www.prnewswire.com/news-releases/pudu-robotics-wurde-von-frost--sullivan-in-vier-bereichen-der-gewerblichen-servicerobotik-weltweit-auf-platz-1-eingestuft-302828885.html",
-   "summary": "Der Marktbericht „Independent 2025\" würdigt Pudu Robotics als weltweit führendes chinesisches Unternehmen in den Bereichen Umsatz und Auslieferungen bei gewerblichen Servicerobotern, internationale Expansion sowie Umsatz bei gewerblichen Reinigungsrobotern. SHENZHEN, China, 18. Juli 2026...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-17T22:29:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d374a9f9b2b9",
-   "title": "Kratos Defense president Phillip Carrai sells $329,105 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/kratos-defense-president-phillip-carrai-sells-329105-in-stock-93CH-4799432",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-17T22:28:01+00:00",
-   "tickers": [
-    "KTOS"
-   ]
-  },
-  {
-   "id": "d2f85676adab",
-   "title": "Form 144 RADCOM LTD For: 17 July",
-   "link": "https://www.investing.com/news/filings/form-144-radcom-ltd-for-17-july-93CH-4799431",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-17T22:27:15+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8377,6 +8381,7 @@
   "GTLS": "Chart Industries",
   "JPM": "JPMorgan Chase &",
   "WM": "Waste Management",
+  "BAC": "Bank of America",
   "GILD": "Gilead Sciences",
   "LMT": "Lockheed Martin",
   "PYPL": "PayPal Holdings",
