@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-18T22:22:32.748249+00:00",
+ "generated": "2026-07-18T22:27:25.178354+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "415a3d35fb72",
+   "title": "Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace deal",
+   "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
+   "summary": "U.S. Central Command says it continues to enforce a naval blockade against Iran, while Kuwait and Bahrain say they have intercepted more Iranian projectiles.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-18T22:21:24+00:00",
+   "tickers": []
+  },
   {
    "id": "66d89aa1d329",
    "title": "Madison Square Garden Sues Wired Magazine Over L.G.B.T.Q. Tracking Report",
@@ -42,19 +55,6 @@
    "sentiment": "negative",
    "domain": "cnbc.com",
    "published": "2026-07-18T22:04:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "415a3d35fb72",
-   "title": "Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace deal",
-   "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
-   "summary": "U.S. Central Command says it continues to enforce a naval blockade against Iran, while Kuwait and Bahrain say they have intercepted more Iranian projectiles.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-18T22:01:48+00:00",
    "tickers": []
   },
   {
@@ -208,6 +208,19 @@
    ]
   },
   {
+   "id": "e8f6563d28c8",
+   "title": "Best States for Retirees Who Want to Avoid Paying State Taxes on Retirement Income",
+   "link": "https://finance.yahoo.com/real-estate/articles/best-states-retirees-want-avoid-210500458.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-18T21:05:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "b5e1c1e64c62",
    "title": "La campagne essential COSTA RICA propose des produits agricoles costaricains à des millions de consommateurs européens",
    "link": "https://www.prnewswire.com/news-releases/la-campagne-essential-costa-rica-propose-des-produits-agricoles-costaricains-a-des-millions-de-consommateurs-europeens-302829077.html",
@@ -337,7 +350,7 @@
   },
   {
    "id": "6f6ee041b905",
-   "title": "Company behind five cosmetic brands files Chapter 11 bankruptcy",
+   "title": "Popular Korean cosmetics company files Chapter 11 bankruptcy",
    "link": "https://finance.yahoo.com/small-business/articles/popular-cosmetics-company-files-chapter-201459549.html",
    "summary": "",
    "source": "Yahoo Finance",
@@ -346,7 +359,9 @@
    "sentiment": "negative",
    "domain": "finance.yahoo.com",
    "published": "2026-07-18T20:14:59+00:00",
-   "tickers": []
+   "tickers": [
+    "BPOP"
+   ]
   },
   {
    "id": "a763eecb942c",
@@ -8292,22 +8307,6 @@
    "domain": "investing.com",
    "published": "2026-07-17T23:12:45+00:00",
    "tickers": []
-  },
-  {
-   "id": "0944aaf47916",
-   "title": "GameStop owns nearly 10% of eBay, SEC filing shows",
-   "link": "https://www.investing.com/news/stock-market-news/gamestop-owns-nearly-10-of-ebay-sec-filing-shows-4799464",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-17T23:12:30+00:00",
-   "tickers": [
-    "GME",
-    "EBAY"
-   ]
   }
  ],
  "ticker_names": {
@@ -8431,6 +8430,7 @@
   "RS": "Reliance",
   "SQ": "Cash App",
   "BLSH": "Bullish",
+  "BPOP": "Popular",
   "CVX": "Chevron",
   "KVYO": "Klaviyo",
   "LIF": "Life360",
