@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T15:32:01.708886+00:00",
+ "generated": "2026-07-18T15:37:07.985302+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -45,6 +45,21 @@
    "tickers": []
   },
   {
+   "id": "4bfe1f75a027",
+   "title": "Tesla face 3 major headwinds heading into earnings report",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-face-3-major-headwinds-151700908.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-18T15:17:00+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
    "id": "b9123749c338",
    "title": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
    "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
@@ -56,6 +71,22 @@
    "domain": "marketwatch.com",
    "published": "2026-07-18T15:14:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "e2d416caeb0a",
+   "title": "Forget EWZ. Franklin’s Brazil Twin Charges Two-Thirds Less, and It’s Up 30% This Year",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-ewz-franklin-brazil-twin-151130657.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-18T15:11:30+00:00",
+   "tickers": [
+    "BEN",
+    "EWZ"
+   ]
   },
   {
    "id": "49c9a8b8b275",
@@ -99,6 +130,19 @@
    "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-07-18T15:08:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8a0a061e5dae",
+   "title": "The Portfolio That Gives You a $2,000 Raise Every Year",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/portfolio-gives-2-000-raise-150801902.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-18T15:08:01+00:00",
    "tickers": []
   },
   {
@@ -8296,51 +8340,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-17T20:50:44+00:00",
    "tickers": []
-  },
-  {
-   "id": "516572ca8abb",
-   "title": "Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers",
-   "link": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html",
-   "summary": "Risk is rising as big tech companies like Oracle — the ultimate financial source of the Ellison media empire — need to turn to the bond market for staggering sums to finance data centers.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-07-17T20:50:32+00:00",
-   "tickers": [
-    "ORCL"
-   ]
-  },
-  {
-   "id": "50e997efe20a",
-   "title": "U.S. drilling rig count rises again in Baker Hughes survey",
-   "link": "https://seekingalpha.com/news/4615066-u-s-drilling-rig-count-rises-again-in-baker-hughes-survey?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-17T20:50:08+00:00",
-   "tickers": [
-    "BKR"
-   ]
-  },
-  {
-   "id": "b5de46bb9bd0",
-   "title": "Trenchant Technologies Capital Corp. Announces Delay of Annual Filings and Application for MCTO Application | AITTF Stock News",
-   "link": "https://www.stocktitan.net/news/AITTF/trenchant-technologies-capital-corp-announces-delay-of-annual-dreuwguoa6kd.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-17T20:50:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8369,6 +8368,7 @@
   "ICE": "Intercontinental Exchange",
   "IWM": "iShares Russell 2000 ETF",
   "SMH": "VanEck Semiconductor ETF",
+  "EWZ": "iShares MSCI Brazil ETF",
   "GS": "The Goldman Sachs Group",
   "INSP": "Inspire Medical Systems",
   "RCL": "Royal Caribbean Cruises",
@@ -8384,6 +8384,7 @@
   "FIX": "Comfort Systems USA",
   "LULU": "lululemon athletica",
   "VKTX": "Viking Therapeutics",
+  "BEN": "Franklin Resources",
   "IBN": "ICICI Bank Limited",
   "ISRG": "Intuitive Surgical",
   "PSKY": "Paramount Skydance",
@@ -8417,7 +8418,6 @@
   "SMR": "NuScale Power",
   "MSTR": "MicroStrategy",
   "ASML": "ASML Holding",
-  "BKR": "Baker Hughes",
   "STT": "State Street",
   "UBS": "UBS Group AG",
   "Z": "Zillow Group",
