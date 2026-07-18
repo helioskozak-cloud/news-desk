@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T22:57:16.959416+00:00",
+ "generated": "2026-07-18T23:02:13.149868+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,8 +13,38 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-07-18T22:46:36+00:00",
+   "published": "2026-07-18T22:57:34+00:00",
    "tickers": []
+  },
+  {
+   "id": "ecafe6b57687",
+   "title": "Thunderstorms will clear wildfire smoke from Northeast ahead of World Cup final, meteorologists say",
+   "link": "https://www.cnbc.com/2026/07/18/storms-will-clear-wildfire-smoke-from-northeast-ahead-of-world-cup-final.html",
+   "summary": "At MetLife Stadium, where the World Cup final is scheduled to take place, the sky was a thick, soupy gray even after a drenching thunderstorm.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-18T22:55:26+00:00",
+   "tickers": [
+    "MET"
+   ]
+  },
+  {
+   "id": "66d89aa1d329",
+   "title": "Madison Square Garden Sues Wired Magazine Over L.G.B.T.Q. Tracking Report",
+   "link": "https://www.nytimes.com/2026/07/18/business/media/msg-entertainment-sues-wired-magazine.html",
+   "summary": "The Manhattan venue claims a July article from the technology magazine falsely implied that it tracked information about some celebrities’ sexual orientation for “discriminatory purposes.”",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-07-18T22:53:29+00:00",
+   "tickers": [
+    "SQ"
+   ]
   },
   {
    "id": "9de79ada2b8d",
@@ -27,6 +57,19 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-07-18T22:43:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "caad628af0eb",
+   "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
+   "link": "https://www.investing.com/news/stock-market-news/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says-4799679",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-07-18T22:42:26+00:00",
    "tickers": []
   },
   {
@@ -93,34 +136,6 @@
    "domain": "investing.com",
    "published": "2026-07-18T22:18:44+00:00",
    "tickers": []
-  },
-  {
-   "id": "caad628af0eb",
-   "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
-   "link": "https://www.investing.com/news/stock-market-news/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says-4799679",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-07-18T22:18:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "66d89aa1d329",
-   "title": "Madison Square Garden Sues Wired Magazine Over L.G.B.T.Q. Tracking Report",
-   "link": "https://www.nytimes.com/2026/07/18/business/media/msg-entertainment-sues-wired-magazine.html",
-   "summary": "The Manhattan venue claims a July article from the technology magazine falsely implied that it tracked information about some celebrities’ sexual orientation for “discriminatory purposes.”",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-07-18T22:14:32+00:00",
-   "tickers": [
-    "SQ"
-   ]
   },
   {
    "id": "f00d0c538fbc",
@@ -8289,19 +8304,6 @@
    "domain": "investing.com",
    "published": "2026-07-17T23:16:01+00:00",
    "tickers": []
-  },
-  {
-   "id": "324c9d6888c4",
-   "title": "Opaleye management sells $1.06m in Eton Pharmaceuticals stock",
-   "link": "https://www.investing.com/news/insider-trading-news/opaleye-management-sells-106m-in-eton-pharmaceuticals-stock-93CH-4799465",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-17T23:15:56+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8427,6 +8429,7 @@
   "CVX": "Chevron",
   "KVYO": "Klaviyo",
   "LIF": "Life360",
+  "MET": "MetLife",
   "OSK": "Oshkosh",
   "PODD": "Insulet",
   "RDW": "Redwire",
