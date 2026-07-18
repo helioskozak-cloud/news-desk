@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-18T17:47:23.852343+00:00",
+ "generated": "2026-07-18T17:52:28.841129+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "415a3d35fb72",
+   "title": "Iran supreme leader vows 'unforgettable lessons in store' for U.S. after calling off interim peace agreement",
+   "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
+   "summary": "U.S. Central Command says it continues to enforce a naval blockade against Iran, while Kuwait and Bahrain say they have intercepted more Iranian projectiles.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-18T17:48:22+00:00",
+   "tickers": []
+  },
   {
    "id": "c4fe370b0b8d",
    "title": "Veritone Deadline: VERI Investors Have Opportunity to Lead Veritone, Inc. Securities Fraud Lawsuit",
@@ -30,16 +43,32 @@
    "tickers": []
   },
   {
-   "id": "415a3d35fb72",
-   "title": "Iran supreme leader vows 'unforgettable lessons in store' for U.S. after calling off interim peace agreement",
-   "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
-   "summary": "U.S. Central Command says it continues to enforce a naval blockade against Iran, while Kuwait and Bahrain say they have intercepted more Iranian projectiles.",
-   "source": "CNBC Top",
+   "id": "ebb8af907eb3",
+   "title": "Which Energy ETF Is the Better Buy: State Street's XLE or First Trust's EMLP?",
+   "link": "https://finance.yahoo.com/energy/articles/energy-etf-better-buy-state-173927727.html",
+   "summary": "",
+   "source": "Yahoo Finance",
    "category": "markets",
    "type": "markets",
    "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-18T17:38:50+00:00",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-18T17:39:27+00:00",
+   "tickers": [
+    "STT",
+    "XLE"
+   ]
+  },
+  {
+   "id": "d530a1d843fc",
+   "title": "3 Warren Buffett Quotes You Must Read Before Buying SpaceX Stock",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-warren-buffett-quotes-must-173500892.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-18T17:35:00+00:00",
    "tickers": []
   },
   {
@@ -70,6 +99,19 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-18T17:30:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bf07fa169aa8",
+   "title": "Buy, Sell, or Hold: Ken Griffin’s 3 Mega-Cap Picks at Current Valuations",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-ken-griffin-173000799.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-18T17:30:00+00:00",
    "tickers": []
   },
   {
@@ -8271,45 +8313,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "f9d4e6dd63ff",
-   "title": "DBGI announces 1-for-40 reverse stock split effective July 24",
-   "link": "https://www.investing.com/news/company-news/dbgi-announces-1for40-reverse-stock-split-effective-july-24-93CH-4799338",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-17T21:36:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "554005931f7d",
-   "title": "Form S-1 Alpha Modus Holdings Inc For: 17 July",
-   "link": "https://www.investing.com/news/filings/form-s1-alpha-modus-holdings-inc-for-17-july-93CH-4799337",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-17T21:36:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "43ddef5da62e",
-   "title": "SpaceX down for six-straight days, has lost almost $1 trillion in market cap since peak",
-   "link": "https://www.cnbc.com/video/2026/07/17/spacex-down-for-six-straight-days-has-lost-almost-1-trillion-in-market-cap-since-peak.html",
-   "summary": "The 'Fast Money' traders talk SpaceX's negative trading week.",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-17T21:34:19+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8319,6 +8322,7 @@
   "XLF": "State Street Financial Select Sector SPDR ETF",
   "SOXL": "Direxion Daily Semiconductor Bull 3X Shares",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
+  "XLE": "State Street Energy Select Sector SPDR ETF",
   "IAGG": "iShares International Aggregate Bond Fund",
   "TFLO": "iShares Treasury Floating Rate Bond ETF",
   "VXUS": "Vanguard Total International Stock ETF",
