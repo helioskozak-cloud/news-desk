@@ -1,8 +1,38 @@
 {
- "generated": "2026-07-18T20:27:07.742391+00:00",
+ "generated": "2026-07-18T20:32:27.423282+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "66d89aa1d329",
+   "title": "Madison Square Garden Sues Wired Magazine Over L.G.B.T.Q. Tracking Report",
+   "link": "https://www.nytimes.com/2026/07/18/business/media/msg-entertainment-sues-wired-magazine.html",
+   "summary": "The Manhattan venue claims a July article from the technology magazine falsely implied that it tracked information about some celebrities’ sexual orientation for “discriminatory purposes.”",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-07-18T20:23:18+00:00",
+   "tickers": [
+    "SQ"
+   ]
+  },
+  {
+   "id": "6f6ee041b905",
+   "title": "Popular cosmetics company files for Chapter 11 bankruptcy",
+   "link": "https://finance.yahoo.com/small-business/articles/popular-cosmetics-company-files-chapter-201459549.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-18T20:14:59+00:00",
+   "tickers": [
+    "BPOP"
+   ]
+  },
   {
    "id": "a763eecb942c",
    "title": "27-year-old locksmith spent $7,000 on tools, works around the clock in NYC: 'I'd never held a screwdriver in my life' before starting",
@@ -8283,34 +8313,6 @@
    "domain": "investing.com",
    "published": "2026-07-17T22:43:22+00:00",
    "tickers": []
-  },
-  {
-   "id": "7317e71e4fc2",
-   "title": "Factbox-US companies face rise in cyber attacks",
-   "link": "https://www.investing.com/news/stock-market-news/factboxus-companies-face-rise-in-cyber-attacks-4797809",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-17T22:43:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cf037c085c7a",
-   "title": "Corcept Therapeutics director Wilson sells $882,985 in common stock",
-   "link": "https://www.investing.com/news/insider-trading-news/corcept-therapeutics-director-wilson-sells-882985-in-common-stock-93CH-4799445",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-17T22:42:59+00:00",
-   "tickers": [
-    "CORT"
-   ]
   }
  ],
  "ticker_names": {
@@ -8433,7 +8435,9 @@
   "GOOG": "Alphabet",
   "NNN": "NNN REIT",
   "RS": "Reliance",
+  "SQ": "Cash App",
   "BLSH": "Bullish",
+  "BPOP": "Popular",
   "CVX": "Chevron",
   "KVYO": "Klaviyo",
   "LIF": "Life360",
