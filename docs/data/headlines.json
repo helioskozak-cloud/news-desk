@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-19T16:37:01.634854+00:00",
+ "generated": "2026-07-19T16:42:03.658719+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -20,6 +20,21 @@
    ]
   },
   {
+   "id": "0700fa2fa26e",
+   "title": "Boeing on track for 2028 Air Force One delivery, costs rise",
+   "link": "https://www.investing.com/news/stock-market-news/boeing-on-track-for-2028-air-force-one-delivery-costs-rise-4799730",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-19T16:30:26+00:00",
+   "tickers": [
+    "BA"
+   ]
+  },
+  {
    "id": "b5f37a324400",
    "title": "Universal and Christopher Nolan's 'The Odyssey' sails to $124.5 million opening",
    "link": "https://www.cnbc.com/2026/07/19/the-odyssey-box-office-christopher-nolan-and-universal-opening-weekend.html",
@@ -31,6 +46,36 @@
    "domain": "cnbc.com",
    "published": "2026-07-19T16:28:53+00:00",
    "tickers": []
+  },
+  {
+   "id": "ffccbc99933e",
+   "title": "ICE officers to wear body cameras during vehicle stops, border czar says",
+   "link": "https://www.investing.com/news/world-news/ice-officers-to-wear-body-cameras-during-vehicle-stops-border-czar-says-4799729",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-19T16:24:29+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "ed994918f860",
+   "title": "Rocket Lab's Latest Deal Puts It on a Collision Course With SpaceX",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-labs-latest-deal-puts-162000325.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-19T16:20:00+00:00",
+   "tickers": [
+    "RKLB"
+   ]
   },
   {
    "id": "f4fb9e6c2d51",
@@ -8287,50 +8332,6 @@
    "domain": "investing.com",
    "published": "2026-07-18T12:08:19+00:00",
    "tickers": []
-  },
-  {
-   "id": "c21455d71093",
-   "title": "MSCI: The Index Ecosystem Can Keep Compounding",
-   "link": "https://seekingalpha.com/article/4923229-msci-the-index-ecosystem-can-keep-compounding?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-18T12:05:24+00:00",
-   "tickers": [
-    "MSCI"
-   ]
-  },
-  {
-   "id": "9cb4f1f34772",
-   "title": "Prediction: The Most Important Stock in the Dow Jones Will Issue a 4-for-1 Stock Split Before the End of 2026",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-most-important-stock-dow-120500456.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T12:05:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "300609728f61",
-   "title": "Shopping for Portfolio Security? The iShares Consumer Staples ETF (IYK) Outperforms Invesco Food & Beverage (PBJ) in Cost, Yield, and Performance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/shopping-portfolio-security-ishares-consumer-120301265.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T12:03:01+00:00",
-   "tickers": [
-    "IAGG",
-    "IVZ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8446,6 +8447,7 @@
   "BA": "The Boeing",
   "CRM": "Salesforce",
   "PLUG": "Plug Power",
+  "RKLB": "Rocket Lab",
   "MSFT": "Office 365",
   "AMBA": "Ambarella",
   "BLK": "BlackRock",
@@ -8469,7 +8471,6 @@
   "BPOP": "Popular",
   "CVX": "Chevron",
   "GAP": "The Gap",
-  "IVZ": "Invesco",
   "LIF": "Life360",
   "MET": "MetLife",
   "OSK": "Oshkosh",
@@ -8493,7 +8494,6 @@
   "GRAL": "GRAIL",
   "INTC": "Intel",
   "DAVE": "Dave",
-  "EBAY": "eBay",
-  "MSCI": "MSCI"
+  "EBAY": "eBay"
  }
 }
