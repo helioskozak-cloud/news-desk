@@ -1,8 +1,24 @@
 {
- "generated": "2026-07-19T16:32:26.854539+00:00",
+ "generated": "2026-07-19T16:37:01.634854+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b7c4b95dfa45",
+   "title": "AerCap is said to weigh order for up to 15 Boeing 787s at Farnborough",
+   "link": "https://seekingalpha.com/news/4615125-aercap-is-said-to-weigh-order-for-up-to-15-boeing-787s-at-farnborough?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-19T16:31:04+00:00",
+   "tickers": [
+    "AER",
+    "BA"
+   ]
+  },
   {
    "id": "b5f37a324400",
    "title": "Universal and Christopher Nolan's 'The Odyssey' sails to $124.5 million opening",
@@ -43,6 +59,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-19T16:18:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "ec9d62ccc4cf",
+   "title": "I Can’t Stop Buying Alphabet Because The AI Talent Narrative is Wrong",
+   "link": "https://finance.yahoo.com/technology/ai/articles/t-stop-buying-alphabet-because-161210758.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-19T16:12:10+00:00",
+   "tickers": [
+    "GOOG"
+   ]
   },
   {
    "id": "1a91b85e0e0c",
@@ -8300,34 +8331,6 @@
     "IAGG",
     "IVZ"
    ]
-  },
-  {
-   "id": "345ca41e5fc1",
-   "title": "HDFC Bank Q1 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hdfc-bank-q1-earnings-call-120212543.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T12:02:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b01a484dcada",
-   "title": "Roku CFO Dan Jedda Sells 7,000 Shares for $993,300",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/roku-cfo-dan-jedda-sells-120201095.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T12:02:01+00:00",
-   "tickers": [
-    "ROKU"
-   ]
   }
  ],
  "ticker_names": {
@@ -8402,6 +8405,7 @@
   "OWL": "Blue Owl Capital",
   "WM": "Waste Management",
   "GE": "General Electric",
+  "AER": "AerCap Holdings",
   "ASTS": "AST SpaceMobile",
   "BAC": "Bank of America",
   "COIN": "Coinbase Global",
@@ -8490,7 +8494,6 @@
   "INTC": "Intel",
   "DAVE": "Dave",
   "EBAY": "eBay",
-  "MSCI": "MSCI",
-  "ROKU": "Roku"
+  "MSCI": "MSCI"
  }
 }
