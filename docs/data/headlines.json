@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-19T17:07:04.281001+00:00",
+ "generated": "2026-07-19T17:12:03.991574+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4ed950b95ae5",
+   "title": "At least six dead and 21 injured after 2 earthquakes in Peru",
+   "link": "https://www.investing.com/news/world-news/at-least-six-dead-and-21-injured-after-2-earthquakes-in-peru-4799732",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-19T16:54:30+00:00",
+   "tickers": []
+  },
   {
    "id": "287cf61631bf",
    "title": "Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend",
@@ -14,6 +27,34 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-07-19T16:54:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dc8071655d06",
+   "title": "Should You Invest $5,000 Into Rivian Stock Below $20?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/invest-5-000-rivian-stock-165000449.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-19T16:50:00+00:00",
+   "tickers": [
+    "RIVN"
+   ]
+  },
+  {
+   "id": "48b0da8c82e4",
+   "title": "Bellows withdraws from US Senate race as Maine Democrats regroup",
+   "link": "https://www.investing.com/news/politics-news/bellows-withdraws-from-us-senate-race-as-maine-democrats-regroup-4799731",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-19T16:48:07+00:00",
    "tickers": []
   },
   {
@@ -8276,47 +8317,6 @@
    "tickers": [
     "RCL"
    ]
-  },
-  {
-   "id": "0c970cc0e6b9",
-   "title": "Hims & Hers announces departure of chief accounting officer who helped through its IPO",
-   "link": "https://seekingalpha.com/news/4615099-hims-hers-chief-accounting-officer-departs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-18T12:37:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a7dc3a2cd2bc",
-   "title": "NextEra Energy Plans to Spend $59 Billion in Annual Capex Through 2032. Will This Massive Capital Outlay Pay Dividends for Shareholders?",
-   "link": "https://finance.yahoo.com/energy/articles/nextera-energy-plans-spend-59-123500670.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T12:35:00+00:00",
-   "tickers": [
-    "NEE"
-   ]
-  },
-  {
-   "id": "ec06dbc5b4df",
-   "title": "3 Stocks Under $50 Worth Buying in July",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-worth-123007083.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T12:30:07+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8382,6 +8382,7 @@
   "MOH": "Molina Healthcare",
   "MU": "Micron Technology",
   "POET": "POET Technologies",
+  "RIVN": "Rivian Automotive",
   "UBER": "Uber Technologies",
   "COST": "Costco Wholesale",
   "GTLS": "Chart Industries",
@@ -8402,7 +8403,6 @@
   "GM": "General Motors",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
-  "NEE": "NextEra Energy",
   "PLNT": "Planet Fitness",
   "QBTS": "D-Wave Quantum",
   "AVAV": "AeroVironment",
