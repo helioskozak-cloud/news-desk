@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-19T22:07:12.806793+00:00",
+ "generated": "2026-07-19T22:12:22.861245+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "335e21c39b36",
+   "title": "Stock futures are little changed after Wall Street suffers losing week: Live updates",
+   "link": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
+   "summary": "The three major averages posted weekly losses last week.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-19T22:05:40+00:00",
+   "tickers": []
+  },
   {
    "id": "114eec33a239",
    "title": "How Korean stocks turned from trusty bellwether to AI frenzy",
@@ -137,6 +150,21 @@
    "tickers": [
     "BPOP",
     "XLP"
+   ]
+  },
+  {
+   "id": "9c31b4a774b1",
+   "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+   "link": "https://finance.yahoo.com/technology/ai/articles/netflix-paid-587m-ben-affleck-214500485.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-19T21:45:00+00:00",
+   "tickers": [
+    "NFLX"
    ]
   },
   {
@@ -8298,37 +8326,6 @@
    "tickers": [
     "PLUG"
    ]
-  },
-  {
-   "id": "814f1ad95f84",
-   "title": "Which Aerospace and Defense ETF Is the Better Buy: iShares' ITA or First Trust's MISL?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aerospace-defense-etf-better-buy-151825493.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T15:18:25+00:00",
-   "tickers": [
-    "IAGG",
-    "ITA"
-   ]
-  },
-  {
-   "id": "4bfe1f75a027",
-   "title": "Tesla face 3 major headwinds heading into earnings report",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-face-3-major-headwinds-151700908.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T15:17:00+00:00",
-   "tickers": [
-    "TSLA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8345,7 +8342,6 @@
   "VXUS": "Vanguard Total International Stock ETF",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "VCLT": "Vanguard Long-Term Corporate Bond ETF",
-  "ITA": "iShares U.S. Aerospace & Defense ETF",
   "VT": "Vanguard Total World Stock Index ETF",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "CGDV": "Capital Group Dividend Value ETF",
