@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-19T20:42:01.451394+00:00",
+ "generated": "2026-07-19T20:47:08.220243+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "792aac3cb759",
+   "title": "Russia pounds Kyiv in major ballistic missile attack",
+   "link": "https://www.cnbc.com/2026/07/19/russia-pounds-kyiv-in-major-ballistic-missile-attack.html",
+   "summary": "Powerful explosions thundered across the darkened city in an attack that involved 41 missiles of various types and ravaged buildings across several districts.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-19T20:44:35+00:00",
+   "tickers": []
+  },
   {
    "id": "85696812f242",
    "title": "Justice Department activates untested court for 'alien terrorist' deportations",
@@ -66,6 +79,19 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-19T20:23:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c98409c827d4",
+   "title": "Declare Your Financial Independence!",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/declare-financial-independence-202101624.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-19T20:21:01+00:00",
    "tickers": []
   },
   {
@@ -2330,6 +2356,21 @@
    ]
   },
   {
+   "id": "40d6ffec5234",
+   "title": "Netflix Tanks on Lower Margins and Flat Outlook - Time to Buy NFLX?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-tanks-lower-margins-flat-143002442.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-19T14:30:02+00:00",
+   "tickers": [
+    "NFLX"
+   ]
+  },
+  {
    "id": "01a5a8d785fa",
    "title": "A financial planner explains why splitting your partner's $2,100 mortgage will leave you with nothing. And it's okay",
    "link": "https://finance.yahoo.com/real-estate/articles/financial-planner-explains-why-splitting-143000499.html",
@@ -3033,19 +3074,6 @@
    "sentiment": "negative",
    "domain": "marketwatch.com",
    "published": "2026-07-19T12:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "792aac3cb759",
-   "title": "Russia pounds Kyiv in major ballistic missile attack",
-   "link": "https://www.cnbc.com/2026/07/19/russia-pounds-kyiv-in-major-ballistic-missile-attack.html",
-   "summary": "Powerful explosions thundered across the darkened city in an attack that involved 41 missiles of various types and ravaged buildings across several districts.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-19T12:22:20+00:00",
    "tickers": []
   },
   {
@@ -8298,38 +8326,6 @@
    "domain": "prnewswire.com",
    "published": "2026-07-18T14:31:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "69d6148731de",
-   "title": "Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-tesla-poised-12-143027428.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T14:30:27+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "5e2d608b026d",
-   "title": "Bitcoin Is its Most Affordable in Two Years. Which ETF Is Better to Invest With Now: iShares Bitcoin Trust ETF or VanEck Bitcoin ETF?",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-most-affordable-two-years-143018160.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T14:30:18+00:00",
-   "tickers": [
-    "IBIT",
-    "GBTC",
-    "IAGG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8358,14 +8354,12 @@
   "CRDO": "Credo Technology Group Holding",
   "IWN": "iShares Russell 2000 Value ETF",
   "JCI": "Johnson Controls International",
-  "GBTC": "Grayscale Bitcoin Trust (BTC)",
   "MGK": "Vanguard Mega Cap Growth ETF",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "STX": "Seagate Technology Holdings",
   "FBIN": "Fortune Brands Innovations",
   "HPE": "Hewlett Packard Enterprise",
   "ADP": "Automatic Data Processing",
-  "IBIT": "iShares Bitcoin Trust ETF",
   "ICE": "Intercontinental Exchange",
   "LYB": "LyondellBasell Industries",
   "PFG": "Principal Financial Group",
