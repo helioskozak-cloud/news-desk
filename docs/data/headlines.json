@@ -1,8 +1,53 @@
 {
- "generated": "2026-07-19T19:07:11.436646+00:00",
+ "generated": "2026-07-19T19:12:11.430136+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "6782c26a708b",
+   "title": "Oppenheimer’s ‘best of the best’ momentum list: NVDA, LRCX and more",
+   "link": "https://seekingalpha.com/news/4615130-oppenheimer-s-best-of-the-best-momentum-list-nvda-lrcx-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-19T19:10:05+00:00",
+   "tickers": [
+    "NVDA",
+    "LRCX"
+   ]
+  },
+  {
+   "id": "89a6d49c3a90",
+   "title": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
+   "link": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
+   "summary": "Apple, Amazon, Nvidia and peers are quietly coming back to life, and that could easily jolt this sleepy stock market back into gear.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-07-19T19:06:00+00:00",
+   "tickers": [
+    "AMZN",
+    "AAPL"
+   ]
+  },
+  {
+   "id": "402831412f74",
+   "title": "AI boom keeps stock volatility elevated, but market risks contained: SocGen",
+   "link": "https://seekingalpha.com/news/4615129-ai-boom-keeps-stock-volatility-elevated-but-market-risks-contained-socgen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-19T19:03:08+00:00",
+   "tickers": []
+  },
   {
    "id": "5c0bd1c66bcf",
    "title": "BNY Mellon Appreciation Fund Q2 2026 Commentary",
@@ -2758,22 +2803,6 @@
    "domain": "cnbc.com",
    "published": "2026-07-19T12:00:01+00:00",
    "tickers": []
-  },
-  {
-   "id": "89a6d49c3a90",
-   "title": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
-   "link": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
-   "summary": "Apple, Amazon, Nvidia and peers are quietly coming back to life, and that could easily jolt this sleepy stock market back into gear.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-07-19T12:00:00+00:00",
-   "tickers": [
-    "AMZN",
-    "AAPL"
-   ]
   },
   {
    "id": "609d66d7be18",
@@ -8305,34 +8334,6 @@
    "domain": "cnbc.com",
    "published": "2026-07-18T13:57:16+00:00",
    "tickers": []
-  },
-  {
-   "id": "233aec15e867",
-   "title": "Chevron: Solid Energy Demand Ahead",
-   "link": "https://seekingalpha.com/article/4923240-chevron-solid-energy-demand-ahead?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-18T13:50:46+00:00",
-   "tickers": [
-    "CVX"
-   ]
-  },
-  {
-   "id": "0deae09eb1a6",
-   "title": "Osterweis Capital Management Q3 2026 Equity Outlook",
-   "link": "https://seekingalpha.com/article/4923246-osterweis-capital-management-q3-2026-equity-outlook?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-18T13:50:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8433,12 +8434,14 @@
   "MSTR": "MicroStrategy",
   "ASML": "ASML Holding",
   "DVLT": "Datavault AI",
+  "LRCX": "Lam Research",
   "NBIS": "Nebius Group",
   "R": "Ryder System",
   "STT": "State Street",
   "UUUU": "Energy Fuels",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
+  "NVDA": "Grace Hopper",
   "ARM": "Arm Holdings",
   "CAT": "Caterpillar",
   "XOM": "Exxon Mobil",
@@ -8468,7 +8471,6 @@
   "SQ": "Cash App",
   "BLSH": "Bullish",
   "BPOP": "Popular",
-  "CVX": "Chevron",
   "GAP": "The Gap",
   "LIF": "Life360",
   "MET": "MetLife",
