@@ -1,8 +1,25 @@
 {
- "generated": "2026-07-19T22:12:22.861245+00:00",
+ "generated": "2026-07-19T22:17:18.594578+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c772a968fae0",
+   "title": "Dow Jones Futures Fall As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investors.com",
+   "published": "2026-07-19T22:08:00+00:00",
+   "tickers": [
+    "AMD",
+    "GOOGL",
+    "TSLA"
+   ]
+  },
   {
    "id": "335e21c39b36",
    "title": "Stock futures are little changed after Wall Street suffers losing week: Live updates",
@@ -90,21 +107,17 @@
    "tickers": []
   },
   {
-   "id": "c772a968fae0",
-   "title": "Dow Jones Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+   "id": "8cb9c9d2318d",
+   "title": "SpaceX's IPO Lockup Starts Expiring in August. Here's Why the Next Wave of Sellers Could Be the Real Test.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-ipo-lockup-starts-expiring-215100223.html",
    "summary": "",
    "source": "Yahoo Finance",
    "category": "markets",
-   "type": "markets",
+   "type": "offering",
    "sentiment": "neutral",
-   "domain": "investors.com",
-   "published": "2026-07-19T21:53:50+00:00",
-   "tickers": [
-    "AMD",
-    "GOOGL",
-    "TSLA"
-   ]
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-19T21:51:00+00:00",
+   "tickers": []
   },
   {
    "id": "d686cb403d5d",
@@ -8311,21 +8324,6 @@
    "domain": "marketwatch.com",
    "published": "2026-07-18T15:22:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "9227a3a8a85b",
-   "title": "Plug Power Wins a 50-Megawatt Order in Australia. Here's What It Means for the Hydrogen Stock.",
-   "link": "https://finance.yahoo.com/energy/articles/plug-power-wins-50-megawatt-152000089.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T15:20:00+00:00",
-   "tickers": [
-    "PLUG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8437,7 +8435,6 @@
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
   "BA": "The Boeing",
-  "PLUG": "Plug Power",
   "RKLB": "Rocket Lab",
   "MSFT": "Office 365",
   "AMBA": "Ambarella",
