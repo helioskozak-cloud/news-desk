@@ -1,8 +1,39 @@
 {
- "generated": "2026-07-19T13:17:23.189699+00:00",
+ "generated": "2026-07-19T13:22:21.012864+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e7753c94120c",
+   "title": "Apple raises iPhone prices in Japan by as much as 11% amid weak yen",
+   "link": "https://seekingalpha.com/news/4615116-apple-raises-iphone-prices-in-japan-by-as-much-as-11-percent-amid-weak-yen?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-19T13:17:48+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "f8382f366e14",
+   "title": "Earnings playbook: Alphabet and Tesla are among the big companies set to report this week",
+   "link": "https://www.cnbc.com/2026/07/19/earnings-playbook-alphabet-tesla-headline-this-weeks-big-reports.html",
+   "summary": "The earnings season heats up this week with two megacaps set to release their latest results.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-19T13:17:17+00:00",
+   "tickers": [
+    "GOOG",
+    "TSLA"
+   ]
+  },
   {
    "id": "d73c65d22223",
    "title": "Notable healthcare headlines for the week: UnitedHealth, J&J, and Intuitive Surgical in focus",
@@ -53,8 +84,8 @@
    "title": "Alphabet, Intel results in focus for AI trade as US earnings rev up",
    "link": "https://www.investing.com/news/stock-market-news/alphabet-intel-results-in-focus-for-ai-trade-as-us-earnings-rev-up-4799723",
    "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
+   "source": "Investing Stock",
+   "category": "stocks",
    "type": "earnings",
    "sentiment": "neutral",
    "domain": "investing.com",
@@ -8277,36 +8308,6 @@
     "GOOGL",
     "GOOG"
    ]
-  },
-  {
-   "id": "81111093d7e2",
-   "title": "The Social Security Move That Better Ensures His Wife Never Has to Worry About the House",
-   "link": "https://finance.yahoo.com/markets/options/articles/social-security-move-better-ensures-100408318.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T10:04:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e137c6fa905a",
-   "title": "Big Tech's $182 Billion AI Debt Spree: How META, NVDA and AMZN Are Reshaping Credit Markets",
-   "link": "https://finance.yahoo.com/technology/ai/articles/big-techs-182-billion-ai-100123901.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T10:01:23+00:00",
-   "tickers": [
-    "META",
-    "NVDA",
-    "AMZN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8406,7 +8407,6 @@
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
-  "NVDA": "Grace Hopper",
   "ARM": "Arm Holdings",
   "CAT": "Caterpillar",
   "XOM": "Exxon Mobil",
