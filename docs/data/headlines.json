@@ -1,8 +1,36 @@
 {
- "generated": "2026-07-20T01:47:09.462371+00:00",
+ "generated": "2026-07-20T01:56:52.702949+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "335e21c39b36",
+   "title": "Stock futures are little changed after Wall Street suffers losing week: Live updates",
+   "link": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
+   "summary": "The three major averages posted weekly losses last week.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-20T01:51:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c19fe827777e",
+   "title": "McDonald's: Still Not Good Enough",
+   "link": "https://seekingalpha.com/article/4923338-mcdonalds-stock-still-not-good-enough?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-20T01:49:52+00:00",
+   "tickers": [
+    "MCD"
+   ]
+  },
   {
    "id": "75f981299892",
    "title": "US stock futures steady as investors weigh Iran conflict, earnings week",
@@ -187,19 +215,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-20T01:07:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "335e21c39b36",
-   "title": "Stock futures are little changed after Wall Street suffers losing week: Live updates",
-   "link": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
-   "summary": "The three major averages posted weekly losses last week.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-20T01:07:06+00:00",
    "tickers": []
   },
   {
@@ -8279,21 +8294,6 @@
    "tickers": [
     "INTU"
    ]
-  },
-  {
-   "id": "3303b6635182",
-   "title": "Verizon makes cost-cutting move as customers continue to leave",
-   "link": "https://finance.yahoo.com/technology/articles/verizon-makes-cost-cutting-move-170700833.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-18T17:07:00+00:00",
-   "tickers": [
-    "VZ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8398,6 +8398,7 @@
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
   "BA": "The Boeing",
+  "MCD": "McDonald's",
   "RKLB": "Rocket Lab",
   "MSFT": "Office 365",
   "AMBA": "Ambarella",
