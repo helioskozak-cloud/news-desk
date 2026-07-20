@@ -1,8 +1,49 @@
 {
- "generated": "2026-07-20T08:22:14.685578+00:00",
+ "generated": "2026-07-20T08:27:18.899473+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f61366fc25c1",
+   "title": "Ryanair stock slides 6% as higher fuel costs amid Iran war dent profit",
+   "link": "https://www.cnbc.com/2026/07/20/ryanair-q1-earnings-iran-war-summer-fares.html",
+   "summary": "Ryanair's first-quarter profit took a 34% hit as consumers delayed bookings due to the Middle East crisis, while struggling airlines face a \"difficult winter.\"",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-20T08:22:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "688d2a6931cb",
+   "title": "Brent crude hovers near $90 as Iran vows not ‘a single drop’ of oil or gas will transit Hormuz",
+   "link": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
+   "summary": "American forces have started ninth consecutive night of strikes against Iranian targets.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-07-20T08:20:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "43577df65bbf",
+   "title": "Coca-Cola: Safety Has A Price, But Right Now, It's A Premium One",
+   "link": "https://seekingalpha.com/article/4923386-coca-cola-stock-safety-has-price-right-now-it-premium-one?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-20T08:20:18+00:00",
+   "tickers": [
+    "KO"
+   ]
+  },
   {
    "id": "bb91d138433c",
    "title": "Festi hf.: Transactions in relation to a share repurchase programme – week 29",
@@ -90,7 +131,7 @@
    "title": "BRED Banque Populaire choisit Quantifi pour la gestion des risques de marché",
    "link": "https://www.prnewswire.com/news-releases/bred-banque-populaire-choisit-quantifi-pour-la-gestion-des-risques-de-marche-302829444.html",
    "summary": "LONDRES, 16 juillet 2026 /PRNewswire/ -- Quantifi, une plateforme de référence en solutions de gestion de risques, d'analytique et de trading, annonce aujourd'hui que BRED Banque Populaire a choisi la plateforme de gestion des risques de marché de Quantifi dans le cadre d'une initiative...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -538,19 +579,6 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-07-20T07:57:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "688d2a6931cb",
-   "title": "Brent crude breaches $90 as Iran vows not ‘a single drop’ of oil or gas will transit Hormuz",
-   "link": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
-   "summary": "American forces have started ninth consecutive night of strikes against Iranian targets.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-07-20T07:54:27+00:00",
    "tickers": []
   },
   {
@@ -1189,19 +1217,6 @@
    "sentiment": "neutral",
    "domain": "globenewswire.com",
    "published": "2026-07-20T07:24:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f61366fc25c1",
-   "title": "Ryanair stock slides 6% as higher fuel costs amid Iran war dent profit",
-   "link": "https://www.cnbc.com/2026/07/20/ryanair-q1-earnings-iran-war-summer-fares.html",
-   "summary": "Ryanair's first-quarter profit took a 34% hit as consumers delayed bookings due to the Middle East crisis, while struggling airlines face a \"difficult winter.\"",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-20T07:21:16+00:00",
    "tickers": []
   },
   {
@@ -8258,19 +8273,6 @@
    "tickers": [
     "GOOG"
    ]
-  },
-  {
-   "id": "38c096ca59a2",
-   "title": "Want 6% Monthly Yield Without Touching the Riskiest Junk? This ETF Has a Clever Trick",
-   "link": "https://finance.yahoo.com/markets/options/articles/want-6-monthly-yield-without-153239705.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-19T15:32:39+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8332,6 +8334,7 @@
   "AVAV": "AeroVironment",
   "ESLT": "Elbit Systems",
   "HSBC": "HSBC Holdings",
+  "KO": "The Coca-Cola",
   "POST": "Post Holdings",
   "MSTR": "MicroStrategy",
   "ADC": "Agree Realty",
