@@ -1,8 +1,47 @@
 {
- "generated": "2026-07-20T09:42:00.592386+00:00",
+ "generated": "2026-07-20T09:47:22.815450+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "335e21c39b36",
+   "title": "Stock futures turn positive after Wall Street suffers losing week: Live updates",
+   "link": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
+   "summary": "The three major averages posted weekly losses last week.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-20T09:45:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f27c29f039c9",
+   "title": "Peyto Exploration & Development declares CAD 0.12 dividend",
+   "link": "https://seekingalpha.com/news/4615168-peyto-exploration-and-development-declares-cad-0_12-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-20T09:41:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7e107fa46e46",
+   "title": "Neuberger Municipal Fund Inc. declares $0.0542 dividend",
+   "link": "https://seekingalpha.com/news/4615167-neuberger-municipal-fund-inc-declares-0_0542-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-20T09:40:25+00:00",
+   "tickers": []
+  },
   {
    "id": "2c2c97f7c5b7",
    "title": "Euro and dollar pause ahead of central bank meetings; pound inches up",
@@ -1624,19 +1663,6 @@
    "tickers": []
   },
   {
-   "id": "335e21c39b36",
-   "title": "Stock futures turn positive after Wall Street suffers losing week: Live updates",
-   "link": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
-   "summary": "The three major averages posted weekly losses last week.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-20T08:48:44+00:00",
-   "tickers": []
-  },
-  {
    "id": "e4d1d744dad7",
    "title": "HSBC initiates Apollo Global Management stock with buy on credit focus",
    "link": "https://www.investing.com/news/analyst-ratings/hsbc-initiates-apollo-global-management-stock-with-buy-on-credit-focus-93CH-4800059",
@@ -2634,6 +2660,19 @@
    "id": "27498faa1cbb",
    "title": "China's Moonshot pauses Kimi subscriptions amid hot demand, IPO push",
    "link": "https://finance.yahoo.com/technology/ai/articles/chinas-moonshot-pauses-kimi-subscriptions-080317250.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-20T08:03:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "97d56cc83472",
+   "title": "China's Moonshot pauses Kimi subscriptions amid hot demand, IPO push",
+   "link": "https://finance.yahoo.com/technology/ai/articles/chinas-moonshot-pauses-kimi-subscriptions-080317282.html",
    "summary": "",
    "source": "Yahoo Finance",
    "category": "markets",
@@ -8210,49 +8249,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-07-19T21:51:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "d686cb403d5d",
-   "title": "Netflix: Down Nearly 50% Over the Past Year, Is the Stock a Buy on This Latest Dip? Here's the Real Issue Behind the Stock's Decline.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-down-nearly-50-over-215000248.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-19T21:50:00+00:00",
-   "tickers": [
-    "NFLX"
-   ]
-  },
-  {
-   "id": "62f1bce1f270",
-   "title": "Kraken Won Historic Fed Approval. So Why Isn’t Its Master Account Live Yet?",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/kraken-won-historic-fed-approval-214806747.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-19T21:48:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "51169fd58450",
-   "title": "Amazon closes another major facility, nearly 500 workers affected",
-   "link": "https://finance.yahoo.com/small-business/articles/amazon-closes-another-major-facility-214700424.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-19T21:47:00+00:00",
-   "tickers": [
-    "AMZN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8317,7 +8313,6 @@
   "CGON": "CG Oncology",
   "EQNR": "Equinor ASA",
   "NVS": "Novartis AG",
-  "AMZN": "Whole Foods",
   "AZN": "AstraZeneca",
   "DDOG": "Datadog Inc",
   "BA": "The Boeing",
