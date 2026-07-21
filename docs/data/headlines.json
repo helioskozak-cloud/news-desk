@@ -1,8 +1,37 @@
 {
- "generated": "2026-07-21T03:51:57.021414+00:00",
+ "generated": "2026-07-21T03:57:19.218836+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "3a10a96f40c1",
+   "title": "The Phillips Curve And Kevin Warsh's Task Forces",
+   "link": "https://seekingalpha.com/article/4923610-phillips-curve-kevin-warsh-task-forces?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-21T03:50:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cd7b7c5bdf0c",
+   "title": "ESMO 2026 | Mabwell to Present Latest Clinical Data on Nectin-4-targeting ADC 9MW2821 for Triple Negative Breast Cancer in Oral Presentation",
+   "link": "https://www.prnewswire.com/news-releases/esmo-2026--mabwell-to-present-latest-clinical-data-on-nectin-4-targeting-adc-9mw2821-for-triple-negative-breast-cancer-in-oral-presentation-302830241.html",
+   "summary": "SHANGHAI, July 20, 2026 /PRNewswire/ -- Mabwell (688062.SH, 02493.HK), an innovation-driven biopharmaceutical company with a fully integrated industry chain, will present the latest clinical study results of its novel Nectin‑4‑targeting ADC, 9MW2821, for triple‑negative breast cancer in...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-21T03:50:00+00:00",
+   "tickers": [
+    "ADC",
+    "SH"
+   ]
+  },
   {
    "id": "68056ba4a77c",
    "title": "Unlimited Systems Data Breach Exposes Patient Health and Personal Information: Edelson Lechtzin LLP Investigates Class Action Claims",
@@ -1338,7 +1367,7 @@
    "title": "B&amp;R Technology Merger Corp. Announces Pricing of $325 Million Initial Public Offering",
    "link": "https://www.prnewswire.com/news-releases/br-technology-merger-corp-announces-pricing-of-325-million-initial-public-offering-302830096.html",
    "summary": "NEW YORK, July 21, 2026 /PRNewswire/ -- B&amp;R Technology Merger Corp. (the \"Company\") announced the pricing of its initial public offering of 32,500,000 units at $10.00 per unit. The units will be listed on the Nasdaq Global Market (\"Nasdaq\") under the symbol \"BRTMU\" commencing on July 21,...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "ma",
    "sentiment": "neutral",
@@ -8420,38 +8449,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "73f183c47a7e",
-   "title": "Gulfport Energy Schedules Second Quarter 2026 Earnings Release and Conference Call | GPOR Stock News",
-   "link": "https://www.stocktitan.net/news/GPOR/gulfport-energy-schedules-second-quarter-2026-earnings-release-and-yac7gvwf1dd9.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-20T20:05:00+00:00",
-   "tickers": [
-    "GPOR",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "0fa5abe5cb88",
-   "title": "SITE Centers’ Second Quarter 2026 Earnings to Be Released Monday, August 3, 2026 | SITC Stock News",
-   "link": "https://www.stocktitan.net/news/SITC/site-centers-second-quarter-2026-earnings-to-be-released-monday-9x6wr9eydapt.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-20T20:05:00+00:00",
-   "tickers": [
-    "NWSA",
-    "SITE"
-   ]
   }
  ],
  "ticker_names": {
@@ -8474,11 +8471,11 @@
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "NLY": "Annaly Capital Management",
-  "SITE": "SiteOne Landscape Supply",
   "AEP": "American Electric Power",
   "GS": "The Goldman Sachs Group",
   "RCL": "Royal Caribbean Cruises",
   "CMG": "Chipotle Mexican Grill",
+  "SH": "ProShares Short S&P500",
   "WBD": "Warner Bros. Discovery",
   "COF": "Capital One Financial",
   "DOG": "ProShares Short Dow30",
@@ -8509,7 +8506,6 @@
   "CRML": "Critical Metals",
   "EXP": "Eagle Materials",
   "GILD": "Gilead Sciences",
-  "GPOR": "Gulfport Energy",
   "HWC": "Hancock Whitney",
   "KRYS": "Krystal Biotech",
   "PWR": "Quanta Services",
@@ -8529,6 +8525,7 @@
   "O": "Realty Income",
   "SMR": "NuScale Power",
   "WRB": "W. R. Berkley",
+  "ADC": "Agree Realty",
   "SPY": "SPDR S&P 500",
   "UBS": "UBS Group AG",
   "Z": "Zillow Group",
