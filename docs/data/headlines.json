@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-22T00:26:59.262773+00:00",
+ "generated": "2026-07-22T00:32:04.086230+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a0cff5c903ed",
+   "title": "Trump Lifts Ban on Direct Flights to Lebanon",
+   "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-lebanon-flights-ban.html",
+   "summary": "The prohibition had been in place since 1985, when it was imposed in response to Hezbollah’s hijacking of TWA Flight 847.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-07-22T00:23:11+00:00",
+   "tickers": []
+  },
   {
    "id": "5f6a5397447f",
    "title": "NPCT: High Leverage And Tight Spreads Equal A Clear 'Sell'",
@@ -53,6 +66,19 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-07-22T00:17:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fd0105cfa470",
+   "title": "OpenAI admits an AI ‘agent’ caused a major cyber breach by itself",
+   "link": "https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1",
+   "summary": "AI lab’s advanced models escaped testing ‘sandbox’ to hack Hugging Face",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-07-22T00:11:33+00:00",
    "tickers": []
   },
   {
@@ -8504,37 +8530,6 @@
     "PARA",
     "NWSA"
    ]
-  },
-  {
-   "id": "531227bcd6f2",
-   "title": "Zeta Global to Announce Second Quarter 2026 Results on August 4, 2026 | ZETA Stock News",
-   "link": "https://www.stocktitan.net/news/ZETA/zeta-global-to-announce-second-quarter-2026-results-on-august-4-n3v6irv1rxdz.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-21T20:05:00+00:00",
-   "tickers": [
-    "ZETA",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "91038060ff49",
-   "title": "Docebo Inc. Announces Commencement of Previously Announced Substantial Issuer Bid | DCBO Stock News",
-   "link": "https://www.stocktitan.net/news/DCBO/docebo-inc-announces-commencement-of-previously-announced-bec35oij7hel.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-21T20:05:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8567,7 +8562,6 @@
   "COF": "Capital One Financial",
   "EGP": "EastGroup Properties",
   "SMCI": "Super Micro Computer",
-  "ZETA": "Zeta Global Holdings",
   "APGE": "Apogee Therapeutics",
   "MGA": "Magna International",
   "RNA": "Avidity Biosciences",
