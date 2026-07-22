@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-22T00:52:16.996198+00:00",
+ "generated": "2026-07-22T00:56:48.964362+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -138,6 +138,19 @@
    "tickers": []
   },
   {
+   "id": "21fc4da93baa",
+   "title": "Trump plans 100% tariffs on generic drugs in 2028",
+   "link": "https://www.ft.com/content/86e0c0df-8280-4224-8db2-81a662164554?syn-25a6b1a6=1",
+   "summary": "Latest trade measure intended to push companies towards manufacturing medications in the US",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-07-22T00:44:35+00:00",
+   "tickers": []
+  },
+  {
    "id": "269061b952a3",
    "title": "Japan’s exports jump in June on weak yen, AI-linked demand",
    "link": "https://www.investing.com/news/economy-news/japans-exports-jump-in-june-on-weak-yen-ailinked-demand-4804504",
@@ -222,13 +235,28 @@
    "title": "Gesa Credit Union and Willamette Valley Bank Announce Acquisition Agreement",
    "link": "https://www.prnewswire.com/news-releases/gesa-credit-union-and-willamette-valley-bank-announce-acquisition-agreement-302831455.html",
    "summary": "Gesa would acquire the Salem-based bank, establishing its first branches in Oregon. RICHLAND, Wash. and SALEM, Ore., July 21, 2026 /PRNewswire/ -- Gesa Credit Union and Willamette Valley Bank, together with the bank's parent company, Oregon Bancorp, Inc., today announced a definitive...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "ma",
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-07-22T00:31:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "4993681cdddb",
+   "title": "Sony’s 'ironic' PlayStation disc decision upends gamer conventions and threatens a $7 billion resale market",
+   "link": "https://www.cnbc.com/2026/07/22/sonys-playstation-disc-decision-threatens-a-7-billion-resale-market-.html",
+   "summary": "In 2013, Sony tweaked Xbox by showing how easy it was to share a PlayStation disc. Now, gamers say Sony has become exactly what it mocked.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-22T00:30:24+00:00",
+   "tickers": [
+    "MSFT"
+   ]
   },
   {
    "id": "bf2c513a93f2",
@@ -339,7 +367,7 @@
    "title": "In HelloNation, Real Estate Expert \"Mr. Cape Girardeau\" John Spear Shares Advice on Pricing a Home to Sell Without Losing Value",
    "link": "https://www.prnewswire.com/news-releases/in-hellonation-real-estate-expert-mr-cape-girardeau-john-spear-shares-advice-on-pricing-a-home-to-sell-without-losing-value-302751597.html",
    "summary": "CAPE GIRARDEAU, Mo., July 21, 2026 /PRNewswire/ -- How do you choose a list price in Cape Girardeau without leaving money on the table? A new HelloNation article offers a clear explanation, breaking down how sellers in Cape Girardeau can avoid missteps and set a list price that attracts...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -531,7 +559,7 @@
    "title": "Novo Tellus Partners with RCF and NRFC to Complete Buyout of Russell Mineral Equipment",
    "link": "https://www.prnewswire.com/news-releases/novo-tellus-partners-with-rcf-and-nrfc-to-complete-buyout-of-russell-mineral-equipment-302830913.html",
    "summary": "SINGAPORE, July 21, 2026 /PRNewswire/ -- Novo Tellus, a specialised investment firm focused exclusively on industrial and technology companies, is pleased to announce the closing of a significant investment in Russell Mineral Equipment (RME), the global leader in mill relining systems and...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "ma",
    "sentiment": "neutral",
@@ -1428,7 +1456,7 @@
    "title": "Quantinuum und SoftBank Corp. veröffentlichen ein gemeinsames Whitepaper zur Skalierung praktischer Anwendungsfälle im Bereich des Quantencomputings auf dem Weg in das Zeitalter der Fehlertoleranz",
    "link": "https://www.prnewswire.com/news-releases/quantinuum-und-softbank-corp-veroffentlichen-ein-gemeinsames-whitepaper-zur-skalierung-praktischer-anwendungsfalle-im-bereich-des-quantencomputings-auf-dem-weg-in-das-zeitalter-der-fehlertoleranz-302829161.html",
    "summary": "Die Unternehmen haben ein gemeinsames Whitepaper veröffentlicht, in dem kommerziell relevante Anwendungsfälle für das Quantencomputing in den Bereichen Quantenchemie und Graphenanalyse mit der Hardware-Roadmap von Quantinuum abgeglichen werden. Das Paper liefert einen Rahmen zur...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1497,7 +1525,7 @@
    "title": "Quantinuum and SoftBank Corp. Publish Joint White Paper on Scaling Practical Quantum Computing Use Cases Toward the Fault-Tolerant Era",
    "link": "https://www.prnewswire.com/news-releases/quantinuum-and-softbank-corp-publish-joint-white-paper-on-scaling-practical-quantum-computing-use-cases-toward-the-fault-tolerant-era-302828994.html",
    "summary": "The companies have published a joint white paper mapping commercially relevant quantum computing use cases in quantum chemistry and graph analytics to Quantinuum's hardware roadmap. The paper provides a framework for assessing how advances in quantum hardware and algorithms, could affect...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8451,36 +8479,6 @@
    "tickers": [
     "PSKY",
     "PARA"
-   ]
-  },
-  {
-   "id": "8d2a306889d4",
-   "title": "OrthoPediatrics Corp. to Report Second Quarter Financial Results on August 4, 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/07/21/3330944/0/en/OrthoPediatrics-Corp-to-Report-Second-Quarter-Financial-Results-on-August-4-2026.html",
-   "summary": "WARSAW, Ind., July 21, 2026 (GLOBE NEWSWIRE) -- OrthoPediatrics Corp. (“OrthoPediatrics” or the “Company”) (Nasdaq: KIDS), a company focused exclusively on advancing the field of pediatric orthopedics, today announced that the Company is scheduled to release its second quarter 2026 financial results on Tuesday, August 4, 2026 after the market closes. OrthoPediatrics will host a conference call on Tuesday, August 4, 2026 at 4:30 p.m. ET to discuss the results.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-21T20:05:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "26e5d5644f6a",
-   "title": "Valley National Bancorp Declares its Regular Quarterly Preferred and Common Stock Dividends",
-   "link": "https://www.globenewswire.com/news-release/2026/07/21/3330945/0/en/Valley-National-Bancorp-Declares-its-Regular-Quarterly-Preferred-and-Common-Stock-Dividends.html",
-   "summary": "NEW YORK, July 21, 2026 (GLOBE NEWSWIRE) -- Valley National Bancorp (NASDAQ:VLY) (“Valley”), the holding company for Valley National Bank, announced today its regular preferred and common dividends. The declared quarterly dividends to shareholders of record on September 15, 2026 are as follows:",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-21T20:05:00+00:00",
-   "tickers": [
-    "VLY"
    ]
   }
  ],
