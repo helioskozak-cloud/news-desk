@@ -1,8 +1,36 @@
 {
- "generated": "2026-07-22T19:37:06.772501+00:00",
+ "generated": "2026-07-22T19:42:04.659517+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0aa66bfce950",
+   "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S.",
+   "link": "https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html",
+   "summary": "Mercedes-Benz’s largest individual shareholder is Chinese state-owned BAIC. Cruz warned the bill could hurt Mercedes and accused GM of backing it.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-22T19:38:26+00:00",
+   "tickers": [
+    "GM"
+   ]
+  },
+  {
+   "id": "1624bfd1cd68",
+   "title": "More than 70% of recent home buyers were counting on mortgage rates to drop. Now they’re stuck.",
+   "link": "https://www.marketwatch.com/story/more-than-70-of-recent-home-buyers-were-counting-on-mortgage-rates-to-drop-now-theyre-stuck-1d0dab60?mod=mw_rss_topstories",
+   "summary": "Refinancing to a lower rate isn’t an option for many homeowners, who now face “financially unsustainable” mortgage payments.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "marketwatch.com",
+   "published": "2026-07-22T19:36:00+00:00",
+   "tickers": []
+  },
   {
    "id": "8665d1058e6b",
    "title": "Stifel expects Q3 net interest income of $290M-$300M while targeting up to $4B loan growth",
@@ -3008,21 +3036,6 @@
    "domain": "investing.com",
    "published": "2026-07-22T18:05:55+00:00",
    "tickers": []
-  },
-  {
-   "id": "0aa66bfce950",
-   "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S.",
-   "link": "https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html",
-   "summary": "Mercedes-Benz’s largest individual shareholder is Chinese state-owned BAIC. Cruz warned the bill could hurt Mercedes and accused GM of backing it.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-22T18:05:37+00:00",
-   "tickers": [
-    "GM"
-   ]
   },
   {
    "id": "debf1efb9d98",
@@ -8425,23 +8438,6 @@
    "tickers": [
     "AU"
    ]
-  },
-  {
-   "id": "c544152c8bae",
-   "title": "Intuitive Surgical, Medtronic down as J&J wins FDA nod for surgical robot",
-   "link": "https://seekingalpha.com/news/4616752-intuitive-surgical-down-jj-wins-fda-nod-surgical-robot?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-22T16:23:44+00:00",
-   "tickers": [
-    "ISRG",
-    "MDT",
-    "JNJ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8566,7 +8562,6 @@
   "C": "Citigroup",
   "CME": "CME Group",
   "DCI": "Donaldson",
-  "MDT": "Medtronic",
   "PKG": "Packaging",
   "SNOW": "Snowflake",
   "TE": "T1 Energy",
