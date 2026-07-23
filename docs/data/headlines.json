@@ -1,8 +1,49 @@
 {
- "generated": "2026-07-23T11:17:09.717982+00:00",
+ "generated": "2026-07-23T11:22:24.882381+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "70933c94a67b",
+   "title": "Comcast earnings highlight NBCUniversal strength ahead of planned split",
+   "link": "https://www.cnbc.com/2026/07/23/comcast-earnings-nbcuniversal-strength-split.html",
+   "summary": "Comcast said earlier this year it would split the cable businesses from the media business, creating two separate publicly traded companies.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-23T11:17:21+00:00",
+   "tickers": [
+    "CMCSA"
+   ]
+  },
+  {
+   "id": "16e7a0141886",
+   "title": "American Airlines slashes 2026 earnings outlook as fuel costs spike",
+   "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+   "summary": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs/",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-07-23T11:17:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b33dcaf9db2a",
+   "title": "Brookdale Senior Living Earns Certified Most Loved Workplace® Recognition",
+   "link": "https://www.prnewswire.com/news-releases/brookdale-senior-living-earns-certified-most-loved-workplace-recognition-302832310.html",
+   "summary": "BRENTWOOD, Tenn., July 23, 2026 /PRNewswire/ -- Brookdale Senior Living, the nation's largest operator of senior living communities and third largest owner of senior living real estate, announced it has earned Most Loved Workplace® Certification from the Best Practice Institute. The...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-23T11:17:00+00:00",
+   "tickers": []
+  },
   {
    "id": "a46b0d1f64a3",
    "title": "Tractor Supply lowers guidance amid weak demand for big-ticket items, pet business",
@@ -167,19 +208,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-07-23T11:10:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "16e7a0141886",
-   "title": "American Airlines slashes 2026 earnings outlook as fuel costs spike",
-   "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
-   "summary": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs/",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-07-23T11:10:20+00:00",
    "tickers": []
   },
   {
@@ -8579,41 +8607,11 @@
    "tickers": [
     "BA"
    ]
-  },
-  {
-   "id": "f7c8eba62589",
-   "title": "TSMC supplier LCY says KKR will exit stake: report",
-   "link": "https://seekingalpha.com/news/4617122-tsmc-supplier-lcy-says-kkr-will-exit-stake-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-23T08:18:51+00:00",
-   "tickers": [
-    "KKR",
-    "TSM"
-   ]
-  },
-  {
-   "id": "c88777d81818",
-   "title": "Houthis claim strikes on Saudi Arabian oil tankers as Rubio says Iran not ready to make a deal",
-   "link": "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html",
-   "summary": "Yemen's Houthis said they had targeted two Saudi Arabian oil tankers with drones and missiles for allegedly violating its maritime blockade.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-23T08:15:42+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "UCO": "ProShares Ultra Bloomberg Crude Oil",
-  "TSM": "Taiwan Semiconductor Manufacturing",
   "IBM": "International Business Machines",
   "WAL": "Western Alliance Bancorporation",
   "BJ": "BJ's Wholesale Club Holdings",
@@ -8736,7 +8734,6 @@
   "TWLO": "Twilio",
   "DOV": "Dover",
   "INTC": "Intel",
-  "KKR": "KKR &",
   "RHHBY": "Roche",
   "AAON": "AAON",
   "MSCI": "MSCI",
