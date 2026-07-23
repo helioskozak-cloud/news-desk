@@ -1,8 +1,36 @@
 {
- "generated": "2026-07-23T12:07:23.851918+00:00",
+ "generated": "2026-07-23T12:12:13.633326+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "16e7a0141886",
+   "title": "American Airlines slashes 2026 earnings outlook as fuel costs spike",
+   "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+   "summary": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-07-23T12:07:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a09b69552146",
+   "title": "Popular gives mixed Q2 results",
+   "link": "https://seekingalpha.com/news/4617320-popular-gives-mixed-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-23T12:06:12+00:00",
+   "tickers": [
+    "BPOP"
+   ]
+  },
   {
    "id": "571e6561771e",
    "title": "Google Sets the Pace on Hefty A.I. Spending",
@@ -89,6 +117,21 @@
    "published": "2026-07-23T12:05:00+00:00",
    "tickers": [
     "NWSA"
+   ]
+  },
+  {
+   "id": "fa9bbf529eb2",
+   "title": "PepsiCo: 'Upgrading' From Strong Sell To Sell, But I Still Expect Frozen Returns",
+   "link": "https://seekingalpha.com/article/4924632-pepsico-upgrading-from-strong-sell-to-sell-but-i-still-expect-frozen-returns?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-23T12:04:08+00:00",
+   "tickers": [
+    "PEP"
    ]
   },
   {
@@ -503,7 +546,7 @@
    "title": "Consumer Edge Data Reveals Buy Now, Pay Later Adoption Nears Record High as Financial Strain Deepens Among Lower-Income Households",
    "link": "https://www.prnewswire.com/news-releases/consumer-edge-data-reveals-buy-now-pay-later-adoption-nears-record-high-as-financial-strain-deepens-among-lower-income-households-302832865.html",
    "summary": "Q2 2026 Transaction Data Shows Buy Now, Pay Later Momentum with Increasing Economic Strain Across Consumer Segments NEW YORK, July 23, 2026 /PRNewswire/ -- Consumer Edge, the leading provider of global consumer data-driven insights, released its Q2 2026 Buy Now, Pay Later (\"BNPL\") Trends...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "downgrade",
    "sentiment": "negative",
@@ -516,7 +559,7 @@
    "title": "TS Imagine Expands Integration with Trumid's Fixed-Income Trading Platform",
    "link": "https://www.prnewswire.com/news-releases/ts-imagine-expands-integration-with-trumids-fixed-income-trading-platform-302832754.html",
    "summary": "Adds Access to Trumid RFQ Automation and Trumid Full Self Trading (FST™) NEW YORK, July 23, 2026 /PRNewswire/ -- TS Imagine, a leading global cross-asset provider of trading, portfolio, risk management and prime brokerage solutions, announced an expanded workflow integration with Trumid,...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -1679,6 +1722,58 @@
    ]
   },
   {
+   "id": "3bf01ac3f7e1",
+   "title": "How to trade options: 7 steps from account approval to your first contract",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/how-to-trade-options-120000006.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-23T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ab01a41db1c1",
+   "title": "NEST commits $200,000 to Saint Joseph's University to launch The Hawk's NEST: Building the Future of IFM and Skilled Trades Intelligence",
+   "link": "https://www.prnewswire.com/news-releases/nest-commits-200-000-to-saint-josephs-university-to-launch-the-hawks-nest-building-the-future-of-ifm-and-skilled-trades-intelligence-302832876.html",
+   "summary": "Expanded partnership will unite students, faculty, and industry leaders to develop AI-driven solutions for Integrated Facilities Management (IFM) and the skilled trades PHILADELPHIA, July 23, 2026 /PRNewswire/ -- NEST, a national leader in integrated facilities management (IFM), has...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-23T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9bdaafad7213",
+   "title": "CNBC Names PayNearMe One of the World's Top Fintech Companies for 2026",
+   "link": "https://www.prnewswire.com/news-releases/cnbc-names-paynearme-one-of-the-worlds-top-fintech-companies-for-2026-302832698.html",
+   "summary": "Recognition highlights the company's leadership in Payment Experience Management and strong business momentum SANTA CLARA, Calif., July 23, 2026 /PRNewswire/ -- PayNearMe, the fintech company pioneering Payment Experience Management (PEM), today announced it has been named to CNBC's...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-07-23T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1e171ed66a56",
+   "title": "Evoworks Bio Selected for BARDA-Backed VANGUARD Program to Demonstrate Rapid, Scalable Production of Critical Biologics",
+   "link": "https://www.prnewswire.com/news-releases/evoworks-bio-selected-for-barda-backed-vanguard-program-to-demonstrate-rapid-scalable-production-of-critical-biologics-302832880.html",
+   "summary": "A collaborative 6-month project advancing life science tools and diagnostics for health security in partnership with Kemp Proteins & Rockland Immunochemical FREDERICK, Md., July 23, 2026 /PRNewswire/ -- Evoworks Bio today announced its platform technology has been selected for BioTools...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-23T12:00:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "35f7750bb03b",
    "title": "Nokia reports higher Q2 profit as AI infrastructure demand surges",
    "link": "https://www.investing.com/news/earnings/nokia-posts-higher-q2-profit-as-ai-infrastructure-demand-surges-4807515",
@@ -1690,6 +1785,22 @@
    "domain": "investing.com",
    "published": "2026-07-23T11:59:48+00:00",
    "tickers": []
+  },
+  {
+   "id": "b6c29098eef0",
+   "title": "Dow Jones Futures Fall As Oil Prices Top $90; Google, Tesla Skid On Earnings, Capital Spending",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-earnings/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investors.com",
+   "published": "2026-07-23T11:59:33+00:00",
+   "tickers": [
+    "GOOGL",
+    "TSLA"
+   ]
   },
   {
    "id": "d6d3520bf806",
@@ -1858,6 +1969,19 @@
    "tickers": []
   },
   {
+   "id": "4b114fe1732c",
+   "title": "Detpak Opens New Manufacturing Facility in Spartanburg, South Carolina",
+   "link": "https://finance.yahoo.com/small-business/articles/detpak-opens-manufacturing-facility-spartanburg-115824404.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-23T11:58:24+00:00",
+   "tickers": []
+  },
+  {
    "id": "1ed674283ed3",
    "title": "Ozempic face? Botox boom boosted by 'sagging face' trend, Swiss firm says",
    "link": "https://www.cnbc.com/2026/07/23/botox-galderma-ozempic-face-glp1.html",
@@ -1868,6 +1992,19 @@
    "sentiment": "positive",
    "domain": "cnbc.com",
    "published": "2026-07-23T11:57:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "595ff973af36",
+   "title": "Anthropic joins UK FCA’s AI Sandbox testing programme",
+   "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-joins-uk-fca-supercharged-115730981.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-23T11:57:30+00:00",
    "tickers": []
   },
   {
@@ -2025,6 +2162,34 @@
    "tickers": []
   },
   {
+   "id": "093b5609f624",
+   "title": "VFH vs. EUFN: Should You Cash In on this 4%-Yielding European Financials ETF?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vfh-vs-eufn-cash-4-115401213.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-23T11:54:01+00:00",
+   "tickers": [
+    "VFH"
+   ]
+  },
+  {
+   "id": "ebdab9b71baa",
+   "title": "Advyzon adds AI system to adviser platform",
+   "link": "https://finance.yahoo.com/technology/ai/articles/advyzon-adds-ai-system-adviser-115232200.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-23T11:52:32+00:00",
+   "tickers": []
+  },
+  {
    "id": "7a2d1dfaef20",
    "title": "Albertsons plunges after slashing guidance; Kroger also lower",
    "link": "https://seekingalpha.com/news/4617244-albertsons-plunges-after-slashing-guidance-kroger-also-lower?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2122,17 +2287,19 @@
    ]
   },
   {
-   "id": "16e7a0141886",
-   "title": "American Airlines slashes 2026 earnings outlook as fuel costs spike",
-   "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
-   "summary": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-07-23T11:49:55+00:00",
-   "tickers": []
+   "id": "b8c38d021c5d",
+   "title": "Is Apple Stock a Buy Right Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-buy-now-115000333.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-23T11:50:00+00:00",
+   "tickers": [
+    "AAPL"
+   ]
   },
   {
    "id": "f543d557c56f",
@@ -2230,6 +2397,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-23T11:48:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "06bd7b3a3a16",
+   "title": "EFG International AUM reaches SFr196.3bn in H1 2026",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/efg-aum-reaches-sfr196-3bn-114737908.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-23T11:47:37+00:00",
+   "tickers": [
+    "EFG"
+   ]
   },
   {
    "id": "b857116b351d",
@@ -2416,6 +2598,34 @@
    "tickers": [
     "NWSA"
    ]
+  },
+  {
+   "id": "3f6468f401c3",
+   "title": "You Can Do Better Than Coca-Cola Stock. Buy This High-Yield Dividend Stock Instead.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-coca-cola-stock-buy-114500394.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-23T11:45:00+00:00",
+   "tickers": [
+    "KO"
+   ]
+  },
+  {
+   "id": "819dd4c8142b",
+   "title": "Space Exploration Technologies Corp. (SPCX) Stock Just Lost $1 Trillion in a Month. Is the Selloff a Buying Opportunity or a Warning?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-corp-spcx-114412356.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-23T11:44:12+00:00",
+   "tickers": []
   },
   {
    "id": "335f7f3133ab",
@@ -3076,6 +3286,19 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-07-23T11:30:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5f4ef49bb24f",
+   "title": "Semiconductor ETFs Show They're More Than A Flash In The Pan",
+   "link": "https://www.investors.com/etfs-and-funds/etfs/semiconductor-etfs-show-theyre-more-than-a-flash-in-the-pan/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investors.com",
+   "published": "2026-07-23T11:30:40+00:00",
    "tickers": []
   },
   {
@@ -8426,247 +8649,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "9a41cfa519fb",
-   "title": "T2 Metals Provides Exploration Update at Aurora Project, Yukon, Canada | TWOSF Stock News",
-   "link": "https://www.stocktitan.net/news/TWOSF/t2-metals-provides-exploration-update-at-aurora-project-yukon-bh6p1mn3dukd.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-23T10:30:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "9a35dc78cbd8",
-   "title": "Americas Gold and Silver Corporation Announces Second Quarter Production | USAS Stock News",
-   "link": "https://www.stocktitan.net/news/USAS/americas-gold-and-silver-corporation-announces-second-quarter-3g3q9c58e8tn.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-23T10:30:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "26ae02449907",
-   "title": "CSG Positioned as the Leader in the SPARK Matrix™: Configure, Price &amp; Quote Application, Telecommunication, 2026 by QKS Group",
-   "link": "https://www.prnewswire.com/news-releases/csg-positioned-as-the-leader-in-the-spark-matrix-configure-price--quote-application-telecommunication-2026-by-qks-group-302833216.html",
-   "summary": "The QKS Group SPARK Matrix™ provides competitive analysis and ranking of the leading Configure, Price & Quote Application, Telecommunication. CSG, with its comprehensive technology for Configure, Price & Quote Application, has received strong ratings across the parameters of technology...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-23T10:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a5017e07b6bf",
-   "title": "Lockheed Martin Reports Second Quarter 2026 Financial Results",
-   "link": "https://www.prnewswire.com/news-releases/lockheed-martin-reports-second-quarter-2026-financial-results-302833219.html",
-   "summary": "Sales increase of 11% to $20.1 billion Net earnings of $1.8 billion, or $7.94 per share Cash from operations of $3.2 billion and free cash flow of $2.9 billion Record backlog of $230 billion, inclusive of the multi-year contract to produce THAAD interceptors Updates 2026 financial outlook...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-23T10:29:00+00:00",
-   "tickers": [
-    "LMT"
-   ]
-  },
-  {
-   "id": "f6eb8dd575bb",
-   "title": "Lockheed Martin Reports Second Quarter 2026 Financial Results | LMT Stock News",
-   "link": "https://www.stocktitan.net/news/LMT/lockheed-martin-reports-second-quarter-2026-financial-7ha4ac4nplq3.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-23T10:29:00+00:00",
-   "tickers": [
-    "LMT",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "055879ae2c35",
-   "title": "First Citizens BancShares Declares Dividends",
-   "link": "https://www.prnewswire.com/news-releases/first-citizens-bancshares-declares-dividends-302832641.html",
-   "summary": "RALEIGH, N.C., July 23, 2026 /PRNewswire/ -- The Board of Directors of First Citizens BancShares, Inc. (Nasdaq: FCNCA) has declared the following dividends on the company's common and preferred stock, in each case to be paid on September 15, 2026, to holders of record as of August 31,...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-23T10:28:00+00:00",
-   "tickers": [
-    "FCNCA",
-    "CFG",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "ef877d288648",
-   "title": "First Citizens BancShares Declares Dividends | FCNCA Stock News",
-   "link": "https://www.stocktitan.net/news/FCNCA/first-citizens-banc-shares-declares-13qzeo2xy8t8.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-23T10:28:00+00:00",
-   "tickers": [
-    "FCNCA",
-    "CFG",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "ff028ca4221e",
-   "title": "T-Mobile Delivers Continued Strong Account Growth, Translating into Industry-Leading Service Revenue Growth Driven by Widening Differentiation | TMUS Stock News",
-   "link": "https://www.stocktitan.net/news/TMUS/t-mobile-delivers-continued-strong-account-growth-translating-into-u8a6vaihnwyx.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "stocktitan.net",
-   "published": "2026-07-23T10:28:00+00:00",
-   "tickers": [
-    "TMUS",
-    "SCI",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "d1704bcc12f5",
-   "title": "Weatherford: The Oil And Gas Servicer Striking It Big With Contracts In Q2",
-   "link": "https://seekingalpha.com/article/4924584-weatherford-the-oil-and-gas-servicer-striking-it-big-with-contracts-in-q2?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-23T10:27:26+00:00",
-   "tickers": [
-    "WFRD"
-   ]
-  },
-  {
-   "id": "81afa994ea76",
-   "title": "Why is Thermo Fisher Scientific stock surging today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-thermo-fisher-scientific-stock-surging-today-93CH-4808102",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-23T10:27:22+00:00",
-   "tickers": [
-    "TMO"
-   ]
-  },
-  {
-   "id": "c54a8c273255",
-   "title": "Why is Comcast stock rallying today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-comcast-stock-rallying-today-93CH-4808101",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-23T10:26:50+00:00",
-   "tickers": [
-    "CMCSA"
-   ]
-  },
-  {
-   "id": "186e487d98b1",
-   "title": "Bystronic H1 2026 slides: order intake rises but losses deepen",
-   "link": "https://www.investing.com/news/company-news/bystronic-h1-2026-slides-order-intake-rises-but-losses-deepen-93CH-4808100",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-23T10:26:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "57ec6cdaaca3",
-   "title": "Why is Allegion stock surging today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-allegion-stock-surging-today-93CH-4808084",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-23T10:25:39+00:00",
-   "tickers": [
-    "ALLE"
-   ]
-  },
-  {
-   "id": "fcfff066d0fb",
-   "title": "China’s Geely to make electric SUVs at Ford Spain plant, jointly develop model for Europe",
-   "link": "https://www.investing.com/news/stock-market-news/chinas-geely-to-make-electric-suvs-at-ford-spain-plant-jointly-develop-model-for-europe-4807939",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-23T10:25:08+00:00",
-   "tickers": [
-    "F"
-   ]
-  },
-  {
-   "id": "228c615a48be",
-   "title": "Amalgamated Financial Corp. Reports Second Quarter 2026 Financial Results; Record Profitability | Margin Rises to 3.78% | Guidance Raised | AMAL Stock News",
-   "link": "https://www.stocktitan.net/news/AMAL/amalgamated-financial-corp-reports-second-quarter-2026-financial-golmelhde6vo.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "stocktitan.net",
-   "published": "2026-07-23T10:25:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "28733cdd0085",
-   "title": "Chinese titanium firms seek aerospace foothold beyond home market",
-   "link": "https://www.investing.com/news/stock-market-news/chinese-titanium-firms-seek-aerospace-foothold-beyond-home-market-4808074",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-23T10:24:51+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8675,6 +8657,7 @@
   "WTW": "Willis Towers Watson Public Limited",
   "IBM": "International Business Machines",
   "BJ": "BJ's Wholesale Club Holdings",
+  "EFG": "iShares MSCI EAFE Growth ETF",
   "WST": "West Pharmaceutical Services",
   "AMC": "AMC Entertainment Holdings",
   "ORI": "Old Republic International",
@@ -8682,12 +8665,11 @@
   "FCNCA": "First Citizens BancShares",
   "ICE": "Intercontinental Exchange",
   "ODFL": "Old Dominion Freight Line",
-  "WFRD": "Weatherford International",
   "BFH": "Bread Financial Holdings",
   "CFG": "Citizens Financial Group",
-  "TMO": "Thermo Fisher Scientific",
   "AAL": "American Airlines Group",
   "HON": "Honeywell International",
+  "VFH": "Vanguard Financials ETF",
   "VLY": "Valley National Bancorp",
   "AMD": "Advanced Micro Devices",
   "CNR": "Core Natural Resources",
@@ -8736,6 +8718,7 @@
   "BRO": "Brown & Brown",
   "CSCO": "Cisco Systems",
   "HLNE": "Hamilton Lane",
+  "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "POST": "Post Holdings",
   "SOUN": "SoundHound AI",
@@ -8761,6 +8744,7 @@
   "HAL": "Halliburton",
   "TMUS": "T-Mobile US",
   "YUM": "Yum! Brands",
+  "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BX": "Blackstone",
   "CRM": "Salesforce",
@@ -8776,7 +8760,6 @@
   "CME": "CME Group",
   "PKG": "Packaging",
   "NWSA": "News Corp",
-  "ALLE": "Allegion",
   "BCS": "Barclays",
   "DASH": "DoorDash",
   "FAST": "Fastenal",
@@ -8791,6 +8774,7 @@
   "CMI": "Cummins",
   "COMP": "Compass",
   "LINE": "Lineage",
+  "PEP": "PepsiCo",
   "SCI": "Service",
   "SNA": "Snap-on",
   "INSM": "Insmed",
