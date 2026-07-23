@@ -1,8 +1,38 @@
 {
- "generated": "2026-07-23T00:17:25.318999+00:00",
+ "generated": "2026-07-23T00:21:52.773236+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c343de8c4ab3",
+   "title": "IBM lowers full-year forecast after earnings warning",
+   "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+   "summary": "IBM is now looking to improve productivity with artificial intelligence, including with a new coding tool called Bob.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-07-23T00:17:38+00:00",
+   "tickers": [
+    "IBM"
+   ]
+  },
+  {
+   "id": "3c8f65b60e29",
+   "title": "IBM just cut its outlook, but not by as much as investors feared",
+   "link": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
+   "summary": "IBM’s official earnings report comes after a bruising profit warning last week.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "marketwatch.com",
+   "published": "2026-07-23T00:17:00+00:00",
+   "tickers": [
+    "IBM"
+   ]
+  },
   {
    "id": "7bc0b8c082fb",
    "title": "Tesla’s profits plunge as Musk’s carmaker uses deep discounts to boost sales",
@@ -17,6 +47,19 @@
    "tickers": [
     "TSLA"
    ]
+  },
+  {
+   "id": "f1857a364045",
+   "title": "Black Sea risks lift U.S. wheat futures above $7 per bushel for first time since 2023",
+   "link": "https://seekingalpha.com/news/4617103-black-sea-risks-lift-us-wheat-futures-above-7-per-bushel-for-first-time-since-2023?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-23T00:16:09+00:00",
+   "tickers": []
   },
   {
    "id": "ff6cb47681fa",
@@ -1820,21 +1863,6 @@
    "tickers": []
   },
   {
-   "id": "c343de8c4ab3",
-   "title": "IBM lowers full-year forecast after earnings warning",
-   "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
-   "summary": "IBM is now looking to improve productivity with artificial intelligence, including with a new coding tool called Bob.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-07-22T22:37:42+00:00",
-   "tickers": [
-    "IBM"
-   ]
-  },
-  {
    "id": "32c9837c15bd",
    "title": "Kinder Morgan beats profit estimates on strong gas flows, raises outlook",
    "link": "https://www.investing.com/news/stock-market-news/kinder-morgan-tops-secondquarter-profit-estimates-on-higher-natural-gas-volumes-4806947",
@@ -3231,21 +3259,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-22T21:39:30+00:00",
    "tickers": []
-  },
-  {
-   "id": "3c8f65b60e29",
-   "title": "IBM just cut its outlook, but not by as much as investors feared",
-   "link": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
-   "summary": "IBM’s official earnings report comes after a bruising profit warning last week.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "marketwatch.com",
-   "published": "2026-07-22T21:39:00+00:00",
-   "tickers": [
-    "IBM"
-   ]
   },
   {
    "id": "203a8b28e4af",
@@ -8485,21 +8498,6 @@
    "domain": "globenewswire.com",
    "published": "2026-07-22T20:15:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "3d6321d5244b",
-   "title": "Elevra Lithium June 2026 Quarterly Report Advisory",
-   "link": "https://www.globenewswire.com/news-release/2026/07/22/3331728/0/en/Elevra-Lithium-June-2026-Quarterly-Report-Advisory.html",
-   "summary": "BRISBANE, Australia, July 22, 2026 (GLOBE NEWSWIRE) -- North American lithium producer Elevra Lithium Limited (ASX:ELV; NASDAQ:ELVR) (“Elevra” or “Company”) advises that the Company’s June 2026 Quarterly Activities Report is scheduled for release on Tuesday, 28 July 2026 AEST.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-22T20:15:00+00:00",
-   "tickers": [
-    "ELV"
-   ]
   }
  ],
  "ticker_names": {
@@ -8568,7 +8566,6 @@
   "GE": "General Electric",
   "ACHR": "Archer Aviation",
   "CI": "The Cigna Group",
-  "ELV": "Elevance Health",
   "EXP": "Eagle Materials",
   "GH": "Guardant Health",
   "LMT": "Lockheed Martin",
