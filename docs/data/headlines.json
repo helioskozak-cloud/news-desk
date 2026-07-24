@@ -1,8 +1,36 @@
 {
- "generated": "2026-07-24T07:17:22.460795+00:00",
+ "generated": "2026-07-24T07:21:52.884672+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "9c656a7ca505",
+   "title": "Volkswagen profits slump as it flags full-year revenue squeeze ahead of restructuring",
+   "link": "https://www.cnbc.com/2026/07/24/volkswagen-earnings-autos-germany.html",
+   "summary": "German auto giant Volkswagen on Friday reported weaker-than-expected second-quarter profit and revised down its sales forecast for 2026.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-24T07:16:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c47a62daab5b",
+   "title": "Polaris Global Equity Composite Q2 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4925165-polaris-global-equity-composite-q2-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-24T07:15:00+00:00",
+   "tickers": [
+    "PII"
+   ]
+  },
   {
    "id": "9fc0ced53eba",
    "title": "Genomma Lab Internacional, S.A.B. de C.V. (GNMLF) Q2 2026 Earnings Call Transcript",
@@ -451,19 +479,6 @@
    "tickers": [
     "RDW"
    ]
-  },
-  {
-   "id": "9c656a7ca505",
-   "title": "Volkswagen profits slump as it flags full-year revenue squeeze ahead of restructuring",
-   "link": "https://www.cnbc.com/2026/07/24/volkswagen-earnings-autos-germany.html",
-   "summary": "German auto giant Volkswagen on Friday reported weaker-than-expected second-quarter profit and revised down its sales forecast for 2026.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-24T06:48:46+00:00",
-   "tickers": []
   },
   {
    "id": "e5a45cd77c2d",
@@ -8220,19 +8235,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-23T22:30:26+00:00",
    "tickers": []
-  },
-  {
-   "id": "eeba86154d3a",
-   "title": "Form 4 Prairie Operating Co For: 23 July",
-   "link": "https://www.investing.com/news/filings/form-4-prairie-operating-co-for-23-july-93CH-4810231",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-23T22:30:24+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8318,6 +8320,7 @@
   "IOT": "Samsara",
   "NEM": "Newmont",
   "OVV": "Ovintiv",
+  "PII": "Polaris",
   "PODD": "Insulet",
   "RDW": "Redwire",
   "SCI": "Service",
