@@ -1,8 +1,38 @@
 {
- "generated": "2026-07-25T21:37:04.189873+00:00",
+ "generated": "2026-07-25T21:42:32.101614+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b955cbbc342a",
+   "title": "CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What It's Selling.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-fell-11-4-212700175.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T21:27:00+00:00",
+   "tickers": [
+    "CRWV"
+   ]
+  },
+  {
+   "id": "9c2822978d46",
+   "title": "NuScale Power Is Down 38% This Year: Here's What the Next 5 Years Could Look Like",
+   "link": "https://finance.yahoo.com/energy/articles/nuscale-power-down-38-heres-212500204.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T21:25:00+00:00",
+   "tickers": [
+    "SMR"
+   ]
+  },
   {
    "id": "b86d4b92a3ca",
    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
@@ -250,6 +280,19 @@
    "tickers": [
     "VEA"
    ]
+  },
+  {
+   "id": "70f1776e69ca",
+   "title": "Cardano Founder Slams Ethereum's Governance, Says Crypto Needs 'Insurance' To Grow Up",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/cardano-founder-slams-ethereums-governance-203014155.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T20:30:14+00:00",
+   "tickers": []
   },
   {
    "id": "099cbd30b40e",
@@ -8226,49 +8269,6 @@
    "domain": "prnewswire.com",
    "published": "2026-07-24T23:21:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "8dd7820214d6",
-   "title": "Volkswagen AG (VWA:CA) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4925232-volkswagen-ag-vwa-ca-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-24T23:20:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a58ec3f810d1",
-   "title": "Block director Anthony Eisen sells $1.4m in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-14m-in-stock-93CH-4812615",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-24T23:18:32+00:00",
-   "tickers": [
-    "XYZ"
-   ]
-  },
-  {
-   "id": "4f55716849a6",
-   "title": "Intellia Therapeutics CFO sells $91,248 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/intellia-therapeutics-cfo-sells-91248-in-stock-93CH-4812614",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-24T23:16:30+00:00",
-   "tickers": [
-    "NTLA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8350,6 +8350,7 @@
   "KMI": "Kinder Morgan",
   "LLY": "Eli Lilly and",
   "O": "Realty Income",
+  "SMR": "NuScale Power",
   "WFC": "Wells Fargo &",
   "MSTR": "MicroStrategy",
   "CHRD": "Chord Energy",
@@ -8373,6 +8374,7 @@
   "GEV": "GE Vernova",
   "MSFT": "Office 365",
   "C": "Citigroup",
+  "CRWV": "CoreWeave",
   "NWSA": "News Corp",
   "APPF": "AppFolio",
   "AVGO": "Broadcom",
