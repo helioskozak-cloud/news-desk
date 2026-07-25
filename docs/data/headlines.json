@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-25T04:02:29.072207+00:00",
+ "generated": "2026-07-25T04:07:06.027272+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,32 @@
    "sentiment": "positive",
    "domain": "prnewswire.com",
    "published": "2026-07-25T04:01:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "171f1ca0b2b8",
+   "title": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
+   "link": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
+   "summary": "Tariffs are back, but this time there is a war in the Persian Gulf and oil has hit $100 a barrel.",
+   "source": "NYT Economy",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-07-25T04:00:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "88f6c8ad03dc",
+   "title": "Politics And The Markets 07/25/26",
+   "link": "https://seekingalpha.com/article/4919426-politics-and-the-markets-072526?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-25T04:00:00+00:00",
    "tickers": []
   },
   {
@@ -8344,36 +8370,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-24T19:00:39+00:00",
    "tickers": []
-  },
-  {
-   "id": "275e27a0c330",
-   "title": "Rexford Industrial Realty, Inc. (REXR) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4925441-rexford-industrial-realty-inc-rexr-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-24T19:00:36+00:00",
-   "tickers": [
-    "REXR"
-   ]
-  },
-  {
-   "id": "a423d795e3d4",
-   "title": "Alex Saab, ally of Venezuela’s Maduro, pleads not guilty to US charges",
-   "link": "https://www.investing.com/news/world-news/alex-saab-ally-of-venezuelas-maduro-pleads-not-guiltyto-us-charges-4812406",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-07-24T19:00:32+00:00",
-   "tickers": [
-    "SAAB"
-   ]
   }
  ],
  "ticker_names": {
@@ -8390,7 +8386,6 @@
   "CNI": "Canadian National Railway",
   "RARE": "Ultragenyx Pharmaceutical",
   "REGN": "Regeneron Pharmaceuticals",
-  "REXR": "Rexford Industrial Realty",
   "FAF": "First American Financial",
   "RYAN": "Ryan Specialty Holdings",
   "AMD": "Advanced Micro Devices",
@@ -8508,7 +8503,6 @@
   "XYZ": "Block",
   "IONQ": "IonQ",
   "PCG": "PG&E",
-  "ROKU": "Roku",
-  "SAAB": "Saab"
+  "ROKU": "Roku"
  }
 }
