@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-25T15:52:19.093999+00:00",
+ "generated": "2026-07-25T15:57:10.678314+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -86,6 +86,36 @@
    "domain": "marketwatch.com",
    "published": "2026-07-25T15:30:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "9159f353afd4",
+   "title": "Citi Warns U.S. Equity Positioning May Face Further Pressure",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/citi-warns-u-equity-positioning-153000651.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T15:30:00+00:00",
+   "tickers": [
+    "C"
+   ]
+  },
+  {
+   "id": "fe8e9f8e0ef7",
+   "title": "Ethereum Traders are Giving Up Again. The Last Two Times ETH Rallied",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-traders-giving-again-last-152134528.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T15:21:34+00:00",
+   "tickers": [
+    "ETH"
+   ]
   },
   {
    "id": "b3d452417941",
@@ -8218,40 +8248,13 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "19b6b7c36714",
-   "title": "Hycroft Mining: Down 50% Since My Sell Call And More Bearish",
-   "link": "https://seekingalpha.com/article/4925466-hycroft-mining-down-50-percent-since-my-sell-call-and-more-bearish?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-24T21:11:33+00:00",
-   "tickers": [
-    "HYMC"
-   ]
-  },
-  {
-   "id": "adccc0af74c7",
-   "title": "Trump Administration Admits Canceling Grants to States That Did Not Vote for Him",
-   "link": "https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html",
-   "summary": "Federal officials said in court documents that they halted billions of dollars in funding for energy projects to states “based solely” on whether they backed President Trump in the 2024 election.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-07-24T21:10:49+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "AIQ": "Global X Artificial Intelligence & Technology ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
+  "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "FLG": "Flagstar Bank, National Association",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "BMNR": "Bitmine Immersion Technologies",
