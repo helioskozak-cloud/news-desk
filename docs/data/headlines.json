@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-25T17:57:25.846114+00:00",
+ "generated": "2026-07-25T18:02:25.746519+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,36 @@
    "sentiment": "neutral",
    "domain": "marketwatch.com",
    "published": "2026-07-25T17:48:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c481f2ecf2cd",
+   "title": "Is the Vanguard S&P 500 Growth ETF or iShares Small-Cap 600 Growth ETF the Better Fund in 2026?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-p-500-growth-etf-174701144.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T17:47:01+00:00",
+   "tickers": [
+    "VOOG",
+    "VYMI",
+    "IAGG"
+   ]
+  },
+  {
+   "id": "2620fd00712d",
+   "title": "Nvidia stock is doing something it hasn't done in years",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-doing-something-hasnt-174700139.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T17:47:00+00:00",
    "tickers": []
   },
   {
@@ -8211,34 +8241,6 @@
     "GOOGL",
     "UBER"
    ]
-  },
-  {
-   "id": "8eaa1cd292b7",
-   "title": "Embraer’s backlog hits record $34.5 billion in the second quarter, rising 16%",
-   "link": "https://www.investing.com/news/stock-market-news/embraers-backlog-hits-record-345-billion-in-the-second-quarter-rising-16-4812562",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-24T21:48:31+00:00",
-   "tickers": [
-    "EMBJ"
-   ]
-  },
-  {
-   "id": "99581ea99edf",
-   "title": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?",
-   "link": "https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories",
-   "summary": "Your answer to this viral poll question probably says a lot about the state of your finances.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-07-24T21:48:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8247,6 +8249,7 @@
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "DGRW": "WisdomTree U.S. Quality Dividend Growth Fund",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
+  "IAGG": "iShares International Aggregate Bond Fund",
   "FLG": "Flagstar Bank, National Association",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "BMNR": "Bitmine Immersion Technologies",
@@ -8254,6 +8257,7 @@
   "BAH": "Booz Allen Hamilton Holding",
   "CHH": "Choice Hotels International",
   "STX": "Seagate Technology Holdings",
+  "VOOG": "Vanguard S&P 500 Growth ETF",
   "COPX": "Global X Copper Miners ETF",
   "REGN": "Regeneron Pharmaceuticals",
   "FAF": "First American Financial",
@@ -8347,7 +8351,6 @@
   "CMCSA": "Comcast",
   "DBX": "Dropbox",
   "EFX": "Equifax",
-  "EMBJ": "Embraer",
   "EQIX": "Equinix",
   "IOT": "Samsara",
   "KVYO": "Klaviyo",
