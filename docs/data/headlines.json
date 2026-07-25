@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-25T02:27:00.912002+00:00",
+ "generated": "2026-07-25T02:32:15.855268+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,34 @@
    "sentiment": "positive",
    "domain": "cnbc.com",
    "published": "2026-07-25T02:17:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0dc848d1a885",
+   "title": "Form 4 Doximity Inc For: 24 July",
+   "link": "https://www.investing.com/news/filings/form-4-doximity-inc-for-24-july-93CH-4812700",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-25T02:15:09+00:00",
+   "tickers": [
+    "DOCS"
+   ]
+  },
+  {
+   "id": "2caf38c2ba78",
+   "title": "Nvidia and SK Group unveil over $500 billion AI infrastructure initiative",
+   "link": "https://www.investing.com/news/company-news/nvidia-and-sk-group-unveil-over-500-billion-ai-infrastructure-initiative-4812699",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-25T02:11:09+00:00",
    "tickers": []
   },
   {
@@ -8345,35 +8373,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-24T18:40:59+00:00",
    "tickers": []
-  },
-  {
-   "id": "a172e0390466",
-   "title": "Eastern Bankshares, Inc. (EBC) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4925335-eastern-bankshares-inc-ebc-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-24T18:40:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "030440b41334",
-   "title": "Outlook Therapeutics Announces LYTENAVA™ FDA Approval as the First and Only FDA-Approved Ophthalmic Bevacizumab for the Treatment of Wet AMD",
-   "link": "https://www.globenewswire.com/news-release/2026/07/24/3333067/0/en/Outlook-Therapeutics-Announces-LYTENAVA-FDA-Approval-as-the-First-and-Only-FDA-Approved-Ophthalmic-Bevacizumab-for-the-Treatment-of-Wet-AMD.html",
-   "summary": "Landmark FDA Approval Is an Important Milestone in Retina Care, Bringing Patients and Physicians an Ophthalmic Bevacizumab Developed Specifically for the Eye Following Years of Rigorous Clinical and Regulatory Evaluation",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "globenewswire.com",
-   "published": "2026-07-24T18:40:00+00:00",
-   "tickers": [
-    "AMD",
-    "OTLK"
-   ]
   }
  ],
  "ticker_names": {
@@ -8407,7 +8406,6 @@
   "LW": "Lamb Weston Holdings",
   "MCHP": "Microchip Technology",
   "PG": "The Procter & Gamble",
-  "OTLK": "Outlook Therapeutics",
   "FIX": "Comfort Systems USA",
   "BEN": "Franklin Resources",
   "COGT": "Cogent Biosciences",
