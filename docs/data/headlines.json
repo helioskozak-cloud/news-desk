@@ -1,8 +1,38 @@
 {
- "generated": "2026-07-25T23:17:21.755201+00:00",
+ "generated": "2026-07-25T23:22:21.406616+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0fb297b879f0",
+   "title": "How Do the Vanguard S&P 500 Growth ETF and the State Street Small Cap Growth ETF Compare?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-p-500-growth-etf-231001473.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T23:10:01+00:00",
+   "tickers": [
+    "VOOG",
+    "STT",
+    "VYMI"
+   ]
+  },
+  {
+   "id": "29cd6cc36a81",
+   "title": "Down 99%, popular EV stock is ripe bankruptcy candidate",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/down-99-popular-ev-stock-230400886.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T23:04:00+00:00",
+   "tickers": []
+  },
   {
    "id": "c20d06af88b3",
    "title": "Quálitas Controladora, S.A.B. de C.V. 2026 Q2 - Results - Earnings Call Presentation",
@@ -108,6 +138,21 @@
    "domain": "investing.com",
    "published": "2026-07-25T22:54:30+00:00",
    "tickers": []
+  },
+  {
+   "id": "f3b4bad16ceb",
+   "title": "SCHH vs RWR: Which REIT ETF Fits Your Portfolio",
+   "link": "https://finance.yahoo.com/real-estate/articles/schh-vs-rwr-reit-etf-225001475.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T22:50:01+00:00",
+   "tickers": [
+    "SCHH"
+   ]
   },
   {
    "id": "8465cedfb3e1",
@@ -8220,51 +8265,6 @@
    "domain": "investing.com",
    "published": "2026-07-25T00:00:07+00:00",
    "tickers": []
-  },
-  {
-   "id": "24ada4820298",
-   "title": "WORLD PREMIERE EXHIBITION \"STAR WARS™: THE EXPERIENCE\" - A Journey Through the Galaxy TO IMMERSE FANS IN THE LEGACY OF STAR WARS™",
-   "link": "https://www.prnewswire.com/news-releases/world-premiere-exhibition-star-wars-the-experience---a-journey-through-the-galaxy-to-immerse-fans-in-the-legacy-of-star-wars-302834444.html",
-   "summary": "Official Exhibition Celebrating 50 Years of Star Wars™ Opens February 2027 At The Franklin Institute in Philadelphia FIRST LOOK AT EXHIBIT RENDERINGS AND OFFICIAL KEY ART REVEALED TODAY AT SAN DIEGO COMIC-CON PHILADELPHIA, July 24, 2026 /PRNewswire/ -- Star Wars™: The Experience, an epic...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-25T00:00:00+00:00",
-   "tickers": [
-    "BEN"
-   ]
-  },
-  {
-   "id": "9a5a59b8f402",
-   "title": "Faircourt Asset Management Inc. Announces July Distribution",
-   "link": "https://www.globenewswire.com/news-release/2026/07/25/3333155/0/en/Faircourt-Asset-Management-Inc-Announces-July-Distribution.html",
-   "summary": "Toronto, July 24, 2026 (GLOBE NEWSWIRE) -- Faircourt Asset Management Inc., as Manager of the Faircourt Fund (CBOE:FGX), is pleased to announce the monthly distribution payable on the Shares of the below listed Fund.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-25T00:00:00+00:00",
-   "tickers": [
-    "CBOE"
-   ]
-  },
-  {
-   "id": "e758fdcecb68",
-   "title": "AMD Lays Out AI Vision Across Cloud, Client And Robotics",
-   "link": "https://seekingalpha.com/article/4925512-amd-lays-out-ai-vision-across-cloud-client-robotics?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-24T23:57:00+00:00",
-   "tickers": [
-    "AMD"
-   ]
   }
  ],
  "ticker_names": {
@@ -8308,8 +8308,8 @@
   "PLTR": "Palantir Technologies",
   "LW": "Lamb Weston Holdings",
   "OXY": "Occidental Petroleum",
+  "SCHH": "Schwab U.S. REIT ETF",
   "FIX": "Comfort Systems USA",
-  "BEN": "Franklin Resources",
   "COGT": "Cogent Biosciences",
   "LUNR": "Intuitive Machines",
   "PANW": "Palo Alto Networks",
@@ -8356,6 +8356,7 @@
   "LRCX": "Lam Research",
   "MKL": "Markel Group",
   "OSCR": "Oscar Health",
+  "STT": "State Street",
   "Z": "Zillow Group",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
