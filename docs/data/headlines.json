@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-25T22:47:17.877161+00:00",
+ "generated": "2026-07-25T22:51:57.623092+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,35 @@
    "sentiment": "negative",
    "domain": "prnewswire.com",
    "published": "2026-07-25T22:43:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "471749f1270d",
+   "title": "Figma vs. IBM: What Revenue Growth Trends Tell Investors About the Young Software Design Company and the Veteran Artificial Intelligence Tech Giant",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/figma-vs-ibm-revenue-growth-223501181.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T22:35:01+00:00",
+   "tickers": [
+    "IBM",
+    "FIG"
+   ]
+  },
+  {
+   "id": "5aa9b154e7b0",
+   "title": "Elon Musk Is Quietly Turning to This Fossil Fuel to Power His AI Ambitions.",
+   "link": "https://finance.yahoo.com/energy/articles/elon-musk-quietly-turning-fossil-223500890.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T22:35:00+00:00",
    "tickers": []
   },
   {
@@ -165,6 +194,19 @@
    "sentiment": "negative",
    "domain": "finance.yahoo.com",
    "published": "2026-07-25T21:33:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "10a2f805b48d",
+   "title": "Trump Says 'We're Leading China' in Crypto, But Beijing Would 'Love to Take That Over'",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/trump-says-were-leading-china-213015507.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T21:30:15+00:00",
    "tickers": []
   },
   {
@@ -2178,7 +2220,7 @@
    "title": "Markel Group Inc. anuncia la fecha y hora de la conferencia telefónica",
    "link": "https://www.prnewswire.com/news-releases/markel-group-inc-anuncia-la-fecha-y-hora-de-la-conferencia-telefonica-897896460.html",
    "summary": "RICHMOND, Virginia, 25 de julio de 2026 /PRNewswire-HISPANIC PR WIRE/ -- Markel Group Inc. (NYSE: MKL) ha anunciado hoy que celebrará una conferencia telefónica el jueves 30 de julio de 2026 a partir de las 9:30 h (hora del este) para analizar los resultados trimestrales y la evolución...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8227,51 +8269,6 @@
    "tickers": [
     "BMNR"
    ]
-  },
-  {
-   "id": "4733b52a24b3",
-   "title": "Form 4 Samsara Inc For: 24 July",
-   "link": "https://www.investing.com/news/filings/form-4-samsara-inc-for-24-july-93CH-4812639",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-24T23:45:13+00:00",
-   "tickers": [
-    "IOT"
-   ]
-  },
-  {
-   "id": "d178caa32beb",
-   "title": "Form 4 Bitmine Immersion Technologies Inc For: 24 July",
-   "link": "https://www.investing.com/news/filings/form-4-bitmine-immersion-technologies-inc-for-24-july-93CH-4812638",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-24T23:45:13+00:00",
-   "tickers": [
-    "BMNR"
-   ]
-  },
-  {
-   "id": "495ca836fea1",
-   "title": "Form 4 Bitmine Immersion Technologies Inc For: 24 July",
-   "link": "https://www.investing.com/news/filings/form-4-bitmine-immersion-technologies-inc-for-24-july-93CH-4812637",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-24T23:45:13+00:00",
-   "tickers": [
-    "BMNR"
-   ]
   }
  ],
  "ticker_names": {
@@ -8287,6 +8284,7 @@
   "FLG": "Flagstar Bank, National Association",
   "VEA": "Vanguard FTSE Developed Markets ETF",
   "TSM": "Taiwan Semiconductor Manufacturing",
+  "IBM": "International Business Machines",
   "BMNR": "Bitmine Immersion Technologies",
   "SCHD": "Schwab US Dividend Equity ETF",
   "WST": "West Pharmaceutical Services",
@@ -8394,7 +8392,6 @@
   "DBX": "Dropbox",
   "EFX": "Equifax",
   "EQIX": "Equinix",
-  "IOT": "Samsara",
   "KVYO": "Klaviyo",
   "PNR": "Pentair",
   "PODD": "Insulet",
