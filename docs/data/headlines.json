@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-26T10:52:17.576253+00:00",
+ "generated": "2026-07-26T10:57:15.718239+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -456,7 +456,7 @@
    "title": "KuCoin Marks Ninth Anniversary at Tomorrowland Belgium, Honoring Nine Years of Industry Progress Beyond the Signal",
    "link": "https://www.prnewswire.com/news-releases/kucoin-marks-ninth-anniversary-at-tomorrowland-belgium-honoring-nine-years-of-industry-progress-beyond-the-signal-302834735.html",
    "summary": "PROVIDENCIALES, Turks and Caicos Islands, July 26, 2026 /PRNewswire/ -- On the day of its ninth anniversary, KuCoin welcomed global partners, institutional clients, ecosystem builders and media representatives to the \"On Cloud 9 Skybox Experience,\" an exclusive celebration at the...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -6224,6 +6224,22 @@
    "tickers": []
   },
   {
+   "id": "4f25c2e26d5f",
+   "title": "Jim Cramer Says Kimberly-Clark’s Acquisition of Kenvue Creates a High-Margin Powerhouse",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-kimberly-clark-122211870.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T12:22:11+00:00",
+   "tickers": [
+    "KMB",
+    "KVUE"
+   ]
+  },
+  {
    "id": "4d231f8b3829",
    "title": "Tenet Healthcare's Ambulatory Growth Offsets Emerging Policy Headwinds",
    "link": "https://seekingalpha.com/article/4925551-tenet-healthcare-ambulatory-growth-offsets-emerging-policy-headwinds?source=feed_all_articles",
@@ -6953,6 +6969,22 @@
    "tickers": []
   },
   {
+   "id": "e04fa915ef24",
+   "title": "GM displays Q2 growth in key areas Tesla would be jealous of",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gm-displays-q2-growth-key-090300976.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T09:03:00+00:00",
+   "tickers": [
+    "TSLA",
+    "GM"
+   ]
+  },
+  {
    "id": "7d0960018c24",
    "title": "Tankers Sail Through Red Sea Despite Houthi Blockade",
    "link": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html",
@@ -6963,6 +6995,19 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-07-25T09:02:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fe766b5ed403",
+   "title": "Construction jobs' big pay raises make trades the 'it' career in 2026",
+   "link": "https://finance.yahoo.com/small-business/articles/construction-jobs-big-pay-raises-090206068.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-25T09:02:06+00:00",
    "tickers": []
   },
   {
@@ -8224,47 +8269,6 @@
    "domain": "investing.com",
    "published": "2026-07-25T05:30:13+00:00",
    "tickers": []
-  },
-  {
-   "id": "32d4cc240100",
-   "title": "Form DEF 14A Houlihan Lokey Inc For: 25 July",
-   "link": "https://www.investing.com/news/filings/form-def-14a-houlihan-lokey-inc-for-25-july-93CH-4812735",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-25T05:30:13+00:00",
-   "tickers": [
-    "HLI"
-   ]
-  },
-  {
-   "id": "bc55d1bded82",
-   "title": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
-   "link": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
-   "summary": "A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-25T05:29:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2f29bc8ea6bc",
-   "title": "Good cop, bad cop? What a Burnham-Healey duo might mean for the markets",
-   "link": "https://www.investing.com/news/economy-news/good-cop-bad-cop-what-a-burnhamhealey-duo-might-mean-for-the-markets-4812734",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-25T05:24:26+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8337,8 +8341,9 @@
   "WDC": "Western Digital",
   "BTU": "Peabody Energy",
   "ENPH": "Enphase Energy",
+  "GM": "General Motors",
   "HD": "The Home Depot",
-  "HLI": "Houlihan Lokey",
+  "KMB": "Kimberly-Clark",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "NEE": "NextEra Energy",
@@ -8390,6 +8395,7 @@
   "PODD": "Insulet",
   "SCI": "Service",
   "SNDK": "Sandisk",
+  "KVUE": "Kenvue",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "RDDT": "Reddit",
