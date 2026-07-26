@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-26T21:21:53.122035+00:00",
+ "generated": "2026-07-26T21:26:49.705915+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "7274e8eca06d",
+   "title": "Are Midterm Elections a headwind for stocks?",
+   "link": "https://www.investing.com/news/stock-market-news/are-midterm-elections-a-headwind-for-stocks-4812914",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-26T21:24:17+00:00",
+   "tickers": []
+  },
   {
    "id": "55c1f5c655eb",
    "title": "Nvidia just locked down deal that changes AI race",
@@ -30,6 +43,22 @@
    "tickers": [
     "WBD",
     "PARA"
+   ]
+  },
+  {
+   "id": "26878d34875b",
+   "title": "Dow Jones Futures Due, Iran News In focus; Apple Leads Earnings Wave, Fed Meeting Ahead",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "investors.com",
+   "published": "2026-07-26T21:04:38+00:00",
+   "tickers": [
+    "AAPL",
+    "NWSA"
    ]
   },
   {
@@ -95,18 +124,19 @@
    ]
   },
   {
-   "id": "26878d34875b",
-   "title": "Dow Jones Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+   "id": "48ef6480fab2",
+   "title": "Marvell Technology vs. UiPath: What Do the Quarterly Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-vs-uipath-quarterly-205801759.html",
    "summary": "",
    "source": "Yahoo Finance",
    "category": "markets",
-   "type": "ma",
+   "type": "earnings",
    "sentiment": "neutral",
-   "domain": "investors.com",
-   "published": "2026-07-26T20:56:15+00:00",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-26T20:58:01+00:00",
    "tickers": [
-    "AAPL"
+    "MRVL",
+    "PATH"
    ]
   },
   {
@@ -8252,34 +8282,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-25T15:00:31+00:00",
    "tickers": []
-  },
-  {
-   "id": "45b55d3b9c4f",
-   "title": "Why Consumers Are Exploring PureHealth Research Optimal Health Supplements for Everyday Wellness",
-   "link": "https://www.prnewswire.com/news-releases/why-consumers-are-exploring-purehealth-research-optimal-health-supplements-for-everyday-wellness-302827386.html",
-   "summary": "MANASSAS, Va., July 25, 2026 /PRNewswire/ -- Proactive wellness has become one of the most talked-about themes in health circles – and daily nutritional support is a big part of why. PureHealth Research optimal health supplements, built around a blend of everyday wellness nutrients, are...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-25T15:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7e0a9b786964",
-   "title": "TPG: 5%-Yielding Growth Stock In Plain Sight",
-   "link": "https://seekingalpha.com/article/4925621-tpg-5-percent-yielding-growth-stock-in-plain-sight?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-25T15:00:00+00:00",
-   "tickers": [
-    "TPG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8332,6 +8334,7 @@
   "TSEM": "Tower Semiconductor",
   "COGT": "Cogent Biosciences",
   "LUNR": "Intuitive Machines",
+  "MRVL": "Marvell Technology",
   "VMI": "Valmont Industries",
   "JNJ": "Johnson & Johnson",
   "MOH": "Molina Healthcare",
@@ -8424,6 +8427,7 @@
   "ERAS": "Erasca",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
+  "PATH": "UiPath",
   "RMD": "ResMed",
   "DOV": "Dover",
   "FIG": "Figma",
