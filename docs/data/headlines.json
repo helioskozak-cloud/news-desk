@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-26T21:12:18.524234+00:00",
+ "generated": "2026-07-26T21:16:56.046752+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "55c1f5c655eb",
+   "title": "Nvidia just locked down deal that changes AI race",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-just-locked-down-deal-210700046.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-26T21:07:00+00:00",
+   "tickers": []
+  },
   {
    "id": "6963a56f85fb",
    "title": "Why Paramount Paused Its Blockbuster $111 Billion Deal for Warner Bros.",
@@ -353,6 +366,19 @@
    "tickers": [
     "MELI"
    ]
+  },
+  {
+   "id": "66654b3c6c5e",
+   "title": "Woman, 31, Says Sister Guilt-Tripped Her Into Cosigning $15,000 In Medical Debt — Then Stopped Making Payments Six Months Later",
+   "link": "https://finance.yahoo.com/healthcare/articles/woman-31-says-sister-guilt-200013573.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-26T20:00:13+00:00",
+   "tickers": []
   },
   {
    "id": "965ae6945044",
@@ -2305,6 +2331,36 @@
    "domain": "ft.com",
    "published": "2026-07-26T15:00:08+00:00",
    "tickers": []
+  },
+  {
+   "id": "96759d8de884",
+   "title": "Elon Musk Just Revealed a Quiet Win for Tesla’s AI Ambitions",
+   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-just-revealed-quiet-150002342.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-26T15:00:02+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "81cf39a821e1",
+   "title": "American Airlines Stock Plunges as Fuel Costs Surge. How to Play AAL Now.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-stock-plunges-fuel-150002420.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-07-26T15:00:02+00:00",
+   "tickers": [
+    "AAL"
+   ]
   },
   {
    "id": "5e1c53698b84",
@@ -8224,58 +8280,6 @@
    "tickers": [
     "TPG"
    ]
-  },
-  {
-   "id": "99bd0b9db338",
-   "title": "Big Tech Earnings, Fed's Interest Rate Decision To Keep Next Week Busy",
-   "link": "https://seekingalpha.com/article/4925414-big-tech-earnings-feds-interest-rate-decision-to-keep-next-week-busy?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-25T15:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a527ab51ad29",
-   "title": "Thinking About The Semiconductor Pullback And Positioning",
-   "link": "https://seekingalpha.com/article/4925622-thinking-about-the-semiconductor-pullback-and-positioning?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-25T14:59:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "aaabe30b0945",
-   "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
-   "link": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
-   "summary": "More than 200 years of data show stocks typically gain in August, while market volatility sits well below average.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "marketwatch.com",
-   "published": "2026-07-25T14:59:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "60a4201647bc",
-   "title": "Grupo Bimbo Q2 2026 slides: margin expansion accelerates",
-   "link": "https://www.investing.com/news/company-news/grupo-bimbo-q2-2026-slides-margin-expansion-accelerates-93CH-4812796",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-07-25T14:58:39+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8307,6 +8311,7 @@
   "SSNC": "SS&C Technologies Holdings",
   "ICE": "Intercontinental Exchange",
   "VHT": "Vanguard Health Care ETF",
+  "AAL": "American Airlines Group",
   "GS": "The Goldman Sachs Group",
   "VFH": "Vanguard Financials ETF",
   "AMD": "Advanced Micro Devices",
