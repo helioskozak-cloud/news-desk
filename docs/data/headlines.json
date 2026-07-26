@@ -1,8 +1,38 @@
 {
- "generated": "2026-07-26T02:47:19.952786+00:00",
+ "generated": "2026-07-26T02:52:22.314308+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "85662d6220cd",
+   "title": "Amid Cyclospora Outbreak Tied to Lettuce, America Skips Salads",
+   "link": "https://www.nytimes.com/2026/07/23/business/cyclospora-lettuce-salad.html",
+   "summary": "Foot traffic to chains such as Chopt and Chipotle fell in recent weeks after a recall from Taylor Farms and changing messages from the F.D.A.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-07-26T02:45:53+00:00",
+   "tickers": [
+    "CMG"
+   ]
+  },
+  {
+   "id": "dd1a073d95e6",
+   "title": "VT: Why Global Stocks May Be Rocky Ahead Of The Midterms (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4925634-vt-why-global-stocks-may-be-rocky-ahead-of-the-midterms-downgrade?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-26T02:45:00+00:00",
+   "tickers": [
+    "VT"
+   ]
+  },
   {
    "id": "5f224399df4b",
    "title": "Tracking John Paulson's Paulson & Company Portfolio - Q1 2026 Update",
@@ -8232,34 +8262,6 @@
    "domain": "prnewswire.com",
    "published": "2026-07-25T00:39:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "f428940b588e",
-   "title": "Form 4 Coherent Inc For: 24 July",
-   "link": "https://www.investing.com/news/filings/form-4-coherent-inc-for-24-july-93CH-4812663",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-25T00:34:19+00:00",
-   "tickers": [
-    "COHR"
-   ]
-  },
-  {
-   "id": "565ab0070464",
-   "title": "Spoločnosť Shanghai Electric na veľtrhu WAIC 2026 predstavuje riešenia pre inteligentné továrne na báze AI",
-   "link": "https://www.prnewswire.com/news-releases/spolonos-shanghai-electric-na-vetrhu-waic-2026-predstavuje-rieenia-pre-inteligentne-tovarne-na-baze-ai-302834510.html",
-   "summary": "V hlavnej úlohe s humanoidnými robotmi so 41 stupňami voľnosti, robotmi na kontrolu potrubí s presnosťou polohovania ±1 mm a 51 priemyselnými agentmi s umelou inteligenciou. ŠANGHAJ, 25. júla 2026 /PRNewswire/ -- Operácie v oblasti výroby špičkových zariadení často zahŕňajú stiesnené...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-25T00:33:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8272,6 +8274,7 @@
   "JEPQ": "JPMorgan Nasdaq Equity Premium Income ETF",
   "SPDW": "SPDR Portfolio Developed World ex-US ETF",
   "IEMG": "iShares Core MSCI Emerging Markets ETF",
+  "VT": "Vanguard Total World Stock Index ETF",
   "FLG": "Flagstar Bank, National Association",
   "VEA": "Vanguard FTSE Developed Markets ETF",
   "TSM": "Taiwan Semiconductor Manufacturing",
@@ -8374,7 +8377,6 @@
   "AVGO": "Broadcom",
   "BCS": "Barclays",
   "BP": "BP p.l.c",
-  "COHR": "Coherent",
   "DOCS": "Doximity",
   "GOOG": "Alphabet",
   "TER": "Teradyne",
