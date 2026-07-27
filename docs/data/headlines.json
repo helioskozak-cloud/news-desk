@@ -1,8 +1,36 @@
 {
- "generated": "2026-07-27T00:57:13.406688+00:00",
+ "generated": "2026-07-27T01:02:04.364410+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "eb6696295635",
+   "title": "AG&amp;P Industrial Launches Next-Gen 85-Hectare Module Fabrication Yard in San Pascual, Batangas, Philippines",
+   "link": "https://www.prnewswire.com/news-releases/agp-industrial-launches-next-gen-85-hectare-module-fabrication-yard-in-san-pascual-batangas-philippines-302834547.html",
+   "summary": "State-of-the-art facility to be purpose-built for global delivery of plug-and-play, standard-to-high-precision modular solutions for the energy (LNG, petroleum, clean and renewable fuels), power, refining, chemicals, digital and industrial infrastructure, debottlenecking supply chains and...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-07-27T01:00:00+00:00",
+   "tickers": [
+    "LNG"
+   ]
+  },
+  {
+   "id": "81419032d691",
+   "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+   "link": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
+   "summary": "U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big Tech companies.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-07-27T00:57:00+00:00",
+   "tickers": []
+  },
   {
    "id": "a1425bb12ae6",
    "title": "L'APIGA fête ses dix ans au service de la formation de la nouvelle génération de dirigeants de l'Internet",
@@ -218,19 +246,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-27T00:42:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "81419032d691",
-   "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
-   "link": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
-   "summary": "U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big Tech companies.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-07-27T00:35:00+00:00",
    "tickers": []
   },
   {
@@ -8282,21 +8297,6 @@
     "DOV",
     "DE"
    ]
-  },
-  {
-   "id": "31afbb85de9e",
-   "title": "How a $25,000 Realty Income Investment Could Compound Into Real Retirement Income",
-   "link": "https://finance.yahoo.com/real-estate/articles/25-000-realty-income-investment-175000511.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-25T17:50:00+00:00",
-   "tickers": [
-    "O"
-   ]
   }
  ],
  "ticker_names": {
@@ -8366,6 +8366,7 @@
   "DAL": "Delta Air Lines",
   "DIS": "The Walt Disney",
   "EXP": "Eagle Materials",
+  "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
   "RRC": "Range Resources",
   "TRI": "Thomson Reuters",
@@ -8383,7 +8384,6 @@
   "KO": "The Coca-Cola",
   "KRC": "Kilroy Realty",
   "LLY": "Eli Lilly and",
-  "O": "Realty Income",
   "POST": "Post Holdings",
   "SMR": "NuScale Power",
   "WFC": "Wells Fargo &",
