@@ -1,8 +1,23 @@
 {
- "generated": "2026-07-27T00:17:28.566147+00:00",
+ "generated": "2026-07-27T00:22:21.624298+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b353bae08d21",
+   "title": "Singapore tightens monetary policy as rising oil prices rekindle inflation risk",
+   "link": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html",
+   "summary": "Unlike most central banks, the MAS manages medium-term price stability by managing the Singapore dollar exchange rate against a trade-weighted basket of currencies.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-27T00:19:35+00:00",
+   "tickers": [
+    "MAS"
+   ]
+  },
   {
    "id": "70bad46c5ee8",
    "title": "J Sainsbury: Positive Progress, But Already Priced In (Rating Downgrade)",
@@ -15,6 +30,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-27T00:15:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "6963a56f85fb",
+   "title": "Why Paramount Paused Its Blockbuster $111 Billion Deal for Warner Bros.",
+   "link": "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html",
+   "summary": "A flurry of negotiations last week cleared the way for an antitrust court battle with states that could determine the fate of the two iconic media giants.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-07-27T00:13:25+00:00",
+   "tickers": [
+    "WBD",
+    "PARA"
+   ]
   },
   {
    "id": "924361f9e6a5",
@@ -1153,22 +1184,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-07-26T21:07:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "6963a56f85fb",
-   "title": "Why Paramount Paused Its Blockbuster $111 Billion Deal for Warner Bros.",
-   "link": "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html",
-   "summary": "A flurry of negotiations last week cleared the way for an antitrust court battle with states that could determine the fate of the two iconic media giants.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-07-26T21:04:45+00:00",
-   "tickers": [
-    "WBD",
-    "PARA"
-   ]
   },
   {
    "id": "8bc22e7c8327",
@@ -3086,7 +3101,7 @@
    "title": "Bronstein, Gewirtz &amp; Grossman LLC Urges Microvast Holdings, Inc. Investors to Act: Class Action Filed Alleging Investor Harm",
    "link": "https://www.prnewswire.com/news-releases/bronstein-gewirtz--grossman-llc-urges-microvast-holdings-inc-investors-to-act-class-action-filed-alleging-investor-harm-302833837.html",
    "summary": "NEW YORK, July 26, 2026 /PRNewswire/ -- Bronstein, Gewirtz & Grossman, LLC, a nationally recognized investor-rights law firm, announces that a class action lawsuit has been filed against Microvast Holdings, Inc. (NASDAQ: MVST) and certain of its officers. This lawsuit seeks to recover...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8272,19 +8287,6 @@
    "domain": "prnewswire.com",
    "published": "2026-07-25T17:18:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "df547c802f17",
-   "title": "PICS DEADLINE ALERT: ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages PicS N.V. Investors to Secure Counsel Before Important August 4 Deadline in Securities Class Action - PICS",
-   "link": "https://markets.businessinsider.com/news/stocks/pics-deadline-alert-rosen-recognized-investor-counsel-encourages-pics-n.v.-investors-to-secure-counsel-before-important-august-4-deadline-in-securities-class-action-pics-1036364273",
-   "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/306447/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px; height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - July 25, 2026) - &lt;b&gt;WHY:&lt;/b&gt;&#160;Rosen Law Firm, a global investor rights law firm, reminds purchasers of Class A common stock of PicS N.V. (NASDAQ: PICS) pursuant and/or...",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-07-25T17:15:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8433,6 +8435,7 @@
   "GRAL": "GRAIL",
   "INTC": "Intel",
   "KKR": "KKR &",
+  "MAS": "Masco",
   "NUE": "Nucor",
   "RHHBY": "Roche",
   "DAVE": "Dave",
