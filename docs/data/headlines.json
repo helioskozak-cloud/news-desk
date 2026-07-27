@@ -1,8 +1,36 @@
 {
- "generated": "2026-07-27T04:07:20.483219+00:00",
+ "generated": "2026-07-27T04:12:03.109956+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1c1bd04c6b51",
+   "title": "Indonesia’s central bank chief resigns",
+   "link": "https://www.ft.com/content/f9abab6b-964c-4dae-ba41-4c20fa71c2e0?syn-25a6b1a6=1",
+   "summary": "Perry Warjiyo had been under pressure over weakening rupiah",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-07-27T04:09:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "239851e141ca",
+   "title": "Baker Hughes declares $0.23 dividend",
+   "link": "https://seekingalpha.com/news/4618510-baker-hughes-declares-0_23-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-27T04:08:18+00:00",
+   "tickers": [
+    "BKR"
+   ]
+  },
   {
    "id": "880e24728aca",
    "title": "Iran War Forces Energy Buyers to ‘Unshackle’ From Global Markets",
@@ -197,6 +225,19 @@
    "tickers": [
     "NWSA"
    ]
+  },
+  {
+   "id": "b4b96813bdfa",
+   "title": "Hike or hold: Investors split ahead of Fed decision",
+   "link": "https://www.ft.com/content/102250a4-a6a5-4ab7-bb47-80b136781d52?syn-25a6b1a6=1",
+   "summary": "Sharp increase in energy prices means this week’s US central bank meeting is ‘live’, investors say",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-07-27T04:00:00+00:00",
+   "tickers": []
   },
   {
    "id": "6829f8e4dc8b",
@@ -8238,47 +8279,6 @@
    "domain": "investing.com",
    "published": "2026-07-25T20:45:56+00:00",
    "tickers": []
-  },
-  {
-   "id": "ac2fc533aaf7",
-   "title": "XRP Price Prediction: Analyst Says XRP Could Hit $15",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-analyst-says-204450970.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-25T20:44:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8308650c78e8",
-   "title": "Nuclear Energy Is Winning Repeated Government Backing and Investors Should Take Notice",
-   "link": "https://finance.yahoo.com/energy/articles/nuclear-energy-winning-repeated-government-203500876.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-25T20:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e2684f298fa5",
-   "title": "VEA vs. SPGM: Which Global Stock ETF Is the Better Buy?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vea-vs-spgm-global-stock-203415850.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-07-25T20:34:15+00:00",
-   "tickers": [
-    "VEA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8290,7 +8290,6 @@
   "JEPQ": "JPMorgan Nasdaq Equity Premium Income ETF",
   "VCSH": "Vanguard Short-Term Corporate Bond ETF",
   "VT": "Vanguard Total World Stock Index ETF",
-  "VEA": "Vanguard FTSE Developed Markets ETF",
   "TLT": "iShares 20+ Year Treasury Bond ETF",
   "VWO": "Vanguard FTSE Emerging Markets ETF",
   "IBM": "International Business Machines",
