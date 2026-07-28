@@ -1,8 +1,21 @@
 {
- "generated": "2026-07-28T03:37:08.751521+00:00",
+ "generated": "2026-07-28T03:42:22.769419+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "01a51c152709",
+   "title": "Oil prices drop more than 2% as a pause in U.S.-Iran hostilities raises de-escalation hopes",
+   "link": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
+   "summary": "Speaking to reporters aboard Air Force One on Monday en route to Michigan, Trump dismissed suggestions that the U.S. was running short on weapons.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-07-28T03:38:41+00:00",
+   "tickers": []
+  },
   {
    "id": "2c230dda7dca",
    "title": "Form 4 Symbotic Inc For: 27 July",
@@ -64,17 +77,19 @@
    ]
   },
   {
-   "id": "01a51c152709",
-   "title": "Oil price drop more than 2% as a pause in U.S.-Iran hostilities raises de-escalation hopes",
-   "link": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
-   "summary": "Speaking to reporters aboard Air Force One on Monday en route to Michigan, Trump dismissed suggestions that the U.S. was running short on weapons.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-07-28T03:34:18+00:00",
-   "tickers": []
+   "id": "0fdb86725cc8",
+   "title": "Graco: Lack Of Organic Growth Leads To A Hold Rating",
+   "link": "https://seekingalpha.com/article/4926067-graco-lack-of-organic-growth-leads-to-a-hold-rating?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-28T03:35:05+00:00",
+   "tickers": [
+    "GGG"
+   ]
   },
   {
    "id": "adc7d9de41d8",
@@ -259,6 +274,21 @@
    "domain": "prnewswire.com",
    "published": "2026-07-28T03:26:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "98790f5fe5ff",
+   "title": "Johnson & Johnson settles US talcum powder lawsuit with $5.5bn payout",
+   "link": "https://www.ft.com/content/a05d4748-cd84-4c2a-ac30-1c8e87799b10?syn-25a6b1a6=1",
+   "summary": "About 76,000 plaintiffs claimed drugmaker’s products caused ovarian cancer",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-07-28T03:25:44+00:00",
+   "tickers": [
+    "JNJ"
+   ]
   },
   {
    "id": "ee9db71d8950",
@@ -8360,36 +8390,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "f40e2a88122b",
-   "title": "Enerpac Tool Group to Host Investor Day on November 4, 2026 | EPAC Stock News",
-   "link": "https://www.stocktitan.net/news/EPAC/enerpac-tool-group-to-host-investor-day-on-november-4-2zsengxom1l5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-27T20:30:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "f89a74223aed",
-   "title": "Shenandoah Telecommunications to Participate in Third Quarter 2026 Investor Conferences | SHEN Stock News",
-   "link": "https://www.stocktitan.net/news/SHEN/shenandoah-telecommunications-to-participate-in-third-quarter-2026-787oov7w8vl5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-07-27T20:30:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8512,6 +8512,7 @@
   "SAP": "SAP SE",
   "SRE": "Sempra",
   "STE": "STERIS",
+  "GGG": "Graco",
   "INTC": "Intel",
   "NE": "Noble",
   "NUE": "Nucor",
