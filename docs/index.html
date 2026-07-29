@@ -66,6 +66,10 @@
   /* ── Top bar (function-key style) ─────────────────────────── */
   .topbar{position:sticky;top:0;z-index:100;background:#000;border-bottom:1px solid var(--amber);padding:6px 12px;display:flex;align-items:center;gap:14px;font-family:'IBM Plex Mono',monospace;font-size:11px;flex-wrap:wrap}
   .topbar .brand{color:var(--amber);font-weight:700;letter-spacing:.15em;font-size:13px}
+  /* ?embed=1 — see the script just after <body>. Hides only the brand bar so
+     this page can sit inside regime-desk's News tab without two stacked
+     headers; the tabs and toolbar below it stay. */
+  body.nd-embed .topbar{display:none}
   .topbar .brand span{color:var(--muted);font-weight:400;letter-spacing:.05em;margin-left:6px}
   .topbar .clock{color:var(--green);font-weight:600;margin-left:auto}
   .topbar .clock .label{color:var(--muted);margin-right:6px;font-weight:400}
@@ -205,6 +209,20 @@
 </style>
 </head>
 <body>
+<script>
+// ?embed=1 — this page running inside another site's tab (regime-desk's News
+// view). Only the brand bar is hidden: regime-desk supplies its own header and
+// clock, and two stacked topbars read as a bug. The tabs and toolbar stay,
+// because the search and filters are the whole reason for embedding this
+// rather than maintaining a thinner second copy of it.
+//
+// Runs here, immediately after <body> opens, so the class is set before the
+// topbar is parsed and it never flashes in then out.
+(function(){try{
+  if(new URLSearchParams(location.search).get('embed')==='1')
+    document.body.classList.add('nd-embed');
+}catch(e){}})();
+</script>
 
 <div class="topbar">
   <span class="brand">NEWS-DESK <span>v0.2 · TERMINAL</span></span>

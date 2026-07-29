@@ -32,22 +32,6 @@ OUT = DATA / "stocks.json"
 
 BATCH_SIZE = 80     # tickers per yfinance.download call
 
-# Market bellwethers for the header strip. Fetched every run regardless of what
-# the headlines happened to tag — a strip that only appeared when someone wrote
-# about the Dow would be worse than no strip, because its absence would read as
-# a broken page rather than a quiet news day.
-#
-# These ride the existing 5-minute refresh, so they are roughly live during the
-# session: yfinance's daily bar for today carries the current price while the
-# market is open, and settles to the close after it.
-MARKETS: list[tuple[str, str]] = [
-    ("^GSPC",   "S&P 500"),
-    ("^DJI",    "Dow"),
-    ("^IXIC",   "Nasdaq"),
-    ("CL=F",    "Crude"),
-    ("BTC-USD", "Bitcoin"),
-]
-
 
 def collect_tickers() -> list[str]:
     if not HEADLINES.exists():
@@ -118,34 +102,13 @@ def fetch_batch(tickers: list[str]) -> dict:
     return out
 
 
-def fetch_markets() -> dict:
-    """The header strip's quotes, in display order.
-
-    Kept in its own key rather than mixed into `stocks`, because these are not
-    tagged tickers — nothing in the feed points at them, and a consumer wanting
-    "what did the market do" should not have to know that ^GSPC happens to be
-    in a dict of names journalists mentioned.
-    """
-    rows = fetch_batch([sym for sym, _ in MARKETS])
-    out = {}
-    for order, (sym, label) in enumerate(MARKETS):
-        row = rows.get(sym)
-        if not row:
-            print(f"  market {sym} ({label}): no data", flush=True)
-            continue
-        out[sym] = {**row, "label": label, "order": order}
-    return out
-
-
 def main():
     DATA.mkdir(parents=True, exist_ok=True)
     tickers = collect_tickers()
     print(f"fetch_stocks: {len(tickers)} unique tickers in current feed", flush=True)
-
-    # Fetched first and unconditionally — the strip should survive a run where
-    # the headline fetch produced nothing.
-    markets = fetch_markets()
-    print(f"  markets: {len(markets)}/{len(MARKETS)} resolved", flush=True)
+    if not tickers:
+        OUT.write_text(json.dumps({"generated": datetime.now(timezone.utc).isoformat(), "stocks": {}}), encoding="utf-8")
+        return
 
     stocks = {}
     for i in range(0, len(tickers), BATCH_SIZE):
@@ -156,12 +119,10 @@ def main():
 
     payload = {
         "generated": datetime.now(timezone.utc).isoformat(),
-        "markets":   markets,
         "stocks":    stocks,
     }
     OUT.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
-    print(f"Wrote {OUT.relative_to(ROOT)} "
-          f"({len(stocks)} tagged tickers, {len(markets)} markets)", flush=True)
+    print(f"Wrote {OUT.relative_to(ROOT)} ({len(stocks)} tickers with prices)", flush=True)
 
 
 if __name__ == "__main__":
