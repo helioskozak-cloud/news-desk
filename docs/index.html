@@ -66,9 +66,12 @@
   /* ── Top bar (function-key style) ─────────────────────────── */
   .topbar{position:sticky;top:0;z-index:100;background:#000;border-bottom:1px solid var(--amber);padding:6px 12px;display:flex;align-items:center;gap:14px;font-family:'IBM Plex Mono',monospace;font-size:11px;flex-wrap:wrap}
   .topbar .brand{color:var(--amber);font-weight:700;letter-spacing:.15em;font-size:13px}
-  /* ?embed=1 — see the script just after <body>. Hides only the brand bar so
-     this page can sit inside regime-desk's News tab without two stacked
-     headers; the tabs and toolbar below it stay. */
+  /* ?embed=1 — see the script just after the opening body tag. Hides only the
+     brand bar so this page can sit inside regime-desk's News tab without two
+     stacked headers; the tabs and toolbar below it stay.
+     (Deliberately does not write the body tag literally: regime-desk's
+     build/build_news_tab.py locates the real one by pattern, and a copy inside
+     a comment sent it looking at the stylesheet instead of the markup.) */
   body.nd-embed .topbar{display:none}
 
   /* Embedded, the greys become regime-desk's. Standalone news-desk keeps its
