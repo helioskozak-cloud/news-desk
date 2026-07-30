@@ -70,6 +70,46 @@
      this page can sit inside regime-desk's News tab without two stacked
      headers; the tabs and toolbar below it stay. */
   body.nd-embed .topbar{display:none}
+
+  /* Embedded, the greys become regime-desk's. Standalone news-desk keeps its
+     own black terminal palette — this only applies inside the frame.
+     news-desk's greys are neutral (#000 → #6b6b6b); regime-desk's are
+     GitHub-dark, which is blue-tinted and a step lighter. Side by side in one
+     page the neutral set reads as a dead patch rather than a different panel.
+     Redefined on body rather than :root so the override wins by specificity
+     while still inheriting everywhere inside.
+     The accents (amber, cyan, green, red) are deliberately untouched — those
+     are news-desk's identity, and the ask was the greys. */
+  body.nd-embed{
+    --bg:#0d1117;
+    --panel:#161b22;
+    --row:#161b22;
+    --row-alt:#1c2129;
+    --border:#21262d;
+    --border-bright:#30363d;
+    --text:#c9d1d9;
+    --bright:#f0f6fc;
+    --muted:#8b949e;
+    --dim:#6e7681;
+  }
+  /* Not everything reads the variables — these hardcode black, so remapping
+     the palette alone would leave them as dark patches against the new greys.
+     Scoped to .nd-embed, so standalone news-desk is unaffected. */
+  body.nd-embed ::-webkit-scrollbar-track{background:var(--bg)}
+  body.nd-embed .tab.active{background:var(--panel)}
+  body.nd-embed .toolbar input,
+  body.nd-embed .toolbar select{background:var(--bg)}
+  body.nd-embed .grp{background:var(--bg)}
+  body.nd-embed .drop-zone,
+  body.nd-embed .parse-result{background:var(--panel)}
+  body.nd-embed .parse-actions button{background:var(--bg)}
+  /* The MY BOOK panel builds some of its chrome with inline styles, which beat
+     any class selector — hence the attribute match and !important. Matching on
+     the literal colour rather than adding classes keeps this to one place
+     instead of touching the renderers, which is the right trade for a
+     cosmetic override that only applies inside the frame. */
+  body.nd-embed [style*="background:#000"]{background:var(--bg)!important}
+  body.nd-embed [style*="background:#0a0a0a"]{background:var(--panel)!important}
   .topbar .brand span{color:var(--muted);font-weight:400;letter-spacing:.05em;margin-left:6px}
   .topbar .clock{color:var(--green);font-weight:600;margin-left:auto}
   .topbar .clock .label{color:var(--muted);margin-right:6px;font-weight:400}
