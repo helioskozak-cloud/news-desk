@@ -1,8 +1,24 @@
 {
- "generated": "2026-07-31T00:37:25.275146+00:00",
+ "generated": "2026-07-31T00:42:10.213035+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a56f4b17e7e0",
+   "title": "Nasdaq futures rise after Wall Street rebound; Kospi soars 13%, triggers trading curbs: Live updates",
+   "link": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html",
+   "summary": "The after-hours moves followed a powerful rally during Thursday's regular session, led by Microsoft.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-07-31T00:39:30+00:00",
+   "tickers": [
+    "MSFT",
+    "NDAQ"
+   ]
+  },
   {
    "id": "61ec1815e2e4",
    "title": "Apple earnings takeaways: Weak forecast, supply concerns overshadow sales beat in Cook's last report as CEO",
@@ -13,7 +29,7 @@
    "type": "guidance",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-07-31T00:35:29+00:00",
+   "published": "2026-07-31T00:36:00+00:00",
    "tickers": [
     "AAPL"
    ]
@@ -32,6 +48,21 @@
    "tickers": []
   },
   {
+   "id": "c95786d9b34d",
+   "title": "Ferrari: Sorry For You, Mr. Market",
+   "link": "https://seekingalpha.com/article/4928317-ferrari-sorry-for-you-mr-market?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-31T00:34:33+00:00",
+   "tickers": [
+    "RACE"
+   ]
+  },
+  {
    "id": "76b9fe66e04b",
    "title": "Form 4 Copart Inc For: 30 July",
    "link": "https://www.investing.com/news/filings/form-4-copart-inc-for-30-july-93CH-4826619",
@@ -45,6 +76,19 @@
    "tickers": [
     "CPRT"
    ]
+  },
+  {
+   "id": "5616187cee45",
+   "title": "Universal Music Group N.V. (UNVGY) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4928099-universal-music-group-n-v-unvgy-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-31T00:33:18+00:00",
+   "tickers": []
   },
   {
    "id": "cc4e34302520",
@@ -321,22 +365,6 @@
    "domain": "marketwatch.com",
    "published": "2026-07-31T00:24:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "a56f4b17e7e0",
-   "title": "Nasdaq futures rise after Wall Street rebound; Kospi soars 13%, triggers trading curbs: Live updates",
-   "link": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html",
-   "summary": "The after-hours moves followed a powerful rally during Thursday's regular session, led by Microsoft.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-07-31T00:23:58+00:00",
-   "tickers": [
-    "MSFT",
-    "NDAQ"
-   ]
   },
   {
    "id": "62594b8629eb",
@@ -8343,41 +8371,10 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-30T20:43:38+00:00",
    "tickers": []
-  },
-  {
-   "id": "2a798b22c073",
-   "title": "British American Tobacco p.l.c. (BTI) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4928064-british-american-tobacco-p-l-c-bti-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-30T20:43:35+00:00",
-   "tickers": [
-    "BTI"
-   ]
-  },
-  {
-   "id": "c7e76c490977",
-   "title": "Altria Group, Inc. (MO) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4927827-altria-group-inc-mo-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-30T20:43:33+00:00",
-   "tickers": [
-    "MO"
-   ]
   }
  ],
  "ticker_names": {
   "IBM": "International Business Machines",
-  "BTI": "British American Tobacco p.l.c",
   "NCLH": "Norwegian Cruise Line Holdings",
   "BJ": "BJ's Wholesale Club Holdings",
   "MTD": "Mettler-Toledo International",
@@ -8436,10 +8433,10 @@
   "RITM": "Rithm Capital",
   "MSTR": "MicroStrategy",
   "ADC": "Agree Realty",
-  "MO": "Altria Group",
   "MP": "MP Materials",
   "Z": "Zillow Group",
   "GOOGL": "Google Cloud",
+  "RACE": "Ferrari N.V.",
   "BKH": "Black Hills",
   "FSLR": "First Solar",
   "AAPL": "Apple Watch",
