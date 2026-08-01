@@ -1,8 +1,42 @@
 {
- "generated": "2026-08-01T15:07:19.188885+00:00",
+ "generated": "2026-08-01T15:12:27.949796+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "53ecd3a6f36e",
+   "title": "July healthcare recap: Regeneron, DexCom shine as Moderna, managed-care stocks retreat",
+   "link": "https://seekingalpha.com/news/4622570-july-healthcare-recap-regeneron-dexcom-shine-as-moderna-managed-care-stocks-retreat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-01T15:05:45+00:00",
+   "tickers": [
+    "REGN",
+    "MRNA",
+    "DXCM"
+   ]
+  },
+  {
+   "id": "deee54858f81",
+   "title": "Insider trades: Adobe, Visa, PepsiCo among notable names",
+   "link": "https://seekingalpha.com/news/4623106-insider-trades-adobe-visa-pepsico-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-01T15:03:03+00:00",
+   "tickers": [
+    "PEP",
+    "ADBE",
+    "V"
+   ]
+  },
   {
    "id": "fd81a5d3c2cf",
    "title": "Migrants say hunger and hostility drove them back from Spain’s Ceuta to Morocco",
@@ -8247,34 +8281,6 @@
    "tickers": [
     "CAR"
    ]
-  },
-  {
-   "id": "6b058ea01dda",
-   "title": "Hubbell Incorporated 2026 Q2 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4929018-hubbell-incorporated-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-31T23:25:01+00:00",
-   "tickers": [
-    "HUBB"
-   ]
-  },
-  {
-   "id": "1b7e4c71544e",
-   "title": "Hope Bancorp, Inc. 2026 Q2 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4929017-hope-bancorp-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-31T23:24:45+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8300,6 +8306,7 @@
   "BAM": "Brookfield Asset Management",
   "STX": "Seagate Technology Holdings",
   "BTDR": "Bitdeer Technologies Group",
+  "REGN": "Regeneron Pharmaceuticals",
   "LTH": "Life Time Group Holdings",
   "AAL": "American Airlines Group",
   "GS": "The Goldman Sachs Group",
@@ -8394,8 +8401,9 @@
   "BLSH": "Bullish",
   "CVX": "Chevron",
   "FTV": "Fortive",
-  "HUBB": "Hubbell",
   "IVZ": "Invesco",
+  "MRNA": "Moderna",
+  "PEP": "PepsiCo",
   "SCI": "Service",
   "SNDK": "Sandisk",
   "WIX": "Wix.com",
@@ -8405,6 +8413,7 @@
   "LI": "Li Auto",
   "AEE": "Ameren",
   "CHE": "Chemed",
+  "DXCM": "DexCom",
   "ERAS": "Erasca",
   "LRN": "Stride",
   "NDAQ": "Nasdaq",
@@ -8417,6 +8426,7 @@
   "XPEV": "XPeng",
   "OKTA": "Okta",
   "PCG": "PG&E",
-  "T": "AT&T"
+  "T": "AT&T",
+  "V": "Visa"
  }
 }
