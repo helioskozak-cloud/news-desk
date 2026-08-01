@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-01T15:12:27.949796+00:00",
+ "generated": "2026-08-01T15:17:12.616047+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "240ed6be330b",
+   "title": "Caregivers deplete their savings and many have stopped trying to save. Should they get paid?",
+   "link": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
+   "summary": "Serving as a family caregiver isn’t just exhausting. It can be financially devastating, as well.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-08-01T15:12:00+00:00",
+   "tickers": []
+  },
   {
    "id": "53ecd3a6f36e",
    "title": "July healthcare recap: Regeneron, DexCom shine as Moderna, managed-care stocks retreat",
@@ -103,6 +116,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-01T14:53:09+00:00",
    "tickers": []
+  },
+  {
+   "id": "19a791999d10",
+   "title": "If You Invest $1,000 in the Vanguard High Dividend Yield ETF Right Now and Never Add Another Dollar, Here's What History Says It Could Deliver in 20 Years",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/invest-1-000-vanguard-high-145000540.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-01T14:50:00+00:00",
+   "tickers": [
+    "VYM",
+    "VYMI"
+   ]
   },
   {
    "id": "3b90e86c6b65",
@@ -8253,34 +8282,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-31T23:26:03+00:00",
    "tickers": []
-  },
-  {
-   "id": "d30649715044",
-   "title": "Solvay SA 2026 Q2 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4929020-solvay-sa-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-31T23:25:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "adbcbf1ae877",
-   "title": "Avis Budget Group, Inc. 2026 Q2 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4929019-avis-budget-group-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-31T23:25:12+00:00",
-   "tickers": [
-    "CAR"
-   ]
   }
  ],
  "ticker_names": {
@@ -8293,6 +8294,7 @@
   "JEPI": "JPMorgan Equity Premium Income ETF",
   "CHKP": "Check Point Software Technologies",
   "VGSH": "Vanguard Short-Term Treasury ETF",
+  "VYM": "Vanguard High Dividend Yield ETF",
   "IBM": "International Business Machines",
   "QQQI": "NEOS Nasdaq 100 High Income ETF",
   "VGLT": "Vanguard Long-Term Treasury ETF",
@@ -8325,7 +8327,6 @@
   "PSKY": "Paramount Skydance",
   "RBLX": "Roblox Corporation",
   "AUR": "Aurora Innovation",
-  "CAR": "Avis Budget Group",
   "CL": "Colgate-Palmolive",
   "CVLT": "Commvault Systems",
   "HOOD": "Robinhood Markets",
