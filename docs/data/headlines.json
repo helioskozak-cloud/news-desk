@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-01T20:57:18.805327+00:00",
+ "generated": "2026-08-01T21:03:24.383325+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,7 +13,20 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-08-01T20:55:23+00:00",
+   "published": "2026-08-01T20:55:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9cd376dd1d5e",
+   "title": "Hargreaves Services Plc 2026 Q4 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4929213-hargreaves-services-plc-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-01T20:53:39+00:00",
    "tickers": []
   },
   {
@@ -28,6 +41,22 @@
    "domain": "prnewswire.com",
    "published": "2026-08-01T20:50:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "dbf5e6957177",
+   "title": "Morgan Stanley's Amazon earnings verdict has a blind spot",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanleys-amazon-earnings-verdict-204610573.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-01T20:46:10+00:00",
+   "tickers": [
+    "MS",
+    "AMZN"
+   ]
   },
   {
    "id": "2ee23a4987b3",
@@ -8270,36 +8299,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-01T02:53:11+00:00",
    "tickers": []
-  },
-  {
-   "id": "bd08734550fd",
-   "title": "Great-West Lifeco Inc. (GWO:CA) Discusses Strategic Shifts and Financial Performance Following Recent Earnings Transcript",
-   "link": "https://seekingalpha.com/article/4928957-great-west-lifeco-inc-gwo-ca-discusses-strategic-shifts-and-financial-performance-following?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-01T02:53:08+00:00",
-   "tickers": [
-    "WST"
-   ]
-  },
-  {
-   "id": "b1ef87f6916e",
-   "title": "Form 4 IQVIA Holdings Inc For: 31 July",
-   "link": "https://www.investing.com/news/filings/form-4-iqvia-holdings-inc-for-31-july-93CH-4829515",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-01T02:49:21+00:00",
-   "tickers": [
-    "IQV"
-   ]
   }
  ],
  "ticker_names": {
@@ -8382,7 +8381,6 @@
   "PYPL": "PayPal Holdings",
   "RRC": "Range Resources",
   "VRT": "Vertiv Holdings",
-  "IQV": "IQVIA Holdings",
   "LNT": "Alliant Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
