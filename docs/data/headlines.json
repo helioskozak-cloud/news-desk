@@ -1,8 +1,36 @@
 {
- "generated": "2026-08-01T10:32:20.723433+00:00",
+ "generated": "2026-08-01T10:37:19.715994+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2bcc77117be1",
+   "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
+   "link": "https://www.investing.com/news/world-news/wildfires-rage-in-greece-as-firefighters-continue-battle-in-france-and-spain-4829588",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-01T10:30:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c5c5db31f90a",
+   "title": "Starbucks' Turnaround Is Gaining Steam, But The Stock Isn't A Buy",
+   "link": "https://seekingalpha.com/article/4929139-starbucks-turnaround-is-gaining-steam-but-the-stock-isnt-a-buy?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-01T10:30:32+00:00",
+   "tickers": [
+    "SBUX"
+   ]
+  },
   {
    "id": "e4f00a149df2",
    "title": "Engie: Guidance Improves, But Earnings Quality Limits Further Upside",
@@ -45,6 +73,21 @@
    ]
   },
   {
+   "id": "25cd2f9bdaf3",
+   "title": "History suggests rotational volatility should slow down in coming weeks: GS",
+   "link": "https://www.investing.com/news/stock-market-news/history-suggests-rotational-volatility-should-slow-down-in-coming-weeks-gs-4829590",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-01T10:19:46+00:00",
+   "tickers": [
+    "GS"
+   ]
+  },
+  {
    "id": "d1734a56f622",
    "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
    "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
@@ -68,19 +111,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-08-01T10:06:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2bcc77117be1",
-   "title": "Wildfires rage in Greece as firefighters continue battle in France and Spain",
-   "link": "https://www.investing.com/news/world-news/wildfires-rage-in-greece-as-firefighters-continue-battle-in-france-and-spain-4829588",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-01T10:06:32+00:00",
    "tickers": []
   },
   {
@@ -354,7 +384,7 @@
    "title": "Mitgo Ventures Launches Publisher Investment Program",
    "link": "https://www.prnewswire.com/news-releases/mitgo-ventures-launches-publisher-investment-program-302840544.html",
    "summary": "NECKARSULM, Germany, Aug. 1, 2026 /PRNewswire/ -- Mitgo Ventures isn't a bank. It isn't a generic VC fund that discovered \"affiliate marketing\" last year. It's the investment arm of the same Mitgo Group that built one of the leading global partner networks, Admitad. Through the Publisher...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -8195,34 +8225,6 @@
    "domain": "investing.com",
    "published": "2026-07-31T21:26:32+00:00",
    "tickers": []
-  },
-  {
-   "id": "4c5cd3dc6f02",
-   "title": "Tilray Brands climbs 8%, extending prior day's gains",
-   "link": "https://seekingalpha.com/news/4622973-tilray-brands-climbs-8-extending-prior-days-gains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-31T21:25:33+00:00",
-   "tickers": [
-    "TLRY"
-   ]
-  },
-  {
-   "id": "841a5e9aec73",
-   "title": "Oak Ridge Financial Services GAAP EPS of $0.79, revenue of $7.92M",
-   "link": "https://seekingalpha.com/news/4623028-oak-ridge-financial-services-gaap-eps-of-0_79-revenue-of-7_92m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-31T21:25:06+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8238,6 +8240,7 @@
   "BTDR": "Bitdeer Technologies Group",
   "LTH": "Life Time Group Holdings",
   "AAL": "American Airlines Group",
+  "GS": "The Goldman Sachs Group",
   "MMSI": "Merit Medical Systems",
   "CFR": "Cullen/Frost Bankers",
   "FERG": "Ferguson Enterprises",
@@ -8307,6 +8310,7 @@
   "BLK": "BlackRock",
   "CRWV": "CoreWeave",
   "CUBE": "CubeSmart",
+  "SBUX": "Starbucks",
   "TRP": "TC Energy",
   "ADBE": "Photoshop",
   "NWSA": "News Corp",
