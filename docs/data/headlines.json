@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-01T21:27:24.304139+00:00",
+ "generated": "2026-08-01T21:32:32.665496+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "fb19d3e56c18",
+   "title": "Claiming at 62 vs. 67: The $150,000 Social Security Mistake Nobody Does the Math On",
+   "link": "https://finance.yahoo.com/markets/articles/claiming-62-vs-67-150-212105783.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-01T21:21:05+00:00",
+   "tickers": []
+  },
   {
    "id": "d23641b003dd",
    "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
@@ -54,6 +67,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-01T21:13:08+00:00",
    "tickers": []
+  },
+  {
+   "id": "d0c7ca78d154",
+   "title": "Dollar General copies Costco with a discount twist",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-copies-costcos-playbook-160518649.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-01T21:05:44+00:00",
+   "tickers": [
+    "DG",
+    "COST"
+   ]
   },
   {
    "id": "e7dabe7ef231",
@@ -8267,34 +8296,6 @@
     "PSKY",
     "PARA"
    ]
-  },
-  {
-   "id": "af44f090827d",
-   "title": "Form 4 Supernus Pharmaceuticals Inc For: 31 July",
-   "link": "https://www.investing.com/news/filings/form-4-supernus-pharmaceuticals-inc-for-31-july-93CH-4829523",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-01T03:30:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fa51805220ae",
-   "title": "Form 4 OneMain Holdings Inc For: 31 July",
-   "link": "https://www.investing.com/news/filings/form-4-onemain-holdings-inc-for-31-july-93CH-4829521",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-01T03:19:10+00:00",
-   "tickers": [
-    "OMF"
-   ]
   }
  ],
  "ticker_names": {
@@ -8363,7 +8364,6 @@
   "AXP": "American Express",
   "COST": "Costco Wholesale",
   "GTLS": "Chart Industries",
-  "OMF": "OneMain Holdings",
   "SPXC": "SPX Technologies",
   "TW": "Tradeweb Markets",
   "VRSK": "Verisk Analytics",
@@ -8376,6 +8376,7 @@
   "PYPL": "PayPal Holdings",
   "RRC": "Range Resources",
   "VRT": "Vertiv Holdings",
+  "DG": "Dollar General",
   "LNT": "Alliant Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
