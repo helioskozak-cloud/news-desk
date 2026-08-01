@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-01T15:57:03.894030+00:00",
+ "generated": "2026-08-01T16:02:27.344146+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -470,6 +470,19 @@
    "source": "Yahoo Finance",
    "category": "markets",
    "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-01T15:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "45fac648ce7d",
+   "title": "The Bank of England Is Moving Away From Coal",
+   "link": "https://finance.yahoo.com/economy/policy/articles/bank-england-moving-away-coal-150000057.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
    "sentiment": "neutral",
    "domain": "finance.yahoo.com",
    "published": "2026-08-01T15:00:00+00:00",
@@ -8276,19 +8289,6 @@
    "tickers": [
     "GOOGL"
    ]
-  },
-  {
-   "id": "78d430ff177d",
-   "title": "Matachewan Announces Board Changes",
-   "link": "https://www.globenewswire.com/news-release/2026/07/31/3337103/0/en/Matachewan-Announces-Board-Changes.html",
-   "summary": "TORONTO, July 31, 2026 (GLOBE NEWSWIRE) -- Matachewan Consolidated Mines, Limited (TSXV: MCM-A) (“Matachewan” or the “Company”) announces that Messrs. Fraser Hartley and Dennis Beker have been appointed as independent directors of the Company effective July 31, 2026.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-31T23:32:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
