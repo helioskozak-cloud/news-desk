@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-01T22:22:06.876288+00:00",
+ "generated": "2026-08-01T22:27:14.078446+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "9787c4c00a71",
+   "title": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-could-buy-220500371.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-01T22:05:00+00:00",
+   "tickers": []
+  },
   {
    "id": "3bcc0255080a",
    "title": "DFI Retail Group Holdings Limited 2026 Q2 - Results - Earnings Call Presentation",
@@ -41,6 +54,23 @@
    "domain": "marketwatch.com",
    "published": "2026-08-01T22:00:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "2146b18978e6",
+   "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investors.com",
+   "published": "2026-08-01T21:58:20+00:00",
+   "tickers": [
+    "LLY",
+    "AMD",
+    "SNDK"
+   ]
   },
   {
    "id": "71e0a6f27f54",
@@ -1817,7 +1847,7 @@
    "title": "Now, More Than Ever: Thousands of Cyclists and Volunteers Unite for 2026 Pan-Mass Challenge, Raising Critically Needed Funds for Cancer Research and Care",
    "link": "https://www.prnewswire.com/news-releases/now-more-than-ever-thousands-of-cyclists-and-volunteers-unite-for-2026-pan-mass-challenge-raising-critically-needed-funds-for-cancer-research-and-care-302840576.html",
    "summary": "NEEDHAM, Mass., August 1, 2026 /PRNewswire/ -- This weekend, August 1 and 2, the Pan-Mass Challenge is bringing together nearly 6,500 cyclists and more than 3,500 volunteers with the shared goal of raising a record-breaking $79 million to support critical cancer research and care at...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -3916,23 +3946,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-01T13:18:26+00:00",
    "tickers": []
-  },
-  {
-   "id": "2146b18978e6",
-   "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investors.com",
-   "published": "2026-08-01T13:17:56+00:00",
-   "tickers": [
-    "LLY",
-    "AMD",
-    "SNDK"
-   ]
   },
   {
    "id": "576f3ba1e56a",
@@ -8272,21 +8285,6 @@
    "domain": "investing.com",
    "published": "2026-08-01T04:00:14+00:00",
    "tickers": []
-  },
-  {
-   "id": "498d5899f2dd",
-   "title": "How the West End’s landlords are preparing London for Saudi summers",
-   "link": "https://www.ft.com/content/818bb542-3777-4c9f-9f25-535199563fb3?syn-25a6b1a6=1",
-   "summary": "Redesign of the capital’s squares and buildings for a future of more heat and floods",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-08-01T04:00:06+00:00",
-   "tickers": [
-    "WST"
-   ]
   }
  ],
  "ticker_names": {
@@ -8315,7 +8313,6 @@
   "VUSB": "Vanguard Ultra-Short Bond ETF",
   "BSV": "Vanguard Short-Term Bond ETF",
   "VTEB": "Vanguard Tax-Exempt Bond ETF",
-  "WST": "West Pharmaceutical Services",
   "BAM": "Brookfield Asset Management",
   "STX": "Seagate Technology Holdings",
   "BTDR": "Bitdeer Technologies Group",
