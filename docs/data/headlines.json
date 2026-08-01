@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-01T14:37:25.381806+00:00",
+ "generated": "2026-08-01T14:40:41.289366+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,19 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-08-01T14:32:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c3b58fbc524e",
+   "title": "Trump Media’s Truth API launches with early access to market-moving posts",
+   "link": "https://seekingalpha.com/news/4623107-trump-media-launches-truth-api-paid-service?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-01T14:32:14+00:00",
    "tickers": []
   },
   {
@@ -84,6 +97,22 @@
    "tickers": []
   },
   {
+   "id": "4727c81f5174",
+   "title": "JEPI vs JEPQ: After Comparing America’s Two Biggest Income ETFs, One Is the Better Buy for the Rest of 2026",
+   "link": "https://finance.yahoo.com/markets/options/articles/jepi-vs-jepq-comparing-america-142357113.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-01T14:23:57+00:00",
+   "tickers": [
+    "JEPI",
+    "JEPQ"
+   ]
+  },
+  {
    "id": "127e28434ccd",
    "title": "IBEX Limited: The Price Finally Caught Up To The Thesis",
    "link": "https://seekingalpha.com/article/4929177-ibex-the-price-finally-caught-up-to-the-thesis?source=feed_all_articles",
@@ -137,6 +166,21 @@
    "published": "2026-08-01T14:16:12+00:00",
    "tickers": [
     "SQ"
+   ]
+  },
+  {
+   "id": "c83679ba6ad2",
+   "title": "What The Bipolar Silicon Market Structure Means Moving Forward: Nividia Vs. Broadcom",
+   "link": "https://finance.yahoo.com/technology/ai/articles/bipolar-silicon-market-structure-means-141518716.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-01T14:15:18+00:00",
+   "tickers": [
+    "AVGO"
    ]
   },
   {
@@ -8225,53 +8269,16 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-31T23:18:46+00:00",
    "tickers": []
-  },
-  {
-   "id": "d79468ea2fef",
-   "title": "Soccer-Infantino adviser quits, report says FIFA World Cup sell-off plan is dead",
-   "link": "https://www.investing.com/news/stock-market-news/soccerinfantino-adviser-quits-report-says-fifa-world-cup-selloff-plan-is-dead-4829405",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-31T23:18:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ca569d49c986",
-   "title": "Man Group Plc 2026 Q2 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4929002-man-group-plc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-31T23:18:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2653c1ef765e",
-   "title": "Forvia SE 2026 Q2 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4929001-forvia-se-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-31T23:18:07+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "VYMI": "Vanguard International High Dividend Yield ETF",
+  "JEPQ": "JPMorgan Nasdaq Equity Premium Income ETF",
   "VGIT": "Vanguard Intermediate-Term Treasury ETF",
   "BNDX": "Vanguard Total International Bond ETF",
   "KNX": "Knight-Swift Transportation Holdings",
   "VBIL": "Vanguard 0-3 Month Treasury Bill ETF",
+  "JEPI": "JPMorgan Equity Premium Income ETF",
   "CHKP": "Check Point Software Technologies",
   "VGSH": "Vanguard Short-Term Treasury ETF",
   "IBM": "International Business Machines",
