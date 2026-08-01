@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-01T12:22:16.224832+00:00",
+ "generated": "2026-08-01T12:27:17.214970+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -106,6 +106,19 @@
    "type": "stocks",
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
+   "published": "2026-08-01T12:10:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d25db50cdce3",
+   "title": "Robert Kiyosaki warns boomers are set up for a historic rug pull and will end up homeless. Are you ready for the crash?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/robert-kiyosaki-warns-boomers-set-121000989.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
    "published": "2026-08-01T12:10:00+00:00",
    "tickers": []
   },
@@ -279,6 +292,22 @@
    "domain": "investing.com",
    "published": "2026-08-01T12:03:08+00:00",
    "tickers": []
+  },
+  {
+   "id": "ad96f7462c00",
+   "title": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
+   "link": "https://www.investors.com/news/tesla-rival-byd-sales-overseas-demand-flash-charging/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investors.com",
+   "published": "2026-08-01T12:03:08+00:00",
+   "tickers": [
+    "TSLA",
+    "BYD"
+   ]
   },
   {
    "id": "758eca4aea74",
@@ -1574,7 +1603,7 @@
    "title": "Mitgo Ventures Launches Publisher Investment Program",
    "link": "https://www.prnewswire.com/news-releases/mitgo-ventures-launches-publisher-investment-program-302840544.html",
    "summary": "NECKARSULM, Germany, Aug. 1, 2026 /PRNewswire/ -- Mitgo Ventures isn't a bank. It isn't a generic VC fund that discovered \"affiliate marketing\" last year. It's the investment arm of the same Mitgo Group that built one of the leading global partner networks, Admitad. Through the Publisher...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -8179,40 +8208,10 @@
    "tickers": [
     "NYT"
    ]
-  },
-  {
-   "id": "cd944b013e00",
-   "title": "Melrose Industries PLC 2026 Q2 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4928958-melrose-industries-plc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-31T22:01:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9351311ce257",
-   "title": "RDVY Vs. SCHD: Sticking With The Tried-And-True Dividend ETF Favorite",
-   "link": "https://seekingalpha.com/article/4928946-rdvy-vs-schd-sticking-with-the-tried-and-true-dividend-etf-favorite?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-31T22:01:34+00:00",
-   "tickers": [
-    "RDVY",
-    "SCHD"
-   ]
   }
  ],
  "ticker_names": {
   "VYMI": "Vanguard International High Dividend Yield ETF",
-  "RDVY": "First Trust Rising Dividend Achievers ETF",
   "VGIT": "Vanguard Intermediate-Term Treasury ETF",
   "BNDX": "Vanguard Total International Bond ETF",
   "KNX": "Knight-Swift Transportation Holdings",
@@ -8224,7 +8223,6 @@
   "BND": "Vanguard Total Bond Market ETF",
   "CRDO": "Credo Technology Group Holding",
   "AXS": "AXIS Capital Holdings Limited",
-  "SCHD": "Schwab US Dividend Equity ETF",
   "VUSB": "Vanguard Ultra-Short Bond ETF",
   "BSV": "Vanguard Short-Term Bond ETF",
   "VTEB": "Vanguard Tax-Exempt Bond ETF",
@@ -8283,6 +8281,7 @@
   "UBS": "UBS Group AG",
   "Z": "Zillow Group",
   "GOOGL": "Google Cloud",
+  "TSLA": "Supercharger",
   "BYD": "Boyd Gaming",
   "FE": "FirstEnergy",
   "HAE": "Haemonetics",
