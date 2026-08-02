@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T21:27:19.083599+00:00",
+ "generated": "2026-08-02T21:32:18.561329+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,21 @@
    "domain": "nytimes.com",
    "published": "2026-08-02T21:25:25+00:00",
    "tickers": []
+  },
+  {
+   "id": "c6a2c3460313",
+   "title": "NuScale Power's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-powers-next-earnings-report-210901660.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-02T21:09:01+00:00",
+   "tickers": [
+    "SMR"
+   ]
   },
   {
    "id": "cb0277a0ba9e",
@@ -53,6 +68,19 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-08-02T21:06:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9c67e6768a45",
+   "title": "Could You Retire With Less Than $1 Million? Millions of People Do.",
+   "link": "https://finance.yahoo.com/markets/articles/could-retire-less-1-million-210500891.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-02T21:05:00+00:00",
    "tickers": []
   },
   {
@@ -8215,34 +8243,6 @@
    "domain": "marketwatch.com",
    "published": "2026-08-01T15:29:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "44281d835a2c",
-   "title": "Prediction: Intel Posts a Profitable Year Before 2028. Here's How It Gets There.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-intel-posts-profitable-2028-152900414.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-01T15:29:00+00:00",
-   "tickers": [
-    "INTC"
-   ]
-  },
-  {
-   "id": "3a101588c61e",
-   "title": "US Treasury undertakes historic intervention in yen market",
-   "link": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1",
-   "summary": "New York Fed sells euros to buy yen following recent speculation that Tokyo intervened to support Japan’s currency",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-08-01T15:26:31+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8320,6 +8320,7 @@
   "JOBY": "Joby Aviation",
   "LLY": "Eli Lilly and",
   "POST": "Post Holdings",
+  "SMR": "NuScale Power",
   "MSTR": "MicroStrategy",
   "ADC": "Agree Realty",
   "ASML": "ASML Holding",
