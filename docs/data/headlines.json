@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T19:52:13.178461+00:00",
+ "generated": "2026-08-02T19:57:19.217691+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -31,6 +31,22 @@
    "domain": "investing.com",
    "published": "2026-08-02T19:36:26+00:00",
    "tickers": []
+  },
+  {
+   "id": "cf2866f26ee7",
+   "title": "Is Arm Holdings Stock a Buy on the Bullish CPU Outlook?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stock-buy-bullish-193500134.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-02T19:35:00+00:00",
+   "tickers": [
+    "ARM",
+    "BLSH"
+   ]
   },
   {
    "id": "fe16c1687d95",
@@ -8237,19 +8253,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-01T14:25:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "c24497bc5ac8",
-   "title": "US bars imports from 43 more companies over China’s alleged forced labor involving Uyghurs",
-   "link": "https://www.investing.com/news/stock-market-news/us-bars-imports-from-43-more-companies-over-chinas-alleged-forced-labor-involving-uyghurs-4829635",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-01T14:24:36+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8335,6 +8338,7 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
+  "ARM": "Arm Holdings",
   "BYD": "Boyd Gaming",
   "LCID": "Lucid Group",
   "ROST": "Ross Stores",
@@ -8359,6 +8363,7 @@
   "GOOG": "Alphabet",
   "LMND": "Lemonade",
   "RGEN": "Repligen",
+  "BLSH": "Bullish",
   "CVX": "Chevron",
   "GDDY": "GoDaddy",
   "GLW": "Corning",
