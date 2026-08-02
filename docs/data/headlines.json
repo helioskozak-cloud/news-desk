@@ -1,8 +1,49 @@
 {
- "generated": "2026-08-02T14:17:22.043256+00:00",
+ "generated": "2026-08-02T14:22:19.384831+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0007280eacd8",
+   "title": "Japan to announce that Tokyo and Washington took joint action to support the yen",
+   "link": "https://www.cnbc.com/2026/08/02/japan-to-announce-tokyo-washington-took-joint-action-on-yen-reuters.html",
+   "summary": "Finance Minister Satsuki Katayama is likely to stress the two countries' determination to combat what they see as excessive yen declines, sources tell Reuters.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-02T14:18:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "71a4d92c94cd",
+   "title": "Q2 Holdings: As Growth Decelerates, Much Better Bargains Exist In Software",
+   "link": "https://seekingalpha.com/article/4929305-q2-holdings-as-growth-decelerates-much-better-bargains-exist-in-software?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-02T14:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6b08242abd24",
+   "title": "How Dynex Capital Transformed Into The Third-Largest Agency mREIT: Yield 15%",
+   "link": "https://seekingalpha.com/article/4928391-how-dynex-capital-transformed-into-the-third-largest-agency-mreit-yield-15-percent?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-02T14:15:00+00:00",
+   "tickers": [
+    "DX"
+   ]
+  },
   {
    "id": "69c4d8afde16",
    "title": "Warsh Wants Fewer Fed Meetings: Markets May Pay The Price",
@@ -167,6 +208,19 @@
    "tickers": [
     "AMZN"
    ]
+  },
+  {
+   "id": "3e5260bc7f2e",
+   "title": "Carmelo Anthony breaks down how a $100M contract shrinks to under $50M — and where the rest goes",
+   "link": "https://finance.yahoo.com/small-business/articles/carmelo-anthony-breaks-down-100m-140000809.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-02T14:00:00+00:00",
+   "tickers": []
   },
   {
    "id": "8eadb675c2dc",
@@ -914,19 +968,6 @@
    "tickers": [
     "AAPL"
    ]
-  },
-  {
-   "id": "0007280eacd8",
-   "title": "Japan to announce that Tokyo and Washington took joint action to support the yen, Reuters reports",
-   "link": "https://www.cnbc.com/2026/08/02/japan-to-announce-tokyo-washington-took-joint-action-on-yen-reuters.html",
-   "summary": "Finance Minister Satsuki Katayama is likely to stress the two countries' determination to combat what they see as excessive yen declines, sources tell Reuters.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-08-02T11:21:33+00:00",
-   "tickers": []
   },
   {
    "id": "f57d080d658b",
@@ -8198,47 +8239,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-01T12:03:41+00:00",
    "tickers": []
-  },
-  {
-   "id": "4d54e108f8a8",
-   "title": "Trican Well Service Q2 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/trican-well-q2-earnings-call-120340550.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-01T12:03:40+00:00",
-   "tickers": [
-    "SCI"
-   ]
-  },
-  {
-   "id": "57e7fb601957",
-   "title": "Timbercreek Financial Q2 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/timbercreek-financial-q2-earnings-call-120340186.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-01T12:03:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bc1e9c58884b",
-   "title": "Supremex Q2 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/supremex-q2-earnings-call-highlights-120339113.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-01T12:03:39+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8303,6 +8303,7 @@
   "LNT": "Alliant Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
+  "DX": "Dynex Capital",
   "HSBC": "HSBC Holdings",
   "JOBY": "Joby Aviation",
   "LLY": "Eli Lilly and",
