@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T12:26:44.870422+00:00",
+ "generated": "2026-08-02T12:32:21.137583+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -122,13 +122,28 @@
    "title": "Walter insurers paid millions of dollars to credit rating provider Egan-Jones",
    "link": "https://www.ft.com/content/18ccb15a-f8ed-41ba-a948-7c62cd757274?syn-25a6b1a6=1",
    "summary": "Billionaire investor faces wide-ranging probe into the private credit holdings of insurers he controls",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-08-02T12:00:05+00:00",
    "tickers": []
+  },
+  {
+   "id": "3be6571fc453",
+   "title": "‘Crush this lady’: how eBay harassment campaign led to $56mn payout",
+   "link": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2?syn-25a6b1a6=1",
+   "summary": "Employees’ cyberstalking of Boston couple involving macabre deliveries ended in jail time and financial settlement",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-08-02T12:00:05+00:00",
+   "tickers": [
+    "EBAY"
+   ]
   },
   {
    "id": "b32d8a849266",
@@ -8259,19 +8274,6 @@
    "domain": "investing.com",
    "published": "2026-08-01T11:40:17+00:00",
    "tickers": []
-  },
-  {
-   "id": "c2f106d388df",
-   "title": "Interest Income Challenges Hamper Earnings Growth For First Interstate BancSystem",
-   "link": "https://seekingalpha.com/article/4929154-interest-income-challenges-hamper-earnings-growth-for-first-interstate-bancsystem?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-01T11:33:50+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8406,6 +8408,7 @@
   "GRAL": "GRAIL",
   "INTC": "Intel",
   "ONDS": "Ondas",
+  "EBAY": "eBay",
   "OKTA": "Okta",
   "POOL": "Pool",
   "V": "Visa"
