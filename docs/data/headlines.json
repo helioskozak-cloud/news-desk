@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-02T13:07:05.052349+00:00",
+ "generated": "2026-08-02T13:12:15.296793+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4d647a44fb83",
+   "title": "OPEC agrees September oil hike, completing rollback of voluntary cuts",
+   "link": "https://www.cnbc.com/2026/08/02/opec-agrees-september-oil-hike-completing-rollback-of-voluntary-cuts.html",
+   "summary": "Due to export disruptions from caused by the Iran and Ukraine wars, monthly OPEC+ hikes over most of this year have had little impact on the market.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-08-02T13:09:44+00:00",
+   "tickers": []
+  },
   {
    "id": "b7f6b8e0908c",
    "title": "Notable healthcare headlines for the week: Curium, Bristol-Myers Squibb, and Johnson & Johnson in focus",
@@ -37,8 +50,8 @@
    "title": "Is now the time to buy European equities?",
    "link": "https://www.investing.com/news/stock-market-news/is-now-the-time-to-buy-european-equities-4829697",
    "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
+   "source": "Investing Stock",
+   "category": "stocks",
    "type": "ma",
    "sentiment": "neutral",
    "domain": "investing.com",
@@ -8237,21 +8250,6 @@
     "VTEB",
     "VYMI"
    ]
-  },
-  {
-   "id": "b50f0d9d6fb8",
-   "title": "Bond vigilantes are doing the Fed's dirty work: Chart of the Day",
-   "link": "https://finance.yahoo.com/markets/article/bond-vigilantes-are-doing-the-feds-dirty-work-chart-of-the-day-114805136.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-01T11:48:05+00:00",
-   "tickers": [
-    "GTLS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8302,7 +8300,6 @@
   "UBER": "Uber Technologies",
   "AXP": "American Express",
   "COST": "Costco Wholesale",
-  "GTLS": "Chart Industries",
   "SPXC": "SPX Technologies",
   "VRSK": "Verisk Analytics",
   "GE": "General Electric",
