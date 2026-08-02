@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02T18:52:16.824187+00:00",
+ "generated": "2026-08-02T18:57:15.767046+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -16,6 +16,34 @@
    "published": "2026-08-02T18:41:00+00:00",
    "tickers": [
     "CHE"
+   ]
+  },
+  {
+   "id": "e9367a143427",
+   "title": "What This Business First Insider Sale Signals After a 34% Stock Run",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/business-first-insider-sale-signals-184021416.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-02T18:40:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "58e0804fc4be",
+   "title": "Oracle and Nvidia Shares Have Plunged Over the Past 3 Months. Is It Time to Cut These Tech Stocks Loose?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-nvidia-shares-plunged-over-183500664.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-02T18:35:00+00:00",
+   "tickers": [
+    "ORCL"
    ]
   },
   {
@@ -8227,34 +8255,6 @@
    "tickers": [
     "GLPI"
    ]
-  },
-  {
-   "id": "be5da702ba22",
-   "title": "SpaceX: Looking For A Bottom",
-   "link": "https://seekingalpha.com/article/4929129-spacex-looking-for-a-bottom?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-01T14:00:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e509d3de3518",
-   "title": "A $2 Billion Reason to Buy Arm Holdings Stock Now",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/2-billion-reason-buy-arm-140002670.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-01T14:00:02+00:00",
-   "tickers": [
-    "ARM"
-   ]
   }
  ],
  "ticker_names": {
@@ -8342,7 +8342,6 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
-  "ARM": "Arm Holdings",
   "ALAB": "Astera Labs",
   "BYD": "Boyd Gaming",
   "LCID": "Lucid Group",
@@ -8385,6 +8384,7 @@
   "DXCM": "DexCom",
   "INCY": "Incyte",
   "NDAQ": "Nasdaq",
+  "ORCL": "Oracle",
   "PFE": "Pfizer",
   "PI": "Impinj",
   "RDDT": "Reddit",
