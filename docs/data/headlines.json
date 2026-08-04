@@ -1,8 +1,24 @@
 {
- "generated": "2026-08-04T06:37:22.139125+00:00",
+ "generated": "2026-08-04T06:42:05.339198+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "76f5470f9f37",
+   "title": "The AMD Deal Makes Core Scientific A Strong Buy",
+   "link": "https://seekingalpha.com/article/4929745-the-amd-deal-makes-core-scientific-a-strong-buy?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-04T06:36:43+00:00",
+   "tickers": [
+    "AMD",
+    "CORZ"
+   ]
+  },
   {
    "id": "0ef800bdad75",
    "title": "Exploring an Innovative Path for Desert Green Power ---- China-Egypt Belt and Road Joint Laboratory on Renewable Energy",
@@ -15,6 +31,36 @@
    "domain": "prnewswire.com",
    "published": "2026-08-04T06:35:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "2a21cfd1fc93",
+   "title": "Earnings Snapshot: BP expects Q3 upstream output of 2,100–2,250 kboe/d amid Middle East & seasonal weather impacts",
+   "link": "https://seekingalpha.com/news/4624297-earnings-snapshot-bp-expects-q3-upstream-output-of-21002250-kboed-amid-middle-east-seasonal-weather-impacts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-04T06:33:58+00:00",
+   "tickers": [
+    "BP"
+   ]
+  },
+  {
+   "id": "14ebb37dc6af",
+   "title": "Domino's Pizza Group plc 2026 Q2 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4929752-dominos-pizza-group-plc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-04T06:32:20+00:00",
+   "tickers": [
+    "DPZ"
+   ]
   },
   {
    "id": "1b5f879c1980",
@@ -8226,52 +8272,6 @@
     "HRL",
     "NWSA"
    ]
-  },
-  {
-   "id": "4cd866332cd2",
-   "title": "Otter Tail Corporation Announces Second Quarter Results and Updates Annual Earnings Guidance | OTTR Stock News",
-   "link": "https://www.stocktitan.net/news/OTTR/otter-tail-corporation-announces-second-quarter-results-and-updates-x7en8mekpn6k.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-03T22:00:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "664fdb873116",
-   "title": "Dianthus Therapeutics Announces Inducement Grants Under NASDAQ Listing Rule 5635(C)(4) | DNTH Stock News",
-   "link": "https://www.stocktitan.net/news/DNTH/dianthus-therapeutics-announces-inducement-grants-under-nasdaq-8xkldvuj36nl.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-03T22:00:00+00:00",
-   "tickers": [
-    "C",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "adcbe9c7e2cf",
-   "title": "Palantir’s stock climbs after earnings, as AI drives turbocharged growth",
-   "link": "https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories",
-   "summary": "Companies are turning to Palantir for greater autonomy over their AI models and data, according to CEO Alex Karp.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-08-03T21:59:00+00:00",
-   "tickers": [
-    "PLTR"
-   ]
   }
  ],
  "ticker_names": {
@@ -8288,6 +8288,7 @@
   "CRNX": "Crinetics Pharmaceuticals",
   "CFG": "Citizens Financial Group",
   "INSP": "Inspire Medical Systems",
+  "AMD": "Advanced Micro Devices",
   "CDNS": "Cadence Design Systems",
   "CHTR": "Charter Communications",
   "VRTX": "Vertex Pharmaceuticals",
@@ -8318,12 +8319,14 @@
   "CVCO": "Cavco Industries",
   "LH": "Labcorp Holdings",
   "TTE": "TotalEnergies SE",
+  "CORZ": "Core Scientific",
   "DIS": "The Walt Disney",
   "LNG": "Cheniere Energy",
   "PWR": "Quanta Services",
   "TRI": "Thomson Reuters",
   "VRNS": "Varonis Systems",
   "WGS": "GeneDx Holdings",
+  "DPZ": "Domino's Pizza",
   "META": "Meta Platforms",
   "BTE": "Baytex Energy",
   "HSBC": "HSBC Holdings",
