@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-08T16:37:37.398957+00:00",
+ "generated": "2026-08-08T16:42:36.788754+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,19 @@
    "sentiment": "negative",
    "domain": "prnewswire.com",
    "published": "2026-08-08T16:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6d230ace7b8a",
+   "title": "My adult kids are big earners. Should I do a Roth conversion now so they aren’t taxed as much on their inheritance?",
+   "link": "https://www.marketwatch.com/story/my-adult-kids-are-big-earners-should-i-do-a-roth-conversion-now-so-they-arent-taxed-as-much-on-their-inheritance-c136adae?mod=mw_rss_topstories",
+   "summary": "Inherited IRAs can create a tax liability for heirs, but this should not be your first concern.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-08-08T16:34:00+00:00",
    "tickers": []
   },
   {
@@ -205,6 +218,21 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-08T16:04:02+00:00",
    "tickers": []
+  },
+  {
+   "id": "3357a5a3bf10",
+   "title": "Klaviyo Q2 Earnings Call Highlights",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/klaviyo-q2-earnings-call-highlights-160401406.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-08T16:04:01+00:00",
+   "tickers": [
+    "KVYO"
+   ]
   },
   {
    "id": "e4a1073a683b",
@@ -8160,32 +8188,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-07T23:52:28+00:00",
    "tickers": []
-  },
-  {
-   "id": "c809028df697",
-   "title": "DeNA Co., Ltd. 2027 Q1 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4933525-dena-co-ltd-2027-q1-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-07T23:52:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5b3b30232871",
-   "title": "New Mountain Finance 2026 Q2 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4933524-new-mountain-finance-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-07T23:51:57+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8308,6 +8310,7 @@
   "CNC": "Centene",
   "GDDY": "GoDaddy",
   "HUBS": "HubSpot",
+  "KVYO": "Klaviyo",
   "LINE": "Lineage",
   "MRK": "Merck &",
   "PNR": "Pentair",
