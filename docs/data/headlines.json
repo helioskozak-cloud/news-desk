@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-08T17:02:38.998373+00:00",
+ "generated": "2026-08-08T17:07:28.062245+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d23641b003dd",
+   "title": "Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.",
+   "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+   "summary": "No one knows what Congress will do if Social Security’s trust fund were actually to be depleted.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-08-08T17:00:00+00:00",
+   "tickers": []
+  },
   {
    "id": "5643c93de03d",
    "title": "KOWIN présente sa gamme complète de solutions de stockage au salon FMS 2026 : les produits de stockage haute performance stimulent l'innovation en matière d'IA",
@@ -97,6 +110,21 @@
    ]
   },
   {
+   "id": "58438f4594ab",
+   "title": "Tractor Supply CEO Lawton Buys 15,600 Shares for $501,540 Amid Stock's 44% Decline",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tractor-supply-ceo-lawton-buys-164038142.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-08T16:40:38+00:00",
+   "tickers": [
+    "TSCO"
+   ]
+  },
+  {
    "id": "a25c1c5b07d3",
    "title": "Why Aurora Cannabis Looks Cheaper Than Its International Growth Suggests – Quarterly Update Report",
    "link": "https://finance.yahoo.com/healthcare/articles/why-aurora-cannabis-looks-cheaper-163923801.html",
@@ -134,6 +162,21 @@
    "domain": "prnewswire.com",
    "published": "2026-08-08T16:35:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "3081d11485c4",
+   "title": "Competition Is Heating Up, but Here's Why Intuitive Surgical Might Still Be the Smartest Bet in MedTech",
+   "link": "https://finance.yahoo.com/healthcare/articles/competition-heating-heres-why-intuitive-163500312.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-08T16:35:00+00:00",
+   "tickers": [
+    "ISRG"
+   ]
   },
   {
    "id": "6d230ace7b8a",
@@ -8146,47 +8189,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-07T23:57:42+00:00",
    "tickers": []
-  },
-  {
-   "id": "85e7edec6e94",
-   "title": "MFA Financial, Inc. 2026 Q2 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4933539-mfa-financial-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-07T23:57:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a60a366e9039",
-   "title": "Hut 8 Corp. 2026 Q2 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4933538-hut-8-corp-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-07T23:56:59+00:00",
-   "tickers": [
-    "HUT"
-   ]
-  },
-  {
-   "id": "8d761e9d7e26",
-   "title": "Kuraray Co., Ltd. 2026 Q2 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4933537-kuraray-co-ltd-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-07T23:56:39+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8224,6 +8226,7 @@
   "BRK-A": "Berkshire Hathaway",
   "COGT": "Cogent Biosciences",
   "IDXX": "IDEXX Laboratories",
+  "ISRG": "Intuitive Surgical",
   "PANW": "Palo Alto Networks",
   "SCHW": "The Charles Schwab",
   "RBLX": "Roblox Corporation",
@@ -8259,6 +8262,7 @@
   "MS": "Morgan Stanley",
   "PSA": "Public Storage",
   "SERV": "Serve Robotics",
+  "TSCO": "Tractor Supply",
   "NET": "Cloudflare Inc",
   "CSCO": "Cisco Systems",
   "HSBC": "HSBC Holdings",
@@ -8330,7 +8334,6 @@
   "ACM": "AECOM",
   "CHWY": "Chewy",
   "CIEN": "Ciena",
-  "HUT": "Hut 8",
   "KKR": "KKR &",
   "NUE": "Nucor",
   "EBAY": "eBay",
