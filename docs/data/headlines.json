@@ -1,19 +1,58 @@
 {
- "generated": "2026-08-09T22:17:05.095542+00:00",
+ "generated": "2026-08-09T22:21:51.323630+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
   {
+   "id": "5240f40b0dec",
+   "title": "Oil Prices Climb and Stocks Dip on Stalemate in Iran War",
+   "link": "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html",
+   "summary": "Hopes were dashed over the weekend for a breakthrough on the Strait of Hormuz.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "nytimes.com",
+   "published": "2026-08-09T22:19:18+00:00",
+   "tickers": []
+  },
+  {
    "id": "9ac9f658a1f2",
-   "title": "S&P 500 futures are flat as traders wait for possible Strait of Hormuz deal, inflation data ahead: Live updates",
+   "title": "S&P 500 futures tick lower as traders wait for possible Strait of Hormuz deal, inflation data ahead: Live updates",
    "link": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html",
    "summary": "The three major indexes are coming off their best weeks since April, and the S&amp;P 500 finished Friday at an all-time closing high.",
    "source": "CNBC Top",
    "category": "markets",
-   "type": "ma",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-08-09T22:18:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "16cc3ac0f34e",
+   "title": "Trump names Will Scharf as White House counsel",
+   "link": "https://www.cnbc.com/2026/08/09/trump-will-scharf-white-house-counsel.html",
+   "summary": "Will Scharf ‌will become the White House's top lawyer ​after overseeing the administrative work of the Oval Office in his current ⁠role.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-08-09T22:15:16+00:00",
+   "published": "2026-08-09T22:15:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "923c3da5b64e",
+   "title": "Trump names Will Scharf as White House counsel",
+   "link": "https://www.investing.com/news/stock-market-news/trump-names-will-scharf-as-white-house-counsel-4847757",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-09T22:06:31+00:00",
    "tickers": []
   },
   {
@@ -8220,47 +8259,6 @@
    "domain": "investing.com",
    "published": "2026-08-08T19:24:30+00:00",
    "tickers": []
-  },
-  {
-   "id": "e5697f73096d",
-   "title": "Materion Q2 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/materion-q2-earnings-call-highlights-190349490.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T19:03:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5ee5800f77f3",
-   "title": "Matador Resources Q2 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/energy/articles/matador-resources-q2-earnings-call-190348594.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T19:03:48+00:00",
-   "tickers": [
-    "MTDR"
-   ]
-  },
-  {
-   "id": "0dee49fa4e6e",
-   "title": "MSC Income Fund Q2 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/msc-income-fund-q2-earnings-190348655.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T19:03:48+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8305,7 +8303,6 @@
   "HOOD": "Robinhood Markets",
   "LITE": "Lumentum Holdings",
   "LPX": "Louisiana-Pacific",
-  "MTDR": "Matador Resources",
   "MU": "Micron Technology",
   "QUBT": "Quantum Computing",
   "RIVN": "Rivian Automotive",
