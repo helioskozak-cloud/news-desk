@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-09T23:32:19.972626+00:00",
+ "generated": "2026-08-09T23:37:13.542854+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "fc1fa4015e9b",
+   "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+   "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+   "summary": "“She has been living with me for four years.”",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-08-09T23:30:00+00:00",
+   "tickers": []
+  },
   {
    "id": "2620c5bc2bac",
    "title": "Online Advantages® Releases Six-Month AI Search Visibility Research, Revealing 12 Lessons for Brands",
@@ -149,6 +162,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-09T23:17:01+00:00",
    "tickers": []
+  },
+  {
+   "id": "e4440d365278",
+   "title": "Airbnb just found an unexpected way to make AI pay",
+   "link": "https://finance.yahoo.com/technology/ai/articles/airbnb-just-found-unexpected-way-231700904.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-09T23:17:00+00:00",
+   "tickers": [
+    "ABNB"
+   ]
   },
   {
    "id": "b8d50d9dc95a",
@@ -8191,34 +8219,6 @@
    "domain": "prnewswire.com",
    "published": "2026-08-08T22:01:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "539404e51534",
-   "title": "Firebird Opens the Region's Largest AI Factory and Announces Global Expansion",
-   "link": "https://www.prnewswire.com/news-releases/firebird-opens-the-regions-largest-ai-factory-and-announces-global-expansion-302846589.html",
-   "summary": "Firebird launches one of the world's fastest-deployed NVIDIA DSX AI factories, accelerating its global expansion across emerging markets. NVIDIA's investment will accelerate Firebird's expansion of AI infrastructure across emerging markets. Firebird's three-phase expansion in Armenia...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-08T21:46:00+00:00",
-   "tickers": [
-    "NVDA"
-   ]
-  },
-  {
-   "id": "ad55529a6a09",
-   "title": "When Leverage Goes Wrong on Wall Street",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/leverage-goes-wrong-wall-street-214537005.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T21:45:37+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8358,6 +8358,7 @@
   "WIX": "Wix.com",
   "WK": "Workiva",
   "WMT": "Walmart",
+  "ABNB": "Airbnb",
   "BTG": "B2Gold",
   "DEO": "Diageo",
   "ERAS": "Erasca",
