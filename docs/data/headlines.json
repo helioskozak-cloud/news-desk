@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-09T20:49:25.924263+00:00",
+ "generated": "2026-08-09T20:51:57.509803+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,50 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-09T20:44:47+00:00",
    "tickers": []
+  },
+  {
+   "id": "fe836a21ecd9",
+   "title": "A Darden Executive Kept Just 742 Shares Directly After Selling. Here's What Investors Should Know",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/darden-executive-kept-just-742-203932664.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-09T20:39:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2e5e749454b6",
+   "title": "Rocket Lab Reports Monday Night. Wall Street Wants $232 Million and 60% Growth.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-reports-monday-night-203800812.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-09T20:38:00+00:00",
+   "tickers": [
+    "RKLB"
+   ]
+  },
+  {
+   "id": "42bed6fb04e7",
+   "title": "Core Scientific (CORZ) Shareholders Rejected a $9B Sale. Does the AMD Deal Vindicate Them?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-corz-shareholders-rejected-203304503.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-09T20:33:04+00:00",
+   "tickers": [
+    "CORZ",
+    "AMD"
+   ]
   },
   {
    "id": "41339e90c44b",
@@ -329,6 +373,19 @@
    "tickers": [
     "CMCSA"
    ]
+  },
+  {
+   "id": "86ebc84881c1",
+   "title": "Trump Says Data Centers Could Be Bigger Than Oil, Urges States to Cut Taxes and Accelerate AI Growth: 'If I Were Governor...'",
+   "link": "https://finance.yahoo.com/technology/ai/articles/trump-says-data-centers-could-193112451.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-09T19:31:12+00:00",
+   "tickers": []
   },
   {
    "id": "f7deaeac82ae",
@@ -8209,62 +8266,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-08T18:03:54+00:00",
    "tickers": []
-  },
-  {
-   "id": "88a4cc4300b9",
-   "title": "Miller Industries Q2 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/miller-industries-q2-earnings-call-180354171.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T18:03:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "183b4be9a3be",
-   "title": "MFA Financial Q2 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mfa-financial-q2-earnings-call-180353211.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T18:03:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "14962646739b",
-   "title": "MetLife Q2 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/metlife-q2-earnings-call-highlights-180353019.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T18:03:53+00:00",
-   "tickers": [
-    "MET"
-   ]
-  },
-  {
-   "id": "c5b8d78282b6",
-   "title": "Manulife Financial Q2 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/manulife-financial-q2-earnings-call-180353491.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T18:03:53+00:00",
-   "tickers": [
-    "MFC"
-   ]
   }
  ],
  "ticker_names": {
@@ -8298,7 +8299,6 @@
   "BRK-A": "Berkshire Hathaway",
   "COGT": "Cogent Biosciences",
   "ISRG": "Intuitive Surgical",
-  "MFC": "Manulife Financial",
   "MGY": "Magnolia Oil & Gas",
   "MLI": "Mueller Industries",
   "MRVL": "Marvell Technology",
@@ -8412,7 +8412,6 @@
   "GLW": "Corning",
   "IDA": "IDACORP",
   "LINE": "Lineage",
-  "MET": "MetLife",
   "NTR": "Nutrien",
   "PEP": "PepsiCo",
   "SCI": "Service",
