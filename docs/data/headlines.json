@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-09T22:42:17.290940+00:00",
+ "generated": "2026-08-09T22:47:02.493072+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -61,6 +61,22 @@
    "tickers": []
   },
   {
+   "id": "8d05912e7262",
+   "title": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investors.com",
+   "published": "2026-08-09T22:24:54+00:00",
+   "tickers": [
+    "LITE",
+    "CSCO"
+   ]
+  },
+  {
    "id": "839253769473",
    "title": "Tilley Harley-Davidson Hosts Freedom Revival 70's Classic Motorcycle Show in Statesville, NC on Aug 29, 2026",
    "link": "https://www.prnewswire.com/news-releases/tilley-harley-davidson-hosts-freedom-revival-70s-classic-motorcycle-show-in-statesville-nc-on-aug-29-2026-302846693.html",
@@ -101,6 +117,21 @@
    "published": "2026-08-09T22:20:00+00:00",
    "tickers": [
     "EQPT"
+   ]
+  },
+  {
+   "id": "657617acc6d1",
+   "title": "Apple CEO Tim Cook Just Passed His Successor a Mess",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-tim-cook-just-222000544.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-09T22:20:00+00:00",
+   "tickers": [
+    "AAPL"
    ]
   },
   {
@@ -180,22 +211,6 @@
    "domain": "investing.com",
    "published": "2026-08-09T22:06:31+00:00",
    "tickers": []
-  },
-  {
-   "id": "8d05912e7262",
-   "title": "Dow Jones Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investors.com",
-   "published": "2026-08-09T22:06:28+00:00",
-   "tickers": [
-    "LITE",
-    "CSCO"
-   ]
   },
   {
    "id": "0d760a09aa51",
@@ -8234,21 +8249,6 @@
     "CME",
     "CBOE"
    ]
-  },
-  {
-   "id": "d2cc2a090a46",
-   "title": "Caterpillar tariffs send major signal on margins",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-tariffs-send-major-signal-200700895.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T20:07:00+00:00",
-   "tickers": [
-    "CAT"
-   ]
   }
  ],
  "ticker_names": {
@@ -8344,7 +8344,6 @@
   "GOOGL": "Google Cloud",
   "NVDA": "Grace Hopper",
   "ARM": "Arm Holdings",
-  "CAT": "Caterpillar",
   "FSLR": "First Solar",
   "S": "SentinelOne",
   "SHAK": "Shake Shack",
