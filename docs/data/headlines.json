@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-09T21:22:08.829155+00:00",
+ "generated": "2026-08-09T21:27:17.085181+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,34 @@
    "sentiment": "negative",
    "domain": "ft.com",
    "published": "2026-08-09T21:16:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7c0cc2e8f675",
+   "title": "Alphabet's Cloud Computing Business Just Posted 82% Revenue Growth. Next Quarter Could Be Even Better.",
+   "link": "https://finance.yahoo.com/technology/articles/alphabets-cloud-computing-business-just-210500670.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-09T21:05:00+00:00",
+   "tickers": [
+    "GOOG"
+   ]
+  },
+  {
+   "id": "9d5054e09ab7",
+   "title": "CES Energy Solutions Q2 Earnings Call Highlights",
+   "link": "https://finance.yahoo.com/energy/articles/ces-energy-solutions-q2-earnings-210352832.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-09T21:03:52+00:00",
    "tickers": []
   },
   {
@@ -220,6 +248,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-09T20:56:09+00:00",
    "tickers": []
+  },
+  {
+   "id": "f82aea9a27bb",
+   "title": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-jpmorgan-oppenheimer-name-3-205320683.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-09T20:53:20+00:00",
+   "tickers": [
+    "JIRE"
+   ]
   },
   {
    "id": "300ef115c0c5",
@@ -8220,55 +8263,11 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-08T18:35:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "53b14957e2fe",
-   "title": "Progressive's Combined Ratio Widened to 87.1 Last Quarter. What That Says About the Growth Machine.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/progressives-combined-ratio-widened-87-183500281.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T18:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dcb9d1e2d93a",
-   "title": "What JEPQ Actually Paid the Last Time the Nasdaq Fell 10%: a Stress Test for Its 10% Yield",
-   "link": "https://finance.yahoo.com/markets/options/articles/jepq-actually-paid-last-time-183454837.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T18:34:54+00:00",
-   "tickers": [
-    "NDAQ",
-    "JEPQ"
-   ]
-  },
-  {
-   "id": "36dcba97d2ef",
-   "title": "BofA points to the Eli Lilly market that could outsize the U.S.",
-   "link": "https://finance.yahoo.com/healthcare/articles/bofa-points-eli-lilly-market-183300957.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T18:33:00+00:00",
-   "tickers": [
-    "LLY"
-   ]
   }
  ],
  "ticker_names": {
+  "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
-  "JEPQ": "JPMorgan Nasdaq Equity Premium Income ETF",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "BAM": "Brookfield Asset Management",
   "ICE": "Intercontinental Exchange",
