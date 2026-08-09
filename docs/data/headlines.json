@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-09T20:02:18.576133+00:00",
+ "generated": "2026-08-09T20:07:18.665388+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -32,6 +32,37 @@
    ]
   },
   {
+   "id": "e7d43a436e5a",
+   "title": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-taiwan-semiconductor-195000867.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-09T19:50:00+00:00",
+   "tickers": [
+    "TSM"
+   ]
+  },
+  {
+   "id": "790a7d29c6fd",
+   "title": "Costco vs. General Mills: Comparing Revenue Trends Between These Consumer Staples Companies",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/costco-vs-general-mills-comparing-194801511.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-09T19:48:01+00:00",
+   "tickers": [
+    "GIS",
+    "COST"
+   ]
+  },
+  {
    "id": "01a76122aa77",
    "title": "Yemen’s Houthis attack Saudi refinery after kingdom signs defence pact",
    "link": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714",
@@ -42,6 +73,19 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-08-09T19:42:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b6706c8c7b19",
+   "title": "Berkshire breaks 14-quarter selling streak with $23.5B of stock buys — $10B went to 1 company at a private price",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-breaks-14-quarter-selling-194000465.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-09T19:40:00+00:00",
    "tickers": []
   },
   {
@@ -8220,55 +8264,12 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-08T17:35:51+00:00",
    "tickers": []
-  },
-  {
-   "id": "3a90c53d65a4",
-   "title": "Grindr CEO makes stunning AI reveal that changes the dating game",
-   "link": "https://finance.yahoo.com/technology/ai/articles/grindr-ceo-makes-stunning-ai-173300577.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T17:33:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "763eecae65c7",
-   "title": "Nvidia, Micron or Broadcom: What Would Raymond Dalio Do?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-micron-broadcom-raymond-dalio-173039456.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T17:30:39+00:00",
-   "tickers": [
-    "AVGO",
-    "MU"
-   ]
-  },
-  {
-   "id": "0278a2c5a0a1",
-   "title": "Why Doximity Stock Skyrocketed on Friday",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-doximity-stock-skyrocketed-friday-172657058.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-08T17:26:57+00:00",
-   "tickers": [
-    "DOCS"
-   ]
   }
  ],
  "ticker_names": {
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "JEPQ": "JPMorgan Nasdaq Equity Premium Income ETF",
+  "TSM": "Taiwan Semiconductor Manufacturing",
   "BJ": "BJ's Wholesale Club Holdings",
   "BAM": "Brookfield Asset Management",
   "ICE": "Intercontinental Exchange",
@@ -8320,6 +8321,7 @@
   "UBER": "Uber Technologies",
   "AXP": "American Express",
   "CELH": "Celsius Holdings",
+  "COST": "Costco Wholesale",
   "IRTC": "iRhythm Holdings",
   "NVO": "Novo Nordisk A/S",
   "NVST": "Envista Holdings",
@@ -8343,6 +8345,7 @@
   "PLNT": "Planet Fitness",
   "NET": "Cloudflare Inc",
   "CSCO": "Cisco Systems",
+  "GIS": "General Mills",
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "NXE": "NexGen Energy",
@@ -8393,7 +8396,6 @@
   "APP": "AppLovin",
   "AVGO": "Broadcom",
   "BP": "BP p.l.c",
-  "DOCS": "Doximity",
   "GOOG": "Alphabet",
   "NI": "NiSource",
   "NNN": "NNN REIT",
