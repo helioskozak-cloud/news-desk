@@ -1,8 +1,23 @@
 {
- "generated": "2026-08-10T08:22:16.015504+00:00",
+ "generated": "2026-08-10T08:26:57.586622+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c780a3a95d1b",
+   "title": "Berkshire Hathaway finally started spending its nearly $400 billion in cash — on one stock it knows very well",
+   "link": "https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
+   "summary": "Berkshire is buying its own stock after years of building up a cash pile. Not everyone is excited.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-08-10T08:21:00+00:00",
+   "tickers": [
+    "BRK-A"
+   ]
+  },
   {
    "id": "9ac9f658a1f2",
    "title": "S&P 500 futures rise as traders watch for Strait of Hormuz deal, inflation data: Live updates",
@@ -14,6 +29,32 @@
    "sentiment": "positive",
    "domain": "cnbc.com",
    "published": "2026-08-10T08:20:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "de4a6ee4dd61",
+   "title": "QDTE: The Market Dynamic Has Now Changed (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4933995-qdte-market-dynamic-has-now-changed-rating-downgrade?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-10T08:18:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f90f5b450f3f",
+   "title": "Globe Telecom, Inc. (GTMEY) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4933963-globe-telecom-inc-gtmey-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-10T08:18:18+00:00",
    "tickers": []
   },
   {
@@ -543,7 +584,7 @@
    "title": "Hana Bank Subsidiary GLN Expands QR Payment Network for International Travelers to Korea",
    "link": "https://www.prnewswire.com/news-releases/hana-bank-subsidiary-gln-expands-qr-payment-network-for-international-travelers-to-korea-302846978.html",
    "summary": "Partnership with Coocon adds 500,000 Seoul Pay merchants, bringing GLN's QR payment network to approximately 1.5 million merchants across Korea QR payment transaction volume and value by inbound international travelers increased approximately 1,000% in the first half of 2026 compared with...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -8129,47 +8170,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-09T17:03:57+00:00",
    "tickers": []
-  },
-  {
-   "id": "5f04fc6d2e4e",
-   "title": "Select Water Solutions Q2 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/select-water-solutions-q2-earnings-170357873.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-09T17:03:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c73b42446e9a",
-   "title": "Essential Utilities Q2 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-q2-earnings-call-170357920.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-09T17:03:57+00:00",
-   "tickers": [
-    "WTRG"
-   ]
-  },
-  {
-   "id": "0132d86f0572",
-   "title": "WPP H1 Earnings Call Highlights",
-   "link": "https://finance.yahoo.com/media-advertising/articles/wpp-h1-earnings-call-highlights-170356880.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-09T17:03:56+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8203,7 +8203,6 @@
   "ZETA": "Zeta Global Holdings",
   "AKAM": "Akamai Technologies",
   "FIX": "Comfort Systems USA",
-  "WTRG": "Essential Utilities",
   "BRK-A": "Berkshire Hathaway",
   "DRI": "Darden Restaurants",
   "MRVL": "Marvell Technology",
