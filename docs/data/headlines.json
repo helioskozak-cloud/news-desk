@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-10T05:07:23.811162+00:00",
+ "generated": "2026-08-10T05:11:48.166777+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "50fd3922436a",
+   "title": "Sohu.com Non-GAAP EPADS of $0.02, revenue of $136M; gives Q3 outlook",
+   "link": "https://seekingalpha.com/news/4629696-sohucom-non-gaap-epads-of-002-revenue-of-136m-gives-q3-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-10T05:05:52+00:00",
+   "tickers": []
+  },
   {
    "id": "9d1385c05653",
    "title": "Seadrill Announces Second Quarter 2026 Results | SDRL Stock News",
@@ -16,6 +29,22 @@
    "published": "2026-08-10T05:01:00+00:00",
    "tickers": [
     "NWSA"
+   ]
+  },
+  {
+   "id": "8ccd366ff37d",
+   "title": "Trump says oil supermajors are making too much money. What will they do with it?",
+   "link": "https://www.cnbc.com/2026/08/10/oil-iran-war-profits-windfall-tax.html",
+   "summary": "The windfall is fueling fresh political and environmental backlash, with Trump accusing Exxon Mobil and Chevron of making “too much money.”",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-10T05:00:02+00:00",
+   "tickers": [
+    "XOM",
+    "CVX"
    ]
   },
   {
@@ -8159,32 +8188,6 @@
    "domain": "investing.com",
    "published": "2026-08-09T08:54:53+00:00",
    "tickers": []
-  },
-  {
-   "id": "aba3451c5f6c",
-   "title": "Bitcoin slips below $65,000 as ETF inflows offset fork concerns",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-65000-as-etf-inflows-offset-fork-concerns-4847718",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-09T08:51:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "643f27bae6c6",
-   "title": "Week Ahead: Soft CPI To Follow Disappointing U.S. Jobs Report",
-   "link": "https://seekingalpha.com/article/4933869-week-ahead-soft-cpi-to-follow-disappointing-us-jobs-report?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-09T08:40:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8268,6 +8271,7 @@
   "NVDA": "Grace Hopper",
   "ARM": "Arm Holdings",
   "FSLR": "First Solar",
+  "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
@@ -8300,6 +8304,7 @@
   "BLSH": "Bullish",
   "BPOP": "Popular",
   "CMCSA": "Comcast",
+  "CVX": "Chevron",
   "LINE": "Lineage",
   "PEP": "PepsiCo",
   "SCI": "Service",
