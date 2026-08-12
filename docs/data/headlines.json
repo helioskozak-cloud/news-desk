@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-12T01:12:00.232956+00:00",
+ "generated": "2026-08-12T01:16:50.273486+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5642d9328cd7",
+   "title": "A Maine Town, Once Dependent on a Paper Mill, Tries to Move On",
+   "link": "https://www.nytimes.com/2026/08/09/business/manufacturing-mill-town-madison-maine.html",
+   "summary": "For over a century, Madison Paper Industries was a small Maine town’s economic engine. A new owner moved in, but uncertainty persists.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-08-12T01:11:29+00:00",
+   "tickers": []
+  },
   {
    "id": "ef875a79b2e6",
    "title": "FocalTherics™ Announces Pricing of Public Offering of American Depositary Shares | FOCL Stock News",
@@ -17,6 +30,34 @@
    "tickers": [
     "NWSA"
    ]
+  },
+  {
+   "id": "923fa633666a",
+   "title": "BlackRock Global Equity Market Neutral Fund Q2 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4935103-blackrock-global-equity-market-neutral-fund-q2-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-12T01:10:00+00:00",
+   "tickers": [
+    "BLK"
+   ]
+  },
+  {
+   "id": "06b5a8a80bdc",
+   "title": "FocalTherics™ Announces Pricing of Public Offering of American Depositary Shares",
+   "link": "https://www.globenewswire.com/news-release/2026/08/12/3343326/9622/en/focaltherics-announces-pricing-of-public-offering-of-american-depositary-shares.html",
+   "summary": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-08-12T01:10:00+00:00",
+   "tickers": []
   },
   {
    "id": "b07e6b4e9ab7",
@@ -8241,47 +8282,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-11T20:23:31+00:00",
    "tickers": []
-  },
-  {
-   "id": "e9f41afcbe62",
-   "title": "Anterix GAAP EPS of $0.01 beats by $0.18, revenue of $1.9M misses by $0.08M",
-   "link": "https://seekingalpha.com/news/4631044-anterix-gaap-eps-of-0_01-beats-by-0_18-revenue-of-1_9m-misses-by-0_08m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-11T20:23:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b1d366940089",
-   "title": "Vornado Realty Trust to Enter into 350 Park Avenue Joint Venture",
-   "link": "https://www.globenewswire.com/news-release/2026/08/11/3343188/0/en/vornado-realty-trust-to-enter-into-350-park-avenue-joint-venture.html",
-   "summary": "NEW YORK, Aug. 11, 2026 (GLOBE NEWSWIRE) -- Vornado Realty Trust (NYSE:VNO) and Rudin Management announced today that they have formally agreed to enter into a joint venture with an affiliate of Kenneth C. Griffin, Citadel’s Founder and CEO (“KG”), for the development of a 1.9 million square foot trophy office building at 350 Park Avenue. In connection with the development, Citadel Enterprise Americas LLC will enter into a 15-year, 1.05 million square foot anchor lease at the property to serve a",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-11T20:23:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "aef47b49ceb9",
-   "title": "Vornado Realty Trust to Enter into 350 Park Avenue Joint Venture | VNO Stock News",
-   "link": "https://www.stocktitan.net/news/VNO/vornado-realty-trust-to-enter-into-350-park-avenue-joint-l5uy1msw0xdi.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-11T20:23:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8365,6 +8365,7 @@
   "AL": "Air Lease",
   "ATRO": "Astronics",
   "BC": "Brunswick",
+  "BLK": "BlackRock",
   "CRWV": "CoreWeave",
   "HRB": "H&R Block",
   "MDT": "Medtronic",
