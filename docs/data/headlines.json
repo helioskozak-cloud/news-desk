@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-13T05:21:59.073441+00:00",
+ "generated": "2026-08-13T05:27:15.936461+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c122be32a5b6",
+   "title": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
+   "link": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
+   "summary": "South Korea's Kospi has staged a reversal from its latest rout, returning to bull-market territory as investors piled back into the semiconductor giants that dominate the index.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-13T05:22:03+00:00",
+   "tickers": []
+  },
   {
    "id": "2f433a03193f",
    "title": "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
@@ -15,6 +28,22 @@
    "domain": "cnbc.com",
    "published": "2026-08-13T05:19:50+00:00",
    "tickers": []
+  },
+  {
+   "id": "b26c06adda7d",
+   "title": "Omeros outlines Q3 2026 interest expense of about $6.5M while advancing $287,000 NTAP for YARTEMLEA",
+   "link": "https://seekingalpha.com/news/4632079-omeros-outlines-q3-2026-interest-expense-of-about-6_5m-while-advancing-287000-ntap-for?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-13T05:18:45+00:00",
+   "tickers": [
+    "OMER",
+    "NTAP"
+   ]
   },
   {
    "id": "7d5ce2317814",
@@ -1225,19 +1254,6 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-08-13T04:23:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c122be32a5b6",
-   "title": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
-   "link": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
-   "summary": "South Korea's Kospi has staged a reversal from its latest rout, returning to bull-market territory as investors piled back into the semiconductor giants that dominate the index.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-08-13T04:22:36+00:00",
    "tickers": []
   },
   {
@@ -8123,21 +8139,6 @@
     "HON",
     "NDAQ"
    ]
-  },
-  {
-   "id": "9a5ced29871b",
-   "title": "Medicus Pharma Reports Second Quarter 2026 Financial Results and Provides Corporate Update | MDCX Stock News",
-   "link": "https://www.stocktitan.net/news/MDCX/medicus-pharma-reports-second-quarter-2026-financial-results-and-8sy0zdogielp.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-12T22:00:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8221,6 +8222,7 @@
   "ABNB": "Airbnb",
   "INTU": "Intuit",
   "NDAQ": "Nasdaq",
+  "NTAP": "NetApp",
   "NTRA": "Natera",
   "OMER": "Omeros",
   "SITM": "SiTime",
