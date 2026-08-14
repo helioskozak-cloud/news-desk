@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-14T22:37:07.442716+00:00",
+ "generated": "2026-08-14T22:42:01.356352+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b90d46639adc",
+   "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+   "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+   "summary": "The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-14T22:36:37+00:00",
+   "tickers": []
+  },
   {
    "id": "f550cd183025",
    "title": "Netflix: Bill Ackman Came Back For A Reason",
@@ -123,6 +136,24 @@
    "domain": "globenewswire.com",
    "published": "2026-08-14T22:30:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "af5dd9e98d82",
+   "title": "Situational Awareness filing shows AI bets before forced portfolio sale to Citadel",
+   "link": "https://www.cnbc.com/2026/08/14/situational-awareness-filing-shows-ai-bets-before-forced-portfolio-sale-to-citadel.html",
+   "summary": "The hedge fund's five largest disclosed stock holdings at the end of June were Sandisk, Micron Technology, Bloom Energy, Taiwan Semiconductor and Nebius Group.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-14T22:27:32+00:00",
+   "tickers": [
+    "MU",
+    "TSM",
+    "NBIS",
+    "SNDK"
+   ]
   },
   {
    "id": "218b774306a4",
@@ -1504,7 +1535,7 @@
    "title": "Radiate Holdco, LLC Releases Second Quarter 2026 Financial Results",
    "link": "https://www.prnewswire.com/news-releases/radiate-holdco-llc-releases-second-quarter-2026-financial-results-302852175.html",
    "summary": "PRINCETON, N.J., Aug. 14, 2026 /PRNewswire/ -- Radiate Holdco, LLC (\"Radiate\") announced today that it released its Second Quarter 2026 financial results on its secure investor website. The financial results were provided in accordance with the terms of the Indentures governing Radiate's...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "earnings",
    "sentiment": "neutral",
@@ -1894,19 +1925,6 @@
    ]
   },
   {
-   "id": "b90d46639adc",
-   "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
-   "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
-   "summary": "The OCC conditionally approved World Liberty Trust Company’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-08-14T21:10:27+00:00",
-   "tickers": []
-  },
-  {
    "id": "6abe1ece9108",
    "title": "Earnings call transcript: Corvex misses Q2 2026 estimates as stock turns lower",
    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-corvex-misses-q2-2026-estimates-as-stock-turns-lower-93CH-4861526",
@@ -2223,7 +2241,7 @@
    "title": "Sun Life Announces Conversion Privilege of Class A Non-Cumulative Rate Reset Preferred Shares Series 10R and Class A Non-Cumulative Floating Rate Preferred Shares Series 11QR",
    "link": "https://www.prnewswire.com/news-releases/sun-life-announces-conversion-privilege-of-class-a-non-cumulative-rate-reset-preferred-shares-series-10r-and-class-a-non-cumulative-floating-rate-preferred-shares-series-11qr-302852110.html",
    "summary": "TORONTO, Aug. 14, 2026 /PRNewswire/ -- Sun Life Financial Inc. (TSX: SLF) (NYSE: SLF) (\"Sun Life\") today announced that it does not intend to exercise its right to redeem its currently outstanding Class A Non-Cumulative Rate Reset Preferred Shares Series 10R (the \"Series 10R Shares\") nor...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "macro",
    "sentiment": "neutral",
@@ -8456,23 +8474,11 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-14T18:06:56+00:00",
    "tickers": []
-  },
-  {
-   "id": "e1d324f6c97a",
-   "title": "Dasa Q2 2026 slides: EBITDA jumps 53% amid revenue miss",
-   "link": "https://www.investing.com/news/company-news/dasa-q2-2026-slides-ebitda-jumps-53-amid-revenue-miss-93CH-4861395",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-14T18:06:03+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "IAGG": "iShares International Aggregate Bond Fund",
+  "TSM": "Taiwan Semiconductor Manufacturing",
   "GBTC": "Grayscale Bitcoin Trust (BTC)",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "THG": "The Hanover Insurance Group",
@@ -8538,6 +8544,7 @@
   "POST": "Post Holdings",
   "UNH": "United Health",
   "BKR": "Baker Hughes",
+  "NBIS": "Nebius Group",
   "RL": "Ralph Lauren",
   "TTAN": "ServiceTitan",
   "UWMC": "UWM Holdings",
