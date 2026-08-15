@@ -1,8 +1,25 @@
 {
- "generated": "2026-08-15T15:02:24.294098+00:00",
+ "generated": "2026-08-15T15:06:47.728433+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d7b57c7de406",
+   "title": "Notable trades: Netflix, Coca-Cola, Pfizer among notable names",
+   "link": "https://seekingalpha.com/news/4633449-notable-trades-netflix-coca-cola-pfizer-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-15T15:00:09+00:00",
+   "tickers": [
+    "KO",
+    "NFLX",
+    "PFE"
+   ]
+  },
   {
    "id": "bcd868e68aeb",
    "title": "Meant Launches as LegitScript-Certified GLP-1 Telehealth Platform with Included Coaching and Supplement Kit",
@@ -28,6 +45,36 @@
    "domain": "prnewswire.com",
    "published": "2026-08-15T15:00:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "d55c9ed119a9",
+   "title": "Alibaba, Walmart To Headline Earnings Next Week, FOMC Minutes Of Meeting In Focus",
+   "link": "https://seekingalpha.com/article/4936879-alibaba-walmart-to-headline-earnings-next-week-fomc-minutes-of-meeting-in-focus?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-15T15:00:00+00:00",
+   "tickers": [
+    "WMT"
+   ]
+  },
+  {
+   "id": "684069a27968",
+   "title": "CoreWeave: Tapping Into Broader Enterprise, Yet Stay Updated",
+   "link": "https://seekingalpha.com/article/4937053-coreweave-tapping-into-broader-enterprise-yet-stay-updated?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-15T14:59:41+00:00",
+   "tickers": [
+    "CRWV"
+   ]
   },
   {
    "id": "d62aad084314",
@@ -8243,52 +8290,6 @@
    "domain": "investing.com",
    "published": "2026-08-14T21:09:09+00:00",
    "tickers": []
-  },
-  {
-   "id": "c5d49d253e82",
-   "title": "USA Rare Earth completes merger with Texas Mineral Resources",
-   "link": "https://www.investing.com/news/sec-filings/usa-rare-earth-completes-merger-with-texas-mineral-resources-93CH-4861525",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-14T21:08:59+00:00",
-   "tickers": [
-    "USAR"
-   ]
-  },
-  {
-   "id": "5681e401507e",
-   "title": "Starboard adds Dynatrace, Flowserve, and exits Beckton Dickson, among top Q2 trades",
-   "link": "https://seekingalpha.com/news/4633541-starboard-adds-dynatrace-flowserve-and-exits-beckton-dickson-among-top-q2-trades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-14T21:08:38+00:00",
-   "tickers": [
-    "DT",
-    "FLS"
-   ]
-  },
-  {
-   "id": "45c8711de7ce",
-   "title": "SoFi's Growth Looks Unstoppable, But One Weak Segment Keeps Me From A Strong Buy",
-   "link": "https://seekingalpha.com/article/4936933-sofi-growth-looks-unstoppable-but-one-weak-segment-keeps-me-from-a-strong-buy?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-14T21:08:27+00:00",
-   "tickers": [
-    "SOFI"
-   ]
   }
  ],
  "ticker_names": {
@@ -8342,7 +8343,6 @@
   "PRIM": "Primoris Services",
   "Q": "Qnity Electronics",
   "RIVN": "Rivian Automotive",
-  "SOFI": "SoFi Technologies",
   "UBER": "Uber Technologies",
   "GTLS": "Chart Industries",
   "J": "Jacobs Solutions",
@@ -8363,9 +8363,9 @@
   "MS": "Morgan Stanley",
   "PLNT": "Planet Fitness",
   "PSA": "Public Storage",
-  "USAR": "USA Rare Earth",
   "AVAV": "AeroVironment",
   "CLH": "Clean Harbors",
+  "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "MSTR": "MicroStrategy",
   "ASML": "ASML Holding",
@@ -8397,8 +8397,6 @@
   "ACN": "Accenture",
   "C": "Citigroup",
   "CRWV": "CoreWeave",
-  "DT": "Dynatrace",
-  "FLS": "Flowserve",
   "SM": "SM Energy",
   "SNOW": "Snowflake",
   "VVV": "Valvoline",
@@ -8429,6 +8427,7 @@
   "NDAQ": "Nasdaq",
   "NTRA": "Natera",
   "ORCL": "Oracle",
+  "PFE": "Pfizer",
   "RMBS": "Rambus",
   "CROX": "Crocs",
   "INTC": "Intel",
