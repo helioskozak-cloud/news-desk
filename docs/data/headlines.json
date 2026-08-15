@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T21:22:04.781771+00:00",
+ "generated": "2026-08-15T21:26:49.490282+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,50 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-08-15T21:07:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "014854076f15",
+   "title": "Which Broad Market ETF Wins for Your Portfolio, the iShares ITOT or Schwab's SCHB?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/broad-market-etf-wins-portfolio-210540367.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-15T21:05:40+00:00",
+   "tickers": [
+    "IAGG",
+    "SCHF",
+    "ITOT",
+    "SCHB"
+   ]
+  },
+  {
+   "id": "9998757dfb1b",
+   "title": "He Won $50,000 at Rodeos After Filing for Social Security. The IRS Asked Whether He Was Having Fun or Running a Business.",
+   "link": "https://finance.yahoo.com/small-business/articles/won-50-000-rodeos-filing-210326726.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-15T21:03:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "75255a85463d",
+   "title": "David Tepper cuts AI stock, yet value hits $1.1 billion",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/david-tepper-cuts-ai-stock-210300136.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-15T21:03:00+00:00",
    "tickers": []
   },
   {
@@ -265,6 +309,19 @@
    "sentiment": "neutral",
    "domain": "finance.yahoo.com",
    "published": "2026-08-15T20:05:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1aaffe8963b8",
+   "title": "Why Most Americans Intend to Retire at 65—But Actually Leave Work Three Years Earlier",
+   "link": "https://finance.yahoo.com/markets/articles/why-most-americans-intend-retire-200500488.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-15T20:05:00+00:00",
    "tickers": []
   },
   {
@@ -8209,73 +8266,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-14T23:18:35+00:00",
    "tickers": []
-  },
-  {
-   "id": "c6b44cf10d83",
-   "title": "Stratec SE ADR (STSEY) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4936978-stratec-se-adr-stsey-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-14T23:17:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "da28ebc2f307",
-   "title": "Stingray Group Inc. 2027 Q1 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4936977-stingray-group-inc-2027-q1-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-14T23:16:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0a341c7f6d16",
-   "title": "Dutch Bros director Todd Penegor buys $103,120 in Bros stock",
-   "link": "https://www.investing.com/news/insider-trading-news/dutch-bros-director-todd-penegor-buys-103120-in-bros-stock-93CH-4861628",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-14T23:15:57+00:00",
-   "tickers": [
-    "BROS"
-   ]
-  },
-  {
-   "id": "4bad8b1dc3b4",
-   "title": "Krystal Biotech (NASDAQ:KRYS) director Dino Rossi sells $8.2m shares",
-   "link": "https://www.investing.com/news/insider-trading-news/krystal-biotech-nasdaqkrys-director-dino-rossi-sells-82m-shares-93CH-4861627",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-14T23:15:56+00:00",
-   "tickers": [
-    "KRYS"
-   ]
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
+  "ITOT": "iShares Core S&P Total U.S. Stock Market ETF",
+  "IAGG": "iShares International Aggregate Bond Fund",
   "KTOS": "Kratos Defense & Security Solutions",
   "JEPI": "JPMorgan Equity Premium Income ETF",
   "SCHG": "Schwab U.S. Large-Cap Growth ETF",
+  "SCHF": "Schwab International Equity ETF",
   "SCHD": "Schwab US Dividend Equity ETF",
   "VGT": "Vanguard Information Tech ETF",
   "BSV": "Vanguard Short-Term Bond ETF",
+  "SCHB": "Schwab U.S. Broad Market ETF",
   "CHH": "Choice Hotels International",
   "FDL": "First Trust Morningstar ETF",
   "QQQ": "Invesco QQQ Trust, Series 1",
@@ -8322,7 +8327,6 @@
   "LOW": "Lowe's Companies",
   "UMAC": "Unusual Machines",
   "EXP": "Eagle Materials",
-  "KRYS": "Krystal Biotech",
   "VICI": "VICI Properties",
   "AMT": "American Tower",
   "ENPH": "Enphase Energy",
@@ -8354,7 +8358,6 @@
   "AMZN": "Whole Foods",
   "SE": "Sea Limited",
   "BN": "Brookfield",
-  "BROS": "Dutch Bros",
   "CBRE": "CBRE Group",
   "CLSK": "CleanSpark",
   "CRM": "Salesforce",
