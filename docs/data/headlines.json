@@ -1,8 +1,36 @@
 {
- "generated": "2026-08-15T11:42:15.414315+00:00",
+ "generated": "2026-08-15T11:47:14.221141+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ce5920e1b831",
+   "title": "Clean Harbors co-CEO Gerstenberg sells $699,650 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/clean-harbors-coceo-gerstenberg-sells-699650-in-stock-93CH-4861774",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-15T11:31:08+00:00",
+   "tickers": [
+    "CLH"
+   ]
+  },
+  {
+   "id": "d31206f84f0b",
+   "title": "Winnebago president & CEO Happe sells $393,630 in WGO shares",
+   "link": "https://www.investing.com/news/insider-trading-news/winnebago-president--ceo-happe-sells-393630-in-wgo-shares-93CH-4861773",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-15T11:31:05+00:00",
+   "tickers": []
+  },
   {
    "id": "565fcd9b96ca",
    "title": "Anthropic Q2 revenue said to have topped $11.5B",
@@ -43,6 +71,19 @@
    "tickers": [
     "BLSH"
    ]
+  },
+  {
+   "id": "b7c5252f8fc5",
+   "title": "Le Directoire et le Conseil de surveillance de Nagarro recommandent d'accepter l'offre publique volontaire de rachat lancée par Persistent",
+   "link": "https://www.prnewswire.com/news-releases/le-directoire-et-le-conseil-de-surveillance-de-nagarro-recommandent-daccepter-loffre-publique-volontaire-de-rachat-lancee-par-persistent-302852272.html",
+   "summary": "Publication de la déclaration motivée conjointe du Directoire et du Conseil de surveillance Le prix offert de 81,00 euros par action est jugé adéquat et équitable Le Directoire et le Conseil de surveillance soutiennent le partenariat stratégique et recommandent aux actionnaires d'accepter...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-15T11:29:00+00:00",
+   "tickers": []
   },
   {
    "id": "8f6549f20e1d",
@@ -1743,7 +1784,7 @@
    "title": "The Wealth Company Launches Gift City Fund to Give NRIs a Single, Dollar-Denominated Route into India's Mutual Fund Market",
    "link": "https://www.prnewswire.com/news-releases/the-wealth-company-launches-gift-city-fund-to-give-nris-a-single-dollar-denominated-route-into-indias-mutual-fund-market-302851983.html",
    "summary": "New Category III AIF brings India's 50+ AMCs and 1,600+ mutual fund schemes within one professionally managed investment structure MUMBAI, India, Aug. 15, 2026 /PRNewswire/ -- The Wealth Company, the asset management arm of Pantomath Group, has launched The Wealth Company IFSC Fund of...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -8275,47 +8316,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-14T20:27:54+00:00",
    "tickers": []
-  },
-  {
-   "id": "3db74e390db7",
-   "title": "Elite Pharmaceuticals, Inc. (ELTP) Q1 2027 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4936884-elite-pharmaceuticals-inc-eltp-q1-2027-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-14T20:27:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7976db6a80f2",
-   "title": "Exzeo Group announces $25M stock buyback program",
-   "link": "https://seekingalpha.com/news/4633533-exzeo-group-announces-25m-stock-buyback-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-14T20:26:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6030249d463a",
-   "title": "Universal Display: I'm Not Seeing A Turnaround Anytime Soon",
-   "link": "https://seekingalpha.com/article/4936922-universal-display-im-not-seeing-turnaround-anytime-soon?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-14T20:25:58+00:00",
-   "tickers": [
-    "OLED"
-   ]
   }
  ],
  "ticker_names": {
@@ -8359,7 +8359,6 @@
   "HDB": "HDFC Bank Limited",
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
-  "OLED": "Universal Display",
   "PRIM": "Primoris Services",
   "SOFI": "SoFi Technologies",
   "UBER": "Uber Technologies",
@@ -8385,6 +8384,7 @@
   "USAR": "USA Rare Earth",
   "VG": "Venture Global",
   "AVAV": "AeroVironment",
+  "CLH": "Clean Harbors",
   "LLY": "Eli Lilly and",
   "UNH": "United Health",
   "MSTR": "MicroStrategy",
