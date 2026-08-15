@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-15T17:52:23.647875+00:00",
+ "generated": "2026-08-15T17:57:03.917581+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "671de575e775",
+   "title": "2 Closed-End Fund Buys In The Month Of July 2026",
+   "link": "https://seekingalpha.com/article/4937069-2-closed-end-fund-buys-in-the-month-of-july-2026?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-15T17:48:45+00:00",
+   "tickers": []
+  },
   {
    "id": "86b2d4edfcf2",
    "title": "Cerebras: 3x 2027 Revenue Guidance Changes The Valuation Debate",
@@ -60,6 +73,24 @@
    ]
   },
   {
+   "id": "3469451e7b00",
+   "title": "Which Is the Better ETF, State Street's Broad Market Exposure Through SPY or Invesco's Tech-Focused QQQ?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-etf-state-streets-broad-174147147.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-15T17:41:47+00:00",
+   "tickers": [
+    "STT",
+    "IVZ",
+    "SPY",
+    "QQQ"
+   ]
+  },
+  {
    "id": "4ec8c770124b",
    "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
    "link": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
@@ -83,6 +114,19 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-08-15T17:33:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0337c66066af",
+   "title": "Social Security Pays the Average Couple $3,120 a Month. Here’s the Portfolio It Takes to Match It.",
+   "link": "https://finance.yahoo.com/markets/options/articles/social-security-pays-average-couple-173241547.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-15T17:32:41+00:00",
    "tickers": []
   },
   {
@@ -8214,47 +8258,6 @@
    "domain": "investing.com",
    "published": "2026-08-14T22:00:53+00:00",
    "tickers": []
-  },
-  {
-   "id": "13efa8cca211",
-   "title": "Plum Acquisition Corp. III announces resignation of independent auditor Marcum LLP",
-   "link": "https://www.investing.com/news/sec-filings/plum-acquisition-corp-iii-announces-resignation-of-independent-auditor-marcum-llp-93CH-4861600",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-14T22:00:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b0be5273ac91",
-   "title": "ScottsMiracle-Gro Brings America250’s “Our American Story” to ScottsMiracle-Gro Field",
-   "link": "https://www.globenewswire.com/news-release/2026/08/14/3345665/33079/en/scottsmiracle-gro-brings-america250-s-our-american-story-to-scottsmiracle-gro-field.html",
-   "summary": "NOTE: This release corrects earlier language that indicated the storytelling initiative will be the largest collection of oral and visual histories. It will be the largest collection of oral and visual histories related to the Semiquincentennial.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-14T22:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a3ec79eba896",
-   "title": "ScottsMiracle-Gro Brings America250’s “Our American Story” to ScottsMiracle-Gro Field | SMG Stock News",
-   "link": "https://www.stocktitan.net/news/SMG/scotts-miracle-gro-brings-america250-s-our-american-story-to-scotts-3ucu9rm4b7nm.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-14T22:00:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8329,6 +8332,8 @@
   "MSTR": "MicroStrategy",
   "ASML": "ASML Holding",
   "NBIS": "Nebius Group",
+  "SPY": "SPDR S&P 500",
+  "STT": "State Street",
   "UBS": "UBS Group AG",
   "UWMC": "UWM Holdings",
   "GOOGL": "Google Cloud",
@@ -8368,6 +8373,7 @@
   "TPR": "Tapestry",
   "SQ": "Cash App",
   "BLSH": "Bullish",
+  "IVZ": "Invesco",
   "KBH": "KB Home",
   "MRK": "Merck &",
   "PNR": "Pentair",
