@@ -1,8 +1,23 @@
 {
- "generated": "2026-08-15T17:41:54.913503+00:00",
+ "generated": "2026-08-15T17:47:02.923719+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5d6e5b469090",
+   "title": "Palantir Technologies Likely To Plunge After Its Historic Run Higher",
+   "link": "https://seekingalpha.com/article/4937067-palantir-technologies-likely-to-plunge-after-its-historic-run-higher?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-15T17:42:14+00:00",
+   "tickers": [
+    "PLTR"
+   ]
+  },
   {
    "id": "4ec8c770124b",
    "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
@@ -126,6 +141,32 @@
    "sentiment": "neutral",
    "domain": "marketwatch.com",
    "published": "2026-08-15T17:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bf6fb5b4b639",
+   "title": "Is Bitcoin a Buy at $63,000? We Asked 3 AI Models",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-buy-63-000-asked-171425984.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-15T17:14:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5ebdf15a0f8b",
+   "title": "5 Monthly Dividend ETFs Paying 7 to 14 Percent to Ride Into 2027",
+   "link": "https://finance.yahoo.com/markets/options/articles/5-monthly-dividend-etfs-paying-171148896.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-15T17:11:48+00:00",
    "tickers": []
   },
   {
@@ -8212,52 +8253,6 @@
    "domain": "prnewswire.com",
    "published": "2026-08-14T21:55:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "64bef794b339",
-   "title": "Pershing Square's revamped portfolio's biggest bets are on Uber, Brookfield, and Microsoft",
-   "link": "https://seekingalpha.com/news/4633561-pershing-squares-revamped-portfolios-biggest-bets-are-in-uber-brookfield-and-microsoft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-14T21:54:05+00:00",
-   "tickers": [
-    "BN",
-    "MSFT",
-    "SQ",
-    "UBER"
-   ]
-  },
-  {
-   "id": "874c7235d80a",
-   "title": "Earnings call transcript: Nuvve Q2 2026 revenue jumps 268% as losses narrow",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-nuvve-q2-2026-revenue-jumps-268-as-losses-narrow-93CH-4861598",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-14T21:53:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fa2fc29d7887",
-   "title": "Einhorn's DME adds PayPal, exits Victoria's Secret, Peloton, among Q2 moves",
-   "link": "https://seekingalpha.com/news/4633559-einhorns-dme-adds-paypal-exits-victorias-secret-peloton-among-q2-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-14T21:52:44+00:00",
-   "tickers": [
-    "PYPL"
-   ]
   }
  ],
  "ticker_names": {
@@ -8283,6 +8278,7 @@
   "WBD": "Warner Bros. Discovery",
   "OPEN": "Opendoor Technologies",
   "PB": "Prosperity Bancshares",
+  "PLTR": "Palantir Technologies",
   "AMP": "Ameriprise Financial",
   "CORT": "Corcept Therapeutics",
   "SMCI": "Super Micro Computer",
@@ -8305,7 +8301,6 @@
   "PRIM": "Primoris Services",
   "Q": "Qnity Electronics",
   "RIVN": "Rivian Automotive",
-  "UBER": "Uber Technologies",
   "COST": "Costco Wholesale",
   "GD": "General Dynamics",
   "GTLS": "Chart Industries",
@@ -8314,7 +8309,6 @@
   "ANET": "Arista Networks",
   "EXP": "Eagle Materials",
   "KRYS": "Krystal Biotech",
-  "PYPL": "PayPal Holdings",
   "VICI": "VICI Properties",
   "ENPH": "Enphase Energy",
   "GM": "General Motors",
