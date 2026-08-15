@@ -1,8 +1,26 @@
 {
- "generated": "2026-08-15T13:56:59.758276+00:00",
+ "generated": "2026-08-15T14:02:16.953752+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "073af5c14608",
+   "title": "Citi, KKR, Apollo among gainers; Berkshire Hathaway, eToro in losers: week's financials wrap",
+   "link": "https://seekingalpha.com/news/4633419-citi-kkr-apollo-among-gainers-berkshire-hathaway-etoro-in-losers-weeks-financials-wrap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-15T14:00:07+00:00",
+   "tickers": [
+    "KKR",
+    "BRK-A",
+    "APO",
+    "C"
+   ]
+  },
   {
    "id": "c4d0ba9da5fd",
    "title": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO. That could affect the state’s case.",
@@ -28,6 +46,21 @@
    "domain": "cnbc.com",
    "published": "2026-08-15T13:46:22+00:00",
    "tickers": []
+  },
+  {
+   "id": "b24242ea1784",
+   "title": "Nvidia’s Secret $21 Billion SpaceX Windfall — How One Chip Deal Turned Into a Rocket Fortune",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-secret-21-billion-spacex-134148201.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-15T13:41:48+00:00",
+   "tickers": [
+    "FBIN"
+   ]
   },
   {
    "id": "d70cae36001e",
@@ -3131,7 +3164,7 @@
    "title": "The Wealth Company Launches Gift City Fund to Give NRIs a Single, Dollar-Denominated Route into India's Mutual Fund Market",
    "link": "https://www.prnewswire.com/news-releases/the-wealth-company-launches-gift-city-fund-to-give-nris-a-single-dollar-denominated-route-into-indias-mutual-fund-market-302851983.html",
    "summary": "New Category III AIF brings India's 50+ AMCs and 1,600+ mutual fund schemes within one professionally managed investment structure MUMBAI, India, Aug. 15, 2026 /PRNewswire/ -- The Wealth Company, the asset management arm of Pantomath Group, has launched The Wealth Company IFSC Fund of...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -8268,36 +8301,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "de36b63ad3da",
-   "title": "ValueAct Holdings increases Spotify stake by 46.9% in Q2",
-   "link": "https://www.investing.com/news/stock-market-news/valueact-holdings-increases-spotify-stake-by-469-in-q2-93CH-4861503",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-14T20:57:45+00:00",
-   "tickers": [
-    "SPOT"
-   ]
-  },
-  {
-   "id": "d267d5ae1a70",
-   "title": "Credicorp Ltd. (BAP) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4936858-credicorp-ltd-bap-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-14T20:57:07+00:00",
-   "tickers": [
-    "BAP"
-   ]
   }
  ],
  "ticker_names": {
@@ -8313,8 +8316,10 @@
   "CHH": "Choice Hotels International",
   "FDL": "First Trust Morningstar ETF",
   "QQQ": "Invesco QQQ Trust, Series 1",
+  "FBIN": "Fortune Brands Innovations",
   "IBIT": "iShares Bitcoin Trust ETF",
   "MLM": "Martin Marietta Materials",
+  "APO": "Apollo Global Management",
   "SITE": "SiteOne Landscape Supply",
   "AEP": "American Electric Power",
   "ARR": "ARMOUR Residential REIT",
@@ -8401,7 +8406,6 @@
   "DE": "John Deere",
   "ACN": "Accenture",
   "AL": "Air Lease",
-  "BAP": "Credicorp",
   "C": "Citigroup",
   "CRWV": "CoreWeave",
   "DT": "Dynatrace",
@@ -8438,6 +8442,7 @@
   "RMBS": "Rambus",
   "CROX": "Crocs",
   "INTC": "Intel",
+  "KKR": "KKR &",
   "XYZ": "Block",
   "PCG": "PG&E",
   "V": "Visa"
