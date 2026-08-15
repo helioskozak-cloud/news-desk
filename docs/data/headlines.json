@@ -1,8 +1,25 @@
 {
- "generated": "2026-08-15T14:12:00.389888+00:00",
+ "generated": "2026-08-15T14:17:17.735016+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e73d34cc2393",
+   "title": "Notable tech headlines for the week: Super Micro, Intel, Workday in focus",
+   "link": "https://seekingalpha.com/news/4633548-notable-tech-headlines-for-the-week-super-micro-intel-workday-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-15T14:10:08+00:00",
+   "tickers": [
+    "SMCI",
+    "WDAY",
+    "INTC"
+   ]
+  },
   {
    "id": "d0c104b719b2",
    "title": "Notable analyst calls this week: Sandisk, Apple and Salesforce among top picks",
@@ -1949,6 +1966,21 @@
    "domain": "investing.com",
    "published": "2026-08-15T10:31:02+00:00",
    "tickers": []
+  },
+  {
+   "id": "07ce9514f022",
+   "title": "Eli Lilly’s Weight-Loss Pill Just Got Its First Foothold in Europe",
+   "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-weight-loss-pill-103007818.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-15T10:30:07+00:00",
+   "tickers": [
+    "LLY"
+   ]
   },
   {
    "id": "c4abb7981884",
@@ -8262,32 +8294,6 @@
    "tickers": [
     "ARR"
    ]
-  },
-  {
-   "id": "576d4e52d8f2",
-   "title": "Clairvest Reports Fiscal 2027 First Quarter Results",
-   "link": "https://www.globenewswire.com/news-release/2026/08/14/3345647/0/en/clairvest-reports-fiscal-2027-first-quarter-results.html",
-   "summary": "TORONTO, Aug. 14, 2026 (GLOBE NEWSWIRE) -- Clairvest Group Inc. (TSX: CVG) today reported results for the fiscal 2027 first quarter ended June 30, 2026 and events which occurred subsequent to quarter end. (All figures are in Canadian dollars unless otherwise stated)",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-14T21:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "97f92ef0ef2a",
-   "title": "Clairvest Announces Election of Directors",
-   "link": "https://www.globenewswire.com/news-release/2026/08/14/3345648/0/en/clairvest-announces-election-of-directors.html",
-   "summary": "TORONTO, Aug. 14, 2026 (GLOBE NEWSWIRE) -- Clairvest Group Inc. (TSX: CVG) (“Clairvest” or “the Company”), announced today that the following nominees listed in its Management Information Circular were elected as directors of Clairvest Group Inc. at the Company’s Annual General Meeting held on August 14, 2026 in Toronto, Ontario, Canada.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-14T21:00:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8365,6 +8371,7 @@
   "VG": "Venture Global",
   "AVAV": "AeroVironment",
   "CLH": "Clean Harbors",
+  "LLY": "Eli Lilly and",
   "UNH": "United Health",
   "MSTR": "MicroStrategy",
   "ASML": "ASML Holding",
