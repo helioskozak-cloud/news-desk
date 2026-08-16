@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-16T16:12:20.401750+00:00",
+ "generated": "2026-08-16T16:16:51.319759+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0b72ee5d4392",
+   "title": "Four Antonello da Messina works stolen in Renaissance painter's hometown",
+   "link": "https://www.cnbc.com/2026/08/16/4-antonello-da-messina-works-stolen-in-renaissance-painters-hometown.html",
+   "summary": "The thieves entered the Museo Regionale di Messina late on Saturday, while the town was busy celebrating Assumption Day.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-16T16:14:09+00:00",
+   "tickers": []
+  },
   {
    "id": "b1eab863e5e0",
    "title": "Calm markets mask risk of sudden S&P 500 swings",
@@ -15,6 +28,36 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-16T16:01:42+00:00",
    "tickers": []
+  },
+  {
+   "id": "cf1e5227acdb",
+   "title": "SentinelOne chief accounting officer Robin Tomasello sells $109,799 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/sentinelone-chief-accounting-officer-robin-tomasello-sells-109799-in-stock-93CH-4861996",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-16T16:01:07+00:00",
+   "tickers": [
+    "S"
+   ]
+  },
+  {
+   "id": "2e43462b3ba7",
+   "title": "Roku president Fuchsberg sells $1.6m in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/roku-president-fuchsberg-sells-16m-in-shares-93CH-4861995",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-16T16:01:05+00:00",
+   "tickers": [
+    "ROKU"
+   ]
   },
   {
    "id": "bb5aa80a048b",
@@ -8214,49 +8257,6 @@
    "domain": "marketwatch.com",
    "published": "2026-08-15T13:26:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "af363a4652c7",
-   "title": "Fed Chair Kevin Warsh Is Reshaping the Central Bank, but the Unintended Consequences of His Actions Can Derail Wall Street",
-   "link": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-reshaping-132600878.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-15T13:26:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c8ffe8c7022a",
-   "title": "CBRE: A Diversified Real Estate Brand Worth Holding, As Q2 Saw Meaningful Growth",
-   "link": "https://seekingalpha.com/article/4937048-cbre-a-diversified-real-estate-brand-worth-holding-as-q2-saw-meaningful-growth?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-15T13:25:13+00:00",
-   "tickers": [
-    "CBRE"
-   ]
-  },
-  {
-   "id": "bd298fdcbab2",
-   "title": "FDL: Dividend ETF That Keeps Buying The Losing Sector",
-   "link": "https://seekingalpha.com/article/4937047-fdl-dividend-etf-that-keeps-buying-the-losing-sector?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-15T13:21:51+00:00",
-   "tickers": [
-    "FDL"
-   ]
   }
  ],
  "ticker_names": {
@@ -8278,7 +8278,6 @@
   "SCHB": "Schwab U.S. Broad Market ETF",
   "SPYI": "NEOS S&P 500 High Income ETF",
   "CHH": "Choice Hotels International",
-  "FDL": "First Trust Morningstar ETF",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "FBIN": "Fortune Brands Innovations",
   "FDVV": "Fidelity High Dividend ETF",
@@ -8350,13 +8349,13 @@
   "NVDA": "Grace Hopper",
   "FSLR": "First Solar",
   "PSX": "Phillips 66",
+  "S": "SentinelOne",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "TGT": "Target Corp",
   "SE": "Sea Limited",
   "BN": "Brookfield",
   "BX": "Blackstone",
-  "CBRE": "CBRE Group",
   "CRM": "Salesforce",
   "F": "Ford Motor",
   "MA": "Mastercard",
@@ -8419,6 +8418,7 @@
   "DAVE": "Dave",
   "LEA": "Lear",
   "OKLO": "Oklo",
+  "ROKU": "Roku",
   "TREX": "Trex",
   "V": "Visa"
  }
