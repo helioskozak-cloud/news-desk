@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-16T21:31:50.029674+00:00",
+ "generated": "2026-08-16T21:36:58.328189+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "385539b17941",
+   "title": "Believe the unbelievable in this market — things can be different this time",
+   "link": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
+   "summary": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-16T21:32:25+00:00",
+   "tickers": []
+  },
   {
    "id": "3c886044e4af",
    "title": "Nvidia’s neocloud funding could drive significant revenue stream - Morgan Stanley",
@@ -30,6 +43,21 @@
    "domain": "investing.com",
    "published": "2026-08-16T21:20:03+00:00",
    "tickers": []
+  },
+  {
+   "id": "c30bbb0623f8",
+   "title": "Insider Sale: Monolithic Power Systems Interim CFO Sells 105 Shares for $141,148",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/insider-sale-monolithic-power-systems-211501756.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-16T21:15:01+00:00",
+   "tickers": [
+    "MPWR"
+   ]
   },
   {
    "id": "cf3e67434507",
@@ -86,6 +114,19 @@
    "tickers": [
     "ALNY"
    ]
+  },
+  {
+   "id": "fe848a6b99a6",
+   "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+   "link": "https://finance.yahoo.com/technology/ai/articles/stripe-reportedly-acquire-ai-gateway-205704570.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-16T20:57:04+00:00",
+   "tickers": []
   },
   {
    "id": "efb1114925bb",
@@ -1933,6 +1974,21 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-16T15:16:10+00:00",
    "tickers": []
+  },
+  {
+   "id": "755cd8fbeea0",
+   "title": "Oppenheimer Just Upgraded Intuitive Surgical Stock. Here's Why.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-just-upgraded-intuitive-surgical-151502484.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-16T15:15:02+00:00",
+   "tickers": [
+    "ISRG"
+   ]
   },
   {
    "id": "4c48e4a4fb3b",
@@ -8210,58 +8266,6 @@
    "domain": "investing.com",
    "published": "2026-08-15T16:45:59+00:00",
    "tickers": []
-  },
-  {
-   "id": "58185d215015",
-   "title": "Gold's wild 2026 ride might not be over yet",
-   "link": "https://finance.yahoo.com/markets/commodities/articles/golds-wild-2026-ride-might-163700194.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-15T16:37:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3ea8896e4cf3",
-   "title": "Worried About an AI Bubble? These Tech Stocks Are Well-Suited to Survive an AI Bust.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/worried-ai-bubble-tech-stocks-163500958.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-15T16:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a96c66606ee0",
-   "title": "BAE Systems: Thesis Remains Sound Despite The H1-26 Surge",
-   "link": "https://seekingalpha.com/article/4937062-bae-systems-thesis-remains-sound-despite-the-h1-26-surge?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-15T16:33:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "635384d9fbf7",
-   "title": "HRT Financial LP sells $6,103 of Maison Solutions stock",
-   "link": "https://www.investing.com/news/insider-trading-news/hrt-financial-lp-sells-6103-of-maison-solutions-stock-93CH-4861813",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-15T16:31:03+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8290,6 +8294,7 @@
   "JEF": "Jefferies Financial Group",
   "PFG": "Principal Financial Group",
   "CFG": "Citizens Financial Group",
+  "MPWR": "Monolithic Power Systems",
   "TMO": "Thermo Fisher Scientific",
   "ALNY": "Alnylam Pharmaceuticals",
   "GS": "The Goldman Sachs Group",
@@ -8303,6 +8308,7 @@
   "BRK-A": "Berkshire Hathaway",
   "EQH": "Equitable Holdings",
   "HIMS": "Hims & Hers Health",
+  "ISRG": "Intuitive Surgical",
   "MGY": "Magnolia Oil & Gas",
   "TPL": "Texas Pacific Land",
   "ZBRA": "Zebra Technologies",
