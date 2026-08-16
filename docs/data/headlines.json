@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T19:42:23.891423+00:00",
+ "generated": "2026-08-16T19:46:59.403995+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,49 @@
    "domain": "cnbc.com",
    "published": "2026-08-16T19:36:49+00:00",
    "tickers": []
+  },
+  {
+   "id": "9782ab85cafe",
+   "title": "Scholastic EVP, pres. CBG Sasha Quinton sells over $1.2m in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/scholastic-evp-pres-cbg-sasha-quinton-sells-over-12m-in-stock-93CH-4862008",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-16T19:32:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1a42c60b60d0",
+   "title": "SharkNinja CCO Neil Shah sells $5.5m in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/sharkninja-cco-neil-shah-sells-55m-in-company-stock-93CH-4862007",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-16T19:32:25+00:00",
+   "tickers": [
+    "SN"
+   ]
+  },
+  {
+   "id": "a97963a77bb4",
+   "title": "Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-uber-uber-193130272.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-16T19:31:30+00:00",
+   "tickers": [
+    "UBER"
+   ]
   },
   {
    "id": "e926007ad8d2",
@@ -207,6 +250,19 @@
    "tickers": [
     "JIRE"
    ]
+  },
+  {
+   "id": "1b0c78f8d878",
+   "title": "US 20-Year Bond Sale to Test Demand as Yield Curve Steepens",
+   "link": "https://finance.yahoo.com/economy/policy/articles/us-20-bond-sale-test-190000939.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-16T19:00:00+00:00",
+   "tickers": []
   },
   {
    "id": "a6ba1314cc1e",
@@ -8201,60 +8257,6 @@
    "domain": "marketwatch.com",
    "published": "2026-08-15T15:28:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "2917c0250e74",
-   "title": "Ituran: The Market Is Pricing In Too Much Of A Slowdown",
-   "link": "https://seekingalpha.com/article/4937055-ituran-the-market-is-pricing-in-too-much-of-a-slowdown?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-15T15:22:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "74dc206bd7a6",
-   "title": "UDR: Almost A Coastal REIT",
-   "link": "https://seekingalpha.com/article/4937054-udr-almost-a-coastal-reit?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-15T15:20:45+00:00",
-   "tickers": [
-    "UDR"
-   ]
-  },
-  {
-   "id": "49f6ea1cec50",
-   "title": "Anthropic’s IPO valuation tied to 2028 revenue forecast of $190B - $200B: Reuters",
-   "link": "https://seekingalpha.com/news/4633585-anthropics-ipo-valuation-tied-2028-revenue-forecast?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-15T15:18:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5df4e1cfd54f",
-   "title": "Anthropic Expects Mind-Blowing $200 Billion Revenue in 2028 as IPO Looms",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-expects-mind-blowing-200-150944795.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-15T15:09:44+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8355,6 +8357,7 @@
   "MA": "Mastercard",
   "RGLD": "Royal Gold",
   "RKLB": "Rocket Lab",
+  "SN": "SharkNinja",
   "SPGI": "S&P Global",
   "MSFT": "Office 365",
   "ACN": "Accenture",
