@@ -1,8 +1,23 @@
 {
- "generated": "2026-08-17T06:22:07.911230+00:00",
+ "generated": "2026-08-17T06:27:07.117559+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "fc49c026d883",
+   "title": "AstraZeneca halts eVOLVE-Lung02 trial of volrustomig combo",
+   "link": "https://seekingalpha.com/news/4633649-astrazeneca-halts-evolve-lung02-trial-of-volrustomig-combo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-17T06:24:02+00:00",
+   "tickers": [
+    "AZN"
+   ]
+  },
   {
    "id": "2eb4d5eb932d",
    "title": "German direct investment in the U.S. plunges to three-year low",
@@ -215,6 +230,19 @@
    "sentiment": "positive",
    "domain": "investing.com",
    "published": "2026-08-17T06:02:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "be99d9394b0d",
+   "title": "FirstFT: Dimon warns UK against higher bank taxes",
+   "link": "https://www.ft.com/content/d794e389-2122-481d-8fa3-328e33480ee5?syn-25a6b1a6=1",
+   "summary": "Also in today’s newsletter: private credit doldrums and AI super-rich",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-08-17T06:00:07+00:00",
    "tickers": []
   },
   {
@@ -2287,7 +2315,7 @@
   },
   {
    "id": "b5b3ed942fc3",
-   "title": "The cost of drought",
+   "title": "Counting the cost of Europe’s drought",
    "link": "https://www.ft.com/content/982229c8-a116-4679-8b4b-627df069ce66?syn-25a6b1a6=1",
    "summary": "This summer’s dry spell is increasing bills for agriculture, transport, industry and big tech",
    "source": "FT Companies",
@@ -8123,34 +8151,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-16T12:30:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "9ae1a23ed1f2",
-   "title": "Church & Dwight: Volume-Driven Growth And Margin Recovery Support A Buy",
-   "link": "https://seekingalpha.com/article/4937130-church-and-dwight-volume-driven-growth-margin-recovery-support-a-buy?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-16T12:24:32+00:00",
-   "tickers": [
-    "CHD"
-   ]
-  },
-  {
-   "id": "c5befa7bb2e0",
-   "title": "U.S. said to have negotiated directly with Iran’s IRGC in May",
-   "link": "https://www.investing.com/news/economy-news/us-said-to-have-negotiated-directly-with-irans-irgc-in-may-4861974",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-16T12:19:25+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8190,7 +8190,6 @@
   "THC": "Tenet Healthcare",
   "TTMI": "TTM Technologies",
   "BAC": "Bank of America",
-  "CHD": "Church & Dwight",
   "BTU": "Peabody Energy",
   "HD": "The Home Depot",
   "META": "Meta Platforms",
@@ -8212,6 +8211,7 @@
   "S": "SentinelOne",
   "TMUS": "T-Mobile US",
   "AMZN": "Whole Foods",
+  "AZN": "AstraZeneca",
   "SHOP": "Shopify Inc",
   "BN": "Brookfield",
   "RKLB": "Rocket Lab",
