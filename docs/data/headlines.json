@@ -1,8 +1,38 @@
 {
- "generated": "2026-08-18T23:51:58.176175+00:00",
+ "generated": "2026-08-18T23:57:06.391203+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "cc62e0a9abb3",
+   "title": "Kessler Topaz Meltzer &amp; Check, LLP Encourages Hims &amp; Hers Health, Inc. (NYSE: HIMS) Investors to Contact the Firm",
+   "link": "https://www.prnewswire.com/news-releases/kessler-topaz-meltzer--check-llp-encourages-hims--hers-health-inc-nyse-hims-investors-to-contact-the-firm-302854598.html",
+   "summary": "RADNOR, Pa., Aug. 18, 2026 /PRNewswire/ -- Kessler Topaz Meltzer & Check, LLP (www.ktmc.com), a nationally recognized securities litigation law firm, is investigating potential violations of the federal securities laws by Hims & Hers Health, Inc. (NYSE: HIMS) on behalf of investors who...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-18T23:55:00+00:00",
+   "tickers": [
+    "HIMS"
+   ]
+  },
+  {
+   "id": "8907c6acb1c2",
+   "title": "MDLN Investigation Reminder: Kessler Topaz Meltzer &amp; Check, LLP Encourages Medline Inc. (NASDAQ: MDLN) Investors to Contact the Firm",
+   "link": "https://www.prnewswire.com/news-releases/mdln-investigation-reminder-kessler-topaz-meltzer--check-llp-encourages-medline-inc-nasdaq-mdln-investors-to-contact-the-firm-302854594.html",
+   "summary": "RADNOR, Pa., Aug. 18, 2026 /PRNewswire/ -- Kessler Topaz Meltzer & Check, LLP (www.ktmc.com), a nationally recognized securities litigation law firm, is investigating potential violations of the federal securities laws by Medline Inc. (NASDAQ: MDLN) on behalf of investors who purchased or...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-08-18T23:54:00+00:00",
+   "tickers": [
+    "MDLN"
+   ]
+  },
   {
    "id": "a0020ed6472c",
    "title": "Oil edges higher as Iranian attacks on ships in Strait of Hormuz without U.S. response rise",
@@ -2246,7 +2276,7 @@
    "title": "EQB Inc. releases an abridged supplemental financial information package for third quarter 2026 results",
    "link": "https://www.prnewswire.com/news-releases/eqb-inc-releases-an-abridged-supplemental-financial-information-package-for-third-quarter-2026-results-302854548.html",
    "summary": "TORONTO, Aug. 18, 2026 /PRNewswire/ -- EQB Inc. (\"EQB\") (TSX: EQB) has released an abridged Supplementary Financial Information Package. Third quarter 2026 results, scheduled for release after market close on August 26, 2026, will be the first to reflect the acquisition of President's...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "earnings",
    "sentiment": "neutral",
@@ -8354,32 +8384,6 @@
     "LEU",
     "BCS"
    ]
-  },
-  {
-   "id": "b07eaaf42bf2",
-   "title": "Bernhard Capital-Backed Aventia Broadens Infrastructure Capabilities Through Bryant Hammett &amp; Associates Acquisition",
-   "link": "https://www.prnewswire.com/news-releases/bernhard-capital-backed-aventia-broadens-infrastructure-capabilities-through-bryant-hammett--associates-acquisition-302854468.html",
-   "summary": "BATON ROUGE, La., Aug. 18, 2026 /PRNewswire/ -- Aventia, a nationally recognized environmental and infrastructure services firm and Bernhard Capital Partners (\"Bernhard\") portfolio company, today announced the acquisition of Bryant Hammett & Associates (\"BHA\"), a civil engineering, land...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-18T18:56:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0a04875f8b95",
-   "title": "US SEC proposes new rules for crypto assets",
-   "link": "https://www.investing.com/news/economy-news/us-sec-proposes-new-rules-for-crypto-assets-4865889",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-18T18:54:28+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8419,6 +8423,7 @@
   "CACI": "CACI International",
   "CSL": "Carlisle Companies",
   "GWRE": "Guidewire Software",
+  "HIMS": "Hims & Hers Health",
   "IDXX": "IDEXX Laboratories",
   "OCUL": "Ocular Therapeutix",
   "SCHW": "The Charles Schwab",
@@ -8484,6 +8489,7 @@
   "CVNA": "Carvana",
   "IVZ": "Invesco",
   "MDB": "MongoDB",
+  "MDLN": "Medline",
   "NDSN": "Nordson",
   "NEM": "Newmont",
   "SCI": "Service",
