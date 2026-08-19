@@ -1,8 +1,23 @@
 {
- "generated": "2026-08-19T00:52:04.944825+00:00",
+ "generated": "2026-08-19T00:57:17.959748+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "855dc16ea8b6",
+   "title": "Ralph Lauren: The Brand Elevation Flywheel Still Has Room To Run",
+   "link": "https://seekingalpha.com/article/4938016-ralph-lauren-stock-brand-elevation-stronger-pricing-power-deeper-customer-relationships?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-19T00:52:05+00:00",
+   "tickers": [
+    "RL"
+   ]
+  },
   {
    "id": "326f4667dcd1",
    "title": "Stock futures are little changed after S&P 500 posts third straight losing day: Live updates",
@@ -15,6 +30,21 @@
    "domain": "cnbc.com",
    "published": "2026-08-19T00:48:51+00:00",
    "tickers": []
+  },
+  {
+   "id": "6c305f6e75ef",
+   "title": "NNN REIT: A Dividend Champion Deal To Buy Now",
+   "link": "https://seekingalpha.com/article/4938015-nnn-reit-q2-dividend-champion-deal-to-buy-now?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-19T00:48:13+00:00",
+   "tickers": [
+    "NNN"
+   ]
   },
   {
    "id": "88a79215b8d9",
@@ -534,6 +564,19 @@
    "sentiment": "neutral",
    "domain": "marketwatch.com",
    "published": "2026-08-19T00:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ff71ad1d5d76",
+   "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
+   "link": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
+   "summary": "Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-08-18T23:58:09+00:00",
    "tickers": []
   },
   {
@@ -8330,52 +8373,6 @@
    "tickers": [
     "GOOG"
    ]
-  },
-  {
-   "id": "bb7c633e1978",
-   "title": "Nasdaq 100 oversold at support after 1.5% drop: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-stalls-below-30300-resistance-hourly-levels-93CH-4863470",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-08-18T19:19:10+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "23faab8c2b77",
-   "title": "Tesla coils inside Ichimoku cloud near $336: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/tesla-dips-to-339-inside-ichimoku-cloud-resistance-live-levels-93CH-4863479",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-18T19:19:07+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "a6b1f66db476",
-   "title": "Webull Corporation Q2 2026 Earnings Preview",
-   "link": "https://seekingalpha.com/news/4634483-webull-corporation-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-18T19:17:04+00:00",
-   "tickers": [
-    "BULL"
-   ]
   }
  ],
  "ticker_names": {
@@ -8387,7 +8384,6 @@
   "QSR": "Restaurant Brands International",
   "SCHF": "Schwab International Equity ETF",
   "WST": "West Pharmaceutical Services",
-  "QQQ": "Invesco QQQ Trust, Series 1",
   "SSNC": "SS&C Technologies Holdings",
   "JEF": "Jefferies Financial Group",
   "MLM": "Martin Marietta Materials",
@@ -8450,9 +8446,9 @@
   "MSTR": "MicroStrategy",
   "CSGP": "CoStar Group",
   "CYTK": "Cytokinetics",
+  "RL": "Ralph Lauren",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
-  "TSLA": "Supercharger",
   "DLTR": "Dollar Tree",
   "XOM": "Exxon Mobil",
   "AMZN": "Whole Foods",
@@ -8475,6 +8471,7 @@
   "GOOG": "Alphabet",
   "MTB": "M&T Bank",
   "NI": "NiSource",
+  "NNN": "NNN REIT",
   "RAL": "Ralliant",
   "CVNA": "Carvana",
   "EQIX": "Equinix",
@@ -8485,7 +8482,6 @@
   "SNDK": "Sandisk",
   "SYK": "Stryker",
   "NFLX": "Netflix",
-  "BULL": "Webull",
   "CPRT": "Copart",
   "EXC": "Exelon",
   "GTLB": "GitLab",
