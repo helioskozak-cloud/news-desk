@@ -1,8 +1,916 @@
 {
- "generated": "2026-08-20T11:57:19.789168+00:00",
+ "generated": "2026-08-20T12:02:03.992031+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "24321ee521aa",
+   "title": "Europe, the secret outperformer",
+   "link": "https://www.ft.com/content/90bd90e5-5161-4f56-8dfb-e737479fbb99?syn-25a6b1a6=1",
+   "summary": "Its cash generation, broader earnings and lower tech concentration deserve more respect",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-08-20T12:00:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fb4900264a87",
+   "title": "Institutions Are Buying Real Estate Blind",
+   "link": "https://seekingalpha.com/article/4938511-institutions-are-buying-real-estate-blind?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "383833fb3a52",
+   "title": "Tempus AI Just Had Their Entire Strategy Validated By Moderna's Vaccine Advance",
+   "link": "https://seekingalpha.com/article/4938625-tempus-ai-just-had-their-entire-strategy-validated-by-moderna-s-vaccine-advance?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "TEM",
+    "MSTR",
+    "MRNA"
+   ]
+  },
+  {
+   "id": "6c4267985972",
+   "title": "Ride The Sector Cycle To Double-Digit Returns: Eastman",
+   "link": "https://seekingalpha.com/article/4938196-ride-the-sector-cycle-to-potential-double-digit-returns-eastman?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6e9082751e18",
+   "title": "GlobalFoundries: A Cyclical Value Play, Not An AI Rocket",
+   "link": "https://seekingalpha.com/article/4938466-globalfoundries-a-cyclical-value-play-not-an-ai-rocket?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ae1bacf4f7e3",
+   "title": "DSTL: Performance Disappointments, Factor Mix Welcome A Rating Downgrade To A Hold",
+   "link": "https://seekingalpha.com/article/4938489-dstl-performance-disappointments-factor-mix-welcome-a-rating-downgrade-to-a-hold?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "58aece939242",
+   "title": "Interstice Digital Launches Cross-Chain Swap for Robinhood Chain in Partnership with FalconX",
+   "link": "https://www.prnewswire.com/news-releases/interstice-digital-launches-cross-chain-swap-for-robinhood-chain-in-partnership-with-falconx-302855743.html",
+   "summary": "New non-custodial infrastructure connects Robinhood Chain with the Canton Network NEW YORK, Aug. 20, 2026 /PRNewswire/ -- Interstice Digital announced the integration of Robinhood Chain into its Cross-Chain Swap Engine, further expanding its compliant interoperability with the Canton...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "HOOD"
+   ]
+  },
+  {
+   "id": "f6ce3cef1894",
+   "title": "Wealth Enhancement Announces Acquisition of Servo Wealth Management, an Independent RIA with Over $210 Million in Client Assets",
+   "link": "https://www.prnewswire.com/news-releases/wealth-enhancement-announces-acquisition-of-servo-wealth-management-an-independent-ria-with-over-210-million-in-client-assets-302855693.html",
+   "summary": "This partnership brings the firm's total client assets to more than $161 billion. MINNEAPOLIS, Aug. 20, 2026 /PRNewswire/ -- Wealth Enhancement, a national independent wealth management firm dedicated to enriching clients' lives, announced it has acquired the investment advisory business...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7ea8edae4384",
+   "title": "Redfin Reports New Listings Tick Up As Summer Winds Down",
+   "link": "https://www.prnewswire.com/news-releases/redfin-reports-new-listings-tick-up-as-summer-winds-down-302855857.html",
+   "summary": "High housing costs and economic uncertainty pushed pending home sales to their lowest level since March SEATTLE, Aug. 20, 2026 /PRNewswire/ -- New listings of U.S. homes for sale climbed 1.2% week over week to their highest level in over three months during the four weeks ending August 16....",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "31c229ae480d",
+   "title": "In the priciest markets, saving and breaking even on a home purchase can take a buyer into their retirement years",
+   "link": "https://www.prnewswire.com/news-releases/in-the-priciest-markets-saving-and-breaking-even-on-a-home-purchase-can-take-a-buyer-into-their-retirement-years-302855914.html",
+   "summary": "Nationally, a typical household can save for and come out ahead on a home purchase compared to renting after about 15 years A typical U.S. household needs 8.5 years to save for a down payment and an additional 6.2 years to break even on the purchase relative to renting, according to a new...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9b6dd5120baf",
+   "title": "Alliant Credit Union Highlights Mid-Year Commercial Real Estate Lending Momentum",
+   "link": "https://www.prnewswire.com/news-releases/alliant-credit-union-highlights-mid-year-commercial-real-estate-lending-momentum-302855787.html",
+   "summary": "CHICAGO, Aug. 20, 2026 /PRNewswire/ -- Alliant Credit Union's Commercial Lending Business continues to expand through long-standing brokerage relationships alongside a growing network of debt fund and private capital partners. Recent transactions include acquisitions, refinancings, and...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b4dc4c3418e2",
+   "title": "Superior HealthPlan has supported more than 312,000 Texas pregnancies since 2022 through the Start Smart for Your Baby® program",
+   "link": "https://www.prnewswire.com/news-releases/superior-healthplan-has-supported-more-than-312-000-texas-pregnancies-since-2022-through-the-start-smart-for-your-baby-program-302854827.html",
+   "summary": "The maternal health program has delivered 88,000+ breast pumps and helped connect members to more than 177,000 prenatal and postpartum visits AUSTIN, Texas, Aug. 20, 2026 /PRNewswire/ -- Superior HealthPlan (\"Superior\"), a leading managed care organization in Texas and a company of...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "144e383bcd78",
+   "title": "Westwood to Launch Westwood Salient Enhanced Power & Infrastructure ETF (PWRX) as the First New ETF on the Texas Stock Exchange",
+   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348274/0/en/westwood-to-launch-westwood-salient-enhanced-power-infrastructure-etf-pwrx-as-the-first-new-etf-on-the-texas-stock-exchange.html",
+   "summary": "DALLAS, Aug. 20, 2026 (GLOBE NEWSWIRE) -- Westwood Holdings Group (NYSE: WHG), a leading boutique asset manager, today announced plans to launch the Westwood Salient Enhanced Power &amp; Infrastructure ETF (TXSE: PWRX) on September 17, 2026. PWRX will be the first new ETF to launch on the Texas Stock Exchange (TXSE).",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "06bfa9716e34",
+   "title": "American Gold & Copper Inc. (OTC: AGCI) Signs Non-Binding Letter of Intent to Acquire Shamrock Nickel-Copper Project from Homeland Nickel Inc.",
+   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348276/0/en/american-gold-copper-inc-otc-agci-signs-non-binding-letter-of-intent-to-acquire-shamrock-nickel-copper-project-from-homeland-nickel-inc.html",
+   "summary": "American Gold & Copper Signs Non-Binding Letter of Intent to Acquire Shamrock Nickel-Copper Project from Homeland Nickel",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "364a04a7eda9",
+   "title": "Redfin Reports New Listings Tick Up As Summer Winds Down | RKT Stock News",
+   "link": "https://www.stocktitan.net/news/RKT/redfin-reports-new-listings-tick-up-as-summer-winds-q8n5jxyemnpf.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "RKT",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "ce47e5b0c7b4",
+   "title": "First Canadian Graphite Advances Potential For Large-Scale, High-Grade North American Graphite System at Lac Guéret South | GRAPF Stock News",
+   "link": "https://www.stocktitan.net/news/GRAPF/first-canadian-graphite-advances-potential-for-large-scale-high-gem5tii1eya7.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "94d9110f0948",
+   "title": "Lobe Sciences Ltd. Announces Closing of Non-Brokered Private Placement | LOBEF Stock News",
+   "link": "https://www.stocktitan.net/news/LOBEF/lobe-sciences-ltd-announces-closing-of-non-brokered-private-yjn4swqei5yk.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "f8ebd8b8d2e8",
+   "title": "Orogen Royalties Acquires a Royalty on the Haldane Silver Project | OGNNF Stock News",
+   "link": "https://www.stocktitan.net/news/OGNNF/orogen-royalties-acquires-a-royalty-on-the-haldane-silver-am43qsoug34s.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "e940e022dd1a",
+   "title": "CHAR Tech Receives Patent Notice of Allowance for Pyrogas Treatment to Syngas | CTRNF Stock News",
+   "link": "https://www.stocktitan.net/news/CTRNF/char-tech-receives-patent-notice-of-allowance-for-pyrogas-treatment-jjvixsji4r80.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "4e6b1110fece",
+   "title": "Alaska Airlines teams up with world champion Seattle quarterback Sam Darnold to launch multi-year partnership celebrating Seattle, Alaska's loyal guests and its growing global network | ALK Stock News",
+   "link": "https://www.stocktitan.net/news/ALK/alaska-airlines-teams-up-with-world-champion-seattle-quarterback-sam-qywzyd9fjvq8.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "ALK",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "3442f1cb2bf5",
+   "title": "McCormick & Company to Present at the Barclays 19th Annual Global Consumer Conference | MKC Stock News",
+   "link": "https://www.stocktitan.net/news/MKC/mc-cormick-company-to-present-at-the-barclays-19th-annual-global-c46u1quyt5ho.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "MKC",
+    "BCS",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "0954a1f17979",
+   "title": "Galantas Gold Secures the Last Key Permitting Approval for Andacollo Gold Project | GALKF Stock News",
+   "link": "https://www.stocktitan.net/news/GALKF/galantas-gold-secures-the-last-key-permitting-approval-for-andacollo-nbvmxlvh8j3s.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "fda",
+   "sentiment": "positive",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "9372ff6d72ab",
+   "title": "Corteva Announces Early Tender Results and Extension of Expiration Date in Private Exchange Offers and Consent Solicitations for EIDP's 2.300% Senior Notes Due 2030, 5.125% Senior Notes Due 2032 and 4.800% Senior Notes Due 2033 | CTVA Stock News",
+   "link": "https://www.stocktitan.net/news/CTVA/corteva-announces-early-tender-results-and-extension-of-expiration-3bqhc0e5fieg.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "CTVA",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "730fd3a8f660",
+   "title": "Superior HealthPlan has supported more than 312,000 Texas pregnancies since 2022 through the Start Smart for Your Baby® program | CNC Stock News",
+   "link": "https://www.stocktitan.net/news/CNC/superior-health-plan-has-supported-more-than-312-000-texas-uo0op3nfpqcx.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "CNC",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "c60981202fd6",
+   "title": "Innovative Eyewear, Inc. Announces Major New AI and News Features for Lucyd App | LUCY Stock News",
+   "link": "https://www.stocktitan.net/news/LUCY/innovative-eyewear-inc-announces-major-new-ai-and-news-features-for-1p2be97wl3rl.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "db85d9a03c0a",
+   "title": "Jerash Holdings to Present at Lake Street's 10th Annual Best Ideas Growth Conference, September 10 | JRSH Stock News",
+   "link": "https://www.stocktitan.net/news/JRSH/jerash-holdings-to-present-at-lake-street-s-10th-annual-best-ideas-8fsuqcfxcn58.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "fd17dc89462c",
+   "title": "CXAI Wins $2.5M+ Multi-Year Agreement with Fortune 100 Global Financial Services Company | CXAI Stock News",
+   "link": "https://www.stocktitan.net/news/CXAI/cxai-wins-2-5m-multi-year-agreement-with-fortune-100-global-8hjfuvtsyhpn.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "FBIN",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "4b51b61e2996",
+   "title": "Decibel Reports Second Quarter 2026 Results: Revenue Grows 19% YoY to Record $36 Million, Raises Full Year Outlook, Announces 15:1 Share Consolidation and Anticipated Normal Course Issuer Bid | DBCCF Stock News",
+   "link": "https://www.stocktitan.net/news/DBCCF/decibel-reports-second-quarter-2026-results-revenue-grows-19-yo-y-to-n9d48ejf5yj7.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "49249512e0de",
+   "title": "In the priciest markets, saving and breaking even on a home purchase can take a buyer into their retirement years | Z Stock News",
+   "link": "https://www.stocktitan.net/news/Z/in-the-priciest-markets-saving-and-breaking-even-on-a-home-purchase-r2xgqifubq6s.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "Z",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "0258ba9e2e88",
+   "title": "Quarterhill Partners with PennDOT to Support Commercial Vehicle Monitoring Technology Infrastructure | QTRHF Stock News",
+   "link": "https://www.stocktitan.net/news/QTRHF/quarterhill-partners-with-penn-dot-to-support-commercial-vehicle-e0m1bonhqd88.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "370f2d33afbe",
+   "title": "Unisys and Refroid Partner to Advance Deployment of High-Performance AI Infrastructure | UIS Stock News",
+   "link": "https://www.stocktitan.net/news/UIS/unisys-and-refroid-partner-to-advance-deployment-of-high-performance-9ot7muhwfvhw.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "27ed55ca0c0d",
+   "title": "iECURE to Present Clinical Data from Ongoing OTC-HOPE Trial of ECUR-506 in Neonatal-Onset Ornithine Transcarbamylase Deficiency at SSIEM Annual Symposium | DTIL Stock News",
+   "link": "https://www.stocktitan.net/news/DTIL/i-ecure-to-present-clinical-data-from-ongoing-otc-hope-trial-of-ecur-kyfhix7lt9tv.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "ebfb6a8f6375",
+   "title": "Full Circle Lithium Announces Strategic Multi-Race NASCAR Partnership with Joey Gase Motorsports | FCLIF Stock News",
+   "link": "https://www.stocktitan.net/news/FCLIF/full-circle-lithium-announces-strategic-multi-race-nascar-p0qepgl11ykb.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "db6377160039",
+   "title": "Alaska Airlines announces new nonstop service to Athens and Paris, connecting Seattle to more of the world | ALK Stock News",
+   "link": "https://www.stocktitan.net/news/ALK/alaska-airlines-announces-new-nonstop-service-to-athens-and-paris-j33ve5gvyxt6.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "ALK",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "039f226b2a98",
+   "title": "PMI U.S. Names Five Artists Shaping Modern American Culture for the ZYN America250 Art Series | PM Stock News",
+   "link": "https://www.stocktitan.net/news/PM/pmi-u-s-names-five-artists-shaping-modern-american-culture-for-the-lsv2hz9hfzcx.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "772fe59ab720",
+   "title": "Nuvation Bio Granted FDA Fast Track Designation for Safusidenib for Treatment of IDH1-Mutant Glioma | NUVB Stock News",
+   "link": "https://www.stocktitan.net/news/NUVB/nuvation-bio-granted-fda-fast-track-designation-for-safusidenib-for-h2o1oc4uafn0.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "2244843b90c6",
+   "title": "Alzamend Neuro's Phase 1/2A Lithium Neuroimaging Data Accepted for Poster Presentation at Neuroscience 2026 in Washington, DC | ALZN Stock News",
+   "link": "https://www.stocktitan.net/news/ALZN/alzamend-neuro-s-phase-1-2a-lithium-neuroimaging-data-accepted-for-ek04aarb8abh.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "8a43f117f983",
+   "title": "Western Asset High Income Opportunity Fund Inc. Announces Financial Position as of June 30, 2026 | HIO Stock News",
+   "link": "https://www.stocktitan.net/news/HIO/western-asset-high-income-opportunity-fund-inc-announces-financial-51jdowkasp0s.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "b4fd5dfa4681",
+   "title": "HGV Announces New Share Repurchase Plan | HGV Stock News",
+   "link": "https://www.stocktitan.net/news/HGV/hgv-announces-new-share-repurchase-f88aoeqdw9aq.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "cf72a9404d21",
+   "title": "Standard Nuclear Executes Fuel Supply Agreement with Radiant for TRISO Nuclear Fuel | STDN Stock News",
+   "link": "https://www.stocktitan.net/news/STDN/standard-nuclear-executes-fuel-supply-agreement-with-radiant-for-t8jre1ji3zfk.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "760576411a6a",
+   "title": "Charles River Laboratories and Medigen Vaccine Biologics Corp Collaborate to Advance New Vaccine Development Programs Through Next Generation Sequencing | CRL Stock News",
+   "link": "https://www.stocktitan.net/news/CRL/charles-river-laboratories-and-medigen-vaccine-biologics-corp-k81yp6g08wxr.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "CRL",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "253905260bf2",
+   "title": "Early Production Results for Blend’s Autopilot Show What Agentic AI Means For Lending | BLND Stock News",
+   "link": "https://www.stocktitan.net/news/BLND/early-production-results-for-blend-s-autopilot-show-what-agentic-ai-o8411r3kk9qz.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "a8832462738e",
+   "title": "Bayer to Present New Phase III Data from Its Cardiovascular, Kidney, and Stroke Clinical Trial Programs at ESC 2026 | BAYRY Stock News",
+   "link": "https://www.stocktitan.net/news/BAYRY/bayer-to-present-new-phase-iii-data-from-its-cardiovascular-kidney-kalnyt4iqk3d.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "155619141d61",
+   "title": "Franklin Templeton Announces Closing of Inaugural US$1.5 Billion Collateralized Fund Obligation | BEN Stock News",
+   "link": "https://www.stocktitan.net/news/BEN/franklin-templeton-announces-closing-of-inaugural-us-1-5-billion-9jdpz3irgwtt.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "BEN",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "e4fb1f6a6e2f",
+   "title": "Turn Therapeutics Announces New Peer-Reviewed Research Showing GX-03 Selectively Reduces Key Drivers of Skin Inflammation and Itch | TTRX Stock News",
+   "link": "https://www.stocktitan.net/news/TTRX/turn-therapeutics-announces-new-peer-reviewed-research-showing-gx-03-v9x2s8lw3oxj.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "0faba3832ccc",
+   "title": "Hudson River Trading to Build Next-Gen Research Platform Powered by NVIDIA Vera Rubin NVL72 on CoreWeave Cloud | CRWV Stock News",
+   "link": "https://www.stocktitan.net/news/CRWV/hudson-river-trading-to-build-next-gen-research-platform-powered-by-w4ceax0qgj5i.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "CRWV",
+    "NVDA",
+    "NWSA",
+    "VERA"
+   ]
+  },
+  {
+   "id": "8e7bdf44c218",
+   "title": "Butler/Till and iHeartMedia Launch the Advertising Industry's First Agentic Streaming Audio Media Campaign | IHRT Stock News",
+   "link": "https://www.stocktitan.net/news/IHRT/butler-till-and-i-heart-media-launch-the-advertising-industry-s-itr7fsh55t58.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "29b82207821e",
+   "title": "bioAffinity Technologies Announces 1-for-15 Reverse Stock Split Effective at the Open of Trading on August 24, 2026 | BIAF Stock News",
+   "link": "https://www.stocktitan.net/news/BIAF/bio-affinity-technologies-announces-1-for-15-reverse-stock-split-vn09mipfsdsg.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "7153b14b9037",
+   "title": "Pizza Hut Burger Bar Expands to 300 Locations | YUMC Stock News",
+   "link": "https://www.stocktitan.net/news/YUMC/pizza-hut-burger-bar-expands-to-300-8zmetnaq7yxp.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "YUM",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "2c79d471d4a8",
+   "title": "Weave's 2026 Pulse Survey Finds Healthcare Practices Are Ready for AI, but 60% Are Still Concerned About Data Privacy | WEAV Stock News",
+   "link": "https://www.stocktitan.net/news/WEAV/weave-s-2026-pulse-survey-finds-healthcare-practices-are-ready-for-vatio9w50tsd.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "87f588a37865",
+   "title": "BWXT Names Suzanne Maddux SVP of Operations as Company Scales for Long-term Growth | BWXT Stock News",
+   "link": "https://www.stocktitan.net/news/BWXT/bwxt-names-suzanne-maddux-svp-of-operations-as-company-scales-for-yxq102dbouzu.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "BWXT",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "71317ac6db7b",
+   "title": "Lee® Celebrates Marilyn Monroe’s 100th Birthday with a Global Capsule Reimagining the Icon’s Most Famous Looks | KTB Stock News",
+   "link": "https://www.stocktitan.net/news/KTB/lee-celebrates-marilyn-monroe-s-100th-birthday-with-a-global-capsule-1nd4fbwe5aon.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "f79317059da2",
+   "title": "ProPetro Announces Dual Listing on NYSE Texas | PUMP Stock News",
+   "link": "https://www.stocktitan.net/news/PUMP/pro-petro-announces-dual-listing-on-nyse-h5wowvd97nsu.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "90ac7f30b996",
+   "title": "Twin Disc Announces Full Year and Fourth Quarter 2026 Results | TWIN Stock News",
+   "link": "https://www.stocktitan.net/news/TWIN/twin-disc-announces-full-year-and-fourth-quarter-2026-e9et9anz1vae.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-08-20T12:00:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "2b25592c7349",
+   "title": "Oil prices rise 3% as Trump sharpens Iran rhetoric amid talks impasse",
+   "link": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
+   "summary": "Oil moved higher early Thursday after U.S. President Donald Trump sharpened his rhetoric against Iran.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-08-20T11:59:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e36a4cf25971",
+   "title": "Hilco Global Capital Solutions Provides $60 Million ABL Facility to Support Turnspire Capital Partners' Acquisition of Hulcher Services",
+   "link": "https://www.prnewswire.com/news-releases/hilco-global-capital-solutions-provides-60-million-abl-facility-to-support-turnspire-capital-partners-acquisition-of-hulcher-services-302855979.html",
+   "summary": "NEW YORK, Aug. 20, 2026 /PRNewswire/ -- Hilco Global Capital Solutions (\"HGCS\"), a division of Hilco Global and a leading provider of flexible asset-based lending solutions, provided a $60 million first-lien asset-based lending facility to support Turnspire Capital Partners LLC's...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T11:59:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0e9b80de84a5",
+   "title": "Sands China Wins Two PATA Gold Awards",
+   "link": "https://www.prnewswire.com/news-releases/sands-china-wins-two-pata-gold-awards-302856377.html",
+   "summary": "The company's social inclusion and cultural publishing initiatives garner international accolades MACAO, Aug. 20, 2026 /PRNewswire/ -- Sands China Ltd. has been recognised at the PATA Gold Awards 2026 with two honours: winning the Gold Award in the category of Printed Marketing Campaign...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T11:58:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9addce0ddd3b",
+   "title": "NIOB’s six drill-ready Québec projects fully permitted",
+   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348269/0/en/niob-s-six-drill-ready-qu%C3%A9bec-projects-fully-permitted.html",
+   "summary": "Authorization received for Bardy SE, Sabot, and Miskam Authorization received for Bardy SE, Sabot, and Miskam",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-08-20T11:58:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9d11018cdfdf",
+   "title": "Autozi dips 12% on $55M follow-on financing to fund automotive expansion",
+   "link": "https://seekingalpha.com/news/4635361-autozi-dips-12-on-55m-follow-on-financing-to-fund-automotive-expansion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-20T11:57:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "12b8e14f4107",
+   "title": "McCoy Global gets approval for 10% share buyback",
+   "link": "https://seekingalpha.com/news/4635365-mccoy-global-gets-approval-for-10-share-buyback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-20T11:55:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9b304d46e206",
+   "title": "10x Genomics: The Turnaround Is Real, But Atera Now Has To Deliver (Rating Upgrade)",
+   "link": "https://seekingalpha.com/article/4938670-10x-genomics-the-turnaround-is-real-but-atera-now-has-to-deliver-rating-upgrade?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-20T11:55:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5810293a0b7b",
+   "title": "Russia extends soybean export duty through August 2028",
+   "link": "https://www.investing.com/news/commodities-news/russia-extends-soybean-export-duty-through-august-2028-93CH-4869503",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:55:25+00:00",
+   "tickers": []
+  },
   {
    "id": "c9598d61345c",
    "title": "EVERSANA Expands AI-Powered Commercialization Platform with New Capabilities Across Medical Affairs, Market Research and Commercial Operations",
@@ -14,6 +922,34 @@
    "sentiment": "positive",
    "domain": "prnewswire.com",
    "published": "2026-08-20T11:55:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5c9b069bc097",
+   "title": "UBS raises Bill.com stock price target to $60 on margin expansion",
+   "link": "https://www.investing.com/news/analyst-ratings/ubs-raises-billcom-stock-price-target-to-60-on-margin-expansion-93CH-4869501",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:54:55+00:00",
+   "tickers": [
+    "UBS"
+   ]
+  },
+  {
+   "id": "66c35764ab0c",
+   "title": "Brazil to keep fiscal framework, spending restraint under new Lula term, minister says",
+   "link": "https://www.investing.com/news/economy-news/brazil-to-keep-fiscal-framework-spending-restraint-under-new-lula-term-minister-says-4869500",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:54:33+00:00",
    "tickers": []
   },
   {
@@ -71,6 +1007,19 @@
    "tickers": [
     "WMT"
    ]
+  },
+  {
+   "id": "7594a50f9f1a",
+   "title": "Brazil to maintain fiscal framework if Lula wins reelection",
+   "link": "https://www.investing.com/news/economy-news/brazil-to-maintain-fiscal-framework-if-lula-wins-reelection-93CH-4869488",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:53:28+00:00",
+   "tickers": []
   },
   {
    "id": "524f397d4235",
@@ -135,6 +1084,114 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-08-20T11:49:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f5c8e9fb0e08",
+   "title": "H.C. Wainwright reiterates Bitdeer stock rating on Malaysia contract",
+   "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-bitdeer-stock-rating-on-malaysia-contract-93CH-4869473",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:49:03+00:00",
+   "tickers": [
+    "BTDR"
+   ]
+  },
+  {
+   "id": "1b165c6347ff",
+   "title": "Freedom Capital cuts iRhythm Technologies stock price target on valuation",
+   "link": "https://www.investing.com/news/analyst-ratings/freedom-capital-cuts-irhythm-technologies-stock-price-target-on-valuation-93CH-4869474",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:49:03+00:00",
+   "tickers": [
+    "IRTC"
+   ]
+  },
+  {
+   "id": "3d5d2add58f2",
+   "title": "Cantor Fitzgerald initiates Milestone Pharmaceuticals stock coverage with overweight rating",
+   "link": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-initiates-milestone-pharmaceuticals-stock-coverage-with-overweight-rating-93CH-4869472",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:48:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "adae3fa916bd",
+   "title": "H.C. Wainwright raises DRDGOLD stock price target on strong results",
+   "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-drdgold-stock-price-target-on-strong-results-93CH-4869471",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:48:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "47c212f1d1cb",
+   "title": "H.C. Wainwright raises Relay Therapeutics price target to $29",
+   "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-relay-therapeutics-price-target-to-29-93CH-4869470",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:48:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "374ec0c1a92a",
+   "title": "H.C. Wainwright reiterates UroGen Pharma stock rating on NDA filing",
+   "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-urogen-pharma-stock-rating-on-nda-filing-93CH-4869469",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:48:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9469bed728f1",
+   "title": "US 10-year Treasury yield rises, undermining Bessent’s yen intervention",
+   "link": "https://www.investing.com/news/stock-market-news/us-10year-treasury-yield-rises-undermining-bessents-yen-intervention-93CH-4869457",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:45:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "985475e3fd32",
+   "title": "Which European metals stocks stand to gain from a U.S.-Canada tariff rollback?",
+   "link": "https://www.investing.com/news/stock-market-news/which-european-metals-stocks-stand-to-gain-from-a-uscanada-tariff-rollback-4869456",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:45:28+00:00",
    "tickers": []
   },
   {
@@ -465,6 +1522,21 @@
    "tickers": []
   },
   {
+   "id": "841916647367",
+   "title": "Walmart reports rare comparable sales miss as consumers cut spending, shares fall",
+   "link": "https://www.investing.com/news/stock-market-news/walmart-reports-rare-comparable-sales-miss-as-consumers-pare-back-spending-4869318",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:36:31+00:00",
+   "tickers": [
+    "WMT"
+   ]
+  },
+  {
    "id": "bbc7de4de1ea",
    "title": "Adam McClure Named Lawyer of the Year",
    "link": "https://www.prnewswire.com/news-releases/adam-mcclure-named-lawyer-of-the-year-302855821.html",
@@ -597,6 +1669,21 @@
    "tickers": []
   },
   {
+   "id": "4923f3a0ff2a",
+   "title": "Bernstein upgrades Analog Devices on Q3 beat, improving risk-reward",
+   "link": "https://www.investing.com/news/stock-market-news/bernstein-upgrades-analog-devices-on-q3-beat-improving-riskreward-4869414",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:31:57+00:00",
+   "tickers": [
+    "ADI"
+   ]
+  },
+  {
    "id": "f2659b9d5489",
    "title": "Powszechny Zaklad Ubezpieczen SA 2026 Q2 - Results - Earnings Call Presentation",
    "link": "https://seekingalpha.com/article/4938683-powszechny-zaklad-ubezpieczen-sa-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
@@ -607,6 +1694,19 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-08-20T11:31:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2219f2b16d76",
+   "title": "US Treasury buyback limits bond market pain, but relief may be brief",
+   "link": "https://www.investing.com/news/stock-market-news/bonds-bounce-on-us-buybacks-but-relief-may-be-brief-4868662",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:31:03+00:00",
    "tickers": []
   },
   {
@@ -1392,6 +2492,21 @@
    ]
   },
   {
+   "id": "cfd11a0a1e96",
+   "title": "Premarket movers: Deere jumps following upbeat Q3, Wolfspeed plunges",
+   "link": "https://www.investing.com/news/stock-market-news/premarket-movers-deere-jumps-following-upbeat-q3-wolfspeed-plunges-4869409",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T11:27:48+00:00",
+   "tickers": [
+    "DE"
+   ]
+  },
+  {
    "id": "cec66ba43fb1",
    "title": "Dingdong GAAP EPS of -$0.03, revenue of $10.79M",
    "link": "https://seekingalpha.com/news/4635344-dingdong-gaap-eps-of-0_03-revenue-of-10_79m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -1671,7 +2786,7 @@
    "title": "Ping An Reports 1H 2026 Results",
    "link": "https://www.prnewswire.com/news-releases/ping-an-reports-1h-2026-results-302856353.html",
    "summary": "Operating Profit[1] Grows 8.3% YoY; Net Profit[2] Surges 36.1% YoY; Interim Dividend Increases 3.2% YoY HONG KONG and SHANGHAI, Aug. 20, 2026 /PRNewswire/ -- Ping An Insurance (Group) Company of China, Ltd. (\"Ping An\" or the \"Group\", HKEX: 2318; SSE: 601318) today announced its 2026...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "earnings",
    "sentiment": "neutral",
@@ -2394,21 +3509,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-20T11:06:53+00:00",
    "tickers": []
-  },
-  {
-   "id": "841916647367",
-   "title": "Walmart reports rare comparable sales miss as consumers pare back spending",
-   "link": "https://www.investing.com/news/stock-market-news/walmart-reports-rare-comparable-sales-miss-as-consumers-pare-back-spending-4869318",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T11:06:39+00:00",
-   "tickers": [
-    "WMT"
-   ]
   },
   {
    "id": "e38c5b0c270b",
@@ -4378,19 +5478,6 @@
    "tickers": []
   },
   {
-   "id": "2219f2b16d76",
-   "title": "US Treasury buyback limits bond market pain, but relief may be brief",
-   "link": "https://www.investing.com/news/stock-market-news/bonds-bounce-on-us-buybacks-but-relief-may-be-brief-4868662",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-20T10:48:51+00:00",
-   "tickers": []
-  },
-  {
    "id": "af6bc14f4a1a",
    "title": "$40 Trillion in Debt. Don’t Worry — We Can’t Afford to Fix It Either",
    "link": "https://www.investing.com/news/stock-market-news/40-trillion-in-debt-dont-worry--we-cant-afford-to-fix-it-either-93CH-4869241",
@@ -5378,6 +6465,19 @@
    "sentiment": "neutral",
    "domain": "marketwatch.com",
    "published": "2026-08-20T10:19:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b2a568f22381",
+   "title": "‘Treasury demand has become materially more valuation-sensitive’",
+   "link": "https://www.ft.com/content/f72df19f-29f2-4330-8e27-c69919d56972",
+   "summary": "Term premium trouble",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-08-20T10:18:31+00:00",
    "tickers": []
   },
   {
@@ -7391,1050 +8491,15 @@
     "BNTX",
     "NWSA"
    ]
-  },
-  {
-   "id": "4692029d7c38",
-   "title": "NIO Inc. to Report Unaudited Second Quarter 2026 Financial Results on Tuesday, September 1, 2026 | NIO Stock News",
-   "link": "https://www.stocktitan.net/news/NIO/nio-inc-to-report-unaudited-second-quarter-2026-financial-results-on-acrzc413bkqu.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-20T09:30:00+00:00",
-   "tickers": [
-    "NIO",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "77bacedd63c2",
-   "title": "Pzena Japan Focused Value Composite Q2 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4938638-pzena-japan-focused-value-composite-q2-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T09:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dc96364a7fe2",
-   "title": "Preformed Line Products: The Grid Buildout's Underfollowed Hardware Winner",
-   "link": "https://seekingalpha.com/article/4938617-preformed-line-products-the-grid-buildouts-underfollowed-hardware-winner?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T09:27:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "923cc3ebc61d",
-   "title": "BofA recommends selling NOK/SEK on growth and rate divergence",
-   "link": "https://www.investing.com/news/forex-news/bofa-recommends-selling-noksek-on-growth-and-rate-divergence-93CH-4869047",
-   "summary": "",
-   "source": "Investing Forex",
-   "category": "fx",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:26:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4b9a67b59258",
-   "title": "BofA sees euro upside, dollar downside risks in near-term outlook",
-   "link": "https://www.investing.com/news/forex-news/bofa-sees-euro-upside-dollar-downside-risks-in-nearterm-outlook-93CH-4869046",
-   "summary": "",
-   "source": "Investing Forex",
-   "category": "fx",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:26:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ab82a3b60be0",
-   "title": "Earnings call transcript: Bumrungrad posts mixed Q2 2026 results as revenue beats forecast",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-bumrungrad-posts-mixed-q2-2026-results-as-revenue-beats-forecast-93CH-4869043",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:22:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d4ffdc0e2267",
-   "title": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
-   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348148/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
-   "summary": "FORM 8.3",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-20T09:22:00+00:00",
-   "tickers": [
-    "FORM"
-   ]
-  },
-  {
-   "id": "608bcb4f096a",
-   "title": "Earnings call transcript: Swiss Prime Site posts steady H1 2026 growth",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-swiss-prime-site-posts-steady-h1-2026-growth-93CH-4869042",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:21:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4bb1218a2b72",
-   "title": "Catella Q2 2026 slides: revenue drops 47% but underlying trends improve",
-   "link": "https://www.investing.com/news/company-news/catella-q2-2026-slides-revenue-drops-47-but-underlying-trends-improve-93CH-4869041",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:20:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e6258fcc135a",
-   "title": "Earnings call transcript: KN Energies posts strong H1 2026 growth, shares flat",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-kn-energies-posts-strong-h1-2026-growth-shares-flat-93CH-4869038",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:20:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ab5174f98941",
-   "title": "yomo Secures Initial Banking Licence, Ready to Lead Egypt's Digital Banking Evolution",
-   "link": "https://www.prnewswire.com/news-releases/yomo-secures-initial-banking-licence-ready-to-lead-egypts-digital-banking-evolution-302856280.html",
-   "summary": "CIB-backed digital banking platform, yomo, set to make managing money simpler, more accessible and more empowering for millions of Egyptians at home and abroad CAIRO, Aug. 20, 2026 /PRNewswire/ -- Commercial International Bank – Egypt (CIB) announces that the Bank received today...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T09:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5a2712c326cb",
-   "title": "Earnings call transcript: The Platform Group posts strong H1 2026 growth",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-the-platform-group-posts-strong-h1-2026-growth-93CH-4869037",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:19:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6bf16487e701",
-   "title": "S&P 500 futures are little changed after index snaps three-day slide: Live updates",
-   "link": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
-   "summary": "The S&amp;P 500 snapped a three-session losing streak earlier in the day.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-08-20T09:19:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "41321abfe95d",
-   "title": "Earnings call transcript: Viva Wine Group’s Q2 2026 sales rise on deals",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-viva-wine-groups-q2-2026-sales-rise-on-deals-93CH-4869036",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:19:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "92bf5f31cf59",
-   "title": "NetEase misses second-quarter profit forecasts; shares slide",
-   "link": "https://www.investing.com/news/earnings/netease-misses-secondquarter-profit-forecasts-shares-slide-4869035",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:18:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9e710dfac747",
-   "title": "DouYu beats Q2 estimates despite revenue decline and swing to loss",
-   "link": "https://www.investing.com/news/earnings/douyu-beats-q2-estimates-despite-revenue-decline-and-swing-to-loss-93CH-4869030",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:17:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5eda3a8b3864",
-   "title": "Earnings call transcript: Mayr-Melnhof H1 2026 profit improves as stock slips",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-mayrmelnhof-h1-2026-profit-improves-as-stock-slips-93CH-4869029",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:17:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6856b3096655",
-   "title": "Lowe's: The Retailer To Watch And Wait, Even As Q2 Results Saw Growth (Rating Downgrade)",
-   "link": "https://seekingalpha.com/article/4938616-lowes-the-retailer-to-watch-and-wait-even-as-q2-results-saw-growth-rating-downgrade?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T09:15:58+00:00",
-   "tickers": [
-    "LOW"
-   ]
-  },
-  {
-   "id": "135a7b4b75d7",
-   "title": "Youdao Reports Second Quarter 2026 Unaudited Financial Results",
-   "link": "https://www.prnewswire.com/news-releases/youdao-reports-second-quarter-2026-unaudited-financial-results-302856265.html",
-   "summary": "HANGZHOU, China, Aug. 20, 2026 /PRNewswire/ -- Youdao, Inc. (\"Youdao\" or the \"Company\") (NYSE: DAO), an AI solutions provider specializing in learning and advertising, today announced its unaudited financial results for the second quarter ended June 30, 2026. Second Quarter 2026 Financial...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T09:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1717fe6b7218",
-   "title": "Recording of AB Akola Group Investor Webinar Presenting the 12-Month Unaudited Results for the 2025/2026 Financial Year",
-   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348147/0/en/recording-of-ab-akola-group-investor-webinar-presenting-the-12-month-unaudited-results-for-the-2025-2026-financial-year.html",
-   "summary": "On 20 August 2026, AB Akola Group held an investor webinar, where the company's Deputy CEO for Finance and Investments Mažvydas Šileika presented the financial results for the 12 months of the 2025/2026 financial year.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-20T09:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "00ac3c3f0ca2",
-   "title": "AB Akola group 2025-2026 finansinių metų 12 mėn. neaudituotų veiklos rezultatų pristatymo internetiniame seminare įrašas",
-   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348147/0/lt/ab-akola-group-2025-2026-finansini%C5%B3-met%C5%B3-12-m%C4%97n-neaudituot%C5%B3-veiklos-rezultat%C5%B3-pristatymo-internetiniame-seminare-%C4%AFra%C5%A1as.html",
-   "summary": "2026 m. rugpjūčio 20 d. vyko AB Akola group internetinis seminaras, kuriame įmonės generalinio direktoriaus pavaduotojas finansams ir investicijoms Mažvydas Šileika pristatė 2025–2026 finansinių metų 12 mėnesių veiklos rezultatus.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-20T09:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e8b743847772",
-   "title": "Youdao Reports Second Quarter 2026 Unaudited Financial Results | DAO Stock News",
-   "link": "https://www.stocktitan.net/news/DAO/youdao-reports-second-quarter-2026-unaudited-financial-b6aca82jxq6s.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-20T09:15:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "cbd908a1bf45",
-   "title": "Our 4-year-old son has $100,000 in his 529 account. Should we buy him stocks instead?",
-   "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-   "summary": "“He also has a brokerage account, but there’s only $500 in it.”",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-08-20T09:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ae8c6bdb672c",
-   "title": "Bitcoin tops $71K as crypto rally gains momentum",
-   "link": "https://seekingalpha.com/news/4635267-bitcoin-tops-71k-as-crypto-rally-gains-momentum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T09:12:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "293812f60691",
-   "title": "European shares drift lower as oil worries counter bond recovery",
-   "link": "https://www.investing.com/news/stock-market-news/european-shares-muted-as-higher-oil-prices-counter-bond-recovery-4868843",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:12:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9dca21169af9",
-   "title": "Orkla ASA (ORKLY) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4938606-orkla-asa-orkly-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T09:11:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "968291586eb9",
-   "title": "Holmen AB (publ) (HLMNY) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4938626-holmen-ab-publ-hlmny-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T09:11:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b558a855c9a9",
-   "title": "Ariel International Fund Q2 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4938632-ariel-international-fund-q2-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T09:10:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e88b6f8c4e90",
-   "title": "Ariel International Fund Q2 2026 Portfolio Update",
-   "link": "https://seekingalpha.com/article/4938634-ariel-international-fund-q2-2026-portfolio-update?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T09:10:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0f7e119840fd",
-   "title": "Huize Holding GAAP EPS of $0.00, revenue of $106.1M",
-   "link": "https://seekingalpha.com/news/4635270-huize-holding-gaap-eps-of-000-revenue-of-1061m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T09:09:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "52250a9a3a13",
-   "title": "Man Group PLC : Form 8.3 - JTC Plc",
-   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348146/0/en/man-group-plc-form-8-3-jtc-plc.html",
-   "summary": "FORM 8.3",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-20T09:09:00+00:00",
-   "tickers": [
-    "FORM"
-   ]
-  },
-  {
-   "id": "bf1fa628ebbc",
-   "title": "Man Group PLC : Form 8.3 - Rotork plc",
-   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348145/0/en/man-group-plc-form-8-3-rotork-plc.html",
-   "summary": "FORM 8.3",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-20T09:08:00+00:00",
-   "tickers": [
-    "FORM"
-   ]
-  },
-  {
-   "id": "7db10add2054",
-   "title": "J&amp;T Express Adjusted Net Profit Up 124.3% YoY in 1H2026; Overall Profitability Continues to Strengthen",
-   "link": "https://www.prnewswire.com/news-releases/jt-express-adjusted-net-profit-up-124-3-yoy-in-1h2026-overall-profitability-continues-to-strengthen-302856270.html",
-   "summary": "Southeast Asia Leading Position Sustained; Market Share in China and Other Markets Rises Steadily HONG KONG, Aug. 20, 2026 /PRNewswire/ -- J&amp;T Global Express Limited (\"J&amp;T Express\" or \"J&amp;T\" or the \"Company\", stock code: 01519.HK), a global logistics service provider, today announced its...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T09:07:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a3a465929347",
-   "title": "Why Your Next Long-Haul Layover May Be in Seoul, Not Dubai",
-   "link": "https://www.nytimes.com/2026/08/20/world/asia/iran-war-asia-airports-dubai.html",
-   "summary": "The Iran war has slashed transit traffic at Middle Eastern airports, creating opportunities for hubs in Asia and beyond — at least for now.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-08-20T09:06:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8cf843dba662",
-   "title": "Sartorius, Stedim jump as UBS sees bioprocess equipment recovery",
-   "link": "https://www.investing.com/news/stock-market-news/sartorius-stedim-jump-as-ubs-sees-bioprocess-equipment-recovery-4869000",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:05:26+00:00",
-   "tickers": [
-    "UBS"
-   ]
-  },
-  {
-   "id": "b5ac38d88c0f",
-   "title": "DouYu International Non-GAAP EPADS of -$0.07 beats by $0.10, revenue of $144.6M beats by $4.7M",
-   "link": "https://seekingalpha.com/news/4635269-douyu-international-non-gaap-epads-of-007-beats-by-010-revenue-of-1446m-beats-by-47m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T09:05:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a77a6a77653d",
-   "title": "Moderna’s Shift to Cancer Company Lifts Stock Up 177%",
-   "link": "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html",
-   "summary": "The company’s fortunes cratered as demand for Covid-19 vaccines plummeted. But it was busy working on something else.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-08-20T09:04:12+00:00",
-   "tickers": [
-    "MRNA"
-   ]
-  },
-  {
-   "id": "d60c8ce6cd6f",
-   "title": "Oil prices rise to highest level in nearly a month amid ongoing Hormuz impasse",
-   "link": "https://www.investing.com/news/commodities-news/oil-prices-steady-after-trump-announces-more-economic-sanctions-on-iran-4868505",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:02:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e2c06f4a463a",
-   "title": "Gubra H1 2026 slides: obesity pipeline advances, CRO returns to profit",
-   "link": "https://www.investing.com/news/company-news/gubra-h1-2026-slides-obesity-pipeline-advances-cro-returns-to-profit-93CH-4868998",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:02:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "afdb98ded925",
-   "title": "Earnings call transcript: Catella Q2 2026 revenue falls, stock slips 3.7%",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-catella-q2-2026-revenue-falls-stock-slips-37-93CH-4868994",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:02:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "61c96635551d",
-   "title": "HSBC grants share awards to 286,184 ordinary shares to employees",
-   "link": "https://www.investing.com/news/company-news/hsbc-grants-share-awards-to-286184-ordinary-shares-to-employees-93CH-4868993",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:02:41+00:00",
-   "tickers": [
-    "HSBC"
-   ]
-  },
-  {
-   "id": "dd18663d7d96",
-   "title": "Gift Nifty 50 stalls at 24,322 resistance: Hourly levels",
-   "link": "https://www.investing.com/news/stock-market-news/gift-nifty-50-tests-doubletop-support-at-24328-live-levels-93CH-4862108",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:02:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c4308568558a",
-   "title": "Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says",
-   "link": "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html",
-   "summary": "Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-08-20T09:02:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "26ab2be504f0",
-   "title": "Wrestler Logan Paul lists California ‘LSD ranch’ for $3 million",
-   "link": "https://www.marketwatch.com/story/wrestler-logan-paul-lists-california-lsd-ranch-for-3-million-c870b5bf?mod=mw_rss_topstories",
-   "summary": "Decades ago, the property was used as the headquarters of an LSD operation run by former Harvard professor Timothy Leary.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-08-20T09:02:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5811aa0c71b8",
-   "title": "Help! Lyft Charged Me $150 for Vomiting in a Car, but I Didn’t Do It.",
-   "link": "https://www.nytimes.com/2026/08/20/travel/lyft-cleaning-charge.html",
-   "summary": "A passenger who said he had an uneventful ride home from the airport was shocked to be hit with a cleaning fee for a mess in what appeared to be a different vehicle.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "nytimes.com",
-   "published": "2026-08-20T09:01:57+00:00",
-   "tickers": [
-    "LYFT"
-   ]
-  },
-  {
-   "id": "136c1af1ba98",
-   "title": "NetEase Non-GAAP EPADS of $1.78 misses by $0.53, revenue of $4.4B beats by $30M",
-   "link": "https://seekingalpha.com/news/4635268-netease-non-gaap-epads-of-178-misses-by-053-revenue-of-44b-beats-by-30m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T09:01:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2756a1e33f1f",
-   "title": "Biggest stock movers Thursday: Crypto stocks, WOLF, and more",
-   "link": "https://seekingalpha.com/news/4635263-biggest-stock-movers-thursday-crypto-stocks-wolf-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T09:01:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0843940461d2",
-   "title": "Why is ATRenew stock sliding today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-atrenew-stock-sliding-today-93CH-4868992",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:01:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4e1a4984e17d",
-   "title": "USDGO Now Live on Kraken, Tightening the Link Between Dollar Markets and On-Chain Liquidity",
-   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348144/0/en/usdgo-now-live-on-kraken-tightening-the-link-between-dollar-markets-and-on-chain-liquidity.html",
-   "summary": "HONG KONG, Aug. 20, 2026 (GLOBE NEWSWIRE) -- OSL Group (HKEX:863) (OSL), a global stablecoin payment and trading platform, today announced that the regulated enterprise stablecoin USDGO is now listed on Kraken with a USDGO/USD spot trading pair. This gives USDGO a dedicated USD-denominated trading venue on Kraken, operating through regulated and registered entities across multiple jurisdictions. Eligible Kraken users can now trade directly between US dollars and USDGO on the exchange.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-20T09:01:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "87ff6de7084a",
-   "title": "Man Group PLC : Form 8.3 - Senior plc",
-   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348143/0/en/man-group-plc-form-8-3-senior-plc.html",
-   "summary": "FORM 8.3",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-20T09:01:00+00:00",
-   "tickers": [
-    "FORM"
-   ]
-  },
-  {
-   "id": "c9ff3ef2e499",
-   "title": "PrimeXBT Expands Swap-Free Trading to PXTrader 2.0",
-   "link": "https://www.investing.com/news/company-news/primexbt-expands-swapfree-trading-to-pxtrader-20-4868991",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-20T09:00:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "42b252d5dde8",
-   "title": "A Victory Lap for the Boss of the Pebble Beach Extravaganza",
-   "link": "https://www.nytimes.com/2026/08/20/business/pebble-beach-concours-sandra-button.html",
-   "summary": "The Concours d’Elegance, a showcase of some of the world’s finest cars held over the weekend, was a capstone to Sandra Button’s two decades of leading the organization that puts it on.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-08-20T09:00:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d991e5ffd81e",
-   "title": "‘The Necessary Conversation’ Puts Family Political Arguments On Full Display",
-   "link": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
-   "summary": "“The Necessary Conversation,” a podcast and YouTube show, is a very public example of the political disputes families are having all across the country.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-08-20T09:00:26+00:00",
-   "tickers": [
-    "GOOGL"
-   ]
-  },
-  {
-   "id": "bdf8fa31a2f3",
-   "title": "Mercuryo Boosts Crypto Purchase Conversion by 75% with a Frictionless UX",
-   "link": "https://www.prnewswire.com/news-releases/mercuryo-boosts-crypto-purchase-conversion-by-75-with-a-frictionless-ux-302855319.html",
-   "summary": "In-house data reveals sharp rise in digital token buying after Mercuryo simplified its on-ramp experience, removing hurdles in the customer journey. LONDON, Aug. 20, 2026 /PRNewswire/ -- Global payments infrastructure platform Mercuryo has significantly reduced customer drop-off after...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bef71cfee9bf",
-   "title": "ExGen Announces TSXV Approval of Extension and Upsize of Private Placement and Provides Corporate Update",
-   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348139/0/en/exgen-announces-tsxv-approval-of-extension-and-upsize-of-private-placement-and-provides-corporate-update.html",
-   "summary": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "64dc2db4aa7c",
-   "title": "BingEx Limited Announces Second Quarter 2026 Financial Results",
-   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348140/0/en/bingex-limited-announces-second-quarter-2026-financial-results.html",
-   "summary": "BEIJING, Aug. 20, 2026 (GLOBE NEWSWIRE) -- BingEx Limited (the “Company”) (Nasdaq: FLX), a leading on-demand dedicated courier service provider in China (branded as “FlashEx”), today announced its unaudited financial results for the second quarter ended June 30, 2026.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "5e0b2a8716f5",
-   "title": "Huize Holding Limited Reports Unaudited Financial Results for the First Half of 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348141/0/en/huize-holding-limited-reports-unaudited-financial-results-for-the-first-half-of-2026.html",
-   "summary": "SHENZHEN, China, Aug. 20, 2026 (GLOBE NEWSWIRE) -- Huize Holding Limited (“Huize”, the “Company” or “we”) (NASDAQ: HUIZ), a leading insurance technology platform connecting consumers, insurance carriers, and distribution partners digitally through data-driven and AI-powered solutions in Asia, today announced its unaudited financial results for the first half ended June 30, 2026.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4fb6bbb2d762",
-   "title": "DouYu International Holdings Limited Reports Second Quarter 2026 Unaudited Financial Results",
-   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348142/0/en/douyu-international-holdings-limited-reports-second-quarter-2026-unaudited-financial-results.html",
-   "summary": "WUHAN, China, Aug. 20, 2026 (GLOBE NEWSWIRE) -- DouYu International Holdings Limited (\"DouYu\" or the \"Company\") (Nasdaq: DOYU), a leading game-centric live streaming platform in China and a pioneer in the eSports value chain, today announced its unaudited financial results for the second quarter ended June 30, 2026.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "d88641d86afa",
-   "title": "FreeCast Expands Global Streaming Strategy with 28-Channel Brazilian Television Launch | CAST Stock News",
-   "link": "https://www.stocktitan.net/news/CAST/free-cast-expands-global-streaming-strategy-with-28-channel-ok4ik1ech2o4.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "stocktitan.net",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": [
-    "MSTR",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "29941834a908",
-   "title": "BingEx Limited Announces Second Quarter 2026 Financial Results | FLX Stock News",
-   "link": "https://www.stocktitan.net/news/FLX/bing-ex-limited-announces-second-quarter-2026-financial-b1ucwm812uh2.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "0bda4d658b56",
-   "title": "DouYu International Holdings Limited Reports Second Quarter 2026 Unaudited Financial Results | DOYU Stock News",
-   "link": "https://www.stocktitan.net/news/DOYU/dou-yu-international-holdings-limited-reports-second-quarter-2026-kwctjg4f4ld9.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "f683b90d14dd",
-   "title": "Huize Holding Limited Reports Unaudited Financial Results for the First Half of 2026 | HUIZ Stock News",
-   "link": "https://www.stocktitan.net/news/HUIZ/huize-holding-limited-reports-unaudited-financial-results-for-the-fvjg20g9kgxs.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "f0aa0c4fb958",
-   "title": "More SpaceX stock is about to hit the market. Here’s what to know.",
-   "link": "https://www.marketwatch.com/story/more-spacex-stock-is-about-to-hit-the-market-heres-what-to-know-789923d4?mod=mw_rss_topstories",
-   "summary": "About 7% of SpaceX shares held by insiders are set to be made eligible for trading.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "311202f54279",
-   "title": "Myriad Uranium Announces Preliminary Radiometric Results from Lucky Cliff Drilling | MYRUF Stock News",
-   "link": "https://www.stocktitan.net/news/MYRUF/myriad-uranium-announces-preliminary-radiometric-results-from-lucky-bwkec80n2s5u.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "9bbcfed0425f",
-   "title": "Provenance Gold Commences Drilling at Its Eldorado West Project | PVGDF Stock News",
-   "link": "https://www.stocktitan.net/news/PVGDF/provenance-gold-commences-drilling-at-its-eldorado-west-0ngofkbig28p.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": [
-    "NWSA",
-    "WST"
-   ]
-  },
-  {
-   "id": "f182d6b24e85",
-   "title": "Does your immune system learn like AI?",
-   "link": "https://www.prnewswire.com/news-releases/does-your-immune-system-learn-like-ai-302855768.html",
-   "summary": "COLD SPRING HARBOR, N.Y., Aug. 20, 2026 /PRNewswire/ -- Could AI hold the key to answering questions that have stumped doctors and scientists for decades? A recent study at Cold Spring Harbor Laboratory (CSHL) borrows concepts from machine learning to address an age-old riddle of...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": [
-    "COLD"
-   ]
-  },
-  {
-   "id": "d437dc0c6673",
-   "title": "Lupin and Tenpoint Therapeutics Announce Strategic Partnership to Commercialize YUVEZZI™ in the European Union, the United Kingdom, Switzerland, Norway, and Iceland",
-   "link": "https://www.prnewswire.com/news-releases/lupin-and-tenpoint-therapeutics-announce-strategic-partnership-to-commercialize-yuvezzi-in-the-european-union-the-united-kingdom-switzerland-norway-and-iceland-302856231.html",
-   "summary": "Demonstrates a shared commitment to extend global access for the only once-daily dual-agent presbyopia-correcting eye drop in the rapidly growing presbyopia vision management segment MUMBAI, India and NAPLES, Fla. and WARREN, New Jersey and AMSTERDAM and LONDON, Aug. 20, 2026 /PRNewswire/...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T09:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5ded1f02f572",
-   "title": "Moderna breakthrough: The options lottery tickets that paid out",
-   "link": "https://seekingalpha.com/news/4635265-moderna-breakthrough-the-options-lottery-tickets-that-paid-out?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T08:58:37+00:00",
-   "tickers": [
-    "MRNA"
-   ]
-  },
-  {
-   "id": "14acc2053fba",
-   "title": "NetEase Announces Second Quarter and Interim 2026 Unaudited Financial Results",
-   "link": "https://www.prnewswire.com/news-releases/netease-announces-second-quarter-and-interim-2026-unaudited-financial-results-302856259.html",
-   "summary": "HONG KONG, Aug. 20, 2026 /PRNewswire/ -- NetEase, Inc. (NASDAQ: NTES and HKEX: 9999, \"NetEase\" or the \"Company\"), a leading internet and game services provider, today announced its unaudited financial results for the second quarter ended June 30, 2026. In this results announcement, \"we\",...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T08:58:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a58382870e81",
-   "title": "NetEase Announces Second Quarter and Interim 2026 Unaudited Financial Results | DAO Stock News",
-   "link": "https://www.stocktitan.net/news/DAO/net-ease-announces-second-quarter-and-interim-2026-unaudited-vuxli6rrbj50.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-20T08:58:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "fe439b279f80",
-   "title": "7 things you should always keep in your car",
-   "link": "https://www.marketwatch.com/story/7-things-you-should-always-keep-in-your-car-a2999454?mod=mw_rss_topstories",
-   "summary": "For peace of mind on the road and safety here’s what will keep you prepared for almost any scenario.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-08-20T08:58:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "276d2e5bb2ea",
-   "title": "Attendo Q2 2026 slides: margins surge as occupancy hits 88%",
-   "link": "https://www.investing.com/news/company-news/attendo-q2-2026-slides-margins-surge-as-occupancy-hits-88-93CH-4868985",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T08:57:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3b4f31903f3e",
-   "title": "Bond yields edge higher as traders digest Treasury debt buyback plan",
-   "link": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
-   "summary": "Bond yields edged higher after pulling back sharply during Wednesday's session.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-08-20T08:57:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "03634560b0ac",
-   "title": "Clavister Q2 2026 slides: 63% sales growth, record 30% EBITDA margin",
-   "link": "https://www.investing.com/news/company-news/clavister-q2-2026-slides-63-sales-growth-record-30-ebitda-margin-93CH-4868984",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-08-20T08:57:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a998ca5dd991",
-   "title": "Crypto stocks surge as Bitcoin short squeeze hits record $2.7B",
-   "link": "https://www.investing.com/news/cryptocurrency-news/crypto-stocks-surge-as-bitcoin-short-squeeze-hits-record-27b-4868983",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-20T08:57:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "183500c32a5b",
-   "title": "Vantage élargit son offre de CFD pré-IPO avec Unitree Robotics, sur fond d'essor de l'IA de pointe",
-   "link": "https://www.prnewswire.com/news-releases/vantage-elargit-son-offre-de-cfd-pre-ipo-avec-unitree-robotics-sur-fond-dessor-de-lia-de-pointe-302856258.html",
-   "summary": "PORT VILA, Vanuatu, 20 août 2026 /PRNewswire/ -- Vantage Markets a élargi son offre de CFD pré‑IPO avec le lancement d'un CFD pré-IPO Unitree pour les clients éligibles, disponible depuis le 10 août 2026 sous le symbole UNITREEUSD. Ce lancement permet aux clients éligibles de s'exposer...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T08:57:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "IAGG": "iShares International Aggregate Bond Fund",
+  "CRL": "Charles River Laboratories International",
   "EWA": "iShares MSCI Australia Index Fund",
-  "WST": "West Pharmaceutical Services",
+  "BTDR": "Bitdeer Technologies Group",
+  "FBIN": "Fortune Brands Innovations",
   "JEF": "Jefferies Financial Group",
   "RARE": "Ultragenyx Pharmaceutical",
   "TD": "The Toronto-Dominion Bank",
@@ -8454,6 +8519,7 @@
   "LULU": "lululemon athletica",
   "ROK": "Rockwell Automation",
   "ARRY": "Array Technologies",
+  "BEN": "Franklin Resources",
   "PANW": "Palo Alto Networks",
   "TPL": "Texas Pacific Land",
   "AMAT": "Applied Materials",
@@ -8465,22 +8531,27 @@
   "Q": "Qnity Electronics",
   "TJX": "The TJX Companies",
   "UBER": "Uber Technologies",
+  "VERA": "Vera Therapeutics",
+  "ALK": "Alaska Air Group",
   "AR": "Antero Resources",
   "BMO": "Bank of Montreal",
+  "BWXT": "BWX Technologies",
   "COST": "Costco Wholesale",
   "GNRC": "Generac Holdings",
+  "IRTC": "iRhythm Holdings",
   "LOW": "Lowe's Companies",
+  "RKT": "Rocket Companies",
   "THC": "Tenet Healthcare",
   "VMC": "Vulcan Materials",
   "COIN": "Coinbase Global",
   "LNG": "Cheniere Energy",
+  "ADI": "Analog Devices",
   "B": "Barrick Mining",
   "HD": "The Home Depot",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "SERV": "Serve Robotics",
   "AVAV": "AeroVironment",
-  "HSBC": "HSBC Holdings",
   "IRM": "Iron Mountain",
   "MT": "ArcelorMittal",
   "TLRY": "Tilray Brands",
@@ -8491,33 +8562,40 @@
   "MELI": "MercadoLibre",
   "R": "Ryder System",
   "UBS": "UBS Group AG",
+  "Z": "Zillow Group",
   "GOOGL": "Google Cloud",
   "NVDA": "Grace Hopper",
+  "MKC": "McCormick &",
   "ULTA": "Ulta Beauty",
+  "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
   "CRM": "Salesforce",
-  "FORM": "FormFactor",
   "RIG": "Transocean",
   "MSFT": "Office 365",
   "DE": "John Deere",
   "AL": "Air Lease",
   "BC": "Brunswick",
+  "CRWV": "CoreWeave",
   "OS": "OneStream",
   "PKG": "Packaging",
   "SNOW": "Snowflake",
   "TEAM": "Atlassian",
+  "TEM": "Tempus AI",
   "WELL": "Welltower",
   "NWSA": "News Corp",
   "ADSK": "Autodesk",
+  "BCS": "Barclays",
   "GOOG": "Alphabet",
   "LMND": "Lemonade",
   "NGD": "New Gold",
   "BNTX": "BioNTech",
   "ARMK": "Aramark",
   "BLSH": "Bullish",
+  "CNC": "Centene",
   "COMP": "Compass",
+  "CTVA": "Corteva",
   "IOT": "Samsara",
   "MCO": "Moody's",
   "MRK": "Merck &",
@@ -8535,7 +8613,6 @@
   "TU": "TELUS",
   "XYZ": "Block",
   "DAVE": "Dave",
-  "LYFT": "Lyft",
   "NVMI": "Nova",
   "KLAC": "KLA"
  }
