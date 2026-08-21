@@ -1,8 +1,38 @@
 {
- "generated": "2026-08-21T22:52:20.898169+00:00",
+ "generated": "2026-08-21T22:56:59.457132+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "97382535e334",
+   "title": "Dow surges 500 points Friday, but index posts back-to-back weekly losses",
+   "link": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+   "summary": "Stocks rose on Friday as investors tried to find their footing following a steep sell-off driven by rising Treasury yields.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-21T22:53:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d703d2858dc2",
+   "title": "Novo Nordisk: The Pill That Could Close The Gap With Lilly",
+   "link": "https://seekingalpha.com/article/4939253-novo-nordisk-the-pill-that-could-close-the-gap-with-lilly?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-21T22:50:31+00:00",
+   "tickers": [
+    "NVO",
+    "GAP",
+    "LLY"
+   ]
+  },
   {
    "id": "f275db638f5e",
    "title": "Ethos Technologies president Wang sells $3.9m in stock",
@@ -2943,19 +2973,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-08-21T20:17:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "97382535e334",
-   "title": "Dow surges 500 points Friday, but index posts back-to-back weekly losses: Live updates",
-   "link": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-   "summary": "Stocks rose on Friday as investors tried to find their footing following a steep sell-off driven by rising Treasury yields.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-08-21T20:17:08+00:00",
    "tickers": []
   },
   {
@@ -8340,19 +8357,6 @@
    "domain": "investing.com",
    "published": "2026-08-21T16:22:35+00:00",
    "tickers": []
-  },
-  {
-   "id": "a2028aecebd0",
-   "title": "CPL Announces Next Phase of Leadership as Firm Continues Growth and Strategic Momentum",
-   "link": "https://www.prnewswire.com/news-releases/cpl-announces-next-phase-of-leadership-as-firm-continues-growth-and-strategic-momentum-302857441.html",
-   "summary": "Todd Liebert transitioned to a Senior Advisor role August 1; Chris Colby stepping in to lead CPL while the company conducts a search for its next chief executive ROCHESTER, N.Y., Aug. 21, 2026 /PRNewswire/ -- CPL announced a planned leadership transition designed to support the firm's...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-21T16:22:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8409,6 +8413,7 @@
   "COST": "Costco Wholesale",
   "HCC": "Warrior Met Coal",
   "LOW": "Lowe's Companies",
+  "NVO": "Novo Nordisk A/S",
   "TTMI": "TTM Technologies",
   "UPST": "Upstart Holdings",
   "BAC": "Bank of America",
@@ -8421,6 +8426,7 @@
   "LEU": "Centrus Energy",
   "PLNT": "Planet Fitness",
   "NET": "Cloudflare Inc",
+  "LLY": "Eli Lilly and",
   "POST": "Post Holdings",
   "SGML": "Sigma Lithium",
   "MSTR": "MicroStrategy",
@@ -8461,6 +8467,7 @@
   "BLSH": "Bullish",
   "CMI": "Cummins",
   "CVX": "Chevron",
+  "GAP": "The Gap",
   "MDB": "MongoDB",
   "MRNA": "Moderna",
   "PNR": "Pentair",
