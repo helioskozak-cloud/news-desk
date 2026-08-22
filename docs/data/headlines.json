@@ -1,8 +1,39 @@
 {
- "generated": "2026-08-22T12:52:19.036843+00:00",
+ "generated": "2026-08-22T12:57:16.210872+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "39e2aef2bde5",
+   "title": "DICK'S Sporting Goods Stock Is Hanging On By A Thread But Looks Like A Buy Ahead Of Q2 Earnings",
+   "link": "https://seekingalpha.com/article/4939351-dicks-sporting-goods-stock-is-hanging-on-by-a-thread-but-looks-like-a-buy-ahead-of-q2-earnings?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-22T12:52:21+00:00",
+   "tickers": [
+    "DKS"
+   ]
+  },
+  {
+   "id": "7de01fd4e220",
+   "title": "Illumina, Inc. Post Earnings: Buy On A Pullback",
+   "link": "https://seekingalpha.com/article/4939331-illumina-inc-post-earnings-buy-on-a-pullback?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-22T12:50:59+00:00",
+   "tickers": [
+    "ILMN",
+    "POST"
+   ]
+  },
   {
    "id": "9d364d124024",
    "title": "MDA Space: Rocketing Bookings Don't Lie (Rating Upgrade)",
@@ -41,6 +72,21 @@
    "domain": "prnewswire.com",
    "published": "2026-08-22T12:44:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "89c21cc8038d",
+   "title": "A Tempus AI Director Sold Stock Four Days Before a 24% Rally. Here's What to Know",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tempus-ai-director-sold-stock-123900245.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-22T12:39:00+00:00",
+   "tickers": [
+    "TEM"
+   ]
   },
   {
    "id": "8cb0c965d3a8",
@@ -8237,48 +8283,6 @@
    "domain": "prnewswire.com",
    "published": "2026-08-21T19:52:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "61c041ea2678",
-   "title": "Techlusion Named an OpenAI Select Partner",
-   "link": "https://www.prnewswire.com/news-releases/techlusion-named-an-openai-select-partner-302857535.html",
-   "summary": "Seattle studio joins the OpenAI Partner Network to help startups and B2B SaaS companies take frontier models from prototype to production SEATTLE, Aug. 21, 2026 /PRNewswire/ -- Techlusion, an AI-Native Product Engineering Studio, today announced it has been named an OpenAI Select Partner...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-21T19:52:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8ba9aa996103",
-   "title": "Illinois American Water Announces Upcoming Hydrant Flushing in Villa Grove",
-   "link": "https://www.prnewswire.com/news-releases/illinois-american-water-announces-upcoming-hydrant-flushing-in-villa-grove-302857531.html",
-   "summary": "Annual Flushing starts Monday, August 24 and continues through September 4 VILLA GROVE, Ill., Aug. 21, 2026 /PRNewswire/ -- Beginning next week, Illinois American Water will perform flushing of its water distribution system to continue to provide customers with high-quality, reliable...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-21T19:49:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a51a831882a8",
-   "title": "Illinois American Water Announces Upcoming Hydrant Flushing in Villa Grove | AWK Stock News",
-   "link": "https://www.stocktitan.net/news/AWK/illinois-american-water-announces-upcoming-hydrant-flushing-in-villa-65yoc9yjlzg8.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-21T19:49:00+00:00",
-   "tickers": [
-    "AWK",
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8297,8 +8301,8 @@
   "VZ": "Verizon Communications",
   "WBD": "Warner Bros. Discovery",
   "AMH": "American Homes 4 Rent",
+  "DKS": "DICK'S Sporting Goods",
   "PLTR": "Palantir Technologies",
-  "AWK": "American Water Works",
   "CINF": "Cincinnati Financial",
   "EGP": "EastGroup Properties",
   "PG": "The Procter & Gamble",
@@ -8343,6 +8347,7 @@
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "O": "Realty Income",
+  "POST": "Post Holdings",
   "SGML": "Sigma Lithium",
   "MSTR": "MicroStrategy",
   "ACMR": "ACM Research",
