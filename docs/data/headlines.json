@@ -1,8 +1,36 @@
 {
- "generated": "2026-08-22T19:12:09.291730+00:00",
+ "generated": "2026-08-22T19:17:16.028120+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "72777df0a829",
+   "title": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-100-billion-arizona-expansion-190500179.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-22T19:05:00+00:00",
+   "tickers": [
+    "TSM"
+   ]
+  },
+  {
+   "id": "a676b2906265",
+   "title": "Want $10,000 a Year on $100K? The Private-Credit Funds Banks Can’t Compete With Pay 10%+",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/want-10-000-100k-private-190101327.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-22T19:01:01+00:00",
+   "tickers": []
+  },
   {
    "id": "d956e1d340b9",
    "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
@@ -17,6 +45,23 @@
    "tickers": [
     "BRK-A",
     "META"
+   ]
+  },
+  {
+   "id": "11428db87282",
+   "title": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
+   "link": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-22T18:56:59+00:00",
+   "tickers": [
+    "WBD",
+    "PARA",
+    "NYT"
    ]
   },
   {
@@ -46,6 +91,19 @@
    "tickers": [
     "AMZN"
    ]
+  },
+  {
+   "id": "9e2e828c6027",
+   "title": "This Fund Pays 400% of the S&P’s Dividend and Still Beat Half of Wall Street This Year",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fund-pays-400-p-dividend-184816397.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-22T18:48:16+00:00",
+   "tickers": []
   },
   {
    "id": "0b05590740e3",
@@ -8209,62 +8267,6 @@
    "domain": "investing.com",
    "published": "2026-08-21T21:17:34+00:00",
    "tickers": []
-  },
-  {
-   "id": "f6311e690e40",
-   "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know.",
-   "link": "https://www.marketwatch.com/story/soon-you-can-buy-medicare-advantage-plans-at-costco-what-you-need-to-know-34e03242?mod=mw_rss_topstories",
-   "summary": "The warehouse club becomes the latest consumer brand to offer health insurance.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-08-21T21:17:00+00:00",
-   "tickers": [
-    "COST"
-   ]
-  },
-  {
-   "id": "d5cdafc51dbd",
-   "title": "Debt Now Threatens Rates And Markets, Let's Finally Take It Seriously",
-   "link": "https://seekingalpha.com/article/4939240-debt-now-threatens-rates-and-markets-lets-finally-take-it-seriously?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-21T21:16:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3158a3a72f55",
-   "title": "SolarMax Technology receives Nasdaq notice",
-   "link": "https://seekingalpha.com/news/4636028-solarmax-technology-receives-nasdaq-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-21T21:16:16+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "b2e09b5db3bd",
-   "title": "Nb bancorp CEO Joseph Campanelli buys $43,500 in NBBK stock",
-   "link": "https://www.investing.com/news/insider-trading-news/nb-bancorp-ceo-joseph-campanelli-buys-43500-in-nbbk-stock-93CH-4872166",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-21T21:15:58+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8274,6 +8276,7 @@
   "CP": "Canadian Pacific Kansas City Limited",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "JEPI": "JPMorgan Equity Premium Income ETF",
+  "TSM": "Taiwan Semiconductor Manufacturing",
   "IWF": "iShares Russell 1000 Growth Fund",
   "ASTX": "Tradr 2X Long ASTS Daily ETF",
   "WST": "West Pharmaceutical Services",
@@ -8296,6 +8299,7 @@
   "HIMS": "Hims & Hers Health",
   "LUNR": "Intuitive Machines",
   "MRVL": "Marvell Technology",
+  "NYT": "The New York Times",
   "PANW": "Palo Alto Networks",
   "TT": "Trane Technologies",
   "AMAT": "Applied Materials",
@@ -8309,7 +8313,6 @@
   "RIVN": "Rivian Automotive",
   "ALK": "Alaska Air Group",
   "AR": "Antero Resources",
-  "COST": "Costco Wholesale",
   "GD": "General Dynamics",
   "GTLS": "Chart Industries",
   "JPM": "JPMorgan Chase &",
