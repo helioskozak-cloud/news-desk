@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-22T20:47:22.487211+00:00",
+ "generated": "2026-08-22T20:52:21.827752+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "6afb60546c44",
+   "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
+   "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+   "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-08-22T20:45:00+00:00",
+   "tickers": []
+  },
   {
    "id": "266355b55eda",
    "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
@@ -343,6 +356,21 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-22T19:38:15+00:00",
    "tickers": []
+  },
+  {
+   "id": "b5a63d7f162f",
+   "title": "Paramount Prepares to Begin Early Settlement Talks With California Officials",
+   "link": "https://www.wsj.com/business/media/paramount-prepares-to-begin-early-settlement-talks-with-california-officials-462f68e2?siteid=yhoof2&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "wsj.com",
+   "published": "2026-08-22T19:37:00+00:00",
+   "tickers": [
+    "PARA"
+   ]
   },
   {
    "id": "da45b461d305",
@@ -2228,6 +2256,19 @@
    "sentiment": "neutral",
    "domain": "finance.yahoo.com",
    "published": "2026-08-22T14:30:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6f29e71d10ae",
+   "title": "Most Tech Stocks Are More Correlated Than You Think. Don’t Let That Wreck Your Trading Plan.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/most-tech-stocks-more-correlated-143002635.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-22T14:30:02+00:00",
    "tickers": []
   },
   {
@@ -4467,19 +4508,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "6afb60546c44",
-   "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
-   "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
-   "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-08-22T11:00:00+00:00",
-   "tickers": []
   },
   {
    "id": "cd318ed7729d",
@@ -8249,36 +8277,6 @@
    "domain": "investing.com",
    "published": "2026-08-21T21:40:30+00:00",
    "tickers": []
-  },
-  {
-   "id": "e5fb2cc3d577",
-   "title": "East West Bancorp Announces Fall 2026 Conference Participation | EWBC Stock News",
-   "link": "https://www.stocktitan.net/news/EWBC/east-west-bancorp-announces-fall-2026-conference-job9fxiaeztw.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "stocktitan.net",
-   "published": "2026-08-21T21:39:00+00:00",
-   "tickers": [
-    "EWBC",
-    "NWSA",
-    "WST"
-   ]
-  },
-  {
-   "id": "fa62d8b10c48",
-   "title": "Bitcoin rockets nearly 23% for the week as crypto roars back to life",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-75k-as-trump-spurs-us-regulatory-optimism-4870820",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-21T21:38:37+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8315,7 +8313,6 @@
   "TT": "Trane Technologies",
   "AMAT": "Applied Materials",
   "CAR": "Avis Budget Group",
-  "EWBC": "East West Bancorp",
   "HDB": "HDFC Bank Limited",
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
