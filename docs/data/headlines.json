@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-22T23:51:57.608377+00:00",
+ "generated": "2026-08-22T23:56:49.468948+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "098c8ce2a908",
+   "title": "Has Wall Street Entered the \"Show Me\" Phase of AI?",
+   "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-entered-show-phase-234100406.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-22T23:41:00+00:00",
+   "tickers": []
+  },
   {
    "id": "6c816dea3ffc",
    "title": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
@@ -1524,6 +1537,21 @@
    ]
   },
   {
+   "id": "8b6bde212015",
+   "title": "Why 1 Analyst Says Vera Rubin Is Key for Nvidia Stock in Q2",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-1-analyst-says-vera-174106031.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-22T17:41:06+00:00",
+   "tickers": [
+    "VERA"
+   ]
+  },
+  {
    "id": "faf4e90a15a9",
    "title": "What If Your Selfie Became a Game? DREAMOSIS Turns You and Anything You Own Into a Collectible World",
    "link": "https://www.prnewswire.com/news-releases/what-if-your-selfie-became-a-game-dreamosis-turns-you-and-anything-you-own-into-a-collectible-world-302857713.html",
@@ -1589,6 +1617,19 @@
    "sentiment": "negative",
    "domain": "prnewswire.com",
    "published": "2026-08-22T17:32:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e4555ef77f47",
+   "title": "Nvidia Stock Trades at a Reasonable Valuation With Ample Growth Headroom",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-trades-reasonable-valuation-173002313.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-22T17:30:02+00:00",
    "tickers": []
   },
   {
@@ -8228,51 +8269,6 @@
    "domain": "globenewswire.com",
    "published": "2026-08-21T23:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "57afa897d1fb",
-   "title": "Boeing engineers, technical workers reject contract offer",
-   "link": "https://www.investing.com/news/stock-market-news/boeing-whitecollar-union-contract-vote-results-expected-today-4871891",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-21T22:54:30+00:00",
-   "tickers": [
-    "BA"
-   ]
-  },
-  {
-   "id": "97382535e334",
-   "title": "Dow surges 500 points Friday, but index posts back-to-back weekly losses",
-   "link": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-   "summary": "Stocks rose on Friday as investors tried to find their footing following a steep sell-off driven by rising Treasury yields.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-08-21T22:53:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d703d2858dc2",
-   "title": "Novo Nordisk: The Pill That Could Close The Gap With Lilly",
-   "link": "https://seekingalpha.com/article/4939253-novo-nordisk-the-pill-that-could-close-the-gap-with-lilly?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-21T22:50:31+00:00",
-   "tickers": [
-    "NVO",
-    "GAP",
-    "LLY"
-   ]
   }
  ],
  "ticker_names": {
@@ -8318,6 +8314,7 @@
   "RGTI": "Rigetti Computing",
   "RIVN": "Rivian Automotive",
   "TJX": "The TJX Companies",
+  "VERA": "Vera Therapeutics",
   "ALK": "Alaska Air Group",
   "AR": "Antero Resources",
   "GD": "General Dynamics",
@@ -8391,7 +8388,6 @@
   "FOX": "Fox Corp",
   "CMCSA": "Comcast",
   "CNC": "Centene",
-  "GAP": "The Gap",
   "IVZ": "Invesco",
   "MRK": "Merck &",
   "MRNA": "Moderna",
