@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-22T20:52:21.827752+00:00",
+ "generated": "2026-08-22T20:57:19.904448+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1e3b7ff1427f",
+   "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
+   "link": "https://www.investing.com/news/stock-market-news/nvidia-customers-face-over-15-server-price-hikes-as-memory-costs-soar--report-4872389",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-22T20:47:44+00:00",
+   "tickers": []
+  },
   {
    "id": "6afb60546c44",
    "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
@@ -15,6 +28,22 @@
    "domain": "marketwatch.com",
    "published": "2026-08-22T20:45:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "1c5adfeb6554",
+   "title": "Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-grew-comparable-sales-204301377.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-22T20:43:01+00:00",
+   "tickers": [
+    "ROST",
+    "TJX"
+   ]
   },
   {
    "id": "266355b55eda",
@@ -8249,34 +8278,6 @@
    "tickers": [
     "ARM"
    ]
-  },
-  {
-   "id": "c5c335514da0",
-   "title": "Sigma Lithium resumes full operations after Brazil agreement",
-   "link": "https://www.investing.com/news/company-news/sigma-lithium-resumes-full-operations-after-brazil-agreement-93CH-4872194",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-21T21:40:39+00:00",
-   "tickers": [
-    "SGML"
-   ]
-  },
-  {
-   "id": "1e6b2f91966d",
-   "title": "Kimbell Royalty closes $221.2 million acquisition",
-   "link": "https://www.investing.com/news/company-news/kimbell-royalty-closes-2212-million-acquisition-93CH-4872193",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-21T21:40:30+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8319,6 +8320,7 @@
   "PRIM": "Primoris Services",
   "QUBT": "Quantum Computing",
   "RIVN": "Rivian Automotive",
+  "TJX": "The TJX Companies",
   "ALK": "Alaska Air Group",
   "AR": "Antero Resources",
   "GD": "General Dynamics",
@@ -8350,7 +8352,6 @@
   "LLY": "Eli Lilly and",
   "O": "Realty Income",
   "POST": "Post Holdings",
-  "SGML": "Sigma Lithium",
   "MSTR": "MicroStrategy",
   "PINS": "Pinterest Inc",
   "ACMR": "ACM Research",
@@ -8362,6 +8363,7 @@
   "ARM": "Arm Holdings",
   "GEN": "Gen Digital",
   "HAL": "Halliburton",
+  "ROST": "Ross Stores",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BA": "The Boeing",
