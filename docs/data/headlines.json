@@ -1,8 +1,23 @@
 {
- "generated": "2026-08-23T15:37:03.718521+00:00",
+ "generated": "2026-08-23T15:41:48.617958+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f1e07076dbf4",
+   "title": "Can Hershey step up to buy Mondelez?",
+   "link": "https://www.investing.com/news/stock-market-news/can-hershey-step-up-to-buy-mondelez-4872464",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-23T15:33:08+00:00",
+   "tickers": [
+    "MDLZ"
+   ]
+  },
   {
    "id": "e80dae97da5f",
    "title": "Policy Signals Shape The Rates Outlook",
@@ -27,6 +42,19 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-08-23T15:23:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "06c0c9d64190",
+   "title": "Bitcoin pares losses as recent rally finds fresh momentum",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-under-77000-as-rally-boosts-mining-economics-4872436",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-23T15:17:37+00:00",
    "tickers": []
   },
   {
@@ -1640,19 +1668,6 @@
    "sentiment": "neutral",
    "domain": "finance.yahoo.com",
    "published": "2026-08-23T10:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "06c0c9d64190",
-   "title": "Bitcoin slips under $77,000 as rally boosts mining economics",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-under-77000-as-rally-boosts-mining-economics-4872436",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-23T09:58:05+00:00",
    "tickers": []
   },
   {
@@ -8222,19 +8237,6 @@
    "tickers": [
     "MSFT"
    ]
-  },
-  {
-   "id": "98be634da446",
-   "title": "Lyntris: Defense Play Does Not Appear To Be A Defensive Investment",
-   "link": "https://seekingalpha.com/article/4939334-lyntris-defense-play-does-not-appear-to-be-a-defensive-investment?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-22T10:47:15+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8258,6 +8260,7 @@
   "ALNY": "Alnylam Pharmaceuticals",
   "AMD": "Advanced Micro Devices",
   "CHTR": "Charter Communications",
+  "MDLZ": "Mondelez International",
   "WBD": "Warner Bros. Discovery",
   "AMH": "American Homes 4 Rent",
   "DKS": "DICK'S Sporting Goods",
