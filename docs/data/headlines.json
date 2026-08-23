@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-23T14:36:58.240476+00:00",
+ "generated": "2026-08-23T14:42:17.289388+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "238b5ed0c48c",
+   "title": "Iran says new sanctions threatened by ’desperate’ US will fail",
+   "link": "https://www.investing.com/news/commodities-news/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-4872444",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-23T14:30:31+00:00",
+   "tickers": []
+  },
   {
    "id": "46754bcc6873",
    "title": "RXT Investor Alert: Kessler Topaz Meltzer &amp; Check, LLP Encourages RXT Investors with Losses to Contact the Firm",
@@ -56,6 +69,21 @@
    "domain": "nytimes.com",
    "published": "2026-08-23T14:24:38+00:00",
    "tickers": []
+  },
+  {
+   "id": "b084ba6272f3",
+   "title": "UBS downgrades Klarna stock rating on guidance cut, executive departures",
+   "link": "https://www.investing.com/news/analyst-ratings/ubs-downgrades-klarna-stock-rating-on-guidance-cut-executive-departures-93CH-4872462",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-08-23T14:22:57+00:00",
+   "tickers": [
+    "UBS"
+   ]
   },
   {
    "id": "b7a16b6a8f06",
@@ -200,19 +228,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-08-23T13:35:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "238b5ed0c48c",
-   "title": "Iran says new sanctions threatened by ’desperate’ US will fail",
-   "link": "https://www.investing.com/news/commodities-news/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-4872444",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-23T13:30:33+00:00",
    "tickers": []
   },
   {
@@ -8234,21 +8249,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-22T10:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "02a963bf6908",
-   "title": "Tapestry's Top Lawyer Filed a Stock Transaction. Tariffs Are the Bigger Story",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tapestrys-top-lawyer-filed-stock-095702743.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-22T09:57:02+00:00",
-   "tickers": [
-    "TPR"
-   ]
   }
  ],
  "ticker_names": {
@@ -8328,6 +8328,7 @@
   "PINS": "Pinterest Inc",
   "CYTK": "Cytokinetics",
   "QS": "QuantumScape",
+  "UBS": "UBS Group AG",
   "UUUU": "Energy Fuels",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
@@ -8365,7 +8366,6 @@
   "GOOG": "Alphabet",
   "ILMN": "Illumina",
   "TFX": "Teleflex",
-  "TPR": "Tapestry",
   "RTX": "Raytheon",
   "FOX": "Fox Corp",
   "CMCSA": "Comcast",
