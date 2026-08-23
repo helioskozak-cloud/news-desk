@@ -1,8 +1,50 @@
 {
- "generated": "2026-08-23T20:02:22.701994+00:00",
+ "generated": "2026-08-23T20:07:16.979912+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "53b91a41b066",
+   "title": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?",
+   "link": "https://finance.yahoo.com/healthcare/articles/zoetis-earnings-reveal-divided-business-194924344.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-23T19:49:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "25e5a1e2f19f",
+   "title": "Your mortgage rate has a growing problem in the bond market",
+   "link": "https://finance.yahoo.com/real-estate/articles/mortgage-rate-growing-problem-bond-194700578.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-23T19:47:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d629fd2a592c",
+   "title": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
+   "link": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-23T19:43:03+00:00",
+   "tickers": [
+    "THC",
+    "MDT"
+   ]
+  },
   {
    "id": "d131dcdf5b15",
    "title": "FHLC vs. PJP: Which Healthcare ETF Is the Better Buy for Investors?",
@@ -8182,47 +8224,6 @@
     "ASTS",
     "ASTX"
    ]
-  },
-  {
-   "id": "2a5d7fffe7af",
-   "title": "RBC reviews midterm-year volatility risks for U.S. equities",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-reviews-midterm-volatility-risks-131000648.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-22T13:10:00+00:00",
-   "tickers": [
-    "RBC"
-   ]
-  },
-  {
-   "id": "ed1fa5644361",
-   "title": "Can U.S. stocks withstand midterm election volatility?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/u-stocks-withstand-midterm-election-131000983.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-22T13:10:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9c27240a8e15",
-   "title": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
-   "link": "https://www.cnbc.com/2026/08/22/longevity-doctor-daily-habits-healthy-aging.html",
-   "summary": "Dr. Ronald Primas, a longevity physician, offers concierge services like developing personalized health plans for clients. Here are his own wellness practices.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-08-22T13:05:01+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8274,6 +8275,7 @@
   "JPM": "JPMorgan Chase &",
   "NVO": "Novo Nordisk A/S",
   "RCAT": "Red Cat Holdings",
+  "THC": "Tenet Healthcare",
   "UPST": "Upstart Holdings",
   "GE": "General Electric",
   "ASTS": "AST SpaceMobile",
@@ -8296,7 +8298,6 @@
   "PINS": "Pinterest Inc",
   "CYTK": "Cytokinetics",
   "QS": "QuantumScape",
-  "RBC": "RBC Bearings",
   "UBS": "UBS Group AG",
   "UUUU": "Energy Fuels",
   "GOOGL": "Google Cloud",
@@ -8322,6 +8323,7 @@
   "BLK": "BlackRock",
   "C": "Citigroup",
   "CRWV": "CoreWeave",
+  "MDT": "Medtronic",
   "PKG": "Packaging",
   "SNOW": "Snowflake",
   "TEAM": "Atlassian",
