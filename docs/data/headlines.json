@@ -1,8 +1,24 @@
 {
- "generated": "2026-08-23T20:26:56.172364+00:00",
+ "generated": "2026-08-23T20:31:51.706785+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "3732df039024",
+   "title": "Better Dividend King to Buy Right Now: Abbott Labs or Johnson & Johnson?",
+   "link": "https://finance.yahoo.com/healthcare/articles/better-dividend-king-buy-now-202000465.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-23T20:20:00+00:00",
+   "tickers": [
+    "JNJ",
+    "ABT"
+   ]
+  },
   {
    "id": "7410c7f0a4dd",
    "title": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
@@ -18,6 +34,32 @@
     "ORCL",
     "AMZN"
    ]
+  },
+  {
+   "id": "4a1943ab7631",
+   "title": "$22 Billion in Customer Deposits Did Not Stop This Chip CEO From Selling $37 Million",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/22-billion-customer-deposits-did-201236753.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-23T20:12:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a64a9f627df0",
+   "title": "Billionaire Druckenmiller makes cancer stock his #1 buy for a reason",
+   "link": "https://finance.yahoo.com/healthcare/articles/billionaire-druckenmiller-makes-cancer-stock-200700848.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-23T20:07:00+00:00",
+   "tickers": []
   },
   {
    "id": "3b399738343b",
@@ -2093,6 +2135,21 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-23T14:18:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "aca316f72557",
+   "title": "Duolingo Stock Is Shaking Off AI Fears",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/duolingo-stock-shaking-off-ai-141502170.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-23T14:15:02+00:00",
+   "tickers": [
+    "DUOL"
+   ]
   },
   {
    "id": "b7a16b6a8f06",
@@ -8169,64 +8226,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-22T13:17:48+00:00",
    "tickers": []
-  },
-  {
-   "id": "6f1a3dfb7bd4",
-   "title": "WhiteFiber: The Hard Part Starts After The AI Contract",
-   "link": "https://seekingalpha.com/article/4939353-whitefiber-the-hard-part-starts-after-the-ai-contract?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-22T13:16:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6388f94c26f3",
-   "title": "TG Therapeutics: Briumvi's Growth Attracts Buyout Rumors",
-   "link": "https://seekingalpha.com/article/4939338-tg-therapeutics-briumvis-growth-attracts-buyout-rumors?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-22T13:15:00+00:00",
-   "tickers": [
-    "TGTX"
-   ]
-  },
-  {
-   "id": "fa165d837c8b",
-   "title": "Morgan Stanley Direct Lending Fund: The Dividend Is Likely To Get Slashed (Rating Downgrade)",
-   "link": "https://seekingalpha.com/article/4939242-morgan-stanley-direct-lending-fund-dividend-is-likely-to-get-slashed-rating-downgrade?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-22T13:15:00+00:00",
-   "tickers": [
-    "MS"
-   ]
-  },
-  {
-   "id": "cabf3fa46df2",
-   "title": "QuantumScape's COO Sold Stock the Same Quarter His Production Line Hit 90% Uptime. Here's What to Know",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/quantumscapes-coo-sold-stock-same-131412161.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-22T13:14:12+00:00",
-   "tickers": [
-    "QS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8256,6 +8255,7 @@
   "PLTR": "Palantir Technologies",
   "OXY": "Occidental Petroleum",
   "VOO": "Vanguard S&P 500 ETF",
+  "ABT": "Abbott Laboratories",
   "ZM": "Zoom Communications",
   "BOOT": "Boot Barn Holdings",
   "BRK-A": "Berkshire Hathaway",
@@ -8283,7 +8283,6 @@
   "ASTS": "AST SpaceMobile",
   "EXP": "Eagle Materials",
   "GILD": "Gilead Sciences",
-  "TGTX": "TG Therapeutics",
   "ADI": "Analog Devices",
   "BTU": "Peabody Energy",
   "GM": "General Motors",
