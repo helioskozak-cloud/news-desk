@@ -1,8 +1,23 @@
 {
- "generated": "2026-08-26T23:36:59.434887+00:00",
+ "generated": "2026-08-26T23:42:17.974291+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "300c9b6d5eff",
+   "title": "Salesforce CEO Marc Benioff goes one-on-one with Jim Cramer",
+   "link": "https://www.cnbc.com/video/2026/08/26/salesforce-ceo-marc-benioff-goes-one-on-one-with-jim-cramer.html",
+   "summary": "Salesforce Co-Founder and CEO Marc Benioff joins 'Mad Money' host Jim Cramer to talk quarterly results, and the company's newly announced partnership with Anthropic.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-26T23:31:48+00:00",
+   "tickers": [
+    "CRM"
+   ]
+  },
   {
    "id": "c25401ae1889",
    "title": "Agilent forecasts FY2026 revenue of $7.49B-$7.51B and EPS of $6.18-$6.21 as China returns to 9% growth",
@@ -8574,21 +8589,6 @@
    "tickers": [
     "TRI"
    ]
-  },
-  {
-   "id": "0086c18d0882",
-   "title": "BofA raises Pinduoduo stock price target on margin improvement",
-   "link": "https://www.investing.com/news/analyst-ratings/bofa-raises-pinduoduo-stock-price-target-on-margin-improvement-93CH-4877752",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-26T18:58:51+00:00",
-   "tickers": [
-    "PDD"
-   ]
   }
  ],
  "ticker_names": {
@@ -8670,7 +8670,6 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
-  "PDD": "PDD Holdings",
   "CNM": "Core & Main",
   "FE": "FirstEnergy",
   "S": "SentinelOne",
