@@ -1,8 +1,36 @@
 {
- "generated": "2026-08-26T19:37:25.009403+00:00",
+ "generated": "2026-08-26T19:41:55.045230+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "cdbd0025e43a",
+   "title": "S&P 500 is little changed after PCE report shows sticky inflation; Nvidia earnings on deck: Live updates",
+   "link": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+   "summary": "The S&amp;P 500 moved slightly lower on Wednesday after the latest personal consumption expenditures price index reading revealed that inflation remains elevated.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-26T19:35:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4d106327d665",
+   "title": "Ørsted raised to Buy at Citi on first steps toward return to profitable growth.",
+   "link": "https://seekingalpha.com/news/4637153-rsted-raised-to-buy-at-citi-on-first-steps-toward-return-to-profitable-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-26T19:34:32+00:00",
+   "tickers": [
+    "C"
+   ]
+  },
   {
    "id": "eaa2d853db05",
    "title": "QQQM: Notable Nasdaq 100 Risks Heading Into September",
@@ -929,19 +957,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-08-26T18:57:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cdbd0025e43a",
-   "title": "S&P 500 is little changed after PCE report shows sticky inflation; Nvidia earnings on deck: Live updates",
-   "link": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
-   "summary": "The S&amp;P 500 moved slightly lower on Wednesday after the latest personal consumption expenditures price index reading revealed that inflation remains elevated.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-08-26T18:57:12+00:00",
    "tickers": []
   },
   {
@@ -8348,21 +8363,6 @@
    "domain": "prnewswire.com",
    "published": "2026-08-26T15:49:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "64fc75e865aa",
-   "title": "Biohaven stock holds Buy rating at TD Cowen after SK deal",
-   "link": "https://www.investing.com/news/analyst-ratings/biohaven-stock-holds-buy-rating-at-td-cowen-after-sk-deal-93CH-4877583",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-26T15:48:52+00:00",
-   "tickers": [
-    "TD"
-   ]
   }
  ],
  "ticker_names": {
@@ -8476,6 +8476,7 @@
   "DE": "John Deere",
   "ACN": "Accenture",
   "BC": "Brunswick",
+  "C": "Citigroup",
   "CRWV": "CoreWeave",
   "DCI": "Donaldson",
   "DT": "Dynatrace",
