@@ -1,11 +1,41 @@
 {
- "generated": "2026-08-26T21:12:19.817403+00:00",
+ "generated": "2026-08-26T21:17:03.634279+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
   {
+   "id": "22157dadafd5",
+   "title": "Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates",
+   "link": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
+   "summary": "Follow Nvidia’s Q2 2027 earnings for data center results, guidance, AI demand and NVDA stock reaction in real time.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-26T21:15:00+00:00",
+   "tickers": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "54c36c34f337",
+   "title": "Amprius: Tech Is Proven, But Business Growth And Competitiveness Are In Question",
+   "link": "https://seekingalpha.com/article/4940526-amprius-tech-is-proven-but-business-growth-and-competitiveness-are-in-questions?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-26T21:14:49+00:00",
+   "tickers": [
+    "AMPX"
+   ]
+  },
+  {
    "id": "4a21aea29e78",
-   "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
+   "title": "Salesforce stock jumps 13% on AI growth and Anthropic investment gain",
    "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
    "summary": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
    "source": "CNBC Earnings",
@@ -13,7 +43,7 @@
    "type": "earnings",
    "sentiment": "positive",
    "domain": "cnbc.com",
-   "published": "2026-08-26T21:10:13+00:00",
+   "published": "2026-08-26T21:12:21+00:00",
    "tickers": [
     "CRM"
    ]
@@ -99,6 +129,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-26T21:07:55+00:00",
    "tickers": []
+  },
+  {
+   "id": "d7c0927682e6",
+   "title": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar",
+   "link": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
+   "summary": "The country star supported early childhood literacy, disaster relief, the development of the Covid-19 vaccine and more.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-08-26T21:06:31+00:00",
+   "tickers": [
+    "FBIN"
+   ]
   },
   {
    "id": "de1d1b11dd4f",
@@ -245,21 +290,6 @@
    "domain": "prnewswire.com",
    "published": "2026-08-26T21:03:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "22157dadafd5",
-   "title": "Nvidia reports earnings beat as revenue more than doubles: Live updates",
-   "link": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
-   "summary": "Follow Nvidia’s Q2 2027 earnings for data center results, guidance, AI demand and NVDA stock reaction in real time.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-08-26T21:02:46+00:00",
-   "tickers": [
-    "NVDA"
-   ]
   },
   {
    "id": "5327269ce6f7",
@@ -8531,34 +8561,6 @@
    "domain": "prnewswire.com",
    "published": "2026-08-26T17:41:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "5265cd7e4120",
-   "title": "Market Indexes Hold Flat as Wall Street Waits on Nvidia",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/market-indexes-hold-flat-wall-174053637.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-26T17:40:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ca8d55cbc098",
-   "title": "Tesla: Potential Merger Has Some Upside, But I'm Still Bearish (Upgrade)",
-   "link": "https://seekingalpha.com/article/4940462-tesla-potential-merger-has-some-upside-but-im-still-bearish-upgrade?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-26T17:40:30+00:00",
-   "tickers": [
-    "TSLA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8569,6 +8571,7 @@
   "QQQ": "Invesco QQQ Trust, Series 1",
   "AEM": "Agnico Eagle Mines Limited",
   "EL": "The Est?e Lauder Companies",
+  "FBIN": "Fortune Brands Innovations",
   "JEF": "Jefferies Financial Group",
   "LYV": "Live Nation Entertainment",
   "TD": "The Toronto-Dominion Bank",
@@ -8585,6 +8588,7 @@
   "DKS": "DICK'S Sporting Goods",
   "KEYS": "Keysight Technologies",
   "PLTR": "Palantir Technologies",
+  "AMPX": "Amprius Technologies",
   "AWK": "American Water Works",
   "CRWD": "CrowdStrike Holdings",
   "GVA": "Granite Construction",
