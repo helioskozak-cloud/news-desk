@@ -1,8 +1,49 @@
 {
- "generated": "2026-08-28T19:32:17.553481+00:00",
+ "generated": "2026-08-28T19:37:06.084171+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "02420710a1e2",
+   "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+   "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+   "summary": "The Ninth Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a Third Circuit ruling from April.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-28T19:32:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8e1f36c2afe5",
+   "title": "Qiagen hit with $4.8M jury award in patent dispute with 10x Genomics",
+   "link": "https://seekingalpha.com/news/4637990-10x-genomics-wins-jury-award-qiagen-patent-row?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-28T19:32:46+00:00",
+   "tickers": [
+    "QGEN"
+   ]
+  },
+  {
+   "id": "aa1d26df5eaf",
+   "title": "S&P 500 falls, but heads for winning week as Warsh says Fed committed to fighting inflation: Live updates",
+   "link": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html",
+   "summary": "With Thursday's advance, the three major indexes are on track to end the week higher.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-08-28T19:31:09+00:00",
+   "tickers": []
+  },
   {
    "id": "d795ec9f24fb",
    "title": "Banco BBVA Argentina S.A. (BBAR) Q2 2026 Earnings Call Transcript",
@@ -171,19 +212,6 @@
    ]
   },
   {
-   "id": "aa1d26df5eaf",
-   "title": "S&P 500 falls, but heads for winning week as Warsh says Fed committed to fighting inflation: Live updates",
-   "link": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html",
-   "summary": "With Thursday's advance, the three major indexes are on track to end the week higher.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-08-28T19:17:57+00:00",
-   "tickers": []
-  },
-  {
    "id": "afa081457c13",
    "title": "Dell and HPE set to increase guidance in upcoming earnings: JPM",
    "link": "https://seekingalpha.com/news/4637980-dell-and-hpe-set-to-increase-guidance-in-upcoming-earnings-jpm?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -328,19 +356,6 @@
    "tickers": [
     "MRVL"
    ]
-  },
-  {
-   "id": "02420710a1e2",
-   "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-   "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-   "summary": "The Ninth Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a Third Circuit ruling from April.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-08-28T19:05:23+00:00",
-   "tickers": []
   },
   {
    "id": "ac3c6393cbd7",
@@ -8389,19 +8404,6 @@
    "domain": "globenewswire.com",
    "published": "2026-08-28T15:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "665410095c0c",
-   "title": "Total Voting Rights and Capital",
-   "link": "https://www.globenewswire.com/news-release/2026/08/28/3352763/0/en/total-voting-rights-and-capital.html",
-   "summary": "Albion Enterprise VCT PLC",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-28T15:00:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8566,6 +8568,7 @@
   "NDAQ": "Nasdaq",
   "NTRA": "Natera",
   "ORCL": "Oracle",
+  "QGEN": "Qiagen",
   "RBRK": "Rubrik",
   "AGX": "Argan",
   "ETN": "Eaton",
