@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-28T18:32:02.572196+00:00",
+ "generated": "2026-08-28T18:37:19.771557+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "049dca39aa05",
+   "title": "Trump loses bid to transfer New York hush money case to federal court",
+   "link": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html",
+   "summary": "Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in the White House.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-28T18:34:17+00:00",
+   "tickers": []
+  },
   {
    "id": "39ba9f18f70e",
    "title": "BLUE OWL MANAGED FUNDS LEAD $2.4 BILLION AI FACTORY FINANCING FOR IREN",
@@ -35,6 +48,34 @@
     "OWL",
     "NWSA",
     "IREN"
+   ]
+  },
+  {
+   "id": "02420710a1e2",
+   "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+   "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+   "summary": "The Ninth Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a Third Circuit ruling from April.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-28T18:29:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "de81d85d3f8b",
+   "title": "Cytokinetics, Incorporated (CYTK) Discusses Positive Phase III Results From ACACIA-HCM Trial of Aficamten in Nonobstructive HCM Transcript",
+   "link": "https://seekingalpha.com/article/4941285-cytokinetics-incorporated-cytk-discusses-positive-phase-iii-results-from-acacia-hcm-trial-of?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-28T18:29:15+00:00",
+   "tickers": [
+    "CYTK"
    ]
   },
   {
@@ -459,19 +500,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-08-28T18:03:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "049dca39aa05",
-   "title": "Trump loses bid to transfer New York hush money case to federal court",
-   "link": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html",
-   "summary": "Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in the White House.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-08-28T18:03:28+00:00",
    "tickers": []
   },
   {
@@ -8383,36 +8411,6 @@
    "tickers": [
     "MRVL"
    ]
-  },
-  {
-   "id": "affb2396c54d",
-   "title": "Broad-Based Strength Lifts GE Aerospace (GE) Performance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/broad-based-strength-lifts-ge-143547221.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-28T14:35:47+00:00",
-   "tickers": [
-    "GE"
-   ]
-  },
-  {
-   "id": "cb9803ed6474",
-   "title": "I'm Not Selling ExxonMobil, Even With Oil Prices Where They Are",
-   "link": "https://finance.yahoo.com/energy/articles/im-not-selling-exxonmobil-even-143500125.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-28T14:35:00+00:00",
-   "tickers": [
-    "XOM"
-   ]
   }
  ],
  "ticker_names": {
@@ -8481,7 +8479,6 @@
   "ROIV": "Roivant Sciences",
   "TW": "Tradeweb Markets",
   "UMAC": "Unusual Machines",
-  "GE": "General Electric",
   "MARA": "Marathon Digital",
   "AER": "AerCap Holdings",
   "AFRM": "Affirm Holdings",
@@ -8506,6 +8503,7 @@
   "MSTR": "MicroStrategy",
   "PINS": "Pinterest Inc",
   "ATO": "Atmos Energy",
+  "CYTK": "Cytokinetics",
   "HRL": "Hormel Foods",
   "IREN": "IREN Limited",
   "KGC": "Kinross Gold",
@@ -8522,7 +8520,6 @@
   "LCID": "Lucid Group",
   "S": "SentinelOne",
   "ULTA": "Ulta Beauty",
-  "XOM": "Exxon Mobil",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
