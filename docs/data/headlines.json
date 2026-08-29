@@ -1,8 +1,24 @@
 {
- "generated": "2026-08-29T11:42:03.839888+00:00",
+ "generated": "2026-08-29T11:47:03.707155+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5b019d896542",
+   "title": "This is a test from PRN Test - 7:43",
+   "link": "https://www.prnewswire.com/news-releases/this-is-a-test-from-prn-test---743-302863291.html",
+   "summary": "This is a test subheadline. This is a test from PRN Test CLEVELAND, Aug. 29, 2026 /PRNewswire/ -- THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG'S TAIL This is a test from PRN Test The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-29T11:43:00+00:00",
+   "tickers": [
+    "FOX",
+    "DOG"
+   ]
+  },
   {
    "id": "a31d69a518c5",
    "title": "Corporate earnings have been growing at a blistering pace. Here’s why that’s not likely to last.",
@@ -298,7 +314,7 @@
    "title": "Syrien verzeichnet erste internationale Kartentransaktion seit mehr als 15 Jahren mit Mastercard und der QNB Group",
    "link": "https://www.prnewswire.com/news-releases/syrien-verzeichnet-erste-internationale-kartentransaktion-seit-mehr-als-15-jahren-mit-mastercard-und-der-qnb-group-302863284.html",
    "summary": "Die Transaktion erfolgt im Anschluss an die Wiederanbindung des nationalen Zahlungsverkehrs-Ökosystems an das globale Netzwerk von Mastercard Die erste Zahlung ebnet den Weg für die internationale Kartenakzeptanz in Syrien DAMASKUS, Syrien, 29. August 2026 /PRNewswire/ -- Mastercard und...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8288,19 +8304,6 @@
    "domain": "prnewswire.com",
    "published": "2026-08-28T17:53:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "b9f8c7ec660a",
-   "title": "Brazil adds 58,568 jobs in July, missing estimates",
-   "link": "https://www.investing.com/news/economy-news/brazil-adds-58568-jobs-in-july-missing-estimates-93CH-4881716",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-28T17:52:48+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8319,6 +8322,7 @@
   "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
   "ZBH": "Zimmer Biomet Holdings",
+  "DOG": "ProShares Short Dow30",
   "LSCC": "Lattice Semiconductor",
   "CRWD": "CrowdStrike Holdings",
   "EIX": "Edison International",
@@ -8413,6 +8417,7 @@
   "GOOG": "Alphabet",
   "WULF": "TeraWulf",
   "BNTX": "BioNTech",
+  "FOX": "Fox Corp",
   "BLSH": "Bullish",
   "CVX": "Chevron",
   "ESTC": "Elastic",
