@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T20:07:01.923947+00:00",
+ "generated": "2026-08-29T20:12:00.171857+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,7 +13,20 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-08-29T19:59:27+00:00",
+   "published": "2026-08-29T20:07:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4f4735ae119f",
+   "title": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns",
+   "link": "https://www.nytimes.com/2026/08/28/business/fed-kevin-warsh-speech-inflation.html",
+   "summary": "In a high-profile speech, Kevin M. Warsh said the Federal Reserve was chiefly responsible for taming inflation. If price increases do not return to the central bank’s target quickly, “we have work to do,” he said.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-08-29T20:07:02+00:00",
    "tickers": []
   },
   {
@@ -45,6 +58,19 @@
    "tickers": []
   },
   {
+   "id": "3c3bb2c3ca46",
+   "title": "A Harvard Economist Says the Debt Reckoning Is Coming and Names Who Pays for It",
+   "link": "https://finance.yahoo.com/economy/policy/articles/harvard-economist-says-debt-reckoning-194554983.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T19:45:54+00:00",
+   "tickers": []
+  },
+  {
    "id": "0b49a60a13cb",
    "title": "Nepal resumes flood rescue, seeks technical help and billions of dollars",
    "link": "https://www.cnbc.com/2026/08/29/nepal-seeks-technical-help-and-billions-of-dollars-for-flood-recovery.html",
@@ -56,6 +82,21 @@
    "domain": "cnbc.com",
    "published": "2026-08-29T19:44:30+00:00",
    "tickers": []
+  },
+  {
+   "id": "51d37dffeeb3",
+   "title": "Netflix's Profit Is at a Record and Its Stock Sits 35% Below Its High. Time to Buy the Stock?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/netflixs-profit-record-stock-sits-194201908.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T19:42:01+00:00",
+   "tickers": [
+    "NFLX"
+   ]
   },
   {
    "id": "66d4ad647b4d",
@@ -1478,7 +1519,7 @@
    "title": "In HelloNation, Tax Expert Sal Julian Details Which Itemized Deductions High-Income Individuals Lose Without Knowing It",
    "link": "https://www.prnewswire.com/news-releases/in-hellonation-tax-expert-sal-julian-details-which-itemized-deductions-high-income-individuals-lose-without-knowing-it-302792392.html",
    "summary": "Many High-Income Filers Miss Deductions Not Because They Are Unaware They Exist, but Because of Timing, Limits, and Poor Coordination. ENDICOTT, N.Y., Aug. 29, 2026 /PRNewswire/ -- What are the most common reasons high-income individuals leave deductions on the table each year, and what...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8174,45 +8215,6 @@
    "domain": "investing.com",
    "published": "2026-08-28T20:48:31+00:00",
    "tickers": []
-  },
-  {
-   "id": "efcea477a327",
-   "title": "Juul Labs gets FDA nod for Juul2 device on switching data",
-   "link": "https://www.investing.com/news/stock-market-news/juul-labs-gets-fda-nod-for-juul2-device-on-switching-data-93CH-4881825",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-28T20:47:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6db1f05063d6",
-   "title": "Analog devices director Karen Golz sells $374,500 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/analog-devices-director-karen-golz-sells-374500-in-shares-93CH-4881823",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-28T20:45:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9cc540ee8d53",
-   "title": "Tree Island Steel Announces the Retirement of Nancy Davies and Appointment of a New Chief Operating Officer",
-   "link": "https://www.globenewswire.com/news-release/2026/08/28/3352895/0/en/tree-island-steel-announces-the-retirement-of-nancy-davies-and-appointment-of-a-new-chief-operating-officer.html",
-   "summary": "VANCOUVER, British Columbia, Aug. 28, 2026 (GLOBE NEWSWIRE) -- Tree Island Steel (''Tree Island'' or the ''Company'') (TSX: TSL) announces the upcoming retirement of Chief Operating Officer, Nancy Davies, effective October 1, 2026. Following a planned succession process, the Company is pleased to announce the appointment of Brian Liu as Chief Operating Officer, effective the same day.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-28T20:45:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8341,6 +8343,7 @@
   "SCI": "Service",
   "WIX": "Wix.com",
   "WMT": "Walmart",
+  "NFLX": "Netflix",
   "ABBV": "AbbVie",
   "ABNB": "Airbnb",
   "M": "Macy's",
