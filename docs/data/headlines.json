@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-29T21:47:01.069336+00:00",
+ "generated": "2026-08-29T21:52:25.342968+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5ce03fcd1c6e",
+   "title": "Warsh, After Talking Tough on Inflation, Faces a ‘No-Win Situation’ on Rates",
+   "link": "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html",
+   "summary": "Kevin M. Warsh, the chairman of the Federal Reserve, must soon decide whether to raise interest rates if inflation does not ease, even if it draws President Trump’s ire.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "nytimes.com",
+   "published": "2026-08-29T21:47:19+00:00",
+   "tickers": []
+  },
   {
    "id": "1ac3c613d30e",
    "title": "UWMC Investors Have Opportunity to Lead UWM Holdings Corporation Securities Fraud Lawsuit",
@@ -30,6 +43,24 @@
    "domain": "investing.com",
    "published": "2026-08-29T21:20:03+00:00",
    "tickers": []
+  },
+  {
+   "id": "052dfc5bf217",
+   "title": "Better International ETF: the iShares IEFA vs. State Street's SPDW",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-international-etf-ishares-iefa-212001961.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T21:20:01+00:00",
+   "tickers": [
+    "STT",
+    "IAGG",
+    "IEFA",
+    "SPDW"
+   ]
   },
   {
    "id": "e6ec956506b4",
@@ -150,19 +181,6 @@
    "sentiment": "negative",
    "domain": "prnewswire.com",
    "published": "2026-08-29T20:40:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5ce03fcd1c6e",
-   "title": "Warsh, After Talking Tough on Inflation, Faces a ‘No-Win Situation’ on Rates",
-   "link": "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html",
-   "summary": "Kevin M. Warsh, the chairman of the Federal Reserve, must soon decide whether to raise interest rates if inflation does not ease, even if it draws President Trump’s ire.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "nytimes.com",
-   "published": "2026-08-29T20:39:23+00:00",
    "tickers": []
   },
   {
@@ -1942,6 +1960,19 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-08-29T15:30:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a55ee2e5a9a2",
+   "title": "Nvidia Is Getting Bigger Without Getting Expensive",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-getting-bigger-without-getting-153002917.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T15:30:02+00:00",
    "tickers": []
   },
   {
@@ -8169,39 +8200,15 @@
    "tickers": [
     "JNJ"
    ]
-  },
-  {
-   "id": "c63f1acbbf6c",
-   "title": "Legend Power Systems Inc. (LPS:CA) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4941381-legend-power-systems-inc-lps-ca-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-28T21:09:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "71a41f1d7f7e",
-   "title": "Sterling Metals issues shares & warrants",
-   "link": "https://seekingalpha.com/news/4638027-sterling-metals-issues-shares-warrants?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-28T21:08:25+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "USHY": "iShares Broad USD High Yield Corporate Bond ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
+  "IAGG": "iShares International Aggregate Bond Fund",
   "JEPQ": "JPMorgan Nasdaq Equity Premium Income ETF",
+  "SPDW": "SPDR Portfolio Developed World ex-US ETF",
   "SPYM": "State Street SPDR Portfolio S&P 500 ETF",
   "VCSH": "Vanguard Short-Term Corporate Bond ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
@@ -8212,6 +8219,7 @@
   "FIGR": "Figure Technology Solutions",
   "PFSI": "PennyMac Financial Services",
   "VOOG": "Vanguard S&P 500 Growth ETF",
+  "IEFA": "iShares Core MSCI EAFE ETF",
   "LTH": "Life Time Group Holdings",
   "PTGX": "Protagonist Therapeutics",
   "GS": "The Goldman Sachs Group",
@@ -8279,6 +8287,7 @@
   "IREN": "IREN Limited",
   "MELI": "MercadoLibre",
   "SPY": "SPDR S&P 500",
+  "STT": "State Street",
   "TM": "Toyota Motor",
   "TTAN": "ServiceTitan",
   "UWMC": "UWM Holdings",
