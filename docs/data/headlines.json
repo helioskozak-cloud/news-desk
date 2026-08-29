@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-29T20:32:07.406107+00:00",
+ "generated": "2026-08-29T20:37:17.593728+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "3bf0bbb9775a",
+   "title": "Newly Released SB 492 Confirms Major Victory for Wildfire Survivors and California Families, Says Consumer Watchdog",
+   "link": "https://www.prnewswire.com/news-releases/newly-released-sb-492-confirms-major-victory-for-wildfire-survivors-and-california-families-says-consumer-watchdog-302864335.html",
+   "summary": "Legislature Stands Up to Powerful Interests, Protects Survivors' Rights and Rejects Utility Bailout SACRAMENTO, Calif., Aug. 29, 2026 /PRNewswire/ -- At 7:26 this morning, the California Legislature published the newly amended text of SB 492, confirming a major victory for wildfire...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-29T20:30:00+00:00",
+   "tickers": []
+  },
   {
    "id": "abf682723b96",
    "title": "Op-ed: Dolly Parton was underestimated for decades. That became one of her greatest strengths",
@@ -28,6 +41,38 @@
    "domain": "cnbc.com",
    "published": "2026-08-29T20:22:12+00:00",
    "tickers": []
+  },
+  {
+   "id": "4aa335062b01",
+   "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead",
+   "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-stanley-druckenmiller-sold-broadcom-202000494.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T20:20:00+00:00",
+   "tickers": [
+    "AVGO"
+   ]
+  },
+  {
+   "id": "042d43f52882",
+   "title": "Better Growth Stock ETF: Vanguard's Large-Cap VUG vs. Invesco's Small-Cap RZG",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-growth-stock-etf-vanguards-201417595.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T20:14:17+00:00",
+   "tickers": [
+    "VYMI",
+    "IVZ",
+    "VUG"
+   ]
   },
   {
    "id": "eb9ebaaccace",
@@ -1690,7 +1735,7 @@
    "title": "In HelloNation, Tax Expert Sal Julian Details Which Itemized Deductions High-Income Individuals Lose Without Knowing It",
    "link": "https://www.prnewswire.com/news-releases/in-hellonation-tax-expert-sal-julian-details-which-itemized-deductions-high-income-individuals-lose-without-knowing-it-302792392.html",
    "summary": "Many High-Income Filers Miss Deductions Not Because They Are Unaware They Exist, but Because of Timing, Limits, and Poor Coordination. ENDICOTT, N.Y., Aug. 29, 2026 /PRNewswire/ -- What are the most common reasons high-income individuals leave deductions on the table each year, and what...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8166,52 +8211,6 @@
     "NOVT",
     "NWSA"
    ]
-  },
-  {
-   "id": "c6c07aa96338",
-   "title": "NIKE, Inc. Announces First Quarter Fiscal 2027 Earnings and Conference Call | NKE Stock News",
-   "link": "https://www.stocktitan.net/news/NKE/nike-inc-announces-first-quarter-fiscal-2027-earnings-and-conference-ang765a7ttl9.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-28T21:00:00+00:00",
-   "tickers": [
-    "NKE",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "284506374690",
-   "title": "Meta Buys Away Its Distraction At Minimal Cost",
-   "link": "https://seekingalpha.com/article/4941350-meta-buys-away-distraction-minimal-cost?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-28T21:00:00+00:00",
-   "tickers": [
-    "META"
-   ]
-  },
-  {
-   "id": "96b3d307c806",
-   "title": "Western Gold Provides Exploration and Corporate Update | WGELF Stock News",
-   "link": "https://www.stocktitan.net/news/WGELF/western-gold-provides-exploration-and-corporate-wc0jfnudrnpj.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-08-28T21:00:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8333,6 +8332,7 @@
   "BLSH": "Bullish",
   "CVX": "Chevron",
   "GDDY": "GoDaddy",
+  "IVZ": "Invesco",
   "MRK": "Merck &",
   "MRNA": "Moderna",
   "NOVT": "Novanta",
@@ -8352,7 +8352,6 @@
   "DAVE": "Dave",
   "EBAY": "eBay",
   "IONQ": "IonQ",
-  "NKE": "NIKE",
   "NVMI": "Nova"
  }
 }
