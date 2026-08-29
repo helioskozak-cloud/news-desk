@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T20:56:54.446123+00:00",
+ "generated": "2026-08-29T21:02:09.431902+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -30,6 +30,21 @@
    "domain": "prnewswire.com",
    "published": "2026-08-29T20:43:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "a7c7f6951150",
+   "title": "She Retired at 64 With $380,000 in a 401(k) and No Income for Nine Years. She Never Converted a Dollar. Her First RMD Was Taxed at 22%.",
+   "link": "https://finance.yahoo.com/markets/options/articles/she-retired-64-380-000-204143745.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T20:41:43+00:00",
+   "tickers": [
+    "RMD"
+   ]
   },
   {
    "id": "6cb3bb0cb860",
@@ -69,6 +84,21 @@
    "domain": "nytimes.com",
    "published": "2026-08-29T20:39:23+00:00",
    "tickers": []
+  },
+  {
+   "id": "dc78ee0873f8",
+   "title": "Why I Think the Best Dividend Stock Isn't a Tech Name: It's Realty Income",
+   "link": "https://finance.yahoo.com/real-estate/articles/why-think-best-dividend-stock-203500371.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T20:35:00+00:00",
+   "tickers": [
+    "O"
+   ]
   },
   {
    "id": "56ef12b38543",
@@ -8170,34 +8200,6 @@
     "AEM",
     "EXP"
    ]
-  },
-  {
-   "id": "1e2a93af1755",
-   "title": "Matador Technologies Receives TSX Venture Exchange Conditional Approval for Proposed Creation of a New Class of Preferred Shares",
-   "link": "https://www.globenewswire.com/news-release/2026/08/28/3352896/0/en/matador-technologies-receives-tsx-venture-exchange-conditional-approval-for-proposed-creation-of-a-new-class-of-preferred-shares.html",
-   "summary": "The Exchange acknowledged receipt of the Company’s submission dated August 19, 2026 and issued its conditional acceptance on August 25, 2026.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-28T21:00:00+00:00",
-   "tickers": [
-    "MTDR"
-   ]
-  },
-  {
-   "id": "a662c196d054",
-   "title": "Northern Discovery Metals Engages Market Maker",
-   "link": "https://www.globenewswire.com/news-release/2026/08/28/3352897/0/en/northern-discovery-metals-engages-market-maker.html",
-   "summary": "CALGARY, Alberta, Aug. 28, 2026 (GLOBE NEWSWIRE) -- Northern Discovery Metals Inc. (CSE: NOR) (FSE: M1V0) (“Northern Discovery” or the “Company”) announces that it has appointed Independent Trading Group, Inc. (Address: 420, 33 Yonge Street, Toronto, ON, Canada, M5E 1G4; Website: www.itg84.com; Contact: Chris Kaplan; Email: chriskaplan@itg84.com) (“ITG”) as a market maker for its common shares traded on the Canadian Securities Exchange (the “CSE”).",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-28T21:00:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8244,7 +8246,6 @@
   "GIL": "Gildan Activewear",
   "HDB": "HDFC Bank Limited",
   "JNJ": "Johnson & Johnson",
-  "MTDR": "Matador Resources",
   "MU": "Micron Technology",
   "POWL": "Powell Industries",
   "PRIM": "Primoris Services",
@@ -8275,6 +8276,7 @@
   "GWW": "W.W. Grainger",
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
+  "O": "Realty Income",
   "UNP": "Union Pacific",
   "WFC": "Wells Fargo &",
   "WRB": "W. R. Berkley",
@@ -8333,6 +8335,7 @@
   "MTZ": "MasTec",
   "NDAQ": "Nasdaq",
   "NTRA": "Natera",
+  "RMD": "ResMed",
   "STE": "STERIS",
   "AMGN": "Amgen",
   "DAVE": "Dave",
