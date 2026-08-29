@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T21:52:25.342968+00:00",
+ "generated": "2026-08-29T21:57:00.091839+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,21 @@
    "domain": "nytimes.com",
    "published": "2026-08-29T21:47:19+00:00",
    "tickers": []
+  },
+  {
+   "id": "9278d503eddc",
+   "title": "Where You Hold SCHD and MAIN Matters More Than You Think: The Taxable vs. IRA Math",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/where-hold-schd-main-matters-213856842.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T21:38:56+00:00",
+   "tickers": [
+    "SCHD"
+   ]
   },
   {
    "id": "1ac3c613d30e",
@@ -8185,21 +8200,6 @@
    "domain": "investing.com",
    "published": "2026-08-28T21:11:12+00:00",
    "tickers": []
-  },
-  {
-   "id": "11d48335a131",
-   "title": "J&J's Stelara granted approval for pediatric ulcerative colitis",
-   "link": "https://seekingalpha.com/news/4638024-johnson-and-johnson-stelara-granted-approval-pediatric-ulcerative-colitis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-28T21:11:07+00:00",
-   "tickers": [
-    "JNJ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8216,6 +8216,7 @@
   "MUU": "Direxion Daily MU Bull 2X Shares",
   "SBIT": "ProShares UltraShort Bitcoin ETF",
   "IBM": "International Business Machines",
+  "SCHD": "Schwab US Dividend Equity ETF",
   "FIGR": "Figure Technology Solutions",
   "PFSI": "PennyMac Financial Services",
   "VOOG": "Vanguard S&P 500 Growth ETF",
