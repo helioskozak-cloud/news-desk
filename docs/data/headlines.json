@@ -1,8 +1,24 @@
 {
- "generated": "2026-08-29T13:27:20.082410+00:00",
+ "generated": "2026-08-29T13:32:18.942002+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1a045f39e10c",
+   "title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
+   "link": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+   "summary": "Salesforce, CrowdStrike, and Nvidia all faced major tests with investors and crushed expectations.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-29T13:25:55+00:00",
+   "tickers": [
+    "CRWD",
+    "CRM"
+   ]
+  },
   {
    "id": "77ec5a19a456",
    "title": "MUU: Up 2,510%, But Micron's Next Move Could Change The Math",
@@ -280,6 +296,19 @@
    "type": "stocks",
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
+   "published": "2026-08-29T13:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "529f84f98101",
+   "title": "First Phosphate eyes feasibility study after resource update and NASDAQ uplisting - ICYMI",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/first-phosphate-eyes-feasibility-study-130000248.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
    "published": "2026-08-29T13:00:00+00:00",
    "tickers": []
   },
@@ -8248,35 +8277,6 @@
    "domain": "investing.com",
    "published": "2026-08-28T18:54:33+00:00",
    "tickers": []
-  },
-  {
-   "id": "9ed794e05c02",
-   "title": "Ancient Warrior Analysis Finds UK Searches for Iconic Fictional Weapons Jump Around Major Entertainment Events",
-   "link": "https://www.prnewswire.com/news-releases/ancient-warrior-analysis-finds-uk-searches-for-iconic-fictional-weapons-jump-around-major-entertainment-events-302863083.html",
-   "summary": "UK search demand for \"master sword,\" \"lightsaber,\" and \"witcher sword\" rose between 170% and 337% around major gaming, television, and fandom events. SCARBOROUGH, England, Aug. 28, 2026 /PRNewswire/ -- Searches for recognisable fictional weapons rose sharply around three major...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-08-28T18:54:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "336c9d744161",
-   "title": "J&J granted China nod for oral psoriasis pill developed with Protagonist",
-   "link": "https://seekingalpha.com/news/4637981-jj-wins-china-nod-oral-psoriasis-pill?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-28T18:53:53+00:00",
-   "tickers": [
-    "PTGX",
-    "JNJ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8372,6 +8372,7 @@
   "S": "SentinelOne",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
+  "CRM": "Salesforce",
   "DKNG": "DraftKings",
   "MA": "Mastercard",
   "RGLD": "Royal Gold",
