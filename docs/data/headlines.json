@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T19:26:58.627778+00:00",
+ "generated": "2026-08-29T19:32:16.621732+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -79,6 +79,34 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-08-29T19:09:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a3cb27e33bb0",
+   "title": "If You'd Invested $1,000 in McDonald's 25 Years Ago, Here's How Much You'd Have Today",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-mcdonalds-190900852.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T19:09:00+00:00",
+   "tickers": [
+    "MCD"
+   ]
+  },
+  {
+   "id": "57e37aee346a",
+   "title": "Ameresco CEO Sakellaris Buys 5,000 Shares for $113,300. Is This a Sign Renewable Energy Projects are Taking Off?",
+   "link": "https://finance.yahoo.com/energy/articles/ameresco-ceo-sakellaris-buys-5-190701101.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T19:07:01+00:00",
    "tickers": []
   },
   {
@@ -8185,34 +8213,6 @@
    "domain": "investing.com",
    "published": "2026-08-28T20:37:48+00:00",
    "tickers": []
-  },
-  {
-   "id": "6d31e7d6f1c9",
-   "title": "Norwood Financial board approves repurchase of up to 550K shares",
-   "link": "https://seekingalpha.com/news/4638015-norwood-financial-board-approves-repurchase-of-up-to-550k-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-28T20:37:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6668442f0a2c",
-   "title": "Gulf Resources receives Nasdaq non-compliance notice",
-   "link": "https://www.investing.com/news/company-news/gulf-resources-receives-nasdaq-noncompliance-notice-93CH-4881820",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-28T20:36:33+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8314,6 +8314,7 @@
   "BA": "The Boeing",
   "CRM": "Salesforce",
   "MA": "Mastercard",
+  "MCD": "McDonald's",
   "RGLD": "Royal Gold",
   "RKLB": "Rocket Lab",
   "MSFT": "Office 365",
