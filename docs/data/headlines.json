@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-30T10:37:14.177430+00:00",
+ "generated": "2026-08-30T10:42:18.506420+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2f0092554bf5",
+   "title": "Iceland rejects EU-accession talks in close-fought referendum",
+   "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-30T10:30:29+00:00",
+   "tickers": []
+  },
   {
    "id": "d1efef4ce896",
    "title": "Synopsys Crushed Earnings, But I'm Downgrading The Stock (Rating Downgrade)",
@@ -311,19 +324,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-08-30T08:56:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2f0092554bf5",
-   "title": "Icelanders reject EU-accession talks, broadcaster RUV reports",
-   "link": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-30T08:48:24+00:00",
    "tickers": []
   },
   {
@@ -6813,6 +6813,22 @@
    ]
   },
   {
+   "id": "ffbecebe2ebf",
+   "title": "Intel Sold Its NAND Memory Business for About $9 Billion. Micron Is Now Worth More Than Twice What Intel Is.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/intel-sold-nand-memory-business-090701280.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T09:07:01+00:00",
+   "tickers": [
+    "MU",
+    "INTC"
+   ]
+  },
+  {
    "id": "1903ca0c4ce2",
    "title": "As Deadly Flash Flooding Batters Nepal, Some Fear ‘the Entire Himalayas Are Melting’",
    "link": "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html",
@@ -8180,21 +8196,6 @@
    "tickers": [
     "DLTR"
    ]
-  },
-  {
-   "id": "2871e4cfe61e",
-   "title": "Dollar General (DG) Increased Traffic 2% and Expanded Gross Margin. How Much Improvement Was Temporary?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-dg-increased-traffic-034015402.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-29T03:40:15+00:00",
-   "tickers": [
-    "DG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8268,7 +8269,6 @@
   "PYPL": "PayPal Holdings",
   "RRC": "Range Resources",
   "CCK": "Crown Holdings",
-  "DG": "Dollar General",
   "GM": "General Motors",
   "HD": "The Home Depot",
   "META": "Meta Platforms",
@@ -8341,6 +8341,7 @@
   "SAP": "SAP SE",
   "AGX": "Argan",
   "AMGN": "Amgen",
+  "INTC": "Intel",
   "BALL": "Ball",
   "DAVE": "Dave",
   "EBAY": "eBay",
