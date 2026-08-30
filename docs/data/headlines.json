@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T10:21:57.182059+00:00",
+ "generated": "2026-08-30T10:27:07.320420+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -81,6 +81,32 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-08-30T10:00:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c07086c5a3a7",
+   "title": "‘New York loves Canada’: US cities want their Canadian tourists back",
+   "link": "https://www.ft.com/content/25f48fea-ada2-41e1-ba33-07a864a8674a",
+   "summary": "American tourism businesses try to overcome cross-border travel boycott over Trump administration’s hostility to its northern neighbour",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-08-30T10:00:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "654e333fe40d",
+   "title": "Pharma stocks soar as investors seek AI alternatives",
+   "link": "https://www.ft.com/content/2c65a745-8169-4192-971a-022bdfc0e7ad?syn-25a6b1a6=1",
+   "summary": "Pricing deals with the White House and positive clinical data boost sector",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-08-30T10:00:01+00:00",
    "tickers": []
   },
   {
@@ -1016,7 +1042,7 @@
    "title": "JOINT STATEMENT OF OCEAN AND LUKE DASHJR",
    "link": "https://www.prnewswire.com/news-releases/joint-statement-of-ocean-and-luke-dashjr-302864347.html",
    "summary": "CHEYENNE, Wyo., Aug. 29, 2026 /PRNewswire/ -- OCEAN (Mummolin, Inc.) and Luke Dashjr announce today that, by mutual agreement, Luke Dashjr has separated from OCEAN, resigning as Chairman, Chief Technology Officer, and director, and that the Company has repurchased all of his equity. The...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -6826,6 +6852,19 @@
    ]
   },
   {
+   "id": "b39eb5159673",
+   "title": "Why the Fed is often slow, late … and wrong in reading inflation",
+   "link": "https://finance.yahoo.com/economy/policy/articles/why-fed-often-slow-wrong-090000772.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T09:00:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "3dbd12eccd9b",
    "title": "This creator got 'micro-canceled' for promoting Claude. She says AI use is becoming a social taboo.",
    "link": "https://www.businessinsider.com/emma-orhun-canceled-claude-promotion-2026-8",
@@ -6837,6 +6876,21 @@
    "domain": "businessinsider.com",
    "published": "2026-08-29T08:38:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "30172000697d",
+   "title": "Coca-Cola's Dividend Yield Has Fallen to 2.4% From 2.9% at the Start of 2026. Is the Stock Still a Buy?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/coca-colas-dividend-yield-fallen-083401228.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T08:34:01+00:00",
+   "tickers": [
+    "KO"
+   ]
   },
   {
    "id": "ebfd167fb04b",
@@ -8141,64 +8195,6 @@
    "tickers": [
     "NVDA"
    ]
-  },
-  {
-   "id": "013989376378",
-   "title": "Anthropic sends clear message to Wall Street ahead of IPO",
-   "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-sends-clear-message-wall-033300539.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-29T03:33:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "98ca066caeab",
-   "title": "McKesson Corporation (MCK) Doubles Down on Healthcare Growth With Precision Medicine Acquisition",
-   "link": "https://finance.yahoo.com/healthcare/articles/mckesson-corporation-mck-doubles-down-033245388.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-29T03:32:45+00:00",
-   "tickers": [
-    "MCK"
-   ]
-  },
-  {
-   "id": "55dc668429dc",
-   "title": "C3.ai vs. UiPath: Which Artificial Intelligence Stock Is a Better Investment in 2026?",
-   "link": "https://finance.yahoo.com/technology/ai/articles/c3-ai-vs-uipath-artificial-033218830.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-29T03:32:18+00:00",
-   "tickers": [
-    "PATH"
-   ]
-  },
-  {
-   "id": "46dad3eea3c0",
-   "title": "Here’s What Jim Cramer Thinks Is In Store For PayPal Holdings, Inc. (NASDAQ:PYPL) & Klarna",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-store-paypal-033203055.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-29T03:32:03+00:00",
-   "tickers": [
-    "PYPL"
-   ]
   }
  ],
  "ticker_names": {
@@ -8320,7 +8316,6 @@
   "AVGO": "Broadcom",
   "BCS": "Barclays",
   "GOOG": "Alphabet",
-  "MCK": "McKesson",
   "NNN": "NNN REIT",
   "FOX": "Fox Corp",
   "BLSH": "Bullish",
@@ -8341,7 +8336,6 @@
   "M": "Macy's",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
-  "PATH": "UiPath",
   "RMD": "ResMed",
   "SAP": "SAP SE",
   "AGX": "Argan",
