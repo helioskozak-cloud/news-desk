@@ -1,8 +1,23 @@
 {
- "generated": "2026-08-30T22:52:20.882709+00:00",
+ "generated": "2026-08-30T22:57:18.007884+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e86183a2a3b7",
+   "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
+   "link": "https://www.nytimes.com/2026/08/29/business/reporters-denied-g20-meeting.html",
+   "summary": "Specific reporters from The New York Times, The Wall Street Journal and Bloomberg were not granted credentials to cover the meeting of financial leaders next week in Asheville, N.C.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-08-30T22:54:03+00:00",
+   "tickers": [
+    "NYT"
+   ]
+  },
   {
    "id": "084dd6949373",
    "title": "U.S. stock futures flat as chances of rate hike rise after Warsh’s Jackson Hole comments",
@@ -41,6 +56,21 @@
    "domain": "cnbc.com",
    "published": "2026-08-30T22:37:31+00:00",
    "tickers": []
+  },
+  {
+   "id": "7520c9095842",
+   "title": "Why Archer Aviation's Management of Hawthorne Airport Matters Just as Much as Developing Its Own Aircraft",
+   "link": "https://finance.yahoo.com/technology/articles/why-archer-aviations-management-hawthorne-223500282.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-30T22:35:00+00:00",
+   "tickers": [
+    "ACHR"
+   ]
   },
   {
    "id": "2eafa39eeeba",
@@ -2033,21 +2063,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-30T16:21:45+00:00",
    "tickers": []
-  },
-  {
-   "id": "e86183a2a3b7",
-   "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
-   "link": "https://www.nytimes.com/2026/08/29/business/reporters-denied-g20-meeting.html",
-   "summary": "Specific reporters from The New York Times, The Wall Street Journal and Bloomberg were not granted credentials to cover the meeting of financial leaders next week in Asheville, N.C.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-08-30T16:21:11+00:00",
-   "tickers": [
-    "NYT"
-   ]
   },
   {
    "id": "a566af7b6f08",
@@ -8203,21 +8218,6 @@
     "PANW",
     "AVGO"
    ]
-  },
-  {
-   "id": "41e24bc7446e",
-   "title": "Revolution Medicines: RASONQUE's FDA Approval Portends A New Oncology Titan",
-   "link": "https://seekingalpha.com/article/4941477-revolution-medicines-rasonque-fda-approval-portends-a-new-oncology-titan?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-29T15:00:00+00:00",
-   "tickers": [
-    "RVMD"
-   ]
   }
  ],
  "ticker_names": {
@@ -8253,7 +8253,6 @@
   "OEF": "iShares S&P 100 Fund",
   "OXY": "Occidental Petroleum",
   "PG": "The Procter & Gamble",
-  "RVMD": "Revolution Medicines",
   "VOO": "Vanguard S&P 500 ETF",
   "AXSM": "Axsome Therapeutics",
   "VUG": "Vanguard Growth ETF",
@@ -8277,6 +8276,7 @@
   "ENSG": "The Ensign Group",
   "GTLS": "Chart Industries",
   "GE": "General Electric",
+  "ACHR": "Archer Aviation",
   "AFRM": "Affirm Holdings",
   "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
