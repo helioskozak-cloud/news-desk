@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T21:37:17.919194+00:00",
+ "generated": "2026-08-30T21:42:22.409428+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -28,6 +28,47 @@
    "domain": "cnbc.com",
    "published": "2026-08-30T21:32:59+00:00",
    "tickers": []
+  },
+  {
+   "id": "520b9179d352",
+   "title": "Meet the Dividend Stock That Warren Buffett Backed for Decades. Here's Why Greg Abel Is Still Holding.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/meet-dividend-stock-warren-buffett-212500098.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-30T21:25:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8bc2a3bc035d",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4882073",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-08-30T21:20:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0b7f35883daf",
+   "title": "A Rocket Lab President Sells Over 15,000 Shares After a 54% One-Year Return",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-president-sells-over-212001919.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-30T21:20:01+00:00",
+   "tickers": [
+    "RKLB"
+   ]
   },
   {
    "id": "1495c0dbbf3a",
@@ -8191,47 +8232,6 @@
    "tickers": [
     "FIGR"
    ]
-  },
-  {
-   "id": "23adc71dfafa",
-   "title": "Trump says US to take control of 65bn barrels of Venezuelan oil",
-   "link": "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1",
-   "summary": "The president says the countries’ joint venture will lower petrol prices for Americans",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-08-29T14:20:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7d218a6646a3",
-   "title": "PayPal's Easy Money Is Gone",
-   "link": "https://seekingalpha.com/article/4941487-paypal-easy-money-is-gone?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-29T14:15:00+00:00",
-   "tickers": [
-    "PYPL"
-   ]
-  },
-  {
-   "id": "3c4be9bd5dcc",
-   "title": "Fed Chairman Warsh shows courage with Jackson Hole speech, defying political pressure, says Harvard's Rogoff",
-   "link": "https://finance.yahoo.com/economy/article/fed-chairman-warsh-shows-courage-with-jackson-hole-speech-defying-political-pressure-says-harvards-rogoff-140951926.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-29T14:09:51+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8336,6 +8336,7 @@
   "GEV": "GE Vernova",
   "MA": "Mastercard",
   "MCD": "McDonald's",
+  "RKLB": "Rocket Lab",
   "MSFT": "Office 365",
   "DE": "John Deere",
   "BC": "Brunswick",
