@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-30T06:52:14.182600+00:00",
+ "generated": "2026-08-30T06:56:49.316426+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "18123b3121ca",
+   "title": "Trending stocks this week as big tech reports quarterly numbers",
+   "link": "https://seekingalpha.com/news/4638048-trending-stocks-this-week-as-big-tech-reports-quarterly-numbers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-30T06:51:54+00:00",
+   "tickers": []
+  },
   {
    "id": "a69d430f2ad2",
    "title": "CEO of India’s largest private bank to step down",
@@ -7472,6 +7485,47 @@
    ]
   },
   {
+   "id": "13e68b3082de",
+   "title": "Tom Lee Sees Ethereum at $6K if Bitcoin Reaches $150K",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-sees-ethereum-6k-021000271.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T02:10:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d1e91e1c0184",
+   "title": "Permian Resources (PR) Just Hit a Record High. But Raymond James Says the Rally Isn’t Over",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-just-hit-020928108.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T02:09:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6d61aa55d87c",
+   "title": "Chevron (CVX) Nears Major Venezuela Oil Deal: Is a New Growth Engine Emerging?",
+   "link": "https://finance.yahoo.com/energy/articles/chevron-cvx-nears-major-venezuela-020912972.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T02:09:12+00:00",
+   "tickers": [
+    "CVX"
+   ]
+  },
+  {
    "id": "2bee9a01786f",
    "title": "Zacatecas Silver Closes the Second Tranche of Non-Brokered Private Placement",
    "link": "https://www.globenewswire.com/news-release/2026/08/29/3352916/0/en/zacatecas-silver-closes-the-second-tranche-of-non-brokered-private-placement.html",
@@ -8156,62 +8210,6 @@
    "domain": "prnewswire.com",
    "published": "2026-08-29T01:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "96859241d776",
-   "title": "Gap Inc. (GAP) Soars 12.9% on Q2 Profits, New Old Navy CEO; More Hedge Funds Buy In",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/gap-inc-gap-soars-12-005356416.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-29T00:53:56+00:00",
-   "tickers": [
-    "GAP"
-   ]
-  },
-  {
-   "id": "3bb91c37a635",
-   "title": "White House teleprompter operator settles prediction market trading probe",
-   "link": "https://www.investing.com/news/economy-news/white-house-teleprompter-operator-settles-prediction-market-trading-probe-4881903",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-08-29T00:49:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d14bd3bb2b1e",
-   "title": "Pint-Size Cars, With Enviable Smiles Per Gallon",
-   "link": "https://www.nytimes.com/2026/08/27/business/tiny-cars-microcars-isetta-mini.html",
-   "summary": "Microcars are underpowered, noisy and sometimes smoky, and it helps if you’re good with a wrench. But “the struggle is what makes it fun,” one enthusiast said.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-08-29T00:48:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a134f4f6a5bf",
-   "title": "Green LTF Holdings II LP director sells $126.1m in Life Time Group stock",
-   "link": "https://www.investing.com/news/insider-trading-news/green-ltf-holdings-ii-lp-director-sells-1261m-in-life-time-group-stock-93CH-4881902",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-29T00:46:10+00:00",
-   "tickers": [
-    "LTH"
-   ]
   }
  ],
  "ticker_names": {
@@ -8238,7 +8236,6 @@
   "IEFA": "iShares Core MSCI EAFE ETF",
   "JEF": "Jefferies Financial Group",
   "CFG": "Citizens Financial Group",
-  "LTH": "Life Time Group Holdings",
   "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
   "GDX": "VanEck Gold Miners ETF",
@@ -8346,7 +8343,6 @@
   "FOX": "Fox Corp",
   "BLSH": "Bullish",
   "CVX": "Chevron",
-  "GAP": "The Gap",
   "GDDY": "GoDaddy",
   "IVZ": "Invesco",
   "MRK": "Merck &",
