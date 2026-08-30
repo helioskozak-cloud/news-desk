@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T00:02:04.271527+00:00",
+ "generated": "2026-08-30T00:06:58.760448+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -260,6 +260,19 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-08-29T23:00:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3e92c1af5d1a",
+   "title": "Iran War Adds $330 Billion to Global Energy Import Bill",
+   "link": "https://finance.yahoo.com/energy/articles/iran-war-adds-330-billion-230000013.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T23:00:00+00:00",
    "tickers": []
   },
   {
@@ -1653,6 +1666,21 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-29T17:38:51+00:00",
    "tickers": []
+  },
+  {
+   "id": "d26cfd7a0af7",
+   "title": "ExxonMobil Stock: Is XOM Underperforming the Energy Sector?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-stock-xom-underperforming-energy-173804479.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-29T17:38:04+00:00",
+   "tickers": [
+    "XOM"
+   ]
   },
   {
    "id": "dca00805628b",
@@ -8191,32 +8219,6 @@
    "domain": "prnewswire.com",
    "published": "2026-08-28T21:51:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "8ea0395b1c2b",
-   "title": "Guggenheim affiliate buys up debt linked to its asset management arm",
-   "link": "https://www.ft.com/content/809cbbe8-c151-448b-91fb-e74d908f73d1?syn-25a6b1a6=1",
-   "summary": "Loan has been closely watched as a proxy for Mark Walter’s private-held investment firm",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-08-28T21:50:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ff078c9db1fd",
-   "title": "Cohen &amp; Steers Closed-End Opportunity Fund, Inc. (FOF) Notification of Sources of Distribution Under Section 19(a)",
-   "link": "https://www.prnewswire.com/news-releases/cohen--steers-closed-end-opportunity-fund-inc-fof-notification-of-sources-of-distribution-under-section-19a-302863176.html",
-   "summary": "NEW YORK, Aug. 28, 2026 /PRNewswire/ -- This press release provides shareholders of Cohen & Steers Closed-End Opportunity Fund, Inc. (NYSE: FOF) (the \"Fund\") with information regarding the sources of the distribution to be paid on August 31, 2026 and cumulative distributions paid fiscal...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-28T21:47:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8318,6 +8320,7 @@
   "DUK": "Duke Energy",
   "MORN": "Morningstar",
   "ROST": "Ross Stores",
+  "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BA": "The Boeing",
