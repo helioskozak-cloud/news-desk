@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-30T17:42:20.702594+00:00",
+ "generated": "2026-08-30T17:47:20.167535+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "758f0751baa0",
+   "title": "‘Spider-Man’ holds box-office crown as ‘Coyote vs. Acme’ debuts at no. 2",
+   "link": "https://seekingalpha.com/news/4638072-spider-man-holds-box-office-crown-as-coyote-vs-acme-debuts-at-no-2?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-30T17:41:44+00:00",
+   "tickers": []
+  },
   {
    "id": "0cd7276a05ad",
    "title": "European Central Bankers fear U.S. policy shifts could rattle global markets",
@@ -440,6 +453,21 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-30T16:33:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "3b5afe6e9f6a",
+   "title": "How to Earn $500 a Month From SAIC Stock Ahead of Q2 Earnings",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/earn-500-month-saic-stock-163120724.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-30T16:31:20+00:00",
+   "tickers": [
+    "SAIC"
+   ]
   },
   {
    "id": "d0ec8549549b",
@@ -8193,34 +8221,6 @@
    "tickers": [
     "TTAN"
    ]
-  },
-  {
-   "id": "796bc0261878",
-   "title": "Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead",
-   "link": "https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories",
-   "summary": "Dismissed as “not a product guy,” the outgoing CEO proved that supply-chain mastery could take Apple to new heights.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-08-29T12:30:00+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "5d5d51734711",
-   "title": "SpaceX: The Valuation And The Unlock Calendar Keep Me On The Sidelines",
-   "link": "https://seekingalpha.com/article/4941382-spacex-the-valuation-and-the-unlock-calendar-keep-me-on-the-sidelines?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-29T12:30:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8234,6 +8234,7 @@
   "SPYM": "State Street SPDR Portfolio S&P 500 ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "CM": "Canadian Imperial Bank of Commerce",
+  "SAIC": "Science Applications International",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "IHI": "iShares U.S. Medical Devices ETF",
   "MUU": "Direxion Daily MU Bull 2X Shares",
