@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T04:32:04.206628+00:00",
+ "generated": "2026-08-31T04:37:16.539040+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,47 @@
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-08-31T04:31:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a087e402b1c1",
+   "title": "John Hancock Bond Fund Q2 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4941625-john-hancock-bond-fund-q2-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-31T04:31:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9af7fef0d7b8",
+   "title": "AGNC Investment Corp: The Dividend Still Works, But I Would Not Chase The Premium",
+   "link": "https://seekingalpha.com/article/4941624-agnc-reit-dividend-still-works-but-i-would-not-chase-premium?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-31T04:30:59+00:00",
+   "tickers": [
+    "AGNC"
+   ]
+  },
+  {
+   "id": "6f823f1085c6",
+   "title": "Why Some Great Companies Endure While Others Fade",
+   "link": "https://seekingalpha.com/article/4941618-some-great-companies-endure-while-others-fade?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-31T04:30:00+00:00",
    "tickers": []
   },
   {
@@ -8145,51 +8186,6 @@
    "domain": "cnbc.com",
    "published": "2026-08-29T20:22:50+00:00",
    "tickers": []
-  },
-  {
-   "id": "90d16948f9ec",
-   "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
-   "link": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
-   "summary": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated.",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-08-29T20:22:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4aa335062b01",
-   "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead",
-   "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-stanley-druckenmiller-sold-broadcom-202000494.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-29T20:20:00+00:00",
-   "tickers": [
-    "AVGO"
-   ]
-  },
-  {
-   "id": "042d43f52882",
-   "title": "Better Growth Stock ETF: Vanguard's Large-Cap VUG vs. Invesco's Small-Cap RZG",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/better-growth-stock-etf-vanguards-201417595.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-29T20:14:17+00:00",
-   "tickers": [
-    "VYMI",
-    "IVZ",
-    "VUG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8229,7 +8225,6 @@
   "PG": "The Procter & Gamble",
   "RVMD": "Revolution Medicines",
   "VOO": "Vanguard S&P 500 ETF",
-  "VUG": "Vanguard Growth ETF",
   "ZM": "Zoom Communications",
   "BEN": "Franklin Resources",
   "MRVL": "Marvell Technology",
@@ -8250,6 +8245,7 @@
   "GE": "General Electric",
   "ACHR": "Archer Aviation",
   "AFRM": "Affirm Holdings",
+  "AGNC": "AGNC Investment",
   "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
   "RRC": "Range Resources",
@@ -8300,7 +8296,6 @@
   "CVX": "Chevron",
   "ESTC": "Elastic",
   "GAP": "The Gap",
-  "IVZ": "Invesco",
   "MET": "MetLife",
   "MRNA": "Moderna",
   "SCI": "Service",
