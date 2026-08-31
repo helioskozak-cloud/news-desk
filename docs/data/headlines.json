@@ -1,8 +1,21 @@
 {
- "generated": "2026-08-31T09:17:10.046940+00:00",
+ "generated": "2026-08-31T09:22:21.716027+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "00fe5718227b",
+   "title": "TCL CSOT Showcases New Innovations and Insights into the Future of Displays at DIC EXPO 2026",
+   "link": "https://www.prnewswire.com/news-releases/tcl-csot-showcases-new-innovations-and-insights-into-the-future-of-displays-at-dic-expo-2026-302864816.html",
+   "summary": "SHANGHAI, Aug. 31, 2026 /PRNewswire/ -- TCL CSOT began its exhibition at the Display Innovation China Expo 2026 (DIC EXPO 2026) in Shanghai. Under the theme \"Empowering Diverse Applications, Elevating Display Experiences,\" the exhibition presents TCL CSOT's cutting-edge display...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-31T09:16:00+00:00",
+   "tickers": []
+  },
   {
    "id": "0058d18ee20b",
    "title": "Virtune strengthens its presence in Poland by appointing Tomasz Wróbel as Country Manager",
@@ -167,6 +180,21 @@
    "domain": "nytimes.com",
    "published": "2026-08-31T09:04:04+00:00",
    "tickers": []
+  },
+  {
+   "id": "a7db23e72419",
+   "title": "Johnson & Johnson Owns Stakes in 15 Stocks. Here's the Best of the Bunch.",
+   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-owns-stakes-15-090400503.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-08-31T09:04:00+00:00",
+   "tickers": [
+    "JNJ"
+   ]
   },
   {
    "id": "bda41f62c4e3",
@@ -8136,34 +8164,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-08-30T17:30:02+00:00",
    "tickers": []
-  },
-  {
-   "id": "e0c67f63b0d7",
-   "title": "SpaceX Has an Emerging Challenger in Space. Here’s the One Thing Rivals Can’t Copy.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/spacex-emerging-challenger-space-one-172828623.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-30T17:28:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6c29c48445ec",
-   "title": "Microsoft Among 14 Dividend Growth Companies To Announce Annual Dividend Increases In September",
-   "link": "https://seekingalpha.com/article/4941588-microsoft-among-14-dividend-growth-companies-to-announce-annual-dividend-increases-in-september?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-30T17:27:18+00:00",
-   "tickers": [
-    "MSFT"
-   ]
   }
  ],
  "ticker_names": {
@@ -8197,6 +8197,7 @@
   "AU": "AngloGold Ashanti",
   "BEAM": "Beam Therapeutics",
   "DELL": "Dell Technologies",
+  "JNJ": "Johnson & Johnson",
   "BKNG": "Booking Holdings",
   "BMO": "Bank of Montreal",
   "COST": "Costco Wholesale",
@@ -8234,7 +8235,6 @@
   "BA": "The Boeing",
   "MA": "Mastercard",
   "RKLB": "Rocket Lab",
-  "MSFT": "Office 365",
   "DE": "John Deere",
   "AL": "Air Lease",
   "BC": "Brunswick",
