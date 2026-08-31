@@ -1,8 +1,36 @@
 {
- "generated": "2026-08-31T05:12:22.160035+00:00",
+ "generated": "2026-08-31T05:17:12.524025+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d555648f246b",
+   "title": "Shein’s $26B valuation still raises growth concerns",
+   "link": "https://seekingalpha.com/news/4638087-sheins-26b-valuation-still-raises-growth-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-31T05:11:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5a4133f7be20",
+   "title": "Coinbase temporarily pauses Core DAO sends and receives",
+   "link": "https://seekingalpha.com/news/4638096-coinbase-temporarily-pauses-core-dao-sends-and-receives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-31T05:09:55+00:00",
+   "tickers": [
+    "COIN"
+   ]
+  },
   {
    "id": "0099d86d58c0",
    "title": "France is becoming the ‘poster child’ of sovereign debt problems as government borrowing costs hit near 2008 highs",
@@ -8147,35 +8175,6 @@
    "domain": "nytimes.com",
    "published": "2026-08-29T22:47:19+00:00",
    "tickers": []
-  },
-  {
-   "id": "0bf5ae290e87",
-   "title": "US oil deal denounced by both sides of Venezuelan politics",
-   "link": "https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1",
-   "summary": "Hardliners cast agreement with Trump as looting and betrayal while opposition decries Washington’s meddling in country",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-08-29T22:38:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "931cdedb96b1",
-   "title": "How a 78-Year-Old Collects $5,300 a Month From Just Three Tickers: SCHD, HTGC, and NNN",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/78-old-collects-5-300-223854562.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-08-29T22:38:54+00:00",
-   "tickers": [
-    "SCHD",
-    "NNN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8234,6 +8233,7 @@
   "ACHR": "Archer Aviation",
   "AFRM": "Affirm Holdings",
   "AGNC": "AGNC Investment",
+  "COIN": "Coinbase Global",
   "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
   "RRC": "Range Resources",
@@ -8273,7 +8273,6 @@
   "BCS": "Barclays",
   "DOCU": "DocuSign",
   "GOOG": "Alphabet",
-  "NNN": "NNN REIT",
   "SNPS": "Synopsys",
   "SQ": "Cash App",
   "SNAP": "Snapchat",
