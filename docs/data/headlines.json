@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-01T07:22:20.523389+00:00",
+ "generated": "2026-09-01T07:26:54.280052+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d7d1b27b0834",
+   "title": "MacGregor establishes a new service hub in Trieste, Italy",
+   "link": "https://www.prnewswire.com/news-releases/macgregor-establishes-a-new-service-hub-in-trieste-italy-302865934.html",
+   "summary": "MACGREGOR PRESS RELEASE, 1 SEPTEMBER 2026 At 9AM CEST STOCKHOLM, Sept. 1, 2026 /PRNewswire/ -- MacGregor is opening a new service engineer hub in Trieste, Italy on 1 September 2026. The new site further enhances MacGregor's global service network by adding another central location to...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-01T07:25:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "abdf8e8d54e6",
+   "title": "Déclaration hebdomadaire des transactions sur CCI du 2026 08 24 - 2026 08 28",
+   "link": "https://www.globenewswire.com/news-release/2026/09/01/3353835/0/fr/d%C3%A9claration-hebdomadaire-des-transactions-sur-cci-du-2026-08-24-2026-08-28.html",
+   "summary": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-09-01T07:22:00+00:00",
+   "tickers": [
+    "CCI"
+   ]
+  },
   {
    "id": "cf7edf9a98ac",
    "title": "KUKA Global Executives Visit Centron for Technical Exchange on Intelligent Assembly Manufacturing",
@@ -15,6 +43,21 @@
    "domain": "prnewswire.com",
    "published": "2026-09-01T07:21:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "ed8772bdc70e",
+   "title": "Elbit Systems secures $270M contracts for ISR & Targeting payloads",
+   "link": "https://seekingalpha.com/news/4638563-elbit-systems-secures-270m-contracts-for-isr-targeting-payloads?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-01T07:19:34+00:00",
+   "tickers": [
+    "ESLT"
+   ]
   },
   {
    "id": "5c74fcd1e5cc",
@@ -8158,49 +8201,6 @@
    "domain": "marketwatch.com",
    "published": "2026-08-31T21:36:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "71aecd497892",
-   "title": "GitLab Q2 2027 Earnings Preview",
-   "link": "https://seekingalpha.com/news/4638348-gitlab-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-31T21:35:38+00:00",
-   "tickers": [
-    "GTLB"
-   ]
-  },
-  {
-   "id": "1e4a7adb2cc6",
-   "title": "Patagonia Gold reports Q2 results",
-   "link": "https://seekingalpha.com/news/4638516-patagonia-gold-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-31T21:35:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1facd0d7471e",
-   "title": "Lawrence Lepard Announces Filing of Early Warning Report Related to Lahontan Gold Corp. | LGCXF Stock News",
-   "link": "https://www.stocktitan.net/news/LGCXF/lawrence-lepard-announces-filing-of-early-warning-report-related-to-tg1vd8cowqun.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "stocktitan.net",
-   "published": "2026-08-31T21:35:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8247,6 +8247,7 @@
   "ESLT": "Elbit Systems",
   "HSBC": "HSBC Holdings",
   "MSTR": "MicroStrategy",
+  "CCI": "Crown Castle",
   "IREN": "IREN Limited",
   "LRCX": "Lam Research",
   "R": "Ryder System",
@@ -8287,7 +8288,6 @@
   "NIO": "NIO Inc",
   "LI": "Li Auto",
   "ABNB": "Airbnb",
-  "GTLB": "GitLab",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "AA": "Alcoa",
