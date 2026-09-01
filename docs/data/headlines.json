@@ -1,8 +1,23 @@
 {
- "generated": "2026-09-01T08:22:04.584559+00:00",
+ "generated": "2026-09-01T08:27:00.178689+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ae6db1aeedd2",
+   "title": "Elastic: Adjusting My Position After This Sprint (Downgrade)",
+   "link": "https://seekingalpha.com/article/4942001-elastic-adjusting-my-position-after-this-sprint-downgrade?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-01T08:22:33+00:00",
+   "tickers": [
+    "ESTC"
+   ]
+  },
   {
    "id": "ed778555fb3a",
    "title": "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen",
@@ -13,7 +28,20 @@
    "type": "upgrade",
    "sentiment": "positive",
    "domain": "cnbc.com",
-   "published": "2026-09-01T08:19:51+00:00",
+   "published": "2026-09-01T08:22:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dbbf6ee171e8",
+   "title": "When Rates Begin To Bite",
+   "link": "https://seekingalpha.com/article/4942011-when-rates-begin-to-bite?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-01T08:20:00+00:00",
    "tickers": []
   },
   {
@@ -8136,35 +8164,6 @@
    "tickers": [
     "SNPS"
    ]
-  },
-  {
-   "id": "99a531a0c9a3",
-   "title": "Maze Therapeutics CSBO Dandekar divests $206,823 of common stock",
-   "link": "https://www.investing.com/news/insider-trading-news/maze-therapeutics-csbo-dandekar-divests-206823-of-common-stock-93CH-4883362",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-31T23:01:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "02c041fc3ef0",
-   "title": "Charles Schwab MD Neesha Hathi sells $343,497 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/charles-schwab-md-neesha-hathi-sells-343497-in-stock-93CH-4883360",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-31T23:00:57+00:00",
-   "tickers": [
-    "SCHW",
-    "SCHF"
-   ]
   }
  ],
  "ticker_names": {
@@ -8247,6 +8246,7 @@
   "SNPS": "Synopsys",
   "SQ": "Cash App",
   "CVX": "Chevron",
+  "ESTC": "Elastic",
   "MCO": "Moody's",
   "RVTY": "Revvity",
   "SCI": "Service",
