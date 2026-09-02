@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-02T00:27:22.339472+00:00",
+ "generated": "2026-09-02T00:32:06.771075+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "9a191148bc18",
+   "title": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
+   "link": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
+   "summary": "Government bond yields are hitting multi-decade highs, reflecting anxiety about debt levels, deficits and inflation. The effects will extend to mortgages, business loans and other types of credit.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-02T00:25:48+00:00",
+   "tickers": []
+  },
   {
    "id": "78249e970e5a",
    "title": "We're lifting our price target on Palo Alto Networks as AI-driven cyber demand intensifies",
@@ -120,6 +133,19 @@
    ]
   },
   {
+   "id": "837f58a5b908",
+   "title": "U.S. futures muted as markets parse rate jitters, more Iran strikes",
+   "link": "https://www.investing.com/news/stock-market-news/us-futures-muted-as-markets-parse-rate-jitters-more-iran-strikes-4885211",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-02T00:14:54+00:00",
+   "tickers": []
+  },
+  {
    "id": "ab6a0ec9d8ed",
    "title": "Credo Technology Group Holding Ltd (CRDO) Q1 2027 Earnings Call Transcript",
    "link": "https://seekingalpha.com/article/4942251-credo-technology-group-holding-ltd-crdo-q1-2027-earnings-call-transcript?source=feed_all_articles",
@@ -133,19 +159,6 @@
    "tickers": [
     "CRDO"
    ]
-  },
-  {
-   "id": "9a191148bc18",
-   "title": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
-   "link": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
-   "summary": "Government bond yields are hitting multi-decade highs, reflecting anxiety about debt levels, deficits and inflation. The effects will extend to mortgages, business loans and other types of credit.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-02T00:14:27+00:00",
-   "tickers": []
   },
   {
    "id": "0f66f210df86",
@@ -171,6 +184,19 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-09-02T00:08:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ea2505429e16",
+   "title": "Earnings call transcript: DGL flags FY 2026 loss, sees recovery in H2 2026",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-dgl-flags-fy-2026-loss-sees-recovery-in-h2-2026-93CH-4885207",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-02T00:04:18+00:00",
    "tickers": []
   },
   {
@@ -8567,34 +8593,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-01T20:04:42+00:00",
    "tickers": []
-  },
-  {
-   "id": "a4ce4d089cc4",
-   "title": "NIO Q2: Disappointment Increases",
-   "link": "https://seekingalpha.com/article/4942213-nio-q2-disappointment-increases?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-01T20:04:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8a101403f6b2",
-   "title": "A. O. Smith: Earnings Trough And Attractive Valuation Creates Upside",
-   "link": "https://seekingalpha.com/article/4942212-ao-smith-earnings-trough-and-attractive-valuation-creates-upside?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-01T20:04:15+00:00",
-   "tickers": [
-    "AOS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8674,7 +8672,6 @@
   "VNOM": "Viper Energy",
   "GOOGL": "Google Cloud",
   "ALAB": "Astera Labs",
-  "AOS": "A. O. Smith",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
