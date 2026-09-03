@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-03T18:35:53.445826+00:00",
+ "generated": "2026-09-03T18:42:04.103262+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "77416badd834",
+   "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+   "link": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+   "summary": "The acquisition of the start-up is an indication of Nvidia’s growing role as Silicon Valley’s central banker and its emphasis on open-source technology.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-03T18:38:57+00:00",
+   "tickers": []
+  },
   {
    "id": "4c735d4b1069",
    "title": "Leon Black Sues Congressional Panel Investigating Epstein",
@@ -15,6 +28,22 @@
    "domain": "nytimes.com",
    "published": "2026-09-03T18:32:56+00:00",
    "tickers": []
+  },
+  {
+   "id": "f393806a56be",
+   "title": "Fluence Energy cut to Sell equivalent at Barclays on downside risk to FY 2027 consensus",
+   "link": "https://seekingalpha.com/news/4640079-fluence-energy-cut-to-sell-equivalent-at-barclays-on-downside-risk-to-fy-2027-consensus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-03T18:32:17+00:00",
+   "tickers": [
+    "FLNC",
+    "BCS"
+   ]
   },
   {
    "id": "e7985b325c2f",
@@ -5534,19 +5563,6 @@
    "tickers": []
   },
   {
-   "id": "77416badd834",
-   "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
-   "link": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
-   "summary": "The acquisition of the start-up is an indication of Nvidia’s growing role as Silicon Valley’s central banker and its emphasis on open-source technology.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-03T15:59:26+00:00",
-   "tickers": []
-  },
-  {
    "id": "e5a13d57f97c",
    "title": "Ciena Corporation (CIEN) Q3 2026 Earnings Call Transcript",
    "link": "https://seekingalpha.com/article/4942849-ciena-corporation-cien-q3-2026-earnings-call-transcript?source=feed_all_articles",
@@ -8259,21 +8275,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-03T15:02:47+00:00",
    "tickers": []
-  },
-  {
-   "id": "4dd20a630c86",
-   "title": "EQS-DD: Deutsche Beteiligungs AG: Tom Alzin, buy",
-   "link": "https://markets.businessinsider.com/news/stocks/eqs-dd-deutsche-beteiligungs-ag-tom-alzin-buy-1036520008",
-   "summary": "&lt;br/&gt;&lt;br/&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt; &lt;br/&gt; Notification and public disclosure of transactions by persons discharging managerial responsibilities and persons closely associated with them &lt;br/&gt;&lt;br/&gt; 03.09.2026 / 17:01 CET/CEST&lt;br/&gt;The issuer is solely responsible for the content of this announcement.&lt;br/&gt;&lt;br/&gt;&lt;!-- sh_cad_1...",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-09-03T15:02:46+00:00",
-   "tickers": [
-    "DD"
-   ]
   }
  ],
  "ticker_names": {
@@ -8313,7 +8314,6 @@
   "PANW": "Palo Alto Networks",
   "SPOT": "Spotify Technology",
   "RBLX": "Roblox Corporation",
-  "DD": "DuPont de Nemours",
   "HDB": "HDFC Bank Limited",
   "HOOD": "Robinhood Markets",
   "LITE": "Lumentum Holdings",
@@ -8341,6 +8341,7 @@
   "VRT": "Vertiv Holdings",
   "AMT": "American Tower",
   "CPB": "The Campbell's",
+  "FLNC": "Fluence Energy",
   "KMB": "Kimberly-Clark",
   "META": "Meta Platforms",
   "PLNT": "Planet Fitness",
