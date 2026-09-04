@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-04T21:07:03.809396+00:00",
+ "generated": "2026-09-04T21:12:00.671928+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "fa45dfdc76b6",
+   "title": "U.S. diesel prices hit record high",
+   "link": "https://www.cnbc.com/video/2026/09/04/u-s-diesel-prices-hit-record-high.html",
+   "summary": "CNBC's Pippa Stevens joins 'Closing Bell Overtime' to talk rising oil prices.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-04T21:06:59+00:00",
+   "tickers": []
+  },
   {
    "id": "2fbd63455c84",
    "title": "Actinium Pharmaceuticals, Inc. to Present at the H.C. Wainwright 28th Annual Global Investment Conference",
@@ -20,6 +33,21 @@
    "id": "a9ddcfb4e2cb",
    "title": "Actinium Pharmaceuticals, Inc. to Present at the H.C. Wainwright 28th Annual Global Investment Conference | ATNM Stock News",
    "link": "https://www.stocktitan.net/news/ATNM/actinium-pharmaceuticals-inc-to-present-at-the-h-c-wainwright-28th-jsjf1hseklwx.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "stocktitan.net",
+   "published": "2026-09-04T21:05:00+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "4954620aef51",
+   "title": "Lion Copper Announces Share Consolidation and Name Change | LCGMF Stock News",
+   "link": "https://www.stocktitan.net/news/LCGMF/lion-copper-announces-share-consolidation-and-name-1jgjb9qg86ge.html",
    "summary": "",
    "source": "Stock Titan",
    "category": "stocks",
@@ -3327,6 +3355,21 @@
    "domain": "prnewswire.com",
    "published": "2026-09-04T19:47:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "fe5f522bfe98",
+   "title": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
+   "link": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1",
+   "summary": "AI giant on track to unveil paperwork underpinning its blockbuster Wall Street debut as soon as next week",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "offering",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-09-04T19:46:21+00:00",
+   "tickers": [
+    "MS"
+   ]
   },
   {
    "id": "df5a1b6c9d49",
@@ -8402,49 +8445,6 @@
    "tickers": [
     "IOT"
    ]
-  },
-  {
-   "id": "b10c05457fb3",
-   "title": "Aon (AON) is Paying $17B for USI. Can $395M of Synergies Justify Another Debt-Funded Megadeal?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aon-aon-paying-17b-usi-162842766.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-04T16:28:42+00:00",
-   "tickers": [
-    "AON"
-   ]
-  },
-  {
-   "id": "28f6934fe09a",
-   "title": "Record Diesel Prices Push Brent Toward $95",
-   "link": "https://finance.yahoo.com/energy/articles/record-diesel-prices-push-brent-162700945.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-04T16:27:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "359cc76442b7",
-   "title": "BioMarin (BMRN) Secured 20% U.S. Royalties on Yuviwel. Is Monetizing a Rival Better than Blocking It?",
-   "link": "https://finance.yahoo.com/healthcare/articles/biomarin-bmrn-secured-20-u-162639879.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-04T16:26:39+00:00",
-   "tickers": [
-    "BMRN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8464,7 +8464,6 @@
   "ROLR": "High Roller Technologies",
   "ARR": "ARMOUR Residential REIT",
   "BITX": "2x Bitcoin Strategy ETF",
-  "BMRN": "BioMarin Pharmaceutical",
   "EWZ": "iShares MSCI Brazil ETF",
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
