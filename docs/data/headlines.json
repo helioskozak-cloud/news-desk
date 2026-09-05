@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-05T19:02:28.125102+00:00",
+ "generated": "2026-09-05T19:07:21.825294+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8bfb80f49bee",
+   "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.",
+   "link": "https://www.marketwatch.com/story/think-you-maxed-out-your-401-k-the-real-limit-is-actually-almost-50-000-higher-217a89ee?mod=mw_rss_topstories",
+   "summary": "You can unlock greater retirement wealth by reading this document that nearly everyone ignores.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-09-05T18:59:00+00:00",
+   "tickers": []
+  },
   {
    "id": "864e6bf9a6d7",
    "title": "LG ELECTRONICS SHOWCASES COMPLETE PREMIUM RGB LINEUP WITH TÜV RHEINLAND CERTIFICATION FOR HIGH PURITY COLOR AT IFA 2026",
@@ -45,6 +58,21 @@
    "tickers": []
   },
   {
+   "id": "75ef1a4820e5",
+   "title": "Casella’s (CWST) Growth Machine Is Outrunning Its Own Profits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/casella-cwst-growth-machine-outrunning-184607744.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-05T18:46:07+00:00",
+   "tickers": [
+    "CWST"
+   ]
+  },
+  {
    "id": "4eae24b1e0fc",
    "title": "A&amp;S Resources sichert Eisenbahnfinanzierung in Höhe von 6 Milliarden USD zur Erschließung eines Eisenerzvorkommens im Wert von 2,5 Billionen USD",
    "link": "https://www.prnewswire.com/news-releases/as-resources-sichert-eisenbahnfinanzierung-in-hohe-von-6-milliarden-usd-zur-erschlieWung-eines-eisenerzvorkommens-im-wert-von-2-5-billionen-usd-302870720.html",
@@ -55,6 +83,19 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-09-05T18:45:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "eb7689bde03c",
+   "title": "Two Chip-Equipment Stocks Just Crushed Nvidia. Is the AI Rally Broadening?",
+   "link": "https://finance.yahoo.com/technology/articles/two-chip-equipment-stocks-just-184332143.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-05T18:43:32+00:00",
    "tickers": []
   },
   {
@@ -8182,49 +8223,6 @@
    "tickers": [
     "KKR"
    ]
-  },
-  {
-   "id": "96ff247797e0",
-   "title": "Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report",
-   "link": "https://www.investing.com/news/economy-news/citigroup-delays-fed-ratecut-forecast-to-2027-after-strong-us-jobs-report-4889795",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-04T22:54:57+00:00",
-   "tickers": [
-    "C"
-   ]
-  },
-  {
-   "id": "48dd9c11d5e5",
-   "title": "Aeva technologies CFO sells $506k in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/aeva-technologies-cfo-sells-506k-in-company-stock-93CH-4890097",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-04T22:50:10+00:00",
-   "tickers": [
-    "AEVA"
-   ]
-  },
-  {
-   "id": "7faf342750ea",
-   "title": "Atara Biotherapeutics director Brian Cherry buys nearly $1m in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/atara-biotherapeutics-director-brian-cherry-buys-nearly-1m-in-shares-93CH-4890096",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-04T22:49:55+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8246,6 +8244,7 @@
   "GS": "The Goldman Sachs Group",
   "CRSP": "CRISPR Therapeutics AG",
   "WBD": "Warner Bros. Discovery",
+  "CWST": "Casella Waste Systems",
   "DOG": "ProShares Short Dow30",
   "PLTR": "Palantir Technologies",
   "TDY": "Teledyne Technologies",
@@ -8264,7 +8263,6 @@
   "HIMS": "Hims & Hers Health",
   "LUNR": "Intuitive Machines",
   "TYL": "Tyler Technologies",
-  "AEVA": "Aeva Technologies",
   "AMAT": "Applied Materials",
   "CAR": "Avis Budget Group",
   "DELL": "Dell Technologies",
