@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T20:07:16.209105+00:00",
+ "generated": "2026-09-05T20:12:19.586331+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -43,6 +43,19 @@
    "tickers": []
   },
   {
+   "id": "3d8d0dd05f22",
+   "title": "How Much Do You Really Need Invested to Replace a $95,000 Salary With Dividends?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/much-really-invested-replace-95-195624982.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-05T19:56:24+00:00",
+   "tickers": []
+  },
+  {
    "id": "99d61c93de3b",
    "title": "Putin meets with U.S. envoys at the Kremlin for renewed talks on ending the war in Ukraine",
    "link": "https://www.cnbc.com/2026/09/05/witkoff-kushner-moscow-russia-ukraine.html",
@@ -54,6 +67,21 @@
    "domain": "cnbc.com",
    "published": "2026-09-05T19:54:55+00:00",
    "tickers": []
+  },
+  {
+   "id": "26ab4ff0513b",
+   "title": "Everus (ECG) Bets $295M On Modular Construction’s Future",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/everus-ecg-bets-295m-modular-195345603.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-05T19:53:45+00:00",
+   "tickers": [
+    "ECG"
+   ]
   },
   {
    "id": "5a3b38e0010c",
@@ -861,7 +889,7 @@
    "title": "Real Estate Expert Pamela Z. Hill Explains Why Whidbey Island Is a Popular Destination for Vacation Homes in HelloNation",
    "link": "https://www.prnewswire.com/news-releases/real-estate-expert-pamela-z-hill-explains-why-whidbey-island-is-a-popular-destination-for-vacation-homes-in-hellonation-302870337.html",
    "summary": "The article examines the factors that continue to attract buyers seeking vacation properties and a slower pace of life. WHIDBEY ISLAND, Wash., Sept. 5, 2026 /PRNewswire/ -- Why are so many buyers choosing Whidbey Island for a vacation home? A recent HelloNation article provides the...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8202,34 +8230,6 @@
    "domain": "investing.com",
    "published": "2026-09-04T23:30:29+00:00",
    "tickers": []
-  },
-  {
-   "id": "0755741ce5da",
-   "title": "GDDY Investors Have Opportunity to Lead GoDaddy Inc. Securities Fraud Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/gddy-investors-have-opportunity-to-lead-godaddy-inc-securities-fraud-lawsuit-302870459.html",
-   "summary": "NEW YORK, Sept. 4, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of GoDaddy Inc. (NYSE: GDDY) between September 3, 2025 and February 24, 2026, both dates inclusive (the \"Class Period\"), of the important October 20, 2026...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-09-04T23:26:00+00:00",
-   "tickers": [
-    "GDDY"
-   ]
-  },
-  {
-   "id": "60dae1e80118",
-   "title": "Anthropic delays IPO launch to mid-October at earliest, Reuters reports",
-   "link": "https://www.investing.com/news/company-news/anthropic-delays-ipo-launch-to-midoctober-at-earliest-reuters-reports-4890106",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-04T23:21:10+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8246,6 +8246,7 @@
   "WST": "West Pharmaceutical Services",
   "CHH": "Choice Hotels International",
   "IBP": "Installed Building Products",
+  "ECG": "Everus Construction Group",
   "JEF": "Jefferies Financial Group",
   "PFG": "Principal Financial Group",
   "REGN": "Regeneron Pharmaceuticals",
@@ -8361,7 +8362,6 @@
   "CNC": "Centene",
   "CVNA": "Carvana",
   "CVX": "Chevron",
-  "GDDY": "GoDaddy",
   "GLOB": "Globant",
   "MDB": "MongoDB",
   "MET": "MetLife",
