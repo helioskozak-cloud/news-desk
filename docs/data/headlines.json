@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-05T19:36:47.630102+00:00",
+ "generated": "2026-09-05T19:42:01.158886+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d33ecd33addb",
+   "title": "LeBron James teases partnership with Polymarket",
+   "link": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
+   "summary": "LeBron James on Saturday teased an upcoming partnership with the prediction markets platform Polymarket in a social media post.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-05T19:40:11+00:00",
+   "tickers": []
+  },
   {
    "id": "04a1073da4eb",
    "title": "The Heart Drug Pelacarsen Fails, Shocking Novartis and Cardiologists",
@@ -43,6 +56,37 @@
    "domain": "prnewswire.com",
    "published": "2026-09-05T19:25:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "0c996c2d955f",
+   "title": "Magnolia Oil & Gas (MGY) Doubles Profits While Betting Big On Growth",
+   "link": "https://finance.yahoo.com/energy/articles/magnolia-oil-gas-mgy-doubles-192051152.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-05T19:20:51+00:00",
+   "tickers": [
+    "MGY"
+   ]
+  },
+  {
+   "id": "cc087aead423",
+   "title": "ASML vs. Taiwan Semiconductor: Which Semiconductor Monopoly Is the Safer Investment?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/asml-vs-taiwan-semiconductor-semiconductor-192000370.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-05T19:20:00+00:00",
+   "tickers": [
+    "ASML",
+    "TSM"
+   ]
   },
   {
    "id": "94874ef5674e",
@@ -87,19 +131,6 @@
     "ABBV",
     "FLEX"
    ]
-  },
-  {
-   "id": "d33ecd33addb",
-   "title": "LeBron James teases partnership with Polymarket",
-   "link": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
-   "summary": "LeBron James on Saturday teased an upcoming partnership with the prediction markets platform Polymarket in a social media post.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-05T19:14:59+00:00",
-   "tickers": []
   },
   {
    "id": "80f64858f467",
@@ -691,7 +722,7 @@
    "title": "Real Estate Expert Pamela Z. Hill Explains Why Whidbey Island Is a Popular Destination for Vacation Homes in HelloNation",
    "link": "https://www.prnewswire.com/news-releases/real-estate-expert-pamela-z-hill-explains-why-whidbey-island-is-a-popular-destination-for-vacation-homes-in-hellonation-302870337.html",
    "summary": "The article examines the factors that continue to attract buyers seeking vacation properties and a slower pace of life. WHIDBEY ISLAND, Wash., Sept. 5, 2026 /PRNewswire/ -- Why are so many buyers choosing Whidbey Island for a vacation home? A recent HelloNation article provides the...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8199,32 +8230,6 @@
    "tickers": [
     "RPRX"
    ]
-  },
-  {
-   "id": "990befeeb616",
-   "title": "Teva Pharmaceutical Industries Limited (TEVA) Discusses Positive Topline Results for Anti-IL-15 Antibody in Phase IIa Celiac Disease Study - Slideshow",
-   "link": "https://seekingalpha.com/article/4943259-teva-pharmaceutical-industries-limited-teva-discusses-positive-topline-results-for-anti?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-04T23:08:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "105f9d295e47",
-   "title": "TScan Therapeutics, Inc. (TCRX) Discusses Strategic Refocus on In Vivo Cell Therapy for Solid Tumors and Pausing of Phase III Heme Study - Slideshow",
-   "link": "https://seekingalpha.com/article/4943258-tscan-therapeutics-inc-tcrx-discusses-strategic-refocus-on-in-vivo-cell-therapy-for-solid?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-04T23:07:53+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8267,6 +8272,7 @@
   "CRK": "Comstock Resources",
   "HIMS": "Hims & Hers Health",
   "LUNR": "Intuitive Machines",
+  "MGY": "Magnolia Oil & Gas",
   "TYL": "Tyler Technologies",
   "AMAT": "Applied Materials",
   "CAR": "Avis Budget Group",
@@ -8309,6 +8315,7 @@
   "VLO": "Valero Energy",
   "WFC": "Wells Fargo &",
   "MSTR": "MicroStrategy",
+  "ASML": "ASML Holding",
   "DVLT": "Datavault AI",
   "UBS": "UBS Group AG",
   "WY": "Weyerhaeuser",
