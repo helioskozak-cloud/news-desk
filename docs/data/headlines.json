@@ -1,8 +1,50 @@
 {
- "generated": "2026-09-05T19:16:56.119753+00:00",
+ "generated": "2026-09-05T19:21:40.206203+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "94874ef5674e",
+   "title": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
+   "link": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
+   "summary": "Despite rising prices and the travel industry focusing on the luxury segment, budget-minded vacationers are still finding ways to get away.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-05T19:18:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "48bba6e0e954",
+   "title": "Key deals this week: Flex, Nvidia, AbbVie and more",
+   "link": "https://seekingalpha.com/news/4640496-key-deals-this-week-flex-nvidia-abbvie-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-05T19:15:29+00:00",
+   "tickers": [
+    "ABBV",
+    "FLEX"
+   ]
+  },
+  {
+   "id": "d33ecd33addb",
+   "title": "LeBron James teases partnership with Polymarket",
+   "link": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
+   "summary": "LeBron James on Saturday teased an upcoming partnership with the prediction markets platform Polymarket in a social media post.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-05T19:14:59+00:00",
+   "tickers": []
+  },
   {
    "id": "80f64858f467",
    "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
@@ -4083,19 +4125,6 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-09-05T12:15:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "94874ef5674e",
-   "title": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
-   "link": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
-   "summary": "Despite rising prices and the travel industry focusing on the luxury segment, budget-minded vacationers are still finding ways to get away.",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-05T12:14:21+00:00",
    "tickers": []
   },
   {
@@ -8196,36 +8225,6 @@
     "NVS",
     "NDAQ"
    ]
-  },
-  {
-   "id": "dba844c91a92",
-   "title": "Royalty Pharma announces update on Novartis’ Phase 3 topline results for pelacarsen | RPRX Stock News",
-   "link": "https://www.stocktitan.net/news/RPRX/royalty-pharma-announces-update-on-novartis-phase-3-topline-results-kklql0xhe24l.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-04T23:05:00+00:00",
-   "tickers": [
-    "RPRX",
-    "NVS",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "edbb8a9151e0",
-   "title": "Daktronics, Inc. 2027 Q1 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4943253-daktronics-inc-2027-q1-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-04T23:04:49+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8364,6 +8363,7 @@
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "ZS": "Zscaler",
+  "ABBV": "AbbVie",
   "AEE": "Ameren",
   "ALMS": "Alumis",
   "DVA": "DaVita",
@@ -8376,6 +8376,7 @@
   "DOV": "Dover",
   "LIN": "Linde",
   "XYZ": "Block",
+  "FLEX": "Flex",
   "OKTA": "Okta",
   "PCG": "PG&E",
   "T": "AT&T"
