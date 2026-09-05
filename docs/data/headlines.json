@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T18:32:03.279634+00:00",
+ "generated": "2026-09-05T18:37:21.646727+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -32,6 +32,22 @@
    ]
   },
   {
+   "id": "b81f9b6c9c0d",
+   "title": "Dow Jones Futures: U.S., Iran Exchange Attacks; Nvidia, Micron, Sandisk Flash Buy Signals",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investors.com",
+   "published": "2026-09-05T18:22:09+00:00",
+   "tickers": [
+    "SNDK",
+    "MU"
+   ]
+  },
+  {
    "id": "9f7b92b3d4b5",
    "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
    "link": "https://www.investing.com/news/commodities-news/us-strikes-three-iranian-oil-tankers-after-irgc-attack-on-american-naval-ships-central-command-says-4890210",
@@ -58,6 +74,21 @@
    "tickers": []
   },
   {
+   "id": "3b2eff3384e9",
+   "title": "Valaris (VAL) Swings Back to Profit, but Middle East Costs Linger",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/valaris-val-swings-back-profit-181758119.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-05T18:17:58+00:00",
+   "tickers": [
+    "VAL"
+   ]
+  },
+  {
    "id": "4617a1b38edb",
    "title": "Why I Just Added to My Chevron Position Despite Trump Criticism",
    "link": "https://finance.yahoo.com/energy/articles/why-just-added-chevron-position-181300131.html",
@@ -70,6 +101,21 @@
    "published": "2026-09-05T18:13:00+00:00",
    "tickers": [
     "CVX"
+   ]
+  },
+  {
+   "id": "2913a11c826f",
+   "title": "Management Reiterates Optimistic FY26 Guidance for Intuitive Machines (LUNR)",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/management-reiterates-optimistic-fy26-guidance-181230241.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-05T18:12:30+00:00",
+   "tickers": [
+    "LUNR"
    ]
   },
   {
@@ -723,23 +769,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-05T16:47:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "b81f9b6c9c0d",
-   "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "investors.com",
-   "published": "2026-09-05T16:46:30+00:00",
-   "tickers": [
-    "SNDK",
-    "MU",
-    "AAPL"
-   ]
   },
   {
    "id": "854dfa78e9b1",
@@ -8213,38 +8242,6 @@
    "tickers": [
     "GDDY"
    ]
-  },
-  {
-   "id": "379ec72c1fbe",
-   "title": "Guardant Health Announces Landmark FDA Approval of Guardant360® CDx as Companion Diagnostic for AstraZeneca’s ETCAMAH™ (camizestrant) in Advanced Breast Cancer | GH Stock News",
-   "link": "https://www.stocktitan.net/news/GH/guardant-health-announces-landmark-fda-approval-of-guardant360-c-dx-rwebyukdy6tq.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-04T22:10:00+00:00",
-   "tickers": [
-    "GH",
-    "AZN",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "00c288524697",
-   "title": "Flow Traders: Growth Strategy Remains Too Cautious",
-   "link": "https://seekingalpha.com/article/4943243-flow-traders-growth-strategy-remains-too-cautious?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-04T22:06:43+00:00",
-   "tickers": [
-    "MSTR"
-   ]
   }
  ],
  "ticker_names": {
@@ -8281,6 +8278,7 @@
   "COGT": "Cogent Biosciences",
   "CRK": "Comstock Resources",
   "HIMS": "Hims & Hers Health",
+  "LUNR": "Intuitive Machines",
   "TYL": "Tyler Technologies",
   "AEVA": "Aeva Technologies",
   "AMAT": "Applied Materials",
@@ -8305,11 +8303,11 @@
   "AER": "AerCap Holdings",
   "ASTS": "AST SpaceMobile",
   "BRBR": "BellRing Brands",
-  "GH": "Guardant Health",
   "GILD": "Gilead Sciences",
   "LMT": "Lockheed Martin",
   "PYPL": "PayPal Holdings",
   "SCCO": "Southern Copper",
+  "VAL": "Valaris Limited",
   "VRT": "Vertiv Holdings",
   "DG": "Dollar General",
   "GM": "General Motors",
@@ -8337,7 +8335,6 @@
   "TSN": "Tyson Foods",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
-  "AZN": "AstraZeneca",
   "BA": "The Boeing",
   "CAVA": "CAVA Group",
   "CRM": "Salesforce",
