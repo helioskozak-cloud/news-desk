@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-06T22:52:14.362905+00:00",
+ "generated": "2026-09-06T22:57:15.200787+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "58bd2256ae0f",
+   "title": "Assailant lunged at Democratic candidate for Ohio governor Amy Acton at fair, campaign says",
+   "link": "https://www.cnbc.com/2026/09/06/ohio-governor-candidate-amy-acton-attacked.html",
+   "summary": "The Ohio gubernatorial race is one of the most high-profile races this year as the campaigns enter the final weeks of campaigning before the November election.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-06T22:51:50+00:00",
+   "tickers": []
+  },
   {
    "id": "45b2429b1e8f",
    "title": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes",
@@ -30,6 +43,34 @@
    "tickers": [
     "AMZN"
    ]
+  },
+  {
+   "id": "5ca40a36b4d3",
+   "title": "Goldman Sachs (GS) Partner: AI Risks Leaving the Next Generation of Bankers Unable to Think for Themselves",
+   "link": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-gs-partner-ai-224114353.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-06T22:41:14+00:00",
+   "tickers": [
+    "GS"
+   ]
+  },
+  {
+   "id": "806d749e7ab1",
+   "title": "OpenAI Cuts Cursor Off from its Models Now That Musk’s SpaceX (SPCX) Owns It",
+   "link": "https://finance.yahoo.com/technology/ai/articles/openai-cuts-cursor-off-models-223547147.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-06T22:35:47+00:00",
+   "tickers": []
   },
   {
    "id": "efa37416853d",
@@ -2258,7 +2299,7 @@
    "title": "Bronstein, Gewirtz &amp; Grossman LLC Urges York Space Systems, Inc. Investors to Act: Class Action Filed Alleging Investor Harm",
    "link": "https://www.prnewswire.com/news-releases/bronstein-gewirtz--grossman-llc-urges-york-space-systems-inc-investors-to-act-class-action-filed-alleging-investor-harm-302869696.html",
    "summary": "NEW YORK, Sept. 6, 2026 /PRNewswire/ -- Bronstein, Gewirtz & Grossman, LLC, a nationally recognized investor-rights law firm, announces that a class action lawsuit has been filed against York Space Systems, Inc. (NYSE: YSS) and certain of its officers. This lawsuit seeks to recover...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -2271,7 +2312,7 @@
    "title": "Bronstein, Gewirtz &amp; Grossman LLC Urges Hims &amp; Hers Health, Inc. Investors to Act: Class Action Filed Alleging Investor Harm",
    "link": "https://www.prnewswire.com/news-releases/bronstein-gewirtz--grossman-llc-urges-hims--hers-health-inc-investors-to-act-class-action-filed-alleging-investor-harm-302869689.html",
    "summary": "NEW YORK, Sept. 6, 2026 /PRNewswire/ -- Bronstein, Gewirtz & Grossman, LLC, a nationally recognized investor-rights law firm, announces that a class action lawsuit has been filed against Hims & Hers Health, Inc. (NYSE: HIMS) and certain of its officers. This lawsuit seeks to recover...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8204,49 +8245,6 @@
    "domain": "prnewswire.com",
    "published": "2026-09-05T15:57:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "3bf0ae739d40",
-   "title": "Ameren SVP Finance Ryan Martin Sells 971 Shares for $107,000",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ameren-svp-finance-ryan-martin-155002374.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-05T15:50:02+00:00",
-   "tickers": [
-    "AEE"
-   ]
-  },
-  {
-   "id": "95ce1c7eb62e",
-   "title": "Why I'm Still Investing in VTI Right Now No Matter What the Stock Market Does",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-im-still-investing-vti-155000939.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-05T15:50:00+00:00",
-   "tickers": [
-    "VTI"
-   ]
-  },
-  {
-   "id": "94f26d037467",
-   "title": "Why Gabelli’s Global Content & Connectivity Fund Likes Rogers Communications (RCI)",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-content-connectivity-154610296.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-05T15:45:33+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8255,7 +8253,6 @@
   "IBM": "International Business Machines",
   "SCHF": "Schwab International Equity ETF",
   "SCHV": "Schwab U.S. Large-Cap Value ETF",
-  "VTI": "Vanguard Total Stock Market ETF",
   "CRDO": "Credo Technology Group Holding",
   "SCHD": "Schwab US Dividend Equity ETF",
   "SPYI": "NEOS S&P 500 High Income ETF",
@@ -8269,6 +8266,7 @@
   "ECG": "Everus Construction Group",
   "REGN": "Regeneron Pharmaceuticals",
   "PTGX": "Protagonist Therapeutics",
+  "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
   "VZ": "Verizon Communications",
   "WBD": "Warner Bros. Discovery",
@@ -8391,7 +8389,6 @@
   "ZS": "Zscaler",
   "ABBV": "AbbVie",
   "ABNB": "Airbnb",
-  "AEE": "Ameren",
   "BRKR": "Bruker",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
