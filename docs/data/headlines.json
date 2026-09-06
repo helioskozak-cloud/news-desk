@@ -1,8 +1,23 @@
 {
- "generated": "2026-09-06T19:27:01.579090+00:00",
+ "generated": "2026-09-06T19:32:23.161183+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a5255c41b51a",
+   "title": "Amazon cargo plane reportedly crashes near Miami airport",
+   "link": "https://www.investing.com/news/stock-market-news/amazon-cargo-plane-reportedly-crashes-near-miami-airport-4890316",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-06T19:26:44+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
   {
    "id": "f28ad05132d5",
    "title": "Cargo Plane Overruns Runway at Miami Airport, Striking Vehicles",
@@ -129,6 +144,19 @@
    "sentiment": "positive",
    "domain": "finance.yahoo.com",
    "published": "2026-09-06T19:05:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dbfa2eb7cbaf",
+   "title": "Trump administration focuses on boosting oil output, Wright says",
+   "link": "https://www.investing.com/news/economy-news/trump-administration-focuses-on-boosting-oil-output-wright-says-93CH-4890315",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-06T19:04:33+00:00",
    "tickers": []
   },
   {
@@ -8220,35 +8248,6 @@
    "tickers": [
     "TDY"
    ]
-  },
-  {
-   "id": "7c05b79ef78c",
-   "title": "Morgan Stanley delivers bold Carvana stock verdict",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-bold-carvana-140700577.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-05T14:07:00+00:00",
-   "tickers": [
-    "MS",
-    "CVNA"
-   ]
-  },
-  {
-   "id": "8a16c308baac",
-   "title": "ESCO Technologies: A More Constructive Set-Up",
-   "link": "https://seekingalpha.com/article/4943365-esco-technologies-more-constructive-set-up?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-05T14:05:18+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8381,7 +8380,6 @@
   "FOX": "Fox Corp",
   "BLSH": "Bullish",
   "BPOP": "Popular",
-  "CVNA": "Carvana",
   "CVX": "Chevron",
   "IOT": "Samsara",
   "IVZ": "Invesco",
