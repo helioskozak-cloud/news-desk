@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-06T18:07:16.401428+00:00",
+ "generated": "2026-09-06T18:12:22.505321+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "68746b5c5c0b",
+   "title": "XiamenAir launches new intercontinental route with inaugural Xiamen-London flight",
+   "link": "https://www.prnewswire.com/news-releases/xiamenair-launches-new-intercontinental-route-with-inaugural-xiamen-london-flight-302870851.html",
+   "summary": "XIAMEN, China, Sept. 6, 2026 /PRNewswire/ -- XiamenAir's inaugural flight MF821 landed at Heathrow Airport on September 6, marking the launch of a direct round-trip service between Xiamen and London. The 12-hour flight departed from Xiamen Gaoqi International Airport with 263 passengers....",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-09-06T18:09:00+00:00",
+   "tickers": []
+  },
   {
    "id": "83be5aaea891",
    "title": "Isar Aerospace reaches orbit, advancing Europe’s independent launch ambitions",
@@ -41,6 +54,21 @@
    "domain": "cnbc.com",
    "published": "2026-09-06T17:53:53+00:00",
    "tickers": []
+  },
+  {
+   "id": "3d9caf4faed3",
+   "title": "NuScale Power Stock Will Spike 23.7% Over the Next 11 Months According to This Wall Street Analyst",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stock-spike-23-175000376.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-06T17:50:00+00:00",
+   "tickers": [
+    "SMR"
+   ]
   },
   {
    "id": "a65fbd14fabd",
@@ -2569,7 +2597,7 @@
    "type": "macro",
    "sentiment": "neutral",
    "domain": "nytimes.com",
-   "published": "2026-09-06T10:50:17+00:00",
+   "published": "2026-09-06T10:50:18+00:00",
    "tickers": []
   },
   {
@@ -8228,36 +8256,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-05T13:21:41+00:00",
    "tickers": []
-  },
-  {
-   "id": "ea65fe55a151",
-   "title": "Real Estate Professionals Bev Best and Damien Zachman Explain Which Home Repairs Are Worth Doing Before Selling in HelloNation",
-   "link": "https://www.prnewswire.com/news-releases/real-estate-professionals-bev-best-and-damien-zachman-explain-which-home-repairs-are-worth-doing-before-selling-in-hellonation-302870106.html",
-   "summary": "The article explains why sellers should prioritize safety, essential systems, and maintenance over costly cosmetic upgrades when preparing a mountain home for sale. SHOW LOW, Ariz., Sept. 5, 2026 /PRNewswire/ -- What repairs are actually worth doing before putting a house on the market in...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-05T13:20:00+00:00",
-   "tickers": [
-    "LOW"
-   ]
-  },
-  {
-   "id": "d26e08dc5206",
-   "title": "Macy's: The Tariff Refund Nobody Has Modeled",
-   "link": "https://seekingalpha.com/article/4943350-macys-the-tariff-refund-nobody-has-modeled?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-05T13:20:00+00:00",
-   "tickers": [
-    "M"
-   ]
   }
  ],
  "ticker_names": {
@@ -8341,6 +8339,7 @@
   "O": "Realty Income",
   "POST": "Post Holdings",
   "SGML": "Sigma Lithium",
+  "SMR": "NuScale Power",
   "SOUN": "SoundHound AI",
   "SU": "Suncor Energy",
   "WFC": "Wells Fargo &",
@@ -8407,7 +8406,6 @@
   "AEE": "Ameren",
   "BRKR": "Bruker",
   "DVA": "DaVita",
-  "M": "Macy's",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "RMD": "ResMed",
