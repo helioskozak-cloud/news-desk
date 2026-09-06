@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-06T21:12:21.654325+00:00",
+ "generated": "2026-09-06T21:17:16.535043+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "bc0afbcdb3f2",
+   "title": "Are markets open on Labor Day?",
+   "link": "https://seekingalpha.com/news/4640532-are-markets-open-on-labor-day?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-06T21:13:56+00:00",
+   "tickers": []
+  },
   {
    "id": "efa37416853d",
    "title": "Amazon cargo plane crashes after overrunning runway, closing Miami airport on busy holiday weekend",
@@ -45,6 +58,21 @@
    "domain": "marketwatch.com",
    "published": "2026-09-06T21:00:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "4b631ccb674d",
+   "title": "Salesforce (CRM)’s AI Numbers Just Gave Benioff His Swagger Back",
+   "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-ai-numbers-just-205654689.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-06T20:56:54+00:00",
+   "tickers": [
+    "CRM"
+   ]
   },
   {
    "id": "a5255c41b51a",
@@ -8212,32 +8240,6 @@
    "domain": "investing.com",
    "published": "2026-09-05T15:15:21+00:00",
    "tickers": []
-  },
-  {
-   "id": "50d515af0c20",
-   "title": "Equity Bancshares Director Rogerson Buys 2,000 Shares for $100,000",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/equity-bancshares-director-rogerson-buys-151501067.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-05T15:15:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a4527d93df94",
-   "title": "SMAR Investors Have Opportunity to Lead Smartsheet Inc. Securities Fraud Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/smar-investors-have-opportunity-to-lead-smartsheet-inc-securities-fraud-lawsuit-302870367.html",
-   "summary": "NEW YORK, Sept. 5, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds sellers of common stock of Smartsheet Inc. (NYSE: SMAR) between June 1, 2024 and September 23, 2024, both dates inclusive (the \"Class Period\"), of the important October 5, 2026 lead...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-09-05T15:14:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8338,6 +8340,7 @@
   "AMZN": "Whole Foods",
   "BA": "The Boeing",
   "BX": "Blackstone",
+  "CRM": "Salesforce",
   "F": "Ford Motor",
   "FIVE": "Five Below",
   "KR": "The Kroger",
