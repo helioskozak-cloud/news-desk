@@ -1,8 +1,53 @@
 {
- "generated": "2026-09-06T22:22:06.085242+00:00",
+ "generated": "2026-09-06T22:27:17.162470+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "efa37416853d",
+   "title": "At least 5 dead after Amazon cargo plane barreled off runway at Miami airport",
+   "link": "https://www.cnbc.com/2026/09/06/amazon-cargo-plane-overrunns-runway-at-miami-international-airport.html",
+   "summary": "An Amazon cargo plane overshot a runway at Miami International Airport on Sunday, pausing flights at the busy travel hub.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-06T22:24:53+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "8cde0e339945",
+   "title": "At least 5 killed in Amazon Prime Air cargo plane crash in Miami",
+   "link": "https://www.investing.com/news/stock-market-news/amazon-prime-air-boeing-767-overruns-runway-at-miami-airport-4890317",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-06T22:24:26+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "a21b6c6506e4",
+   "title": "Arrowhead Pharmaceuticals Director Sells 11,600 Shares for $1 Million",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/arrowhead-pharmaceuticals-director-sells-11-221501169.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-06T22:15:01+00:00",
+   "tickers": [
+    "ARWR"
+   ]
+  },
   {
    "id": "251cfc1df7fe",
    "title": "First Solar: Noise Down, Stock Up",
@@ -16,6 +61,36 @@
    "published": "2026-09-06T22:12:52+00:00",
    "tickers": [
     "FSLR"
+   ]
+  },
+  {
+   "id": "5e04e0a99603",
+   "title": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus",
+   "link": "https://finance.yahoo.com/technology/articles/apple-aapl-sets-iphone-launch-221225248.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-06T22:12:25+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "2b0684056019",
+   "title": "CrowdStrike (CRWD)’s CEO Warns AI Is Exposing Gaps in Legacy Cybersecurity Tools",
+   "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-ceo-warns-ai-221012462.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-06T22:10:12+00:00",
+   "tickers": [
+    "CRWD"
    ]
   },
   {
@@ -62,18 +137,20 @@
    ]
   },
   {
-   "id": "8cde0e339945",
-   "title": "At least 5 killed in Amazon Prime Air cargo plane crash in Miami",
-   "link": "https://www.investing.com/news/stock-market-news/amazon-prime-air-boeing-767-overruns-runway-at-miami-airport-4890317",
+   "id": "b81f9b6c9c0d",
+   "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
    "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "macro",
    "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-06T22:00:28+00:00",
+   "domain": "investors.com",
+   "published": "2026-09-06T22:04:30+00:00",
    "tickers": [
-    "AMZN"
+    "SNDK",
+    "MU",
+    "AAPL"
    ]
   },
   {
@@ -101,21 +178,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-06T21:56:32+00:00",
    "tickers": []
-  },
-  {
-   "id": "efa37416853d",
-   "title": "Amazon cargo plane crashes after overrunning runway, closing Miami airport on busy holiday weekend",
-   "link": "https://www.cnbc.com/2026/09/06/amazon-cargo-plane-overrunns-runway-at-miami-international-airport.html",
-   "summary": "An Amazon cargo plane overshot a runway at Miami International Airport on Sunday, pausing flights at the busy travel hub.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-09-06T21:54:22+00:00",
-   "tickers": [
-    "AMZN"
-   ]
   },
   {
    "id": "19a9fd3186cf",
@@ -293,23 +355,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-06T21:13:56+00:00",
    "tickers": []
-  },
-  {
-   "id": "b81f9b6c9c0d",
-   "title": "Dow Jones Futures Eye Iran With Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "investors.com",
-   "published": "2026-09-06T21:10:14+00:00",
-   "tickers": [
-    "SNDK",
-    "MU",
-    "AAPL"
-   ]
   },
   {
    "id": "1ca2396349da",
@@ -8197,49 +8242,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-05T15:38:32+00:00",
    "tickers": []
-  },
-  {
-   "id": "debf3c683a1b",
-   "title": "Snowflake Delivers One of Its Best Quarters. Wall Street Is Loving the AI Boom",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-delivers-one-best-quarters-153715826.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-05T15:37:15+00:00",
-   "tickers": [
-    "SNOW"
-   ]
-  },
-  {
-   "id": "87dfce19fc37",
-   "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
-   "link": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
-   "summary": "“My offer was cocktails.”",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-09-05T15:37:00+00:00",
-   "tickers": [
-    "PYPL"
-   ]
-  },
-  {
-   "id": "2b2091a1e5d6",
-   "title": "Japanese stocks face continued risk aversion despite record profits, Nomura says",
-   "link": "https://www.investing.com/news/stock-market-news/japanese-stocks-face-continued-risk-aversion-despite-record-profits-nomura-says-4890218",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-05T15:35:47+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8257,6 +8259,7 @@
   "QQQ": "Invesco QQQ Trust, Series 1",
   "AMC": "AMC Entertainment Holdings",
   "EL": "The Est?e Lauder Companies",
+  "ARWR": "Arrowhead Pharmaceuticals",
   "ECG": "Everus Construction Group",
   "REGN": "Regeneron Pharmaceuticals",
   "PTGX": "Protagonist Therapeutics",
@@ -8267,6 +8270,7 @@
   "GRAB": "Grab Holdings Limited",
   "PLTR": "Palantir Technologies",
   "CEG": "Constellation Energy",
+  "CRWD": "CrowdStrike Holdings",
   "PG": "The Procter & Gamble",
   "STZ": "Constellation Brands",
   "VOO": "Vanguard S&P 500 ETF",
