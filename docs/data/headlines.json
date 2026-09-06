@@ -1,8 +1,23 @@
 {
- "generated": "2026-09-06T22:02:35.265288+00:00",
+ "generated": "2026-09-06T22:07:16.919618+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8cde0e339945",
+   "title": "At least 5 killed in Amazon Prime Air cargo plane crash in Miami",
+   "link": "https://www.investing.com/news/stock-market-news/amazon-prime-air-boeing-767-overruns-runway-at-miami-airport-4890317",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-06T22:00:28+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
   {
    "id": "7b66ff46d575",
    "title": "AARD Investors Have Opportunity to Lead Aardvark Therapeutics, Inc. Securities Fraud Lawsuit",
@@ -30,6 +45,19 @@
    "tickers": [
     "AMZN"
    ]
+  },
+  {
+   "id": "19a9fd3186cf",
+   "title": "VW's CEO just survived the fight that sank his predecessors",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vws-ceo-just-survived-fight-214700774.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-06T21:47:00+00:00",
+   "tickers": []
   },
   {
    "id": "303ef7cd34a9",
@@ -168,21 +196,6 @@
    ]
   },
   {
-   "id": "8cde0e339945",
-   "title": "Amazon Prime Air cargo jet crashes at Miami airport",
-   "link": "https://www.investing.com/news/stock-market-news/amazon-prime-air-boeing-767-overruns-runway-at-miami-airport-4890317",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-06T21:18:25+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
    "id": "adfe30343dbf",
    "title": "Goldman sees Cybercab giving Tesla a cost advantage in robotaxis",
    "link": "https://www.investing.com/news/stock-market-news/goldman-sees-cybercab-giving-tesla-a-cost-advantage-in-robotaxis-4890319",
@@ -295,6 +308,19 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "marketwatch.com",
+   "published": "2026-09-06T21:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ba8ba0c550f1",
+   "title": "Oil Majors Seek Bigger Bargaining Power in Labor Disputes",
+   "link": "https://finance.yahoo.com/energy/articles/oil-majors-seek-bigger-bargaining-210000743.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
    "published": "2026-09-06T21:00:00+00:00",
    "tickers": []
   },
@@ -8215,34 +8241,6 @@
    "tickers": [
     "JEF"
    ]
-  },
-  {
-   "id": "8aeef7f1806e",
-   "title": "Masked protesters block Dover port roads",
-   "link": "https://www.ft.com/content/53751b68-5af6-42ec-9d93-bf3daee6acdd?syn-25a6b1a6=1",
-   "summary": "Port operator says services back to normal after ‘public order incident’ affected ‘all routes in and out’",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-09-05T15:30:29+00:00",
-   "tickers": [
-    "DOV"
-   ]
-  },
-  {
-   "id": "b43500112464",
-   "title": "Why Nvidia Is Making a $3.5 Billion Bet on Taiwan-Based MediaTek",
-   "link": "https://finance.yahoo.com/technology/ai/articles/why-nvidia-making-3-5-153002479.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-05T15:30:02+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8393,7 +8391,6 @@
   "RDDT": "Reddit",
   "RMD": "ResMed",
   "AGX": "Argan",
-  "DOV": "Dover",
   "INTC": "Intel",
   "KKR": "KKR &",
   "DAVE": "Dave",
