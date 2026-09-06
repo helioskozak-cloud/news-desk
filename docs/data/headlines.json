@@ -1,19 +1,34 @@
 {
- "generated": "2026-09-06T20:27:02.836059+00:00",
+ "generated": "2026-09-06T20:32:04.487601+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
   {
+   "id": "aab4657e999d",
+   "title": "Amazon cargo jet overruns runway at Miami airport, halting flights",
+   "link": "https://seekingalpha.com/news/4640531-amazon-cargo-jet-overruns-runway-at-miami-airport-halting-flights?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-06T20:26:22+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
    "id": "efa37416853d",
-   "title": "Amazon cargo plane overruns runway, closing Miami airport on busy holiday weekend",
+   "title": "Amazon cargo plane crashes after overrunning runway, closing Miami airport on busy holiday weekend",
    "link": "https://www.cnbc.com/2026/09/06/amazon-cargo-plane-overrunns-runway-at-miami-international-airport.html",
    "summary": "An Amazon cargo plane overshot a runway at Miami International Airport on Sunday, pausing flights at the busy travel hub.",
    "source": "CNBC Top",
    "category": "markets",
    "type": "markets",
-   "sentiment": "neutral",
+   "sentiment": "negative",
    "domain": "cnbc.com",
-   "published": "2026-09-06T20:24:59+00:00",
+   "published": "2026-09-06T20:25:57+00:00",
    "tickers": [
     "AMZN"
    ]
@@ -56,6 +71,19 @@
    "type": "press",
    "sentiment": "neutral",
    "domain": "prnewswire.com",
+   "published": "2026-09-06T20:08:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7a15f28229d3",
+   "title": "If You'd Invested $1,000 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/youd-invested-1-000-bitcoin-200800176.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
    "published": "2026-09-06T20:08:00+00:00",
    "tickers": []
   },
@@ -1575,7 +1603,7 @@
    "title": "Bronstein, Gewirtz &amp; Grossman LLC Urges York Space Systems, Inc. Investors to Act: Class Action Filed Alleging Investor Harm",
    "link": "https://www.prnewswire.com/news-releases/bronstein-gewirtz--grossman-llc-urges-york-space-systems-inc-investors-to-act-class-action-filed-alleging-investor-harm-302869696.html",
    "summary": "NEW YORK, Sept. 6, 2026 /PRNewswire/ -- Bronstein, Gewirtz & Grossman, LLC, a nationally recognized investor-rights law firm, announces that a class action lawsuit has been filed against York Space Systems, Inc. (NYSE: YSS) and certain of its officers. This lawsuit seeks to recover...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1588,7 +1616,7 @@
    "title": "Bronstein, Gewirtz &amp; Grossman LLC Urges Hims &amp; Hers Health, Inc. Investors to Act: Class Action Filed Alleging Investor Harm",
    "link": "https://www.prnewswire.com/news-releases/bronstein-gewirtz--grossman-llc-urges-hims--hers-health-inc-investors-to-act-class-action-filed-alleging-investor-harm-302869689.html",
    "summary": "NEW YORK, Sept. 6, 2026 /PRNewswire/ -- Bronstein, Gewirtz & Grossman, LLC, a nationally recognized investor-rights law firm, announces that a class action lawsuit has been filed against Hims & Hers Health, Inc. (NYSE: HIMS) and certain of its officers. This lawsuit seeks to recover...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8217,35 +8245,6 @@
    "tickers": [
     "USAR"
    ]
-  },
-  {
-   "id": "984faf946055",
-   "title": "The Most Divided Fed In A Decade Is About To Vote",
-   "link": "https://seekingalpha.com/article/4943369-the-most-divided-fed-in-a-decade-is-about-to-vote?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-05T14:49:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "79aebd29c1ce",
-   "title": "This is a test from PRN Test - 789",
-   "link": "https://www.prnewswire.com/news-releases/this-is-a-test-from-prn-test---789-302870680.html",
-   "summary": "This is a test subheadline. This is a test from PRN Test CLEVELAND, Sept. 5, 2026 /PRNewswire/ -- THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG'S TAIL This is a test from PRN Test The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-05T14:49:00+00:00",
-   "tickers": [
-    "FOX",
-    "DOG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8271,7 +8270,6 @@
   "VZ": "Verizon Communications",
   "WBD": "Warner Bros. Discovery",
   "CWST": "Casella Waste Systems",
-  "DOG": "ProShares Short Dow30",
   "GRAB": "Grab Holdings Limited",
   "PLTR": "Palantir Technologies",
   "CEG": "Constellation Energy",
@@ -8374,7 +8372,6 @@
   "ILMN": "Illumina",
   "SATS": "EchoStar",
   "TTC": "The Toro",
-  "FOX": "Fox Corp",
   "BLSH": "Bullish",
   "BPOP": "Popular",
   "CVX": "Chevron",
