@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-06T20:42:06.275224+00:00",
+ "generated": "2026-09-06T20:47:19.493816+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "efa37416853d",
+   "title": "Amazon cargo plane crashes after overrunning runway, closing Miami airport on busy holiday weekend",
+   "link": "https://www.cnbc.com/2026/09/06/amazon-cargo-plane-overrunns-runway-at-miami-international-airport.html",
+   "summary": "An Amazon cargo plane overshot a runway at Miami International Airport on Sunday, pausing flights at the busy travel hub.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-09-06T20:43:12+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "cda348224c93",
+   "title": "Wall Street Brunch: Make Or Break Inflation For The Fed",
+   "link": "https://seekingalpha.com/article/4943443-wall-street-brunch-make-or-break-inflation-for-the-fed?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-06T20:41:17+00:00",
+   "tickers": []
+  },
   {
    "id": "f28ad05132d5",
    "title": "Cargo Plane Crashes at Miami Airport, Striking Vehicles",
@@ -47,21 +75,6 @@
    ]
   },
   {
-   "id": "efa37416853d",
-   "title": "Amazon cargo plane crashes after overrunning runway, closing Miami airport on busy holiday weekend",
-   "link": "https://www.cnbc.com/2026/09/06/amazon-cargo-plane-overrunns-runway-at-miami-international-airport.html",
-   "summary": "An Amazon cargo plane overshot a runway at Miami International Airport on Sunday, pausing flights at the busy travel hub.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-09-06T20:25:57+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
    "id": "f4e9f989d1bb",
    "title": "Meet the Dirt Cheap 6.4%-Yielding Dividend Stock That's Beating the Market in 2026",
    "link": "https://finance.yahoo.com/markets/stocks/articles/meet-dirt-cheap-6-4-202500180.html",
@@ -101,6 +114,21 @@
    "domain": "cnbc.com",
    "published": "2026-09-06T20:22:03+00:00",
    "tickers": []
+  },
+  {
+   "id": "71ff1e977134",
+   "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-06T20:21:05+00:00",
+   "tickers": [
+    "NVDA"
+   ]
   },
   {
    "id": "24b16f221b3a",
@@ -8219,34 +8247,6 @@
    "tickers": [
     "DE"
    ]
-  },
-  {
-   "id": "00be683771f9",
-   "title": "Oil ends week higher on renewed US-Iran strikes, diesel hits record",
-   "link": "https://www.investing.com/news/commodities-news/oil-prices-set-for-weekly-gain-as-usiran-hostilities-intensify-4888883",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-05T14:54:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5d1d5ea7448a",
-   "title": "WIX Deadline: WIX Investors with Losses in Excess of $100K Have Opportunity to Lead Wix.com Ltd. Securities Fraud Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/wix-deadline-wix-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-wixcom-ltd-securities-fraud-lawsuit-302870464.html",
-   "summary": "NEW YORK, Sept. 5, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Wix.com Ltd. (NASDAQ: WIX) between February 19, 2025 and May 12, 2026, inclusive (the \"Class Period\"), of the important September 22, 2026 lead plaintiff...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-09-05T14:54:00+00:00",
-   "tickers": [
-    "WIX"
-   ]
   }
  ],
  "ticker_names": {
@@ -8383,7 +8383,6 @@
   "PEP": "PepsiCo",
   "SCI": "Service",
   "SNDK": "Sandisk",
-  "WIX": "Wix.com",
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "ZS": "Zscaler",
