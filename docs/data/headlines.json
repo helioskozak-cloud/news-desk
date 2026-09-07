@@ -1,8 +1,37 @@
 {
- "generated": "2026-09-07T06:27:21.438072+00:00",
+ "generated": "2026-09-07T06:32:25.001628+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "946171eef638",
+   "title": "Asia-Pacific markets rise as investors assess renewed Middle East hostilities",
+   "link": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
+   "summary": "Asia-Pacific markets open broadly higher on Monday, after they closed mostly in the green from the last trading session on Friday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-07T06:28:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "004260489ff2",
+   "title": "Novartis India inks $132M asset purchase deal with Pfizer for Minipress brands",
+   "link": "https://seekingalpha.com/news/4640545-novartis-india-inks-132m-asset-purchase-deal-with-pfizer-for-minipress-brands?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-07T06:24:09+00:00",
+   "tickers": [
+    "NVS",
+    "PFE"
+   ]
+  },
   {
    "id": "2b5008826314",
    "title": "Papua New Guinea: TotalEnergies Takes Decisive Steps Towards Final Investment Decision on Papua LNG | TTE Stock News",
@@ -1230,19 +1259,6 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-09-07T05:00:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "946171eef638",
-   "title": "Asia-Pacific markets rise as investors assess renewed Middle East hostilities",
-   "link": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
-   "summary": "Asia-Pacific markets open broadly higher on Monday, after they closed mostly in the green from the last trading session on Friday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-07T05:00:00+00:00",
    "tickers": []
   },
   {
@@ -8181,19 +8197,6 @@
    "tickers": [
     "AAPL"
    ]
-  },
-  {
-   "id": "d4199e6febd8",
-   "title": "How the UK can stop accidentally exporting its best tech start-ups",
-   "link": "https://www.ft.com/content/354ef76f-6a68-4e19-ab2d-7a6853170725?syn-25a6b1a6=1",
-   "summary": "Better give start-ups reasons to stay than make it harder to leave",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-09-06T04:00:20+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8277,6 +8280,7 @@
   "BYD": "Boyd Gaming",
   "CAT": "Caterpillar",
   "FSLR": "First Solar",
+  "NVS": "Novartis AG",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BA": "The Boeing",
@@ -8322,6 +8326,7 @@
   "BRKR": "Bruker",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
+  "PFE": "Pfizer",
   "RDDT": "Reddit",
   "RMD": "ResMed",
   "AGX": "Argan",
