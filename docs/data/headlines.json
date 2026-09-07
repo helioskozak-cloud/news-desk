@@ -1,8 +1,23 @@
 {
- "generated": "2026-09-07T18:57:03.517963+00:00",
+ "generated": "2026-09-07T19:02:07.349323+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "04a1073da4eb",
+   "title": "The Heart Drug Pelacarsen Fails, Shocking Novartis and Cardiologists",
+   "link": "https://www.nytimes.com/2026/09/04/science/heart-drug-fails-novartis-pelacarsen.html",
+   "summary": "Doctors were hopeful the drug, which was being tested in a large clinical trial by Novartis, was going to be a powerful new tool to fight heart disease.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-07T18:55:43+00:00",
+   "tickers": [
+    "NVS"
+   ]
+  },
   {
    "id": "02661423df86",
    "title": "Diamond Hill Short Duration Securitized Bond Strategy Q2 2026 Commentary",
@@ -949,9 +964,9 @@
    "title": "Pricey oil is laying the groundwork for its own decline",
    "link": "https://www.ft.com/content/f7f164ea-83eb-44d6-93e5-ecec8b2648d9?syn-25a6b1a6=1",
    "summary": "Crude is helping to make clean technologies more competitive",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-09-07T17:17:50+00:00",
@@ -7869,6 +7884,19 @@
    ]
   },
   {
+   "id": "dd48c997e75f",
+   "title": "CNBC Points Pro: I love United Airlines. Which credit card should I get next?",
+   "link": "https://www.cnbc.com/select/which-credit-card-should-i-get-next/",
+   "summary": "Points expert Jason Stauffer helps a reader decide which credit card to get next.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-07T12:00:01+00:00",
+   "tickers": []
+  },
+  {
    "id": "517561679dcb",
    "title": "The Ultimate SWAN Investment: Why Retirees Should Own Net Lease REITs",
    "link": "https://seekingalpha.com/article/4943528-the-ultimate-swan-investment-why-retirees-should-own-net-lease-reits?source=feed_all_articles",
@@ -8188,34 +8216,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "9ae953344f9a",
-   "title": "The Stock Market Has Not Been This Expensive Since the Dot-com Bubble's Peak. History Says to Prepare for What Might Come Next.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-not-expensive-since-115000431.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-07T11:50:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "815a33752c45",
-   "title": "Tesla vs SpaceX: Elon Musk’s Two Companies Are Chasing the Same AI Prize. Only One Is Positioned to Win It",
-   "link": "https://finance.yahoo.com/technology/ai/articles/tesla-vs-spacex-elon-musk-114959693.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-07T11:49:59+00:00",
-   "tickers": [
-    "TSLA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8298,6 +8298,7 @@
   "AGI": "Alamos Gold",
   "CAT": "Caterpillar",
   "FSLR": "First Solar",
+  "NVS": "Novartis AG",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
