@@ -1,8 +1,49 @@
 {
- "generated": "2026-09-07T00:22:01.713633+00:00",
+ "generated": "2026-09-07T00:27:09.766322+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "946171eef638",
+   "title": "Asia-Pacific markets open higher as investors assess renewed Middle East hostilities",
+   "link": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
+   "summary": "Asia-Pacific markets open broadly higher on Monday, after they closed mostly in the green from the last trading session on Friday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-07T00:20:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f523e6b6c621",
+   "title": "Oil extends gains after US and Iran strike ships",
+   "link": "https://www.investing.com/news/commodities-news/oil-extends-gains-after-us-and-iran-strike-ships-4890330",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-07T00:18:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "833e50474fef",
+   "title": "Nvidia’s Huang says ‘AGI has arrived’ after OpenAI’s GPT-6 Astra launch",
+   "link": "https://www.investing.com/news/stock-market-news/nvidias-huang-says-agi-has-arrived-after-openais-gpt6-astra-launch-4890329",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-07T00:16:58+00:00",
+   "tickers": [
+    "AGI"
+   ]
+  },
   {
    "id": "6e19be971323",
    "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
@@ -14,19 +55,6 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-09-07T00:06:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "946171eef638",
-   "title": "Asia-Pacific markets set to open mixed as Middle East worries dent sentiment",
-   "link": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
-   "summary": "Asia-Pacific markets were set to open broadly higher on Monday, after they closed mostly in the green from the last trading session on Friday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-07T00:01:31+00:00",
    "tickers": []
   },
   {
@@ -8234,32 +8262,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-05T17:00:24+00:00",
    "tickers": []
-  },
-  {
-   "id": "a9db8e9eeb62",
-   "title": "4 Retirement Rules Boomers Followed That No Longer Work for Gen Z",
-   "link": "https://finance.yahoo.com/markets/articles/4-retirement-rules-boomers-followed-170024653.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-05T17:00:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c0c6222ab463",
-   "title": "7 Unusual Ways Millennials Actually Make Extra Money",
-   "link": "https://finance.yahoo.com/small-business/articles/7-unusual-ways-millennials-actually-170023364.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-05T17:00:23+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8358,6 +8360,7 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
+  "AGI": "Alamos Gold",
   "CAT": "Caterpillar",
   "FSLR": "First Solar",
   "NVS": "Novartis AG",
