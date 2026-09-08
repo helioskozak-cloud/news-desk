@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T08:52:09.748010+00:00",
+ "generated": "2026-09-08T08:57:21.674062+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -339,6 +339,22 @@
    "domain": "investing.com",
    "published": "2026-09-08T08:32:45+00:00",
    "tickers": []
+  },
+  {
+   "id": "46d527470318",
+   "title": "TSMC, Samsung commit to ASML’s newest chipmaking tools as AI drives demand",
+   "link": "https://www.cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html",
+   "summary": "TSMC and Samsung will adopt ASML’s High NA EUV tools for advanced chipmaking as AI drives demand for smaller, more complex semiconductors.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-08T08:32:02+00:00",
+   "tickers": [
+    "ASML",
+    "TSM"
+   ]
   },
   {
    "id": "15efca8dd92f",
@@ -8177,21 +8193,6 @@
    "tickers": [
     "CASY"
    ]
-  },
-  {
-   "id": "9af42804b4e2",
-   "title": "GameStop Q2 2027 Earnings Preview",
-   "link": "https://seekingalpha.com/news/4640352-gamestop-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-07T21:35:00+00:00",
-   "tickers": [
-    "GME"
-   ]
   }
  ],
  "ticker_names": {
@@ -8273,7 +8274,6 @@
   "APH": "Amphenol",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
-  "GME": "GameStop",
   "LMND": "Lemonade",
   "MCK": "McKesson",
   "SATS": "EchoStar",
