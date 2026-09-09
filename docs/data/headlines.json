@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-09T19:52:27.241535+00:00",
+ "generated": "2026-09-09T19:57:20.308126+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ce7120168113",
+   "title": "Hunter Biden’s ‘Laptop’ Crypto Coin Plummets Upon Launching",
+   "link": "https://www.nytimes.com/2026/09/09/us/politics/hunter-biden-crypto-coin-laptop.html",
+   "summary": "The president’s son portrayed his memecoin as a symbol of redemption. Critics denounced it as hypocrisy.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-09T19:53:01+00:00",
+   "tickers": []
+  },
   {
    "id": "6fd916179e9c",
    "title": "Trump says oil and gas prices won't fall until 'right after' midterm election",
@@ -13,8 +26,24 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-09-09T19:50:08+00:00",
+   "published": "2026-09-09T19:52:11+00:00",
    "tickers": []
+  },
+  {
+   "id": "fcf953c86c21",
+   "title": "SLVP: The Debasement Trade Is Back, Turning Bullish On Silver Again (Upgrade)",
+   "link": "https://seekingalpha.com/article/4944606-slvp-the-debasement-trade-is-back-turning-bullish-on-silver-again-upgrade?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-09T19:51:51+00:00",
+   "tickers": [
+    "BLSH",
+    "SLVP"
+   ]
   },
   {
    "id": "8eb8d6dddc2d",
@@ -8546,36 +8575,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-09T16:23:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "ebcbc3edb258",
-   "title": "Comcast tumbles after Goldman conference flags broadband pressure",
-   "link": "https://seekingalpha.com/news/4641291-comcast-tumbles-after-goldman-conference-flags-broadband-pressure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-09T16:22:45+00:00",
-   "tickers": [
-    "CMCSA"
-   ]
-  },
-  {
-   "id": "b9bde7b9171c",
-   "title": "Braze earnings analysis: questions answered and next catalysts",
-   "link": "https://www.investing.com/news/stock-market-news/braze-earnings-analysis-questions-answered-and-next-catalysts-93CH-4894182",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-09T16:22:32+00:00",
-   "tickers": [
-    "BRZE"
-   ]
   }
  ],
  "ticker_names": {
@@ -8584,6 +8583,7 @@
   "CEF": "Sprott Physical Gold and Silver Trust Units",
   "GPIQ": "Goldman Sachs Nasdaq-100 Premium Income ETF",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
+  "SLVP": "iShares MSCI Global Silver Miners Fund",
   "JEPI": "JPMorgan Equity Premium Income ETF",
   "CHKP": "Check Point Software Technologies",
   "DB": "Deutsche Bank Aktiengesellschaft",
@@ -8747,6 +8747,7 @@
   "GOOG": "Alphabet",
   "SNAP": "Snapchat",
   "FOX": "Fox Corp",
+  "BLSH": "Bullish",
   "CMCSA": "Comcast",
   "CNC": "Centene",
   "DBX": "Dropbox",
@@ -8776,7 +8777,6 @@
   "PATH": "UiPath",
   "VST": "Vistra",
   "WAT": "Waters",
-  "BRZE": "Braze",
   "CHWY": "Chewy",
   "FDX": "FedEx",
   "FIG": "Figma",
