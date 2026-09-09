@@ -1,8 +1,51 @@
 {
- "generated": "2026-09-09T05:52:22.031407+00:00",
+ "generated": "2026-09-09T05:57:11.476791+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "86a96474a61e",
+   "title": "Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes",
+   "link": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
+   "summary": "The U.S. and Iran traded new attacks around the Strait of Hormuz, as President Donald Trump insists oil prices will drop fast once the Iran war ends.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-09T05:55:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9f5d281aff5b",
+   "title": "Casey's General Stores' Q1: Good Quarter, Tough Expectations",
+   "link": "https://seekingalpha.com/article/4944150-caseys-general-stores-q1-good-quarter-tough-expectations?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-09T05:50:52+00:00",
+   "tickers": [
+    "CASY"
+   ]
+  },
+  {
+   "id": "211920255a93",
+   "title": "Franklin Utilities Fund Q2 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4944163-franklin-utilities-fund-q2-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-09T05:50:00+00:00",
+   "tickers": [
+    "BEN"
+   ]
+  },
   {
    "id": "87894df33cee",
    "title": "Youlife Group, Inc. Announces Participation in the Skyline Signature Series Webinar",
@@ -239,7 +282,7 @@
    "title": "ZeroRisk raises $10 million to scale merchant cybersecurity platform",
    "link": "https://www.prnewswire.com/news-releases/zerorisk-raises-10-million-to-scale-merchant-cybersecurity-platform-302872558.html",
    "summary": "Funding will accelerate global expansion, product development and the deployment of ZeroRisk across major payment providers. ZeroRisk aims to dominate the emerging risk orchestration segment in the payment processing market. DUBLIN, Sept. 9, 2026 /PRNewswire/ -- ZeroRisk the Irish...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "upgrade",
    "sentiment": "positive",
@@ -510,19 +553,6 @@
    "tickers": []
   },
   {
-   "id": "7a629b9aa848",
-   "title": "Nikkei 225 stalls at 50% Fib under SMA cluster: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/nikkei-225-hits-200-sma-resistance-live-levels-93CH-4890337",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-09T05:06:14+00:00",
-   "tickers": []
-  },
-  {
    "id": "3b8beae5ecd0",
    "title": "Williams prices four-tranche $2.75B senior notes offering",
    "link": "https://seekingalpha.com/news/4641030-williams-prices-four-tranche-275b-senior-notes-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -609,7 +639,7 @@
    "title": "TerraPay Connects its Wallet Interoperability Network, Xend to Alipay+, Strengthening Global Payments Interoperability",
    "link": "https://www.prnewswire.com/news-releases/terrapay-connects-its-wallet-interoperability-network-xend-to-alipay-strengthening-global-payments-interoperability-302872676.html",
    "summary": "DUBAI, UAE, Sept. 9, 2026 /PRNewswire/ -- TerraPay, a global money movement company, and Alipay+, Ant International's unified wallet gateway, today announced a strategic partnership to enable seamless cross-border QR payments for digital wallets, significantly enhancing global payments...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -984,7 +1014,7 @@
    "title": "ZeroRisk sammelt 10 Millionen Dollar ein, um seine Cybersicherheitsplattform für Händler auszubauen",
    "link": "https://www.prnewswire.com/news-releases/zerorisk-sammelt-10-millionen-dollar-ein-um-seine-cybersicherheitsplattform-fur-handler-auszubauen-302873018.html",
    "summary": "Die Finanzierungsrunde wird die weltweite Expansion, die Produktentwicklung und die Einführung von ZeroRisk bei den wichtigsten Zahlungsanbietern beschleunigen. ZeroRisk hat sich zum Ziel gesetzt, das aufstrebende Segment der Risiko-Orchestrierung im Markt für Zahlungsabwicklung zu...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1365,8 +1395,8 @@
    "title": "Asian stocks mixed as chip rally offsets oil-fueled inflation concerns",
    "link": "https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-chip-rally-offsets-oilfueled-inflation-concerns-4892696",
    "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
+   "source": "Investing Stock",
+   "category": "stocks",
    "type": "macro",
    "sentiment": "positive",
    "domain": "investing.com",
@@ -1436,7 +1466,7 @@
    "title": "Accels Launches to Power the AI Token Economy",
    "link": "https://www.prnewswire.com/news-releases/accels-launches-to-power-the-ai-token-economy-302873147.html",
    "summary": "SINGAPORE, Sept. 8, 2026 /PRNewswire/ -- Accels today announced its launch, with a vision to accelerate the growth of the agentic economy. Accels brings together AI infrastructure and financial services into a single platform built for how AI agents actually operate, spend, and grow. A...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -1540,19 +1570,6 @@
    "tickers": [
     "SCI"
    ]
-  },
-  {
-   "id": "86a96474a61e",
-   "title": "Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes",
-   "link": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-   "summary": "The U.S. and Iran traded new attacks around the Strait of Hormuz, as President Donald Trump insists oil prices will drop fast once the Iran war ends.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-09T03:23:06+00:00",
-   "tickers": []
   },
   {
    "id": "1cc76f3232e9",
@@ -2987,6 +3004,19 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-09-09T01:07:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7a629b9aa848",
+   "title": "Nikkei 225 trapped in 64,000-66,500 range: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/nikkei-225-hits-200-sma-resistance-live-levels-93CH-4890337",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-09T01:06:33+00:00",
    "tickers": []
   },
   {
@@ -8506,37 +8536,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "1517dde040a0",
-   "title": "GE Aerospace's Big Move Is Risky",
-   "link": "https://seekingalpha.com/article/4944036-ge-aerospace-big-move-is-risky?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-08T20:38:40+00:00",
-   "tickers": [
-    "GE"
-   ]
-  },
-  {
-   "id": "92d6bc8d0414",
-   "title": "BJ’s Restaurants at Barclays conference: reset gains traction",
-   "link": "https://www.investing.com/news/transcripts/bjs-restaurants-at-barclays-conference-reset-gains-traction-93CH-4892441",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-08T20:38:26+00:00",
-   "tickers": [
-    "BCS",
-    "BJ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8557,6 +8556,7 @@
   "PFG": "Principal Financial Group",
   "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
+  "CASY": "Casey's General Stores",
   "CMG": "Chipotle Mexican Grill",
   "CRSP": "CRISPR Therapeutics AG",
   "LOGI": "Logitech International",
@@ -8577,6 +8577,7 @@
   "IP": "International Paper",
   "LULU": "lululemon athletica",
   "VSNT": "Versant Media Group",
+  "BEN": "Franklin Resources",
   "BOOT": "Boot Barn Holdings",
   "BRK-A": "Berkshire Hathaway",
   "CNP": "CenterPoint Energy",
@@ -8602,7 +8603,6 @@
   "THC": "Tenet Healthcare",
   "UPST": "Upstart Holdings",
   "URBN": "Urban Outfitters",
-  "GE": "General Electric",
   "AFRM": "Affirm Holdings",
   "ARES": "Ares Management",
   "BG": "Bunge Global SA",
