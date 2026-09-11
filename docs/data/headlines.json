@@ -1,8 +1,37 @@
 {
- "generated": "2026-09-11T01:37:01.938549+00:00",
+ "generated": "2026-09-11T01:42:15.556879+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "60ae5d31fe1a",
+   "title": "Y Combinator’s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
+   "link": "https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html",
+   "summary": "At Y Combinator’s annual Demo Day, CEO Garry Tan explained why he's less concerned about frontier AI model distillation and the existential risk of AI.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-11T01:37:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f3cb860abacb",
+   "title": "BILL Holdings, Inc. (BILL) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
+   "link": "https://seekingalpha.com/article/4945328-bill-holdings-inc-bill-presents-at-goldman-sachs-communacopia-technology-conference-2026?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-11T01:37:04+00:00",
+   "tickers": [
+    "BILL",
+    "GS"
+   ]
+  },
   {
    "id": "43f98a53231a",
    "title": "BellRing Investor News: Rosen Law Firm Announces Investigation of Breaches of Fiduciary Duties by the Directors and Officers of BellRing Brands, Inc. - BRBR",
@@ -139,6 +168,19 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-09-11T01:17:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "90a9a950dc4d",
+   "title": "OpenAI’s Altman considers slowing AI development amid safety concerns- Bloomberg",
+   "link": "https://www.investing.com/news/stock-market-news/openais-altman-considers-slowing-ai-development-amid-safety-concerns-bloomberg-4897152",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-11T01:17:48+00:00",
    "tickers": []
   },
   {
@@ -8508,52 +8550,6 @@
    "tickers": [
     "STLA"
    ]
-  },
-  {
-   "id": "d76b2637f8dd",
-   "title": "Whitehawk Therapeutics Appoints Vijay Iyengar, MD, to Board of Directors",
-   "link": "https://www.prnewswire.com/news-releases/whitehawk-therapeutics-appoints-vijay-iyengar-md-to-board-of-directors-302875492.html",
-   "summary": "Former Incyte Executive Brings Extensive Oncology, Corporate Strategy, Business Development and Medical Affairs Experience MORRISTOWN, N.J., Sept. 10, 2026 /PRNewswire/ -- Whitehawk Therapeutics, Inc. (Nasdaq: WHWK), a clinical-stage oncology therapeutics company applying advanced...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-10T20:05:00+00:00",
-   "tickers": [
-    "MSTR",
-    "INCY",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "f71c0710f4cd",
-   "title": "Domino's® Announces Q3 2026 Earnings Webcast",
-   "link": "https://www.prnewswire.com/news-releases/dominos-announces-q3-2026-earnings-webcast-302875721.html",
-   "summary": "ANN ARBOR, Mich., Sept. 10, 2026 /PRNewswire/ -- Domino's Pizza, Inc. (Nasdaq: DPZ) announces the following event: What: Domino's Third Quarter 2026 Earnings Webcast When: Tuesday, October 13 at 8:30 a.m. ET Where: ir.dominos.com How: Live webcast (web address above) Contact: Greg...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-10T20:05:00+00:00",
-   "tickers": [
-    "DPZ",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "a18bbc39a741",
-   "title": "Shoulder Innovations Receives FDA 510(k) Clearance for N-22 Humeral Head and Initiates Full Commercial Launch",
-   "link": "https://www.prnewswire.com/news-releases/shoulder-innovations-receives-fda-510k-clearance-for-n-22-humeral-head-and-initiates-full-commercial-launch-302875703.html",
-   "summary": "Second Product Introduction on New Line of Technologies for Metal-Sensitive Patients GRAND RAPIDS, Mich., Sept. 10, 2026 /PRNewswire/ -- Shoulder Innovations, Inc. (\"Shoulder Innovations\", or \"the company\") (NYSE: SI), a commercial-stage medical technology company exclusively focused on...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-10T20:05:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8630,10 +8626,10 @@
   "TRI": "Thomson Reuters",
   "VIK": "Viking Holdings",
   "AMT": "American Tower",
-  "DPZ": "Domino's Pizza",
   "META": "Meta Platforms",
   "MTH": "Meritage Homes",
   "AVAV": "AeroVironment",
+  "BILL": "BILL Holdings",
   "FHN": "First Horizon",
   "WFC": "Wells Fargo &",
   "WRB": "W. R. Berkley",
@@ -8685,7 +8681,6 @@
   "CPRT": "Copart",
   "DXCM": "DexCom",
   "FISV": "Fiserv",
-  "INCY": "Incyte",
   "INTU": "Intuit",
   "M": "Macy's",
   "NDAQ": "Nasdaq",
