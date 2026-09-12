@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T18:11:59.392986+00:00",
+ "generated": "2026-09-12T18:17:21.444474+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -27,6 +27,19 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-09-12T18:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6ca5ac0f324c",
+   "title": "Jim Cramer Doubles Down on This $252B AI Stock: “You Have to Buy” Every Dip",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doubles-down-252b-175653335.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T17:56:53+00:00",
    "tickers": []
   },
   {
@@ -70,6 +83,22 @@
    "domain": "prnewswire.com",
    "published": "2026-09-12T17:50:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "f2df48e1e148",
+   "title": "Kimberly-Clark’s 54-Year Dividend Streak Faces Its Biggest Test Yet With $48.7 Billion Kenvue Deal",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/kimberly-clark-54-dividend-streak-174911450.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T17:49:11+00:00",
+   "tickers": [
+    "KMB",
+    "KVUE"
+   ]
   },
   {
    "id": "5ce1f2ca8453",
@@ -8225,34 +8254,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-11T21:44:10+00:00",
    "tickers": []
-  },
-  {
-   "id": "51db96bb279b",
-   "title": "Subsea 7: With Saipem Merger, This Infrastructure Provider May Be Interesting",
-   "link": "https://seekingalpha.com/article/4945656-subsea-7-with-saipem-merger-infrastructure-provider-may-be-interesting?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T21:42:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4ecd00249e73",
-   "title": "Oracle reveals $700M in additional restructuring costs tied to layoffs",
-   "link": "https://seekingalpha.com/news/4642249-oracle-reveals-700m-in-additional-restructuring-costs-tied-to-layoffs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T21:41:55+00:00",
-   "tickers": [
-    "ORCL"
-   ]
   }
  ],
  "ticker_names": {
@@ -8334,6 +8335,7 @@
   "DG": "Dollar General",
   "GM": "General Motors",
   "HD": "The Home Depot",
+  "KMB": "Kimberly-Clark",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "MTH": "Meritage Homes",
@@ -8401,6 +8403,7 @@
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "ZS": "Zscaler",
+  "KVUE": "Kenvue",
   "NDAQ": "Nasdaq",
   "NTRA": "Natera",
   "ORCL": "Oracle",
