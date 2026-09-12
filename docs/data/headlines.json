@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-12T14:31:54.930585+00:00",
+ "generated": "2026-09-12T14:37:15.909240+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0e3b7118b23e",
+   "title": "Managers are using AI for one of work's toughest tasks: Difficult employee conversations",
+   "link": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
+   "summary": "AI tools let managers rehearse difficult conversations about performance, pay and layoffs, but experts say privacy safeguards and human judgment are essential.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-12T14:32:08+00:00",
+   "tickers": []
+  },
   {
    "id": "6777b785d89b",
    "title": "ADC Therapeutics SA (ADCT) Presents at 12th Annual Cantor Fitzgerald Global Healthcare Conference - Slideshow",
@@ -45,19 +58,6 @@
    "tickers": []
   },
   {
-   "id": "0e3b7118b23e",
-   "title": "Your manager may be talking to AI about your pay and performance",
-   "link": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
-   "summary": "AI tools let managers rehearse difficult conversations about performance, pay and layoffs, but experts say privacy safeguards and human judgment are essential.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-12T14:27:53+00:00",
-   "tickers": []
-  },
-  {
    "id": "c96aa560eef9",
    "title": "Ajman Department of Tourism, Culture &amp; Media Showcases Emirate's Tourism Offerings at Arabian Travel Market 2026",
    "link": "https://www.prnewswire.com/news-releases/ajman-department-of-tourism-culture--media-showcases-emirates-tourism-offerings-at-arabian-travel-market-2026-302876861.html",
@@ -69,6 +69,34 @@
    "domain": "prnewswire.com",
    "published": "2026-09-12T14:25:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "080c385bfc7f",
+   "title": "The Tax Math That Makes These Dividend Stocks Worth Much More Inside a Roth",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tax-math-makes-dividend-stocks-141758936.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T14:17:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c2766de77b25",
+   "title": "Starbucks CEO: “The Shine Is Back.” Should You Buy After the Stock’s 30% Jump?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-ceo-shine-back-buy-141510448.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T14:15:10+00:00",
+   "tickers": [
+    "SBUX"
+   ]
   },
   {
    "id": "08b2cfcf32a8",
@@ -8240,34 +8268,6 @@
    "domain": "prnewswire.com",
    "published": "2026-09-11T20:30:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "9ef94b24535a",
-   "title": "Interim results for the six months ended June 30, 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/09/11/3360518/0/en/interim-results-for-the-six-months-ended-june-30-2026.html",
-   "summary": "September 11, 2026",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-11T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d2f199c7d723",
-   "title": "FRO – Declares special one-time dividend after sale of two VLLCs",
-   "link": "https://www.globenewswire.com/news-release/2026/09/11/3360519/0/en/fro-declares-special-one-time-dividend-after-sale-of-two-vllcs.html",
-   "summary": "Frontline plc (the “Company” or “Frontline”) (NYSE: FRO – OSE: FRO) refers to its announcement on August 4, 2026 regarding the sale of two VLCCs. Following the completion of the sale of the two VLCCs, the Board of Directors has declared a special one-time dividend of $0.80 per share, in line with Frontline’s core strategy of returning cash to our shareholders. The special one-time dividend comes in addition to the previously declared dividend of $2.61 per share for the second quarter of 2026.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "globenewswire.com",
-   "published": "2026-09-11T20:30:00+00:00",
-   "tickers": [
-    "FRO"
-   ]
   }
  ],
  "ticker_names": {
@@ -8378,7 +8378,7 @@
   "DE": "John Deere",
   "BC": "Brunswick",
   "C": "Citigroup",
-  "FRO": "Frontline",
+  "SBUX": "Starbucks",
   "ADBE": "Photoshop",
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
