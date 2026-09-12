@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-12T16:02:20.505220+00:00",
+ "generated": "2026-09-12T16:07:19.174701+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "77079eb92c4f",
+   "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+   "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+   "summary": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "marketwatch.com",
+   "published": "2026-09-12T16:01:00+00:00",
+   "tickers": []
+  },
   {
    "id": "f29f2c9cfa1f",
    "title": "CBRE, BXP among real estate losers; Host Hotels & Resorts, Fermi in gainers",
@@ -48,6 +61,21 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-12T15:48:15+00:00",
    "tickers": []
+  },
+  {
+   "id": "46a0dac5babe",
+   "title": "Should You Buy Archer Aviation Stock While It's Below $6?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-archer-aviation-stock-while-154500657.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T15:45:00+00:00",
+   "tickers": [
+    "ACHR"
+   ]
   },
   {
    "id": "2c5b60023b96",
@@ -2402,19 +2430,6 @@
     "F",
     "GM"
    ]
-  },
-  {
-   "id": "77079eb92c4f",
-   "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-   "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-   "summary": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "marketwatch.com",
-   "published": "2026-09-12T12:00:00+00:00",
-   "tickers": []
   },
   {
    "id": "a2811cea32b9",
@@ -8259,21 +8274,6 @@
    "tickers": [
     "PRIM"
    ]
-  },
-  {
-   "id": "8c83efe779ff",
-   "title": "Goldman Sachs, BofA compete for Anthropic employee wealth management - Bloomberg",
-   "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-bofa-compete-for-anthropic-employee-wealth-management--bloomberg-93CH-4898448",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-11T20:54:32+00:00",
-   "tickers": [
-    "GS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8341,6 +8341,7 @@
   "NOC": "Northrop Grumman",
   "OWL": "Blue Owl Capital",
   "PTCT": "PTC Therapeutics",
+  "ACHR": "Archer Aviation",
   "BAC": "Bank of America",
   "EXP": "Eagle Materials",
   "HBM": "Hudbay Minerals",
