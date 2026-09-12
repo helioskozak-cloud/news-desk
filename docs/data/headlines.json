@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T23:31:53.498963+00:00",
+ "generated": "2026-09-12T23:37:14.845570+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -47,6 +47,19 @@
    ]
   },
   {
+   "id": "35fdbc8a52f1",
+   "title": "China just launched a $19,170 electric vehicle",
+   "link": "https://finance.yahoo.com/technology/articles/china-just-launched-19-170-231700387.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T23:17:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "b3dee96629ea",
    "title": "THG Plc 2026 Q2 - Results - Earnings Call Presentation",
    "link": "https://seekingalpha.com/article/4945813-thg-plc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
@@ -88,6 +101,21 @@
    "tickers": [
     "PKG",
     "JEF"
+   ]
+  },
+  {
+   "id": "b876dad9152c",
+   "title": "LPL Financial Group Managing Director Sells 308 Shares for $110,100",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lpl-financial-group-managing-director-231501958.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T23:15:01+00:00",
+   "tickers": [
+    "LPLA"
    ]
   },
   {
@@ -8262,36 +8290,6 @@
    "domain": "investing.com",
    "published": "2026-09-11T23:45:54+00:00",
    "tickers": []
-  },
-  {
-   "id": "c1dbdf6af1ac",
-   "title": "Qualcomm EVP, CFO & COO Palkhiwala sells $457,129 in QCOM stock",
-   "link": "https://www.investing.com/news/insider-trading-news/qualcomm-evp-cfo--coo-palkhiwala-sells-457129-in-qcom-stock-93CH-4898563",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-11T23:45:50+00:00",
-   "tickers": [
-    "QCOM"
-   ]
-  },
-  {
-   "id": "748c9e0cd354",
-   "title": "Axe Compute Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
-   "link": "https://www.globenewswire.com/news-release/2026/09/11/3360561/37244/en/axe-compute-announces-inducement-grant-under-nasdaq-listing-rule-5635-c-4.html",
-   "summary": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-11T23:43:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8319,6 +8317,7 @@
   "CF": "CF Industries Holdings",
   "CHTR": "Charter Communications",
   "CMG": "Chipotle Mexican Grill",
+  "LPLA": "LPL Financial Holdings",
   "WBD": "Warner Bros. Discovery",
   "DKS": "DICK'S Sporting Goods",
   "GRAB": "Grab Holdings Limited",
@@ -8425,7 +8424,6 @@
   "PBF": "PBF Energy",
   "STLA": "Stellantis",
   "WT": "WisdomTree",
-  "QCOM": "Snapdragon",
   "DE": "John Deere",
   "C": "Citigroup",
   "DT": "Dynatrace",
