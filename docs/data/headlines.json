@@ -1,8 +1,37 @@
 {
- "generated": "2026-09-12T08:27:19.186186+00:00",
+ "generated": "2026-09-12T08:32:04.944115+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "82cc954b88f6",
+   "title": "Sharon Binnun sells $221,995 in Heritage Insurance stock",
+   "link": "https://www.investing.com/news/insider-trading-news/sharon-binnun-sells-221995-in-heritage-insurance-stock-93CH-4898636",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-12T08:16:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f2632ff66cc7",
+   "title": "PTC Therapeutics director Schmertzler sells $1.35m in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/ptc-therapeutics-director-schmertzler-sells-135m-in-stock-93CH-4898635",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-12T08:16:05+00:00",
+   "tickers": [
+    "PTCT",
+    "PTC"
+   ]
+  },
   {
    "id": "fa9d524c2d90",
    "title": "Viavi Solutions: Strong Profit Growth Makes Valuation More Attractive",
@@ -8352,34 +8381,6 @@
    "tickers": [
     "WST"
    ]
-  },
-  {
-   "id": "7fbf41987d8b",
-   "title": "Oklo stock hits 52-week low at 36.61 USD",
-   "link": "https://www.investing.com/news/company-news/oklo-stock-hits-52week-low-at-3661-usd-93CH-4898336",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-11T18:53:49+00:00",
-   "tickers": [
-    "OKLO"
-   ]
-  },
-  {
-   "id": "1c28719e9b41",
-   "title": "INV Investors Have Opportunity to Lead Innventure, Inc. Securities Fraud Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/inv-investors-have-opportunity-to-lead-innventure-inc-securities-fraud-lawsuit-302876554.html",
-   "summary": "NEW YORK, Sept. 11, 2026 /PRNewswire/ -- Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Innventure, Inc. (NASDAQ: INV) between November 17, 2025 and August 13, 2026, both dates inclusive (the \"Class Period\"), of the important October 27, 2026 lead...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-09-11T18:53:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8433,6 +8434,7 @@
   "BKNG": "Booking Holdings",
   "CELH": "Celsius Holdings",
   "NOC": "Northrop Grumman",
+  "PTCT": "PTC Therapeutics",
   "ARES": "Ares Management",
   "BAC": "Bank of America",
   "BSY": "Bentley Systems",
@@ -8510,7 +8512,6 @@
   "CHWY": "Chewy",
   "QRVO": "Qorvo",
   "BALL": "Ball",
-  "OKLO": "Oklo",
   "OLN": "Olin",
   "KLAC": "KLA"
  }
