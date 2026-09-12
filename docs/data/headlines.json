@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T17:51:59.479943+00:00",
+ "generated": "2026-09-12T17:57:05.609901+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,22 @@
    "domain": "prnewswire.com",
    "published": "2026-09-12T17:50:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "98a71563731f",
+   "title": "Chewy vs. MercadoLibre: Which E-Commerce Stock Is a Better Buy in 2026?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/chewy-vs-mercadolibre-e-commerce-173946743.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T17:39:46+00:00",
+   "tickers": [
+    "MELI",
+    "CHWY"
+   ]
   },
   {
    "id": "0e3b7118b23e",
@@ -41,6 +57,21 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-12T17:33:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "028eab2fcc7e",
+   "title": "Should You Ignore MP Materials and Buy This Rare-Earth Stock Instead?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ignore-mp-materials-buy-rare-173300735.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T17:33:00+00:00",
+   "tickers": [
+    "MP"
+   ]
   },
   {
    "id": "40c9e7fa0502",
@@ -8221,32 +8252,6 @@
    "tickers": [
     "WST"
    ]
-  },
-  {
-   "id": "18729652cb48",
-   "title": "Pan Global Engages Adelaide Capital for Investor Relations Advisory",
-   "link": "https://www.globenewswire.com/news-release/2026/09/11/3360538/0/en/pan-global-engages-adelaide-capital-for-investor-relations-advisory.html",
-   "summary": "VANCOUVER, British Columbia, Sept. 11, 2026 (GLOBE NEWSWIRE) -- Pan Global Resources Inc. (\"Pan Global\" or the \"Company\") (TSXV: PGZ; OTCQB: PGZFF; FRA: 2EU) is pleased to announce that it has entered into an investor relations agreement (the \"Agreement\") with Adelaide Capital Markets Inc. (\"Adelaide\"), a leading investor relations and capital markets advisory firm, to provide investor relations and consulting services to the Company.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-11T21:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dff40286d1a6",
-   "title": "How to Make Sense of Mayhem in the Bond Market",
-   "link": "https://www.nytimes.com/2026/09/11/business/bond-market-interest-rates.html",
-   "summary": "The stock market is easy to talk about. But bonds are a different story. Our columnist has some pointers to help make you a bond maven.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-11T21:33:56+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8342,6 +8347,8 @@
   "MSTR": "MicroStrategy",
   "ADC": "Agree Realty",
   "CYTK": "Cytokinetics",
+  "MELI": "MercadoLibre",
+  "MP": "MP Materials",
   "UBS": "UBS Group AG",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
@@ -8394,6 +8401,7 @@
   "NDAQ": "Nasdaq",
   "NTRA": "Natera",
   "ORCL": "Oracle",
+  "CHWY": "Chewy",
   "CIEN": "Ciena",
   "FRMI": "Fermi",
   "HUT": "Hut 8",
