@@ -1,8 +1,51 @@
 {
- "generated": "2026-09-12T12:47:20.887447+00:00",
+ "generated": "2026-09-12T12:52:01.204677+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2827a0e294f3",
+   "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+   "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+   "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-12T12:49:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fc25350f80a8",
+   "title": "Ciena: AI-Driven Networking Demand Supports The Buy Case",
+   "link": "https://seekingalpha.com/article/4945777-ciena-ai-driven-networking-demand-supports-the-buy-case?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-12T12:46:00+00:00",
+   "tickers": [
+    "CIEN"
+   ]
+  },
+  {
+   "id": "ba4ccb940068",
+   "title": "Bank of America says these stocks have more room to run, including one tech giant",
+   "link": "https://www.cnbc.com/2026/09/12/these-stocks-have-more-room-to-run-bank-of-america-says.html",
+   "summary": "Bank of America says there are several stocks that are too attractive to ignore.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-12T12:44:42+00:00",
+   "tickers": [
+    "BAC"
+   ]
+  },
   {
    "id": "02b86df8c692",
    "title": "Western Digital: Business Secured Through 2028, Price That Already Prices In A Lot Of The Story",
@@ -8290,49 +8333,6 @@
    "domain": "markets.businessinsider.com",
    "published": "2026-09-11T19:44:46+00:00",
    "tickers": []
-  },
-  {
-   "id": "bcf6dcb14ab1",
-   "title": "Village Super Market, Inc. Declares Quarterly Dividend",
-   "link": "https://www.globenewswire.com/news-release/2026/09/11/3360498/8155/en/village-super-market-inc-declares-quarterly-dividend.html",
-   "summary": "SPRINGFIELD, N.J., Sept. 11, 2026 (GLOBE NEWSWIRE) -- The Board of Directors of Village Super Market, Inc. (NSD:VLGEA) declared quarterly cash dividends of $0.25 per Class A common share and $0.1625 per Class B common share. The dividends will be payable on October 22, 2026 to shareholders of record at the close of business on October 1, 2026.",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-11T19:44:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5d6e69c3d63a",
-   "title": "Village Super Market, Inc. Declares Quarterly Dividend | VLGEA Stock News",
-   "link": "https://www.stocktitan.net/news/VLGEA/village-super-market-inc-declares-quarterly-owtikzqf78nz.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-11T19:44:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "ef750a3b5f69",
-   "title": "Dow, CF Industries slide as KeyBanc initiates chemical and agriculture stocks",
-   "link": "https://seekingalpha.com/news/4642190-dow-cf-industries-slide-as-keybanc-initiates-chemical-and-agriculture-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T19:43:14+00:00",
-   "tickers": [
-    "CF"
-   ]
   }
  ],
  "ticker_names": {
@@ -8352,7 +8352,6 @@
   "LTH": "Life Time Group Holdings",
   "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
-  "CF": "CF Industries Holdings",
   "CMG": "Chipotle Mexican Grill",
   "WBD": "Warner Bros. Discovery",
   "DKS": "DICK'S Sporting Goods",
@@ -8457,6 +8456,7 @@
   "NTRA": "Natera",
   "ORCL": "Oracle",
   "CHWY": "Chewy",
+  "CIEN": "Ciena",
   "QRVO": "Qorvo",
   "OLN": "Olin"
  }
