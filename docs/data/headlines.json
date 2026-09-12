@@ -1,8 +1,23 @@
 {
- "generated": "2026-09-12T11:22:18.541819+00:00",
+ "generated": "2026-09-12T11:27:16.828944+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f68dda41024c",
+   "title": "AstraZeneca: The $5 Billion Pipeline Hole Did Not Stay Open Long",
+   "link": "https://seekingalpha.com/article/4945762-astrazeneca-the-5-billion-pipeline-hole-did-not-stay-open-long?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-12T11:19:19+00:00",
+   "tickers": [
+    "AZN"
+   ]
+  },
   {
    "id": "91e14aea9a37",
    "title": "International Association for the Study of Lung Cancer Launches Complimentary IASLC Full Membership for Eligible Countries to Expand Worldwide Participation in Thoracic Oncology",
@@ -15,6 +30,34 @@
    "domain": "prnewswire.com",
    "published": "2026-09-12T11:19:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "0083811ef73d",
+   "title": "Primerica: Investment Product Growth Supports A More Positive Outlook",
+   "link": "https://seekingalpha.com/article/4945761-primerica-investment-product-growth-supports-a-more-positive-outlook?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-12T11:18:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f4547f0b8127",
+   "title": "Allegro MicroSystems: Three Tailwinds, One Stock",
+   "link": "https://seekingalpha.com/article/4945759-allegro-microsystems-three-tailwinds-one-stock?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-12T11:17:25+00:00",
+   "tickers": [
+    "ALGM"
+   ]
   },
   {
    "id": "6c7b16ea5b03",
@@ -8308,50 +8351,6 @@
    "tickers": [
     "EQT"
    ]
-  },
-  {
-   "id": "2019535ffadd",
-   "title": "Armor Health Remembers September 11 and Reaffirms Commitment to Public Safety",
-   "link": "https://www.prnewswire.com/news-releases/armor-health-remembers-september-11-and-reaffirms-commitment-to-public-safety-302876656.html",
-   "summary": "MIAMI, Sept. 11, 2026 /PRNewswire/ -- Twenty-five years after the attacks of September 11, 2001, Armor Health (Armorhealthcare.com) joins Americans across the country in remembering the lives lost, honoring the heroes who answered the call, and recognizing the extraordinary courage...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-11T19:24:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b1227136f67d",
-   "title": "RBC hires Bank of America’s Mills for Canada rates sales role - Bloomberg",
-   "link": "https://www.investing.com/news/stock-market-news/rbc-hires-bank-of-americas-mills-for-canada-rates-sales-role--bloomberg-93CH-4898362",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-11T19:23:28+00:00",
-   "tickers": [
-    "BAC",
-    "RBC"
-   ]
-  },
-  {
-   "id": "6e59efa0bf07",
-   "title": "Best Buy stock hits 52-week high at 91.27 USD",
-   "link": "https://www.investing.com/news/company-news/best-buy-stock-hits-52week-high-at-9127-usd-93CH-4898361",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-11T19:23:16+00:00",
-   "tickers": [
-    "BBY"
-   ]
   }
  ],
  "ticker_names": {
@@ -8376,6 +8375,7 @@
   "HALO": "Halozyme Therapeutics",
   "NTLA": "Intellia Therapeutics",
   "OPEN": "Opendoor Technologies",
+  "ALGM": "Allegro MicroSystems",
   "AWK": "American Water Works",
   "CRWD": "CrowdStrike Holdings",
   "EW": "Edwards Lifesciences",
@@ -8449,7 +8449,6 @@
   "BLK": "BlackRock",
   "FRO": "Frontline",
   "NWSA": "News Corp",
-  "BBY": "Best Buy",
   "BCS": "Barclays",
   "DOCU": "DocuSign",
   "ENB": "Enbridge",
