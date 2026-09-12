@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T22:32:31.520037+00:00",
+ "generated": "2026-09-12T22:37:55.912035+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,65 @@
    "domain": "cnbc.com",
    "published": "2026-09-12T22:24:41+00:00",
    "tickers": []
+  },
+  {
+   "id": "b53085731d01",
+   "title": "Walgreens retreats as CVS quietly takes over suburban pharmacies",
+   "link": "https://finance.yahoo.com/healthcare/articles/walgreens-retreats-cvs-quietly-takes-221700643.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T22:17:00+00:00",
+   "tickers": [
+    "CVS"
+   ]
+  },
+  {
+   "id": "ea335b689e5d",
+   "title": "U.S. Bancorp (USB)’s Dividend Increase Has More Behind It",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-usb-dividend-increase-221600807.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T22:16:00+00:00",
+   "tickers": [
+    "USB"
+   ]
+  },
+  {
+   "id": "e905465e9743",
+   "title": "Here is Why Piper Sandler Named Q2 Holdings (QTWO) Its Top Pick",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-piper-sandler-named-q2-221304680.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T22:13:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2366f2b8b16f",
+   "title": "Block, Inc (XYZ)’s Bank Charter Push Signals Bigger Ambitions in Digital Assets",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/block-inc-xyz-bank-charter-220930244.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T22:09:30+00:00",
+   "tickers": [
+    "XYZ",
+    "CHTR"
+   ]
   },
   {
    "id": "a5c232e297fb",
@@ -8235,65 +8294,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-11T23:18:22+00:00",
    "tickers": []
-  },
-  {
-   "id": "e35015f3f171",
-   "title": "Hudbay Minerals Inc. (HBM:CA) Presents at UBS Global Materials Conference 2026 - Slideshow",
-   "link": "https://seekingalpha.com/article/4945698-hudbay-minerals-inc-hbm-ca-presents-at-ubs-global-materials-conference-2026-slideshow?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T23:17:44+00:00",
-   "tickers": [
-    "HBM",
-    "UBS"
-   ]
-  },
-  {
-   "id": "579d5fb0efb5",
-   "title": "Concurrent Technologies Plc (COTGF) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4945696-concurrent-technologies-plc-cotgf-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T23:17:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8a4a717ecaeb",
-   "title": "SentinelOne chief accounting officer sells $265,511 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/sentinelone-chief-accounting-officer-sells-265511-in-shares-93CH-4898553",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-11T23:15:59+00:00",
-   "tickers": [
-    "S"
-   ]
-  },
-  {
-   "id": "4cab69b370c0",
-   "title": "Southwest Gas Holdings, Inc. (SWX) Presents at West Coast NDR - Slideshow",
-   "link": "https://seekingalpha.com/article/4945695-southwest-gas-holdings-inc-swx-presents-at-west-coast-ndr-slideshow?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T23:12:45+00:00",
-   "tickers": [
-    "WST"
-   ]
   }
  ],
  "ticker_names": {
@@ -8372,7 +8372,6 @@
   "ACHR": "Archer Aviation",
   "BAC": "Bank of America",
   "EXP": "Eagle Materials",
-  "HBM": "Hudbay Minerals",
   "LMT": "Lockheed Martin",
   "MRCY": "Mercury Systems",
   "RRC": "Range Resources",
@@ -8404,13 +8403,13 @@
   "MP": "MP Materials",
   "TM": "Toyota Motor",
   "UBS": "UBS Group AG",
+  "USB": "U.S. Bancorp",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "DLTR": "Dollar Tree",
   "FE": "FirstEnergy",
   "MTCH": "Match Group",
-  "S": "SentinelOne",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "AZN": "AstraZeneca",
@@ -8419,6 +8418,7 @@
   "CBRE": "CBRE Group",
   "CLSK": "CleanSpark",
   "CRM": "Salesforce",
+  "CVS": "CVS Health",
   "F": "Ford Motor",
   "MCD": "McDonald's",
   "PBF": "PBF Energy",
@@ -8467,6 +8467,7 @@
   "NUE": "Nucor",
   "QRVO": "Qorvo",
   "TOST": "Toast",
+  "XYZ": "Block",
   "FLEX": "Flex",
   "IONQ": "IonQ"
  }
