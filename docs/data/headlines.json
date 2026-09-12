@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T18:41:51.970951+00:00",
+ "generated": "2026-09-12T18:47:19.939970+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,19 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-09-12T18:33:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a97b59790824",
+   "title": "Hershey’s Dividend Is Finally Growing Again After a Nearly 2-Year Freeze",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hershey-dividend-finally-growing-again-183024635.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T18:30:24+00:00",
    "tickers": []
   },
   {
@@ -8247,23 +8260,6 @@
    "tickers": [
     "NET"
    ]
-  },
-  {
-   "id": "92ea0374633c",
-   "title": "Stocks making the biggest moves midday: Dell, Skyworks Solutions, GameStop & more",
-   "link": "https://www.cnbc.com/2026/09/11/stocks-making-the-biggest-moves-midday-dell-swks-gme.html",
-   "summary": "These are the stocks posting the largest moves midday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-11T21:51:33+00:00",
-   "tickers": [
-    "SWKS",
-    "GME",
-    "DELL"
-   ]
   }
  ],
  "ticker_names": {
@@ -8397,7 +8393,6 @@
   "BCS": "Barclays",
   "DOCU": "DocuSign",
   "ENB": "Enbridge",
-  "GME": "GameStop",
   "RGEN": "Repligen",
   "RS": "Reliance",
   "SNPS": "Synopsys",
