@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T12:22:25.117742+00:00",
+ "generated": "2026-09-12T12:27:24.856122+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -42,6 +42,34 @@
    "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-09-12T12:10:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8f78e7b7e7ac",
+   "title": "MLPX vs XOP: Which Energy ETF Fits Your Portfolio?",
+   "link": "https://finance.yahoo.com/energy/articles/mlpx-vs-xop-energy-etf-120801229.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T12:08:01+00:00",
+   "tickers": [
+    "XOP"
+   ]
+  },
+  {
+   "id": "8fd7d2637790",
+   "title": "Nano-X (NNOX) Imaging Slashes Costs As Cash Clock Keeps Ticking",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nano-x-nnox-imaging-slashes-120622496.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T12:06:22+00:00",
    "tickers": []
   },
   {
@@ -1143,7 +1171,7 @@
    "title": "Amid a Changing Global Landscape, Countries Seek Investment Opportunities at CIFIT",
    "link": "https://www.prnewswire.com/news-releases/amid-a-changing-global-landscape-countries-seek-investment-opportunities-at-cifit-302876826.html",
    "summary": "Click to learn more: https://youtube.com/shorts/gZ3xQzfZhoo?si=hCiDYS9P0_P32ve7 XIAMEN, China, Sept. 12, 2026 /PRNewswire/ -- A report from Hong Kong Commercial Daily: The 26th China International Fair for Investment and Trade (CIFIT) was held in Xiamen, Fujian, China, from September 8 to...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8308,39 +8336,10 @@
    "tickers": [
     "CVX"
    ]
-  },
-  {
-   "id": "8fdb4aa4f8ee",
-   "title": "BlackRock Core Bond Trust declares $0.0746 dividend",
-   "link": "https://seekingalpha.com/news/4642198-blackrock-core-bond-trust-declares-0_0746-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T19:34:42+00:00",
-   "tickers": [
-    "BLK"
-   ]
-  },
-  {
-   "id": "3ebeaf9989e7",
-   "title": "The U.S. Open Has Been Quietly Releasing Tickets for Its Popular Tournament",
-   "link": "https://www.nytimes.com/2026/09/10/business/us-open-tennis-tickets.html",
-   "summary": "On Wednesday, hundreds appeared on Ticketmaster. The United States Tennis Association said it periodically released tickets it held for a variety of reasons.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-11T19:34:09+00:00",
-   "tickers": [
-    "BPOP"
-   ]
   }
  ],
  "ticker_names": {
+  "XOP": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "QSR": "Restaurant Brands International",
   "WST": "West Pharmaceutical Services",
@@ -8442,7 +8441,6 @@
   "RS": "Reliance",
   "SQ": "Cash App",
   "SNAP": "Snapchat",
-  "BPOP": "Popular",
   "COMP": "Compass",
   "CVX": "Chevron",
   "ETR": "Entergy",
