@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T21:02:07.583663+00:00",
+ "generated": "2026-09-12T21:07:14.463866+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -30,6 +30,21 @@
    "domain": "cnbc.com",
    "published": "2026-09-12T20:55:55+00:00",
    "tickers": []
+  },
+  {
+   "id": "1399a154677b",
+   "title": "Berkshire Hathaway Has Paid Exactly 1 Dividend Since 1965. Here's Where the Cash Goes Instead.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-paid-exactly-1-205000365.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T20:50:00+00:00",
+   "tickers": [
+    "BRK-A"
+   ]
   },
   {
    "id": "df605ec1f9dd",
@@ -8273,21 +8288,6 @@
    "domain": "investing.com",
    "published": "2026-09-11T23:00:56+00:00",
    "tickers": []
-  },
-  {
-   "id": "3248adc916dd",
-   "title": "Unum Group director Keaney sells $404,286 in common stock",
-   "link": "https://www.investing.com/news/insider-trading-news/unum-group-director-keaney-sells-404286-in-common-stock-93CH-4898546",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-11T23:00:55+00:00",
-   "tickers": [
-    "UNM"
-   ]
   }
  ],
  "ticker_names": {
@@ -8332,6 +8332,7 @@
   "FIX": "Comfort Systems USA",
   "IP": "International Paper",
   "LULU": "lululemon athletica",
+  "BRK-A": "Berkshire Hathaway",
   "COGT": "Cogent Biosciences",
   "CRK": "Comstock Resources",
   "HIMS": "Hims & Hers Health",
