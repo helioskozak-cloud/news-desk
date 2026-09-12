@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-12T15:02:24.899285+00:00",
+ "generated": "2026-09-12T15:07:03.730605+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d7741409b8f0",
+   "title": "Insider trades: Nvidia, Tesla, Uber among notable names",
+   "link": "https://seekingalpha.com/news/4642241-insider-trades-nvidia-tesla-uber-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-12T15:03:26+00:00",
+   "tickers": [
+    "TSLA",
+    "UBER"
+   ]
+  },
   {
    "id": "4c299fb19a6d",
    "title": "FOMC Meeting Takes Centre Stage As Earnings Fade",
@@ -30,6 +46,19 @@
    "tickers": [
     "FIX"
    ]
+  },
+  {
+   "id": "6b8759f49f56",
+   "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+   "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+   "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?”",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-09-12T15:00:00+00:00",
+   "tickers": []
   },
   {
    "id": "57a76916c221",
@@ -2660,19 +2689,6 @@
    "type": "fda",
    "sentiment": "positive",
    "domain": "prnewswire.com",
-   "published": "2026-09-12T11:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6b8759f49f56",
-   "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
-   "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-   "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?”",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
    "published": "2026-09-12T11:00:00+00:00",
    "tickers": []
   },
@@ -8263,19 +8279,6 @@
    "tickers": [
     "JIRE"
    ]
-  },
-  {
-   "id": "5c6807bd4ace",
-   "title": "Cellectis GAAP EPS of -$0.39, revenue of $14.45M",
-   "link": "https://seekingalpha.com/news/4642237-cellectis-gaap-eps-of-0_39-revenue-of-14_45m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T20:39:03+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8334,6 +8337,7 @@
   "POWL": "Powell Industries",
   "PRIM": "Primoris Services",
   "SOFI": "SoFi Technologies",
+  "UBER": "Uber Technologies",
   "BKNG": "Booking Holdings",
   "CELH": "Celsius Holdings",
   "COST": "Costco Wholesale",
