@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-12T03:02:24.971196+00:00",
+ "generated": "2026-09-12T03:07:00.096804+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5750e3fd8dec",
+   "title": "U.S. IPO Weekly Recap: Small Issuers Join The Pipeline, While Big Candidates Stay On The Sidelines",
+   "link": "https://seekingalpha.com/article/4945718-us-ipo-small-issuers-join-pipeline-big-candidates-stay-on-sidelines?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-12T03:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3c10a9a1ebbe",
+   "title": "Super Micro Computer Investigation Initiated: Kahn Swick &amp; Foti, LLC Investigates the Officers and Directors of Super Micro Computer, Inc. - SMCI",
+   "link": "https://www.prnewswire.com/news-releases/super-micro-computer-investigation-initiated-kahn-swick--foti-llc-investigates-the-officers-and-directors-of-super-micro-computer-inc---smci-302876750.html",
+   "summary": "NEW YORK and NEW ORLEANS, Sept. 11, 2026 /PRNewswire/ -- Former Attorney General of Louisiana, Charles C. Foti, Jr., Esq., a partner at the law firm of Kahn Swick & Foti, LLC (\"KSF\"), announces that KSF has commenced an investigation into Super Micro Computer, Inc. (\"Super Micro\" or the...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-09-12T03:00:00+00:00",
+   "tickers": [
+    "SMCI"
+   ]
+  },
   {
    "id": "80ab373c186f",
    "title": "Janus Henderson Opportunistic Alpha Managed Account Q2 2026 Commentary",
@@ -47,7 +75,7 @@
    "title": "Achieve Publishes New Online Guidance for Freedom Debt Relief and Achieve Customers",
    "link": "https://www.prnewswire.com/news-releases/achieve-publishes-new-online-guidance-for-freedom-debt-relief-and-achieve-customers-302876793.html",
    "summary": "SAN MATEO, Calif., Sept. 11, 2026 /PRNewswire/ -- Today, Achieve announced the publication of a new online resource designed to provide proactive, transparent customer guidance. As part of a broader financial wellness ecosystem, this newly launched initiative helps consumers understand...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "earnings",
    "sentiment": "neutral",
@@ -377,7 +405,7 @@
    "title": "ICW Group Honors 25th Anniversary of Sept. 11 Through Day of Service",
    "link": "https://www.prnewswire.com/news-releases/icw-group-honors-25th-anniversary-of-sept-11-through-day-of-service-302876778.html",
    "summary": "SAN DIEGO, Sept. 11, 2026 /PRNewswire/ -- In honor of the 25th anniversary of Sept. 11, ICW Group Insurance Companies joined thousands of volunteers throughout the country to pack an estimated 20 million meals for people facing food insecurity. Organized by nonprofit 9/11 Day, these...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8381,34 +8409,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-11T17:49:23+00:00",
    "tickers": []
-  },
-  {
-   "id": "4e65b2843dc2",
-   "title": "US consumer sentiment deteriorates in September, inflation expectations rise",
-   "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-deteriorates-in-september-inflation-expectations-rise-4898148",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-11T17:49:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8d686f4ece5f",
-   "title": "UBS: Two Fed hikes are coming — Bonds still belong",
-   "link": "https://seekingalpha.com/news/4642179-ubs-two-fed-hikes-are-coming-bonds-still-belong?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T17:48:52+00:00",
-   "tickers": [
-    "UBS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8442,6 +8442,7 @@
   "AWK": "American Water Works",
   "CRWD": "CrowdStrike Holdings",
   "EW": "Edwards Lifesciences",
+  "SMCI": "Super Micro Computer",
   "TVTX": "Travere Therapeutics",
   "RNA": "Avidity Biosciences",
   "COGT": "Cogent Biosciences",
