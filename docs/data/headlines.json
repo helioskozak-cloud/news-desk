@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-12T14:07:14.677138+00:00",
+ "generated": "2026-09-12T14:12:04.880249+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c9ea437ba370",
+   "title": "OpenAI agents launched cyberattack on RubyGems before Hugging Face hack: report",
+   "link": "https://seekingalpha.com/news/4642265-openai-agents-launched-cyberattack-rubygems-before-hugging-face-hack?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-12T14:06:22+00:00",
+   "tickers": []
+  },
   {
    "id": "3e76bd2ba3bf",
    "title": "Notable analyst calls this week: Lockheed Martin, Meta and Intel among top picks",
@@ -131,6 +144,21 @@
    "tickers": [
     "ADBE",
     "ARR"
+   ]
+  },
+  {
+   "id": "a55a8de45038",
+   "title": "Brookfield Infrastructure's 2026 Outlook: Digital Data Segment Expansion Drives Growth",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-infrastructures-2026-outlook-digital-135615227.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T13:56:15+00:00",
+   "tickers": [
+    "BN"
    ]
   },
   {
@@ -3991,6 +4019,21 @@
    "domain": "investing.com",
    "published": "2026-09-12T01:36:27+00:00",
    "tickers": []
+  },
+  {
+   "id": "b40b6eae9f87",
+   "title": "Oracle's Larry Ellison adopts trading plan to sell up to $7.5 billion worth of stock",
+   "link": "https://www.cnbc.com/2026/09/11/larry-ellison-50-million-trading-plan.html",
+   "summary": "Oracle founder Larry Ellison, the world's seventh-richest person, can sell up to 50 million of his shares in the software company under a new trading plan.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-12T01:36:02+00:00",
+   "tickers": [
+    "ORCL"
+   ]
   },
   {
    "id": "304e3c438958",
@@ -8244,51 +8287,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "71f75a43a66e",
-   "title": "Arteris Announces New Employment Inducement Grants | AIP Stock News",
-   "link": "https://www.stocktitan.net/news/AIP/arteris-announces-new-employment-inducement-3cg8a3quirg5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-11T20:30:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "70a6c535ebbe",
-   "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-   "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-   "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-09-11T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9909bfa4fde7",
-   "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
-   "link": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
-   "summary": "Oracle’s earnings provided an upbeat read for hardware suppliers — but the Fed’s interest-rate moves could dictate just how much they continue benefitting.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-09-11T20:30:00+00:00",
-   "tickers": [
-    "ORCL",
-    "DELL",
-    "HPE"
-   ]
   }
  ],
  "ticker_names": {
@@ -8300,7 +8298,6 @@
   "FLOT": "iShares Floating Rate Bond ETF",
   "WST": "West Pharmaceutical Services",
   "STX": "Seagate Technology Holdings",
-  "HPE": "Hewlett Packard Enterprise",
   "AEO": "American Eagle Outfitters",
   "INBS": "Intelligent Bio Solutions",
   "JEF": "Jefferies Financial Group",
@@ -8386,6 +8383,7 @@
   "AMZN": "Whole Foods",
   "AZN": "AstraZeneca",
   "BA": "The Boeing",
+  "BN": "Brookfield",
   "CLSK": "CleanSpark",
   "CRM": "Salesforce",
   "F": "Ford Motor",
