@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T19:17:25.384759+00:00",
+ "generated": "2026-09-13T19:22:18.403308+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -32,6 +32,34 @@
    "tickers": []
   },
   {
+   "id": "f4569c7f9de4",
+   "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "investors.com",
+   "published": "2026-09-13T19:02:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a31ed49ea856",
+   "title": "Starbucks’ $1 Billion Bet on Cozy Stores Faces a Margin Test",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-1-billion-bet-cozy-190035733.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-13T19:00:35+00:00",
+   "tickers": [
+    "SBUX"
+   ]
+  },
+  {
    "id": "c05f198b1a9a",
    "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
    "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
@@ -56,6 +84,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-13T19:00:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "5df47a080a10",
+   "title": "Prediction: Applied Materials Books Its First $10 Billion Quarter This Fall",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-applied-materials-books-first-185801519.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-13T18:58:01+00:00",
+   "tickers": [
+    "AMAT"
+   ]
   },
   {
    "id": "af9673ad9cda",
@@ -212,19 +255,6 @@
    "tickers": [
     "AAPL"
    ]
-  },
-  {
-   "id": "f4569c7f9de4",
-   "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "investors.com",
-   "published": "2026-09-13T18:05:37+00:00",
-   "tickers": []
   },
   {
    "id": "de21cef441d7",
@@ -1988,7 +2018,7 @@
    "title": "Insurance Agent Nick Hogan Explains What First-Time Homeowners Often Miss About Homeowners Insurance in HelloNation",
    "link": "https://www.prnewswire.com/news-releases/insurance-agent-nick-hogan-explains-what-first-time-homeowners-often-miss-about-homeowners-insurance-in-hellonation-302876446.html",
    "summary": "The article explains key parts of a homeowners insurance policy that every first-time buyer should understand before filing a claim. CAPE GIRARDEAU, Mo., Sept. 13, 2026 /PRNewswire/ -- What does homeowners insurance actually cover? A HelloNation article featuring insights from Insurance...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8292,34 +8322,6 @@
     "PANW",
     "CSCO"
    ]
-  },
-  {
-   "id": "135562331b83",
-   "title": "ABM Industries’ (ABM) Cash Flow Jump Masks A Split Business Story",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/abm-industries-abm-cash-flow-132127889.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-12T13:21:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3de91e179ce9",
-   "title": "Dan Loeb’s Third Point Increased Its Reported Hut 8 Stake and Disclosed Riot Debt Exposure",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dan-loeb-third-point-increased-132101919.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-12T13:21:01+00:00",
-   "tickers": [
-    "HUT"
-   ]
   }
  ],
  "ticker_names": {
@@ -8370,6 +8372,7 @@
   "ROP": "Roper Technologies",
   "SIRI": "Sirius XM Holdings",
   "SPOT": "Spotify Technology",
+  "AMAT": "Applied Materials",
   "DELL": "Dell Technologies",
   "FLY": "Firefly Aerospace",
   "HOOD": "Robinhood Markets",
@@ -8488,7 +8491,6 @@
   "CHWY": "Chewy",
   "CIEN": "Ciena",
   "FRMI": "Fermi",
-  "HUT": "Hut 8",
   "INTC": "Intel",
   "L": "Loews",
   "TOST": "Toast",
