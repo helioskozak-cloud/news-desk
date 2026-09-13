@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T22:52:15.762093+00:00",
+ "generated": "2026-09-13T22:56:43.706414+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,34 @@
    "domain": "ft.com",
    "published": "2026-09-13T22:37:17+00:00",
    "tickers": []
+  },
+  {
+   "id": "f4569c7f9de4",
+   "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "investors.com",
+   "published": "2026-09-13T22:35:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "86dbafd18cad",
+   "title": "Berkshire Hathaway Stock Is Trailing the S&P 500 by About 10 Points This Year. History Says That Usually Doesn't Last.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-trailing-p-223401074.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-13T22:34:01+00:00",
+   "tickers": [
+    "BRK-A"
+   ]
   },
   {
    "id": "8f8f8b0af8a2",
@@ -79,19 +107,6 @@
    "sentiment": "neutral",
    "domain": "globenewswire.com",
    "published": "2026-09-13T22:22:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f4569c7f9de4",
-   "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "investors.com",
-   "published": "2026-09-13T22:21:49+00:00",
    "tickers": []
   },
   {
@@ -317,6 +332,21 @@
    "domain": "ft.com",
    "published": "2026-09-13T21:34:22+00:00",
    "tickers": []
+  },
+  {
+   "id": "119e298d3249",
+   "title": "This Dating App's Shares Have Crashed 96% Since IPO, Yet Blackstone Nearly Doubled Its Money — Now the PE Giant Is Swiping Left and Cashing Out: Report",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dating-apps-shares-crashed-96-213049604.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "offering",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-13T21:30:49+00:00",
+   "tickers": [
+    "BX"
+   ]
   },
   {
    "id": "be08520600c2",
@@ -8302,32 +8332,6 @@
    "domain": "cnbc.com",
    "published": "2026-09-12T15:12:56+00:00",
    "tickers": []
-  },
-  {
-   "id": "80bfb0f12473",
-   "title": "Why The Core CPI Inflation Drop In August Doesn't Matter",
-   "link": "https://seekingalpha.com/article/4945793-why-the-core-cpi-inflation-drop-in-august-doesnt-matter?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-12T15:12:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "94833b8e5c98",
-   "title": "Iran and UAE back joint BRICS statement urging restraint in war",
-   "link": "https://www.investing.com/news/commodities-news/brics-agrees-on-joint-declaration-before-new-delhi-summit-sources-say-4898638",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-12T15:12:23+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8437,6 +8441,7 @@
   "AMZN": "Whole Foods",
   "DDOG": "Datadog Inc",
   "BA": "The Boeing",
+  "BX": "Blackstone",
   "CBRE": "CBRE Group",
   "CRM": "Salesforce",
   "CVS": "CVS Health",
