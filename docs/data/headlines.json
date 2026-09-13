@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-13T19:22:18.403308+00:00",
+ "generated": "2026-09-13T19:26:14.335781+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "89cf9e1a4840",
+   "title": "Custom Truck One Source: Recent Share Price Weakness Presents An Opportunity To Buy",
+   "link": "https://seekingalpha.com/article/4945864-custom-truck-one-source-recent-share-price-weakness-presents-an-opportunity-to-buy?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-13T19:22:12+00:00",
+   "tickers": []
+  },
   {
    "id": "6ca058854d38",
    "title": "FLOT: A Simple Fixed-Income Allocation For Uncertain Rate Environment",
@@ -16,6 +29,21 @@
    "published": "2026-09-13T19:16:09+00:00",
    "tickers": [
     "FLOT"
+   ]
+  },
+  {
+   "id": "30d04d8cabde",
+   "title": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
+   "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-13T19:10:52+00:00",
+   "tickers": [
+    "INTC"
    ]
   },
   {
@@ -43,6 +71,23 @@
    "domain": "investors.com",
    "published": "2026-09-13T19:02:04+00:00",
    "tickers": []
+  },
+  {
+   "id": "78a596bd83a8",
+   "title": "T-Mobile US CEO Maps 5G, Broadband and AI Growth Strategy at Goldman Sachs Conference",
+   "link": "https://finance.yahoo.com/technology/ai/articles/t-mobile-us-ceo-maps-190200025.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-13T19:02:00+00:00",
+   "tickers": [
+    "GS",
+    "TMUS",
+    "MSTR"
+   ]
   },
   {
    "id": "a31ed49ea856",
@@ -2018,7 +2063,7 @@
    "title": "Insurance Agent Nick Hogan Explains What First-Time Homeowners Often Miss About Homeowners Insurance in HelloNation",
    "link": "https://www.prnewswire.com/news-releases/insurance-agent-nick-hogan-explains-what-first-time-homeowners-often-miss-about-homeowners-insurance-in-hellonation-302876446.html",
    "summary": "The article explains key parts of a homeowners insurance policy that every first-time buyer should understand before filing a claim. CAPE GIRARDEAU, Mo., Sept. 13, 2026 /PRNewswire/ -- What does homeowners insurance actually cover? A HelloNation article featuring insights from Insurance...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8280,48 +8325,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-12T13:26:01+00:00",
    "tickers": []
-  },
-  {
-   "id": "5a71b1b2b43c",
-   "title": "d OECD commercial oil inventories have “barely drawn since the war began,” reflecting a smaller-than-expected supply deficit and the concentration of inventory declines in strategic reserves, oil stored on water and China.",
-   "link": "https://finance.yahoo.com/energy/articles/d-oecd-commercial-oil-inventories-132600424.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-12T13:26:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6eb1851f47d1",
-   "title": "Trump's America-first world is pushing other powers to hedge their bets",
-   "link": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
-   "summary": "Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-12T13:24:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "73fcf3826e5e",
-   "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
-   "link": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-12T13:22:14+00:00",
-   "tickers": [
-    "PANW",
-    "CSCO"
-   ]
   }
  ],
  "ticker_names": {
@@ -8408,7 +8411,6 @@
   "QBTS": "D-Wave Quantum",
   "NET": "Cloudflare Inc",
   "AVAV": "AeroVironment",
-  "CSCO": "Cisco Systems",
   "HSBC": "HSBC Holdings",
   "JOBY": "Joby Aviation",
   "KO": "The Coca-Cola",
@@ -8431,6 +8433,7 @@
   "DLTR": "Dollar Tree",
   "FE": "FirstEnergy",
   "LCID": "Lucid Group",
+  "TMUS": "T-Mobile US",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "DDOG": "Datadog Inc",
