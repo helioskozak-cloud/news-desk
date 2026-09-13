@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T14:22:01.490434+00:00",
+ "generated": "2026-09-13T14:27:14.808068+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -43,6 +43,22 @@
    "domain": "prnewswire.com",
    "published": "2026-09-13T14:05:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "3e6e17d48b4d",
+   "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-13T14:02:10+00:00",
+   "tickers": [
+    "CRWV",
+    "NVDA"
+   ]
   },
   {
    "id": "1f8b67db9bef",
@@ -6599,6 +6615,19 @@
    "tickers": []
   },
   {
+   "id": "88f357d6eb7b",
+   "title": "Is Nike's Index Demotion a Warning or a Buying Opportunity?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nikes-index-demotion-warning-buying-125500367.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T12:55:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "bd3fccd9f69e",
    "title": "3 Agentic AI Stocks to Own Before AI Changes the World as We Know It",
    "link": "https://finance.yahoo.com/technology/ai/articles/3-agentic-ai-stocks-own-125000827.html",
@@ -8295,32 +8324,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-12T10:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "072c1f3ec0b0",
-   "title": "Best CD rates today, Saturday, September 12, 2026: Lock in up to 4.35% APY with an 18-month CD",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-12-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000342.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-12T10:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bb3cf585e9c5",
-   "title": "Mortgage and refinance interest rates today, Saturday, September 12, 2026: Mortgage rates up for the second straight day",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-12-2026-mortgage-rates-up-for-the-second-straight-day-100000822.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-12T10:00:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8460,6 +8463,7 @@
   "MSFT": "Office 365",
   "DE": "John Deere",
   "C": "Citigroup",
+  "CRWV": "CoreWeave",
   "DT": "Dynatrace",
   "OS": "OneStream",
   "PKG": "Packaging",
