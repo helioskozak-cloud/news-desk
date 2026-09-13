@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-13T23:07:12.656620+00:00",
+ "generated": "2026-09-13T23:11:49.841749+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4d2638e171fd",
+   "title": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals",
+   "link": "https://www.nytimes.com/2026/09/13/world/europe/trump-tariffs-irish-whiskey.html",
+   "summary": "President Trump’s decision, announced while visiting his golf course in Ireland, was the latest shift in his trade policies.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-13T23:02:26+00:00",
+   "tickers": []
+  },
   {
    "id": "f26e7712962f",
    "title": "Vetoquinol SA 2026 Q2 - Results - Earnings Call Presentation",
@@ -340,6 +353,19 @@
    "tickers": [
     "DELL"
    ]
+  },
+  {
+   "id": "a2d4ae9e44d4",
+   "title": "Stock Futures Slide, Oil Rises Ahead of Fed Rate Decision",
+   "link": "https://www.barrons.com/articles/stock-futures-trading-sunday-5e07197d?siteid=yhoof2&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "barrons.com",
+   "published": "2026-09-13T22:12:00+00:00",
+   "tickers": []
   },
   {
    "id": "ae298ea47e78",
@@ -3515,7 +3541,7 @@
    "title": "Insurance Agent Nick Hogan Explains What First-Time Homeowners Often Miss About Homeowners Insurance in HelloNation",
    "link": "https://www.prnewswire.com/news-releases/insurance-agent-nick-hogan-explains-what-first-time-homeowners-often-miss-about-homeowners-insurance-in-hellonation-302876446.html",
    "summary": "The article explains key parts of a homeowners insurance policy that every first-time buyer should understand before filing a claim. CAPE GIRARDEAU, Mo., Sept. 13, 2026 /PRNewswire/ -- What does homeowners insurance actually cover? A HelloNation article featuring insights from Insurance...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8314,34 +8340,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-12T15:52:54+00:00",
    "tickers": []
-  },
-  {
-   "id": "04b319571827",
-   "title": "Top Economist Says the Fed Should Hike Rates 50 Basis Points Next Week. The Bond Market Is Already Near His Danger Zone.",
-   "link": "https://finance.yahoo.com/economy/policy/articles/top-economist-says-fed-hike-154815533.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-12T15:48:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "46a0dac5babe",
-   "title": "Should You Buy Archer Aviation Stock While It's Below $6?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-archer-aviation-stock-while-154500657.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-12T15:45:00+00:00",
-   "tickers": [
-    "ACHR"
-   ]
   }
  ],
  "ticker_names": {
@@ -8409,7 +8407,6 @@
   "ROIV": "Roivant Sciences",
   "UPST": "Upstart Holdings",
   "GE": "General Electric",
-  "ACHR": "Archer Aviation",
   "AMLP": "Alerian MLP ETF",
   "APLD": "Applied Digital",
   "BAC": "Bank of America",
