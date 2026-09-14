@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-14T05:12:12.255057+00:00",
+ "generated": "2026-09-14T05:17:20.413057+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d14324e394fa",
+   "title": "Basilea announces start of clinical study by partner Asahi Kasei Therapeutics in Japan with antifungal Cresemba® (isavuconazole) in pediatric patients",
+   "link": "https://www.globenewswire.com/news-release/2026/09/14/3360682/0/en/basilea-announces-start-of-clinical-study-by-partner-asahi-kasei-therapeutics-in-japan-with-antifungal-cresemba-isavuconazole-in-pediatric-patients.html",
+   "summary": "Allschwil, Switzerland, September 14, 2026",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-09-14T05:15:00+00:00",
+   "tickers": []
+  },
   {
    "id": "27434fe9fcac",
    "title": "Ackermans & van Haaren publishes convening notice for the Extraordinary Shareholder Meeting of October 15, 2026",
@@ -40,6 +53,19 @@
    "sentiment": "neutral",
    "domain": "globenewswire.com",
    "published": "2026-09-14T05:10:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1fa7694d8aaa",
+   "title": "US futures slip as oil surges; AI slowdown fears grow ahead of Fed",
+   "link": "https://seekingalpha.com/news/4642319-us-futures-slip-as-oil-surges-ai-slowdown-fears-grow-ahead-of-fed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-14T05:09:40+00:00",
    "tickers": []
   },
   {
@@ -7554,6 +7580,21 @@
    ]
   },
   {
+   "id": "f1961809e99f",
+   "title": "UiPath, Inc. (PATH) Stock Has AI Potential, But Slowing Growth Keeps Investors Cautious",
+   "link": "https://finance.yahoo.com/technology/ai/articles/uipath-inc-path-stock-ai-234921172.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-12T23:49:21+00:00",
+   "tickers": [
+    "PATH"
+   ]
+  },
+  {
    "id": "f85de42d5382",
    "title": "Portfolio Diversification Is the Simplest Way to Lower Risk. Here's How I Build Mine.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/portfolio-diversification-simplest-way-lower-233500459.html",
@@ -8231,47 +8272,6 @@
    "domain": "investing.com",
    "published": "2026-09-12T21:30:42+00:00",
    "tickers": []
-  },
-  {
-   "id": "2cc4b38ef958",
-   "title": "Sam Altman says OpenAI IPO not happening in 2026",
-   "link": "https://seekingalpha.com/news/4642270-sam-altman-says-openai-ipo-not-happening-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-12T21:27:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d9c949b780df",
-   "title": "Can XRP Flip Bitcoin?",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-flip-bitcoin-212432380.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-12T21:24:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8ffbdc2478f2",
-   "title": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-amd-elon-musk-212000632.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-12T21:20:00+00:00",
-   "tickers": [
-    "AMD"
-   ]
   }
  ],
  "ticker_names": {
@@ -8414,6 +8414,7 @@
   "INTU": "Intuit",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
+  "PATH": "UiPath",
   "RMD": "ResMed",
   "AMGN": "Amgen",
   "CHWY": "Chewy",
