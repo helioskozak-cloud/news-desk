@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-14T06:42:08.178843+00:00",
+ "generated": "2026-09-14T06:47:02.926604+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0f641dac4d9e",
+   "title": "U.S. Treasury yields are steady as Fed closes in on 5% ahead of Fed rates decision",
+   "link": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+   "summary": "The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Strategists say the drivers behind higher yields are more important.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-14T06:44:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0b1d38c238e9",
+   "title": "Barnes & Noble Education: Improving Fundamentals",
+   "link": "https://seekingalpha.com/article/4945902-barnes-and-noble-education-improving-fundamentals?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-14T06:42:01+00:00",
+   "tickers": [
+    "NE"
+   ]
+  },
   {
    "id": "0bbbb5d48508",
    "title": "DTCR Vs. RACK: If RSI Really Is Upon Us, Digital Infrastructure Will Light The Way",
@@ -69,6 +97,19 @@
    "tickers": [
     "NWSA"
    ]
+  },
+  {
+   "id": "fb7b76cfed3d",
+   "title": "OpenAI CEO calls for ‘pacing, not stopping’ AI development",
+   "link": "https://seekingalpha.com/news/4642328-openai-ceo-calls-for-pacing-not-stopping-ai-development?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-14T06:39:23+00:00",
+   "tickers": []
   },
   {
    "id": "ee74f181f26a",
@@ -2532,19 +2573,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-09-14T01:40:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0f641dac4d9e",
-   "title": "The 10-year Treasury is closing in on 5%. How it gets there matters more",
-   "link": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
-   "summary": "The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Strategists say the drivers behind higher yields are more important.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-14T01:39:13+00:00",
    "tickers": []
   },
   {
@@ -8218,32 +8246,6 @@
    "tickers": [
     "NVR"
    ]
-  },
-  {
-   "id": "f311d49b5036",
-   "title": "DMG Blockchain: The AI Premium Is Bigger Than It Looks",
-   "link": "https://seekingalpha.com/article/4945831-dmg-blockchain-the-ai-premium-is-bigger-than-it-looks?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-13T08:20:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1a9392db8993",
-   "title": "Xenon Pharmaceuticals: Epilepsy Got It To $59; Depression Has To Take It From Here",
-   "link": "https://seekingalpha.com/article/4945830-xenon-stock-epilepsy-got-59-depression-has-to-take-it-from-here?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-13T08:20:23+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8376,6 +8378,7 @@
   "AMGN": "Amgen",
   "CHWY": "Chewy",
   "INTC": "Intel",
+  "NE": "Noble",
   "XYZ": "Block",
   "DAVE": "Dave",
   "V": "Visa",
