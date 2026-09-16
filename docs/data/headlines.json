@@ -1,8 +1,53 @@
 {
- "generated": "2026-09-16T03:46:59.717986+00:00",
+ "generated": "2026-09-16T03:52:20.008818+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f44d52998cd9",
+   "title": "IonQ's Historic Low Valuation Meets Record-Breaking Guidance (Upgrade)",
+   "link": "https://seekingalpha.com/article/4946829-ionqs-historic-low-valuation-meets-record-breaking-guidance-upgrade?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-16T03:47:26+00:00",
+   "tickers": [
+    "IONQ"
+   ]
+  },
+  {
+   "id": "109148bac4c6",
+   "title": "Warsh's First Test: Will The Fed Follow The Rules?",
+   "link": "https://seekingalpha.com/article/4946823-warsh-first-test-will-fed-follow-rules?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-16T03:45:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f4cf416b7316",
+   "title": "Führendes Biotech-Unternehmen entscheidet sich weltweit für Veeva Vault CRM",
+   "link": "https://www.prnewswire.com/news-releases/fuhrendes-biotech-unternehmen-entscheidet-sich-weltweit-fur-veeva-vault-crm-302880003.html",
+   "summary": "Agentengestützte CRM-Grundlage soll die Bereitstellung innovativer Medikamente für Patienten weltweit beschleunigen PLEASANTON, Kalifornien, 16. September 2026 /PRNewswire/ -- Veeva Systems (NYSE: VEEV) gab heute bekannt, dass Amgen plant, Veeva Vault CRM weltweit einzuführen und damit...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-16T03:45:00+00:00",
+   "tickers": [
+    "VEEV",
+    "AMGN",
+    "CRM"
+   ]
+  },
   {
    "id": "62c20669a629",
    "title": "Trevi Therapeutics, Inc. (TRVI) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
@@ -8374,49 +8419,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-15T20:29:02+00:00",
    "tickers": []
-  },
-  {
-   "id": "336af47a5931",
-   "title": "Harness Named a Leader in SecureIQLab's Cloud WAAP v5.0 CyberRisk Validation Report for the Second Year in a Row",
-   "link": "https://www.prnewswire.com/news-releases/harness-named-a-leader-in-secureiqlabs-cloud-waap-v5-0-cyberrisk-validation-report-for-the-second-year-in-a-row-302879682.html",
-   "summary": "One of only five vendors to meet both of SecureIQLab's \"Secure by Design\" and \"Secure by Default\" criteria SAN FRANCISCO, Sept. 15, 2026 /PRNewswire/ -- Harness, the platform for the autonomous SDLC, announced that SecureIQLab has named Harness Web Application & API Protection (WAAP) a...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-15T20:29:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "30cffcda88c6",
-   "title": "Cadillac Mines completes Larder Property acquisition",
-   "link": "https://www.investing.com/news/company-news/cadillac-mines-completes-larder-property-acquisition-93CH-4902559",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-15T20:28:32+00:00",
-   "tickers": [
-    "GM"
-   ]
-  },
-  {
-   "id": "128850634dd7",
-   "title": "FTAI Aviation announces $500M buyback plan; shares in focus",
-   "link": "https://seekingalpha.com/news/4643174-ftai-aviation-announces-500m-buyback-plan-shares-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-15T20:28:30+00:00",
-   "tickers": [
-    "FTAI"
-   ]
   }
  ],
  "ticker_names": {
@@ -8487,7 +8489,6 @@
   "LNG": "Cheniere Energy",
   "REG": "Regency Centers",
   "DG": "Dollar General",
-  "GM": "General Motors",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "NVT": "nVent Electric",
@@ -8498,6 +8499,7 @@
   "EXE": "Expand Energy",
   "FTAI": "FTAI Aviation",
   "O": "Realty Income",
+  "VEEV": "Veeva Systems",
   "WFC": "Wells Fargo &",
   "MSTR": "MicroStrategy",
   "DVLT": "Datavault AI",
@@ -8515,6 +8517,7 @@
   "BN": "Brookfield",
   "BX": "Blackstone",
   "CAVA": "CAVA Group",
+  "CRM": "Salesforce",
   "SN": "SharkNinja",
   "MSFT": "Office 365",
   "DE": "John Deere",
@@ -8559,6 +8562,7 @@
   "CR": "Crane",
   "INTC": "Intel",
   "OKE": "ONEOK",
-  "XYZ": "Block"
+  "XYZ": "Block",
+  "IONQ": "IonQ"
  }
 }
