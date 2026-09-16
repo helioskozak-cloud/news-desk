@@ -1,19 +1,45 @@
 {
- "generated": "2026-09-16T08:17:56.304468+00:00",
+ "generated": "2026-09-16T08:21:40.408938+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
   {
+   "id": "6dc5bc890b66",
+   "title": "Age Limits for Social Media Outlined by European Union",
+   "link": "https://www.nytimes.com/2026/09/16/business/european-union-social-media-ban.html",
+   "summary": "A proposed law would bar children under 13 from using social media across the 27-nation bloc.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-16T08:20:37+00:00",
+   "tickers": []
+  },
+  {
    "id": "007095aeeb64",
    "title": "Canada could become 'first associate member' of EU, bloc's chief says",
    "link": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
-   "summary": "European Commission President Ursula von der Leyen said the European Union is opening the door for Canada to become the first associate member of the 27-nation bloc.",
+   "summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
    "source": "CNBC Top",
    "category": "markets",
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-09-16T08:15:26+00:00",
+   "published": "2026-09-16T08:19:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d724199ec50e",
+   "title": "Stock futures mixed as Fed rate decision takes center stage",
+   "link": "https://seekingalpha.com/news/4643257-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-16T08:18:25+00:00",
    "tickers": []
   },
   {
@@ -8181,36 +8207,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "088ca76ad12d",
-   "title": "Uber president Jill Hazelbaker sells $2.01m in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/uber-president-jill-hazelbaker-sells-201m-in-stock-93CH-4902763",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-15T23:45:59+00:00",
-   "tickers": [
-    "UBER"
-   ]
-  },
-  {
-   "id": "c67e697c51f9",
-   "title": "Pagaya Technologies president Sanjiv Das sells $268,813 in stock.",
-   "link": "https://www.investing.com/news/insider-trading-news/pagaya-technologies-president-sanjiv-das-sells-268813-in-stock-93CH-4902762",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-15T23:45:58+00:00",
-   "tickers": [
-    "PGY"
-   ]
   }
  ],
  "ticker_names": {
@@ -8252,7 +8248,6 @@
   "AMAT": "Applied Materials",
   "AU": "AngloGold Ashanti",
   "LITE": "Lumentum Holdings",
-  "UBER": "Uber Technologies",
   "VERA": "Vera Therapeutics",
   "GD": "General Dynamics",
   "JPM": "JPMorgan Chase &",
