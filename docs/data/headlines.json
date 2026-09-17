@@ -1,8 +1,37 @@
 {
- "generated": "2026-09-17T08:47:07.998543+00:00",
+ "generated": "2026-09-17T08:51:51.693391+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c43ffaf03171",
+   "title": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
+   "link": "https://www.prnewswire.com/news-releases/advantech-expands-weda-powered-edge-ai-ecosystem-with-intel-qualcomm-and-amd-302881810.html",
+   "summary": "WEDA and ACC simplify development and accelerate scalable Edge AI deployment across diverse hardware platforms TAIPEI, Sept. 17, 2026 /PRNewswire/ -- Advantech Co., Ltd. (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-09-17T08:47:00+00:00",
+   "tickers": [
+    "AMD",
+    "INTC"
+   ]
+  },
+  {
+   "id": "aa64f9c118bb",
+   "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+   "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
+   "summary": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-17T08:46:04+00:00",
+   "tickers": []
+  },
   {
    "id": "e2fe1fb4527d",
    "title": "Annual General Meeting - Update Statement – Resolution 5 Voting Outcome",
@@ -30,6 +59,19 @@
    "tickers": [
     "NWSA"
    ]
+  },
+  {
+   "id": "54cca7ecf28e",
+   "title": "Northern Multi-Manager Global Listed Infrastructure Fund Q2 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4947386-northern-multi-manager-global-listed-infrastructure-fund-q2-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-17T08:44:00+00:00",
+   "tickers": []
   },
   {
    "id": "17df1e7ab14d",
@@ -5629,7 +5671,7 @@
    "id": "f9e9f4d6deed",
    "title": "Moonshot capitalism",
    "link": "https://www.ft.com/content/9f5ca8e1-b64d-4959-9d26-0ad94f127f28?syn-25a6b1a6=1",
-   "summary": "The start-ups attracting billions of dollars in funding as they pursue long-shot breakthroughs with the potential to transform the way we live",
+   "summary": "The start-ups attracting billions of dollars in funding as they pursue breakthroughs with the potential to transform the way we live",
    "source": "FT Companies",
    "category": "stocks",
    "type": "stocks",
@@ -8185,45 +8227,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-17T00:06:30+00:00",
    "tickers": []
-  },
-  {
-   "id": "763fec002f98",
-   "title": "UPDATE: Osisko Critical Minerals Corporation Announces C$100 Million Private Placement of Special Warrants",
-   "link": "https://www.globenewswire.com/news-release/2026/09/17/3363629/0/en/update-osisko-critical-minerals-corporation-announces-c-100-million-private-placement-of-special-warrants.html",
-   "summary": "In a release issued under the same headline earlier today by Osisko Critical Minerals Corporation (OTCQX: OMZNF; FRANKFURT: 0B51), please note that a correction has been made in the second paragraph. The word \"are\" in the first sentence of the CEO's comment was removed. The corrected release follows:",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-17T00:05:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c47ff89756fb",
-   "title": "Tela Bio director Capper acquires $78,442 in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/tela-bio-director-capper-acquires-78442-in-company-stock-93CH-4904709",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-17T00:04:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "019c27ef28d1",
-   "title": "El Pollo Loco: Multiple Catalysts Driving Sales Strength",
-   "link": "https://seekingalpha.com/article/4947263-el-pollo-loco-multiple-catalysts-driving-sales-strength?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-17T00:02:10+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8238,6 +8241,7 @@
   "APO": "Apollo Global Management",
   "GS": "The Goldman Sachs Group",
   "JKHY": "Jack Henry & Associates",
+  "AMD": "Advanced Micro Devices",
   "LSCC": "Lattice Semiconductor",
   "EGP": "EastGroup Properties",
   "EIX": "Edison International",
@@ -8329,6 +8333,7 @@
   "TWLO": "Twilio",
   "VST": "Vistra",
   "WSO": "Watsco",
+  "INTC": "Intel",
   "RHHBY": "Roche",
   "FLEX": "Flex",
   "IEX": "IDEX",
