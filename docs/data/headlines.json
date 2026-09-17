@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-17T05:17:19.630726+00:00",
+ "generated": "2026-09-17T05:21:51.509362+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "45f2e5989bf4",
+   "title": "Innate Pharma gives H1 results",
+   "link": "https://seekingalpha.com/news/4643634-innate-pharma-gives-h1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-17T05:19:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5f4b4f8a7860",
+   "title": "HSBC scraps $38,000 school subsidy for some Hong Kong bankers",
+   "link": "https://www.ft.com/content/3edfa4b0-a492-4627-b9ac-e6f11583242d?syn-25a6b1a6=1",
+   "summary": "Longstanding perk has been used to attract senior staff to Asian financial hub",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-09-17T05:15:01+00:00",
+   "tickers": [
+    "HSBC"
+   ]
+  },
   {
    "id": "2f5b480860a2",
    "title": "Exosens raises full-year 2026 guidance, driven by faster-than-expected capacity ramp-up and strong commercial momentum",
@@ -30,6 +58,37 @@
    "tickers": [
     "DE"
    ]
+  },
+  {
+   "id": "10e883718d14",
+   "title": "Snap partners with Nvidia, AWS, Salesforce to expand AR glasses into enterprise market",
+   "link": "https://seekingalpha.com/news/4643632-snap-partners-with-nvidia-aws-salesforce-to-expand-ar-glasses-into-enterprise-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-17T05:14:46+00:00",
+   "tickers": [
+    "CRM",
+    "SNAP",
+    "AMZN",
+    "AR"
+   ]
+  },
+  {
+   "id": "6582e1cf90c2",
+   "title": "BCB Bancorp prices $85.3M common stock offering",
+   "link": "https://seekingalpha.com/news/4643633-bcb-bancorp-prices-853m-common-stock-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-17T05:13:05+00:00",
+   "tickers": []
   },
   {
    "id": "fe7068b66f6f",
@@ -265,6 +324,22 @@
    "domain": "cnbc.com",
    "published": "2026-09-17T05:00:01+00:00",
    "tickers": []
+  },
+  {
+   "id": "8d305772c534",
+   "title": "Either Meta Glasses are selling extremely well or this Citi survey might have some issues",
+   "link": "https://www.ft.com/content/2739954a-816a-465a-ae21-7d846bb70365",
+   "summary": "Alternate virtual realities",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-09-17T05:00:01+00:00",
+   "tickers": [
+    "META",
+    "C"
+   ]
   },
   {
    "id": "6c574597d29c",
@@ -1684,7 +1759,7 @@
    "title": "Statement by CII Executive Director Glenn Davis on the SEC's Proposed Rescission of Rule 14a-8",
    "link": "https://www.prnewswire.com/news-releases/statement-by-cii-executive-director-glenn-davis-on-the-secs-proposed-rescission-of-rule-14a-8-302881338.html",
    "summary": "WASHINGTON, Sept. 16, 2026 /PRNewswire/ -- Let this moment settle in: The SEC, created for the purpose of protecting investors in the aftermath of the Crash of 1929, today proposed to rescind a World War II-era rule protecting shareholders' ability to suggest ideas to improve the...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -4609,9 +4684,9 @@
   },
   {
    "id": "f64791260248",
-   "title": "US lawmakers pass Russia sanctions bill",
+   "title": "US passes bill targeting importers of Russian oil",
    "link": "https://www.ft.com/content/42ab32f0-8c22-4912-a928-c73552305b7e?syn-25a6b1a6=1",
-   "summary": "Trump expected to sign measure into law that could impose levies on importers of Moscow’s energy, including US allies",
+   "summary": "Trump expected to sign measure authorising tariffs of up to 100% on buyers of Moscow’s energy supplies",
    "source": "FT Companies",
    "category": "stocks",
    "type": "stocks",
@@ -8224,9 +8299,9 @@
    "title": "Hackers demand Revolut pay $3mn ransom after data breach",
    "link": "https://www.ft.com/content/d1f2c9bd-26ce-4e87-9da4-fe0238bd531d?syn-25a6b1a6=1",
    "summary": "Group calling itself iamnotavillain threatens to sell customers’ confidential records to other criminals unless UK fintech pays within 24 hours",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-09-16T20:45:26+00:00",
@@ -8256,80 +8331,6 @@
    "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-09-16T20:45:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c591cbea9e75",
-   "title": "After-Hours Movers: GNRC, FLNC, LEN",
-   "link": "https://www.investing.com/news/stock-market-news/afterhours-movers-gnrc-flnc-len-432SI-4904551",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-16T20:45:02+00:00",
-   "tickers": [
-    "GNRC",
-    "FLNC",
-    "LEN"
-   ]
-  },
-  {
-   "id": "3c2ab028043c",
-   "title": "Wells Fargo Bank Increases Prime Rate to 7.00 Percent | WFC Stock News",
-   "link": "https://www.stocktitan.net/news/WFC/wells-fargo-bank-increases-prime-rate-to-7-00-hmpi4he5axpw.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-16T20:45:00+00:00",
-   "tickers": [
-    "WFC",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "b8425c73bf9a",
-   "title": "Why is Generac stock surging today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-generac-stock-surging-today-93CH-4904552",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-16T20:44:21+00:00",
-   "tickers": [
-    "GNRC"
-   ]
-  },
-  {
-   "id": "2cbea8eff42e",
-   "title": "Colorado Youth Sports Giving Day Sets New Record, Raises $7.2 Million to Expand Access to Youth Sports",
-   "link": "https://www.prnewswire.com/news-releases/colorado-youth-sports-giving-day-sets-new-record-raises-7-2-million-to-expand-access-to-youth-sports-302881144.html",
-   "summary": "Third annual statewide campaign supports 349 nonprofits and more than 500,000 young athletes DENVER, Sept. 16, 2026 /PRNewswire/ -- The third annual Colorado Youth Sports Giving Day campaign raised $7.2 million – surpassing last year's record by 38 percent – to expand access to sports for...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-09-16T20:44:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fa9f67b9c603",
-   "title": "Zipline valuation triples in $1 billion funding talks - Bloomberg",
-   "link": "https://www.investing.com/news/stock-market-news/zipline-valuation-triples-in-1-billion-funding-talks--bloomberg-93CH-4904549",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-16T20:43:19+00:00",
    "tickers": []
   }
  ],
@@ -8374,6 +8375,7 @@
   "PRIM": "Primoris Services",
   "QUBT": "Quantum Computing",
   "AMTM": "Amentum Holdings",
+  "AR": "Antero Resources",
   "CENX": "Century Aluminum",
   "FCX": "Freeport-McMoRan",
   "GNRC": "Generac Holdings",
@@ -8389,7 +8391,6 @@
   "CHYM": "Chime Financial",
   "PH": "Parker-Hannifin",
   "TEL": "TE Connectivity",
-  "FLNC": "Fluence Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "NEE": "NextEra Energy",
@@ -8398,6 +8399,7 @@
   "NET": "Cloudflare Inc",
   "CSCO": "Cisco Systems",
   "GXO": "GXO Logistics",
+  "HSBC": "HSBC Holdings",
   "KRC": "Kilroy Realty",
   "SGML": "Sigma Lithium",
   "TOL": "Toll Brothers",
@@ -8428,6 +8430,7 @@
   "AL": "Air Lease",
   "BC": "Brunswick",
   "BLK": "BlackRock",
+  "C": "Citigroup",
   "OGN": "Organon &",
   "SNOW": "Snowflake",
   "TE": "T1 Energy",
