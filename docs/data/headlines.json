@@ -1,8 +1,34 @@
 {
- "generated": "2026-09-18T08:51:59.611266+00:00",
+ "generated": "2026-09-18T08:57:13.574167+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0112a9e9c5ef",
+   "title": "Japan Raises Interest Rates to 31-Year High Under U.S. Pressure",
+   "link": "https://www.nytimes.com/2026/09/17/business/japan-interest-rates.html",
+   "summary": "The Bank of Japan’s widely expected move followed an unusual campaign by Treasury Secretary Scott Bessent for higher rates.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nytimes.com",
+   "published": "2026-09-18T08:52:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "376ad6387fe1",
+   "title": "Toyota: Rising Interest Rates And Plummeting Car Sales In China Force A Downgrade",
+   "link": "https://seekingalpha.com/article/4947760-toyota-rising-interest-rates-and-plummeting-car-sales-in-china-force-a-downgrade?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-18T08:52:21+00:00",
+   "tickers": []
+  },
   {
    "id": "f2e44cacab6c",
    "title": "U.S. likely to delay new tariffs until after Trump-Xi summit - report",
@@ -14,6 +40,32 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-09-18T08:49:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "642934228eed",
+   "title": "Earnings call transcript: Huuuge Games posts Q2 2026 revenue miss, buyback lifts outlook",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-huuuge-games-posts-q2-2026-revenue-miss-buyback-lifts-outlook-93CH-4906824",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-18T08:49:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3a779900321c",
+   "title": "Rothschild upgrades Southwest stock rating on product changes",
+   "link": "https://www.investing.com/news/analyst-ratings/rothschild-upgrades-southwest-stock-rating-on-product-changes-93CH-4906823",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-18T08:48:47+00:00",
    "tickers": []
   },
   {
@@ -30,17 +82,19 @@
    "tickers": []
   },
   {
-   "id": "0112a9e9c5ef",
-   "title": "Japan Raises Interest Rates to 31-Year High Under U.S. Pressure",
-   "link": "https://www.nytimes.com/2026/09/17/business/japan-interest-rates.html",
-   "summary": "The Bank of Japan’s widely expected move followed an unusual campaign by Treasury Secretary Scott Bessent for tighter monetary policy.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nytimes.com",
-   "published": "2026-09-18T08:45:10+00:00",
-   "tickers": []
+   "id": "8ce60b4fd2c2",
+   "title": "Is the UK equity pullback a buying opportunity? UBS turns attractive",
+   "link": "https://www.investing.com/news/stock-market-news/is-the-uk-equity-pullback-a-buying-opportunity-ubs-turns-attractive-4906822",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-18T08:44:30+00:00",
+   "tickers": [
+    "UBS"
+   ]
   },
   {
    "id": "f7056755f236",
@@ -58,6 +112,32 @@
    ]
   },
   {
+   "id": "b5cb1fc7963d",
+   "title": "Stocks and bonds dip as central banks jack up rates to tame inflation",
+   "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-18T08:42:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cca387c9984c",
+   "title": "China’s January-August fiscal revenue up 5.7% year-on-year",
+   "link": "https://www.investing.com/news/economic-indicators/chinas-januaryaugust-fiscal-revenue-up-57-yearonyear-4906821",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-18T08:42:29+00:00",
+   "tickers": []
+  },
+  {
    "id": "bacf0a4f971e",
    "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
    "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
@@ -68,6 +148,19 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-09-18T08:41:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a16d455f5734",
+   "title": "Nationwide Building Society lists AUD 1bn covered bonds",
+   "link": "https://www.investing.com/news/company-news/nationwide-building-society-lists-aud-1bn-covered-bonds-93CH-4906820",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-18T08:40:42+00:00",
    "tickers": []
   },
   {
@@ -84,6 +177,32 @@
    "tickers": []
   },
   {
+   "id": "7937e60b4e7d",
+   "title": "Oil extends declines amid easing supply concerns, ongoing diplomatic efforts",
+   "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-for-3rd-day-as-supply-concerns-ease-diplomacy-in-focus-4906634",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-18T08:39:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5c53cdc2eab7",
+   "title": "Toyota plans to deploy 400,000 humanoid robots to factories",
+   "link": "https://www.investing.com/news/company-news/toyota-plans-to-deploy-400000-humanoid-robots-to-factories-93CH-4906819",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-18T08:38:02+00:00",
+   "tickers": []
+  },
+  {
    "id": "722995e3c8fc",
    "title": "How A $1,000,000 Portfolio Can Produce $6,000 In Monthly Dividends",
    "link": "https://seekingalpha.com/article/4947757-how-a-1000000-portfolio-can-produce-6000-in-monthly-dividends?source=feed_all_articles",
@@ -95,6 +214,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-18T08:38:01+00:00",
    "tickers": []
+  },
+  {
+   "id": "2e10271c2160",
+   "title": "Citi sees EUR/JPY falling below ¥175 despite near-term rebound risk",
+   "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
+   "summary": "",
+   "source": "Investing Forex",
+   "category": "fx",
+   "type": "fx",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-18T08:37:50+00:00",
+   "tickers": [
+    "C"
+   ]
   },
   {
    "id": "5814a20face0",
@@ -110,6 +244,32 @@
    "tickers": [
     "MSTR"
    ]
+  },
+  {
+   "id": "bff61875b87c",
+   "title": "Volkswagen recalls over 208,000 vehicles for steering bolt defect",
+   "link": "https://www.investing.com/news/stock-market-news/volkswagen-recalls-over-208000-vehicles-for-steering-bolt-defect-93CH-4906817",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-18T08:35:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "952726b095ce",
+   "title": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.46%",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-046-4906816",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-18T08:35:03+00:00",
+   "tickers": []
   },
   {
    "id": "e02a0a5d3a46",
@@ -241,6 +401,19 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-09-18T08:26:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5a1567bed86a",
+   "title": "BofA’s Hartnett says the ’run it hot’ policy era is over",
+   "link": "https://www.investing.com/news/stock-market-news/bofas-hartnett-says-the-run-it-hot-policy-era-is-over-4906811",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-18T08:25:54+00:00",
    "tickers": []
   },
   {
@@ -1468,19 +1641,6 @@
    "tickers": [
     "QLD"
    ]
-  },
-  {
-   "id": "7937e60b4e7d",
-   "title": "Oil falls for 3rd straight day as supply concerns ease, diplomacy in focus",
-   "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-for-3rd-day-as-supply-concerns-ease-diplomacy-in-focus-4906634",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-18T07:21:10+00:00",
-   "tickers": []
   },
   {
    "id": "4c51e9728edd",
@@ -3256,19 +3416,6 @@
    "tickers": [
     "TSLA"
    ]
-  },
-  {
-   "id": "b5cb1fc7963d",
-   "title": "Stocks rise, yen weakens as BOJ split-vote hike tempers hawkish wagers",
-   "link": "https://www.investing.com/news/economy-news/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj-4906608",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-18T05:54:26+00:00",
-   "tickers": []
   },
   {
    "id": "49503ad287a7",
@@ -8064,161 +8211,6 @@
    "tickers": [
     "DELL"
    ]
-  },
-  {
-   "id": "110845a85e07",
-   "title": "Swarmer director Justin Zeefe’s fund sells $576,194 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/swarmer-director-justin-zeefes-fund-sells-576194-in-stock-93CH-4906535",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-17T22:16:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8029c0301009",
-   "title": "Accel Entertainment CAO Kozlik sells $6,352 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/accel-entertainment-cao-kozlik-sells-6352-in-shares-93CH-4906534",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-17T22:16:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f8c54f5c00af",
-   "title": "Inhibrx Biosciences director Jon Kayyem buys $500,000 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/inhibrx-biosciences-director-jon-kayyem-buys-500000-in-stock-93CH-4906533",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-17T22:15:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d33a0f062b72",
-   "title": "Cogent Communications Holdings (CCOI) Investors: Securities Fraud Class Action Filed, Contact Hagens Berman Before September 21, 2026 Lead Plaintiff Deadline",
-   "link": "https://www.prnewswire.com/news-releases/cogent-communications-holdings-ccoi-investors-securities-fraud-class-action-filed-contact-hagens-berman-before-september-21-2026-lead-plaintiff-deadline-302882608.html",
-   "summary": "SAN FRANCISCO, Sept. 17, 2026 /PRNewswire/ --  Hagens Berman Sobol Shapiro LLP —a national plaintiffs' rights law firm with a premier securities practice group—notifies investors in Cogent Communications Holdings, Inc. (NASDAQ: CCOI) of the upcoming September 21, 2026 lead plaintiff...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-09-17T22:15:00+00:00",
-   "tickers": [
-    "COGT"
-   ]
-  },
-  {
-   "id": "f26427782ac8",
-   "title": "Starbucks settles Florida lawsuit claiming diversity policies were illegal",
-   "link": "https://www.investing.com/news/stock-market-news/starbucks-settles-florida-lawsuit-claiming-diversity-policies-were-illegal-4906532",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-17T22:12:50+00:00",
-   "tickers": [
-    "SBUX"
-   ]
-  },
-  {
-   "id": "fdefcf86b655",
-   "title": "Earnings call transcript: Upexi tops Q4 2026 estimates as stock slips after hours",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-upexi-tops-q4-2026-estimates-as-stock-slips-after-hours-93CH-4906531",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-17T22:12:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a6cf16639d8b",
-   "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
-   "link": "https://www.investing.com/news/economy-news/anthropic-says-claude-now-leads-a-quarter-of-work-building-its-next-ai-models-4906530",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-17T22:12:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "50e0136d1321",
-   "title": "Nucor, Steel Dynamics slide after-hours on below-consensus Q3 earnings guidance",
-   "link": "https://seekingalpha.com/news/4644140-nucor-steel-dynamics-slide-after-hours-on-below-consensus-q3-earnings-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-17T22:12:06+00:00",
-   "tickers": [
-    "STLD",
-    "NUE"
-   ]
-  },
-  {
-   "id": "c8ced5676bb4",
-   "title": "Back By Popular Demand: Empire State Building Observation Deck Hosts Exclusive, Themed Silent Disco Nights on its Iconic 86th Floor Observation Deck | ESRT Stock News",
-   "link": "https://www.stocktitan.net/news/ESRT/back-by-popular-demand-empire-state-building-observation-deck-hosts-cifcnex25g6n.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-17T22:07:00+00:00",
-   "tickers": [
-    "BPOP",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "801fe2f64190",
-   "title": "Apple's Quality Is Tempting, But I'm Put Off By The Valuation",
-   "link": "https://seekingalpha.com/article/4947652-apple-stock-quality-is-tempting-but-put-off-by-valuation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-17T22:05:33+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "c7ef51e65bb1",
-   "title": "Murata Manufacturing: Market Has Priced In The AI Opportunity (Downgrade)",
-   "link": "https://seekingalpha.com/article/4947651-murata-manufacturing-market-priced-in-ai-opportunity-downgrade?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-17T22:05:15+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8247,7 +8239,6 @@
   "QLD": "ProShares Ultra QQQ",
   "TSEM": "Tower Semiconductor",
   "BEN": "Franklin Resources",
-  "COGT": "Cogent Biosciences",
   "HIMS": "Hims & Hers Health",
   "NYT": "The New York Times",
   "SCHW": "The Charles Schwab",
@@ -8270,7 +8261,6 @@
   "TEL": "TE Connectivity",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
-  "STLD": "Steel Dynamics",
   "AVAV": "AeroVironment",
   "CLH": "Clean Harbors",
   "ESLT": "Elbit Systems",
@@ -8310,13 +8300,11 @@
   "INGR": "Ingredion",
   "PKG": "Packaging",
   "RBA": "RB Global",
-  "SBUX": "Starbucks",
   "NWSA": "News Corp",
   "BCS": "Barclays",
   "DOCS": "Doximity",
   "GOOG": "Alphabet",
   "BLSH": "Bullish",
-  "BPOP": "Popular",
   "GLW": "Corning",
   "HUBS": "HubSpot",
   "IOT": "Samsara",
@@ -8331,7 +8319,6 @@
   "ORCL": "Oracle",
   "RBRK": "Rubrik",
   "RDDT": "Reddit",
-  "NUE": "Nucor",
   "BALL": "Ball"
  }
 }
