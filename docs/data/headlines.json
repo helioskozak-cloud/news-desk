@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-18T22:07:14.098043+00:00",
+ "generated": "2026-09-18T22:12:20.067106+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ed0ec9ea73ef",
+   "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+   "link": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+   "summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-18T22:07:18+00:00",
+   "tickers": []
+  },
   {
    "id": "c4b4e62c5ca3",
    "title": "CIRCA RESORT &amp; CASINO AND CIRCA SPORTS ANNOUNCED AS A'S FIRST FOUNDING PARTNER",
@@ -28,6 +41,36 @@
    "domain": "prnewswire.com",
    "published": "2026-09-18T22:03:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "97cee0b4890d",
+   "title": "Super Micro Computer And SMCX: Impressive AI Growth, Yet Far From A Smooth Ride",
+   "link": "https://seekingalpha.com/article/4947971-super-micro-computer-and-smcx-impressive-ai-growth-yet-far-from-a-smooth-ride?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-18T22:01:44+00:00",
+   "tickers": [
+    "SMCI"
+   ]
+  },
+  {
+   "id": "aa5ecda6d49f",
+   "title": "NiSource: Attractive Despite Data Center And Storm Recovery Concerns",
+   "link": "https://seekingalpha.com/article/4947970-nisource-attractive-despite-data-center-and-storm-recovery-concerns?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-18T22:01:37+00:00",
+   "tickers": [
+    "NI"
+   ]
   },
   {
    "id": "f994ccde3b51",
@@ -90,19 +133,6 @@
     "MTB",
     "NWSA"
    ]
-  },
-  {
-   "id": "ed0ec9ea73ef",
-   "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
-   "link": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
-   "summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-18T21:57:42+00:00",
-   "tickers": []
   },
   {
    "id": "1fcce9f8eafc",
@@ -8364,32 +8394,6 @@
    "tickers": [
     "FSLR"
    ]
-  },
-  {
-   "id": "b8bc2178ce85",
-   "title": "What’s really driving inflation and rising interest rates",
-   "link": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
-   "summary": "Also in Weekend Reads: The housing market, retirement planning with an age gap, and a combination of warnings and opportunities in the stock market.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-09-18T16:50:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6aa773d3c74a",
-   "title": "10 small-cap U.S. energy stocks with the weakest momentum grades",
-   "link": "https://seekingalpha.com/news/4644133-10-small-cap-us-energy-stocks-with-the-weakest-momentum-grades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-18T16:50:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8418,6 +8422,7 @@
   "HBAN": "Huntington Bancshares",
   "PLTR": "Palantir Technologies",
   "PG": "The Procter & Gamble",
+  "SMCI": "Super Micro Computer",
   "STZ": "Constellation Brands",
   "APGE": "Apogee Therapeutics",
   "FOLD": "Amicus Therapeutics",
@@ -8501,6 +8506,7 @@
   "DASH": "DoorDash",
   "GOOG": "Alphabet",
   "MTB": "M&T Bank",
+  "NI": "NiSource",
   "BLSH": "Bullish",
   "IDA": "IDACORP",
   "IVZ": "Invesco",
