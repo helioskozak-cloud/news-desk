@@ -1,8 +1,25 @@
 {
- "generated": "2026-09-19T03:17:01.834278+00:00",
+ "generated": "2026-09-19T03:22:23.491629+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "efeb8f06e645",
+   "title": "FVD: DGRO And SCHD Are Better Dividend Bets Barring A Deep Recession",
+   "link": "https://seekingalpha.com/article/4947998-fvd-dgro-and-schd-are-better-dividend-bets-barring-a-deep-recession?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-19T03:12:30+00:00",
+   "tickers": [
+    "FVD",
+    "DGRO",
+    "SCHD"
+   ]
+  },
   {
    "id": "5a11fd203d29",
    "title": "Antero Resources: Strong H2 2026 FCF Expected Amidst Cost Reduction Efforts",
@@ -513,7 +530,7 @@
   },
   {
    "id": "ca73c9eeec1a",
-   "title": "Google’s Gemini agents hacked three companies in new AI safety incident",
+   "title": "Google’s Gemini hacked three companies in new AI safety incident",
    "link": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
    "summary": "Breakout during training exercises follows instances at rivals OpenAI and Anthropic as concerns grow over safety of frontier systems",
    "source": "FT Companies",
@@ -8401,26 +8418,15 @@
    "domain": "prnewswire.com",
    "published": "2026-09-18T17:54:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "c890a4f79444",
-   "title": "U.S. FDA approves Inluriyo (imlunestrant) in combination with Verzenio (abemaciclib) for adults with ER+, HER2-, ESR1-mutated advanced or metastatic breast cancer",
-   "link": "https://www.prnewswire.com/news-releases/us-fda-approves-inluriyo-imlunestrant-in-combination-with-verzenio-abemaciclib-for-adults-with-er-her2-esr1-mutated-advanced-or-metastatic-breast-cancer-302883515.html",
-   "summary": "Inluriyo plus Verzenio delivers proven clinical benefit after the evidence-based practice of maximizing initial treatment with an aromatase inhibitor, with or without a CDK4/6 inhibitor In the Phase 3 EMBER-3 trial, Inluriyo in combination with Verzenio doubled median progression-free...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-09-18T17:54:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "XLY": "State Street Consumer Discretionary Select Sector SPDR ETF",
   "IWY": "iShares Russell Top 200 Growth ETF",
   "VEU": "Vanguard FTSE All World Ex US ETF",
+  "DGRO": "iShares Core Dividend Growth ETF",
   "SCHF": "Schwab International Equity ETF",
+  "SCHD": "Schwab US Dividend Equity ETF",
   "FXI": "iShares China Large-Cap ETF",
   "IBP": "Installed Building Products",
   "QQQ": "Invesco QQQ Trust, Series 1",
@@ -8430,6 +8436,7 @@
   "AHR": "American Healthcare REIT",
   "APO": "Apollo Global Management",
   "COLB": "Columbia Banking System",
+  "FVD": "First Trust VL Dividend",
   "HON": "Honeywell International",
   "AMD": "Advanced Micro Devices",
   "SH": "ProShares Short S&P500",
