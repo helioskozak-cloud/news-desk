@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-19T23:02:09.461627+00:00",
+ "generated": "2026-09-19T23:07:23.246072+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2451737b5de4",
+   "title": "California Cracks Down on Influencers’ Undisclosed Political Ads",
+   "link": "https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html",
+   "summary": "Under a new law, creators could face fines of $5,000 per post if they don’t disclose that they were paid to make political content.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-19T22:59:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b4349755953e",
+   "title": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-beats-lockheed-martin-risk-225000401.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T22:50:00+00:00",
+   "tickers": [
+    "LMT",
+    "NVDA",
+    "RTX"
+   ]
+  },
   {
    "id": "15dbfbe85473",
    "title": "XRP ETFs Have Been Frozen at $1.71 Billion. When Will Inflows Reach $2 Billion?",
@@ -974,7 +1004,7 @@
    "title": "Noticia de Artprice: una obra literaria universal se convierte en espejo para la inteligencia artificial",
    "link": "https://www.prnewswire.com/news-releases/noticia-de-artprice-una-obra-literaria-universal-se-convierte-en-espejo-para-la-inteligencia-artificial-302883852.html",
    "summary": "OpenAI/Astra, Perplexity, DeepSeek, Google Gemini y xAI/Grok se enfrentan a una misma obra: un experimento de metalectura transforma la crítica literaria en un laboratorio comparativo para la inteligencia artificial. PARIS, 19 de septiembre de 2026 /PRNewswire/ -- ¿Y si, para entender a...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1536,7 +1566,7 @@
    "title": "ARTPRICE-NACHRICHTEN: EIN WELTBUCH WIRD ZUM SPIEGEL DER KÜNSTLICHEN INTELLIGENZ",
    "link": "https://www.prnewswire.com/news-releases/artprice-nachrichten-ein-weltbuch-wird-zum-spiegel-der-kunstlichen-intelligenz-302883831.html",
    "summary": "OpenAI/Astra, Perplexity, DeepSeek, Google Gemini und xAI/Grok stehen vor derselben Herausforderung: Ein Meta-Lese-Experiment verwandelt die Literaturkritik in ein vergleichendes Labor für künstliche Intelligenz. PARIS, 19. September 2026 /PRNewswire/ -- Was wäre, wenn wir künstlichen...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8277,34 +8307,6 @@
    "domain": "investing.com",
    "published": "2026-09-18T23:15:55+00:00",
    "tickers": []
-  },
-  {
-   "id": "ce9d3d40839e",
-   "title": "Stocks face a key hurdle in next week’s U.S.-China summit. Here’s what’s at stake",
-   "link": "https://www.cnbc.com/2026/09/18/stock-market-next-week-outlook-for-sept-21-25-2026.html",
-   "summary": "The S&amp;P 500 and the Dow Industrials posted weekly losses as investors grappled with rising yields. Next week's U.S.-China summit could be a wildcard for stocks.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-18T23:14:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "530726d14da8",
-   "title": "AMD: Gambling With Limited Upside (Downgrade)",
-   "link": "https://seekingalpha.com/article/4947979-amd-gambling-with-limited-upside-downgrade?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-18T23:14:01+00:00",
-   "tickers": [
-    "AMD"
-   ]
   }
  ],
  "ticker_names": {
@@ -8384,6 +8386,7 @@
   "D": "Dominion Energy",
   "GFS": "GLOBALFOUNDRIES",
   "KRMN": "Karman Holdings",
+  "LMT": "Lockheed Martin",
   "LNG": "Cheniere Energy",
   "MBB": "iShares MBS ETF",
   "PYPL": "PayPal Holdings",
@@ -8406,6 +8409,7 @@
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
+  "NVDA": "Grace Hopper",
   "ARM": "Arm Holdings",
   "RACE": "Ferrari N.V.",
   "LCID": "Lucid Group",
@@ -8444,6 +8448,7 @@
   "PLD": "Prologis",
   "SQ": "Cash App",
   "SNAP": "Snapchat",
+  "RTX": "Raytheon",
   "FOX": "Fox Corp",
   "BLSH": "Bullish",
   "BPOP": "Popular",
