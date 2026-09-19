@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T19:02:09.462087+00:00",
+ "generated": "2026-09-19T19:07:14.620748+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -17,6 +17,19 @@
    "tickers": [
     "GOOGL"
    ]
+  },
+  {
+   "id": "697bb65d60a2",
+   "title": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil",
+   "link": "https://www.nytimes.com/2026/09/19/business/india-russia-sanctions-oil.html",
+   "summary": "India is trying to secure affordable energy while preserving a crucial relationship with Washington, a balancing act made harder by turmoil in global energy markets.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-19T18:58:53+00:00",
+   "tickers": []
   },
   {
    "id": "8f8228920be5",
@@ -45,6 +58,21 @@
    "tickers": []
   },
   {
+   "id": "e551896a3f35",
+   "title": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T18:37:47+00:00",
+   "tickers": [
+    "CTVA"
+   ]
+  },
+  {
    "id": "58c86174c1c5",
    "title": "US Treasury’s Bessent, China’s He to meet on Sunday at JPMorgan headquarters",
    "link": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-meet-on-sunday-at-jpmorgan-headquarters-4908112",
@@ -57,6 +85,21 @@
    "published": "2026-09-19T18:36:35+00:00",
    "tickers": [
     "JIRE"
+   ]
+  },
+  {
+   "id": "9bb802ab80f9",
+   "title": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T18:36:04+00:00",
+   "tickers": [
+    "RDW"
    ]
   },
   {
@@ -87,6 +130,22 @@
    "published": "2026-09-19T18:35:00+00:00",
    "tickers": [
     "NLY"
+   ]
+  },
+  {
+   "id": "8677b8cb5371",
+   "title": "Sempra (SRE) Just Locked In Two Decades of LNG Demand",
+   "link": "https://finance.yahoo.com/energy/articles/sempra-sre-just-locked-two-183448167.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T18:34:48+00:00",
+   "tickers": [
+    "SRE",
+    "LNG"
    ]
   },
   {
@@ -8253,62 +8312,6 @@
    "tickers": [
     "NDAQ"
    ]
-  },
-  {
-   "id": "b322a4c7ed8f",
-   "title": "Stifel Analyst Names Top Pick in Drone Sector",
-   "link": "https://www.investing.com/news/stock-market-news/stifel-analyst-names-top-pick-in-drone-sector-93CH-4907944",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-18T21:51:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9b34a5c60a9f",
-   "title": "Why is Accenture stock surging today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-accenture-stock-surging-today-93CH-4907943",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-18T21:50:18+00:00",
-   "tickers": [
-    "ACN"
-   ]
-  },
-  {
-   "id": "b20c328f73b3",
-   "title": "Mako Mining Announces Equity Incentive Grants | MAKO Stock News",
-   "link": "https://www.stocktitan.net/news/MAKO/mako-mining-announces-equity-incentive-fp6y1l6ybt3e.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-18T21:50:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "8575dced952e",
-   "title": "Bitcoin jumps, tops $80k for first time since Sept 7 & turns positive for the week",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-18T21:49:51+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8446,10 +8449,12 @@
   "BLSH": "Bullish",
   "BPOP": "Popular",
   "COR": "Cencora",
+  "CTVA": "Corteva",
   "EQIX": "Equinix",
   "GKOS": "Glaukos",
   "MRK": "Merck &",
   "MRNA": "Moderna",
+  "RDW": "Redwire",
   "SCI": "Service",
   "SNDK": "Sandisk",
   "WIX": "Wix.com",
@@ -8459,6 +8464,7 @@
   "AME": "AMETEK",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
+  "SRE": "Sempra",
   "AFL": "Aflac",
   "AMGN": "Amgen",
   "QRVO": "Qorvo",
