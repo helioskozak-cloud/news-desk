@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T22:22:20.481034+00:00",
+ "generated": "2026-09-19T22:27:02.732185+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -17,6 +17,35 @@
    "tickers": []
   },
   {
+   "id": "5d6f6d410d96",
+   "title": "Bank of America does the math on Apple's $1,200 iPhone offer",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-does-math-apples-220700012.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T22:07:00+00:00",
+   "tickers": [
+    "AAPL",
+    "BAC"
+   ]
+  },
+  {
+   "id": "d7cb25f38c03",
+   "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+   "link": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-19T22:06:28+00:00",
+   "tickers": []
+  },
+  {
    "id": "38a5c2d71e9a",
    "title": "Cardinal Health Targets 13%-15% EPS Growth as Specialty Momentum Builds",
    "link": "https://finance.yahoo.com/healthcare/articles/cardinal-health-targets-13-15-220157006.html",
@@ -29,6 +58,21 @@
    "published": "2026-09-19T22:01:57+00:00",
    "tickers": [
     "CAH"
+   ]
+  },
+  {
+   "id": "c0f546799679",
+   "title": "Intel Can Supply Only About Half of What Its Customers Want. That's a Better Problem Than It Sounds.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/intel-supply-only-half-customers-220101806.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T22:01:01+00:00",
+   "tickers": [
+    "INTC"
    ]
   },
   {
@@ -215,19 +259,6 @@
    "sentiment": "neutral",
    "domain": "finance.yahoo.com",
    "published": "2026-09-19T20:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d7cb25f38c03",
-   "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
-   "link": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-19T20:30:26+00:00",
    "tickers": []
   },
   {
@@ -8269,32 +8300,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "ef7443184c8b",
-   "title": "ASKUL Corporation 2027 Q1 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4947983-askul-corporation-2027-q1-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-18T23:09:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eeb4f5a495d8",
-   "title": "TBLA Deadline: TBLA Investors Have Opportunity to Lead Taboola.com Ltd. Securities Fraud Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/tbla-deadline-tbla-investors-have-opportunity-to-lead-taboolacom-ltd-securities-fraud-lawsuit-302883633.html",
-   "summary": "NEW YORK, Sept. 18, 2026 /PRNewswire/ -- Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Taboola.com Ltd. (NASDAQ: TBLA) between May 6, 2026 and August 4, 2026, both dates inclusive (the \"Class Period\"), of the important October 20, 2026 lead...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-09-18T23:09:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8456,6 +8461,7 @@
   "SRE": "Sempra",
   "AFL": "Aflac",
   "AMGN": "Amgen",
+  "INTC": "Intel",
   "DAVE": "Dave",
   "EBAY": "eBay",
   "IEX": "IDEX",
