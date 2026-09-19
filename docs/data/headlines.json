@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-19T22:07:16.711002+00:00",
+ "generated": "2026-09-19T22:12:10.332961+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5f5e97957009",
+   "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+   "link": "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html",
+   "summary": "Saudi Arabia had sent alerts overnight warning of potential danger around Riyadh, amid an escalation in attacks by the Houthis in the kingdom.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-19T22:06:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "38a5c2d71e9a",
+   "title": "Cardinal Health Targets 13%-15% EPS Growth as Specialty Momentum Builds",
+   "link": "https://finance.yahoo.com/healthcare/articles/cardinal-health-targets-13-15-220157006.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T22:01:57+00:00",
+   "tickers": [
+    "CAH"
+   ]
+  },
   {
    "id": "b62fc51ee84f",
    "title": "Haunted Attraction Fans Expect the Unexpected When Choosing Their Favorites",
@@ -17,17 +45,19 @@
    "tickers": []
   },
   {
-   "id": "5f5e97957009",
-   "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
-   "link": "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html",
-   "summary": "Saudi Arabia had sent alerts overnight warning of potential danger around Riyadh, amid an escalation in attacks by the Houthis in the kingdom.",
-   "source": "CNBC Top",
+   "id": "f0aeef77f6ae",
+   "title": "If a Stock Market Crash Is Coming, I'm Buying This 1 Vanguard ETF Without Hesitation",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-im-215000554.html",
+   "summary": "",
+   "source": "Yahoo Finance",
    "category": "markets",
    "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-19T21:57:18+00:00",
-   "tickers": []
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T21:50:00+00:00",
+   "tickers": [
+    "VYMI"
+   ]
   },
   {
    "id": "f7a32cc9db44",
@@ -8265,40 +8295,11 @@
    "domain": "prnewswire.com",
    "published": "2026-09-18T23:09:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "45b8ef9a3389",
-   "title": "DT Midstream, Inc. (DTM) Presents at Barclays 40th Annual Energy-Power Conference - Slideshow",
-   "link": "https://seekingalpha.com/article/4947982-dt-midstream-inc-dtm-presents-at-barclays-40th-annual-energy-power-conference-slideshow?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-18T23:08:51+00:00",
-   "tickers": [
-    "DTM",
-    "BCS",
-    "DT"
-   ]
-  },
-  {
-   "id": "3dd840b66242",
-   "title": "8x8, Inc. (EGHT) Discusses Market Opportunity and Strategic Advantages in Cloud Communications - Slideshow",
-   "link": "https://seekingalpha.com/article/4947981-8x8-inc-eght-discusses-market-opportunity-and-strategic-advantages-in-cloud-communications?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-18T23:08:04+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
+  "VYMI": "Vanguard International High Dividend Yield ETF",
   "XLB": "State Street Materials Select Sector SPDR ETF",
   "PPLT": "abrdn Physical Platinum Shares ETF",
   "DGRO": "iShares Core Dividend Growth ETF",
@@ -8388,7 +8389,6 @@
   "KMI": "Kinder Morgan",
   "POST": "Post Holdings",
   "MSTR": "MicroStrategy",
-  "DTM": "DT Midstream",
   "FER": "Ferrovial SE",
   "HSIC": "Henry Schein",
   "OSCR": "Oscar Health",
@@ -8415,7 +8415,6 @@
   "BLK": "BlackRock",
   "C": "Citigroup",
   "CRWV": "CoreWeave",
-  "DT": "Dynatrace",
   "SBUX": "Starbucks",
   "SNOW": "Snowflake",
   "SYNA": "Synaptics",
@@ -8423,7 +8422,6 @@
   "TEM": "Tempus AI",
   "ADBE": "Photoshop",
   "NWSA": "News Corp",
-  "BCS": "Barclays",
   "BP": "BP p.l.c",
   "CCL": "Carnival",
   "COHR": "Coherent",
