@@ -1,8 +1,23 @@
 {
- "generated": "2026-09-20T16:42:12.096016+00:00",
+ "generated": "2026-09-20T16:47:12.728735+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0e56dcf8fab1",
+   "title": "Centrus Energy (LEU) Lands New HALEU Deal with Antares",
+   "link": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-lands-haleu-163159900.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-20T16:31:59+00:00",
+   "tickers": [
+    "LEU"
+   ]
+  },
   {
    "id": "e304f462e7fe",
    "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
@@ -14,6 +29,19 @@
    "sentiment": "neutral",
    "domain": "marketwatch.com",
    "published": "2026-09-20T16:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "94e6f838d29e",
+   "title": "Definium’s LSD Pill Clears a Second Anxiety Trial, and the Psychedelics Sector Is Watching",
+   "link": "https://finance.yahoo.com/healthcare/articles/definium-lsd-pill-clears-second-162842492.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-20T16:28:42+00:00",
    "tickers": []
   },
   {
@@ -31,6 +59,34 @@
     "PCG",
     "PG"
    ]
+  },
+  {
+   "id": "c3846a9a8187",
+   "title": "Transocean (RIG) Scores an $80 Million Deepwater Contract in Africa",
+   "link": "https://finance.yahoo.com/energy/articles/transocean-rig-scores-80-million-162459514.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-20T16:24:59+00:00",
+   "tickers": [
+    "RIG"
+   ]
+  },
+  {
+   "id": "8e73879b2dc8",
+   "title": "Las Vegas on Social Security and a Small Pension Looks Easy on Paper. Year One Is the Real Test",
+   "link": "https://finance.yahoo.com/small-business/articles/las-vegas-social-security-small-162252681.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-20T16:22:52+00:00",
+   "tickers": []
   },
   {
    "id": "8933d69a9df0",
@@ -8224,64 +8280,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-19T13:28:09+00:00",
    "tickers": []
-  },
-  {
-   "id": "968d69608451",
-   "title": "Is Best Buy Stock Outperforming the Dow?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/best-buy-stock-outperforming-dow-132723594.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-19T13:27:23+00:00",
-   "tickers": [
-    "BBY"
-   ]
-  },
-  {
-   "id": "dbaea6e6468c",
-   "title": "Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks",
-   "link": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-fomc-132601621.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-19T13:26:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0494fa907345",
-   "title": "MS NOW says its journalists were denied entry to the White House amid Trump’s ban",
-   "link": "https://seekingalpha.com/news/4644562-ms-now-denied-entry-white-house?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-19T13:25:32+00:00",
-   "tickers": [
-    "MS"
-   ]
-  },
-  {
-   "id": "bff7087ac76e",
-   "title": "MS NOW, CNN journalists barred from White House after Trump’s ban",
-   "link": "https://seekingalpha.com/news/4644562-ms-now-cnn-denied-entry-white-house?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-19T13:25:32+00:00",
-   "tickers": [
-    "MS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8367,6 +8365,7 @@
   "WSM": "Williams-Sonoma",
   "ALLY": "Ally Financial",
   "DG": "Dollar General",
+  "LEU": "Centrus Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "NEE": "NextEra Energy",
@@ -8406,6 +8405,7 @@
   "GEV": "GE Vernova",
   "MCD": "McDonald's",
   "PLUG": "Plug Power",
+  "RIG": "Transocean",
   "SPGI": "S&P Global",
   "STLA": "Stellantis",
   "MSFT": "Office 365",
@@ -8420,7 +8420,6 @@
   "NWSA": "News Corp",
   "APP": "AppLovin",
   "AVGO": "Broadcom",
-  "BBY": "Best Buy",
   "BCS": "Barclays",
   "CCL": "Carnival",
   "DOCS": "Doximity",
