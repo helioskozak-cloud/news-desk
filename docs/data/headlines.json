@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T16:36:51.054782+00:00",
+ "generated": "2026-09-20T16:42:12.096016+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,22 @@
    "domain": "marketwatch.com",
    "published": "2026-09-20T16:30:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "ae637a12b042",
+   "title": "I'm Watching PG&E Closely, but Here's Why I Haven't Bought the Dip",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/im-watching-pg-e-closely-162500840.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-20T16:25:00+00:00",
+   "tickers": [
+    "PCG",
+    "PG"
+   ]
   },
   {
    "id": "8933d69a9df0",
@@ -8266,19 +8282,6 @@
    "tickers": [
     "MS"
    ]
-  },
-  {
-   "id": "80bc50e4844d",
-   "title": "Puig: Undervalued With Growth Ahead",
-   "link": "https://seekingalpha.com/article/4948073-puig-undervalued-with-growth-ahead?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-19T13:25:27+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8315,6 +8318,7 @@
   "AMPX": "Amprius Technologies",
   "CRWD": "CrowdStrike Holdings",
   "FERG": "Ferguson Enterprises",
+  "PG": "The Procter & Gamble",
   "PRU": "Prudential Financial",
   "AXSM": "Axsome Therapeutics",
   "FITB": "Fifth Third Bancorp",
@@ -8457,6 +8461,7 @@
   "EBAY": "eBay",
   "IEX": "IDEX",
   "NVMI": "Nova",
+  "PCG": "PG&E",
   "V": "Visa",
   "KLAC": "KLA"
  }
