@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T11:47:18.536885+00:00",
+ "generated": "2026-09-20T11:51:43.291884+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -389,9 +389,9 @@
    "title": "US retailer rations motor oil as prices quadruple and supplies run dry",
    "link": "https://www.ft.com/content/64f90ab8-5fb0-4594-a900-d03e5ca051e3?syn-25a6b1a6=1",
    "summary": "Iran war has created global shortage of lubricant used in vehicle engines",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-09-20T10:00:03+00:00",
@@ -402,8 +402,8 @@
    "title": "Dangote IPO is a test for African capitalism",
    "link": "https://www.ft.com/content/ae6eec6b-94b4-4ef1-bec9-c3f1cb153bb1?syn-25a6b1a6=1",
    "summary": "Landmark flotation could reshape how the continent invests in industry",
-   "source": "FT Markets",
-   "category": "markets",
+   "source": "FT Companies",
+   "category": "stocks",
    "type": "offering",
    "sentiment": "neutral",
    "domain": "ft.com",
@@ -415,9 +415,9 @@
    "title": "Trump’s regulatory rollback puts $400mn in US audit fees at risk",
    "link": "https://www.ft.com/content/b455ab48-76ef-4fd4-9137-1f666344ab45?syn-25a6b1a6=1",
    "summary": "Accounting firms are fighting SEC proposal to loosen the post-Enron rules that have handed them a revenue bonanza",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-09-20T10:00:03+00:00",
@@ -1035,7 +1035,7 @@
    "title": "Hotel &amp; Shop Plus 2027: Seamless Synergy across Design, Sustainability, Digitalization",
    "link": "https://www.prnewswire.com/news-releases/hotel--shop-plus-2027-seamless-synergy-across-design-sustainability-digitalization-302883937.html",
    "summary": "SHANGHAI, Sept. 20, 2026 /PRNewswire/ -- Organized by Sinoexpo Informa Markets and leading Chinese and international industry organizations, Hotel & Shop Plus Shanghai 2027, the leading trade fair for the hotel, retail, office and public-space industries, is scheduled for March 30–April...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -7520,6 +7520,23 @@
    ]
   },
   {
+   "id": "74d2b12aa05b",
+   "title": "QLD Doubles the Nasdaq-100 Instead of Tripling It. That 2X Middle Ground Is Why It Survives Crashes TQQQ Doesn’t",
+   "link": "https://finance.yahoo.com/markets/options/articles/qld-doubles-nasdaq-100-instead-105534783.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T10:55:34+00:00",
+   "tickers": [
+    "NDAQ",
+    "QLD",
+    "TQQQ"
+   ]
+  },
+  {
    "id": "ebc57b3a2442",
    "title": "Simon Property (SPG) Group Raised Its Outlook Again",
    "link": "https://finance.yahoo.com/real-estate/articles/simon-property-spg-group-raised-105326029.html",
@@ -8243,19 +8260,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-19T08:25:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "2b1f5a94959c",
-   "title": "Marketing Discipline Pays Off as GDEV Improves Operating Cash Flow",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/marketing-discipline-pays-off-gdev-082304068.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-19T08:23:04+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8285,6 +8289,7 @@
   "AMD": "Advanced Micro Devices",
   "CASY": "Casey's General Stores",
   "SWK": "Stanley Black & Decker",
+  "TQQQ": "ProShares UltraPro QQQ",
   "WBD": "Warner Bros. Discovery",
   "AJG": "Arthur J. Gallagher &",
   "CWST": "Casella Waste Systems",
@@ -8301,6 +8306,7 @@
   "VOO": "Vanguard S&P 500 ETF",
   "AXSM": "Axsome Therapeutics",
   "FITB": "Fifth Third Bancorp",
+  "QLD": "ProShares Ultra QQQ",
   "ACGL": "Arch Capital Group",
   "BRK-A": "Berkshire Hathaway",
   "COGT": "Cogent Biosciences",
