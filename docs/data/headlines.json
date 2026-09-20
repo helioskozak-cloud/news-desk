@@ -1,8 +1,23 @@
 {
- "generated": "2026-09-20T00:01:52.111847+00:00",
+ "generated": "2026-09-20T00:07:14.957547+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8eb550eea6b1",
+   "title": "I Think IBM Stock Will Be Higher in 5 Years. I Still Wouldn't Buy It Today.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/think-ibm-stock-higher-5-234301197.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T23:43:01+00:00",
+   "tickers": [
+    "IBM"
+   ]
+  },
   {
    "id": "d7cb25f38c03",
    "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
@@ -199,6 +214,19 @@
    "category": "markets",
    "type": "markets",
    "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T23:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "09a2bc336284",
+   "title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
+   "link": "https://finance.yahoo.com/energy/articles/energy-giants-betting-billions-world-230000196.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
    "domain": "finance.yahoo.com",
    "published": "2026-09-19T23:00:00+00:00",
    "tickers": []
@@ -8274,36 +8302,6 @@
    "tickers": [
     "MS"
    ]
-  },
-  {
-   "id": "320032507953",
-   "title": "Anthropic brings in Accenture for AI safety testing",
-   "link": "https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6=1",
-   "summary": "CEO Dario Amodei says labs should more deeply embed third-party testers as concerns grow around risks associated with the technology",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-09-18T23:38:50+00:00",
-   "tickers": [
-    "ACN"
-   ]
-  },
-  {
-   "id": "3869d5a478b8",
-   "title": "Williams-Sonoma EVP Jeffrey Howie sells $671,771 in WSM shares",
-   "link": "https://www.investing.com/news/insider-trading-news/williamssonoma-evp-jeffrey-howie-sells-671771-in-wsm-shares-93CH-4907993",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-18T23:34:49+00:00",
-   "tickers": [
-    "WSM"
-   ]
   }
  ],
  "ticker_names": {
@@ -8389,7 +8387,6 @@
   "PYPL": "PayPal Holdings",
   "TRGP": "Targa Resources",
   "TXRH": "Texas Roadhouse",
-  "WSM": "Williams-Sonoma",
   "ALLY": "Ally Financial",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
