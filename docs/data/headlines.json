@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T15:31:50.075328+00:00",
+ "generated": "2026-09-20T15:36:46.353869+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,21 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-20T15:21:29+00:00",
    "tickers": []
+  },
+  {
+   "id": "7a3c40331deb",
+   "title": "The Caterpillar Correction Shouldn't Last Much Longer",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-correction-shouldnt-last-much-152000520.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-20T15:20:00+00:00",
+   "tickers": [
+    "CAT"
+   ]
   },
   {
    "id": "fd3433c4be10",
@@ -87,6 +102,21 @@
    "tickers": [
     "FOX",
     "NWSA"
+   ]
+  },
+  {
+   "id": "4eabf00ecbe2",
+   "title": "Why Kinder Morgan Stock’s Payout Ratio Rebound to 77% Matters for Future Raises",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-kinder-morgan-stock-payout-151120679.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-20T15:11:20+00:00",
+   "tickers": [
+    "KMI"
    ]
   },
   {
@@ -8244,36 +8274,6 @@
    "tickers": [
     "QQQ"
    ]
-  },
-  {
-   "id": "509a5c664213",
-   "title": "IDEX Corporation: One Segment's Impressive Growth Is Not Enough To Carry The Rest",
-   "link": "https://seekingalpha.com/article/4948060-idex-one-segments-impressive-growth-is-not-enough-to-carry-the-rest?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-19T12:32:43+00:00",
-   "tickers": [
-    "IEX"
-   ]
-  },
-  {
-   "id": "937304fd363b",
-   "title": "Gallagher’s (AJG) Colorado Deal Is Another Brick in a Very Big Wall",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/gallagher-ajg-colorado-deal-another-123050148.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-19T12:30:50+00:00",
-   "tickers": [
-    "AJG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8302,7 +8302,6 @@
   "CASY": "Casey's General Stores",
   "RYTM": "Rhythm Pharmaceuticals",
   "SWK": "Stanley Black & Decker",
-  "AJG": "Arthur J. Gallagher &",
   "CWST": "Casella Waste Systems",
   "DKS": "DICK'S Sporting Goods",
   "DOG": "ProShares Short Dow30",
@@ -8366,6 +8365,7 @@
   "BRO": "Brown & Brown",
   "CSCO": "Cisco Systems",
   "FNV": "Franco-Nevada",
+  "KMI": "Kinder Morgan",
   "LLY": "Eli Lilly and",
   "POST": "Post Holdings",
   "MSTR": "MicroStrategy",
@@ -8381,6 +8381,7 @@
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "ARM": "Arm Holdings",
+  "CAT": "Caterpillar",
   "LCID": "Lucid Group",
   "PSX": "Phillips 66",
   "S": "SentinelOne",
