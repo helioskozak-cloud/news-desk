@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T23:56:53.118786+00:00",
+ "generated": "2026-09-20T00:01:52.111847+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -1804,6 +1804,21 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-19T17:33:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "6ecbddda5148",
+   "title": "Amodei, Altman, and Musk Called for an AI Slowdown. Here’s Why It’s a Warning Sign for ASML Shareholders.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/amodei-altman-musk-called-ai-173002836.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T17:30:02+00:00",
+   "tickers": [
+    "ASML"
+   ]
   },
   {
    "id": "a36058b55d4e",
@@ -8289,21 +8304,6 @@
    "tickers": [
     "WSM"
    ]
-  },
-  {
-   "id": "fb6e87b011b3",
-   "title": "Synaptics SVP Lisa Bodensteiner sells $30,938 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/synaptics-svp-lisa-bodensteiner-sells-30938-in-stock-93CH-4907992",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-18T23:34:15+00:00",
-   "tickers": [
-    "SYNA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8399,6 +8399,7 @@
   "FNV": "Franco-Nevada",
   "POST": "Post Holdings",
   "MSTR": "MicroStrategy",
+  "ASML": "ASML Holding",
   "FER": "Ferrovial SE",
   "HSIC": "Henry Schein",
   "OSCR": "Oscar Health",
@@ -8429,7 +8430,6 @@
   "CRWV": "CoreWeave",
   "SBUX": "Starbucks",
   "SNOW": "Snowflake",
-  "SYNA": "Synaptics",
   "TEAM": "Atlassian",
   "TEM": "Tempus AI",
   "ADBE": "Photoshop",
