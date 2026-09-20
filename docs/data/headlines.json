@@ -1,8 +1,34 @@
 {
- "generated": "2026-09-20T08:17:15.585230+00:00",
+ "generated": "2026-09-20T08:22:24.253895+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0de9cd9831d7",
+   "title": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
+   "link": "https://www.investing.com/news/economy-news/saudi-gulf-stocks-fall-after-houthisclaim-riyadh-attacks-4908151",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-20T08:12:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "080970946e8b",
+   "title": "Reform UK’s record donations face risk from election spending review",
+   "link": "https://www.investing.com/news/economy-news/reform-uks-record-donations-face-risk-from-election-spending-review-4908150",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-20T08:11:41+00:00",
+   "tickers": []
+  },
   {
    "id": "0ae6a7f7ea79",
    "title": "Ping An Good Doctor Launches \" Ping An GlobalCare\": AI-Powered Multilingual Services Break Down Healthcare Barriers for Expats in China",
@@ -7078,6 +7104,34 @@
    "tickers": []
   },
   {
+   "id": "2b1f5a94959c",
+   "title": "Marketing Discipline Pays Off as GDEV Improves Operating Cash Flow",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/marketing-discipline-pays-off-gdev-082304068.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T08:23:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7f038e1b6383",
+   "title": "ResMed Inc. (RMD)’s Sleep Apnea Leadership Supports Growth Despite Rising Competitive Pressures",
+   "link": "https://finance.yahoo.com/healthcare/articles/resmed-inc-rmd-sleep-apnea-081836880.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T08:18:36+00:00",
+   "tickers": [
+    "RMD"
+   ]
+  },
+  {
    "id": "3edf2c0f1010",
    "title": "DLH Holdings director Mink Brook Asset Management buys $2,047 in stock",
    "link": "https://www.investing.com/news/insider-trading-news/dlh-holdings-director-mink-brook-asset-management-buys-2047-in-stock-93CH-4908065",
@@ -8230,65 +8284,6 @@
    "tickers": [
     "SMCI"
    ]
-  },
-  {
-   "id": "c3ff8379a534",
-   "title": "What History Says About Insurance Stocks When Bond Yields Rise",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-insurance-stocks-bond-023500616.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-19T02:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a3878a2e4776",
-   "title": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger",
-   "link": "https://www.nytimes.com/2026/09/18/business/paramount-warner-bros-settlement.html",
-   "summary": "Seeking to settle a lawsuit with 12 states, Paramount has discussed measures to protect the editorial independence of CNN and the divestiture of Comedy Central.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-19T02:33:53+00:00",
-   "tickers": [
-    "WBD",
-    "PARA"
-   ]
-  },
-  {
-   "id": "46d50fe00403",
-   "title": "Accenture: The Rally Has Only Just Begun (Earnings Preview)",
-   "link": "https://seekingalpha.com/article/4947995-accenture-the-rally-has-only-just-begun-earnings-preview?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-19T02:31:19+00:00",
-   "tickers": [
-    "ACN"
-   ]
-  },
-  {
-   "id": "83204dab8e2f",
-   "title": "Ross Gerber Sees Jensen Huang’s Charisma As Part Of Nvidia’s Edge, Says ‘This Is Why I Own Nvidia’ After Dreamforce Exchange With Marc Benioff: 'Big is Unnecessary'",
-   "link": "https://finance.yahoo.com/technology/ai/articles/ross-gerber-sees-jensen-huang-023051012.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-19T02:30:51+00:00",
-   "tickers": [
-    "ROST"
-   ]
   }
  ],
  "ticker_names": {
@@ -8394,7 +8389,6 @@
   "ARM": "Arm Holdings",
   "RACE": "Ferrari N.V.",
   "LCID": "Lucid Group",
-  "ROST": "Ross Stores",
   "S": "SentinelOne",
   "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
@@ -8451,6 +8445,7 @@
   "ORCL": "Oracle",
   "PFE": "Pfizer",
   "RDDT": "Reddit",
+  "RMD": "ResMed",
   "SRE": "Sempra",
   "AFL": "Aflac",
   "AMGN": "Amgen",
