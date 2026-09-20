@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T22:52:56.875244+00:00",
+ "generated": "2026-09-20T22:57:21.334563+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -17,6 +17,24 @@
    "tickers": []
   },
   {
+   "id": "4dfb6b937dd9",
+   "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investors.com",
+   "published": "2026-09-20T22:37:40+00:00",
+   "tickers": [
+    "AMD",
+    "HOOD",
+    "MRNA",
+    "SNDK"
+   ]
+  },
+  {
    "id": "391d70e35f6e",
    "title": "Stock futures rise slightly after Dow posts third straight losing week: Live updates",
    "link": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
@@ -28,6 +46,37 @@
    "domain": "cnbc.com",
    "published": "2026-09-20T22:35:25+00:00",
    "tickers": []
+  },
+  {
+   "id": "b59fea89b8b9",
+   "title": "Dollar General EVP Reardon Sells 5,578 Shares",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-evp-reardon-sells-223502393.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-20T22:35:02+00:00",
+   "tickers": [
+    "DG"
+   ]
+  },
+  {
+   "id": "fc36da1fb7b7",
+   "title": "Realty Income or Agree Realty During a REIT Sell-Off?",
+   "link": "https://finance.yahoo.com/real-estate/articles/realty-income-agree-realty-during-223501210.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-20T22:35:01+00:00",
+   "tickers": [
+    "O",
+    "ADC"
+   ]
   },
   {
    "id": "773e06d41daf",
@@ -43,21 +92,18 @@
    "tickers": []
   },
   {
-   "id": "4dfb6b937dd9",
-   "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+   "id": "8670e4c00d25",
+   "title": "Bill Ackman Built a $2.4 Billion Stake in Microsoft, Calling It a \"Core Holding\" Bought at a \"Highly Compelling Valuation.\" Here's Why He's Betting Big on Big Tech.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-built-2-4-222900517.html",
    "summary": "",
    "source": "Yahoo Finance",
    "category": "markets",
    "type": "markets",
-   "sentiment": "positive",
-   "domain": "investors.com",
-   "published": "2026-09-20T22:22:10+00:00",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-20T22:29:00+00:00",
    "tickers": [
-    "AMD",
-    "HOOD",
-    "MRNA",
-    "SNDK"
+    "MSFT"
    ]
   },
   {
@@ -8277,49 +8323,6 @@
     "SRE",
     "LNG"
    ]
-  },
-  {
-   "id": "301c57f49ee9",
-   "title": "They Signed the House Over to Their Daughter but Kept the Right to Sell It or Take It Back. That One Clause Kept the Nursing Home Bill Off the House and Handed Her a Clean Basis Too",
-   "link": "https://finance.yahoo.com/real-estate/articles/signed-house-over-daughter-kept-183336586.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-19T18:33:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "17b4ff44fe18",
-   "title": "AMETEK’s (AME) $5B Deal Bets Big On A Hot Streak",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ametek-ame-5b-deal-bets-183135450.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-19T18:31:35+00:00",
-   "tickers": [
-    "AME"
-   ]
-  },
-  {
-   "id": "730cb4c0ef84",
-   "title": "$949 million fraud verdict costs CVS a business in Chapter 11",
-   "link": "https://finance.yahoo.com/healthcare/articles/cvs-division-completes-chapter-11-150700440.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-19T18:28:58+00:00",
-   "tickers": [
-    "CVS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8424,8 +8427,10 @@
   "JOBY": "Joby Aviation",
   "KMI": "Kinder Morgan",
   "LLY": "Eli Lilly and",
+  "O": "Realty Income",
   "VLO": "Valero Energy",
   "MSTR": "MicroStrategy",
+  "ADC": "Agree Realty",
   "ASML": "ASML Holding",
   "BKR": "Baker Hughes",
   "CHRD": "Chord Energy",
@@ -8450,7 +8455,6 @@
   "BN": "Brookfield",
   "BROS": "Dutch Bros",
   "BX": "Blackstone",
-  "CVS": "CVS Health",
   "GEV": "GE Vernova",
   "MCD": "McDonald's",
   "PLUG": "Plug Power",
@@ -8493,7 +8497,6 @@
   "SNDK": "Sandisk",
   "WIX": "Wix.com",
   "ABBV": "AbbVie",
-  "AME": "AMETEK",
   "GRMN": "Garmin",
   "INCY": "Incyte",
   "LEN": "Lennar",
