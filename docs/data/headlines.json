@@ -1,8 +1,54 @@
 {
- "generated": "2026-09-20T22:24:56.166223+00:00",
+ "generated": "2026-09-20T22:31:55.756795+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "bca8de2925d5",
+   "title": "Oil rises after Houthi attack on Saudi capital",
+   "link": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-20T22:18:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4dfb6b937dd9",
+   "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investors.com",
+   "published": "2026-09-20T22:16:49+00:00",
+   "tickers": [
+    "AMD",
+    "HOOD",
+    "MRNA",
+    "SNDK"
+   ]
+  },
+  {
+   "id": "665d8dc96fcf",
+   "title": "3 Things You Need to Know Before Buying IonQ Stock",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-things-know-buying-ionq-221100276.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-20T22:11:00+00:00",
+   "tickers": [
+    "IONQ"
+   ]
+  },
   {
    "id": "65e7c0dfcc53",
    "title": "Banyan Announces $50 Million LIFE Offering and Concurrent $8 Million Private Placement",
@@ -98,24 +144,6 @@
    "published": "2026-09-20T21:57:50+00:00",
    "tickers": [
     "WMG"
-   ]
-  },
-  {
-   "id": "4dfb6b937dd9",
-   "title": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investors.com",
-   "published": "2026-09-20T21:57:41+00:00",
-   "tickers": [
-    "AMD",
-    "HOOD",
-    "MRNA",
-    "SNDK"
    ]
   },
   {
@@ -8294,34 +8322,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-09-19T18:21:05+00:00",
    "tickers": []
-  },
-  {
-   "id": "d06689e9e087",
-   "title": "Oracle: Backlog Burden Implies More Capex Pains - Contrarian AI Buy Thesis",
-   "link": "https://seekingalpha.com/article/4948072-oracle-backlog-burden-implies-more-capex-pains-contrarian-ai-buy-thesis?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-19T18:21:00+00:00",
-   "tickers": [
-    "ORCL"
-   ]
-  },
-  {
-   "id": "7cc19a772a1a",
-   "title": "Brazil’s Petrobras board approves joining diesel subsidy program",
-   "link": "https://www.investing.com/news/commodities-news/brazils-petrobras-board-approves-joining-diesel-subsidy-program-4908111",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-19T18:18:31+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8512,6 +8512,7 @@
   "DAVE": "Dave",
   "EBAY": "eBay",
   "IEX": "IDEX",
+  "IONQ": "IonQ",
   "NVMI": "Nova",
   "PCG": "PG&E",
   "T": "AT&T",
