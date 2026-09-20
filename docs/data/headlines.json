@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T14:42:23.104495+00:00",
+ "generated": "2026-09-20T14:47:16.457484+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -27,6 +27,19 @@
    "sentiment": "negative",
    "domain": "seekingalpha.com",
    "published": "2026-09-20T14:39:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "008b54e5e59b",
+   "title": "The 'robot relations' department may become reality in workplace of the future",
+   "link": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
+   "summary": "AI, from chatbots to humanoids and automated management systems, are being widely deployed by corporations with huge repercussions for worker pay and autonomy.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-20T14:37:34+00:00",
    "tickers": []
   },
   {
@@ -626,7 +639,7 @@
    "title": "Insurance Expert Ben Buenzow Explains Small Business Insurance Priorities in HelloNation",
    "link": "https://www.prnewswire.com/news-releases/insurance-expert-ben-buenzow-explains-small-business-insurance-priorities-in-hellonation-302883689.html",
    "summary": "The article outlines how small businesses in the Des Moines metro can prioritize insurance coverage to manage operational and financial risks. URBANDALE, Iowa, Sept. 20, 2026 /PRNewswire/ -- What insurance coverage should a small business in the Des Moines metro secure first to protect...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1041,7 +1054,7 @@
    "title": "Eightco Holdings (NASDAQ: ORBS) meldt totale bezittingen van ongeveer USD 380 miljoen, waaronder belangen in OpenAI en Beast Industries, meer dan 16.000 ETH en bijna 302 miljoen WLD-tokens",
    "link": "https://www.prnewswire.com/news-releases/eightco-holdings-nasdaq-orbs-meldt-totale-bezittingen-van-ongeveer-usd-380-miljoen-waaronder-belangen-in-openai-en-beast-industries-meer-dan-16-000-eth-en-bijna-302-miljoen-wld-tokens-302884012.html",
    "summary": "Samenstelling van de treasury van Eightco per 16 september 2026: USD 90 miljoen aan indirecte aandelenbelangen in OpenAI, USD 18 miljoen aan aandelenbelangen in Beast Industries, 16.278 ETH, bijna 302 miljoen WLD-tokens en USD120 miljoen aan liquide middelen en kasequivalenten, goed voor...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -6575,6 +6588,22 @@
    "tickers": []
   },
   {
+   "id": "17093df503e9",
+   "title": "1 Year Into the Microsoft Deal, IREN Is Delivering and a Rally May Follow Soon",
+   "link": "https://finance.yahoo.com/technology/ai/articles/1-microsoft-deal-iren-delivering-142734921.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "finance.yahoo.com",
+   "published": "2026-09-19T14:27:34+00:00",
+   "tickers": [
+    "MSFT",
+    "IREN"
+   ]
+  },
+  {
    "id": "8669ec926f6e",
    "title": "Big Phase Transition Of AI Alpha",
    "link": "https://seekingalpha.com/article/4948083-big-phase-transition-of-ai-alpha?source=feed_all_articles",
@@ -8240,34 +8269,6 @@
    "domain": "markets.businessinsider.com",
    "published": "2026-09-19T12:01:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "ad07baa9926d",
-   "title": "Bill Ackman's Pershing Square IPO Breaks Out",
-   "link": "https://www.investors.com/news/bill-ackman-pershing-square-ipo-stock-setting-up/?src=A00220&yptr=yahoo",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "investors.com",
-   "published": "2026-09-19T12:00:59+00:00",
-   "tickers": [
-    "SQ"
-   ]
-  },
-  {
-   "id": "6c312e1c9c59",
-   "title": "Carl Icahn Added Nearly 69 Million Shares of His Own Company Last Quarter",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/carl-icahn-added-nearly-69-120057213.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-09-19T12:00:57+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8363,6 +8364,7 @@
   "ASML": "ASML Holding",
   "DVLT": "Datavault AI",
   "FER": "Ferrovial SE",
+  "IREN": "IREN Limited",
   "MP": "MP Materials",
   "OSCR": "Oscar Health",
   "GOOGL": "Google Cloud",
@@ -8382,6 +8384,7 @@
   "PLUG": "Plug Power",
   "SPGI": "S&P Global",
   "STLA": "Stellantis",
+  "MSFT": "Office 365",
   "PARA": "Paramount+",
   "ACN": "Accenture",
   "AL": "Air Lease",
