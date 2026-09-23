@@ -34,37 +34,42 @@
   .parse-actions button:hover{border-color:var(--amber)}
   .ticker-grid{margin-top:14px;display:grid;grid-template-columns:repeat(auto-fill,minmax(70px,1fr));gap:5px;max-height:300px;overflow-y:auto;background:#0a0a0a;border:1px solid var(--border);padding:10px;border-radius:6px}
   .ticker-grid .pill{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--amber);border:1px solid #5a3a00;padding:3px 6px;text-align:center;background:#000}
+  /* finvisible design system (assets/fv.css, 2026-09-22), applied 2026-09-23:
+     finvisible's ground, greys, gain/loss and radius, so the suite reads as one
+     product. news-desk keeps ONE accent, its amber, re-toned off pure neon, and
+     keeps its category colours (softened) — owner, 2026-09-23: "slightly more
+     color, maybe one specific accent palette". */
   :root {
-    --bg:#000;
-    --panel:#0a0a0a;
-    --row:#0f0f0f;
-    --row-alt:#131313;
-    --border:#1f1f1f;
-    --border-bright:#2a2a2a;
-    --text:#d4d4d4;
-    --bright:#fff;
-    --muted:#6b6b6b;
-    --dim:#3a3a3a;
-    --amber:#ff9b00;
-    --amber-soft:#ff9b0033;
-    --cyan:#00d4ff;
-    --green:#00ff7f;
-    --red:#ff3b3b;
-    --magenta:#ff5cc8;
-    --blue:#5fa8ff;
-    --yellow:#ffd84d;
+    --bg:#050505;
+    --panel:#0e0e0e;
+    --row:#0a0a0a;
+    --row-alt:#0e0e0e;
+    --border:#1d1d1d;
+    --border-bright:#2e2e2e;
+    --text:#c9c9c9;
+    --bright:#f2f2f2;
+    --muted:#8f8f8f;
+    --dim:#5f5f5f;
+    --amber:#f5a524;
+    --amber-soft:#f5a52433;
+    --cyan:#6cc3d9;
+    --green:#3fae6a;
+    --red:#e5484d;
+    --magenta:#d77cc0;
+    --blue:#5b9dff;
+    --yellow:#d4a72c;
   }
   *{box-sizing:border-box;margin:0;padding:0}
   html,body{background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',-apple-system,sans-serif;font-size:13px;line-height:1.4;overflow-x:hidden}
   ::-webkit-scrollbar{width:10px;height:10px}
-  ::-webkit-scrollbar-track{background:#000}
+  ::-webkit-scrollbar-track{background:#050505}
   ::-webkit-scrollbar-thumb{background:var(--border-bright);border-radius:5px}
   ::-webkit-scrollbar-thumb:hover{background:#404040}
   a{color:var(--cyan);text-decoration:none}
   a:hover{text-decoration:underline}
 
   /* ── Top bar (function-key style) ─────────────────────────── */
-  .topbar{position:sticky;top:0;z-index:100;background:#000;border-bottom:1px solid var(--amber);padding:6px 12px;display:flex;align-items:center;gap:14px;font-family:'IBM Plex Mono',monospace;font-size:11px;flex-wrap:wrap}
+  .topbar{position:sticky;top:0;z-index:100;background:#050505;border-bottom:1px solid var(--amber);padding:6px 12px;display:flex;align-items:center;gap:14px;font-family:'IBM Plex Mono',monospace;font-size:11px;flex-wrap:wrap}
   .topbar .brand{color:var(--amber);font-weight:700;letter-spacing:.15em;font-size:13px}
   /* ?embed=1 — see the script just after the opening body tag. Hides only the
      brand bar so this page can sit inside regime-desk's News tab without two
@@ -76,7 +81,7 @@
 
   /* Embedded, the greys become regime-desk's. Standalone news-desk keeps its
      own black terminal palette — this only applies inside the frame.
-     news-desk's greys are neutral (#000 → #6b6b6b); regime-desk's are
+     news-desk's greys are neutral (#050505 → #8f8f8f); regime-desk's are
      GitHub-dark, which is blue-tinted and a step lighter. Side by side in one
      page the neutral set reads as a dead patch rather than a different panel.
      Redefined on body rather than :root so the override wins by specificity
@@ -84,16 +89,16 @@
      The accents (amber, cyan, green, red) are deliberately untouched — those
      are news-desk's identity, and the ask was the greys. */
   body.nd-embed{
-    --bg:#0d1117;
-    --panel:#161b22;
-    --row:#161b22;
-    --row-alt:#1c2129;
-    --border:#21262d;
-    --border-bright:#30363d;
-    --text:#c9d1d9;
-    --bright:#f0f6fc;
-    --muted:#8b949e;
-    --dim:#6e7681;
+    --bg:#050505;
+    --panel:#0e0e0e;
+    --row:#0e0e0e;
+    --row-alt:#121212;
+    --border:#1d1d1d;
+    --border-bright:#2e2e2e;
+    --text:#c9c9c9;
+    --bright:#f2f2f2;
+    --muted:#8f8f8f;
+    --dim:#5f5f5f;
   }
   /* Not everything reads the variables — these hardcode black, so remapping
      the palette alone would leave them as dark patches against the new greys.
@@ -111,8 +116,8 @@
      the literal colour rather than adding classes keeps this to one place
      instead of touching the renderers, which is the right trade for a
      cosmetic override that only applies inside the frame. */
-  body.nd-embed [style*="background:#000"]{background:var(--bg)!important}
-  body.nd-embed [style*="background:#0a0a0a"]{background:var(--panel)!important}
+  body.nd-embed [style*="background:#050505"]{background:var(--bg)!important}
+  body.nd-embed [style*="background:#0e0e0e"]{background:var(--panel)!important}
   .topbar .brand span{color:var(--muted);font-weight:400;letter-spacing:.05em;margin-left:6px}
   .topbar .clock{color:var(--green);font-weight:600;margin-left:auto}
   .topbar .clock .label{color:var(--muted);margin-right:6px;font-weight:400}
@@ -125,13 +130,13 @@
   .tabs::-webkit-scrollbar{display:none}
   .tab{padding:9px 16px;color:var(--muted);background:none;border:none;cursor:pointer;font-family:inherit;font-size:11px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;border-bottom:2px solid transparent;white-space:nowrap}
   .tab:hover{color:var(--text)}
-  .tab.active{color:var(--amber);border-bottom-color:var(--amber);background:#0a0a0a}
+  .tab.active{color:var(--amber);border-bottom-color:var(--amber);background:#0e0e0e}
   .tab .count{color:var(--muted);font-weight:400;margin-left:6px}
   .tab.active .count{color:var(--text)}
 
   /* ── Toolbar ──────────────────────────────────────────────── */
-  .toolbar{background:#080808;border-bottom:1px solid var(--border);padding:8px 12px;display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-family:'IBM Plex Mono',monospace;font-size:11px}
-  .toolbar input,.toolbar select{background:#000;border:1px solid var(--border-bright);color:var(--text);padding:4px 8px;border-radius:0;font-family:inherit;font-size:11px}
+  .toolbar{background:#0a0a0a;border-bottom:1px solid var(--border);padding:8px 12px;display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-family:'IBM Plex Mono',monospace;font-size:11px}
+  .toolbar input,.toolbar select{background:#050505;border:1px solid var(--border-bright);color:var(--text);padding:4px 8px;border-radius:4px;font-family:inherit;font-size:11px}
   .toolbar input[type="text"]{width:200px}
   .toolbar input:focus,.toolbar select:focus{border-color:var(--amber);outline:none}
   .toolbar .lbl{color:var(--muted);text-transform:uppercase;letter-spacing:.05em;font-weight:600}
@@ -141,16 +146,16 @@
 
   /* ── Stream view ──────────────────────────────────────────── */
   .stream{font-family:'IBM Plex Sans',sans-serif}
-  .grp{background:#000;color:var(--amber);padding:14px 12px 4px;font-family:'IBM Plex Mono',monospace;font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.15em;border-bottom:1px solid var(--border)}
+  .grp{background:#050505;color:var(--amber);padding:14px 12px 4px;font-family:'IBM Plex Mono',monospace;font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.15em;border-bottom:1px solid var(--border)}
   .row{display:grid;grid-template-columns:54px 76px 1fr 130px;gap:10px;padding:7px 12px;background:var(--row);border-bottom:1px solid var(--border);align-items:start;cursor:pointer;transition:background .08s}
   .row .ticks-col{display:flex;flex-direction:column;gap:2px;padding-top:0}
   .row .ticker-primary{font-family:'IBM Plex Mono',monospace;font-size:14px;font-weight:700;color:var(--amber);letter-spacing:.02em;line-height:1.1;cursor:pointer}
-  .row .ticker-primary:hover{text-shadow:0 0 6px rgba(255,155,0,.6)}
+  .row .ticker-primary:hover{text-shadow:0 0 6px rgba(245,165,36,.6)}
   .row .ticker-others{display:flex;flex-wrap:wrap;gap:3px;margin-top:2px}
   .row .ticker-others span{font-family:'IBM Plex Mono',monospace;font-size:9.5px;color:var(--muted);background:transparent;border:1px solid var(--border-bright);padding:0 4px;cursor:pointer;font-weight:600}
   .row .ticker-others span:hover{color:var(--amber);border-color:var(--amber-soft)}
   .row:nth-child(even){background:var(--row-alt)}
-  .row:hover{background:#1a1a1a}
+  .row:hover{background:#141414}
   .row .time{font-family:'IBM Plex Mono',monospace;color:var(--muted);font-size:11px;padding-top:1px;white-space:nowrap}
   .row .ticks{display:flex;flex-wrap:wrap;gap:3px;padding-top:1px}
   .row .ticks .t{background:transparent;color:var(--amber);font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:700;padding:1px 5px;border:1px solid var(--amber-soft);cursor:pointer}
@@ -159,14 +164,14 @@
   .row .title a{color:inherit}
   .row .title a:hover{color:var(--amber);text-decoration:none}
   /* Sentiment color: thin left accent on the row + slight title tint */
-  .row.sent-positive{box-shadow:inset 3px 0 0 #2e7d32}
-  .row.sent-positive .title a{color:#a6f4b9}
-  .row.sent-negative{box-shadow:inset 3px 0 0 #b73a3a}
-  .row.sent-negative .title a{color:#ffb8b8}
-  .play-row.sent-positive{box-shadow:inset 3px 0 0 #2e7d32}
-  .play-row.sent-positive .body .title{color:#a6f4b9}
-  .play-row.sent-negative{box-shadow:inset 3px 0 0 #b73a3a}
-  .play-row.sent-negative .body .title{color:#ffb8b8}
+  .row.sent-positive{box-shadow:inset 3px 0 0 #3fae6a}
+  .row.sent-positive .title a{color:#a3dcb6}
+  .row.sent-negative{box-shadow:inset 3px 0 0 #e5484d}
+  .row.sent-negative .title a{color:#f0b0b0}
+  .play-row.sent-positive{box-shadow:inset 3px 0 0 #3fae6a}
+  .play-row.sent-positive .body .title{color:#a3dcb6}
+  .play-row.sent-negative{box-shadow:inset 3px 0 0 #e5484d}
+  .play-row.sent-negative .body .title{color:#f0b0b0}
   .row .meta{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted);text-align:right;white-space:nowrap;padding-top:2px}
   .row .meta .typ{display:inline-block;color:var(--muted);text-transform:uppercase;font-weight:600;letter-spacing:.05em;padding:0 4px;border:1px solid var(--border-bright);margin-right:4px}
   .row .meta .src{color:var(--muted);font-weight:500}
@@ -179,25 +184,25 @@
   .typ-analyst{color:var(--cyan) !important;border-color:#1f4d5e !important}
   .typ-earnings{color:var(--yellow) !important;border-color:#5e571f !important}
   .typ-ma{color:var(--magenta) !important;border-color:#5e1f4d !important}
-  .typ-fda{color:#5fff9e !important;border-color:#1f5e3e !important}
-  .typ-legal{color:#ff7a45 !important;border-color:#5e3e1f !important}
+  .typ-fda{color:#5fc98a !important;border-color:#1f5e3e !important}
+  .typ-legal{color:#e07a4f !important;border-color:#5e3e1f !important}
   .typ-guidance{color:var(--yellow) !important;border-color:#5e571f !important}
   .typ-dividend{color:var(--cyan) !important;border-color:#1f4d5e !important}
   .typ-offering{color:#a78bfa !important;border-color:#3e1f5e !important}
-  .typ-8k{color:#fbbf24 !important;border-color:#5e441f !important}
+  .typ-8k{color:#d4a72c !important;border-color:#5e441f !important}
   .typ-macro{color:var(--blue) !important;border-color:#1f3e5e !important}
   .typ-press{color:#a78bfa !important;border-color:#3e1f5e !important}
-  .typ-filings{color:#fbbf24 !important;border-color:#5e441f !important}
+  .typ-filings{color:#d4a72c !important;border-color:#5e441f !important}
 
   /* ── In Play view ─────────────────────────────────────────── */
-  .play-ticker-bar{background:#080808;color:var(--amber);padding:10px 12px;border-bottom:1px solid var(--border);font-family:'IBM Plex Mono',monospace;font-size:11px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+  .play-ticker-bar{background:#0a0a0a;color:var(--amber);padding:10px 12px;border-bottom:1px solid var(--border);font-family:'IBM Plex Mono',monospace;font-size:11px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
   .play-ticker-bar .lbl{color:var(--muted);text-transform:uppercase;letter-spacing:.1em;margin-right:8px}
   .play-ticker-bar .t{color:var(--amber);border:1px solid var(--amber-soft);padding:2px 8px;cursor:pointer;font-weight:700}
   .play-ticker-bar .t:hover{background:var(--amber-soft)}
-  .play-ticker-bar .t.active{background:var(--amber);color:#000}
+  .play-ticker-bar .t.active{background:var(--amber);color:#050505}
   .play-row{display:grid;grid-template-columns:60px 70px 1fr 90px 110px;gap:10px;padding:7px 12px;background:var(--row);border-bottom:1px solid var(--border);align-items:start;cursor:pointer}
   .play-row:nth-child(even){background:var(--row-alt)}
-  .play-row:hover{background:#1a1a1a}
+  .play-row:hover{background:#141414}
   .play-row .time{font-family:'IBM Plex Mono',monospace;color:var(--muted);font-size:11px;white-space:nowrap;padding-top:1px}
   .play-row .ticker{font-family:'IBM Plex Mono',monospace;color:var(--amber);font-size:14px;font-weight:700;letter-spacing:.02em;padding-top:0}
   .play-row .multi{font-family:'IBM Plex Mono',monospace;color:var(--muted);font-size:10px;padding-top:2px}
@@ -508,10 +513,10 @@ function renderBookHeader(){
   const fileLabel = s.filename
     ? `loaded from <strong style="color:var(--text)">${escapeHtml(s.filename)}</strong>`
     : 'pasted manually';
-  return `<div style="padding:10px 14px;background:#0a0a0a;border-bottom:1px solid var(--border);font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);display:flex;align-items:center;gap:12px;flex-wrap:wrap">
+  return `<div style="padding:10px 14px;background:#0e0e0e;border-bottom:1px solid var(--border);font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);display:flex;align-items:center;gap:12px;flex-wrap:wrap">
     <span><strong style="color:var(--amber)">${STATE.watchlist.length}</strong> tickers · ${fileLabel}</span>
-    <button id="bookReload" style="background:#000;border:1px solid var(--border-bright);color:var(--text);padding:4px 10px;font-family:inherit;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer">↻ Reload holdings file</button>
-    <button id="bookClear" style="background:#000;border:1px solid var(--border-bright);color:var(--text);padding:4px 10px;font-family:inherit;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer">Clear book</button>
+    <button id="bookReload" style="background:#050505;border:1px solid var(--border-bright);color:var(--text);padding:4px 10px;font-family:inherit;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer">↻ Reload holdings file</button>
+    <button id="bookClear" style="background:#050505;border:1px solid var(--border-bright);color:var(--text);padding:4px 10px;font-family:inherit;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer">Clear book</button>
   </div>`;
 }
 
@@ -543,7 +548,7 @@ function renderBookUpload(){
       <input type="file" id="hldFile" accept=".xlsx,.xls,.csv">
     </label>
     <p class="lead" style="margin-top:16px">Or paste tickers separated by commas / spaces / newlines:</p>
-    <textarea id="hldPaste" rows="3" placeholder="AAPL MSFT NVDA GOOGL META TSLA AMZN" style="width:100%;background:#0a0a0a;border:1px solid var(--border-bright);color:var(--text);padding:10px;font-family:'IBM Plex Mono',monospace;font-size:12px;border-radius:6px"></textarea>
+    <textarea id="hldPaste" rows="3" placeholder="AAPL MSFT NVDA GOOGL META TSLA AMZN" style="width:100%;background:#0e0e0e;border:1px solid var(--border-bright);color:var(--text);padding:10px;font-family:'IBM Plex Mono',monospace;font-size:12px;border-radius:6px"></textarea>
     <div class="parse-actions">
       <button onclick="_pasteWatchlist()" class="primary">Load these tickers</button>
     </div>
@@ -812,8 +817,8 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
   tip.id = 'nd-tip';
   Object.assign(tip.style, {
     position:'fixed', zIndex:'500', display:'none', pointerEvents:'none',
-    background:'#0a0a0a', border:'1px solid var(--amber)',
-    boxShadow:'0 8px 24px rgba(0,0,0,.7), 0 0 18px rgba(255,155,0,.18)',
+    background:'#0e0e0e', border:'1px solid var(--amber)',
+    boxShadow:'0 8px 24px rgba(0,0,0,.7), 0 0 18px rgba(245,165,36,.18)',
     color:'var(--text)', padding:'10px 12px', maxWidth:'320px',
     fontFamily:'IBM Plex Sans, sans-serif', fontSize:'12px', lineHeight:'1.5',
     borderRadius:'2px',
@@ -858,18 +863,18 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
     const wkRng = (wkHigh - wkLow) || 1;
     const wkPos = Math.max(0, Math.min(100, ((s.price - wkLow) / wkRng) * 100));
     const rangeBar = `<div style="margin-top:6px">
-      <div style="display:flex;justify-content:space-between;color:#6e7681;font-size:9px;margin-bottom:2px;font-family:IBM Plex Mono,monospace">
+      <div style="display:flex;justify-content:space-between;color:#5f5f5f;font-size:9px;margin-bottom:2px;font-family:IBM Plex Mono,monospace">
         <span>$${wkLow.toFixed(2)}</span>
         <span style="color:#484f58">7d range</span>
         <span>$${wkHigh.toFixed(2)}</span>
       </div>
-      <div style="position:relative;height:4px;background:#1c1c1c;border-radius:2px">
+      <div style="position:relative;height:4px;background:#1d1d1d;border-radius:2px">
         <div style="position:absolute;left:${wkPos.toFixed(0)}%;top:-2px;width:2px;height:8px;background:${pc};transform:translateX(-1px);border-radius:1px"></div>
       </div>
     </div>`;
-    return `<div style="border-top:1px solid #1c1c1c;border-bottom:1px solid #1c1c1c;margin:8px 0;padding:6px 0">
+    return `<div style="border-top:1px solid #1d1d1d;border-bottom:1px solid #1d1d1d;margin:8px 0;padding:6px 0">
       <div style="display:flex;align-items:baseline;gap:8px;font-family:IBM Plex Mono,monospace">
-        <span style="color:#f0f6fc;font-size:16px;font-weight:700">$${s.price.toFixed(2)}</span>
+        <span style="color:#f2f2f2;font-size:16px;font-weight:700">$${s.price.toFixed(2)}</span>
         <span style="color:${pc};font-size:12px;font-weight:700">${sign}${s.change_pct.toFixed(2)}%</span>
         <span style="color:#484f58;font-size:10px;letter-spacing:.05em">TODAY</span>
       </div>
@@ -891,7 +896,7 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
 
     const recentList = recent.map(h => {
       const t = h.type || 'news';
-      return `<div style="border-top:1px solid #1c1c1c;padding-top:6px;margin-top:6px">
+      return `<div style="border-top:1px solid #1d1d1d;padding-top:6px;margin-top:6px">
         <div style="color:var(--muted);font-size:10px;font-family:IBM Plex Mono,monospace;margin-bottom:2px">${escapeHtml(h.source)} · ${relTime(h.published)}</div>
         <div style="color:var(--text);font-size:12px;line-height:1.4">${escapeHtml(h.title.length>90?h.title.slice(0,90)+'…':h.title)}</div>
       </div>`;
@@ -899,14 +904,14 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
 
     const typeChips = topTypes.length
       ? '<div style="margin-top:6px;display:flex;flex-wrap:wrap;gap:4px">'+
-          topTypes.map(([t,c])=>`<span style="font-family:IBM Plex Mono,monospace;font-size:9px;color:var(--muted);background:#181818;padding:1px 5px;border:1px solid #2a2a2a;letter-spacing:.05em;text-transform:uppercase">${t} ${c}</span>`).join('')+
+          topTypes.map(([t,c])=>`<span style="font-family:IBM Plex Mono,monospace;font-size:9px;color:var(--muted);background:#181818;padding:1px 5px;border:1px solid #2e2e2e;letter-spacing:.05em;text-transform:uppercase">${t} ${c}</span>`).join('')+
         '</div>'
       : '';
 
     tip.innerHTML = ''+
       '<div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">'+
         `<img src="https://assets.parqet.com/logos/symbol/${ticker}?format=jpg" width="26" height="26" `+
-        `style="border-radius:3px;background:#fff;border:1px solid #2a2a2a;object-fit:contain;flex-shrink:0" `+
+        `style="border-radius:3px;background:#fff;border:1px solid #2e2e2e;object-fit:contain;flex-shrink:0" `+
         `onerror="this.style.display='none'" loading="lazy">`+
         `<strong style="color:var(--amber);font-family:IBM Plex Mono,monospace;font-size:16px;letter-spacing:.04em">${ticker}</strong>`+
       '</div>'+
