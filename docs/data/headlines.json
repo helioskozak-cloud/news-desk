@@ -1,8 +1,37 @@
 {
- "generated": "2026-09-23T03:22:19.079767+00:00",
+ "generated": "2026-09-23T03:27:29.755889+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c546664df25c",
+   "title": "Boston Capital Holdings Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Customer Data Is Exposed",
+   "link": "https://www.prnewswire.com/news-releases/boston-capital-holdings-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed-302887015.html",
+   "summary": "National class action law firm offers free, confidential case evaluations to Boston Capital Holdings LP investors, tenants, partners, and others whose personal information may have been exposed in the reported data breach. NEWTOWN, Pa., Sept. 22, 2026 /PRNewswire/ -- Edelson Lechtzin LLP,...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-09-23T03:24:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e2afe651b7bf",
+   "title": "Pylontech начинает массовое производство элементов LFP 588 А•ч и 601 А•ч для ESS",
+   "link": "https://www.prnewswire.com/news-releases/pylontech-----lfp-588---601---ess-302887014.html",
+   "summary": "ХЭФЭЙ, Китай, 23 сентября 2026 г. /PRNewswire/ -- 21 сентября Pylontech (688063:SH) начинает массовое производство своих призматических элементов LFP 588 А•ч и 601 А•ч для ESS на своей производственной базе в Хэфэй, что знаменует собой новый шаг в расширении компании в области накопления...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-23T03:22:00+00:00",
+   "tickers": [
+    "ESS",
+    "SH"
+   ]
+  },
   {
    "id": "f94067a5d5be",
    "title": "California Lutheran University Center for Nonprofit Leadership Announces the Release of 2026 Ventura County Nonprofit Sector Report: Assessing the Financial Health and Resilience of Ventura County's Nonprofit Sector",
@@ -150,6 +179,19 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-09-23T03:06:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bf7dac990a2d",
+   "title": "How China and the US can work together on AI security",
+   "link": "https://www.ft.com/content/6558cf93-7e09-41fd-9da9-558bb80064ff?syn-25a6b1a6=1",
+   "summary": "Xi-Trump meeting should build on plans for dialogue on shared risks",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-09-23T03:00:07+00:00",
    "tickers": []
   },
   {
@@ -8380,54 +8422,6 @@
     "ECL",
     "NWSA"
    ]
-  },
-  {
-   "id": "0b3a31ace02f",
-   "title": "IonQ Demonstrates Industry’s First End-to-End Real-Time Quantum Error Decoder | IONQ Stock News",
-   "link": "https://www.stocktitan.net/news/IONQ/ion-q-demonstrates-industry-s-first-end-to-end-real-time-quantum-hyq1ijoarz2d.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-22T20:00:00+00:00",
-   "tickers": [
-    "IONQ",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "3f7d218d6cdb",
-   "title": "Hancock Whitney Corporation to Announce Third Quarter 2026 Financial Results and Host Conference Call October 20 | HWC Stock News",
-   "link": "https://www.stocktitan.net/news/HWC/hancock-whitney-corporation-to-announce-third-quarter-2026-financial-77uq7w3c63eq.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-22T20:00:00+00:00",
-   "tickers": [
-    "HWC",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "7de01d28ec37",
-   "title": "Pinnacle Financial Partners announces dates for third quarter 2026 earnings release and conference call | PNFP Stock News",
-   "link": "https://www.stocktitan.net/news/PNFP/pinnacle-financial-partners-announces-dates-for-third-quarter-2026-bj3w7ubm6m3j.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-22T20:00:00+00:00",
-   "tickers": [
-    "PNFP",
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8440,7 +8434,6 @@
   "SEI": "Solaris Energy Infrastructure",
   "WST": "West Pharmaceutical Services",
   "BAH": "Booz Allen Hamilton Holding",
-  "PNFP": "Pinnacle Financial Partners",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "FBIN": "Fortune Brands Innovations",
   "GEHC": "GE HealthCare Technologies",
@@ -8454,6 +8447,7 @@
   "AMD": "Advanced Micro Devices",
   "CMG": "Chipotle Mexican Grill",
   "CPRI": "Capri Holdings Limited",
+  "SH": "ProShares Short S&P500",
   "SWK": "Stanley Black & Decker",
   "WBD": "Warner Bros. Discovery",
   "DOCN": "DigitalOcean Holdings",
@@ -8480,7 +8474,6 @@
   "THC": "Tenet Healthcare",
   "GE": "General Electric",
   "BAC": "Bank of America",
-  "HWC": "Hancock Whitney",
   "LDOS": "Leidos Holdings",
   "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
