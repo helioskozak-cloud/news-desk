@@ -11,29 +11,29 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230d1117'/%3E%3Crect x='5.5' y='6.5' width='21' height='5' rx='1.5' fill='%23f85149'/%3E%3Cg fill='%238b949e'%3E%3Crect x='5.5' y='14.5' width='21' height='3' rx='1.5'/%3E%3Crect x='5.5' y='19.5' width='21' height='3' rx='1.5'/%3E%3Crect x='5.5' y='24.5' width='12' height='3' rx='1.5'/%3E%3C/g%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500;600;700&family=Geist:wght@400;500;600;700&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js" defer></script>
 <style>
   /* Holdings tab — file uploader + parsed-tickers display */
-  .holdings-panel{padding:18px 16px;color:var(--text);font-family:'IBM Plex Sans',sans-serif}
-  .holdings-panel h2{font-family:'IBM Plex Mono',monospace;letter-spacing:.06em;font-size:14px;text-transform:uppercase;color:var(--amber);margin-bottom:6px}
+  .holdings-panel{padding:18px 16px;color:var(--text);font-family:'Geist',sans-serif}
+  .holdings-panel h2{font-family:'Geist Mono',monospace;letter-spacing:.06em;font-size:14px;text-transform:uppercase;color:var(--amber);margin-bottom:6px}
   .holdings-panel p.lead{color:var(--muted);font-size:12px;line-height:1.55;max-width:700px;margin-bottom:14px}
   .drop-zone{border:2px dashed var(--border-bright);background:#0a0a0a;padding:32px;text-align:center;cursor:pointer;border-radius:6px;transition:border-color .15s,background .15s;margin-bottom:14px}
   .drop-zone:hover, .drop-zone.dragover{border-color:var(--amber);background:#0f0c05}
-  .drop-zone .big{font-family:'IBM Plex Mono',monospace;font-size:14px;color:var(--amber);letter-spacing:.06em;text-transform:uppercase;margin-bottom:6px}
+  .drop-zone .big{font-family:'Geist Mono',monospace;font-size:14px;color:var(--amber);letter-spacing:.06em;text-transform:uppercase;margin-bottom:6px}
   .drop-zone .sml{color:var(--muted);font-size:11px}
   .drop-zone input[type=file]{display:none}
-  .parse-result{background:#0a0a0a;border:1px solid var(--border);padding:12px 14px;margin-top:10px;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--text)}
+  .parse-result{background:#0a0a0a;border:1px solid var(--border);padding:12px 14px;margin-top:10px;font-family:'Geist Mono',monospace;font-size:11px;color:var(--text)}
   .parse-result .ok{color:var(--green)}
   .parse-result .warn{color:var(--amber)}
   .parse-result .err{color:var(--red)}
   .parse-result .row{display:flex;justify-content:space-between;align-items:center;padding:2px 0}
   .parse-actions{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap}
-  .parse-actions button{background:#000;border:1px solid var(--border-bright);color:var(--text);padding:5px 11px;font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer}
+  .parse-actions button{background:#000;border:1px solid var(--border-bright);color:var(--text);padding:5px 11px;font-family:'Geist Mono',monospace;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer}
   .parse-actions button.primary{background:var(--amber);color:#000;border-color:var(--amber);font-weight:700}
   .parse-actions button:hover{border-color:var(--amber)}
   .ticker-grid{margin-top:14px;display:grid;grid-template-columns:repeat(auto-fill,minmax(70px,1fr));gap:5px;max-height:300px;overflow-y:auto;background:#0a0a0a;border:1px solid var(--border);padding:10px;border-radius:6px}
-  .ticker-grid .pill{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--amber);border:1px solid #5a3a00;padding:3px 6px;text-align:center;background:#000}
+  .ticker-grid .pill{font-family:'Geist Mono',monospace;font-size:11px;color:var(--amber);border:1px solid #5a3a00;padding:3px 6px;text-align:center;background:#000}
   /* finvisible design system (assets/fv.css, 2026-09-22), applied 2026-09-23:
      finvisible's ground, greys, gain/loss and radius, so the suite reads as one
      product. news-desk keeps ONE accent, its amber, re-toned off pure neon, and
@@ -60,7 +60,7 @@
     --yellow:#d4a72c;
   }
   *{box-sizing:border-box;margin:0;padding:0}
-  html,body{background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',-apple-system,sans-serif;font-size:13px;line-height:1.4;overflow-x:hidden}
+  html,body{background:var(--bg);color:var(--text);font-family:'Geist',-apple-system,sans-serif;font-size:13px;line-height:1.4;overflow-x:hidden}
   ::-webkit-scrollbar{width:10px;height:10px}
   ::-webkit-scrollbar-track{background:#050505}
   ::-webkit-scrollbar-thumb{background:var(--border-bright);border-radius:5px}
@@ -69,7 +69,7 @@
   a:hover{text-decoration:underline}
 
   /* ── Top bar (function-key style) ─────────────────────────── */
-  .topbar{position:sticky;top:0;z-index:100;background:#050505;border-bottom:1px solid var(--amber);padding:6px 12px;display:flex;align-items:center;gap:14px;font-family:'IBM Plex Mono',monospace;font-size:11px;flex-wrap:wrap}
+  .topbar{position:sticky;top:0;z-index:100;background:#050505;border-bottom:1px solid var(--amber);padding:6px 12px;display:flex;align-items:center;gap:14px;font-family:'Geist Mono',monospace;font-size:11px;flex-wrap:wrap}
   .topbar .brand{color:var(--amber);font-weight:700;letter-spacing:.15em;font-size:13px}
   /* ?embed=1 — see the script just after the opening body tag. Hides only the
      brand bar so this page can sit inside regime-desk's News tab without two
@@ -126,7 +126,7 @@
   @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
 
   /* ── View tabs ────────────────────────────────────────────── */
-  .tabs{background:#050505;border-bottom:1px solid var(--border-bright);padding:0 12px;display:flex;gap:0;font-family:'IBM Plex Mono',monospace;font-size:11px;overflow-x:auto;scrollbar-width:none}
+  .tabs{background:#050505;border-bottom:1px solid var(--border-bright);padding:0 12px;display:flex;gap:0;font-family:'Geist Mono',monospace;font-size:11px;overflow-x:auto;scrollbar-width:none}
   .tabs::-webkit-scrollbar{display:none}
   .tab{padding:9px 16px;color:var(--muted);background:none;border:none;cursor:pointer;font-family:inherit;font-size:11px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;border-bottom:2px solid transparent;white-space:nowrap}
   .tab:hover{color:var(--text)}
@@ -135,7 +135,7 @@
   .tab.active .count{color:var(--text)}
 
   /* ── Toolbar ──────────────────────────────────────────────── */
-  .toolbar{background:#0a0a0a;border-bottom:1px solid var(--border);padding:8px 12px;display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-family:'IBM Plex Mono',monospace;font-size:11px}
+  .toolbar{background:#0a0a0a;border-bottom:1px solid var(--border);padding:8px 12px;display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-family:'Geist Mono',monospace;font-size:11px}
   .toolbar input,.toolbar select{background:#050505;border:1px solid var(--border-bright);color:var(--text);padding:4px 8px;border-radius:4px;font-family:inherit;font-size:11px}
   .toolbar input[type="text"]{width:200px}
   .toolbar input:focus,.toolbar select:focus{border-color:var(--amber);outline:none}
@@ -145,20 +145,20 @@
   .toolbar .spacer{margin-left:auto;color:var(--muted)}
 
   /* ── Stream view ──────────────────────────────────────────── */
-  .stream{font-family:'IBM Plex Sans',sans-serif}
-  .grp{background:#050505;color:var(--amber);padding:14px 12px 4px;font-family:'IBM Plex Mono',monospace;font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.15em;border-bottom:1px solid var(--border)}
+  .stream{font-family:'Geist',sans-serif}
+  .grp{background:#050505;color:var(--amber);padding:14px 12px 4px;font-family:'Geist Mono',monospace;font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.15em;border-bottom:1px solid var(--border)}
   .row{display:grid;grid-template-columns:54px 76px 1fr 130px;gap:10px;padding:7px 12px;background:var(--row);border-bottom:1px solid var(--border);align-items:start;cursor:pointer;transition:background .08s}
   .row .ticks-col{display:flex;flex-direction:column;gap:2px;padding-top:0}
-  .row .ticker-primary{font-family:'IBM Plex Mono',monospace;font-size:14px;font-weight:700;color:var(--amber);letter-spacing:.02em;line-height:1.1;cursor:pointer}
+  .row .ticker-primary{font-family:'Geist Mono',monospace;font-size:14px;font-weight:700;color:var(--amber);letter-spacing:.02em;line-height:1.1;cursor:pointer}
   .row .ticker-primary:hover{text-shadow:0 0 6px rgba(245,165,36,.6)}
   .row .ticker-others{display:flex;flex-wrap:wrap;gap:3px;margin-top:2px}
-  .row .ticker-others span{font-family:'IBM Plex Mono',monospace;font-size:9.5px;color:var(--muted);background:transparent;border:1px solid var(--border-bright);padding:0 4px;cursor:pointer;font-weight:600}
+  .row .ticker-others span{font-family:'Geist Mono',monospace;font-size:9.5px;color:var(--muted);background:transparent;border:1px solid var(--border-bright);padding:0 4px;cursor:pointer;font-weight:600}
   .row .ticker-others span:hover{color:var(--amber);border-color:var(--amber-soft)}
   .row:nth-child(even){background:var(--row-alt)}
   .row:hover{background:#141414}
-  .row .time{font-family:'IBM Plex Mono',monospace;color:var(--muted);font-size:11px;padding-top:1px;white-space:nowrap}
+  .row .time{font-family:'Geist Mono',monospace;color:var(--muted);font-size:11px;padding-top:1px;white-space:nowrap}
   .row .ticks{display:flex;flex-wrap:wrap;gap:3px;padding-top:1px}
-  .row .ticks .t{background:transparent;color:var(--amber);font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:700;padding:1px 5px;border:1px solid var(--amber-soft);cursor:pointer}
+  .row .ticks .t{background:transparent;color:var(--amber);font-family:'Geist Mono',monospace;font-size:11px;font-weight:700;padding:1px 5px;border:1px solid var(--amber-soft);cursor:pointer}
   .row .ticks .t:hover{background:var(--amber-soft)}
   .row .title{color:var(--bright);font-size:13px;font-weight:500;line-height:1.42;min-width:0;overflow-wrap:break-word}
   .row .title a{color:inherit}
@@ -172,7 +172,7 @@
   .play-row.sent-positive .body .title{color:#a3dcb6}
   .play-row.sent-negative{box-shadow:inset 3px 0 0 #e5484d}
   .play-row.sent-negative .body .title{color:#f0b0b0}
-  .row .meta{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted);text-align:right;white-space:nowrap;padding-top:2px}
+  .row .meta{font-family:'Geist Mono',monospace;font-size:10px;color:var(--muted);text-align:right;white-space:nowrap;padding-top:2px}
   .row .meta .typ{display:inline-block;color:var(--muted);text-transform:uppercase;font-weight:600;letter-spacing:.05em;padding:0 4px;border:1px solid var(--border-bright);margin-right:4px}
   .row .meta .src{color:var(--muted);font-weight:500}
   .row .summary{grid-column:2 / -1;display:none;color:var(--muted);font-size:12px;padding:6px 0 4px;line-height:1.55;border-top:1px dashed var(--border);margin-top:6px}
@@ -195,7 +195,7 @@
   .typ-filings{color:#d4a72c !important;border-color:#5e441f !important}
 
   /* ── In Play view ─────────────────────────────────────────── */
-  .play-ticker-bar{background:#0a0a0a;color:var(--amber);padding:10px 12px;border-bottom:1px solid var(--border);font-family:'IBM Plex Mono',monospace;font-size:11px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+  .play-ticker-bar{background:#0a0a0a;color:var(--amber);padding:10px 12px;border-bottom:1px solid var(--border);font-family:'Geist Mono',monospace;font-size:11px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
   .play-ticker-bar .lbl{color:var(--muted);text-transform:uppercase;letter-spacing:.1em;margin-right:8px}
   .play-ticker-bar .t{color:var(--amber);border:1px solid var(--amber-soft);padding:2px 8px;cursor:pointer;font-weight:700}
   .play-ticker-bar .t:hover{background:var(--amber-soft)}
@@ -203,20 +203,20 @@
   .play-row{display:grid;grid-template-columns:60px 70px 1fr 90px 110px;gap:10px;padding:7px 12px;background:var(--row);border-bottom:1px solid var(--border);align-items:start;cursor:pointer}
   .play-row:nth-child(even){background:var(--row-alt)}
   .play-row:hover{background:#141414}
-  .play-row .time{font-family:'IBM Plex Mono',monospace;color:var(--muted);font-size:11px;white-space:nowrap;padding-top:1px}
-  .play-row .ticker{font-family:'IBM Plex Mono',monospace;color:var(--amber);font-size:14px;font-weight:700;letter-spacing:.02em;padding-top:0}
-  .play-row .multi{font-family:'IBM Plex Mono',monospace;color:var(--muted);font-size:10px;padding-top:2px}
+  .play-row .time{font-family:'Geist Mono',monospace;color:var(--muted);font-size:11px;white-space:nowrap;padding-top:1px}
+  .play-row .ticker{font-family:'Geist Mono',monospace;color:var(--amber);font-size:14px;font-weight:700;letter-spacing:.02em;padding-top:0}
+  .play-row .multi{font-family:'Geist Mono',monospace;color:var(--muted);font-size:10px;padding-top:2px}
   .play-row .body{min-width:0}
-  .play-row .body .typ{font-family:'IBM Plex Mono',monospace;font-size:10px;text-transform:uppercase;font-weight:700;letter-spacing:.06em;padding:1px 5px;border:1px solid var(--border-bright);color:var(--muted);margin-right:6px;display:inline-block}
+  .play-row .body .typ{font-family:'Geist Mono',monospace;font-size:10px;text-transform:uppercase;font-weight:700;letter-spacing:.06em;padding:1px 5px;border:1px solid var(--border-bright);color:var(--muted);margin-right:6px;display:inline-block}
   .play-row .body .title{color:var(--bright);font-weight:500;font-size:13px;line-height:1.4}
   .play-row .body .title a{color:inherit}
   .play-row .body .title a:hover{color:var(--amber);text-decoration:none}
-  .play-row .src{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted);text-align:right;white-space:nowrap;padding-top:2px}
-  .play-row .open{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted);text-align:right;padding-top:2px}
+  .play-row .src{font-family:'Geist Mono',monospace;font-size:10px;color:var(--muted);text-align:right;white-space:nowrap;padding-top:2px}
+  .play-row .open{font-family:'Geist Mono',monospace;font-size:10px;color:var(--muted);text-align:right;padding-top:2px}
 
   /* ── Empty / loading ──────────────────────────────────────── */
   .empty{padding:60px 20px;text-align:center;color:var(--muted)}
-  .empty h2{color:var(--text);font-weight:500;margin-bottom:8px;font-family:'IBM Plex Mono',monospace;font-size:14px;letter-spacing:.1em;text-transform:uppercase}
+  .empty h2{color:var(--text);font-weight:500;margin-bottom:8px;font-family:'Geist Mono',monospace;font-size:14px;letter-spacing:.1em;text-transform:uppercase}
 
   @media (max-width:900px){
     .topbar{font-size:10px;gap:8px;padding:5px 10px;flex-wrap:wrap}
@@ -254,6 +254,11 @@
     .row .time{font-size:10px}
     .play-row{grid-template-columns:42px 56px 1fr}
   }
+
+  /* PAPA's layout, carried over (owner, 2026-09-23): tight rows, space
+     between groups rather than inside them. The stream is already full width. */
+  .row{padding:5px 12px}
+  .grp{padding-top:16px}
 </style>
 </head>
 <body>
@@ -275,7 +280,7 @@
 <div class="topbar">
   <span class="brand">NEWS-DESK <span>v0.2 · TERMINAL</span></span>
   <span class="live" id="live">LIVE</span>
-  <span class="muted" id="updated" style="color:var(--muted);font-family:'IBM Plex Mono',monospace">—</span>
+  <span class="muted" id="updated" style="color:var(--muted);font-family:'Geist Mono',monospace">—</span>
   <span class="clock"><span class="label">ET</span><span id="clockET">—</span><span class="label" style="margin-left:14px">UTC</span><span id="clock">—</span></span>
 </div>
 
@@ -513,7 +518,7 @@ function renderBookHeader(){
   const fileLabel = s.filename
     ? `loaded from <strong style="color:var(--text)">${escapeHtml(s.filename)}</strong>`
     : 'pasted manually';
-  return `<div style="padding:10px 14px;background:#0e0e0e;border-bottom:1px solid var(--border);font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);display:flex;align-items:center;gap:12px;flex-wrap:wrap">
+  return `<div style="padding:10px 14px;background:#0e0e0e;border-bottom:1px solid var(--border);font-family:'Geist Mono',monospace;font-size:11px;color:var(--muted);display:flex;align-items:center;gap:12px;flex-wrap:wrap">
     <span><strong style="color:var(--amber)">${STATE.watchlist.length}</strong> tickers · ${fileLabel}</span>
     <button id="bookReload" style="background:#050505;border:1px solid var(--border-bright);color:var(--text);padding:4px 10px;font-family:inherit;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer">↻ Reload holdings file</button>
     <button id="bookClear" style="background:#050505;border:1px solid var(--border-bright);color:var(--text);padding:4px 10px;font-family:inherit;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer">Clear book</button>
@@ -548,7 +553,7 @@ function renderBookUpload(){
       <input type="file" id="hldFile" accept=".xlsx,.xls,.csv">
     </label>
     <p class="lead" style="margin-top:16px">Or paste tickers separated by commas / spaces / newlines:</p>
-    <textarea id="hldPaste" rows="3" placeholder="AAPL MSFT NVDA GOOGL META TSLA AMZN" style="width:100%;background:#0e0e0e;border:1px solid var(--border-bright);color:var(--text);padding:10px;font-family:'IBM Plex Mono',monospace;font-size:12px;border-radius:6px"></textarea>
+    <textarea id="hldPaste" rows="3" placeholder="AAPL MSFT NVDA GOOGL META TSLA AMZN" style="width:100%;background:#0e0e0e;border:1px solid var(--border-bright);color:var(--text);padding:10px;font-family:'Geist Mono',monospace;font-size:12px;border-radius:6px"></textarea>
     <div class="parse-actions">
       <button onclick="_pasteWatchlist()" class="primary">Load these tickers</button>
     </div>
@@ -820,7 +825,7 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
     background:'#0e0e0e', border:'1px solid var(--amber)',
     boxShadow:'0 8px 24px rgba(0,0,0,.7), 0 0 18px rgba(245,165,36,.18)',
     color:'var(--text)', padding:'10px 12px', maxWidth:'320px',
-    fontFamily:'IBM Plex Sans, sans-serif', fontSize:'12px', lineHeight:'1.5',
+    fontFamily:'Geist, sans-serif', fontSize:'12px', lineHeight:'1.5',
     borderRadius:'2px',
   });
   document.body.appendChild(tip);
@@ -863,7 +868,7 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
     const wkRng = (wkHigh - wkLow) || 1;
     const wkPos = Math.max(0, Math.min(100, ((s.price - wkLow) / wkRng) * 100));
     const rangeBar = `<div style="margin-top:6px">
-      <div style="display:flex;justify-content:space-between;color:#5f5f5f;font-size:9px;margin-bottom:2px;font-family:IBM Plex Mono,monospace">
+      <div style="display:flex;justify-content:space-between;color:#5f5f5f;font-size:9px;margin-bottom:2px;font-family:Geist Mono,monospace">
         <span>$${wkLow.toFixed(2)}</span>
         <span style="color:#484f58">7d range</span>
         <span>$${wkHigh.toFixed(2)}</span>
@@ -873,7 +878,7 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
       </div>
     </div>`;
     return `<div style="border-top:1px solid #1d1d1d;border-bottom:1px solid #1d1d1d;margin:8px 0;padding:6px 0">
-      <div style="display:flex;align-items:baseline;gap:8px;font-family:IBM Plex Mono,monospace">
+      <div style="display:flex;align-items:baseline;gap:8px;font-family:Geist Mono,monospace">
         <span style="color:#f2f2f2;font-size:16px;font-weight:700">$${s.price.toFixed(2)}</span>
         <span style="color:${pc};font-size:12px;font-weight:700">${sign}${s.change_pct.toFixed(2)}%</span>
         <span style="color:#484f58;font-size:10px;letter-spacing:.05em">TODAY</span>
@@ -897,14 +902,14 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
     const recentList = recent.map(h => {
       const t = h.type || 'news';
       return `<div style="border-top:1px solid #1d1d1d;padding-top:6px;margin-top:6px">
-        <div style="color:var(--muted);font-size:10px;font-family:IBM Plex Mono,monospace;margin-bottom:2px">${escapeHtml(h.source)} · ${relTime(h.published)}</div>
+        <div style="color:var(--muted);font-size:10px;font-family:Geist Mono,monospace;margin-bottom:2px">${escapeHtml(h.source)} · ${relTime(h.published)}</div>
         <div style="color:var(--text);font-size:12px;line-height:1.4">${escapeHtml(h.title.length>90?h.title.slice(0,90)+'…':h.title)}</div>
       </div>`;
     }).join('');
 
     const typeChips = topTypes.length
       ? '<div style="margin-top:6px;display:flex;flex-wrap:wrap;gap:4px">'+
-          topTypes.map(([t,c])=>`<span style="font-family:IBM Plex Mono,monospace;font-size:9px;color:var(--muted);background:#181818;padding:1px 5px;border:1px solid #2e2e2e;letter-spacing:.05em;text-transform:uppercase">${t} ${c}</span>`).join('')+
+          topTypes.map(([t,c])=>`<span style="font-family:Geist Mono,monospace;font-size:9px;color:var(--muted);background:#181818;padding:1px 5px;border:1px solid #2e2e2e;letter-spacing:.05em;text-transform:uppercase">${t} ${c}</span>`).join('')+
         '</div>'
       : '';
 
@@ -913,14 +918,14 @@ setInterval(()=>{document.getElementById('updated').textContent = fmtUpdated(STA
         `<img src="https://assets.parqet.com/logos/symbol/${ticker}?format=jpg" width="26" height="26" `+
         `style="border-radius:3px;background:#fff;border:1px solid #2e2e2e;object-fit:contain;flex-shrink:0" `+
         `onerror="this.style.display='none'" loading="lazy">`+
-        `<strong style="color:var(--amber);font-family:IBM Plex Mono,monospace;font-size:16px;letter-spacing:.04em">${ticker}</strong>`+
+        `<strong style="color:var(--amber);font-family:Geist Mono,monospace;font-size:16px;letter-spacing:.04em">${ticker}</strong>`+
       '</div>'+
       (name ? `<div style="color:var(--muted);font-size:11px;margin-bottom:4px">${escapeHtml(name)}</div>` : '')+
       priceBlock(ticker)+
-      `<div style="color:var(--text);font-size:11px;font-family:IBM Plex Mono,monospace"><strong style="color:var(--amber)">${total}</strong> headline${total===1?'':'s'} in feed</div>`+
+      `<div style="color:var(--text);font-size:11px;font-family:Geist Mono,monospace"><strong style="color:var(--amber)">${total}</strong> headline${total===1?'':'s'} in feed</div>`+
       typeChips+
       recentList+
-      '<div style="margin-top:8px;color:var(--muted);font-size:10px;font-family:IBM Plex Mono,monospace;letter-spacing:.06em;text-transform:uppercase;line-height:1.55">'+
+      '<div style="margin-top:8px;color:var(--muted);font-size:10px;font-family:Geist Mono,monospace;letter-spacing:.06em;text-transform:uppercase;line-height:1.55">'+
         '<div>click → filter feed</div>'+
         '<div style="color:#58a6ff">shift-click → regime-desk ↗</div>'+
       '</div>';
