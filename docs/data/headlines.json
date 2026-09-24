@@ -1,8 +1,51 @@
 {
- "generated": "2026-09-24T05:12:09.547774+00:00",
+ "generated": "2026-09-24T05:17:21.598044+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b1b1395563cf",
+   "title": "Stock futures flat after soaring Treasury yields trigger market sell-off: Live updates",
+   "link": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
+   "summary": "The major averages tumbled in Wednesday's regular trading as a spike in Treasury yields raised the specter of additional rate hikes from the Federal Reserve.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-24T05:15:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c6d12990ea0f",
+   "title": "Walmart: Failing To Live Up To Rich Multiples (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4949250-walmart-failing-to-live-up-to-rich-multiples-downgrade?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-24T05:11:40+00:00",
+   "tickers": [
+    "WMT"
+   ]
+  },
+  {
+   "id": "9d7366a213ff",
+   "title": "Vistance Networks Is Now A Cash-Rich Execution Story",
+   "link": "https://seekingalpha.com/article/4949248-vistance-networks-is-now-a-cash-rich-execution-story?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-24T05:10:01+00:00",
+   "tickers": [
+    "VISN"
+   ]
+  },
   {
    "id": "bda33a14dee0",
    "title": "Honda to build new hybrid vehicle plant in Ohio with up to $2.5B investment - report",
@@ -763,19 +806,6 @@
    "tickers": []
   },
   {
-   "id": "b1b1395563cf",
-   "title": "Stock futures flat after soaring Treasury yields trigger market sell-off: Live updates",
-   "link": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
-   "summary": "The major averages tumbled in Wednesday's regular trading as a spike in Treasury yields raised the specter of additional rate hikes from the Federal Reserve.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-24T04:24:48+00:00",
-   "tickers": []
-  },
-  {
    "id": "11f35409cf1f",
    "title": "Australia says OpenAI agent hacked government website, checks for more breaches",
    "link": "https://www.investing.com/news/stock-market-news/australia-pm-albanese-says-openai-agent-breached-government-website-in-june-4914110",
@@ -906,7 +936,7 @@
    "title": "Industrious and GANMI Expand Core Columbia Workspace as GANMI Grows San Diego's Innovation and Japan-U.S. Business Ties",
    "link": "https://www.prnewswire.com/news-releases/industrious-and-ganmi-expand-core-columbia-workspace-as-ganmi-grows-san-diegos-innovation-and-japan-us-business-ties-302888602.html",
    "summary": "Flexible workplace will double to 54,000 square feet as partners anticipate growing demand SAN DIEGO, Sept. 24, 2026 /PRNewswire/ -- Industrious, the world's leading workplace experience company, in partnership with GANMI, announced today the expansion of Industrious Core Columbia,...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -8236,35 +8266,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-23T20:54:37+00:00",
    "tickers": []
-  },
-  {
-   "id": "e0d98947910c",
-   "title": "Make Time Wellness Expands Access to Women's Brain Health with Meijer Launch and Return to QVC",
-   "link": "https://www.prnewswire.com/news-releases/make-time-wellness-expands-access-to-womens-brain-health-with-meijer-launch-and-return-to-qvc-302888241.html",
-   "summary": "Scientific Advisor Nicole Beurkens, PhD, to Promote Brain Health Awareness on QVC as Make Time Wellness Expands Distribution to Meijer Stores LOS ANGELES, Sept. 23, 2026 /PRNewswire/ -- Make Time Wellness, the rapidly growing women's brain health supplement line founded by Emma Heming...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-09-23T20:54:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "328ad626fce8",
-   "title": "Tractor Supply Celebrates Grand Opening of 11th Distribution Center in Nampa, Idaho | TSCO Stock News",
-   "link": "https://www.stocktitan.net/news/TSCO/tractor-supply-celebrates-grand-opening-of-11th-distribution-center-11nvnbwp0yig.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-23T20:54:00+00:00",
-   "tickers": [
-    "TSCO",
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8304,6 +8305,7 @@
   "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
   "VERA": "Vera Therapeutics",
+  "VISN": "Vistance Networks",
   "SW": "Smurfit Westrock",
   "ACHR": "Archer Aviation",
   "ANET": "Arista Networks",
@@ -8318,7 +8320,6 @@
   "CAG": "Conagra Brands",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
-  "TSCO": "Tractor Supply",
   "CSCO": "Cisco Systems",
   "EG": "Everest Group",
   "GWW": "W.W. Grainger",
@@ -8366,6 +8367,7 @@
   "PNR": "Pentair",
   "ROL": "Rollins",
   "SCI": "Service",
+  "WMT": "Walmart",
   "ABBV": "AbbVie",
   "ABNB": "Airbnb",
   "NDAQ": "Nasdaq",
