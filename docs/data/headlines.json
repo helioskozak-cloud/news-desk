@@ -1,8 +1,49 @@
 {
- "generated": "2026-09-25T19:52:39.770456+00:00",
+ "generated": "2026-09-25T19:57:25.677484+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2b0841daff92",
+   "title": "S&P 500 rises, heads for winning week despite Treasury yield surge: Live updates",
+   "link": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
+   "summary": "Wall Street gets set to wrap up a volatile week of trading, with a surge in Treasury yields rippling through financial markets.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-25T19:54:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fe97e57cfa40",
+   "title": "South Korea: A Key S&P 500 Risk And What To Do",
+   "link": "https://seekingalpha.com/article/4949851-south-korea-key-sp500-risk-and-what-to-do?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-25T19:50:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e644e326448e",
+   "title": "JEPI: A Hedge Against A Tech-Led Market Slide",
+   "link": "https://seekingalpha.com/article/4949850-jepi-a-hedge-against-a-tech-led-market-slide?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-25T19:49:04+00:00",
+   "tickers": [
+    "JEPI"
+   ]
+  },
   {
    "id": "f95308d75956",
    "title": "The Nascent Crescent Biopharma Thesis: One Year Later And Things Are Steady",
@@ -686,19 +727,6 @@
    "tickers": [
     "OPEN"
    ]
-  },
-  {
-   "id": "2b0841daff92",
-   "title": "S&P 500 rises, heads for winning week despite Treasury yield surge: Live updates",
-   "link": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
-   "summary": "Wall Street gets set to wrap up a volatile week of trading, with a surge in Treasury yields rippling through financial markets.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-25T19:04:01+00:00",
-   "tickers": []
   },
   {
    "id": "299e2b97151a",
@@ -8340,37 +8368,6 @@
    "tickers": [
     "ARM"
    ]
-  },
-  {
-   "id": "331982a7fcf6",
-   "title": "Biggest stock movers Friday: AKAM, NXH, TWLO, and more",
-   "link": "https://seekingalpha.com/news/4647013-biggest-stock-movers-friday-akam-nxh-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-25T14:05:53+00:00",
-   "tickers": [
-    "AKAM",
-    "TWLO"
-   ]
-  },
-  {
-   "id": "f058261feff5",
-   "title": "Vicapsys Life Sciences Announces Advisory Board Following Completion of Stateline Merger | VICP Stock News",
-   "link": "https://www.stocktitan.net/news/VICP/vicapsys-life-sciences-announces-advisory-board-following-completion-vw7y8b3oh0zz.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-25T14:05:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8380,6 +8377,7 @@
   "NOBL": "ProShares S&P 500 Dividend Aristocrats ETF",
   "BNDX": "Vanguard Total International Bond ETF",
   "SMX": "SMX (Security Matters) Public Limited",
+  "JEPI": "JPMorgan Equity Premium Income ETF",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "PEG": "Public Service Enterprise Group",
   "VGLT": "Vanguard Long-Term Treasury ETF",
@@ -8515,7 +8513,6 @@
   "NDAQ": "Nasdaq",
   "NTRA": "Natera",
   "ORCL": "Oracle",
-  "TWLO": "Twilio",
   "JBL": "Jabil",
   "XPEV": "XPeng",
   "OKLO": "Oklo",
