@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T10:17:17.771445+00:00",
+ "generated": "2026-09-26T10:22:05.779734+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -42,6 +42,19 @@
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-09-26T10:00:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4b95770a118b",
+   "title": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
+   "link": "https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html",
+   "summary": "Swiss luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-09-26T10:00:01+00:00",
    "tickers": []
   },
   {
@@ -205,6 +218,19 @@
    "tickers": [
     "GTLB"
    ]
+  },
+  {
+   "id": "3067b142a664",
+   "title": "Arming Taiwan is an important U.S. interest, Taipei official says after Trump-Xi summit",
+   "link": "https://www.cnbc.com/2026/09/26/arming-taiwan-is-an-important-us-interest-taipei-official-says.html",
+   "summary": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-26T08:41:13+00:00",
+   "tickers": []
   },
   {
    "id": "caa56b4faa0c",
@@ -725,6 +751,19 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-09-26T05:00:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "567dca231059",
+   "title": "Chinese AI models surge in global popularity — and Washington is worried",
+   "link": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+   "summary": "Usage of Chinese AI models by businesses across the globe has increased substantially in 2026.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-26T05:00:01+00:00",
    "tickers": []
   },
   {
@@ -8362,53 +8401,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-25T18:36:26+00:00",
    "tickers": []
-  },
-  {
-   "id": "fbc90f21c0cc",
-   "title": "Humana surges: Barclays bets big on Medicare star ratings rebound",
-   "link": "https://www.investing.com/news/stock-market-news/humana-surges-barclays-bets-big-on-medicare-star-ratings-rebound-4917960",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-25T18:36:01+00:00",
-   "tickers": [
-    "BCS",
-    "HUM"
-   ]
-  },
-  {
-   "id": "51c092f809a2",
-   "title": "Illinois American Water Emphasizes the Importance of Source Water Protection During Annual Recognition Week",
-   "link": "https://www.prnewswire.com/news-releases/illinois-american-water-emphasizes-the-importance-of-source-water-protection-during-annual-recognition-week-302890519.html",
-   "summary": "BELLEVILLE, Ill., Sept. 25, 2026 /PRNewswire/ -- In recognition of the American Water Works Association annual Source Water Protection Week (September 27 to October 3), Illinois American Water is highlighting its commitment to providing customers with safe, clean, reliable water services,...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-25T18:35:00+00:00",
-   "tickers": [
-    "AWK"
-   ]
-  },
-  {
-   "id": "d379d29015a8",
-   "title": "Illinois American Water Emphasizes the Importance of Source Water Protection During Annual Recognition Week | AWK Stock News",
-   "link": "https://www.stocktitan.net/news/AWK/illinois-american-water-emphasizes-the-importance-of-source-water-ht5a06kexu0t.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-25T18:35:00+00:00",
-   "tickers": [
-    "AWK",
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8441,7 +8433,6 @@
   "EAT": "Brinker International",
   "MIRM": "Mirum Pharmaceuticals",
   "OPEN": "Opendoor Technologies",
-  "AWK": "American Water Works",
   "CRWD": "CrowdStrike Holdings",
   "EGP": "EastGroup Properties",
   "EIX": "Edison International",
@@ -8523,7 +8514,6 @@
   "PKG": "Packaging",
   "TEAM": "Atlassian",
   "NWSA": "News Corp",
-  "BCS": "Barclays",
   "FTNT": "Fortinet",
   "RGEN": "Repligen",
   "TTC": "The Toro",
@@ -8542,7 +8532,6 @@
   "VTRS": "Viatris",
   "WMT": "Walmart",
   "GTLB": "GitLab",
-  "HUM": "Humana",
   "INCY": "Incyte",
   "LEN": "Lennar",
   "NDAQ": "Nasdaq",
