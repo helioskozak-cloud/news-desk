@@ -1,8 +1,49 @@
 {
- "generated": "2026-09-27T10:12:19.532481+00:00",
+ "generated": "2026-09-27T10:16:51.149285+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c6eb107a357b",
+   "title": "Powerful nor'easter batters the U.S. Northeast, causing coastal flooding, outages and at least 1 death",
+   "link": "https://www.cnbc.com/2026/09/26/powerful-noreaster-causes-flooding-and-knocks-out-power.html",
+   "summary": "Tens of millions of people were in the path of the nor'easter, which was forecast to affect the mid-Atlantic area and New England throughout the weekend.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-27T10:15:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "19b27bca8dfd",
+   "title": "Exponent: The Recovery Is Real, But Capacity Still Sets The Speed Limit",
+   "link": "https://seekingalpha.com/article/4950006-exponent-the-recovery-is-real-but-capacity-still-sets-the-speed-limit?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-27T10:10:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "00d927c43d24",
+   "title": "Mastercard: Building The Future Of Payments Before It Arrives",
+   "link": "https://seekingalpha.com/article/4950027-mastercard-stock-building-future-of-payments-before-it-arrives?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-27T10:07:57+00:00",
+   "tickers": [
+    "MA"
+   ]
+  },
   {
    "id": "0bb587335da5",
    "title": "BCE Inc.: Mixed Bag Of Growth Potentials And Debt Burden",
@@ -1938,19 +1979,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-09-26T22:36:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c6eb107a357b",
-   "title": "Powerful nor'easter causes coastal flooding and knocks out power to parts of the Northeast",
-   "link": "https://www.cnbc.com/2026/09/26/powerful-noreaster-causes-flooding-and-knocks-out-power.html",
-   "summary": "Tens of millions of people were in the path of the nor'easter, which was forecast to affect the mid-Atlantic area and New England throughout the weekend.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-26T22:23:11+00:00",
    "tickers": []
   },
   {
@@ -8152,34 +8180,6 @@
    "domain": "prnewswire.com",
    "published": "2026-09-25T21:51:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "8eefe9498017",
-   "title": "Northrop Grumman's strategic deterrent deal gets $111.4M boost",
-   "link": "https://seekingalpha.com/news/4647362-northrop-grummans-strategic-deterrent-deal-gets-1114m-boost?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-25T21:50:56+00:00",
-   "tickers": [
-    "NOC"
-   ]
-  },
-  {
-   "id": "68496cb70de0",
-   "title": "Gold edges higher but falls for the week on hawkish Fed expectations",
-   "link": "https://seekingalpha.com/news/4647354-gold-edges-higher-but-falls-for-the-week-on-hawkish-fed-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-25T21:50:13+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8226,7 +8226,6 @@
   "DY": "Dycom Industries",
   "ENSG": "The Ensign Group",
   "MEDP": "Medpace Holdings",
-  "NOC": "Northrop Grumman",
   "OWL": "Blue Owl Capital",
   "RKT": "Rocket Companies",
   "TTE": "TotalEnergies SE",
@@ -8268,6 +8267,7 @@
   "CVS": "CVS Health",
   "FTI": "TechnipFMC",
   "GL": "Globe Life",
+  "MA": "Mastercard",
   "MCD": "McDonald's",
   "RKLB": "Rocket Lab",
   "MSFT": "Office 365",
