@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-28T03:22:18.923333+00:00",
+ "generated": "2026-09-28T03:27:16.234471+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2f18c548103f",
+   "title": "Trump hosts Anthropic boss Dario Amodei at White House dinner",
+   "link": "https://www.ft.com/content/fb3aa961-fa28-4dd0-a2ea-cdb03ac8258d?syn-25a6b1a6=1",
+   "summary": "Dinner hints at rapprochement between US president and chief executive of leading AI lab",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-09-28T03:25:12+00:00",
+   "tickers": []
+  },
   {
    "id": "1628b31ee596",
    "title": "Why is SK Hynix stock sliding today?",
@@ -28,6 +41,21 @@
    "domain": "cnbc.com",
    "published": "2026-09-28T03:00:53+00:00",
    "tickers": []
+  },
+  {
+   "id": "6f91f802e98c",
+   "title": "ASML chief: ‘There is only one company making those machines’",
+   "link": "https://www.ft.com/content/bc0385ea-17d9-4d28-a79b-acba04b394e1?syn-25a6b1a6=1",
+   "summary": "Christophe Fouquet has built Europe’s biggest business through a total monopoly over the most advanced chipmaking equipment",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-09-28T03:00:07+00:00",
+   "tickers": [
+    "ASML"
+   ]
   },
   {
    "id": "65c1442b853d",
@@ -140,8 +168,8 @@
    "title": "Australia’s biggest gold miner rejects $27bn takeover bid",
    "link": "https://www.ft.com/content/bce81a18-05cf-43a6-9c86-b3238b732230?syn-25a6b1a6=1",
    "summary": "Northern Star says ‘opportunistic’ approach from South Africa’s Gold Fields undervalues Perth-based group",
-   "source": "FT Markets",
-   "category": "markets",
+   "source": "FT Companies",
+   "category": "stocks",
    "type": "ma",
    "sentiment": "neutral",
    "domain": "ft.com",
@@ -746,19 +774,6 @@
    "tickers": [
     "MSTR"
    ]
-  },
-  {
-   "id": "2f18c548103f",
-   "title": "Trump hosts Anthropic boss Dario Amodei at White House dinner",
-   "link": "https://www.ft.com/content/fb3aa961-fa28-4dd0-a2ea-cdb03ac8258d?syn-25a6b1a6=1",
-   "summary": "Dinner hints at rapprochement between US president and chief executive of leading AI lab",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-09-28T00:34:33+00:00",
-   "tickers": []
   },
   {
    "id": "7b82c3596ad7",
@@ -8161,21 +8176,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-26T12:34:26+00:00",
    "tickers": []
-  },
-  {
-   "id": "8931b0f35f41",
-   "title": "Fiserv: Great Valuation In Need Of Turnaround Story",
-   "link": "https://seekingalpha.com/article/4949953-fiserve-great-valuation-in-need-of-turnaround-story?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-26T12:33:58+00:00",
-   "tickers": [
-    "FISV"
-   ]
   }
  ],
  "ticker_names": {
@@ -8248,6 +8248,7 @@
   "VEEV": "Veeva Systems",
   "WFC": "Wells Fargo &",
   "MSTR": "MicroStrategy",
+  "ASML": "ASML Holding",
   "OSCR": "Oscar Health",
   "UBS": "UBS Group AG",
   "NVDA": "Grace Hopper",
@@ -8289,7 +8290,6 @@
   "WDAY": "Workday",
   "NFLX": "Netflix",
   "NIO": "NIO Inc",
-  "FISV": "Fiserv",
   "INCY": "Incyte",
   "INTU": "Intuit",
   "LEN": "Lennar",
