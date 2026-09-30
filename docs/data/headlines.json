@@ -1,8 +1,49 @@
 {
- "generated": "2026-09-30T04:37:19.119474+00:00",
+ "generated": "2026-09-30T04:42:06.170636+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "68701b5f7c5e",
+   "title": "FirstFT: US holds crunch talks over diesel export ban",
+   "link": "https://www.ft.com/content/38edf5d4-31df-4250-a6b7-691b844b22e0?syn-25a6b1a6=1",
+   "summary": "Also in today’s newsletter: UK social care shake-up and French credit",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-09-30T04:40:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6b1b154c218e",
+   "title": "Australia's August inflation rises to 4.0%, slightly below expectations",
+   "link": "https://seekingalpha.com/news/4648327-australia-august-inflation-rises-to-40-slightly-below-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-30T04:33:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "956a749ec9a0",
+   "title": "MongoDB, Inc. (MDB) Analyst/Investor Day - Slideshow",
+   "link": "https://seekingalpha.com/article/4950865-mongodb-inc-mdb-analyst-investor-day-slideshow?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-30T04:32:24+00:00",
+   "tickers": [
+    "MDB"
+   ]
+  },
   {
    "id": "b604f70a471e",
    "title": "China PMIs Return To Expansion Territory, Signalling Modest Growth Uptick",
@@ -5806,19 +5847,6 @@
    ]
   },
   {
-   "id": "68701b5f7c5e",
-   "title": "FirstFT: Trump says AI bosses agreed to ‘self-regulation’ amid safety fears",
-   "link": "https://www.ft.com/content/38edf5d4-31df-4250-a6b7-691b844b22e0?syn-25a6b1a6=1",
-   "summary": "Also in today’s newsletter: Lady Gaga urges Japanese to work at FamilyMart and China unveils mortgage subsidies to boost economy",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-09-29T21:34:45+00:00",
-   "tickers": []
-  },
-  {
    "id": "75f0e70f1a87",
    "title": "Metalsource Mining Engages Naturalresourcestocks.net | MSMMF Stock News",
    "link": "https://www.stocktitan.net/news/MSMMF/metalsource-mining-engages-naturalresourcestocks-7zgdcxxbdy1b.html",
@@ -8239,36 +8267,6 @@
    "domain": "investing.com",
    "published": "2026-09-29T20:34:11+00:00",
    "tickers": []
-  },
-  {
-   "id": "0ac04a4c6465",
-   "title": "NeurAxis at Lytham Partners fall 2026 investor conference: coverage gains",
-   "link": "https://www.investing.com/news/transcripts/neuraxis-at-lytham-partners-fall-2026-investor-conference-coverage-gains-93CH-4923534",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-29T20:33:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6fdd3e5c847e",
-   "title": "Crown Castle at RBC conference: ai, towers and margin push",
-   "link": "https://www.investing.com/news/transcripts/crown-castle-at-rbc-conference-ai-towers-and-margin-push-93CH-4923533",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-29T20:33:46+00:00",
-   "tickers": [
-    "CCI",
-    "CCK",
-    "RBC"
-   ]
   }
  ],
  "ticker_names": {
@@ -8320,7 +8318,6 @@
   "LNG": "Cheniere Energy",
   "RIO": "Rio Tinto Group",
   "AMT": "American Tower",
-  "CCK": "Crown Holdings",
   "GM": "General Motors",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
@@ -8338,7 +8335,6 @@
   "WFC": "Wells Fargo &",
   "YETI": "YETI Holdings",
   "MSTR": "MicroStrategy",
-  "CCI": "Crown Castle",
   "MP": "MP Materials",
   "RBC": "RBC Bearings",
   "TLN": "Talen Energy",
@@ -8376,6 +8372,7 @@
   "WLK": "Westlake",
   "EQIX": "Equinix",
   "IOT": "Samsara",
+  "MDB": "MongoDB",
   "NEM": "Newmont",
   "SNDK": "Sandisk",
   "SYK": "Stryker",
