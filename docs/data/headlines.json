@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-30T09:37:18.799807+00:00",
+ "generated": "2026-09-30T09:42:03.999143+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "7da58b1612a6",
+   "title": "Glencore JV wins NSW approval to extend Hunter Valley mine to 2045",
+   "link": "https://seekingalpha.com/news/4648363-glencore-jv-wins-nsw-approval-to-extend-hunter-valley-mine-to-2045?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "fda",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-30T09:39:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8dc78f27947f",
+   "title": "GameStop CEO Ryan Cohen buys $10.6M in company stock",
+   "link": "https://seekingalpha.com/news/4648358-gamestop-ceo-ryan-cohen-buys-106m-in-company-stock?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-30T09:38:59+00:00",
+   "tickers": [
+    "GME"
+   ]
+  },
   {
    "id": "c23f3eddcad7",
    "title": "Dangote’s $16bn oil refinery project paused by Kenyan court",
@@ -8163,36 +8191,6 @@
    "domain": "investing.com",
    "published": "2026-09-30T00:37:08+00:00",
    "tickers": []
-  },
-  {
-   "id": "5cd204780c58",
-   "title": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access",
-   "link": "https://www.investing.com/news/stock-market-news/robinhood-to-allow-24hour-weekend-trading-of-us-stocks-as-industry-shifts-to-wider-access-4923847",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-30T00:36:33+00:00",
-   "tickers": [
-    "HOOD"
-   ]
-  },
-  {
-   "id": "cb4fe69736c0",
-   "title": "Apollo completes acquisition of Nippon Sheet Glass",
-   "link": "https://www.investing.com/news/company-news/apollo-completes-acquisition-of-nippon-sheet-glass-93CH-4923934",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-30T00:36:29+00:00",
-   "tickers": [
-    "APO"
-   ]
   }
  ],
  "ticker_names": {
@@ -8207,7 +8205,6 @@
   "CRDO": "Credo Technology Group Holding",
   "FBIN": "Fortune Brands Innovations",
   "JEF": "Jefferies Financial Group",
-  "APO": "Apollo Global Management",
   "CFG": "Citizens Financial Group",
   "GS": "The Goldman Sachs Group",
   "VLY": "Valley National Bancorp",
@@ -8225,7 +8222,6 @@
   "RNA": "Avidity Biosciences",
   "ROP": "Roper Technologies",
   "AMAT": "Applied Materials",
-  "HOOD": "Robinhood Markets",
   "MU": "Micron Technology",
   "ALK": "Alaska Air Group",
   "AMTM": "Amentum Holdings",
@@ -8280,6 +8276,7 @@
   "APP": "AppLovin",
   "BCS": "Barclays",
   "DASH": "DoorDash",
+  "GME": "GameStop",
   "AES": "The AES",
   "ALV": "Autoliv",
   "COMP": "Compass",
