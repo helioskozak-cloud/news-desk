@@ -1,8 +1,21 @@
 {
- "generated": "2026-09-30T05:42:19.523264+00:00",
+ "generated": "2026-09-30T05:46:53.371882+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8104dc56bfc2",
+   "title": "Asian equity markets mixed on rising yields and regional economic data",
+   "link": "https://seekingalpha.com/news/4648325-asian-equity-markets-mixed-on-rising-yields-and-regional-economic-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-30T05:38:50+00:00",
+   "tickers": []
+  },
   {
    "id": "ab0d0bee6df8",
    "title": "EWI: Capturing Italy's Banking And Infrastructure Investment Cycle",
@@ -5673,6 +5686,22 @@
    "tickers": []
   },
   {
+   "id": "524b97195c44",
+   "title": "Boeing wins U.S. Navy's next-generation fighter contract, Pentagon says",
+   "link": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
+   "summary": "Boeing beat out rival Northrop Grumman for the development contract, worth $20 billion, to produce test aircraft.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-29T22:16:25+00:00",
+   "tickers": [
+    "NOC",
+    "BA"
+   ]
+  },
+  {
    "id": "1a8d5eed52e4",
    "title": "Advanced Flower Capital amends loan agreement, increases revolver commitments",
    "link": "https://www.investing.com/news/sec-filings/advanced-flower-capital-amends-loan-agreement-increases-revolver-commitments-93CH-4923785",
@@ -8248,32 +8277,6 @@
     "GOOGL",
     "AMZN"
    ]
-  },
-  {
-   "id": "6d6cf890a925",
-   "title": "Overlay Shares Short Term Bond ETF declares $0.1196 dividend",
-   "link": "https://seekingalpha.com/news/4648268-overlay-shares-short-term-bond-etf-declares-0_1196-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-29T20:57:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dc0fe5fc1d72",
-   "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
-   "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
-   "summary": "Medicare beneficiaries can change their coverage during open enrollment, which begins Oct. 15.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-09-29T20:57:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8318,6 +8321,7 @@
   "BWXT": "BWX Technologies",
   "CELH": "Celsius Holdings",
   "EXK": "Endeavour Silver",
+  "NOC": "Northrop Grumman",
   "WM": "Waste Management",
   "ANET": "Arista Networks",
   "ARES": "Ares Management",
