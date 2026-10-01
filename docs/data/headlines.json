@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T00:31:55.611224+00:00",
+ "generated": "2026-10-01T00:37:00.694866+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,21 @@
    "domain": "prnewswire.com",
    "published": "2026-10-01T00:30:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "7d5d9979540f",
+   "title": "PSCI: SMID Industrials Are Likely To Trail IVV Amid Higher Rates",
+   "link": "https://seekingalpha.com/article/4951207-psci-smid-industrials-are-likely-to-trail-ivv-amid-higher-rates?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-01T00:27:57+00:00",
+   "tickers": [
+    "IVV"
+   ]
   },
   {
    "id": "f50453d7506c",
@@ -1146,6 +1161,19 @@
    "tickers": []
   },
   {
+   "id": "f4c60b198aaf",
+   "title": "Australia’s housing slump could have a silver lining for its banks",
+   "link": "https://www.ft.com/content/b77a34af-a12f-445c-8707-8f6b8223ad39?syn-25a6b1a6=1",
+   "summary": "Housing slowdown could result in lenders directing capital to more profitable places",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-09-30T23:01:01+00:00",
+   "tickers": []
+  },
+  {
    "id": "80d0ae34651a",
    "title": "DNB Investors Have Opportunity to Lead Dun &amp; Bradstreet Holdings, Inc. Securities Fraud Lawsuit Filed",
    "link": "https://www.prnewswire.com/news-releases/dnb-investors-have-opportunity-to-lead-dun--bradstreet-holdings-inc-securities-fraud-lawsuit-filed-302894987.html",
@@ -1414,9 +1442,9 @@
    "title": "Trump says South Korea will invest $200bn in US energy projects",
    "link": "https://www.ft.com/content/f0cdc5bc-c07a-47cf-9602-064006176aef?syn-25a6b1a6=1",
    "summary": "Pledges to launch initiatives in states including Alaska and Texas come as midterm elections loom",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-09-30T22:41:08+00:00",
@@ -8492,37 +8520,6 @@
     "HAE",
     "NWSA"
    ]
-  },
-  {
-   "id": "59eef9a19729",
-   "title": "Cars.com Announces Chief Financial Officer Transition | CARS Stock News",
-   "link": "https://www.stocktitan.net/news/CARS/cars-com-announces-chief-financial-officer-vzwpq2ow60wl.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-30T20:05:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "3245983e21cd",
-   "title": "Albertsons® Companies, Inc. Appoints Bill Boltz, Chris Drumgoole and Meg Ham to Board of Directors | ACI Stock News",
-   "link": "https://www.stocktitan.net/news/ACI/albertsons-companies-inc-appoints-bill-boltz-chris-drumgoole-and-meg-r2szol6jsl9u.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-09-30T20:05:00+00:00",
-   "tickers": [
-    "ACI",
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8548,6 +8545,7 @@
   "PFG": "Principal Financial Group",
   "CFG": "Citizens Financial Group",
   "FDS": "FactSet Research Systems",
+  "IVV": "iShares Core S&P 500 ETF",
   "IWM": "iShares Russell 2000 ETF",
   "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
