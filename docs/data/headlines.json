@@ -1,8 +1,21 @@
 {
- "generated": "2026-10-02T11:36:48.021025+00:00",
+ "generated": "2026-10-02T11:42:16.082484+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "dfb714fb61ff",
+   "title": "Anthropic to warn about government attitudes in upcoming IPO: report",
+   "link": "https://seekingalpha.com/news/4649790-anthropic-to-warn-about-government-attitudes-in-upcoming-ipo-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "offering",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-02T11:35:59+00:00",
+   "tickers": []
+  },
   {
    "id": "bb30c789b737",
    "title": "Investors seek refuge from bond rout in haven German debt",
@@ -15,6 +28,38 @@
    "domain": "ft.com",
    "published": "2026-10-02T11:35:40+00:00",
    "tickers": []
+  },
+  {
+   "id": "7890b6517fab",
+   "title": "Boeing F/A-XX Win: A Surprise Blow For Northrop",
+   "link": "https://seekingalpha.com/article/4951538-boeing-fa-xx-win-a-surprise-blow-for-northrop?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-02T11:35:38+00:00",
+   "tickers": [
+    "NOC",
+    "BA"
+   ]
+  },
+  {
+   "id": "061f7438848f",
+   "title": "First Solar files patent infringement lawsuit against China's JA Solar, Corning subsidiary",
+   "link": "https://seekingalpha.com/news/4649787-first-solar-files-patent-infringement-lawsuit-against-chinas-ja-solar-corning-subsidiary?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-02T11:35:30+00:00",
+   "tickers": [
+    "FSLR",
+    "GLW"
+   ]
   },
   {
    "id": "73ba1866160e",
@@ -1650,7 +1695,7 @@
   },
   {
    "id": "62e97e9858c9",
-   "title": "Three reasons why this Wall Street market-making powerhouse says investors should reload on stocks now",
+   "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
    "link": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
    "summary": "September provided a reset for stocks, pointing to a good end to the year, says Scott Rubner",
    "source": "MarketWatch",
@@ -8234,45 +8279,6 @@
    "domain": "ft.com",
    "published": "2026-10-02T04:00:23+00:00",
    "tickers": []
-  },
-  {
-   "id": "73c78d177576",
-   "title": "Trump’s short-sighted diesel gamble",
-   "link": "https://www.ft.com/content/3ae16f02-bb00-46a4-abba-6bfea7f2b1ac?syn-25a6b1a6=1",
-   "summary": "Yes, Nixon’s export ban did briefly suppress domestic prices but it had a huge long-term cost",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-10-02T04:00:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e3faa2db8d00",
-   "title": "Directors’ Deals: Entain’s new finance chief builds stake",
-   "link": "https://www.ft.com/content/cf4ee5e7-3690-489e-9879-599fa43d8dec",
-   "summary": "Brazil’s online gambling ban likely to hit group profits",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-10-02T04:00:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6788c477d917",
-   "title": "The Emirati power broker at the centre of Man City’s financial storm",
-   "link": "https://www.ft.com/content/871a70e6-7e3b-4add-b51c-88497b1919c3?syn-25a6b1a6=1",
-   "summary": "Khaldoon al-Mubarak must battle to defend both the club and his own reputation in the face of a football finance scandal",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-10-02T04:00:15+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8338,11 +8344,13 @@
   "GOOGL": "Google Cloud",
   "NVDA": "Grace Hopper",
   "ARM": "Arm Holdings",
+  "FSLR": "First Solar",
   "LCID": "Lucid Group",
   "NVS": "Novartis AG",
   "AMZN": "Whole Foods",
   "AZN": "AstraZeneca",
   "SHOP": "Shopify Inc",
+  "BA": "The Boeing",
   "FORM": "FormFactor",
   "RKLB": "Rocket Lab",
   "STLA": "Stellantis",
@@ -8368,6 +8376,7 @@
   "BLSH": "Bullish",
   "CMCSA": "Comcast",
   "COMP": "Compass",
+  "GLW": "Corning",
   "MRNA": "Moderna",
   "SCI": "Service",
   "WMT": "Walmart",
