@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T11:07:17.327469+00:00",
+ "generated": "2026-10-03T11:11:53.905165+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -58,11 +58,39 @@
    "tickers": []
   },
   {
+   "id": "08864194a0a8",
+   "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
+   "link": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+   "summary": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-03T11:00:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "26bb73803c66",
+   "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+   "link": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+   "summary": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-03T11:00:01+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
    "id": "46741a551a40",
    "title": "Aetna 2027 Medicare plans offer reliable, affordable access to care &amp; member support",
    "link": "https://www.prnewswire.com/news-releases/aetna-2027-medicare-plans-offer-reliable-affordable-access-to-care--member-support-302897328.html",
    "summary": "Plans designed to provide member value and access to care: $0 copays on Tier 1 drugs and covered vaccines at in-network pharmacies* $0 copays for annual physicals, colonoscopies and mammograms at in-network providers $0 copays for annual Healthy Home Visit from a licensed Signify Health...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -116,6 +144,24 @@
    "domain": "marketwatch.com",
    "published": "2026-10-03T11:00:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "1ee582b1e0b9",
+   "title": "Nasdaq Hits Fresh Ground on Chip and Software Strength as Dow, Small Caps Lag for the Week",
+   "link": "https://www.prnewswire.com/news-releases/nasdaq-hits-fresh-ground-on-chip-and-software-strength-as-dow-small-caps-lag-for-the-week-302897635.html",
+   "summary": "VANCOUVER, BC, Oct. 3, 2026 /PRNewswire/ -- Stock Preachers News Commentary - Big technology names pulled the Nasdaq Composite to a weekly gain while the Dow Jones Industrial Average and Russell 2000 closed the week in the red, underscoring a narrow rally as the quarter turned over. The...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-03T11:00:00+00:00",
+   "tickers": [
+    "IWM",
+    "NDAQ",
+    "NWSA",
+    "BC"
+   ]
   },
   {
    "id": "eb3ea6fc25ca",
@@ -8359,48 +8405,6 @@
    "tickers": [
     "LLY"
    ]
-  },
-  {
-   "id": "a12681c43635",
-   "title": "Lilly's Jaypirca (pirtobrutinib), the first-and-only approved non-covalent BTK inhibitor, receives expanded indication from U.S. FDA for certain patients with previously untreated CLL/SLL | LLY Stock News",
-   "link": "https://www.stocktitan.net/news/LLY/lilly-s-jaypirca-pirtobrutinib-the-first-and-only-approved-non-0uot40k7xeu3.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "stocktitan.net",
-   "published": "2026-10-02T19:05:00+00:00",
-   "tickers": [
-    "LLY",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "b60a307c2d04",
-   "title": "Italy raises growth forecast, deficit to fall below EU limit",
-   "link": "https://www.investing.com/news/economy-news/italy-raises-growth-forecast-deficit-to-fall-below-eu-limit-93CH-4930320",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-02T19:04:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1520a15b22e9",
-   "title": "TruTrade Launches Fully Automated Trade Execution and Management Platform",
-   "link": "https://www.prnewswire.com/news-releases/trutrade-launches-fully-automated-trade-execution-and-management-platform-302897414.html",
-   "summary": "SCOTTSDALE, Ariz., Oct. 2, 2026 /PRNewswire/ -- TruTrade, a U.S.-based software company specializing in automated trading technology, continues to advance its trading platform with technology designed to automate both trade execution and ongoing position management for retail traders....",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-02T19:04:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8416,6 +8420,7 @@
   "PRAX": "Praxis Precision Medicines",
   "ARWR": "Arrowhead Pharmaceuticals",
   "APO": "Apollo Global Management",
+  "IWM": "iShares Russell 2000 ETF",
   "GLUE": "Monte Rosa Therapeutics",
   "HON": "Honeywell International",
   "AMD": "Advanced Micro Devices",
