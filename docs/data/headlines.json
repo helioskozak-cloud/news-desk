@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-03T19:17:14.274172+00:00",
+ "generated": "2026-10-03T19:22:15.829258+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5d9ec2bbc1db",
+   "title": "Key deals this week: Onsemi, Mattel, Nebius, Advanced Micro Devices, and more",
+   "link": "https://seekingalpha.com/news/4650021-key-deals-this-week-onsemi-mattel-nebius-advanced-micro-devices-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-03T19:15:36+00:00",
+   "tickers": [
+    "AMD",
+    "MAT"
+   ]
+  },
   {
    "id": "ecb086808dea",
    "title": "Utilities fall 13% in quarter; Constellation Energy gains as PG&E leads declines",
@@ -347,6 +363,19 @@
    "category": "stocks",
    "type": "earnings",
    "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-03T17:05:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "777540c4da90",
+   "title": "Energy sector outperforms S&P 500 in Q3 as oil prices rise",
+   "link": "https://seekingalpha.com/news/4649212-energy-sector-outperforms-sp-500-in-q3-as-oil-prices-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-10-03T17:05:00+00:00",
    "tickers": []
@@ -8286,40 +8315,11 @@
    "domain": "investing.com",
    "published": "2026-10-02T20:08:37+00:00",
    "tickers": []
-  },
-  {
-   "id": "d22556d9e7fd",
-   "title": "Integer noteholders can convert bonds through December 31",
-   "link": "https://www.investing.com/news/company-news/integer-noteholders-can-convert-bonds-through-december-31-93CH-4930368",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-02T20:08:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "44924714a94a",
-   "title": "Allison Transmission redeems $100m of 2027 senior notes",
-   "link": "https://www.investing.com/news/company-news/allison-transmission-redeems-100m-of-2027-senior-notes-93CH-4930367",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-02T20:08:27+00:00",
-   "tickers": [
-    "ALSN"
-   ]
   }
  ],
  "ticker_names": {
   "MUU": "Direxion Daily MU Bull 2X Shares",
   "BTI": "British American Tobacco p.l.c",
-  "ALSN": "Allison Transmission Holdings",
   "JBHT": "J.B. Hunt Transport Services",
   "RGA": "Reinsurance Group of America",
   "WST": "West Pharmaceutical Services",
@@ -8448,6 +8448,7 @@
   "ABBV": "AbbVie",
   "CGNX": "Cognex",
   "LEN": "Lennar",
+  "MAT": "Mattel",
   "MTZ": "MasTec",
   "NDAQ": "Nasdaq",
   "NTRA": "Natera",
