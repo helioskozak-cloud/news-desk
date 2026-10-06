@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-06T04:32:23.640480+00:00",
+ "generated": "2026-10-06T04:36:51.344261+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5c290e38dcb2",
+   "title": "FirstFT: French central bank chief warns on rising rates",
+   "link": "https://www.ft.com/content/1d152b5b-decb-41c3-a197-8de1d1ca26fc?syn-25a6b1a6=1",
+   "summary": "Also in today’s newsletter: ‘rogue’ AI liability and London gold futures",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-10-06T04:32:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b2a04917882a",
+   "title": "Stock futures are little changed after Nasdaq hits new record: Live updates",
+   "link": "https://www.cnbc.com/2026/10/05/stock-market-today-live-updates.html",
+   "summary": "The Nasdaq Composite jumped to a a fresh intraday all-time high and a record close on Monday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-06T04:30:35+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
   {
    "id": "476217805f7d",
    "title": "Rates Spark: Repricing The ECB Path",
@@ -41,6 +69,21 @@
    "domain": "globenewswire.com",
    "published": "2026-10-06T04:30:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "3430398502fb",
+   "title": "McDonald's hit with lawsuit alleging AI pricing system violates antitrust laws",
+   "link": "https://seekingalpha.com/news/4650404-mcdonalds-hit-with-lawsuit-alleging-ai-pricing-system-violates-antitrust-laws?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-06T04:29:34+00:00",
+   "tickers": [
+    "MCD"
+   ]
   },
   {
    "id": "a06a53348abe",
@@ -179,7 +222,7 @@
    "title": "Solidion Technology (NASDAQ: STI) blijft bij zijn bod op Flux Power (NASDAQ: FLUX) blijft bij zijn bod onder de marktwaarde nadat de raad van bestuur van Flux het heeft afgewezen",
    "link": "https://www.prnewswire.com/news-releases/solidion-technology-nasdaq-sti-blijft-bij-zijn-bod-op-flux-power-nasdaq-flux-blijft-bij-zijn-bod-onder-de-marktwaarde-nadat-de-raad-van-bestuur-van-flux-het-heeft-afgewezen-302899253.html",
    "summary": "Solidion ziet geen reden om het bod te verhogen, aangezien Flux Power nog steeds te maken heeft met zeer verwaterende financieringsbehoeften, regelgevingskwesties en het risico op wanbetaling. DALLAS, 6 oktober 2026 /PRNewswire/ -- Solidion Technology, Inc. (NASDAQ: STI) ('Solidion...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -677,26 +720,11 @@
    "tickers": []
   },
   {
-   "id": "b2a04917882a",
-   "title": "Stock futures are little changed after Nasdaq hits new record: Live updates",
-   "link": "https://www.cnbc.com/2026/10/05/stock-market-today-live-updates.html",
-   "summary": "The Nasdaq Composite jumped to a a fresh intraday all-time high and a record close on Monday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-06T03:28:11+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
    "id": "de5d7fcf59f2",
    "title": "CRMLS Seeks Declaratory Judgment, Files Complaint Against Compass, Inc.",
    "link": "https://www.prnewswire.com/news-releases/crmls-seeks-declaratory-judgment-files-complaint-against-compass-inc-302899212.html",
    "summary": "CHINO HILLS, Calif., Oct. 5, 2026 /PRNewswire/ -- Following California Regional MLS's refusal of Compass's demands to cease enforcement of its policies concerning cooperation, CRMLS is seeking a declaratory judgment in the Southern District of New York to prove that its rules are fair,...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1219,7 +1247,7 @@
    "title": "Caladan Receives In-Principle Approval from VARA",
    "link": "https://www.prnewswire.com/news-releases/caladan-receives-in-principle-approval-from-vara-302899140.html",
    "summary": "Caladan's Dubai entity has received in-principle approval for Broker-Dealer Services to institutional clients under Dubai's virtual asset framework. DUBAI, UAE, Oct. 5, 2026 /PRNewswire/ -- Caladan, a digital asset market maker in Asia, today announced that its Dubai entity, CLDN Broker...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "fda",
    "sentiment": "neutral",
@@ -1232,7 +1260,7 @@
    "title": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions",
    "link": "https://www.prnewswire.com/news-releases/solana-foundation-launches-solana-dvp-an-atomic-settlement-program-built-for-financial-institutions-302898811.html",
    "summary": "Onchain open-source delivery-versus-payment infrastructure, tailored for the world's leading financial institutions NEW YORK, Oct. 5, 2026 /PRNewswire/ -- Solana Foundation, a non-profit dedicated to the decentralization, growth, and security of Solana, today announced Solana DvP, an...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "legal",
    "sentiment": "positive",
@@ -1597,7 +1625,7 @@
    "title": "MIMARU eröffnet eine Immobilie in Osaka-Namba mit Apartments für sechs Personen und einer Sky-Garden-Suite",
    "link": "https://www.prnewswire.com/news-releases/mimaru-eroffnet-eine-immobilie-in-osaka-namba-mit-apartments-fur-sechs-personen-und-einer-sky-garden-suite-302899122.html",
    "summary": "TOKIO, 6. Oktober 2026 /PRNewswire/ -- MIMARU, Japans führende Apartmenthotel-Marke für Familien und Gruppen, die von der Cosmos Hotel Management Co., Ltd. betrieben wird, eröffnete am Donnerstag, dem 1. Oktober, das „MIMARU Osaka Namba Station Annex\" in Namba, Osaka. Die Anlage verfügt...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1610,7 +1638,7 @@
    "title": "MIMARU inaugura su establecimiento en Osaka Namba",
    "link": "https://www.prnewswire.com/news-releases/mimaru-inaugura-su-establecimiento-en-osaka-namba-302899121.html",
    "summary": "- MIMARU inaugura su establecimiento en Osaka Namba con apartamentos para seis personas y una suite con jardín en la azotea TOKIO, 6 de octubre de 2026 /PRNewswire/ -- MIMARU, la marca líder de hoteles de apartamentos en Japón para familias y grupos —gestionada por Cosmos Hotel Management...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8397,34 +8425,6 @@
     "AGCO",
     "NWSA"
    ]
-  },
-  {
-   "id": "d42deff2fcf8",
-   "title": "Using PLTY Instead Of Betting On Palantir In The Run-Up To Earnings",
-   "link": "https://seekingalpha.com/article/4952053-using-plty-instead-of-betting-on-palantir-in-the-run-up-to-earnings?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-05T19:44:10+00:00",
-   "tickers": [
-    "PLTR"
-   ]
-  },
-  {
-   "id": "7eb136cc276f",
-   "title": "El bufete Potts Law Firm solicita a un tribunal federal que acumule los procesos sobre inteligencia artificial a nivel nacional",
-   "link": "https://www.prnewswire.com/news-releases/el-bufete-potts-law-firm-solicita-a-un-tribunal-federal-que-acumule-los-procesos-sobre-inteligencia-artificial-a-nivel-nacional-803781866.html",
-   "summary": "HOUSTON, 5 de octubre de 2026 /PRNewswire-HISPANIC PR WIRE/ -- El bufete Potts Law Firm ha solicitado al Panel Judicial de Litigios Multidistritales de EE. UU. (\"JPML\") que centralice y consolide el creciente número de demandas federales derivadas de las acusaciones de que el sistema de...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-05T19:44:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
