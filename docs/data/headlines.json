@@ -1,8 +1,68 @@
 {
- "generated": "2026-10-08T21:16:50.450124+00:00",
+ "generated": "2026-10-08T21:21:49.586779+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "90022e11273b",
+   "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+   "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+   "summary": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-08T21:19:49+00:00",
+   "tickers": [
+    "VZ",
+    "T"
+   ]
+  },
+  {
+   "id": "cfeee4749615",
+   "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+   "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+   "summary": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-10-08T21:19:14+00:00",
+   "tickers": [
+    "CRWV",
+    "ORCL"
+   ]
+  },
+  {
+   "id": "daf6397ce0e8",
+   "title": "CoreWeave slides 8% amid tech sector weakness",
+   "link": "https://seekingalpha.com/news/4651601-coreweave-slides-8-percent-amid-tech-sector-weakness?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-08T21:17:01+00:00",
+   "tickers": [
+    "CRWV"
+   ]
+  },
+  {
+   "id": "78cb0b41bf9e",
+   "title": "Atlas Atomics raises $400M at $1.9B valuation for reactor tech - Bloomberg",
+   "link": "https://www.investing.com/news/stock-market-news/atlas-atomics-raises-400m-at-19b-valuation-for-reactor-tech--bloomberg-93CH-4939848",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-08T21:15:34+00:00",
+   "tickers": []
+  },
   {
    "id": "f2d4e6a3dc52",
    "title": "RTX wins up to $6.34B deal for Standard Missile-3 production",
@@ -18,6 +78,19 @@
     "NVDA",
     "RTX"
    ]
+  },
+  {
+   "id": "cdb70543285e",
+   "title": "U.S. bond market halts rout while Eurozone finance ministers pressure Paris",
+   "link": "https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
+   "summary": "",
+   "source": "Investing Forex",
+   "category": "fx",
+   "type": "fx",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-08T21:15:27+00:00",
+   "tickers": []
   },
   {
    "id": "3b8815f77f14",
@@ -49,6 +122,19 @@
     "NAMM",
     "NWSA"
    ]
+  },
+  {
+   "id": "87172c57b911",
+   "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+   "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+   "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-10-08T21:15:00+00:00",
+   "tickers": []
   },
   {
    "id": "5613fad59a9f",
@@ -96,6 +182,50 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-10-08T21:13:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9afaee0ce5cc",
+   "title": "Yorkville Ives adds Dell stock and SpaceX to AI 30 list on infrastructure shift",
+   "link": "https://www.investing.com/news/analyst-ratings/yorkville-ives-adds-dell-stock-and-spacex-to-ai-30-list-on-infrastructure-shift-93CH-4939843",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-08T21:12:44+00:00",
+   "tickers": [
+    "DELL"
+   ]
+  },
+  {
+   "id": "ff0386ea7293",
+   "title": "RTX’s Raytheon wins up to $6.3 billion US missile contract",
+   "link": "https://www.investing.com/news/stock-market-news/rtxs-raytheon-wins-up-to-63-billion-us-missile-contract-4939842",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-08T21:12:40+00:00",
+   "tickers": [
+    "RTX",
+    "NVDA"
+   ]
+  },
+  {
+   "id": "6e088a7c19ba",
+   "title": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
+   "link": "https://www.investing.com/news/stock-market-news/spacex-to-acquire-spectrum-that-enables-starlink-mobile-services-4939769",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-08T21:12:26+00:00",
    "tickers": []
   },
   {
@@ -198,22 +328,6 @@
    "tickers": []
   },
   {
-   "id": "90022e11273b",
-   "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
-   "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
-   "summary": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-08T21:10:09+00:00",
-   "tickers": [
-    "VZ",
-    "T"
-   ]
-  },
-  {
    "id": "5d4db8bbacca",
    "title": "Byline Bancorp, Inc. Names Sean H. McGuire Chief Commercial Banking Officer and Scott E. Hawthorne Chief Credit Officer as Part of Ongoing Succession Planning | BY Stock News",
    "link": "https://www.stocktitan.net/news/BY/byline-bancorp-inc-names-sean-h-mc-guire-chief-commercial-banking-bc54usimfuwm.html",
@@ -242,6 +356,21 @@
    "tickers": []
   },
   {
+   "id": "11e94ee189e6",
+   "title": "American Express fined $350 million over money-laundering compliance failures",
+   "link": "https://www.investing.com/news/stock-market-news/american-express-fined-350-million-over-moneylaundering-compliance-failures-4939840",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-08T21:07:59+00:00",
+   "tickers": [
+    "AXP"
+   ]
+  },
+  {
    "id": "6b8be8901e67",
    "title": "Equifax introduces mortgage credit file supporting dual-score approach",
    "link": "https://seekingalpha.com/news/4651594-equifax-introduces-mortgage-credit-file-supporting-dual-score-approach?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -254,22 +383,6 @@
    "published": "2026-10-08T21:07:49+00:00",
    "tickers": [
     "EFX"
-   ]
-  },
-  {
-   "id": "cfeee4749615",
-   "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-   "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-   "summary": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-10-08T21:07:04+00:00",
-   "tickers": [
-    "CRWV",
-    "ORCL"
    ]
   },
   {
@@ -314,6 +427,49 @@
    "published": "2026-10-08T21:05:00+00:00",
    "tickers": [
     "NWSA"
+   ]
+  },
+  {
+   "id": "5fbe88c0f75f",
+   "title": "Sun Life warns shareholders of below-market mini-tender offer",
+   "link": "https://www.investing.com/news/company-news/sun-life-warns-shareholders-of-belowmarket-minitender-offer-93CH-4939838",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-08T21:04:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2159e47ff368",
+   "title": "Alignment Healthcare earns 4-Star or higher ratings for six plans",
+   "link": "https://www.investing.com/news/company-news/alignment-healthcare-earns-4star-or-higher-ratings-for-six-plans-93CH-4939837",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-08T21:04:32+00:00",
+   "tickers": [
+    "ALHC"
+   ]
+  },
+  {
+   "id": "f871e2f12a4c",
+   "title": "Logitech unveils Rally Speaker 2 Pro and Max for large spaces",
+   "link": "https://www.investing.com/news/company-news/logitech-unveils-rally-speaker-2-pro-and-max-for-large-spaces-93CH-4939836",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-08T21:04:31+00:00",
+   "tickers": [
+    "LOGI"
    ]
   },
   {
@@ -487,6 +643,19 @@
    ]
   },
   {
+   "id": "d47d13a9314c",
+   "title": "Venezuela’s president expects third-quarter growth after earthquake hit",
+   "link": "https://www.investing.com/news/economy-news/venezuelas-president-expects-thirdquarter-growth-after-earthquake-hit-4939635",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-08T21:00:18+00:00",
+   "tickers": []
+  },
+  {
    "id": "c246400ebb79",
    "title": "Gold Royalty to Release Third Quarter 2026 Results on November 4, 2026",
    "link": "https://www.prnewswire.com/news-releases/gold-royalty-to-release-third-quarter-2026-results-on-november-4-2026-302902682.html",
@@ -657,6 +826,19 @@
    ]
   },
   {
+   "id": "03f9fba1efae",
+   "title": "Raymond James initiates Nektar stock coverage with Market Perform",
+   "link": "https://www.investing.com/news/analyst-ratings/raymond-james-initiates-nektar-stock-coverage-with-market-perform-93CH-4939826",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-08T20:58:47+00:00",
+   "tickers": []
+  },
+  {
    "id": "ad85fbf000cf",
    "title": "Connecticut Governor Lamont: AI regulation should have been led by Federal Government, not states",
    "link": "https://www.cnbc.com/video/2026/10/08/connecticut-governor-lamont-ai-regulation-should-have-been-led-by-federal-government-not-states.html",
@@ -682,6 +864,19 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-10-08T20:58:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "54cfe869838e",
+   "title": "Kopin stock jumps on $18.6M Army display contract win",
+   "link": "https://www.investing.com/news/stock-market-news/kopin-stock-jumps-on-186m-army-display-contract-win-4939825",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-08T20:57:36+00:00",
    "tickers": []
   },
   {
@@ -763,19 +958,6 @@
    "tickers": [
     "MS"
    ]
-  },
-  {
-   "id": "6e088a7c19ba",
-   "title": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
-   "link": "https://www.investing.com/news/stock-market-news/spacex-to-acquire-spectrum-that-enables-starlink-mobile-services-4939769",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-08T20:54:39+00:00",
-   "tickers": []
   },
   {
    "id": "d58f67198364",
@@ -1169,13 +1351,13 @@
   },
   {
    "id": "6826e4613d27",
-   "title": "Humana soars, Alignment Healthcare on Medicare rating changes",
+   "title": "Humana soars, Alignment Healthcare sinks on Medicare rating changes",
    "link": "https://www.investing.com/news/stock-market-news/humana-soars-alignment-healthcare-on-medicare-rating-changes-4939804",
    "summary": "",
    "source": "Investing Stock",
    "category": "stocks",
    "type": "stocks",
-   "sentiment": "positive",
+   "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-10-08T20:42:45+00:00",
    "tickers": [
@@ -6406,19 +6588,6 @@
    "tickers": []
   },
   {
-   "id": "d47d13a9314c",
-   "title": "Venezuela’s president expects third-quarter growth after earthquake hit",
-   "link": "https://www.investing.com/news/economy-news/venezuelas-president-expects-thirdquarter-growth-after-earthquake-hit-4939635",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-08T19:01:42+00:00",
-   "tickers": []
-  },
-  {
    "id": "5abb9715b465",
    "title": "Willamette Valley Vineyards CEO buys $9,654 in stock",
    "link": "https://www.investing.com/news/insider-trading-news/willamette-valley-vineyards-ceo-buys-9654-in-stock-93CH-4939634",
@@ -7461,19 +7630,6 @@
    ]
   },
   {
-   "id": "87172c57b911",
-   "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-   "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-   "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-10-08T18:30:00+00:00",
-   "tickers": []
-  },
-  {
    "id": "23f82850ab2f",
    "title": "Mar Vista U.S. Quality Premier Portfolio Q3 2026 Commentary",
    "link": "https://seekingalpha.com/article/4952880-mar-vista-us-quality-premier-portfolio-q3-2026-commentary?source=feed_all_articles",
@@ -8485,161 +8641,6 @@
    "domain": "prnewswire.com",
    "published": "2026-10-08T18:04:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "eafdf25314af",
-   "title": "Humane World for Animals offers tips for coexisting with wildlife in colder weather",
-   "link": "https://www.prnewswire.com/news-releases/humane-world-for-animals-offers-tips-for-coexisting-with-wildlife-in-colder-weather-302902837.html",
-   "summary": "Wildlife experts explain what to expect as wild animals adapt to seasonal changes WASHINGTON, Oct. 8, 2026 /PRNewswire/ -- As winter in the Northern Hemisphere approaches, our wild neighbors like raccoons, squirrels, deer and birds begin changing their behavior in response to colder...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-08T18:04:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "26cd19f7c5f4",
-   "title": "Byrna Technologies Inc. (BYRN) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4952821-byrna-technologies-inc-byrn-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-08T18:03:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8706c978c305",
-   "title": "Tilray Brands, Inc. (TLRY) Q1 2027 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4952814-tilray-brands-inc-tlry-q1-2027-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-08T18:03:40+00:00",
-   "tickers": [
-    "TLRY"
-   ]
-  },
-  {
-   "id": "e724221b748e",
-   "title": "YieldMax MRNA Option Income Strategy ETF announces weekly distribution of $0.7462",
-   "link": "https://seekingalpha.com/news/4651492-yieldmax-mrna-option-income-strategy-etf-announces-weekly-distribution-of-07462?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-08T18:03:39+00:00",
-   "tickers": [
-    "MSTR",
-    "MRNA"
-   ]
-  },
-  {
-   "id": "e1bfc7cdeb18",
-   "title": "Military &amp; Defense Vehicle Tires Market to Reach USD 5.24 Billion by 2035 as Defense Spending, Run-Flat and CTIS Adoption Drive Demand, Reports Radial Insights",
-   "link": "https://www.prnewswire.com/news-releases/military--defense-vehicle-tires-market-to-reach-usd-5-24-billion-by-2035-as-defense-spending-run-flat-and-ctis-adoption-drive-demand-reports-radial-insights-302902834.html",
-   "summary": "MIDDLETOWN, Del., Oct. 8, 2026 /PRNewswire/ -- The global Military & Defense Vehicle Tires Market was valued at USD 3.401 billion in 2025 and is projected to expand from USD 3.55 billion in 2026 to USD 5.24 billion by 2035, registering a compound annual growth rate of 4.42% during the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-08T18:03:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2d47a27c9ffb",
-   "title": "Dallas College Expands Bachelor's Degree Offerings With New Management Program",
-   "link": "https://www.prnewswire.com/news-releases/dallas-college-expands-bachelors-degree-offerings-with-new-management-program-302902836.html",
-   "summary": "The move strengthens Dallas' most accessible workforce-aligned pathway to a four-year degree as more than 400 students enroll in the new online program. DALLAS, Oct. 8, 2026 /PRNewswire/ -- Dallas College is growing its bachelor's degree portfolio to four with the launch of its Bachelor...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-08T18:03:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "91819ea80255",
-   "title": "Workday Named as a Market Shaper in the 2026 Gartner® Emerging Market Quadrant for AI Agents in Human Resources -- Established Vendors",
-   "link": "https://www.prnewswire.com/news-releases/workday-named-as-a-market-shaper-in-the-2026-gartner-emerging-market-quadrant-for-ai-agents-in-human-resources--established-vendors-302902835.html",
-   "summary": "PLEASANTON, Calif., Oct. 8, 2026 /PRNewswire/ -- Workday, Inc. (NASDAQ: WDAY), the agentic platform for HR, finance, and IT, today announced it was named as a Market Shaper in the inaugural Gartner Emerging Market Quadrant (eMQ) for AI Agents in Human Resources. With Workday agents,...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-08T18:03:00+00:00",
-   "tickers": [
-    "WDAY"
-   ]
-  },
-  {
-   "id": "a0daa948cfcc",
-   "title": "IREN stock falls after report flags infrastructure and disclosure concerns",
-   "link": "https://www.investing.com/news/stock-market-news/iren-stock-falls-after-report-flags-infrastructure-and-disclosure-concerns-93CH-4939589",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-08T18:02:47+00:00",
-   "tickers": [
-    "IREN"
-   ]
-  },
-  {
-   "id": "585a661d9ca3",
-   "title": "YieldMax MARA Option Income Strategy ETF announces weekly distribution of $0.0470",
-   "link": "https://seekingalpha.com/news/4651491-yieldmax-mara-option-income-strategy-etf-announces-weekly-distribution-of-00470?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-08T18:02:21+00:00",
-   "tickers": [
-    "MARA",
-    "MSTR"
-   ]
-  },
-  {
-   "id": "1846d7d4ac96",
-   "title": "Information Services Group, Inc. (III) Discusses AI Infrastructure Momentum and Impact on SaaS in Technology Services Market - Slideshow",
-   "link": "https://seekingalpha.com/article/4952886-information-services-group-inc-iii-discusses-ai-infrastructure-momentum-and-impact-on-saas-in?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-08T18:01:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ea00497b3a66",
-   "title": "Chip sector selloff: where value shows up among semiconductor dips",
-   "link": "https://www.investing.com/news/stock-market-news/chip-sector-selloff-where-value-shows-up-among-semiconductor-dips-93CH-4939588",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-08T18:01:22+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8702,6 +8703,7 @@
   "RBLX": "Roblox Corporation",
   "AMAT": "Applied Materials",
   "CL": "Colgate-Palmolive",
+  "DELL": "Dell Technologies",
   "LITE": "Lumentum Holdings",
   "MTDR": "Matador Resources",
   "OLED": "Universal Display",
@@ -8712,7 +8714,6 @@
   "COST": "Costco Wholesale",
   "GTLS": "Chart Industries",
   "JPM": "JPMorgan Chase &",
-  "MARA": "Marathon Digital",
   "COIN": "Coinbase Global",
   "D": "Dominion Energy",
   "DIS": "The Walt Disney",
@@ -8736,7 +8737,6 @@
   "TLRY": "Tilray Brands",
   "UNH": "United Health",
   "MSTR": "MicroStrategy",
-  "IREN": "IREN Limited",
   "MP": "MP Materials",
   "NBIS": "Nebius Group",
   "QS": "QuantumScape",
@@ -8790,12 +8790,10 @@
   "EFX": "Equifax",
   "GDDY": "GoDaddy",
   "KBH": "KB Home",
-  "MRNA": "Moderna",
   "PEP": "PepsiCo",
   "SCI": "Service",
   "STNE": "StoneCo",
   "VTRS": "Viatris",
-  "WDAY": "Workday",
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "BREW": "BrewDog",
