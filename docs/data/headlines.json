@@ -1,8 +1,21 @@
 {
- "generated": "2026-10-09T17:41:44.540894+00:00",
+ "generated": "2026-10-09T17:46:52.387684+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "92da83c27ae1",
+   "title": "Delta slashes profit outlook as higher fuel prices bite",
+   "link": "https://www.ft.com/content/77d73223-3cfc-4892-a3c5-5502595f42d4?syn-25a6b1a6=1",
+   "summary": "US airline warns over continued impact of Iran conflict even as third-quarter revenues rise",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-10-09T17:41:54+00:00",
+   "tickers": []
+  },
   {
    "id": "349635730771",
    "title": "US telcos shed $60bn in value after SpaceX announces spectrum purchase",
@@ -15,6 +28,35 @@
    "domain": "ft.com",
    "published": "2026-10-09T17:41:04+00:00",
    "tickers": []
+  },
+  {
+   "id": "5de59fc8de52",
+   "title": "Beyond Chips: The 3 Layers Of The AI Value Chain",
+   "link": "https://seekingalpha.com/article/4953143-beyond-chips-three-layers-ai-value-chain?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-09T17:41:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b5029c3341be",
+   "title": "Astera Labs, Salesforce among IT stocks with A+ EPS revision grades",
+   "link": "https://seekingalpha.com/news/4651837-astera-labs-salesforce-among-it-stocks-with-a-eps-revision-grades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-09T17:40:15+00:00",
+   "tickers": [
+    "ALAB",
+    "CRM"
+   ]
   },
   {
    "id": "0b6bc3b02e60",
@@ -5370,19 +5412,6 @@
    "tickers": []
   },
   {
-   "id": "92da83c27ae1",
-   "title": "Delta slashes profit outlook as higher fuel prices bite",
-   "link": "https://www.ft.com/content/77d73223-3cfc-4892-a3c5-5502595f42d4?syn-25a6b1a6=1",
-   "summary": "US airline warns over continued impact of Iran conflict even as third-quarter revenues rise",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "ft.com",
-   "published": "2026-10-09T14:24:44+00:00",
-   "tickers": []
-  },
-  {
    "id": "3e242f17c266",
    "title": "Why is Novavax stock surging today?",
    "link": "https://www.investing.com/news/stock-market-news/why-is-novavax-stock-surging-today-93CH-4941381",
@@ -8269,32 +8298,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-09T13:00:17+00:00",
    "tickers": []
-  },
-  {
-   "id": "c3fa5b86daf0",
-   "title": "Evolution Metals & Technologies Corp. Raises Fiscal 2026 Revenue Guidance 62% at Midpoint to $10–$11 Million and Reaffirms $400–$460 Million Fiscal 2027 Outlook",
-   "link": "https://www.investing.com/news/company-news/evolution-metals--technologies-corp-raises-fiscal-2026-revenue-guidance-62-at-midpoint-to-1011-million-and-reaffirms-400460-million-fiscal-2027-outlook-4941164",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-09T13:00:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "22d94273b39c",
-   "title": "HelloNation Features Real Estate Expert Bram Chill on How to Navigate Multiple Offer Situations",
-   "link": "https://www.prnewswire.com/news-releases/hellonation-features-real-estate-expert-bram-chill-on-how-to-navigate-multiple-offer-situations-302900976.html",
-   "summary": "The article explores the factors that influence competitive offers beyond the purchase price alone. EVANSTON, Ill., Oct. 9, 2026 /PRNewswire/ -- What should buyers and sellers know about a multiple offer situation? A HelloNation article answers that question through insights from Real...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-09T13:00:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8391,6 +8394,7 @@
   "BA": "The Boeing",
   "BX": "Blackstone",
   "CMS": "CMS Energy",
+  "CRM": "Salesforce",
   "MSFT": "Office 365",
   "DE": "John Deere",
   "AMBA": "Ambarella",
