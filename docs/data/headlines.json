@@ -1,8 +1,40 @@
 {
- "generated": "2026-10-09T07:02:25.713889+00:00",
+ "generated": "2026-10-09T07:07:19.011291+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f0ad7ad6d933",
+   "title": "Edison Explains: Petflation",
+   "link": "https://seekingalpha.com/article/4952980-edison-explains-petflation?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-09T07:05:00+00:00",
+   "tickers": [
+    "EIX"
+   ]
+  },
+  {
+   "id": "e64f72791af1",
+   "title": "S&P 500 Sector Outlook: Favor XLC And XLK, Underweight XLP As Earnings Leadership Remains Uneven",
+   "link": "https://seekingalpha.com/article/4952969-s-and-p-500-sector-outlook-favor-xlc-and-xlk-underweight-xlp-as-earnings-leadership-remains-uneven?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-09T07:04:50+00:00",
+   "tickers": [
+    "XLC",
+    "XLK",
+    "XLP"
+   ]
+  },
   {
    "id": "64f8b6919b94",
    "title": "L'Alliance indienne pour la santé mentale (IMHA) considère que l'expérience vécue est un élément central pour façonner les pratiques en matière de santé mentale, la conception des services et les politiques publiques",
@@ -8256,35 +8288,12 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-08T20:32:14+00:00",
    "tickers": []
-  },
-  {
-   "id": "64eb638f9fea",
-   "title": "AZZ declares $0.24 dividend",
-   "link": "https://seekingalpha.com/news/4651586-azz-declares-0_24-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-08T20:32:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "afc1a9fbfe95",
-   "title": "Should I put my nest egg in a 30-year Treasury bond?",
-   "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-   "summary": "Risk comes in many forms, even with “safe” investments.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-10-08T20:32:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
+  "XLC": "State Street Communication Services Select Sector SPDR ETF",
+  "XLP": "State Street Consumer Staples Select Sector SPDR ETF",
+  "XLK": "State Street Technology Select Sector SPDR ETF",
   "KTOS": "Kratos Defense & Security Solutions",
   "VYM": "Vanguard High Dividend Yield ETF",
   "HDV": "iShares Core High Dividend ETF",
@@ -8308,6 +8317,7 @@
   "HALO": "Halozyme Therapeutics",
   "PLTR": "Palantir Technologies",
   "ALHC": "Alignment Healthcare",
+  "EIX": "Edison International",
   "EW": "Edwards Lifesciences",
   "PRU": "Prudential Financial",
   "SMCI": "Super Micro Computer",
