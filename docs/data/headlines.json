@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-10T14:46:37.457161+00:00",
+ "generated": "2026-10-10T14:52:04.020985+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "21b572236d53",
+   "title": "The airport in the Saudi capital has been attacked again, officials say",
+   "link": "https://www.cnbc.com/2026/10/10/the-airport-in-the-saudi-capital-has-been-attacked-again-officials.html",
+   "summary": "The airport has been targeted multiple times in the week since a Saudi-led coalition launched a military offensive against Houthi rebels in neighboring Yemen.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-10T14:46:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e77103886b37",
+   "title": "DKS Investors Have Opportunity to Lead DICK'S Sporting Goods, Inc. Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/dks-investors-have-opportunity-to-lead-dicks-sporting-goods-inc-securities-fraud-lawsuit-302903798.html",
+   "summary": "NEW YORK, Oct. 10, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of DICK'S Sporting Goods, Inc. (NYSE: DKS) between September 8, 2025 and August 24, 2026, both dates inclusive (the \"Class Period\"), of the important November...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-10-10T14:43:00+00:00",
+   "tickers": [
+    "DKS"
+   ]
+  },
   {
    "id": "fa82e96cfa3b",
    "title": "AST SpaceMobile: Things May Get Uglier From Here (Rating Downgrade)",
@@ -235,7 +263,7 @@
    "title": "Real Estate Expert Mark Williams Explains What to Check Before Buying Land Near Greeneville in HelloNation",
    "link": "https://www.prnewswire.com/news-releases/real-estate-expert-mark-williams-explains-what-to-check-before-buying-land-near-greeneville-in-hellonation-302903774.html",
    "summary": "The article outlines key factors that help buyers avoid costly mistakes when purchasing raw land. GREENEVILLE, Tenn., Oct. 10, 2026 /PRNewswire/ -- What should buyers evaluate before purchasing property in Greeneville, Tennessee? A HelloNation article answers this question, featuring...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8396,35 +8424,6 @@
    "domain": "cnbc.com",
    "published": "2026-10-09T19:33:37+00:00",
    "tickers": []
-  },
-  {
-   "id": "29caa3a1649e",
-   "title": "Fed’s Musalem says more rate hikes needed to reach 2% target",
-   "link": "https://www.investing.com/news/economy-news/feds-musalem-says-more-rate-hikes-needed-to-reach-2-target-93CH-4941624",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-09T19:33:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "99fd9deea7ac",
-   "title": "ArcelorMittal raised to Buy at UBS on upbeat European steel price outlook",
-   "link": "https://seekingalpha.com/news/4651846-arcelormittal-raised-to-buy-at-ubs-on-upbeat-european-steel-price-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-09T19:33:01+00:00",
-   "tickers": [
-    "MT",
-    "UBS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8446,6 +8445,7 @@
   "CRSP": "CRISPR Therapeutics AG",
   "SH": "ProShares Short S&P500",
   "VZ": "Verizon Communications",
+  "DKS": "DICK'S Sporting Goods",
   "DOG": "ProShares Short Dow30",
   "PLTR": "Palantir Technologies",
   "PNW": "Pinnacle West Capital",
@@ -8506,7 +8506,6 @@
   "HSBC": "HSBC Holdings",
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
-  "MT": "ArcelorMittal",
   "O": "Realty Income",
   "POST": "Post Holdings",
   "RITM": "Rithm Capital",
@@ -8519,7 +8518,6 @@
   "HL": "Hecla Mining",
   "R": "Ryder System",
   "RBC": "RBC Bearings",
-  "UBS": "UBS Group AG",
   "USB": "U.S. Bancorp",
   "GOOGL": "Google Cloud",
   "ARM": "Arm Holdings",
