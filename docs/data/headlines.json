@@ -1,8 +1,40 @@
 {
- "generated": "2026-10-10T12:47:08.153114+00:00",
+ "generated": "2026-10-10T12:51:57.661889+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "742322aca1d9",
+   "title": "GOOGL, GOOG Investors Have Opportunity to Lead Alphabet Inc. Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/googl-goog-investors-have-opportunity-to-lead-alphabet-inc-securities-fraud-lawsuit-302903720.html",
+   "summary": "NEW YORK, Oct. 10, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, announces a class action lawsuit on behalf of purchasers of securities of Alphabet Inc. (NASDAQ: GOOGL, GOOG) between May 19, 2026 and July 16, 2026, inclusive (the \"Class Period\"). A class...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-10-10T12:49:00+00:00",
+   "tickers": [
+    "GOOGL",
+    "GOOG"
+   ]
+  },
+  {
+   "id": "99121cb036f6",
+   "title": "Starbucks To Acquire Chipotle? Neither Stock Is A Buy Now",
+   "link": "https://seekingalpha.com/article/4953209-starbucks-to-acquire-chipotle-neither-stock-a-buy-now?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-10T12:45:00+00:00",
+   "tickers": [
+    "SBUX",
+    "CMG"
+   ]
+  },
   {
    "id": "91ab23f1e61e",
    "title": "Isaias brings flood, tornado threats, power outages across U.S. Southeast after Florida landfall",
@@ -8381,34 +8413,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-09T18:53:41+00:00",
    "tickers": []
-  },
-  {
-   "id": "d3e15432fa78",
-   "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
-   "link": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
-   "summary": "The escalating attacks are testing whether a rebound in crude oil exports from the Middle East can be sustained under high-risk conditions.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-10-09T18:52:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3a8fdf5f487a",
-   "title": "Aerospace and defense stocks offer opportunity, Barclays says in launching coverage",
-   "link": "https://seekingalpha.com/news/4651839-aerospace-and-defense-stocks-offer-opportunity-barclays-says-in-launching-coverage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-09T18:52:17+00:00",
-   "tickers": [
-    "BCS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8425,6 +8429,7 @@
   "ICE": "Intercontinental Exchange",
   "UHS": "Universal Health Services",
   "HON": "Honeywell International",
+  "CMG": "Chipotle Mexican Grill",
   "COKE": "Coca-Cola Consolidated",
   "CRSP": "CRISPR Therapeutics AG",
   "SH": "ProShares Short S&P500",
@@ -8526,6 +8531,7 @@
   "BC": "Brunswick",
   "FRO": "Frontline",
   "PKG": "Packaging",
+  "SBUX": "Starbucks",
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
