@@ -1,8 +1,21 @@
 {
- "generated": "2026-10-11T00:56:35.483192+00:00",
+ "generated": "2026-10-11T01:01:41.276403+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "012887cedd05",
+   "title": "Sunrun CAO Maria Barak sells $13,753 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/sunrun-cao-maria-barak-sells-13753-in-stock-93CH-4942369",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-11T00:45:49+00:00",
+   "tickers": []
+  },
   {
    "id": "629b6b773d39",
    "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
@@ -17,6 +30,34 @@
    "tickers": [
     "POOL"
    ]
+  },
+  {
+   "id": "793ca4a985f9",
+   "title": "Workday director David Duffield sells $18.5m in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/workday-director-david-duffield-sells-185m-in-shares-93CH-4942359",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-11T00:31:19+00:00",
+   "tickers": [
+    "WDAY"
+   ]
+  },
+  {
+   "id": "3a10c518059f",
+   "title": "Sunrun CFO Danny Abajian sells $129,931 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/sunrun-cfo-danny-abajian-sells-129931-in-shares-93CH-4942358",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-11T00:31:07+00:00",
+   "tickers": []
   },
   {
    "id": "fae6f999e0f6",
@@ -1122,7 +1163,7 @@
    "title": "Retail Trading Platforms Post Record Quarters as Investor Apps Multiply",
    "link": "https://www.prnewswire.com/news-releases/retail-trading-platforms-post-record-quarters-as-investor-apps-multiply-302905072.html",
    "summary": "VANCOUVER, BC, Oct. 10, 2026 /PRNewswire/ -- Wall Street Investor News Commentary - Four publicly listed retail investing platforms now report more than 41 million funded accounts between them, and two of them reported record quarters this summer. The pattern is the same across all of...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8262,50 +8303,6 @@
    "domain": "investing.com",
    "published": "2026-10-09T20:32:13+00:00",
    "tickers": []
-  },
-  {
-   "id": "6f21589c0e4f",
-   "title": "Basel Medical Group Ltd (BMGL) Closes Registered Direct Offering | BMGL Stock News",
-   "link": "https://www.stocktitan.net/news/BMGL/basel-medical-group-ltd-bmgl-closes-registered-direct-gouib95ka21g.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-10-09T20:32:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "92da83c27ae1",
-   "title": "Delta slashes profit outlook as higher fuel prices bite",
-   "link": "https://www.ft.com/content/77d73223-3cfc-4892-a3c5-5502595f42d4?syn-25a6b1a6=1",
-   "summary": "US airline warns over continued impact of Iran conflict even as third-quarter revenues rise",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "ft.com",
-   "published": "2026-10-09T20:31:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f2c01e89297d",
-   "title": "Service Properties stock jumps after TKO offers to buy hospitality portfolio for $2B",
-   "link": "https://seekingalpha.com/news/4651874-service-properties-stock-jumps-after-tko-offers-to-buy-hospitality-portfolio-for-2b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-09T20:31:43+00:00",
-   "tickers": [
-    "SCI",
-    "TKO"
-   ]
   }
  ],
  "ticker_names": {
@@ -8441,6 +8438,7 @@
   "PEP": "PepsiCo",
   "SCI": "Service",
   "SMTC": "Semtech",
+  "WDAY": "Workday",
   "NFLX": "Netflix",
   "BULL": "Webull",
   "EVRG": "Evergy",
