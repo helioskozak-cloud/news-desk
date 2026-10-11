@@ -1,8 +1,62 @@
 {
- "generated": "2026-10-11T01:36:39.053209+00:00",
+ "generated": "2026-10-11T01:42:15.236366+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0df04241d59b",
+   "title": "Sunrun president & CRO Paul Dickson sells $122,971 in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/sunrun-president--cro-paul-dickson-sells-122971-in-company-stock-93CH-4942393",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-11T01:31:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "58a475aeb430",
+   "title": "Ncino CEO Sean Desmond sells $150,716 of NCNO stock",
+   "link": "https://www.investing.com/news/insider-trading-news/ncino-ceo-sean-desmond-sells-150716-of-ncno-stock-93CH-4942392",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-11T01:30:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "177fe8413056",
+   "title": "Sunrun CEO Mary Powell sells $188,939 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/sunrun-ceo-mary-powell-sells-188939-in-shares-93CH-4942386",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-11T01:16:13+00:00",
+   "tickers": [
+    "POWL"
+   ]
+  },
+  {
+   "id": "a1ad3912b78a",
+   "title": "PC Connection director David Beffa-Negrini sells $405,250 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/pc-connection-director-david-beffanegrini-sells-405250-in-stock-93CH-4942385",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-11T01:16:01+00:00",
+   "tickers": []
+  },
   {
    "id": "0f1dcc03d195",
    "title": "Lockheed Martin raises dividend by 4.3% to $3.60",
@@ -8249,62 +8303,6 @@
    "tickers": [
     "ALHC"
    ]
-  },
-  {
-   "id": "1ec6e2aff23a",
-   "title": "Hurricane Isaias strengthens as US Gulf Coast prepares for landfall",
-   "link": "https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-09T20:36:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "937c32f8d22f",
-   "title": "Arcus Biosciences Announces New Employment Inducement Grants | RCUS Stock News",
-   "link": "https://www.stocktitan.net/news/RCUS/arcus-biosciences-announces-new-employment-inducement-vrhtyymga1px.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-10-09T20:35:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "6c3a7fcac4a4",
-   "title": "/C O R R E C C I O N -- The Home Depot/",
-   "link": "https://www.prnewswire.com/news-releases/the-home-depot-anuncia-los-ganadores-de-los-premios-a-la-innovacion-2026-893121975.html",
-   "summary": "En el comunicado, The Home Depot anuncia los ganadores de los Premios a la Innovación 2026, emitido 07-Oct-2026 por The Home Depot a través de PR Newswire, la empresa nos informa que se ha actualizado la información relativa a uno de los finalistas enumerados. Una versión completa y...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-09T20:35:00+00:00",
-   "tickers": [
-    "HD"
-   ]
-  },
-  {
-   "id": "0883eddf459e",
-   "title": "Gold prices hit one-week high, investors eye Fed rate trajectory",
-   "link": "https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-09T20:34:53+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8353,6 +8351,7 @@
   "HOOD": "Robinhood Markets",
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
+  "POWL": "Powell Industries",
   "RIVN": "Rivian Automotive",
   "ENSG": "The Ensign Group",
   "JPM": "JPMorgan Chase &",
@@ -8370,7 +8369,6 @@
   "RRC": "Range Resources",
   "ADI": "Analog Devices",
   "FLNC": "Fluence Energy",
-  "HD": "The Home Depot",
   "MS": "Morgan Stanley",
   "NEE": "NextEra Energy",
   "GIS": "General Mills",
