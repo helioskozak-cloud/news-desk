@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-11T05:56:39.123557+00:00",
+ "generated": "2026-10-11T06:02:18.690848+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "3d03156b8f1a",
+   "title": "Advanced energy director Anne DelSanto sells $82,285 in stock.",
+   "link": "https://www.investing.com/news/insider-trading-news/advanced-energy-director-anne-delsanto-sells-82285-in-stock-93CH-4942469",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-11T05:46:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7676c158e348",
+   "title": "Verizon EVP Kyle Malady sells $50,325 in VZ common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-50325-in-vz-common-stock-93CH-4942468",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-11T05:46:00+00:00",
+   "tickers": [
+    "VZ"
+   ]
+  },
   {
    "id": "dbaf29a59117",
    "title": "CLOs: A Better Way To Access Leveraged Loans",
@@ -17,6 +45,19 @@
    "tickers": []
   },
   {
+   "id": "ac8657f8cecc",
+   "title": "Bitcoin struggles above $83,000 a year after $19 billion crypto crash",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-11T05:35:34+00:00",
+   "tickers": []
+  },
+  {
    "id": "1a88ee4ce435",
    "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
    "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
@@ -27,19 +68,6 @@
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-10-11T05:26:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ac8657f8cecc",
-   "title": "Bitcoin struggles near $83,000 a year after $19 billion crypto crash",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-near-83000-a-year-after-19-billion-crypto-crash-4942465",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-11T05:24:26+00:00",
    "tickers": []
   },
   {
@@ -7422,8 +7450,8 @@
    "title": "Trump agrees deal with Putin for Russia to release diesel",
    "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
    "summary": "Pact between Washington and Moscow comes just weeks before critical US midterm elections",
-   "source": "FT Companies",
-   "category": "stocks",
+   "source": "FT Markets",
+   "category": "markets",
    "type": "ma",
    "sentiment": "neutral",
    "domain": "ft.com",
@@ -8218,34 +8246,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-09T21:06:29+00:00",
    "tickers": []
-  },
-  {
-   "id": "2abf4766019c",
-   "title": "DRAM: Buy The Dip In The Most Important AI Bottleneck",
-   "link": "https://seekingalpha.com/article/4953174-dram-buy-the-dip-in-the-most-important-ai-bottleneck?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-09T21:05:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2ffd9170286a",
-   "title": "AES declares quarterly dividend of $0.176 per share",
-   "link": "https://www.investing.com/news/company-news/aes-declares-quarterly-dividend-of-0176-per-share-93CH-4941732",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-09T21:04:31+00:00",
-   "tickers": [
-    "AES"
-   ]
   }
  ],
  "ticker_names": {
@@ -8361,7 +8361,6 @@
   "RS": "Reliance",
   "SQ": "Cash App",
   "FOX": "Fox Corp",
-  "AES": "The AES",
   "BLSH": "Bullish",
   "CNC": "Centene",
   "COMP": "Compass",
