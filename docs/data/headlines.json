@@ -1,8 +1,39 @@
 {
- "generated": "2026-10-12T21:22:08.737004+00:00",
+ "generated": "2026-10-12T21:26:35.903658+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "3a32c8aa50ba",
+   "title": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her",
+   "link": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
+   "summary": "The former Fox News personality Guilfoyle was previously engaged to the president's son, Donald Trump Jr.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-12T21:21:33+00:00",
+   "tickers": [
+    "FOX",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "e7d2a0a180c2",
+   "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+   "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+   "summary": "The chip makers introduced hardware and software designs for future AI data centers, but the revenue potential is still far out, an analyst says.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "marketwatch.com",
+   "published": "2026-10-12T21:19:00+00:00",
+   "tickers": [
+    "AMD"
+   ]
+  },
   {
    "id": "d0b42a1d9de5",
    "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
@@ -16,6 +47,21 @@
    "published": "2026-10-12T21:17:58+00:00",
    "tickers": [
     "TSLA"
+   ]
+  },
+  {
+   "id": "efe5ee60c647",
+   "title": "J&J long-term Tremfya data demonstrates Crohn's remission through three years",
+   "link": "https://seekingalpha.com/news/4652284-johnson-and-johnson-long-term-tremfya-data-demonstrates-crohns-remission-through-three-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-12T21:16:32+00:00",
+   "tickers": [
+    "JNJ"
    ]
   },
   {
@@ -8461,47 +8507,6 @@
    "domain": "nytimes.com",
    "published": "2026-10-12T16:17:33+00:00",
    "tickers": []
-  },
-  {
-   "id": "e6d4b9f4c5cf",
-   "title": "Carpenter Technology: I Called The Sell, Now It's A Buy",
-   "link": "https://seekingalpha.com/article/4953532-carpenter-technology-i-called-the-sell-now-its-a-buy?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-12T16:16:55+00:00",
-   "tickers": [
-    "CRS"
-   ]
-  },
-  {
-   "id": "3e809401e26e",
-   "title": "Trump's Russia Deal Is Unlikely To Save You From $6 Diesel",
-   "link": "https://seekingalpha.com/article/4953531-trump-russia-deal-unlikely-to-save-you-from-6-diesel?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-12T16:16:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4af7cef90b79",
-   "title": "It’s time for the UK to reward whistleblowers financially",
-   "link": "https://www.ft.com/content/fa46e045-3ca1-465f-9b7a-6e3ce2d6483e",
-   "summary": "Incentivising insiders to come forward will transform how we tackle fraud",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-10-12T16:15:27+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8526,6 +8531,7 @@
   "PTGX": "Protagonist Therapeutics",
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
+  "AMD": "Advanced Micro Devices",
   "CMG": "Chipotle Mexican Grill",
   "NBIX": "Neurocrine Biosciences",
   "VZ": "Verizon Communications",
@@ -8634,6 +8640,7 @@
   "WULF": "TeraWulf",
   "SNAP": "Snapchat",
   "RTX": "Raytheon",
+  "FOX": "Fox Corp",
   "CVX": "Chevron",
   "DHR": "Danaher",
   "GDDY": "GoDaddy",
