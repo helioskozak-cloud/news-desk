@@ -17,6 +17,7 @@ Heavier than the per-headline quotes (about 1,750 tickers), so it runs at
 most every MIN_AGE_MIN minutes; pass --force to run regardless.
 """
 import json
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -33,6 +34,11 @@ THRESHOLD = 2.5      # |move| in 20-day standard deviations
 MIN_PRICE = 3.0      # below this a "move" is mostly tick size
 MIN_ABS_PCT = 2.0    # a pinned stock (a pending deal) makes -0.8% look like 2.7 sd
 KEEP = 40
+# Top movers by plain percent (owner, 2026-10-13: "a top movers section with
+# articles"): the day's biggest gainers and losers among operating companies.
+TOP_N = 15
+TOP_MIN_PRICE = 5.0
+FUND = re.compile(r"\b(?:ETF|ETN|Fund|Trust|Index|Shares|Portfolio|ProShares|Direxion|Defiance|Daily|Ultra|Leveraged|Inverse|Bull|Bear|[23]X)\b", re.I)  # funds and leveraged/inverse products
 
 
 def universe() -> list[str]:
@@ -79,6 +85,15 @@ def main(argv=None) -> int:
     payload = {"generated": datetime.now(timezone.utc).isoformat(), "as_of": as_of,
                "universe": len(tickers), "priced": len(sized), "threshold": THRESHOLD, "min_abs_pct": MIN_ABS_PCT,
                "movers": movers[:KEEP]}
+    # Gainers / losers: same session, priced, not a fund (leveraged ETFs would
+    # crowd out companies), at least $5.
+    pool = [(t, q) for t, q in sized if q["as_of"] == as_of and q["price"] >= TOP_MIN_PRICE
+            and not FUND.search(nm.get(t, ""))]
+    row = lambda t, q: {"ticker": t, "name": nm.get(t, ""), "price": q["price"], "change_pct": q["change_pct"],
+                        "vol_20d": q.get("vol_20d"), "sigma": q.get("sigma")}
+    pool.sort(key=lambda tq: tq[1]["change_pct"])
+    payload["losers"] = [row(t, q) for t, q in pool[:TOP_N] if q["change_pct"] < 0]
+    payload["gainers"] = [row(t, q) for t, q in reversed(pool[-TOP_N:]) if q["change_pct"] > 0]
     OUT.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
     print(f"fetch_movers: {len(sized)}/{len(tickers)} priced, {len(movers)} at |move| >= {THRESHOLD} sd "
           f"on {as_of}; kept {len(payload['movers'])}", flush=True)
