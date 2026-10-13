@@ -38,7 +38,7 @@ KEEP = 40
 # articles"): the day's biggest gainers and losers among operating companies.
 TOP_N = 15
 TOP_MIN_PRICE = 5.0
-FUND = re.compile(r"\b(?:ETF|ETN|Fund|Trust|Index|Shares|Portfolio|ProShares|Direxion|Defiance|Daily|Ultra|Leveraged|Inverse|Bull|Bear|[23]X)\b", re.I)  # funds and leveraged/inverse products
+FUND = re.compile(r"\b(?:ETF|ETN|Fund|Trust|Index|Shares|iShares|SPDR|Portfolio|ProShares|Direxion|Defiance|Daily|Ultra|Leveraged|Inverse|Bull|Bear|[23]X)\b", re.I)  # funds and leveraged/inverse products
 
 
 def universe() -> list[str]:
