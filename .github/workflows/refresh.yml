@@ -35,11 +35,17 @@ jobs:
         run: python scan/fetch_stocks.py
         continue-on-error: true
 
+      # Universe-wide unusual moves for regime-desk's News tab ("Why it
+      # moved"). Skips itself unless movers.json is over 30 minutes old.
+      - name: Unusual moves across the universe
+        run: python scan/fetch_movers.py
+        continue-on-error: true
+
       - name: Commit and push
         run: |
           git config user.name "news-desk-bot"
           git config user.email "bot@news-desk"
-          git add docs/data/headlines.json docs/data/stocks.json
+          git add docs/data/headlines.json docs/data/stocks.json docs/data/movers.json
           git diff --cached --quiet && echo "No new headlines" || \
             git commit -m "chore: refresh feed $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase origin main || true

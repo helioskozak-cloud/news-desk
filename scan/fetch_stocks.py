@@ -49,6 +49,21 @@ def collect_tickers() -> list[str]:
     return sorted(seen)
 
 
+def move_size(closes: list[float]) -> dict:
+    """How unusual the last move is: the stock's 20-day standard deviation of
+    daily returns (the 20 returns BEFORE the last one, so the move does not
+    dilute its own yardstick) and the last move in those units."""
+    rets = [b / a - 1 for a, b in zip(closes[:-1], closes[1:]) if a]
+    if len(rets) < 11:
+        return {}
+    last, base = rets[-1], rets[-21:-1]
+    mean = sum(base) / len(base)
+    sd = (sum((r - mean) ** 2 for r in base) / (len(base) - 1)) ** 0.5
+    if not sd:
+        return {}
+    return {"vol_20d": round(sd * 100, 2), "sigma": round(last / sd, 1)}
+
+
 def fetch_batch(tickers: list[str]) -> dict:
     """Return {ticker: row} dict for one batch using yfinance bulk download."""
     out = {}
@@ -57,7 +72,7 @@ def fetch_batch(tickers: list[str]) -> dict:
     try:
         df = yf.download(
             " ".join(tickers),
-            period="10d",
+            period="2mo",       # 20 daily returns for vol_20d, plus slack for holidays
             interval="1d",
             auto_adjust=True,
             progress=False,
@@ -82,13 +97,14 @@ def fetch_batch(tickers: list[str]) -> dict:
                 sub = df[tk]
             else:
                 sub = df
-            closes = sub["Close"].dropna().tolist() if "Close" in sub else []
-            if len(closes) < 2:
+            series = sub["Close"].dropna() if "Close" in sub else None
+            if series is None or len(series) < 2:
                 continue
-            closes = [round(float(x), 2) for x in closes][-7:]
+            full = [float(x) for x in series.tolist()]
+            closes = [round(x, 2) for x in full][-7:]
             curr = closes[-1]
             prev = closes[-2]
-            out[tk] = {
+            row = {
                 "price":       curr,
                 "prev_close":  prev,
                 "change":      round(curr - prev, 2),
@@ -96,7 +112,10 @@ def fetch_batch(tickers: list[str]) -> dict:
                 "week_closes": closes,
                 "wk_low":      round(min(closes), 2),
                 "wk_high":     round(max(closes), 2),
+                "as_of":       str(series.index[-1])[:10],
             }
+            row.update(move_size(full))
+            out[tk] = row
         except Exception:
             continue
     return out
