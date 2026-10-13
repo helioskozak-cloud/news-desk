@@ -1,8 +1,21 @@
 {
- "generated": "2026-10-13T09:07:11.290775+00:00",
+ "generated": "2026-10-13T09:12:11.386915+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "605f000477f3",
+   "title": "GAC se rapproche de l'Europe grâce à l'ingénierie et au football au Salon de l'automobile de Paris 2026",
+   "link": "https://www.prnewswire.com/news-releases/gac-se-rapproche-de-leurope-grace-a-lingenierie-et-au-football-au-salon-de-lautomobile-de-paris-2026-302906847.html",
+   "summary": "PARIS, 13 octobre 2026 /PRNewswire/ -- L'ingénierie au service d'une vie meilleure. Le 12 octobre, le 91e Salon de l'automobile de Paris a ouvert ses portes à Paris Expo Porte de Versailles. GAC y a présenté des véhicules à énergie nouvelle issus de ses trois marques, et l'AION UT Cross y...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-13T09:09:00+00:00",
+   "tickers": []
+  },
   {
    "id": "8e75b1ac1cdb",
    "title": "In charts: How one of the world's biggest economies got trapped by debt",
@@ -310,6 +323,24 @@
    ]
   },
   {
+   "id": "53ba0c31409e",
+   "title": "Bank earnings live updates: JPMorgan, Wells Fargo, Goldman Sachs and Citigroup report",
+   "link": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html",
+   "summary": "Follow live bank earnings coverage for JPMorgan, Wells Fargo, Goldman Sachs and Citigroup, with third-quarter results, calls and stock moves.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-13T08:59:01+00:00",
+   "tickers": [
+    "GS",
+    "WFC",
+    "C",
+    "JIRE"
+   ]
+  },
+  {
    "id": "16b551a88ff5",
    "title": "This one chart from the IMF tells the entire story of the world economy this year",
    "link": "https://www.marketwatch.com/story/this-one-chart-from-the-imf-tells-the-entire-story-of-the-world-economy-this-year-8cc81534?mod=mw_rss_topstories",
@@ -413,7 +444,7 @@
    "id": "8dd51ce6b1d9",
    "title": "Cyber attack on French supermarket fridges raises alarm over food security",
    "link": "https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1",
-   "summary": "Hackers disrupt refrigeration systems and spoil food at several hundred stores",
+   "summary": "Some stores reported fridge temperatures as high as 80°C, melting equipment and destroying food",
    "source": "FT Companies",
    "category": "stocks",
    "type": "upgrade",
@@ -1248,7 +1279,7 @@
    "title": "GreenStreetAI™ Expands Its MCP Server with Green Street News and New Packaged Workflows",
    "link": "https://www.prnewswire.com/news-releases/greenstreetai-expands-its-mcp-server-with-green-street-news-and-new-packaged-workflows-302906002.html",
    "summary": "News adds trusted context to every prompt, while new workflows deliver consistent, ready-to-use Green Street intelligence. NEWPORT BEACH, Calif., Oct. 13, 2026 /PRNewswire/ -- Green Street, the leading provider of Real Assets intelligence, data, news, and predictive analytics, today...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -8215,34 +8246,6 @@
    "tickers": [
     "VNOM"
    ]
-  },
-  {
-   "id": "efe5ee60c647",
-   "title": "J&J long-term Tremfya data demonstrates Crohn's remission through three years",
-   "link": "https://seekingalpha.com/news/4652284-johnson-and-johnson-long-term-tremfya-data-demonstrates-crohns-remission-through-three-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-12T21:16:32+00:00",
-   "tickers": [
-    "JNJ"
-   ]
-  },
-  {
-   "id": "c8a08f2c2563",
-   "title": "Yiren Digital announces update on CEO Ning Tang",
-   "link": "https://seekingalpha.com/news/4652288-yiren-digital-announces-update-on-ceo-ning-tang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-12T21:15:51+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8277,7 +8280,6 @@
   "CG": "The Carlyle Group",
   "DELL": "Dell Technologies",
   "ES": "Eversource Energy",
-  "JNJ": "Johnson & Johnson",
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
   "RIVN": "Rivian Automotive",
