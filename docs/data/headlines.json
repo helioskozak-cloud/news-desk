@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-13T19:36:06.664150+00:00",
+ "generated": "2026-10-13T19:41:42.835844+00:00",
  "feed_count": 23,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a1005abdb69a",
+   "title": "S&P 500 is little changed as traders mull over bank earnings; chip stocks slide: Live updates",
+   "link": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
+   "summary": "Traders digested a slew of corporate earnings reports from major banks along with a steep overnight decline in South Korea that put pressure on memory names.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-13T19:38:35+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "46799f64c290",
+   "title": "Honeywell Aerospace, Inc. (HONA) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/honeywell-aerospace-inc-hona-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302907507.html",
+   "summary": "BENSALEM TOWNSHIP, Pa., Oct. 13, 2026 /PRNewswire/ -- The Law Offices of Howard G. Smith announces that investors with substantial losses have opportunity to lead the securities fraud class action lawsuit against Honeywell Aerospace, Inc. IF YOU ARE AN INVESTOR WHO SUFFERED A LOSS IN...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-13T19:35:00+00:00",
+   "tickers": [
+    "HON"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "461ec8a4a591",
    "title": "Bayerische Motoren Werke Aktiengesellschaft (BMW:CA) Discusses Global Sales Trends, Electric Vehicle Growth and Strategic Plans for China Prepared Remarks Transcript",
@@ -1703,20 +1733,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a1005abdb69a",
-   "title": "S&P 500 is little changed as traders mull over bank earnings; chip stocks slide: Live updates",
-   "link": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
-   "summary": "Traders digested a slew of corporate earnings reports from major banks along with a steep overnight decline in South Korea that put pressure on memory names.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-13T18:45:06+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -9084,20 +9100,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "45b485fb4e97",
-   "title": "Greece stocks higher at close of trade; Athens General Composite up 0.16%",
-   "link": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-016-4947163",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-13T14:50:03+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9128,6 +9130,7 @@
   "AEP": "American Electric Power",
   "ALNY": "Alnylam Pharmaceuticals",
   "GS": "The Goldman Sachs Group",
+  "HON": "Honeywell International",
   "SIG": "Signet Jewelers Limited",
   "AMD": "Advanced Micro Devices",
   "CDNS": "Cadence Design Systems",
