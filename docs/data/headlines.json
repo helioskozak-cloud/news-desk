@@ -1,17 +1,82 @@
 {
- "generated": "2026-10-13T16:06:06.405317+00:00",
+ "generated": "2026-10-13T16:11:34.052601+00:00",
  "feed_count": 23,
  "ticker_universe_size": 1752,
  "headlines": [
   {
+   "id": "f54fd62e3b57",
+   "title": "Rising Interest Rates Bite Some Wall Street Banks",
+   "link": "https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html",
+   "summary": "JPMorgan released surprisingly spotty earnings results for the third quarter, while Goldman Sachs and Citi posted better-than-expected results, reflecting a choppy trading environment.",
+   "source": "NYT Business",
+   "category": "macro",
+   "domain": "nytimes.com",
+   "published": "2026-10-13T16:10:37+00:00",
+   "tickers": [
+    "GS",
+    "JPM",
+    "C"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "16559e4377a6",
+   "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+   "link": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
+   "summary": "The iPhone maker also announced the new Apple TV 4K and HomePod Mini.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-13T16:10:14+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2e2338a46f00",
+   "title": "Gold’s upside outweighs downside risks as markets face oil, France uncertainty",
+   "link": "https://seekingalpha.com/news/4652567-golds-upside-outweighs-downside-risks-as-markets-face-oil-france-uncertainty?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-13T16:08:07+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "83b837e47b1d",
+   "title": "Kimberly-Clark wins EU conditional approval for $40B purchase of Kenvue",
+   "link": "https://seekingalpha.com/news/4652561-kimberly-clark-wins-eu-conditional-approve-for-40b-purchase-of-kenvue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-13T16:07:23+00:00",
+   "tickers": [
+    "KMB",
+    "KVUE"
+   ],
+   "type": "fda",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "53ba0c31409e",
-   "title": "Bank earnings live updates: Citi's call is underway to wrap up a busy morning of reports",
+   "title": "Bank earnings live updates: Here's how JPMorgan, Goldman, Wells Fargo and Citi performed in Q3",
    "link": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html",
    "summary": "Follow live bank earnings coverage for JPMorgan, Wells Fargo, Goldman Sachs and Citigroup, with third-quarter results, calls and stock moves.",
    "source": "CNBC Earnings",
    "category": "earnings",
    "domain": "cnbc.com",
-   "published": "2026-10-13T16:04:28+00:00",
+   "published": "2026-10-13T16:06:04+00:00",
    "tickers": [
     "C",
     "GS",
@@ -19,6 +84,96 @@
     "JPM"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b743ae2cb845",
+   "title": "Dell CEO: We have to have safeguards and controls around AI",
+   "link": "https://www.cnbc.com/video/2026/10/13/dell-ceo-we-have-to-have-safeguards-and-controls-around-ai.html",
+   "summary": "CNBC's David Faber sits down with Dell CEO Michael Dell to discuss the data center debate, the AI safety debate, and more.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-13T16:05:09+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "dcd88ce10037",
+   "title": "Silver Elephant Announces First Closing of Non-Brokered Private Placement | SILEF Stock News",
+   "link": "https://www.stocktitan.net/news/SILEF/silver-elephant-announces-first-closing-of-non-brokered-private-nzudu5kahcbs.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-13T16:05:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "852e0134d3cd",
+   "title": "Inseego Targets New Broadband Opportunities with Licensed Band Radio Technology | INSG Stock News",
+   "link": "https://www.stocktitan.net/news/INSG/inseego-targets-new-broadband-opportunities-with-licensed-band-radio-2kv555oa1i7e.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-13T16:05:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c6829cc09f14",
+   "title": "Altria: Still In Danger Of Getting Stubbed - Strong Sell",
+   "link": "https://seekingalpha.com/article/4953843-altria-still-in-danger-of-getting-stubbed-strong-sell?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-13T16:04:38+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "693d2ec25b34",
+   "title": "J&J shares down despite guidance raise as MedTech revenues disappoint",
+   "link": "https://seekingalpha.com/news/4652543-johnson-and-johnson-shares-down-despite-guidance-raise-medtech-revenues-disappoint?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-13T16:04:34+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1d5715347b12",
+   "title": "MongoDB pops as Needham, BofA stay bullish",
+   "link": "https://seekingalpha.com/news/4652575-mongodb-pops-as-needham-bofa-stay-bullish?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-13T16:04:21+00:00",
+   "tickers": [
+    "MDB"
+   ],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -734,6 +889,36 @@
     "QQQ"
    ],
    "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "fa16c0365211",
+   "title": "Cotton Slipping Lower Early on Tuesday",
+   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-early-tuesday",
+   "summary": "Cotton price action is own 14 to 16 points on Tuesday AM trade. Futures closed the Monday trade with contracts 6 to 22 points higher on Monday. Crude oil is up $1.31 per barrel on the session, with the US dollar index $0.343 higher. The Seam reported 2,539 bales sold...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-13T15:43:55+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "289c99e2cf88",
+   "title": "Why Sandisk Stock Dropped Again on Tuesday",
+   "link": "https://www.nasdaq.com/articles/why-sandisk-stock-dropped-again-tuesday",
+   "summary": "Key PointsWorries over improved CXMT memory chips dog Sandisk stock this week.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-13T15:43:45+00:00",
+   "tickers": [
+    "SNDK"
+   ],
+   "type": "markets",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -1774,20 +1959,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fa16c0365211",
-   "title": "Cotton Slipping Lower Early on Tuesday",
-   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-early-tuesday",
-   "summary": "Cotton price action is own 14 to 16 points on Tuesday AM trade. Futures closed the Monday trade with contracts 6 to 22 points higher on Monday. Crude oil is up $1.31 per barrel on the session, with the US dollar index $0.343 higher. The Seam reported 2,539 bales sold...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-13T15:11:18+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2862,15 +3033,15 @@
    "title": "Noteworthy ETF Outflows: EWJ",
    "link": "https://www.nasdaq.com/articles/noteworthy-etf-outflows-ewj-0",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares MSCI Japan ETF (Symbol: EWJ) where we have detected an approximate $116.8 million dollar outflow -- that's a 0.5% decrease week over week (f",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-13T14:49:58+00:00",
    "tickers": [
     "MSCI",
     "EWJ"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6074,22 +6245,6 @@
    "tag_v": 2
   },
   {
-   "id": "16559e4377a6",
-   "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
-   "link": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
-   "summary": "The iPhone maker also announced the new Apple TV 4K and HomePod Mini.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-13T13:40:00+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "761facfbd7a4",
    "title": "FNB Introduces Brent Gore as Raleigh-Durham Regional President | FNB Stock News",
    "link": "https://www.stocktitan.net/news/FNB/fnb-introduces-brent-gore-as-raleigh-durham-regional-0zlh4mcw33pv.html",
@@ -7454,23 +7609,6 @@
    "tickers": [
     "NFLX"
    ],
-   "tag_v": 2
-  },
-  {
-   "id": "f54fd62e3b57",
-   "title": "Higher Interest Rates Take Bite Out of JPMorgan’s Profits",
-   "link": "https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html",
-   "summary": "After banner stretch, the bank released surprisingly spotty earnings results for the third quarter. Its rival Goldman Sachs posted better-than-expected results.",
-   "source": "NYT Business",
-   "category": "macro",
-   "domain": "nytimes.com",
-   "published": "2026-10-13T13:16:29+00:00",
-   "tickers": [
-    "GS",
-    "JPM"
-   ],
-   "type": "macro",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8898,141 +9036,6 @@
    "published": "2026-10-13T13:00:00+00:00",
    "tickers": [],
    "tag_v": 2
-  },
-  {
-   "id": "9532fcfa9534",
-   "title": "Intapp to announce fiscal first quarter 2027 financial results on October 27, 2026 | INTA Stock News",
-   "link": "https://www.stocktitan.net/news/INTA/intapp-to-announce-fiscal-first-quarter-2027-financial-results-on-9bf6ehcehm3c.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T13:00:00+00:00",
-   "tickers": [],
-   "tag_v": 2
-  },
-  {
-   "id": "c7da16275038",
-   "title": "Nucor Invites You to Join Its Third Quarter of 2026 Conference Call on the Web | NUE Stock News",
-   "link": "https://www.stocktitan.net/news/NUE/nucor-invites-you-to-join-its-third-quarter-of-2026-conference-call-buzfxqfo2qg2.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T13:00:00+00:00",
-   "tickers": [
-    "NUE"
-   ],
-   "tag_v": 2
-  },
-  {
-   "id": "9860e83729a8",
-   "title": "Tigo Energy Enables over 11MW of Repowering as Legacy Solar Service Market Grows | TYGO Stock News",
-   "link": "https://www.stocktitan.net/news/TYGO/tigo-energy-enables-over-11mw-of-repowering-as-legacy-solar-service-6ftot1mqjd2w.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T13:00:00+00:00",
-   "tickers": [],
-   "tag_v": 2
-  },
-  {
-   "id": "d7c4e3d80e1a",
-   "title": "Qnity Extends Thermal Management Solutions for Advanced Memory Cooling for AI Data Centers | Q Stock News",
-   "link": "https://www.stocktitan.net/news/Q/qnity-extends-thermal-management-solutions-for-advanced-memory-e0g6u8rur018.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T13:00:00+00:00",
-   "tickers": [
-    "Q"
-   ],
-   "tag_v": 2
-  },
-  {
-   "id": "3ddc5784dd1d",
-   "title": "Credo Breaks the Memory Wall Using AMD Programmable Logic-Based AI Accelerators | CRDO Stock News",
-   "link": "https://www.stocktitan.net/news/CRDO/credo-breaks-the-memory-wall-using-amd-programmable-logic-based-ai-jsbfu6e4jtny.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T13:00:00+00:00",
-   "tickers": [
-    "CRDO",
-    "AMD"
-   ],
-   "tag_v": 2
-  },
-  {
-   "id": "d60f11af2f6b",
-   "title": "Thornburg Selects SS&C to Support Its ETF Share Class Structure | SSNC Stock News",
-   "link": "https://www.stocktitan.net/news/SSNC/thornburg-selects-ss-c-to-support-its-etf-share-class-k7d325l0xafq.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T13:00:00+00:00",
-   "tickers": [
-    "SSNC"
-   ],
-   "tag_v": 2
-  },
-  {
-   "id": "63ad8e378755",
-   "title": "Acadia Healthcare Announces Date for Third Quarter 2026 Earnings Release | ACHC Stock News",
-   "link": "https://www.stocktitan.net/news/ACHC/acadia-healthcare-announces-date-for-third-quarter-2026-earnings-hl08757untht.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T13:00:00+00:00",
-   "tickers": [],
-   "tag_v": 2
-  },
-  {
-   "id": "046d19ccb0a4",
-   "title": "Auna Announces Reporting Dates for Third Quarter 2026 Financial Results | AUNA Stock News",
-   "link": "https://www.stocktitan.net/news/AUNA/auna-announces-reporting-dates-for-third-quarter-2026-financial-e7vhpshp7mc1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T13:00:00+00:00",
-   "tickers": [],
-   "tag_v": 2
-  },
-  {
-   "id": "b10e07002044",
-   "title": "Years of Proven Results Drive Continued Partnership Between Pyung Hwa Holdings and Rimini Street | RMNI Stock News",
-   "link": "https://www.stocktitan.net/news/RMNI/years-of-proven-results-drive-continued-partnership-between-pyung-jnpibt8si8o9.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T13:00:00+00:00",
-   "tickers": [],
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9058,7 +9061,6 @@
   "QQQ": "Invesco QQQ Trust, Series 1",
   "STX": "Seagate Technology Holdings",
   "AEIS": "Advanced Energy Industries",
-  "SSNC": "SS&C Technologies Holdings",
   "IBKR": "Interactive Brokers Group",
   "JEF": "Jefferies Financial Group",
   "SHLD": "Global X Defense Tech ETF",
@@ -9095,9 +9097,9 @@
   "SCHW": "The Charles Schwab",
   "TYL": "Tyler Technologies",
   "CMC": "Commercial Metals",
+  "DELL": "Dell Technologies",
   "JNJ": "Johnson & Johnson",
   "MU": "Micron Technology",
-  "Q": "Qnity Electronics",
   "SOFI": "SoFi Technologies",
   "UBER": "Uber Technologies",
   "ALGN": "Align Technology",
@@ -9122,6 +9124,7 @@
   "ALLY": "Ally Financial",
   "DPZ": "Domino's Pizza",
   "IQV": "IQVIA Holdings",
+  "KMB": "Kimberly-Clark",
   "META": "Meta Platforms",
   "TTD": "The Trade Desk",
   "USAR": "USA Rare Earth",
@@ -9192,12 +9195,15 @@
   "HUBS": "HubSpot",
   "IVZ": "Invesco",
   "MCO": "Moody's",
+  "MDB": "MongoDB",
   "ROL": "Rollins",
+  "SNDK": "Sandisk",
   "VTRS": "Viatris",
   "WDAY": "Workday",
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "SPY": "SPY ETF",
+  "KVUE": "Kenvue",
   "M": "Macy's",
   "ORCL": "Oracle",
   "PFE": "Pfizer",
