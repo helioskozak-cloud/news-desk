@@ -12,11 +12,12 @@ import sys
 import time
 import hashlib
 import warnings
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlparse
 
 import socket
+import urllib.request
 import feedparser
 
 # Cap per-feed network IO at 15 seconds — some feeds hang otherwise
@@ -34,12 +35,12 @@ MAX_KEEP = 600
 USER_AGENT = "news-desk/0.2 (https://github.com/helioskozak-cloud/news-desk)"
 
 # ── Feed list ────────────────────────────────────────────────────────────────
-# (display_name, category, url)
+# (display_name, category, url). Every feed here was checked live on
+# 2026-10-13 for a 200 AND a story dated that day; see RETIRED below for the
+# ones that failed.
 FEEDS = [
     # General market news
     ("MarketWatch",       "markets",   "http://feeds.marketwatch.com/marketwatch/topstories/"),
-    ("MarketWatch RT",    "markets",   "http://feeds.marketwatch.com/marketwatch/marketpulse/"),
-    ("Yahoo Finance",     "markets",   "https://finance.yahoo.com/news/rssindex"),
     ("CNBC Top",          "markets",   "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"),
     ("CNBC Earnings",     "earnings",  "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135"),
     ("CNBC Economy",      "macro",     "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"),
@@ -51,33 +52,47 @@ FEEDS = [
     ("Investing Forex",   "fx",        "https://www.investing.com/rss/news_1.rss"),
     ("Seeking Alpha",     "stocks",    "https://seekingalpha.com/feed.xml"),
     ("Seeking Alpha M&A", "ma",        "https://seekingalpha.com/market_currents.xml"),
-    ("WSJ Markets",       "markets",   "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"),
-    ("WSJ Business",      "markets",   "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"),
-    ("WSJ World",         "macro",     "https://feeds.a.dj.com/rss/RSSWorldNews.xml"),
     ("Markets Insider",   "stocks",    "https://markets.businessinsider.com/rss/news"),
-    ("BI Finance",        "markets",   "https://www.businessinsider.com/finance.rss"),
     ("NYT Business",      "macro",     "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"),
     ("NYT Economy",       "macro",     "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml"),
     ("FT Markets",        "markets",   "https://www.ft.com/markets?format=rss"),
     ("FT Companies",      "stocks",    "https://www.ft.com/companies?format=rss"),
-    # Press release wires (lots of stock-specific filings)
+    ("Federal Reserve",   "macro",     "https://www.federalreserve.gov/feeds/press_all.xml"),
+    # Press release wires. Only stories that name a ticker are kept (PRESS_NEEDS_TICKER).
     ("PR Newswire Fin",   "press",     "https://www.prnewswire.com/rss/financial-services-latest-news/financial-services-latest-news-list.rss"),
     ("PR Newswire All",   "press",     "https://www.prnewswire.com/rss/news-releases-list.rss"),
-    ("GlobeNewswire",     "press",     "https://www.globenewswire.com/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies"),
+    ("BusinessWire",      "press",     "https://feed.businesswire.com/rss/home/?rss=G1QFDERJXkJeEFtRWA=="),
     # Ticker-tagged stock news (every headline structurally tagged with a symbol)
     ("Stock Titan",       "stocks",    "https://www.stocktitan.net/rss"),
-    ("Benzinga News",     "stocks",    "https://www.benzinga.com/news/feed/"),
-    ("Benzinga Markets",  "markets",   "https://www.benzinga.com/markets/feed/"),
-    # SEC filings — actual current-events feed (was broken in v1)
-    ("SEC 8-K Filings",   "filings",   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=8-K&company=&dateb=&owner=include&count=40&output=atom"),
-    ("SEC 13D/G",         "filings",   "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=SC+13D&company=&dateb=&owner=include&count=40&output=atom"),
+    ("Benzinga",          "stocks",    "https://www.benzinga.com/feed"),
 ]
+# SEC filings come from regime-desk's EDGAR scan (fetch_filings below), not
+# EDGAR's own RSS, which answers 403 to anything without a registered identity.
+FILINGS_URL = "https://raw.githubusercontent.com/helioskozak-cloud/regime-desk/main/data/filings.json"
+
+# NASDAQ answers a bot user agent with a hang, and the Fed's feed fails
+# through feedparser's own fetch; both come through as a browser request.
+BROWSER_UA_FEEDS = {"NASDAQ Stocks", "NASDAQ Markets", "Federal Reserve"}
+BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
+
+# A story older than this is not news; a feed whose newest story is older
+# than STALE_FEED_DAYS is reported in the run log as stale.
+MAX_AGE_DAYS = 7
+STALE_FEED_DAYS = 3
+PRESS_NEEDS_TICKER = True
+SLOW_FEEDS = {"Federal Reserve"}     # publishes a few times a week, not daily
 
 # Source names that have ever been retired — used to purge historical
 # entries from the running headlines.json on the next merge so the UI
 # doesn't keep showing them after a feed is dropped.
 DROPPED_SOURCES = {
     "BizToc",  # affiliate-link spam aggregator, retired 2026-06-17
+    # Retired 2026-10-13 after a live check of every feed:
+    "Yahoo Finance", "BI Finance", "Benzinga News", "Benzinga Markets",   # 404
+    "GlobeNewswire", "SEC 8-K Filings", "SEC 13D/G",                      # 403
+    "WSJ Markets", "WSJ Business", "WSJ World",      # newest story Jan 2025
+    "MarketWatch RT",                                # newest story Jul 2025
 }
 
 # ── Ticker universe ──────────────────────────────────────────────────────────
@@ -95,9 +110,7 @@ def load_name_map() -> list[tuple[str, str]]:
     """Return list of (company_name, ticker), longest-first. Pulls from BOTH
     universe_names.csv (canonical names) and universe_aliases.csv (brand /
     product / subsidiary aliases). De-duped by lowercase name."""
-    pairs: list[tuple[str, str]] = []
-    seen_keys = set()
-
+    raw: list[tuple[str, str]] = []
     for path in (NAMES_FILE, ALIASES_FILE):
         if not path.exists():
             continue
@@ -112,14 +125,50 @@ def load_name_map() -> list[tuple[str, str]]:
             name = parts[1].strip()
             if not name or not ticker or len(name) < 3:
                 continue
-            key = name.lower()
-            if key in seen_keys:
-                continue
-            seen_keys.add(key)
-            pairs.append((name, ticker))
+            raw.append((name, ticker))
+
+    # A fund answers only to its fund name. "JPMorgan" was JIRE's short name,
+    # so every JPMorgan story was tagged with a JPMorgan ETF (audit 2026-10-13:
+    # 16 funds held a bare issuer brand — iShares, Vanguard, Schwab, ...).
+    funds = {t for n, t in raw if _FUND_WORDS.search(n)}
+    pairs: list[tuple[str, str]] = []
+    seen_keys = set()
+    for name, ticker in raw:
+        if ticker in funds and not _FUND_WORDS.search(name):
+            continue
+        if name in NAME_BLOCKLIST or (name, ticker) in WRONG_NAMES:
+            continue
+        key = name.lower()
+        if key in seen_keys:
+            continue
+        seen_keys.add(key)
+        pairs.append((name, ticker))
 
     pairs.sort(key=lambda p: -len(p[0]))
     return pairs
+
+
+_FUND_WORDS = re.compile(r"\b(?:ETF|ETN|Fund|Trust|Index|Shares|Portfolio)\b", re.I)
+
+# One-word aliases that are ordinary words. Headlines are Title Case, so a
+# case-sensitive match does not protect them: "News" tagged NWSA on 124 of
+# 600 stories in the 2026-10-13 audit. These companies still tag by ticker,
+# by their longer names ("News Corp", "Service Corporation") and by aliases.
+NAME_BLOCKLIST = {
+    "News", "Service", "Strategy", "Restaurant", "West", "Packaging", "Fortune",
+    "Nasdaq", "Applied", "Arch", "Array", "Ball", "Beam", "Block", "Chart",
+    "Choice", "Citizens", "Comfort", "Compass", "Constellation", "Crane", "Crown",
+    "Dave", "Eagle", "Edison", "Elastic", "Figure", "Flex", "Franklin", "Grab",
+    "Herc", "Jazz", "Lineage", "Mac", "Mercury", "Noble", "Nova", "Optimus",
+    "Pixel", "Pool", "Popular", "Post", "Primo", "Principal", "Quest", "Range",
+    "Reliance", "Rhythm", "Ross", "Square", "Stride", "Threads", "Tyler", "Vera",
+    "Viking", "Voyager", "Windows", "Zoom", "Mueller", "Carpenter",
+    "Snap", "Toast", "Arm", "Affirm", "Bullish", "Celsius", "Corvus", "Matador",
+    "Kirby", "Lear", "Dover", "Waters", "Apogee", "Perpetua", "Terns",
+    "Karman", "Seaboard", "Lumen",
+}
+# Aliases pointing at the wrong company.
+WRONG_NAMES = {("Quest", "META"), ("RTX", "NVDA"), ("Block", "SQ")}
 
 
 TICKERS = load_tickers()
@@ -152,7 +201,28 @@ _TICKER_PATTERNS = [
     re.compile(r"\b(?:NYSE|NASDAQ|NYSEARCA|AMEX):\s*([A-Z]{1,5})"),  # NYSE: TSLA
     re.compile(r"\|\s*([A-Z]{1,5})\s+Stock\s+News\s*$"),    # ... | TSLA Stock News (Stock Titan)
 ]
-_BARE_TICKER = re.compile(r"\b([A-Z]{2,5})\b")
+# A bare capitalised token is the weakest evidence. Not when it is glued to
+# & (PG&E, S&P) or to a one-letter suffix (CAR-T; "Schneider-PTC" still
+# tags PTC), and not when the headline shouts in capitals
+# ("TEQUILA DON JULIO INTRODUCES ..." tagged DIA).
+_BARE_TICKER = re.compile(r"(?<!&)\b([A-Z]{2,5})\b(?!&|-[A-Z]\b)")
+# Bare tokens that, in news copy, are nearly always something else: brokers
+# (RBC Capital, TD Cowen), drug classes (ADC), states (MA), Dia de Muertos ...
+BARE_BLOCKLIST = {"RBC", "TD", "EL", "CAR", "ADC", "MA", "DIA", "LH", "MTN",
+                  "SHOP", "ACWI", "WPC", "AEM"}
+
+
+_CAPS_RUN = re.compile(r"\b[A-Z]{3,}(?:[\s,]+[A-Z]{3,}){2,}\b")
+
+
+def _shouting(text: str) -> bool:
+    """Three or more capitalised words in a row, at least two of them not
+    tickers. "META, VTRS, MRVL, COKE" is a ticker list, not shouting."""
+    for run in _CAPS_RUN.findall(text):
+        words = re.findall(r"[A-Z]{3,}", run)
+        if sum(w not in TICKERS for w in words) >= 2:
+            return True
+    return False
 
 
 def extract_tickers(text: str) -> list[str]:
@@ -167,10 +237,11 @@ def extract_tickers(text: str) -> list[str]:
             if t in TICKERS and t not in TICKER_BLOCKLIST:
                 found[t] = found.get(t, 0) + 5
 
-    for m in _BARE_TICKER.findall(text):
-        t = m.upper()
-        if t in TICKERS and t not in TICKER_BLOCKLIST:
-            found[t] = found.get(t, 0) + 1
+    if not _shouting(text):
+        for m in _BARE_TICKER.findall(text):
+            t = m.upper()
+            if t in TICKERS and t not in TICKER_BLOCKLIST and t not in BARE_BLOCKLIST:
+                found[t] = found.get(t, 0) + 1
 
     # Company-name + alias matches (case-sensitive — proper-noun company
     # names start with a capital in news copy; "Apple" matches but "apple"
@@ -196,11 +267,14 @@ def extract_tickers(text: str) -> list[str]:
 # ── Headline classifier ─────────────────────────────────────────────────────
 # Map a headline to an "action type" — used by the In Play view for color/icon
 _TYPE_PATTERNS = [
-    ("upgrade",   re.compile(r"\b(?:upgrades?|raised?|raises|hikes?|boost(?:s|ed)?|positive ratings?)\b", re.I)),
-    ("downgrade", re.compile(r"\b(?:downgrades?|cuts?|lowers?|slashes?|reduces?|negative ratings?)\b", re.I)),
+    # Analyst actions only: "raises $10M" and "boosts output" are not upgrades.
+    ("upgrade",   re.compile(r"\b(?:upgrades?|upgraded|raises? (?:price target|PT|to (?:buy|outperform|overweight))|PT raised|positive ratings?)\b", re.I)),
+    ("downgrade", re.compile(r"\b(?:downgrades?|downgraded|cuts? (?:price target|PT|to (?:sell|underperform|underweight|neutral|hold))|lowers? (?:price target|PT)|PT cut|negative ratings?)\b", re.I)),
     ("analyst",   re.compile(r"\b(?:initiates? coverage|reiterates?|maintains?|price target|PT raised|PT cut)\b", re.I)),
-    ("earnings",  re.compile(r"\b(?:Q[1-4]|earnings (?:beat|miss|report)|EPS|reported|results|quarterly|guidance)\b", re.I)),
-    ("ma",        re.compile(r"\b(?:acquires?|acquisition|merger|to buy|buyout|takeover|deal|combine)\b", re.I)),
+    # Bare "earnings" counts now: "Bank earnings live updates ... deal backlog"
+    # used to fall through to M&A on "deal".
+    ("earnings",  re.compile(r"\b(?:Q[1-4]|earnings|EPS|reported|results|quarterly|guidance|beats? estimates|misses estimates)\b", re.I)),
+    ("ma",        re.compile(r"\b(?:acquires?|acquired|acquisition|merger|merge|to buy|buyout|takeover|deal to (?:buy|acquire)|combine)\b", re.I)),
     ("fda",       re.compile(r"\b(?:FDA|approval|approved|rejected|trial results|phase \d|EUA|biologic)\b", re.I)),
     ("legal",     re.compile(r"\b(?:lawsuit|sued?|settlement|fine|probe|investigation|charges?|fraud)\b", re.I)),
     ("guidance",  re.compile(r"\b(?:raises? guidance|cuts? guidance|outlook|forecast|sees? Q|prelim)\b", re.I)),
@@ -288,10 +362,29 @@ def _domain(url: str) -> str:
         return ""
 
 
+# Bump when the tagger or classifier changes: stored stories carry the
+# version they were tagged under and are re-tagged once on the next run.
+TAG_VERSION = 2
+
+
+def tag(h: dict) -> dict:
+    """(Re)derive tickers, type and sentiment from the story's own text."""
+    h["tickers"] = extract_tickers(f"{h['title']} {h.get('summary', '')}")
+    h["type"] = classify(h["title"], h.get("category", ""))
+    h["sentiment"] = sentiment(h["title"], h["type"])
+    h["tag_v"] = TAG_VERSION
+    return h
+
+
 def fetch_feed(name: str, category: str, url: str) -> list[dict]:
     items: list[dict] = []
     try:
-        parsed = feedparser.parse(url, agent=USER_AGENT)
+        if name in BROWSER_UA_FEEDS:
+            body = urllib.request.urlopen(
+                urllib.request.Request(url, headers={"User-Agent": BROWSER_UA})).read()
+            parsed = feedparser.parse(body)
+        else:
+            parsed = feedparser.parse(url, agent=USER_AGENT)
     except Exception as e:
         print(f"  {name}: fetch failed — {e}", flush=True)
         return items
@@ -300,29 +393,93 @@ def fetch_feed(name: str, category: str, url: str) -> list[dict]:
         print(f"  {name}: parse error, no entries", flush=True)
         return items
 
+    now = datetime.now(timezone.utc)
+    oldest_ok = (now - timedelta(days=MAX_AGE_DAYS)).isoformat()
+    newest, old, untagged = "", 0, 0
     for entry in parsed.entries[:40]:
         title = _clean_title(entry.get("title", ""))
         link = entry.get("link", "")
         if not title or not link:
             continue
         summary = _clean_title(entry.get("summary", ""))[:500]
-        published = _parse_published(entry) or datetime.now(timezone.utc).isoformat()
-        text_for_tickers = f"{title} {summary}"
-        tickers = extract_tickers(text_for_tickers)
-        items.append({
+        published = _parse_published(entry) or now.isoformat()
+        newest = max(newest, published)
+        if published < oldest_ok:
+            old += 1
+            continue
+        h = tag({
             "id":        _hash_url(link),
             "title":     title,
             "link":      link,
             "summary":   summary if summary != title else "",
             "source":    name,
             "category":  category,
-            "type":      classify(title, category),
-            "sentiment": sentiment(title, classify(title, category)),
             "domain":    _domain(link),
             "published": published,
-            "tickers":   tickers,
         })
-    print(f"  {name}: {len(items)} headlines", flush=True)
+        if PRESS_NEEDS_TICKER and category == "press" and not h["tickers"]:
+            untagged += 1
+            continue
+        items.append(h)
+    note = "".join([f", {old} older than {MAX_AGE_DAYS}d skipped" if old else "",
+                    f", {untagged} untagged press releases skipped" if untagged else ""])
+    print(f"  {name}: {len(items)} headlines{note}", flush=True)
+    if newest and name not in SLOW_FEEDS and newest < (now - timedelta(days=STALE_FEED_DAYS)).isoformat():
+        print(f"  WARN {name}: STALE — newest story {newest[:10]}", flush=True)
+    return items
+
+
+MAX_FILING_RANK = 2
+_ITEM_TEXT = re.compile(r"\b\d\.\d\d\s+")
+
+
+def fetch_filings() -> list[dict]:
+    """Material SEC filings from regime-desk's EDGAR scan, as headlines.
+
+    regime-desk ranks each filing 0 (read first: non-reliance, bankruptcy,
+    late filing) to 6 (routine). Ranks 0-2 come through: non-reliance,
+    bankruptcy, delisting, auditor change, impairment, change of control,
+    activist stakes (about 27 a week in October 2026; ranks 0-3 were 145, a
+    quarter of the feed). Officer changes and offerings stay on regime-desk's
+    Filings tab. The ticker is EDGAR's own, not inferred from text."""
+    try:
+        req = urllib.request.Request(FILINGS_URL, headers={"User-Agent": USER_AGENT})
+        doc = json.loads(urllib.request.urlopen(req).read())
+    except Exception as e:
+        print(f"  SEC EDGAR: fetch failed — {e}", flush=True)
+        return []
+    now = datetime.now(timezone.utc)
+    items = []
+    for f in doc.get("filings", []):
+        if f.get("rank", 6) > MAX_FILING_RANK:
+            continue
+        tk = (f.get("ticker") or "").upper()
+        if not tk or not f.get("url"):
+            continue
+        what = _ITEM_TEXT.sub("", f.get("what") or f.get("form", "")).replace("NON-RELIANCE",
+                                                                             "non-reliance on past financials")
+        form = f.get("form", "")
+        title = f"{f.get('name') or tk} ({tk}) files {form}: {what}" if f.get("kind") == "8-K" \
+            else f"{f.get('name') or tk} ({tk}): {what}"
+        # EDGAR gives the filing DATE only. Stamp it 4 PM ET, or now if that
+        # is still ahead, so a filing never sorts above the news of its own day.
+        stamp = min(datetime.fromisoformat(f["date"]).replace(hour=20, tzinfo=timezone.utc), now)
+        items.append({
+            "id":        _hash_url(f["url"]),
+            "title":     title,
+            "link":      f["url"],
+            "summary":   "",
+            "source":    "SEC EDGAR",
+            "category":  "filings",
+            "type":      "8k",
+            "sentiment": "negative" if f.get("rank", 6) <= 1 else "neutral",
+            "domain":    "sec.gov",
+            "published": stamp.isoformat(),
+            "tickers":   [tk],
+            "rank":      f.get("rank"),
+            "tag_v":     TAG_VERSION,
+        })
+    print(f"  SEC EDGAR: {len(items)} material filings (of {len(doc.get('filings', []))})", flush=True)
     return items
 
 
@@ -347,6 +504,7 @@ def main():
     for name, category, url in FEEDS:
         fresh.extend(fetch_feed(name, category, url))
         time.sleep(0.25)
+    fresh.extend(fetch_filings())
 
     existing = load_existing()
     # Purge any entries from sources we've retired — keeps the UI clean
@@ -363,12 +521,17 @@ def main():
     new_items = [h for h in fresh if h["id"] not in seen_ids]
     print(f"\nFetched {len(fresh)} total ({len(new_items)} new since last run)", flush=True)
 
-    # Backfill any field added after a headline was first written
+    # Re-tag stories stored under an older tagger, once; then apply today's
+    # press-release rule to them too.
+    retagged = 0
     for h in existing:
-        if not h.get("type"):
-            h["type"] = classify(h.get("title", ""), h.get("category", ""))
-        if not h.get("sentiment"):
-            h["sentiment"] = sentiment(h.get("title", ""), h.get("type", "news"))
+        if h.get("tag_v") != TAG_VERSION and h.get("source") != "SEC EDGAR":
+            tag(h)
+            retagged += 1
+    if retagged:
+        print(f"Re-tagged {retagged} stored stories under tagger v{TAG_VERSION}", flush=True)
+    if PRESS_NEEDS_TICKER:
+        existing = [h for h in existing if h.get("category") != "press" or h.get("tickers")]
 
     by_id: dict[str, dict] = {h["id"]: h for h in existing}
     for h in fresh:

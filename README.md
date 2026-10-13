@@ -1,6 +1,6 @@
 # news-desk
 
-Live financial headline aggregator. Pulls from a curated set of free RSS feeds (MarketWatch, Yahoo Finance, CNBC, Investing.com, Seeking Alpha, SEC EDGAR 8-Ks, PR Newswire, BusinessWire, Reuters, BizToc), tags each story with relevant tickers, and renders a chronological stream.
+Live financial headline aggregator. Pulls from a curated set of free RSS feeds (MarketWatch, CNBC, NASDAQ, Investing.com, Seeking Alpha, NYT, FT, the Federal Reserve, PR Newswire, BusinessWire, Stock Titan, Benzinga), adds material SEC filings from regime-desk's EDGAR scan, tags each story with relevant tickers, and renders a chronological stream. Every feed was checked live on 2026-10-13; the run log warns when one goes stale. Tagging is pinned by `tests/test_tagging.py` (`python -m pytest -q tests`).
 
 A GitHub Action refreshes the feed every 10 minutes during US market hours, every 30 minutes off-hours, and hourly on weekends. The result is committed to `docs/data/headlines.json` and served by GitHub Pages.
 
