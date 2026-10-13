@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T05:22:18.149479+00:00",
+ "generated": "2026-10-13T05:27:08.120537+00:00",
  "feed_count": 31,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,8 +13,65 @@
    "type": "macro",
    "sentiment": "negative",
    "domain": "cnbc.com",
-   "published": "2026-10-13T05:19:45+00:00",
+   "published": "2026-10-13T05:24:17+00:00",
    "tickers": []
+  },
+  {
+   "id": "56ab1de81c64",
+   "title": "Emerging Markets Growth Lags Developed Economies In September",
+   "link": "https://seekingalpha.com/article/4953650-emerging-markets-growth-lags-developed-economies-in-september?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-13T05:20:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3197eb6b6d51",
+   "title": "Third Coast Bancshares' Big Move Makes The Firm Look Even Better",
+   "link": "https://seekingalpha.com/article/4953641-third-coast-bancshares-big-move-makes-stock-look-even-better?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-13T05:19:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "429a987c8632",
+   "title": "BrewDog Acquisition Boosts Tilray's Q1 Performance",
+   "link": "https://seekingalpha.com/article/4953640-brewdog-acquisition-boosts-tilrays-stock-q1-performance?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-13T05:17:51+00:00",
+   "tickers": [
+    "BREW",
+    "TLRY"
+   ]
+  },
+  {
+   "id": "e0e36d060eda",
+   "title": "Character.ai files Chapter 11; Disney steps in as stalking horse bidder",
+   "link": "https://seekingalpha.com/news/4652309-characterai-files-chapter-11-disney-steps-in-as-stalking-horse-bidder?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-13T05:17:14+00:00",
+   "tickers": [
+    "DIS"
+   ]
   },
   {
    "id": "428a57f3e794",
@@ -8389,63 +8446,6 @@
    "domain": "investing.com",
    "published": "2026-10-12T19:18:34+00:00",
    "tickers": []
-  },
-  {
-   "id": "e05d9d3515ca",
-   "title": "Dollar holds 18-month high as Gulf tension, US inflation keep investors on edge",
-   "link": "https://www.investing.com/news/economy-news/dollar-stays-near-18month-high-as-mideast-conflict-inflation-data-in-focus-4942999",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-12T19:18:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "54e31f67c037",
-   "title": "Bitcoin clings to $81,479 support under heavy resistance: Live levels",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-12T19:18:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6a3000c70744",
-   "title": "Alphabet C consolidates at 200 SMA & 50% Fib: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/alphabet-c-squeezed-at-349-between-key-levels-live-levels-93CH-4944780",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-12T19:18:19+00:00",
-   "tickers": [
-    "GOOG"
-   ]
-  },
-  {
-   "id": "76c4b843ed2a",
-   "title": "Nasdaq 100 breaks below Ichimoku cloud with MFI at 9: Live",
-   "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-breaks-cloud-support-at-30935-live-levels-93CH-4944778",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-12T19:18:18+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8459,7 +8459,6 @@
   "MTD": "Mettler-Toledo International",
   "WST": "West Pharmaceutical Services",
   "ELS": "Equity LifeStyle Properties",
-  "QQQ": "Invesco QQQ Trust, Series 1",
   "BTDR": "Bitdeer Technologies Group",
   "FBIN": "Fortune Brands Innovations",
   "ICE": "Intercontinental Exchange",
@@ -8576,6 +8575,7 @@
   "SMTC": "Semtech",
   "WMT": "Walmart",
   "NFLX": "Netflix",
+  "BREW": "BrewDog",
   "BULL": "Webull",
   "HUM": "Humana",
   "NDAQ": "Nasdaq",
