@@ -48,5 +48,9 @@ jobs:
           git add docs/data/headlines.json docs/data/stocks.json docs/data/movers.json
           git diff --cached --quiet && echo "No new headlines" || \
             git commit -m "chore: refresh feed $(date -u +%Y-%m-%dT%H:%MZ)"
-          git pull --rebase origin main || true
+          # Two refreshes can overlap (pinger + schedule). Every data file is
+          # regenerated whole, so on a conflict the newer run's copy wins
+          # (-X theirs = the commit being replayed, i.e. this run). Before
+          # 2026-10-13 a conflict silently dropped this run's data.
+          git pull --rebase -X theirs origin main || { git rebase --abort; git pull --rebase -X theirs origin main; } || true
           git push || true
