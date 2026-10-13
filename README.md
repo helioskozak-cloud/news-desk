@@ -1,5 +1,7 @@
 # news-desk
 
+**Since 2026-10-13 this is the data engine only.** Its page redirects to regime-desk's News tab (https://helioskozak-cloud.github.io/regime-desk/#news), which reads `docs/data/headlines.json`, `stocks.json` and `movers.json` from here. Keep the refresh job running; the old dashboard is in git history.
+
 Live financial headline aggregator. Pulls from a curated set of free RSS feeds (MarketWatch, CNBC, NASDAQ, Investing.com, Seeking Alpha, NYT, FT, the Federal Reserve, PR Newswire, BusinessWire, Stock Titan, Benzinga), adds material SEC filings from regime-desk's EDGAR scan, tags each story with relevant tickers, and renders a chronological stream. Every feed was checked live on 2026-10-13; the run log warns when one goes stale. Tagging is pinned by `tests/test_tagging.py` (`python -m pytest -q tests`).
 
 A GitHub Action refreshes the feed every 10 minutes during US market hours, every 30 minutes off-hours, and hourly on weekends. The result is committed to `docs/data/headlines.json` and served by GitHub Pages.
