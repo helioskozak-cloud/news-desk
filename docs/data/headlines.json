@@ -1,8 +1,54 @@
 {
- "generated": "2026-10-14T12:21:21.252152+00:00",
+ "generated": "2026-10-14T12:26:33.924746+00:00",
  "feed_count": 23,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0ee1e8035a1c",
+   "title": "'Office' is actually having a scarcity problem",
+   "link": "https://www.cnbc.com/2026/10/14/office-is-actually-having-a-scarcity-problem.html",
+   "summary": "The U.S. office market is roaring back to health but its speedy recovery is resulting in a shortage, especially of premium space.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T12:24:05+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "97b149ae216d",
+   "title": "Bank of America shares drop more than 5% after third-quarter revenue miss and regulatory penalty",
+   "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+   "summary": "Bank of America shares fell Wednesday after posting weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T12:21:58+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "4ed31dce35a7",
+   "title": "Express Wash Concepts Celebrates Milestone 150th Location With Moo Moo Express Grand Opening in Columbus",
+   "link": "https://www.prnewswire.com/news-releases/express-wash-concepts-celebrates-milestone-150th-location-with-moo-moo-express-grand-opening-in-columbus-302908526.html",
+   "summary": "Columbus-founded company marks major growth milestone with free washes, family festivities and community giving Oct. 16-25 COLUMBUS, Ohio, Oct. 14, 2026 /PRNewswire/ -- Express Wash Concepts (EWC), one of the nation's leading express car wash operators, is celebrating a milestone 150th...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-14T12:21:00+00:00",
+   "tickers": [
+    "EWC"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "40d942fff230",
    "title": "Iran says it’s ‘counting the moments’ until it can attack American warships; Saudi Aramco facilities attacked as Houthi attacks escalate",
@@ -32,22 +78,6 @@
    "tag_v": 2
   },
   {
-   "id": "97b149ae216d",
-   "title": "Bank of America shares drop more than 5% after third-quarter revenue miss and regulatory penalty",
-   "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-   "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T12:19:38+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "c246bcbd6085",
    "title": "BofA profits drop 17% after $1.2bn money laundering fine",
    "link": "https://www.ft.com/content/a82b4275-6519-4142-b1df-e74c66ead877?syn-25a6b1a6=1",
@@ -59,6 +89,20 @@
    "tickers": [],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "7880c2ce6756",
+   "title": "FCG: Natural Gas ETF With Oil Producers At The Top",
+   "link": "https://seekingalpha.com/article/4954064-fcg-natural-gas-etf-with-oil-producers-at-the-top?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T12:18:42+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -75,6 +119,36 @@
    ],
    "type": "press",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "00a375764123",
+   "title": "Progressive GAAP EPS of $4.37 misses by $0.08, net premiums written of $22.3B misses by $210M",
+   "link": "https://seekingalpha.com/news/4652867-progressive-gaap-eps-of-437-misses-by-008-net-premiums-written-of-223b-misses-by-210m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T12:17:44+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "7796faafc5a4",
+   "title": "Fastenal stock falls as margins face pressure",
+   "link": "https://seekingalpha.com/news/4652863-fastenal-stock-falls-as-margins-face-pressure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T12:17:32+00:00",
+   "tickers": [
+    "FAST"
+   ],
+   "type": "ma",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -102,6 +176,20 @@
    "published": "2026-10-14T12:17:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3b69c50c7e47",
+   "title": "Kraft Heinz brings soup outside the can to Canada",
+   "link": "https://seekingalpha.com/news/4652861-kraft-heinz-bring-soup-outside-the-can-to-canada?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T12:16:48+00:00",
+   "tickers": [],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -352,20 +440,6 @@
    "tag_v": 2
   },
   {
-   "id": "0ee1e8035a1c",
-   "title": "'Office' is actually having a scarcity problem",
-   "link": "https://www.cnbc.com/2026/10/14/office-is-actually-having-a-scarcity-problem.html",
-   "summary": "The U.S. office market is roaring back to health but its speedy recovery is resulting in a shortage, especially of premium space.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T12:08:13+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "2f8d93ce4957",
    "title": "Powell Industries: A Record Backlog Isn't Enough To Make It A Buy (Rating Downgrade)",
    "link": "https://seekingalpha.com/article/4954059-powell-industries-a-record-backlog-isnt-enough-to-make-it-a-buy-rating-downgrade?source=feed_all_articles",
@@ -402,7 +476,7 @@
    "title": "Genpact Launches Agentic Accounts Receivable Suite to Optimize Cash Flow and Working Capital",
    "link": "https://www.prnewswire.com/news-releases/genpact-launches-agentic-accounts-receivable-suite-to-optimize-cash-flow-and-working-capital-302908092.html",
    "summary": "Genpact's latest finance and accounting (F&amp;A) Agentic Solution helps reduce past due receivables and increase touchless cash applications NEW YORK, Oct. 14, 2026 /PRNewswire/ -- Genpact (NYSE: G), the Agentic Operations company, today announced the general availability of the Genpact...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-14T12:05:00+00:00",
@@ -3161,9 +3235,9 @@
   },
   {
    "id": "f4a80c4d8519",
-   "title": "Here’s how much the AI boom is contributing to inflation, according to Goldman Sachs calculations",
+   "title": "Here’s how much the AI boom is really contributing to inflation, according to Goldman Sachs calculations",
    "link": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
-   "summary": "Goldman Sachs economists have calculated how much the AI boom has contributed to inflation.",
+   "summary": "Goldman believes the core inflation rate will revert toward the Fed’s 2% target in 2027.",
    "source": "MarketWatch",
    "category": "markets",
    "domain": "marketwatch.com",
@@ -8829,82 +8903,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "b6cc2cca658a",
-   "title": "Oshkosh Defense Partners with Michigan Technological University’s APS LABS to Advance Mobile Energy Generation Capability | OSK Stock News",
-   "link": "https://www.stocktitan.net/news/OSK/oshkosh-defense-partners-with-michigan-technological-university-s-l559sjvgah8a.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T09:00:00+00:00",
-   "tickers": [
-    "OSK"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "52264ebada30",
-   "title": "American Resources Corporation Appoints Datuk Wira Mark Ling as CEO of Newly Formed American Resources Indo Pacific to Lead Rare Earth Supply Chain Development in Malaysia | AREC Stock News",
-   "link": "https://www.stocktitan.net/news/AREC/american-resources-corporation-appoints-datuk-wira-mark-ling-as-ceo-m0u7mx3haa8j.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T09:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6e30c1042bc5",
-   "title": "Meta Critical Minerals Appoints West Point Senior Advisor John Melkon to Strategic Advisory Board | MTTAF Stock News",
-   "link": "https://www.stocktitan.net/news/MTTAF/meta-critical-minerals-appoints-west-point-senior-advisor-john-m5y0kr5gfeau.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T09:00:00+00:00",
-   "tickers": [
-    "META"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e0fa2043e2f7",
-   "title": "HealthForce Kentucky to Share Its Immersive Health Science Model at NCHSE 2026 | ZSPC Stock News",
-   "link": "https://www.stocktitan.net/news/ZSPC/health-force-kentucky-to-share-its-immersive-health-science-model-at-y5ohlsicsxz9.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T09:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "21891a910e54",
-   "title": "FBY: Meta's Capex Surge Meets A Capped Income Wrapper",
-   "link": "https://seekingalpha.com/article/4954007-fby-metas-capex-surge-meets-a-capped-income-wrapper?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T08:58:09+00:00",
-   "tickers": [
-    "META"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8914,6 +8912,7 @@
   "EWA": "iShares MSCI Australia Index Fund",
   "PNC": "The PNC Financial Services Group",
   "IBM": "International Business Machines",
+  "EWC": "iShares MSCI Canada Index Fund",
   "HIG": "The Hartford Insurance Group",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "HPE": "Hewlett Packard Enterprise",
@@ -9020,7 +9019,6 @@
   "GDDY": "GoDaddy",
   "GLW": "Corning",
   "IVZ": "Invesco",
-  "OSK": "Oshkosh",
   "PNR": "Pentair",
   "W": "Wayfair",
   "WDAY": "Workday",
