@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T23:51:38.256726+00:00",
+ "generated": "2026-10-14T23:56:36.729739+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -76,6 +76,23 @@
    "published": "2026-10-14T23:40:59+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "65b98b82fb48",
+   "title": "Stocks Sharply Lower on Inflation Woes and Slumping Chipmakers",
+   "link": "https://www.nasdaq.com/articles/stocks-sharply-lower-inflation-woes-and-slumping-chipmakers",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -1.11% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.02%. December E-mini S&amp;P futures (ESZ26 ) fell -1.16%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:38:05+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "macro",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -161,23 +178,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "65b98b82fb48",
-   "title": "Stocks Sharply Lower on Inflation Woes and Slumping Chipmakers",
-   "link": "https://www.nasdaq.com/articles/stocks-sharply-lower-inflation-woes-and-slumping-chipmakers",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -1.11% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.02%. December E-mini S&amp;P futures (ESZ26 ) fell -1.16%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T23:31:53+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -6396,20 +6396,6 @@
    "tag_v": 2
   },
   {
-   "id": "a7376f54b8af",
-   "title": "Social Security recipients to get 3.6% cost of living boost, an average of $75 per month - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNk11UEtWMWJteERCRXJKVm80RUt5ZmFVbDlTczd1WmpjN0VyMkVfU3Q1bEtJVjk4WldrNGp1VmhoeU5HY0R5eDZwTWY5NldMc09fOUZ3VDIycFRxank3UmlvZmZoV3JuS2Z2NWhvRDZLcnZNZ2p2RjZmdkd0Uzc0V29sX2U1Z2xKRHR6Wi1JR3BUZ1FHME01aExaSzNaT0llUnBLeVNwbw?oc=5",
-   "summary": "Social Security recipients to get 3.6% cost of living boost, an average of $75 per month&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-14T19:58:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "622637ee5ff3",
    "title": "German finance minister warns on trade conflicts ahead of IMF trip",
    "link": "https://www.investing.com/news/economy-news/german-finance-minister-warns-on-trade-conflicts-ahead-of-imf-trip-93CH-4949907",
@@ -8983,6 +8969,22 @@
    "published": "2026-10-14T18:00:18+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ceea580fb019",
+   "title": "Goldman Sachs CEO Solomon on earnings: We have a big, durable, diverse business",
+   "link": "https://www.cnbc.com/video/2026/10/14/goldman-sachs-ceo-solomon-on-earnings-we-have-a-big-durable-diverse-business.html",
+   "summary": "CNBC’s Kate Rooney and David Solomon, Goldman Sachs Chairman and CEO, join 'The Exchange' to discuss earnings going forward, M&amp;A activity, and more.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T17:59:22+00:00",
+   "tickers": [
+    "GS"
+   ],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   }
