@@ -1,22 +1,268 @@
 {
- "generated": "2026-10-14T10:51:02.461756+00:00",
+ "generated": "2026-10-14T10:56:33.598155+00:00",
  "feed_count": 23,
  "ticker_universe_size": 1752,
  "headlines": [
   {
    "id": "97b149ae216d",
-   "title": "Bank of America earnings are out – Here are the numbers",
+   "title": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine",
    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
    "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
    "source": "CNBC Earnings",
    "category": "earnings",
    "domain": "cnbc.com",
-   "published": "2026-10-14T10:49:40+00:00",
+   "published": "2026-10-14T10:54:21+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "4b310c0e5e56",
+   "title": "Stock futures tick higher as traders await consumer inflation report: Live updates",
+   "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
+   "summary": "A slide in chip stocks and mixed bank results on Tuesday weighed on the major averages.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T10:53:07+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6410f1713ee8",
+   "title": "Fastenal GAAP EPS of $0.35 beats by $0.01, revenue of $2.46B beats by $20M",
+   "link": "https://seekingalpha.com/news/4652831-fastenal-gaap-eps-of-035-beats-by-001-revenue-of-246b-beats-by-20m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T10:52:38+00:00",
+   "tickers": [
+    "FAST"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "f2088456d967",
+   "title": "Amkor Technology: Improving Fundamentals At A Discounted Valuation",
+   "link": "https://seekingalpha.com/article/4953993-amkor-technology-improving-fundamentals-at-a-discounted-valuation?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T10:51:17+00:00",
+   "tickers": [
+    "AMKR"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c93184eeef47",
+   "title": "Timken to Announce Third-Quarter 2026 Financial Results on November 4",
+   "link": "https://www.prnewswire.com/news-releases/timken-to-announce-third-quarter-2026-financial-results-on-november-4-302908423.html",
+   "summary": "NORTH CANTON, Ohio, Oct. 14, 2026 /PRNewswire/ -- The Timken Company (NYSE: TKR; www.timken.com), a leader in advanced motion technology, will release its 2026 third-quarter financial results on Wednesday, November 4, prior to the opening of the New York Stock Exchange. The company will...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-14T10:51:00+00:00",
+   "tickers": [
+    "TKR"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "76c5e780bfed",
+   "title": "Timken to Announce Third-Quarter 2026 Financial Results on November 4 | TKR Stock News",
+   "link": "https://www.stocktitan.net/news/TKR/timken-to-announce-third-quarter-2026-financial-results-on-november-6trbjha85pvf.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-14T10:51:00+00:00",
+   "tickers": [
+    "TKR"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f2b5e0ea4c4d",
+   "title": "Not Nvidia. Not Broadcom. This Storage Stock Could Be 2027's Hidden AI Winner.",
+   "link": "https://www.nasdaq.com/articles/not-nvidia-not-broadcom-storage-stock-could-be-2027s-hidden-ai-winner",
+   "summary": "Key PointsSeagate's fiscal 2026 revenue rose 34% to $12.2 billion as AI data center demand boosted sales of its high-capacity hard drives.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T10:50:00+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6fff89891d71",
+   "title": "Fastenal Company Reports 2026 Third Quarter Earnings | FAST Stock News",
+   "link": "https://www.stocktitan.net/news/FAST/fastenal-company-reports-2026-third-quarter-qqf8b5f32x3o.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-14T10:50:00+00:00",
+   "tickers": [
+    "FAST"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f9b25d3bfb13",
+   "title": "Pentair to Release Third Quarter 2026 Earnings and Host Investor Conference Call on October 27 | PNR Stock News",
+   "link": "https://www.stocktitan.net/news/PNR/pentair-to-release-third-quarter-2026-earnings-and-host-investor-zzxfn92hel9p.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-14T10:50:00+00:00",
+   "tickers": [
+    "PNR"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9e7592c88b7e",
+   "title": "Eton Pharmaceuticals and Aquestive Therapeutics Announce Exclusive U.S. Licensing Agreement for LIBERVANT® (diazepam) Buccal Film | ETON Stock News",
+   "link": "https://www.stocktitan.net/news/ETON/eton-pharmaceuticals-and-aquestive-therapeutics-announce-exclusive-u-1bpjxas71sd1.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-14T10:50:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "88f14b2e572f",
+   "title": "FIGS Inc.: Even After 150% Share Price Growth, The Stock Can Further Re-Rate",
+   "link": "https://seekingalpha.com/article/4954033-figs-even-after-150-percent-share-price-growth-the-stock-can-further-re-rate?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T10:49:55+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b53d2627dbc9",
+   "title": "Bank of America Non-GAAP EPS of $1.08 misses by $0.02, revenue of $30B misses by $540M",
+   "link": "https://seekingalpha.com/news/4652830-bank-of-america-non-gaap-eps-of-108-misses-by-002-revenue-of-30b-misses-by-540m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T10:48:32+00:00",
    "tickers": [
     "BAC"
    ],
    "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a58a9c2d9ee1",
+   "title": "RBC Capital reiterates Axsome Therapeutics stock rating at Outperform",
+   "link": "https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-axsome-therapeutics-stock-rating-at-outperform-93CH-4948702",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:46:56+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "5976bfbbabba",
+   "title": "Morgan Stanley raises SpaceX stock price target on distributed inference potential",
+   "link": "https://www.investing.com/news/analyst-ratings/morgan-stanley-raises-spacex-stock-price-target-on-distributed-inference-potential-93CH-4948701",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:46:48+00:00",
+   "tickers": [
+    "MS"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "5cebf68649d1",
+   "title": "Gooch & Housego acquisition by Arlington Capital receives court approval",
+   "link": "https://www.investing.com/news/company-news/gooch--housego-acquisition-by-arlington-capital-receives-court-approval-93CH-4948699",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:46:42+00:00",
+   "tickers": [],
+   "type": "ma",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bd0a18d37884",
+   "title": "Chili's owner has surged this year. It's still 'underappreciated,' Jefferies says",
+   "link": "https://www.cnbc.com/2026/10/14/brinker-international-jefferies-upgrade-chilis.html",
+   "summary": "The investment firm upgraded the restaurant stock to buy from hold.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T10:46:14+00:00",
+   "tickers": [
+    "JEF"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "f37ebcc47f42",
+   "title": "Nurix: Maintaining 'Strong Buy' Updated Bexobrutideg Data CLL/SLL And Multiple Advancement Pathways",
+   "link": "https://seekingalpha.com/article/4954032-nurix-maintaining-strong-buy-updated-bexobrutideg-data-cllsll-and-multiple-advancement-pathways?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T10:46:05+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -163,6 +409,36 @@
    "tag_v": 2
   },
   {
+   "id": "067effb7d738",
+   "title": "History Says This Is Hands-Down the Best ETF to Buy if a Bear Market Is Coming",
+   "link": "https://www.nasdaq.com/articles/history-says-hands-down-best-etf-buy-if-bear-market-coming",
+   "summary": "Key PointsBased on the history of the most recent bear market in 2022, &ldquo;recession-proof&rdquo; stocks like energy, healthcare, and consumer staples tend to be safer choices.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T10:44:00+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c0b10302af91",
+   "title": "BlackRock earnings beat by $1.63, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/blackrock-earnings-beat-by-163-revenue-topped-estimates-4948681",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:43:39+00:00",
+   "tickers": [
+    "BLK"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "28847a44e086",
    "title": "Roundhill Ether Covered Call Strategy ETF declares $0.0738 weekly dividend",
    "link": "https://seekingalpha.com/news/4652827-roundhill-ether-covered-call-strategy-etf-declares-00738-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -173,6 +449,36 @@
    "published": "2026-10-14T10:42:40+00:00",
    "tickers": [],
    "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "efa2255c15da",
+   "title": "Japan’s GPIF supporting global market liquidity, Mimura says",
+   "link": "https://www.investing.com/news/economy-news/japans-gpif-supporting-global-market-liquidity-mimura-says-4948677",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:42:27+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "252a2ef35543",
+   "title": "European stocks gain on ASML sales forecast; U.S. CPI test awaited",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-gain-on-asml-sales-forecast-us-cpi-test-awaited-4948177",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:41:42+00:00",
+   "tickers": [
+    "ASML"
+   ],
+   "type": "guidance",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -193,6 +499,22 @@
    "tag_v": 2
   },
   {
+   "id": "d22397f643c6",
+   "title": "Premarket movers: Alibaba gains on new AI glasses; Liquidia rallies as legal eases",
+   "link": "https://www.investing.com/news/stock-market-news/premarket-movers-alibaba-gains-on-new-ai-glasses-liquidia-rallies-as-legal-eases-4948661",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:41:22+00:00",
+   "tickers": [
+    "LQDA"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "2878555995d9",
    "title": "BlackRock now has assets equal to half the size of the U.S. economy after 15% growth",
    "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
@@ -205,6 +527,36 @@
     "BLK"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "30168d8e74fb",
+   "title": "JPMorgan upgrades Paladin Energy stock rating on valuation",
+   "link": "https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-paladin-energy-stock-rating-on-valuation-93CH-4948663",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:40:50+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "fcb83e22b9a8",
+   "title": "Why is Lonza stock rallying today?",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-lonza-stock-rallying-today-93CH-4948662",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:40:23+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -281,6 +633,34 @@
    "tag_v": 2
   },
   {
+   "id": "2fdc3b61c3c3",
+   "title": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
+   "link": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
+   "summary": "Diesel supply is expected to remain tight into 2027 as Iran war-related disruption, falling inventories and resilient demand strain the market, the IEA said.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T10:37:42+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "373ca2380f8b",
+   "title": "UK stocks gain on consumer staples, defence; budget borrowing report lifts sentiment",
+   "link": "https://www.investing.com/news/stock-market-news/uk-stocks-gain-on-consumer-staplesdefence-budget-borrowing-report-lifts-sentiment-4948654",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:37:19+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "60a9fd22ae46",
    "title": "Kurv Yield Premium Strategy Amazon AMZN ETF declares $0.35 dividend",
    "link": "https://seekingalpha.com/news/4652823-kurv-yield-premium-strategy-amazon-amzn-etf-declares-035-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -321,6 +701,38 @@
    "published": "2026-10-14T10:36:02+00:00",
    "tickers": [],
    "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "41f93819a76c",
+   "title": "Why Wall Street Is Cautious About Tesla, and Why I'm Not Worried",
+   "link": "https://www.nasdaq.com/articles/why-wall-street-cautious-about-tesla-and-why-im-not-worried",
+   "summary": "Key PointsTesla's long-term opportunities extend far beyond electric vehicle sales.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T10:36:00+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4f4765faa529",
+   "title": "Jefferies starts Wienerberger cautious, sees recovery catalysts only in 2027",
+   "link": "https://www.investing.com/news/stock-market-news/jefferies-starts-wienerberger-cautious-sees-recovery-catalysts-only-in-2027-4948646",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:35:54+00:00",
+   "tickers": [
+    "JEF"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -384,7 +796,7 @@
   },
   {
    "id": "8e51c65bdb0c",
-   "title": "BlackRock pulls in $205bn to take assets to new record",
+   "title": "BlackRock pulls in $205bn to take assets to record high",
    "link": "https://www.ft.com/content/63e3c39b-357f-4a87-adf0-090c60c929a7?syn-25a6b1a6=1",
    "summary": "World’s largest asset manager has become an increasingly powerful force in private capital after acquisitions of HPS and Global Infrastructure Partners",
    "source": "FT Markets",
@@ -395,7 +807,7 @@
     "BLK"
    ],
    "type": "markets",
-   "sentiment": "neutral",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -459,6 +871,22 @@
    "tag_v": 2
   },
   {
+   "id": "8422086304d3",
+   "title": "Why is BlackRock stock surging today?",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-blackrock-stock-surging-today-93CH-4948628",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:30:59+00:00",
+   "tickers": [
+    "BLK"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "91cc9ecfff0d",
    "title": "Meet Agility Robotics: A pure-play humanoid robot stock headed for Wall Street",
    "link": "https://seekingalpha.com/news/4652725-meet-agility-robotics-a-pure-play-humanoid-robot-stock-headed-for-wall-street?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -470,6 +898,22 @@
    "tickers": [],
    "type": "ma",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "99ac002206ad",
+   "title": "Google Deepmind’s Hassabis calls AI hacks ’early warning shots’",
+   "link": "https://www.investing.com/news/stock-market-news/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots-4948612",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:30:28+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -486,6 +930,20 @@
    ],
    "type": "ma",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7f1b2a4b8441",
+   "title": "India stocks lower at close of trade; Nifty 50 down 0.44%",
+   "link": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-044-4948623",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:30:05+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -733,6 +1191,36 @@
    "tag_v": 2
   },
   {
+   "id": "d31158cfde89",
+   "title": "JPMorgan upgrades EMEA Metals & Mining stocks, names top picks into Q3 results",
+   "link": "https://www.investing.com/news/stock-market-news/jpmorgan-upgrades-emea-metals--mining-stocks-names-top-picks-into-q3-results-4948622",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-14T10:29:59+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "a394485c01a2",
+   "title": "4 High-Risk Stocks Built for Big Returns",
+   "link": "https://www.nasdaq.com/articles/4-high-risk-stocks-built-big-returns",
+   "summary": "Key PointsPatience and diversification are emphasized for these speculative picks, given their downside risk and upside potential.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T10:28:00+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "60e64fc2bf03",
    "title": "U.S. equity investor risk appetite rebounds, but market outlook remains muted",
    "link": "https://seekingalpha.com/news/4652809-us-equity-investor-risk-appetite-rebounds-but-market-outlook-remains-muted?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -743,20 +1231,6 @@
    "published": "2026-10-14T10:27:34+00:00",
    "tickers": [],
    "type": "guidance",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4b310c0e5e56",
-   "title": "Stock futures tick higher as traders await consumer inflation report: Live updates",
-   "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
-   "summary": "A slide in chip stocks and mixed bank results on Tuesday weighed on the major averages.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T10:25:51+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -941,22 +1415,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "99ac002206ad",
-   "title": "Google DeepMind’s Hassabis calls AI hacks ’early warning shots’",
-   "link": "https://www.investing.com/news/stock-market-news/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots-4948612",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-14T10:19:03+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2461,22 +2919,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "252a2ef35543",
-   "title": "European stocks gain on ASML sales forecast; U.S. CPI test awaited",
-   "link": "https://www.investing.com/news/stock-market-news/european-stocks-gain-on-asml-sales-forecast-us-cpi-test-awaited-4948177",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-14T09:53:26+00:00",
-   "tickers": [
-    "ASML"
-   ],
-   "type": "guidance",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -4635,20 +5077,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "2fdc3b61c3c3",
-   "title": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
-   "link": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
-   "summary": "Diesel supply is expected to remain tight into 2027 as Iran war-related disruption, falling inventories and resilient demand strain the market, the IEA said.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T08:00:01+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8480,427 +8908,10 @@
    "type": "macro",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "abe5799ad75c",
-   "title": "What's Going on With Nike Stock?",
-   "link": "https://www.nasdaq.com/articles/whats-going-nike-stock",
-   "summary": "Nike (NYSE: NKE) stock keeps making new 52-week lows.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T03:57:49+00:00",
-   "tickers": [
-    "NKE"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b75ea4122833",
-   "title": "Consumer Sentiment is Falling",
-   "link": "https://www.nasdaq.com/articles/consumer-sentiment-falling",
-   "summary": "Ultimately, people are losing purchasing power, and that never feels good.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T03:56:39+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "703f78125a9e",
-   "title": "Best Semiconductor Stocks to Buy in October: Marvell vs. Qualcomm",
-   "link": "https://www.nasdaq.com/articles/best-semiconductor-stocks-buy-october-marvell-vs-qualcomm",
-   "summary": "Semiconductor stocks are soaring in 2026.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T03:55:14+00:00",
-   "tickers": [
-    "MRVL"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "39371c604546",
-   "title": "Televisa, Fintech to take on America Movil with $2 billion purchase of AT&T’s Mexican unit",
-   "link": "https://www.investing.com/news/stock-market-news/att-to-sell-mexico-unit-for-2-billion-4947508",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-14T03:54:22+00:00",
-   "tickers": [
-    "T"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a5f6322add24",
-   "title": "Is Planet Labs an Undervalued Space Stock to Buy Right Now in October?",
-   "link": "https://www.nasdaq.com/articles/planet-labs-undervalued-space-stock-buy-right-now-october",
-   "summary": "The shares are down over 50%, but that fact alone is not enough to warrant a purchase.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T03:54:20+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5fa8290874d7",
-   "title": "Madison Square Garden Entertainment: Expect Strong Q1 Earnings To Drive A Re-Rating",
-   "link": "https://seekingalpha.com/article/4953956-madison-square-garden-stock-expect-strong-q1-earnings-drive-rerating?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T03:52:35+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "135fe4126921",
-   "title": "HYLB: Shorter Duration Helps, But Credit Risk Is Rising",
-   "link": "https://seekingalpha.com/article/4953955-hylb-shorter-duration-helps-but-credit-risk-is-rising?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T03:51:02+00:00",
-   "tickers": [
-    "HYLB"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "faeaeb4d76c0",
-   "title": "Sera prognostics CMO Inglis sells $16,288 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/sera-prognostics-cmo-inglis-sells-16288-in-shares-93CH-4947958",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-14T03:46:20+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "154a78ebc0aa",
-   "title": "Bank of America Fined $1.2 Billion for Lax Money-Laundering Oversight",
-   "link": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html",
-   "summary": "Federal regulators said the bank had waved through suspicious transactions without proper care.",
-   "source": "NYT Business",
-   "category": "macro",
-   "domain": "nytimes.com",
-   "published": "2026-10-14T03:42:19+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e5018fdec991",
-   "title": "China's exports and imports surge past expectations in September",
-   "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
-   "summary": "The country's customs agency released September trade data on Wednesday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T03:41:36+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "a02354747e81",
-   "title": "Nu Holdings: Election Week Surge Urges Me To Maintain A Hold",
-   "link": "https://seekingalpha.com/article/4953954-nu-holdings-election-week-surge-urges-me-to-maintain-hold?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T03:34:01+00:00",
-   "tickers": [
-    "NU"
-   ],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "58a53f701555",
-   "title": "Australian Market Extends Early Losses In Mid-market",
-   "link": "https://www.nasdaq.com/articles/australian-market-extends-early-losses-mid-market-3",
-   "summary": "(RTTNews) - The Australian stock market is extending its early losses in mid-market moves on Wednesday, snapping a three-session winning streak, with the benchmark S&amp;P/ASX 200 falling well below the 8,750 level, following the broadly negative cues from Wall Street overnight, with",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T03:33:27+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "d78c9ac284ec",
-   "title": "Paladin Energy Ltd (PALAF) Q1 2027 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4953962-paladin-energy-ltd-palaf-q1-2027-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T03:32:42+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b63bb402c4ae",
-   "title": "Everpure chief accounting officer Mona Chu sells $773,956 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/everpure-chief-accounting-officer-mona-chu-sells-773956-in-stock-93CH-4947945",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-14T03:31:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5394b016c3d9",
-   "title": "Everpure director Andrew Brown sells $665,936 in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/everpure-director-andrew-brown-sells-665936-in-company-stock-93CH-4947946",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-14T03:31:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "aaecee843c4c",
-   "title": "Asian Markets Trade Mostly Higher",
-   "link": "https://www.nasdaq.com/articles/asian-markets-trade-mostly-higher-4",
-   "summary": "(RTTNews) - Asian markets are mostly higher on Wednesday, despite the negative cues from Wall Street overnight, boosted by a rebound in technology and semiconductor stocks in Japan and South Korea after the recent sharp sell-off. Support also came from comments by New York Fed Pr",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T03:26:52+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "43716cf4ca45",
-   "title": "Why is Domino’s Pizza Enterprises stock sliding today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-dominos-pizza-enterprises-stock-sliding-today-93CH-4947938",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-14T03:25:06+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "399d69a7c5d3",
-   "title": "Alpine Income's Cheap Long-Term Debt Will Blunt Pending Fed Rate Hikes",
-   "link": "https://seekingalpha.com/article/4953951-alpine-income-cheap-long-term-debt-will-blunt-pending-fed-rate-hikes?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T03:23:59+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1e36ad9250e1",
-   "title": "Ocular Therapeutix CLO Todd Anderman sells $87,363 in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/ocular-therapeutix-clo-todd-anderman-sells-87363-in-company-stock-93CH-4947932",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-14T03:16:19+00:00",
-   "tickers": [
-    "OCUL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2dc96d2b1e35",
-   "title": "China's producer prices rise at fastest pace since June 2022, beating expectations",
-   "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
-   "summary": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T03:14:48+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "82c0a9ececa9",
-   "title": "TCAF: Recent Gains Are Encouraging, But Valuation Remains A Concern",
-   "link": "https://seekingalpha.com/article/4953950-tcaf-recent-gains-encouraging-valuation-remains-a-concern?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T03:14:34+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "f884c50bda2e",
-   "title": "Sugar Prices Climb as Brazil Rains Disrupt Cane Crushing",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-climb-brazil-rains-disrupt-cane-crushing",
-   "summary": "March NY world sugar #11 (SBH27 ) is up +0.21 (+1.01%) today, and December London ICE white sugar #5 (SWZ26 ) is up +1.20 (+0.21%). Sugar prices are moving higher today and are just below last week’s significant highs. Last Wednesday, NY sugar climbed to a 19-month nearest-futures high and...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T03:08:39+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1d82d1fe12e7",
-   "title": "ASTS Investors Have Opportunity to Lead AST SpaceMobile, Inc. Securities Fraud Lawsuit with SBS Law",
-   "link": "https://www.prnewswire.com/news-releases/asts-investors-have-opportunity-to-lead-ast-spacemobile-inc-securities-fraud-lawsuit-with-sbs-law-302907794.html",
-   "summary": "LOS ANGELES, Oct. 13, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, reminds investors of a class action lawsuit against AST SpaceMobile, Inc. (\"AST SpaceMobile\" or \"the Company\") (NASDAQ: ASTS) for violations of §§10(b) and 20(a)...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-14T03:05:00+00:00",
-   "tickers": [
-    "ASTS"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "4e93a8f4512a",
-   "title": "AST SpaceMobile, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - ASTS",
-   "link": "https://www.prnewswire.com/news-releases/ast-spacemobile-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--asts-302907791.html",
-   "summary": "NEW YORK, Oct. 13, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against AST SpaceMobile, Inc. (\"AST SpaceMobile\" or \"the Company\") (NASDAQ: ASTS) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-14T03:05:00+00:00",
-   "tickers": [
-    "ASTS"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e42a93a9fc16",
-   "title": "SEMICON West 2026 Presentation",
-   "link": "https://seekingalpha.com/article/4953958-semicon-west-2026-presentation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T03:04:23+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a67785daad68",
-   "title": "American Tower: An Opportunity To Invest In Tower REITs, As Mobile Demand Grows",
-   "link": "https://seekingalpha.com/article/4953949-american-tower-an-opportunity-to-invest-in-tower-reits-as-mobile-demand-grows?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T03:01:56+00:00",
-   "tickers": [
-    "AMT"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "406896f63e87",
-   "title": "Prediction: $1,000 Invested in SpaceX Will Be Worth This Much by 2030",
-   "link": "https://www.nasdaq.com/articles/prediction-1000-invested-spacex-will-be-worth-much-2030",
-   "summary": "Key PointsSpaceX has major aspirations in all of its business units.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T03:01:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "629878019e78",
-   "title": "DICK'S Sporting Goods, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - DKS",
-   "link": "https://www.prnewswire.com/news-releases/dicks-sporting-goods-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--dks-302907760.html",
-   "summary": "NEW YORK, Oct. 13, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against DICK'S Sporting Goods, Inc. (\"Dick's\" or \"the Company\") (NYSE: DKS) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-14T02:56:00+00:00",
-   "tickers": [
-    "DKS"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
   "EMB": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
-  "HYLB": "Xtrackers USD High Yield Corporate Bond ETF",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "SLVP": "iShares MSCI Global Silver Miners Fund",
   "TSM": "Taiwan Semiconductor Manufacturing",
@@ -8913,7 +8924,6 @@
   "AEO": "American Eagle Outfitters",
   "IAU": "iShares Gold Trust Shares",
   "IBKR": "Interactive Brokers Group",
-  "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "APO": "Apollo Global Management",
   "ARR": "ARMOUR Residential REIT",
@@ -8922,7 +8932,6 @@
   "LPLA": "LPL Financial Holdings",
   "SEDG": "SolarEdge Technologies",
   "VZ": "Verizon Communications",
-  "DKS": "DICK'S Sporting Goods",
   "EAT": "Brinker International",
   "PLTR": "Palantir Technologies",
   "CEG": "Constellation Energy",
@@ -8932,9 +8941,9 @@
   "MOD": "Modine Manufacturing",
   "SMCI": "Super Micro Computer",
   "ZETA": "Zeta Global Holdings",
+  "AXSM": "Axsome Therapeutics",
   "WCC": "WESCO International",
   "MRVL": "Marvell Technology",
-  "OCUL": "Ocular Therapeutix",
   "ZBRA": "Zebra Technologies",
   "DELL": "Dell Technologies",
   "HOOD": "Robinhood Markets",
@@ -8943,6 +8952,7 @@
   "NFG": "National Fuel Gas",
   "RF": "Regions Financial",
   "TXN": "Texas Instruments",
+  "AMKR": "Amkor Technology",
   "CELH": "Celsius Holdings",
   "CENX": "Century Aluminum",
   "EMN": "Eastman Chemical",
@@ -8952,7 +8962,6 @@
   "SW": "Smurfit Westrock",
   "THC": "Tenet Healthcare",
   "ACHR": "Archer Aviation",
-  "ASTS": "AST SpaceMobile",
   "BAC": "Bank of America",
   "HOG": "Harley-Davidson",
   "LDOS": "Leidos Holdings",
@@ -8961,7 +8970,6 @@
   "RIO": "Rio Tinto Group",
   "TRGP": "Targa Resources",
   "TRI": "Thomson Reuters",
-  "AMT": "American Tower",
   "CARR": "Carrier Global",
   "CVE": "Cenovus Energy",
   "DPZ": "Domino's Pizza",
@@ -8982,7 +8990,6 @@
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "MORN": "Morningstar",
-  "NU": "Nu Holdings",
   "S": "SentinelOne",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
@@ -8992,6 +8999,7 @@
   "PBF": "PBF Energy",
   "RKLB": "Rocket Lab",
   "SPGI": "S&P Global",
+  "TKR": "The Timken",
   "MSFT": "Office 365",
   "QCOM": "Snapdragon",
   "DE": "John Deere",
@@ -9000,6 +9008,7 @@
   "C": "Citigroup",
   "CRWV": "CoreWeave",
   "OS": "OneStream",
+  "AVGO": "Broadcom",
   "BCS": "Barclays",
   "BP": "BP p.l.c",
   "CELC": "Celcuity",
@@ -9015,6 +9024,7 @@
   "MDB": "MongoDB",
   "OSK": "Oshkosh",
   "PEP": "PepsiCo",
+  "PNR": "Pentair",
   "WDAY": "Workday",
   "WMT": "Walmart",
   "NFLX": "Netflix",
@@ -9031,8 +9041,6 @@
   "MAS": "Masco",
   "TU": "TELUS",
   "MSCI": "MSCI",
-  "NKE": "NIKE",
-  "OKLO": "Oklo",
-  "T": "AT&T"
+  "OKLO": "Oklo"
  }
 }
