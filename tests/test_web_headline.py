@@ -1,0 +1,80 @@
+"""A headline from the open web for a mover our feeds missed (2026-10-14):
+only a story that names the company counts, the newest wins, nothing older
+than the window, and a mover our feeds already cover is not searched."""
+import sys
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scan"))
+import fetch_movers  # noqa: E402
+from web_headline import core_name, names_it, parse  # noqa: E402
+
+NOW = datetime(2026, 10, 14, 19, 0, tzinfo=timezone.utc)
+
+
+def rss(*items):
+    body = "".join(
+        f"<item><title>{t} - {s}</title><link>https://news.google.com/rss/articles/{i}</link>"
+        f"<pubDate>{(NOW - timedelta(hours=h)).strftime('%a, %d %b %Y %H:%M:%S GMT')}</pubDate>"
+        f"<source url='https://x'>{s}</source></item>"
+        for i, (t, s, h) in enumerate(items))
+    return f"<rss><channel>{body}</channel></rss>".encode()
+
+
+def test_core_name_drops_corporate_suffixes_but_not_into_a_common_word():
+    assert core_name("Halozyme Therapeutics") == "Halozyme"
+    assert core_name("Bitdeer Technologies Group") == "Bitdeer"
+    assert core_name("Apple Inc.") == "Apple"
+    assert core_name("First Financial") == "First Financial"
+
+
+def test_a_title_must_name_the_company():
+    assert names_it("Why State Street (STT) Stock Is Down Today", "STT", "State Street")
+    assert names_it("Liquidia and United Therapeutics settle", "LQDA", "Liquidia")
+    assert not names_it("Markets slide as yields climb", "LQDA", "Liquidia")
+    # Two-letter tickers that are English words count only in brackets or a cashtag.
+    assert not names_it("Stocks turn ON a dime", "ON", "ON Semiconductor")
+    assert names_it("Chipmaker (ON) jumps", "ON", "ON Semiconductor")
+
+
+def test_the_newest_relevant_story_wins_and_old_or_unrelated_ones_do_not():
+    doc = rss(("Liquidia shares soar on settlement", "IBD", 5),
+              ("Liquidia stock jumps again", "Reuters", 1),
+              ("Fed holds rates", "CNBC", 0.5),
+              ("Liquidia last year", "Old", 60))
+    hit = parse(doc, "LQDA", "Liquidia", NOW)
+    assert hit["title"] == "Liquidia stock jumps again" and hit["source"] == "Reuters"
+    assert hit["link"].startswith("https://")
+    assert parse(rss(("Fed holds rates", "CNBC", 1)), "LQDA", "Liquidia", NOW) is None
+
+
+def test_only_movers_our_feeds_missed_are_searched_and_misses_say_null(tmp_path, monkeypatch):
+    feed = tmp_path / "headlines.json"
+    feed.write_text('{"headlines":[{"published":"2026-10-14T18:00:00+00:00","tickers":["CRWV"]}]}',
+                    encoding="utf-8")
+    monkeypatch.setattr(fetch_movers, "HEADLINES", feed)
+    asked = []
+
+    def find(t, name, now):
+        asked.append(t)
+        return {"title": f"{name} moves", "link": "https://e", "source": "S",
+                "published": now.isoformat()} if t == "LQDA" else None
+
+    payload = {"as_of": "2026-10-14",
+               "gainers": [{"ticker": "LQDA", "name": "Liquidia"}, {"ticker": "ZZZ", "name": "Zed"}],
+               "losers": [{"ticker": "CRWV", "name": "CoreWeave"}],
+               "movers": [{"ticker": "LQDA", "name": "Liquidia"}]}
+    fetch_movers.add_web_headlines(payload, {}, NOW, find=find)
+    assert asked == ["LQDA", "ZZZ"]                         # CRWV is in our feeds; LQDA asked once
+    assert payload["gainers"][0]["web"]["title"] == "Liquidia moves"
+    assert payload["movers"][0]["web"] == payload["gainers"][0]["web"]
+    assert payload["gainers"][1]["web"] is None
+    assert "web" not in payload["losers"][0]
+
+    # Next refresh, same session: the find is reused, the miss is searched again.
+    asked.clear()
+    fresh = {"as_of": "2026-10-14", "gainers": [{"ticker": "LQDA", "name": "Liquidia"},
+                                                {"ticker": "ZZZ", "name": "Zed"}],
+             "losers": [], "movers": []}
+    fetch_movers.add_web_headlines(fresh, payload, NOW + timedelta(minutes=30), find=find)
+    assert asked == ["ZZZ"] and fresh["gainers"][0]["web"]["title"] == "Liquidia moves"

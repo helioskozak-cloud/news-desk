@@ -10,8 +10,10 @@ three-sigma day for a utility. Writes docs/data/movers.json:
     "movers": [{ticker, name, price, change_pct, vol_20d, sigma}, ...] }
 
 The universe is universe_tickers.csv, the same set fetch_news.py tags
-headlines with, so a mover with no headline genuinely had none in our feeds
-that we could tag; it does not mean there was no news.
+headlines with. A shown mover with no tagged headline in our feeds gets one
+from the open web instead (web_headline.py, Google News search), as
+"web": {title, link, source, published, found}, or "web": null when nothing
+found names the company (2026-10-14).
 
 Heavier than the per-headline quotes (about 1,750 tickers), so it runs at
 most every MIN_AGE_MIN minutes; pass --force to run regardless.
@@ -23,11 +25,15 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from fetch_stocks import BATCH_SIZE, fetch_batch
+import web_headline
 
 ROOT = Path(__file__).parent.parent
 OUT = ROOT / "docs" / "data" / "movers.json"
 TICKERS_FILE = Path(__file__).parent / "universe_tickers.csv"
 NAMES_FILE = Path(__file__).parent / "universe_names.csv"
+HEADLINES = ROOT / "docs" / "data" / "headlines.json"
+WEB_SHOWN = 10       # regime-desk shows the top ten gainers, losers and unusual moves
+WEB_REUSE_H = 2      # a web headline found this session is re-searched after this long
 
 MIN_AGE_MIN = 30
 THRESHOLD = 2.5      # |move| in 20-day standard deviations
@@ -64,6 +70,55 @@ def fresh_enough() -> bool:
         return False
 
 
+def tagged_recently(now: datetime) -> set[str]:
+    """Tickers with a feed headline inside the window regime-desk shows (36 h)."""
+    try:
+        doc = json.loads(HEADLINES.read_text(encoding="utf-8"))
+    except Exception:
+        return set()
+    cut = now - timedelta(hours=web_headline.MAX_AGE_H)
+    out = set()
+    for h in doc.get("headlines", []):
+        try:
+            if datetime.fromisoformat(h["published"]) >= cut:
+                out.update(t.upper() for t in h.get("tickers") or [])
+        except (KeyError, TypeError, ValueError):
+            continue
+    return out
+
+
+def add_web_headlines(payload: dict, previous: dict, now: datetime, find=web_headline.find) -> None:
+    """Give each shown mover our feeds missed a headline from the open web
+    ("web": {title, link, source, published, found}), or "web": null when the
+    search found nothing that names the company. A headline found earlier this
+    session is reused for WEB_REUSE_H hours rather than searched again."""
+    have = tagged_recently(now)
+    prior = {}
+    if previous.get("as_of") == payload["as_of"]:
+        for key in ("gainers", "losers", "movers"):
+            for m in previous.get(key) or []:
+                if m.get("web"):
+                    prior[m["ticker"]] = m["web"]
+    found = {}
+    for key in ("gainers", "losers", "movers"):
+        for m in (payload.get(key) or [])[:WEB_SHOWN]:
+            t = m["ticker"]
+            if t in have:
+                continue
+            if t not in found:
+                old = prior.get(t)
+                try:
+                    fresh = old and now - datetime.fromisoformat(old["found"]) < timedelta(hours=WEB_REUSE_H)
+                except (KeyError, TypeError, ValueError):
+                    fresh = False
+                if fresh:
+                    found[t] = old
+                else:
+                    hit = find(t, m.get("name", ""), now)
+                    found[t] = dict(hit, found=now.isoformat()) if hit else None
+            m["web"] = found[t]
+
+
 def main(argv=None) -> int:
     argv = sys.argv[1:] if argv is None else argv
     if "--force" not in argv and fresh_enough():
@@ -94,9 +149,15 @@ def main(argv=None) -> int:
     pool.sort(key=lambda tq: tq[1]["change_pct"])
     payload["losers"] = [row(t, q) for t, q in pool[:TOP_N] if q["change_pct"] < 0]
     payload["gainers"] = [row(t, q) for t, q in reversed(pool[-TOP_N:]) if q["change_pct"] > 0]
+    try:
+        previous = json.loads(OUT.read_text(encoding="utf-8"))
+    except Exception:
+        previous = {}
+    add_web_headlines(payload, previous, datetime.now(timezone.utc))
     OUT.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
     print(f"fetch_movers: {len(sized)}/{len(tickers)} priced, {len(movers)} at |move| >= {THRESHOLD} sd "
-          f"on {as_of}; kept {len(payload['movers'])}", flush=True)
+          f"on {as_of}; kept {len(payload['movers'])}; "
+          f"{sum(1 for k in ('gainers', 'losers', 'movers') for m in payload[k] if m.get('web'))} web headlines", flush=True)
     return 0
 
 
