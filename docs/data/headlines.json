@@ -1,8 +1,52 @@
 {
- "generated": "2026-10-14T16:31:29.056924+00:00",
+ "generated": "2026-10-14T16:36:01.093565+00:00",
  "feed_count": 23,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "aab58d3a7610",
+   "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+   "link": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+   "summary": "A ballistic missile has struck energy infrastructure supposedly covered by the \"energy ceasefire\" announced by Trump on Sunday, Zelenskyy said.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T16:34:24+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "128860b2de3a",
+   "title": "Tesla: The Robotaxi Dream Meets An Earnings Reality Check",
+   "link": "https://seekingalpha.com/article/4954153-tesla-the-robotaxi-dream-meets-an-earnings-reality-check?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T16:30:20+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f30c0128c2aa",
+   "title": "September CPI Proved Me Wrong",
+   "link": "https://seekingalpha.com/article/4954179-september-cpi-proved-me-wrong?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T16:30:09+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "2b60d56a56a6",
    "title": "AV and Thunder Tiger Sign MOU to Explore Uncrewed Systems Integration and Co-Production in Taiwan | AVAV Stock News",
@@ -36,23 +80,6 @@
    "tag_v": 2
   },
   {
-   "id": "791e480e4b1c",
-   "title": "Stocks Retreat on Sticky US Price Pressures",
-   "link": "https://www.nasdaq.com/articles/stocks-retreat-sticky-us-price-pressures",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -0.42% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down by -0.07%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.70%. December E-mini S&amp;P futures (ESZ26 ) are down -0.61%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T16:27:30+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "01a504c0d8e2",
    "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
    "link": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
@@ -66,6 +93,20 @@
    ],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "33d750ae3fcd",
+   "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+   "link": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
+   "summary": "There isn’t any way to spin Wednesday’s hot consumer-price index report as good, especially when looking at the bond market’s reaction.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "domain": "marketwatch.com",
+   "published": "2026-10-14T16:27:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -561,6 +602,23 @@
    "published": "2026-10-14T16:12:45+00:00",
    "tickers": [],
    "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "791e480e4b1c",
+   "title": "Stocks Retreat on Sticky US Price Pressures",
+   "link": "https://www.nasdaq.com/articles/stocks-retreat-sticky-us-price-pressures",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -0.42% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down by -0.07%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.70%. December E-mini S&amp;P futures (ESZ26 ) are down -0.61%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T16:12:41+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8962,66 +9020,6 @@
    "type": "markets",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "be299180589a",
-   "title": "Erayak Power Solution Group GAAP EPS of -$1.22, revenue of $12.17M",
-   "link": "https://seekingalpha.com/news/4652897-erayak-power-solution-group-gaap-eps-of-1_22-revenue-of-12_17m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T13:08:50+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d338596d7346",
-   "title": "LVMH: The Focus Is On China",
-   "link": "https://seekingalpha.com/article/4954083-lvmh-the-focus-is-on-china?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T13:07:37+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "555fc611887d",
-   "title": "B. Braun Peripheral Nerve Block Devices Approved for Separate Medicare Payment Under the NOPAIN Act",
-   "link": "https://www.prnewswire.com/news-releases/b-braun-peripheral-nerve-block-devices-approved-for-separate-medicare-payment-under-the-nopain-act-302907444.html",
-   "summary": "BETHLEHEM, Pa., Oct. 14, 2026 /PRNewswire/ -- B. Braun Medical Inc. today announced that the Stimuplex® Single-Shot Nerve Block Needles have been approved by the Centers for Medicare and Medicaid Services (CMS) as qualifying non-opioid medical devices under the Non-Opioids Prevent...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-14T13:07:00+00:00",
-   "tickers": [
-    "CMS"
-   ],
-   "type": "fda",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "f5965456eee6",
-   "title": "Keefe Bruyette cuts Wells Fargo stock price target on NIM concerns",
-   "link": "https://www.investing.com/news/analyst-ratings/keefe-bruyette-cuts-wells-fargo-stock-price-target-on-nim-concerns-93CH-4949376",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-14T13:06:55+00:00",
-   "tickers": [
-    "WFC"
-   ],
-   "type": "analyst",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9155,7 +9153,6 @@
   "SHOP": "Shopify Inc",
   "BN": "Brookfield",
   "CAVA": "CAVA Group",
-  "CMS": "CMS Energy",
   "DKNG": "DraftKings",
   "GEV": "GE Vernova",
   "MUR": "Murphy Oil",
