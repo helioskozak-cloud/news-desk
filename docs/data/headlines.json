@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T04:26:06.805066+00:00",
+ "generated": "2026-10-14T04:31:14.254680+00:00",
  "feed_count": 23,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,11 +11,25 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-14T04:23:57+00:00",
+   "published": "2026-10-14T04:28:38+00:00",
    "tickers": [
     "MS"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7dde37aad0ef",
+   "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
+   "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
+   "summary": "The Philippine central bank is running policy scenarios for a severe El Niño on top of the oil shock, with inflation at a three-year high.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T04:24:28+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -328,12 +342,12 @@
    "title": "Patrick Drahi’s creditors strike back",
    "link": "https://www.ft.com/content/cd8b1aaf-abd8-4c75-afb2-11683c675016?syn-25a6b1a6=1",
    "summary": "Lenders have sued Altice International in the latest escalation of a long-running battle between the heavily indebted telecoms group and its creditors",
-   "source": "FT Markets",
-   "category": "markets",
+   "source": "FT Companies",
+   "category": "stocks",
    "domain": "ft.com",
    "published": "2026-10-14T04:00:30+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -356,12 +370,142 @@
    "title": "Germany puts Ukrainian ex-officer in the dock over Nord Stream sabotage",
    "link": "https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c?syn-25a6b1a6=1",
    "summary": "Serhii Kuznietsov is accused of leading group of divers who placed explosives on the Russian gas pipelines in the Baltic Sea",
-   "source": "FT Markets",
-   "category": "markets",
+   "source": "FT Companies",
+   "category": "stocks",
    "domain": "ft.com",
    "published": "2026-10-14T04:00:21+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2ce827aafffd",
+   "title": "UK’s Schillings sets up private investigations business with US law firm Clare Locke",
+   "link": "https://www.ft.com/content/42209791-2167-4c4e-81a0-f610a981b745?syn-25a6b1a6=1",
+   "summary": "Groups known for battling the press set up US intelligence company co-led by a former senior CIA official",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T04:00:21+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0fdf5e45fd33",
+   "title": "How Ukraine’s data centre strikes threw Russia into turmoil",
+   "link": "https://www.ft.com/content/dc21da0b-25b7-402e-8dbe-e7d9f7431b93?syn-25a6b1a6=1",
+   "summary": "Kyiv’s attacks exposed vulnerabilities of Kremlin effort to centralise internet services under one company",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T04:00:21+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4aca8897a8f7",
+   "title": "Celebrity lawyer accused of participating in ‘outright plunder’ of BHS",
+   "link": "https://www.ft.com/content/24818a5c-64d0-4d6c-a9c0-825156edf43b?syn-25a6b1a6=1",
+   "summary": "Liquidators to failed UK retailer are suing Eddie Parladorio for allegedly siphoning out millions before its collapse",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T04:00:21+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fce176a60302",
+   "title": "After ‘Selling Sunset’, can Netflix’s luxury agents sell Dubai too?",
+   "link": "https://www.ft.com/content/6fadf158-93ca-4327-8b72-b3e6189384ef",
+   "summary": "Despite conflict in the region, the Oppenheim Group, protagonist of the hit reality series, is bullish about its prospects in the UAE",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T04:00:12+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f6b4f0558c80",
+   "title": "Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal",
+   "link": "https://www.ft.com/content/afa0a322-ad2a-4d49-aa0e-81f15a01c3a7?syn-25a6b1a6=1",
+   "summary": "The kingdom is one of the world’s top arms buyers but has struggled to keep pace with the Iranian-backed rebels’ tactics",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T04:00:12+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d38cf5aa727e",
+   "title": "The battle over the AI-led future of banking has begun",
+   "link": "https://www.ft.com/content/8c6a7595-9403-44f3-81ac-a2e5ceb37459",
+   "summary": "An initiative is needed to bring banks, regulators and companies such as OpenAI and Anthropic to the table to develop the technology",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T04:00:12+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ae4d34ec2ecb",
+   "title": "Nostalgia puts Harley-Davidson back in the fast lane",
+   "link": "https://www.ft.com/content/04bda62b-4de2-4cc4-b427-d4b9538e2f7d?syn-25a6b1a6=1",
+   "summary": "The motorcycle maker is reissuing classic models to lure a new generation to head out on the highway",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T04:00:12+00:00",
+   "tickers": [
+    "HOG"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "880e048a6704",
+   "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
+   "link": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
+   "summary": "Food manufacturers warn of impact on consumers ahead of midterm elections",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T04:00:12+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ab141f8872d0",
+   "title": "The mess that is the UK energy system — and how it ended up this way",
+   "link": "https://www.ft.com/content/2d99bcbe-b2d3-4fb4-b181-cca567f516f9?syn-25a6b1a6=1",
+   "summary": "As Britain faces rising bills alongside the need to decarbonise, one industry expert blames botched privatisations — but another plays down climate change and the value of renewables",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T04:00:12+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -382,6 +526,36 @@
    "tag_v": 2
   },
   {
+   "id": "f7a12ad0ea44",
+   "title": "BuzzBallz and bourbon: Sazerac shakes up the spirits industry",
+   "link": "https://www.ft.com/content/ae451e55-9166-45c4-95eb-a177ee7857d5?syn-25a6b1a6=1",
+   "summary": "Kentucky-based group has become largest US producer from strategy of buying unwanted brands",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T04:00:04+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6e94e06436d9",
+   "title": "CoreWeave targets ‘unlimited’ insurance money to fund AI build-out",
+   "link": "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1",
+   "summary": "Co-founder eyes insurers’ vast capital for loans as the Nvidia-backed cloud provider seeks to fund the data centre build-out",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T04:00:04+00:00",
+   "tickers": [
+    "CRWV"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "91fea9b6a863",
    "title": "Japanese banks and insurers return to domestic bonds as yields surge",
    "link": "https://www.ft.com/content/8c7ded63-6232-44df-98ba-25a46422e56f?syn-25a6b1a6=1",
@@ -393,6 +567,34 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "6f64f522a248",
+   "title": "How I used AI to become a chess grandmaster at 16",
+   "link": "https://www.ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94",
+   "summary": "Ignore the doomsayers, this technology has transformed the game for the better and it can do the same for education",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T04:00:03+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a63fa2f65b0f",
+   "title": "Workplaces are bracing for the smart glasses era",
+   "link": "https://www.ft.com/content/bb6f87df-f523-40d6-91c2-20f4b298eb4d",
+   "summary": "New technology is an HR and data security minefield",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T04:00:03+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -431,6 +633,20 @@
    "source": "Stock Titan",
    "category": "stocks",
    "domain": "stocktitan.net",
+   "published": "2026-10-14T04:00:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ac28f35e8391",
+   "title": "Why the French Revolution was a financial revolution - Part 1",
+   "link": "https://www.ft.com/content/2f320899-94c9-4793-874a-2fa492782a78?syn-25a6b1a6=1",
+   "summary": "The French Revolution was a bloody fight for liberty, equality and fraternity. But it was also a battle over money",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
    "published": "2026-10-14T04:00:00+00:00",
    "tickers": [],
    "type": "stocks",
@@ -8728,242 +8944,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c7aed3b00cac",
-   "title": "Nasdaq Confirmed AGM Group Holdings Inc. Complies with The Nasdaq Listing Rules | AGMH Stock News",
-   "link": "https://www.stocktitan.net/news/AGMH/nasdaq-confirmed-agm-group-holdings-inc-complies-with-the-nasdaq-mc5n0nh61dwp.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T20:15:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "29b5a388d90f",
-   "title": "Mercury Systems to Report First Quarter Fiscal Year 2027 Financial Results on November 10, 2026 | MRCY Stock News",
-   "link": "https://www.stocktitan.net/news/MRCY/mercury-systems-to-report-first-quarter-fiscal-year-2027-financial-2qx8kbqm8de0.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T20:15:00+00:00",
-   "tickers": [
-    "MRCY"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5b57f716115a",
-   "title": "How you can prepare for 6% bond yields",
-   "link": "https://www.marketwatch.com/story/how-you-can-prepare-for-6-bond-yields-b45723c8?mod=mw_rss_topstories",
-   "summary": "Savers and investors at current yields stand to benefit, but fears are growing about the rest of the economy outside of the AI boom",
-   "source": "MarketWatch",
-   "category": "markets",
-   "domain": "marketwatch.com",
-   "published": "2026-10-13T20:15:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2e0a2813a7ac",
-   "title": "Galaxy Schedules Webcast and Investor Call to Review Third Quarter 2026 Results on October 27, 2026",
-   "link": "https://www.prnewswire.com/news-releases/galaxy-schedules-webcast-and-investor-call-to-review-third-quarter-2026-results-on-october-27-2026-302907582.html",
-   "summary": "NEW YORK, Oct. 13, 2026 /PRNewswire/ -- Galaxy Digital Inc. (Nasdaq: GLXY) (\"Galaxy\" or the \"Company\") is pleased to announce that it will report third quarter 2026 financial results before the opening of Nasdaq on Tuesday, October 27, 2026. Michael Novogratz, CEO and Founder of Galaxy,...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-13T20:15:00+00:00",
-   "tickers": [
-    "GLXY"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b5a6957e1dbc",
-   "title": "Brookdale Completes Acquisition of 17 Communities and Announces Mutually Beneficial Agreement to Acquire 30 Additional Leased Communities from Welltower",
-   "link": "https://www.prnewswire.com/news-releases/brookdale-completes-acquisition-of-17-communities-and-announces-mutually-beneficial-agreement-to-acquire-30-additional-leased-communities-from-welltower-302907406.html",
-   "summary": "BRENTWOOD, Tenn., Oct. 13, 2026 /PRNewswire/ -- Brookdale Senior Living Inc. (NYSE: BKD) (\"Brookdale\" or the \"Company\") today announced additional transactions to advance Brookdale's strategy to further increase its real estate ownership and reduce its long-term lease obligations....",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-13T20:15:00+00:00",
-   "tickers": [
-    "WELL"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1a687a58bd16",
-   "title": "PSEG To Announce Third Quarter 2026 Financial Results On November 2",
-   "link": "https://www.prnewswire.com/news-releases/pseg-to-announce-third-quarter-2026-financial-results-on-november-2-302907518.html",
-   "summary": "NEWARK, N.J., Oct. 13, 2026 /PRNewswire/ -- Public Service Enterprise Group Incorporated (PSEG) will host its third quarter 2026 earnings call at 11:00 a.m. ET on Monday, November 2, during which management will discuss third quarter financial results, financial guidance, capital...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-13T20:15:00+00:00",
-   "tickers": [
-    "PEG"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5febd657e362",
-   "title": "Borr Drilling falls 2% after rallying for six straight sessions",
-   "link": "https://seekingalpha.com/news/4652675-borr-drilling-falls-2-after-rallying-for-six-straight-sessions?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-13T20:14:00+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "b96e78528100",
-   "title": "Why Applied Materials Sank Today",
-   "link": "https://www.nasdaq.com/articles/why-applied-materials-sank-today",
-   "summary": "Key PointsApplied Materials gave an investor presentation today.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-13T20:13:56+00:00",
-   "tickers": [
-    "AMAT"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "d717892e930f",
-   "title": "L3Harris Technologies And Divergent Signs Teaming Agreement",
-   "link": "https://www.nasdaq.com/articles/l3harris-technologies-and-divergent-signs-teaming-agreement",
-   "summary": "(RTTNews) - On Tuesday, L3Harris Technologies, Inc. (LHX) and Divergent Technologies signed a teaming agreement to increase production and improve capabilities for affordable mass-produced munitions.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-13T20:13:50+00:00",
-   "tickers": [
-    "LHX"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f2540d858d5f",
-   "title": "Better Buy: Fidelity Health Care ETF (FHLC) or iShares Biotechnology ETF (IBB)?",
-   "link": "https://www.nasdaq.com/articles/better-buy-fidelity-health-care-etf-fhlc-or-ishares-biotechnology-etf-ibb",
-   "summary": "Key PointsFidelity MSCI Health Care Index ETF offers a significantly lower expense ratio of 0.08% compared to 0.44% for the iShares Biotechnology ETF.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-13T20:13:37+00:00",
-   "tickers": [
-    "IBB",
-    "MSCI"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "55a04075938a",
-   "title": "CNB Financial Corporation 7.125 DP SH PF A declares $0.4453 dividend",
-   "link": "https://seekingalpha.com/news/4652676-cnb-financial-corporation-7_125-dp-sh-pf-a-declares-0_4453-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-13T20:12:58+00:00",
-   "tickers": [
-    "SH"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "3666b9780c94",
-   "title": "Micron sinks, other memory-linked names dip for a second day",
-   "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-   "summary": "The sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-13T20:12:36+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "496edf9cf8b7",
-   "title": "Boeing vs. Lockheed Martin: Which Aerospace Stock Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/boeing-vs-lockheed-martin-which-aerospace-stock-better-buy-2026-0",
-   "summary": "Key PointsBoeing demonstrates significant recovery potential with revenue growth of 34.5% in the latest fiscal period.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-13T20:12:02+00:00",
-   "tickers": [
-    "LMT",
-    "BA"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0c7d29b711b1",
-   "title": "Innodata: A 50% Selloff Masks Accelerating AI Growth",
-   "link": "https://seekingalpha.com/article/4953902-innodata-a-50-percent-selloff-masks-accelerating-ai-growth?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-13T20:11:43+00:00",
-   "tickers": [
-    "INOD"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "336afbf9df0d",
-   "title": "ADC.PRA Agree Realty Corp. - 4.25% PRF PERPETUAL USD 25 - Ser A 1/1000th declares $0.0885 dividend",
-   "link": "https://seekingalpha.com/news/4652674-adc-pra-agree-realty-corp-4_25-percent-prf-perpetual-usd-25-ser-a-1-1000th-declares-0_0885?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-13T20:11:25+00:00",
-   "tickers": [
-    "ADC"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8980,7 +8960,6 @@
   "APD": "Air Products and Chemicals",
   "FBIN": "Fortune Brands Innovations",
   "MRSH": "Marsh & McLennan Companies",
-  "IBB": "iShares Biotechnology ETF",
   "ICE": "Intercontinental Exchange",
   "REXR": "Rexford Industrial Realty",
   "AFG": "American Financial Group",
@@ -8989,14 +8968,12 @@
   "AMD": "Advanced Micro Devices",
   "HYMC": "Hycroft Mining Holding",
   "RYTM": "Rhythm Pharmaceuticals",
-  "SH": "ProShares Short S&P500",
   "VZ": "Verizon Communications",
   "WBD": "Warner Bros. Discovery",
   "WMB": "The Williams Companies",
   "CWST": "Casella Waste Systems",
   "DKS": "DICK'S Sporting Goods",
   "EAT": "Brinker International",
-  "LHX": "L3Harris Technologies",
   "PLTR": "Palantir Technologies",
   "BLDR": "Builders FirstSource",
   "BMY": "Bristol-Myers Squibb",
@@ -9031,11 +9008,11 @@
   "CHYM": "Chime Financial",
   "CRML": "Critical Metals",
   "DIS": "The Walt Disney",
+  "HOG": "Harley-Davidson",
   "JBLU": "JetBlue Airways",
   "LDOS": "Leidos Holdings",
   "LMT": "Lockheed Martin",
   "LNG": "Cheniere Energy",
-  "MRCY": "Mercury Systems",
   "THO": "THOR Industries",
   "TRGP": "Targa Resources",
   "WSM": "Williams-Sonoma",
@@ -9062,7 +9039,6 @@
   "VLO": "Valero Energy",
   "WFC": "Wells Fargo &",
   "UNH": "United Health",
-  "ADC": "Agree Realty",
   "CRUS": "Cirrus Logic",
   "DVLT": "Datavault AI",
   "IREN": "IREN Limited",
@@ -9078,7 +9054,6 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
-  "BA": "The Boeing",
   "BX": "Blackstone",
   "MA": "Mastercard",
   "PBF": "PBF Energy",
@@ -9088,6 +9063,7 @@
   "BC": "Brunswick",
   "C": "Citigroup",
   "CME": "CME Group",
+  "CRWV": "CoreWeave",
   "SYNA": "Synaptics",
   "WELL": "Welltower",
   "APP": "AppLovin",
