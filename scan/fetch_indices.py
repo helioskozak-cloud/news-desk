@@ -26,13 +26,13 @@ STRIP = [  # (Yahoo symbol, label, kind)
     ("^GSPC", "S&P 500", "index"),
     ("^DJI", "Dow", "index"),
     ("^IXIC", "Nasdaq", "index"),
-    ("^RUT", "Russell 2000", "index"),
+    ("^RUT", "Russell 2K", "index"),
     ("^VIX", "VIX", "index"),
     ("^TNX", "10-yr yield", "yield"),
     ("CL=F", "Oil (WTI)", "price"),
     ("GC=F", "Gold", "price"),
     ("BTC-USD", "Bitcoin", "price"),
-    ("DX-Y.NYB", "Dollar index", "index"),
+    ("DX-Y.NYB", "Dollar", "index"),
 ]
 MAX_POINTS = 80
 
