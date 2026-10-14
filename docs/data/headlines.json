@@ -1,8 +1,54 @@
 {
- "generated": "2026-10-14T05:16:35.219879+00:00",
+ "generated": "2026-10-14T05:21:39.926947+00:00",
  "feed_count": 23,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8afde1f96a63",
+   "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
+   "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
+   "summary": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T05:19:36+00:00",
+   "tickers": [
+    "MS"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "677922139a85",
+   "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
+   "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+   "summary": "",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T05:17:13+00:00",
+   "tickers": [
+    "ASML"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e7dab5e02cfb",
+   "title": "Asian equities stabilize following Wall Street tech selloff; oil nears $95, China trade data beats",
+   "link": "https://seekingalpha.com/news/4652734-asian-equities-stabilize-following-wall-street-tech-selloff-oil-nears-95-china-trade-data-beats?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T05:15:43+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "744d992f2f3a",
    "title": "Trio-Tech: Sell Thesis Played Out, Upgrading To A Hold",
@@ -46,22 +92,6 @@
     "ASML"
    ],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8afde1f96a63",
-   "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
-   "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
-   "summary": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T05:04:05+00:00",
-   "tickers": [
-    "MS"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8925,36 +8955,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "75feb2884071",
-   "title": "Cummins declares $2.20 dividend",
-   "link": "https://seekingalpha.com/news/4652684-cummins-declares-2_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-13T20:18:17+00:00",
-   "tickers": [
-    "CMI"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "f2e36cddaef5",
-   "title": "Kinetik declares $0.81 dividend",
-   "link": "https://seekingalpha.com/news/4652682-kinetik-declares-0_81-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-13T20:17:04+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9091,7 +9091,6 @@
   "SATS": "EchoStar",
   "TER": "Teradyne",
   "RTX": "Raytheon",
-  "CMI": "Cummins",
   "CNC": "Centene",
   "CPNG": "Coupang",
   "CVNA": "Carvana",
