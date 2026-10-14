@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T00:46:14.601567+00:00",
+ "generated": "2026-10-14T00:51:35.977760+00:00",
  "feed_count": 23,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,23 @@
    "published": "2026-10-14T00:45:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bd7c996c0c0c",
+   "title": "Guyana weighs scaling back LNG plans as Exxon says more gas needed for its wells - Reuters",
+   "link": "https://seekingalpha.com/news/4652726-guyana-weighs-scaling-back-lng-plans-as-exxon-says-more-gas-needed-for-its-wells-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T00:42:10+00:00",
+   "tickers": [
+    "XOM",
+    "LNG"
+   ],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8983,22 +9000,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "20aeed8014a7",
-   "title": "Micron bearish near $923 support with oversold RSI: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/micron-tests-980-support-as-bears-dominate-live-levels-93CH-4944775",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-13T19:18:10+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9121,6 +9122,7 @@
   "BKH": "Black Hills",
   "CAT": "Caterpillar",
   "NVS": "Novartis AG",
+  "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
