@@ -16,8 +16,8 @@ def rss(*items):
     body = "".join(
         f"<item><title>{t} - {s}</title><link>https://news.google.com/rss/articles/{i}</link>"
         f"<pubDate>{(NOW - timedelta(hours=h)).strftime('%a, %d %b %Y %H:%M:%S GMT')}</pubDate>"
-        f"<source url='https://x'>{s}</source></item>"
-        for i, (t, s, h) in enumerate(items))
+        f"<source url='{u}'>{s}</source></item>"
+        for i, (t, s, h, *rest) in enumerate(items) for u in [rest[0] if rest else 'https://x.com'])
     return f"<rss><channel>{body}</channel></rss>".encode()
 
 
@@ -104,3 +104,23 @@ def test_when_yahoo_cannot_say_the_name_decides():
     assert fetch_movers.is_company("ACME", "Acme Corp", {}, none)
     assert not fetch_movers.is_company("XYZU", "Direxion Daily Bull 3X Shares", {}, none)
     assert not fetch_movers.is_company("NONAME", "", {}, none)
+
+
+# ── no headlines we cannot open (2026-10-14) ──────────────────────────────────
+
+def test_a_walled_publisher_is_skipped_for_the_next_free_one():
+    doc = rss(("Liquidia soars, subscribers read why", "Investor's Business Daily", 1, "https://www.investors.com"),
+              ("Liquidia stock jumps on settlement", "Nasdaq", 3, "https://www.nasdaq.com"))
+    assert parse(doc, "LQDA", "Liquidia", NOW)["source"] == "Nasdaq"
+    only_walled = rss(("Liquidia rallies", "Barron's", 1, "https://www.barrons.com"))
+    assert parse(only_walled, "LQDA", "Liquidia", NOW) is None
+
+
+def test_the_paywall_list():
+    from paywall import is_walled
+    for u in ("https://www.wsj.com/a", "https://seekingalpha.com/news/1", "https://www.ft.com/content/x",
+              "https://www.marketwatch.com/story/x", "https://www.cnbc.com/2026/10/14/pro/x.html"):
+        assert is_walled(u), u
+    for u in ("https://www.cnbc.com/2026/10/14/x.html", "https://markets.businessinsider.com/news/x",
+              "https://www.nasdaq.com/articles/x", "https://news.google.com/rss/articles/x", ""):
+        assert not is_walled(u), u

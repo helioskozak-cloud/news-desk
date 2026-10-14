@@ -34,6 +34,8 @@ NAMES_FILE = Path(__file__).parent / "universe_names.csv"
 HEADLINES = ROOT / "docs" / "data" / "headlines.json"
 WEB_SHOWN = 10       # regime-desk shows the top ten gainers, losers and unusual moves
 WEB_REUSE_H = 2      # a web headline found this session is re-searched after this long
+WEB_V = 2            # bump when the search's rules change; older finds are searched again
+                     # (2: walled publishers skipped, 2026-10-14)
 
 MIN_AGE_MIN = 30
 THRESHOLD = 2.5      # |move| in 20-day standard deviations
@@ -153,14 +155,15 @@ def add_web_headlines(payload: dict, previous: dict, now: datetime, find=web_hea
             if t not in found:
                 old = prior.get(t)
                 try:
-                    fresh = old and now - datetime.fromisoformat(old["found"]) < timedelta(hours=WEB_REUSE_H)
+                    fresh = (old and old.get("v") == WEB_V
+                             and now - datetime.fromisoformat(old["found"]) < timedelta(hours=WEB_REUSE_H))
                 except (KeyError, TypeError, ValueError):
                     fresh = False
                 if fresh:
                     found[t] = old
                 else:
                     hit = find(t, m.get("name", ""), now)
-                    found[t] = dict(hit, found=now.isoformat()) if hit else None
+                    found[t] = dict(hit, found=now.isoformat(), v=WEB_V) if hit else None
             m["web"] = found[t]
 
 

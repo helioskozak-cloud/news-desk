@@ -12,6 +12,7 @@ import sys
 import time
 import hashlib
 import warnings
+from paywall import is_walled
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlparse
@@ -40,7 +41,6 @@ USER_AGENT = "news-desk/0.2 (https://github.com/helioskozak-cloud/news-desk)"
 # ones that failed.
 FEEDS = [
     # General market news
-    ("MarketWatch",       "markets",   "http://feeds.marketwatch.com/marketwatch/topstories/"),
     ("CNBC Top",          "markets",   "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"),
     ("CNBC Earnings",     "earnings",  "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135"),
     ("CNBC Economy",      "macro",     "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"),
@@ -50,13 +50,16 @@ FEEDS = [
     ("Investing.com",     "markets",   "https://www.investing.com/rss/news.rss"),
     ("Investing Stock",   "stocks",    "https://www.investing.com/rss/news_25.rss"),
     ("Investing Forex",   "fx",        "https://www.investing.com/rss/news_1.rss"),
-    ("Seeking Alpha",     "stocks",    "https://seekingalpha.com/feed.xml"),
-    ("Seeking Alpha M&A", "ma",        "https://seekingalpha.com/market_currents.xml"),
     ("Markets Insider",   "stocks",    "https://markets.businessinsider.com/rss/news"),
-    ("NYT Business",      "macro",     "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"),
-    ("NYT Economy",       "macro",     "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml"),
-    ("FT Markets",        "markets",   "https://www.ft.com/markets?format=rss"),
-    ("FT Companies",      "stocks",    "https://www.ft.com/companies?format=rss"),
+    # Free to read, added 2026-10-14 in place of the walled feeds above
+    # (each checked live that day for a 200 and a same-day story).
+    ("Fox Business",      "markets",   "https://moxie.foxbusiness.com/google-publisher/markets.xml"),
+    ("Fox Business Econ", "macro",     "https://moxie.foxbusiness.com/google-publisher/economy.xml"),
+    ("CBS MoneyWatch",    "macro",     "https://www.cbsnews.com/latest/rss/moneywatch"),
+    ("MarketBeat",        "stocks",    "https://www.marketbeat.com/feed/"),
+    ("TheStreet",         "stocks",    "https://www.thestreet.com/.rss/full/"),
+    # AP has no public RSS; Google News' search for its business stories is the feed.
+    ("AP Business",       "macro",     "https://news.google.com/rss/search?q=site:apnews.com+business+when:1d&hl=en-US&gl=US&ceid=US:en"),
     ("Federal Reserve",   "macro",     "https://www.federalreserve.gov/feeds/press_all.xml"),
     # Press release wires. Only stories that name a ticker are kept (PRESS_NEEDS_TICKER).
     ("PR Newswire Fin",   "press",     "https://www.prnewswire.com/rss/financial-services-latest-news/financial-services-latest-news-list.rss"),
@@ -72,7 +75,9 @@ FILINGS_URL = "https://raw.githubusercontent.com/helioskozak-cloud/regime-desk/m
 
 # NASDAQ answers a bot user agent with a hang, and the Fed's feed fails
 # through feedparser's own fetch; both come through as a browser request.
-BROWSER_UA_FEEDS = {"NASDAQ Stocks", "NASDAQ Markets", "Federal Reserve"}
+BROWSER_UA_FEEDS = {"NASDAQ Stocks", "NASDAQ Markets", "Federal Reserve",
+                    "Fox Business", "Fox Business Econ", "CBS MoneyWatch", "MarketBeat",
+                    "TheStreet", "AP Business"}
 BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 
@@ -93,6 +98,10 @@ DROPPED_SOURCES = {
     "GlobeNewswire", "SEC 8-K Filings", "SEC 13D/G",                      # 403
     "WSJ Markets", "WSJ Business", "WSJ World",      # newest story Jan 2025
     "MarketWatch RT",                                # newest story Jul 2025
+    # Retired 2026-10-14: the articles need a login or a subscription
+    # (owner: "some of these headline sources require a login"; paywall.py).
+    "MarketWatch", "Seeking Alpha", "Seeking Alpha M&A",
+    "NYT Business", "NYT Economy", "FT Markets", "FT Companies",
 }
 
 # ── Ticker universe ──────────────────────────────────────────────────────────
@@ -395,11 +404,14 @@ def fetch_feed(name: str, category: str, url: str) -> list[dict]:
 
     now = datetime.now(timezone.utc)
     oldest_ok = (now - timedelta(days=MAX_AGE_DAYS)).isoformat()
-    newest, old, untagged = "", 0, 0
+    newest, old, untagged, walled = "", 0, 0, 0
     for entry in parsed.entries[:40]:
         title = _clean_title(entry.get("title", ""))
         link = entry.get("link", "")
         if not title or not link:
+            continue
+        if is_walled(link):                      # a story we cannot open is not a headline
+            walled += 1
             continue
         summary = _clean_title(entry.get("summary", ""))[:500]
         published = _parse_published(entry) or now.isoformat()
@@ -422,7 +434,8 @@ def fetch_feed(name: str, category: str, url: str) -> list[dict]:
             continue
         items.append(h)
     note = "".join([f", {old} older than {MAX_AGE_DAYS}d skipped" if old else "",
-                    f", {untagged} untagged press releases skipped" if untagged else ""])
+                    f", {untagged} untagged press releases skipped" if untagged else "",
+                    f", {walled} behind a login skipped" if walled else ""])
     print(f"  {name}: {len(items)} headlines{note}", flush=True)
     if newest and name not in SLOW_FEEDS and newest < (now - timedelta(days=STALE_FEED_DAYS)).isoformat():
         print(f"  WARN {name}: STALE — newest story {newest[:10]}", flush=True)
@@ -511,7 +524,8 @@ def main():
     # when a feed is dropped instead of letting old items hang around for
     # MAX_KEEP rotations.
     before = len(existing)
-    existing = [h for h in existing if h.get("source") not in DROPPED_SOURCES]
+    existing = [h for h in existing if h.get("source") not in DROPPED_SOURCES
+                and not is_walled(h.get("link", ""))]
     purged = before - len(existing)
     if purged:
         print(f"Purged {purged} entries from retired sources: "

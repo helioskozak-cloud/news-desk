@@ -4,7 +4,8 @@ web_headline.py — a headline from the open web for a mover our feeds missed
 somewhere on the internet").
 
 Source: Google News search RSS (free, no key), last two days, "<name>" stock.
-A result counts only if its title names the company or the ticker, so a
+A result from a site that needs a login (paywall.py) is skipped, and one
+counts only if its title names the company or the ticker, so a
 search that wanders off to another firm is no headline rather than a wrong
 one. Nothing found is reported as nothing found.
 """
@@ -15,6 +16,8 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+
+from paywall import is_walled
 
 SEARCH = "https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -63,7 +66,11 @@ def parse(xml: bytes, ticker: str, name: str, now: datetime) -> dict | None:
     best = None
     for it in ET.fromstring(xml).iter("item"):
         title = (it.findtext("title") or "").strip()
-        source = (it.findtext("source") or "").strip()
+        src = it.find("source")
+        source = (src.text if src is not None and src.text else "").strip()
+        # Google links through its own redirect; the publisher is the source's url.
+        if src is not None and is_walled(src.get("url", "")):
+            continue
         if source and title.endswith(" - " + source):      # Google appends " - Source"
             title = title[: -len(source) - 3].strip()
         try:
