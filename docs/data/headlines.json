@@ -1,8 +1,50 @@
 {
- "generated": "2026-10-14T07:21:33.275130+00:00",
+ "generated": "2026-10-14T07:26:36.841979+00:00",
  "feed_count": 23,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8067625bcbab",
+   "title": "Olympus shares suffer biggest drop since 2011 after FDA warning",
+   "link": "https://www.ft.com/content/dd316a64-cdf8-4bcb-bbc7-81dcb18243e5?syn-25a6b1a6=1",
+   "summary": "Japanese medical devices maker tumbles 13.5% as private equity circles company",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T07:24:21+00:00",
+   "tickers": [],
+   "type": "fda",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "5d0df1b6ddba",
+   "title": "Inventiva: Significant Upside Potential Ahead Of Pivotal Liver Disease Readout",
+   "link": "https://seekingalpha.com/article/4953987-inventiva-significant-upside-potential-ahead-of-pivotal-liver-disease-readout?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T07:23:49+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d3e12e15bbce",
+   "title": "Dow Jones Industrial Average Monitor Update - A Look At 30 U.S. Large-Caps",
+   "link": "https://seekingalpha.com/article/4953997-dow-jones-industrial-average-monitor-update-look-at-30-us-large-caps?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T07:20:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "8db35ea29607",
    "title": "SK Group chairman to sell 1.34% stake to Dell family office fund",
@@ -518,6 +560,24 @@
     "ASML"
    ],
    "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "b51c1d435dee",
+   "title": "AI demand to exceed supply for 2 more years, says ASML",
+   "link": "https://www.ft.com/content/2fc239ae-b0d4-41e8-81d0-cc2c0b3aba01?syn-25a6b1a6=1",
+   "summary": "Europe’s most valuable company said its clients that include TSMC and Intel were experiencing ‘very, very strong demand’",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T06:50:27+00:00",
+   "tickers": [
+    "ASML",
+    "INTC",
+    "TSM"
+   ],
+   "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -1709,20 +1769,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8067625bcbab",
-   "title": "Olympus shares plunge 13% after FDA warning",
-   "link": "https://www.ft.com/content/dd316a64-cdf8-4bcb-bbc7-81dcb18243e5?syn-25a6b1a6=1",
-   "summary": "Japanese medical devices maker set to suffer biggest one-day drop since 2011",
-   "source": "FT Companies",
-   "category": "stocks",
-   "domain": "ft.com",
-   "published": "2026-10-14T05:44:57+00:00",
-   "tickers": [],
-   "type": "fda",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8893,53 +8939,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c8ac0db22fe0",
-   "title": "ClearBridge Appreciation Strategy adds new positions in Mastercard, Novartis; exits Disney, Cisco, SPCX among Q3 moves",
-   "link": "https://seekingalpha.com/news/4652700-clearbridge-appreciation-strategy-adds-new-positions-in-mastercard-novartis-exits-disney?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-13T20:59:35+00:00",
-   "tickers": [
-    "MA",
-    "NVS",
-    "DIS",
-    "CSCO"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f9f3fb47f99a",
-   "title": "Six Flags Entertainment plunges 14% after fatal roller coaster incident",
-   "link": "https://seekingalpha.com/news/4652680-six-flags-entertainment-plunges-14-after-fatal-roller-coaster-incident?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-13T20:58:02+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "29f6bff2f5dc",
-   "title": "Enovix Receives 100,000-Battery Drone Order | ENVX Stock News",
-   "link": "https://www.stocktitan.net/news/ENVX/enovix-receives-100-000-battery-drone-ohim64wkam9x.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T20:58:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9019,7 +9018,6 @@
   "MS": "Morgan Stanley",
   "NET": "Cloudflare Inc",
   "CIFR": "Cipher Mining",
-  "CSCO": "Cisco Systems",
   "EXPE": "Expedia Group",
   "JOBY": "Joby Aviation",
   "KO": "The Coca-Cola",
@@ -9040,7 +9038,6 @@
   "CAT": "Caterpillar",
   "EME": "EMCOR Group",
   "NU": "Nu Holdings",
-  "NVS": "Novartis AG",
   "S": "SentinelOne",
   "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
