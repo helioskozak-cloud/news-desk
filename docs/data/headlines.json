@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-14T22:16:44.219090+00:00",
+ "generated": "2026-10-14T22:21:25.952199+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "7002095a1f2e",
+   "title": "Jim Cramer says don't give up on this unpredictable market. Here's why",
+   "link": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
+   "summary": "Despite an unpredictable market, CNBC's Jim Cramer says it's important to stay invested.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T22:19:32+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2b2c387f3a01",
+   "title": "PurMinds Announces Clinical Validation Collaboration with SpectroChip and Taiwan's Kaohsiung Municipal Siaogang Hospital | PFSF Stock News",
+   "link": "https://www.stocktitan.net/news/PFSF/pur-minds-announces-clinical-validation-collaboration-with-spectro-fqb7adpgzhmp.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-14T22:18:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "1ad6a91ea78d",
    "title": "Data center builder offers Kansas town residents $10,000",
@@ -11,9 +39,84 @@
    "source": "CBS MoneyWatch",
    "category": "macro",
    "domain": "cbsnews.com",
-   "published": "2026-10-14T22:13:37+00:00",
+   "published": "2026-10-14T22:17:41+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fc2e311b4741",
+   "title": "Nat-Gas Prices Retreat as Warm US Temps Curb Heating Demand",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-retreat-warm-us-temps-curb-heating-demand",
+   "summary": "November Nymex natural gas (NGX26 ) on Wednesday closed down -0.085 (-2.59%). Nat-gas prices fell from a 3-month nearest-futures high on Wednesday and settled sharply lower after forecasts for above-normal US temperatures sparked long liquidation in nat-gas futures. The Commodity Weather Group said Wednesday that it expects above-average temperatures to...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T22:14:53+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "65b98b82fb48",
+   "title": "Stocks Sharply Lower on Inflation Woes and Slumping Chipmakers",
+   "link": "https://www.nasdaq.com/articles/stocks-sharply-lower-inflation-woes-and-slumping-chipmakers",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -1.11% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.02%. December E-mini S&amp;P futures (ESZ26 ) fell -1.16%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T22:14:53+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "b4cae0b17ba5",
+   "title": "Dollar Ticks Up and Gold Slides on US Inflation News",
+   "link": "https://www.nasdaq.com/articles/dollar-ticks-and-gold-slides-us-inflation-news",
+   "summary": "The dollar index (DXY00 ) rallied to a 1.5-year high on Wednesday and finished up by +0.37%. The dollar advanced on Wednesday on the stronger-than-expected US Sep CPI report, which bolsters speculation that the Fed will keep interest rates higher for longer. The CPI report boosted the chance of a...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T22:14:53+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "89eef13e8f3f",
+   "title": "Corn Weakness Holding on Wednesday",
+   "link": "https://www.nasdaq.com/articles/corn-weakness-holding-wednesday",
+   "summary": "Corn futures are showing 2 to 3 cent losses on Wednesday. The CmdtyView national average Cash Corn price is down 2 ¼ cents at $4.40. Rains fell in parts of the TX panhandle, KS, MO and IL overnight, putting a pause on some harvest. More rain is expected in those...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T22:14:53+00:00",
+   "tickers": [
+    "MO"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6f32abbf006e",
+   "title": "Wheat Trying to Hold Higher on Wednesday",
+   "link": "https://www.nasdaq.com/articles/wheat-trying-hold-higher-wednesday",
+   "summary": "The wheat complex is showing mixed trade so far on Wednesday. Chicago SRW contracts are trading with 2 to 3 cent gains so far on the session. KC HRW futures are showing steady to 1 ½ cent gains at midday. MPLS spring wheat is down 4 to 6 cents so...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T22:14:52+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -28,20 +131,6 @@
    "published": "2026-10-14T22:12:00+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fc2e311b4741",
-   "title": "Nat-Gas Prices Retreat as Warm US Temps Curb Heating Demand",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-retreat-warm-us-temps-curb-heating-demand",
-   "summary": "November Nymex natural gas (NGX26 ) on Wednesday closed down -0.085 (-2.59%). Nat-gas prices fell from a 3-month nearest-futures high on Wednesday and settled sharply lower after forecasts for above-normal US temperatures sparked long liquidation in nat-gas futures. The Commodity Weather Group said Wednesday that it expects above-average temperatures to...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T22:08:33+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -62,23 +151,6 @@
    "tag_v": 2
   },
   {
-   "id": "65b98b82fb48",
-   "title": "Stocks Sharply Lower on Inflation Woes and Slumping Chipmakers",
-   "link": "https://www.nasdaq.com/articles/stocks-sharply-lower-inflation-woes-and-slumping-chipmakers",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -1.11% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.02%. December E-mini S&amp;P futures (ESZ26 ) fell -1.16%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T22:08:33+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "394a32625617",
    "title": "Supply Risks Boost Coffee Prices",
    "link": "https://www.nasdaq.com/articles/supply-risks-boost-coffee-prices",
@@ -90,20 +162,6 @@
    "tickers": [
     "ICE"
    ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6f32abbf006e",
-   "title": "Wheat Trying to Hold Higher on Wednesday",
-   "link": "https://www.nasdaq.com/articles/wheat-trying-hold-higher-wednesday",
-   "summary": "The wheat complex is showing mixed trade so far on Wednesday. Chicago SRW contracts are trading with 2 to 3 cent gains so far on the session. KC HRW futures are showing steady to 1 ½ cent gains at midday. MPLS spring wheat is down 4 to 6 cents so...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T22:08:32+00:00",
-   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -168,6 +226,22 @@
    ],
    "type": "offering",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "824f1b025da0",
+   "title": "Stock Market Today, Oct. 14: Bank of America Shares Fall 5% on Earnings Miss and Compliance Penalty",
+   "link": "https://www.nasdaq.com/articles/stock-market-today-oct-14-bank-america-shares-fall-5-earnings-miss-and-compliance-penalty",
+   "summary": "Bank of America (NYSE:BAC), a global consumer, commercial, and investment banking franchise, closed at $51.39, down 4.76%. Premarket earnings missed estimates, and investors are watching trading revenue, compliance costs, and loan growth next. Trading volume reached 115.1M shares",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T22:02:45+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -466,20 +540,6 @@
     "CRWV"
    ],
    "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "b4cae0b17ba5",
-   "title": "Dollar Ticks Up and Gold Slides on US Inflation News",
-   "link": "https://www.nasdaq.com/articles/dollar-ticks-and-gold-slides-us-inflation-news",
-   "summary": "The dollar index (DXY00 ) rallied to a 1.5-year high on Wednesday and finished up by +0.37%. The dollar advanced on Wednesday on the stronger-than-expected US Sep CPI report, which bolsters speculation that the Fed will keep interest rates higher for longer. The CPI report boosted the chance of a...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T21:49:55+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -1629,20 +1689,6 @@
    ],
    "type": "legal",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "d5b85a39611a",
-   "title": "Artificial intelligence - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
-   "summary": "Artificial intelligence&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-14T21:03:37+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3686,6 +3732,20 @@
    "tag_v": 2
   },
   {
+   "id": "d5b85a39611a",
+   "title": "Artificial intelligence - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
+   "summary": "Artificial intelligence&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-14T20:17:05+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "17668d5598fb",
    "title": "BXP Completes Initial Sale of Partial Interest in 343 Madison Avenue Development | BXP Stock News",
    "link": "https://www.stocktitan.net/news/BXP/bxp-completes-initial-sale-of-partial-interest-in-343-madison-avenue-4gov9pgw71g3.html",
@@ -5377,6 +5437,20 @@
    "tag_v": 2
   },
   {
+   "id": "0dd1b9a021df",
+   "title": "IMF chief urges US and wealthy nations to rein in debt to ease global economic pressure - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2ZQM2RRaEctaVBHSUlMQTdYNVZSdjlJUUp3bUdLa0ZySHZFQnB4UmlhWC16d2FqcWJBTjFYY2FKUHdXdDEwVy0yRGh3ck5nb3NQS09fN2NRanhyMDBCRkdGeHVldVotZmJNSERwOEZCMHR1dktLWE9UbUtyS1BudEdfX1hYTzNCOEloUG1BX0JQTW13RGdDYw?oc=5",
+   "summary": "IMF chief urges US and wealthy nations to rein in debt to ease global economic pressure&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-14T19:54:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "603c19e17613",
    "title": "Gold miners fall as bullion prices drop on Fed rate hike bets",
    "link": "https://www.investing.com/news/stock-market-news/gold-miners-fall-as-bullion-prices-drop-on-fed-rate-hike-bets-93CH-4949904",
@@ -5524,20 +5598,6 @@
    ],
    "type": "ma",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4ace7d66abe8",
-   "title": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnpCTWlhR21RaWFXLXJlVTA2Ym5CcVlfZlJqcHZycC11QkN5UEtieS0xTEZBVlZEeHJ1TzM5NmhlNGUtTk5vYWEyVU50ZVIxbDdjVkxfeHFCZnh5UV9ZaTJsbWdrWFJNYlRSNFpjRmtkRWtZdHNOTE1EVkIxX0J3djZ6N0VBNDJ6NGpvRlZ4ZFVDRWIzdVozV0pudllQOFIybE1qdlhWZkJoeWJy?oc=5",
-   "summary": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-14T19:50:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -5743,22 +5803,6 @@
    "domain": "nasdaq.com",
    "published": "2026-10-14T19:43:52+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "89eef13e8f3f",
-   "title": "Corn Weakness Holding on Wednesday",
-   "link": "https://www.nasdaq.com/articles/corn-weakness-holding-wednesday",
-   "summary": "Corn futures are showing 2 to 3 cent losses on Wednesday. The CmdtyView national average Cash Corn price is down 2 ¼ cents at $4.40. Rains fell in parts of the TX panhandle, KS, MO and IL overnight, putting a pause on some harvest. More rain is expected in those...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T19:43:52+00:00",
-   "tickers": [
-    "MO"
-   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -7230,6 +7274,20 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2af2d2da65aa",
+   "title": "Ex-fiance of US Rep. Nancy Mace and 2 others charged with sex crimes she detailed in a House speech - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcWVkLXVNWFdtLVZseS1jUVNRU3RkQ2VXeGpzZjhmbV8zWlJoLXE2dHRiWXMzRUh3QV9tNmJoSWc0UUYzUjROUkNram5mN0QxVHJ2M2EyMUNsYmE3Tk9GOWlDZ0xYNzB4X2lLQ2dHamF0OWh0OFNrWjVMM1BTTmk1SVZGSUQyWUx3Z1pnYzMwdXJlUmVOVERnYmloM05jdGlfek01RFVndFE?oc=5",
+   "summary": "Ex-fiance of US Rep. Nancy Mace and 2 others charged with sex crimes she detailed in a House speech&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-14T18:19:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8939,68 +8997,6 @@
     "DIS"
    ],
    "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cb28c90b00e8",
-   "title": "UZE stock hits 52-week low at 15.7 USD",
-   "link": "https://www.investing.com/news/company-news/uze-stock-hits-52week-low-at-157-usd-93CH-4949805",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-14T16:58:23+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d8d927ce43f0",
-   "title": "Morgan Stanley earnings analysis: questions answered and next catalysts",
-   "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949804",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-14T16:56:53+00:00",
-   "tickers": [
-    "MS"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fe96a95ce015",
-   "title": "State Street earnings analysis: questions answered and next catalysts",
-   "link": "https://www.investing.com/news/stock-market-news/state-street-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949803",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-14T16:56:34+00:00",
-   "tickers": [
-    "STT"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fd61006c4161",
-   "title": "BlackRock earnings analysis: questions answered and next catalysts",
-   "link": "https://www.investing.com/news/stock-market-news/blackrock-earnings-analysis-questions-answered-and-next-catalysts-93CH-4949802",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-14T16:56:23+00:00",
-   "tickers": [
-    "BLK"
-   ],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   }
