@@ -1,8 +1,94 @@
 {
- "generated": "2026-10-14T13:06:38.492770+00:00",
+ "generated": "2026-10-14T13:11:14.672675+00:00",
  "feed_count": 23,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "880e048a6704",
+   "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
+   "link": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
+   "summary": "Food manufacturers warn of impact on consumers ahead of midterm elections",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T13:10:23+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "dbcc52c7e9ab",
+   "title": "Oil Prices Rise as Iran Steps Up Attacks and Houthi-Saudi Fighting Intensifies",
+   "link": "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html",
+   "summary": "In a volatile moment for energy markets, more vessels are being hit while transiting the Strait of Hormuz, while the Houthis and Saudi Arabia traded attacks.",
+   "source": "NYT Business",
+   "category": "macro",
+   "domain": "nytimes.com",
+   "published": "2026-10-14T13:08:40+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "d338596d7346",
+   "title": "LVMH: The Focus Is On China",
+   "link": "https://seekingalpha.com/article/4954083-lvmh-the-focus-is-on-china?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T13:07:37+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "555fc611887d",
+   "title": "B. Braun Peripheral Nerve Block Devices Approved for Separate Medicare Payment Under the NOPAIN Act",
+   "link": "https://www.prnewswire.com/news-releases/b-braun-peripheral-nerve-block-devices-approved-for-separate-medicare-payment-under-the-nopain-act-302907444.html",
+   "summary": "BETHLEHEM, Pa., Oct. 14, 2026 /PRNewswire/ -- B. Braun Medical Inc. today announced that the Stimuplex® Single-Shot Nerve Block Needles have been approved by the Centers for Medicare and Medicaid Services (CMS) as qualifying non-opioid medical devices under the Non-Opioids Prevent...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-14T13:07:00+00:00",
+   "tickers": [
+    "CMS"
+   ],
+   "type": "fda",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "3e91396d4b48",
+   "title": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket",
+   "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+   "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T13:06:23+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ff7907e16b25",
+   "title": "U.S. existing home sales set to slump in Q4 as mortgage rates climb",
+   "link": "https://seekingalpha.com/news/4652893-us-existing-home-sales-set-to-slump-in-q4-as-mortgage-rates-climb?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T13:05:08+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "dc9b6ea8f8cd",
    "title": "MADD Sports Named Finalist in the 6th Annual Anthem Awards for Excellence in Community Engagement",
@@ -46,6 +132,20 @@
    "published": "2026-10-14T13:05:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "78d4bc5fcc6b",
+   "title": "Perpetuals.com to offer tokenized U.S. equities using SEC's new innovation exemption",
+   "link": "https://seekingalpha.com/news/4652865-perpetualscom-to-offer-tokenized-us-equities-using-secs-new-innovation-exemption?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T13:05:00+00:00",
+   "tickers": [],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -96,16 +196,16 @@
    "tag_v": 2
   },
   {
-   "id": "3e91396d4b48",
-   "title": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket",
-   "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-   "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T13:02:35+00:00",
+   "id": "a88ebe1789e0",
+   "title": "Bassett Furniture declares $0.20 dividend",
+   "link": "https://seekingalpha.com/news/4652892-bassett-furniture-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T13:02:55+00:00",
    "tickers": [],
-   "type": "macro",
+   "type": "dividend",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -153,6 +253,24 @@
    ],
    "type": "press",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ca7512b9a3fa",
+   "title": "AEP to spend $4B on Wyoming fuel cell project under 20-year Google PPA",
+   "link": "https://seekingalpha.com/news/4652886-aep-to-spend-4b-on-wyoming-fuel-cell-project-under-20-year-google-ppa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T13:01:55+00:00",
+   "tickers": [
+    "GOOGL",
+    "AEP",
+    "PPA"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1255,6 +1373,20 @@
    "tag_v": 2
   },
   {
+   "id": "5b4485ff8055",
+   "title": "Following the Crowd: Investing and Social Media",
+   "link": "https://www.nasdaq.com/articles/following-crowd-investing-and-social-media",
+   "summary": "Social media has fundamentally changed how some people access financial information and connect with other investors. While these platforms can offer exposure to a broad range of investment ideas and conversations, you should carefully evaluate the information you find there.&nbs",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T13:00:00+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "d2b7ea45feee",
    "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
    "link": "https://www.cnbc.com/investingclub/2026/10/14/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
@@ -1314,6 +1446,34 @@
     "NFLX"
    ],
    "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ed6e98280e80",
+   "title": "Inflation Data May Contribute To Initial Weakness On Wall Street",
+   "link": "https://www.nasdaq.com/articles/inflation-data-may-contribute-initial-weakness-wall-street",
+   "summary": "(RTTNews) - After ending yesterday's choppy trading session modestly lower, stocks may see further downside in early trading on Wednesday. The major index futures are currently pointing to a lower open for the markets, with the S&amp;P 500 futures down by 0.4 percent.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T12:57:11+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9cd14ccb3202",
+   "title": "He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper",
+   "link": "https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1",
+   "summary": "Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia where he is deeply connected",
+   "source": "FT Companies",
+   "category": "stocks",
+   "domain": "ft.com",
+   "published": "2026-10-14T12:56:25+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1606,6 +1766,20 @@
    "tag_v": 2
   },
   {
+   "id": "976ffebada51",
+   "title": "I'd Put $100 Into Each of These 3 Dividend Stocks and Lose the Password",
+   "link": "https://www.nasdaq.com/articles/id-put-100-each-these-3-dividend-stocks-and-lose-password",
+   "summary": "Key PointsMondelez has grown its dividend by roughly 10% annually over five years, funded by globally recognized snack brands with a payout ratio near 50%.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T12:50:00+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "878ab515f827",
    "title": "Rare Earths Americas: The Market Is Pricing In Success Too Early",
    "link": "https://seekingalpha.com/article/4954076-rare-earths-americas-the-market-is-pricing-in-success-too-early?source=feed_all_articles",
@@ -1689,6 +1863,23 @@
    "domain": "investing.com",
    "published": "2026-10-14T12:47:12+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "25e1b4ad29a1",
+   "title": "VCIT vs BND: Which Vanguard Bond ETF Is the Better Buy in October?",
+   "link": "https://www.nasdaq.com/articles/vcit-vs-bnd-which-vanguard-bond-etf-better-buy-october",
+   "summary": "Key PointsVanguard Intermediate-Term Corporate Bond ETF offers a higher dividend yield than Vanguard Total Bond Market ETF.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T12:47:01+00:00",
+   "tickers": [
+    "BND",
+    "VCIT"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -1811,6 +2002,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "4b90a92c8ead",
+   "title": "September CPI: Inflation Shrugs Off Fed's Rate Increase",
+   "link": "https://seekingalpha.com/article/4954111-september-cpi-inflation-shrugs-off-feds-rate-increase?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T12:45:01+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2186,6 +2391,20 @@
    "tag_v": 2
   },
   {
+   "id": "20c820618599",
+   "title": "U.S. Consumer Prices Increase In Line With Estimates In September",
+   "link": "https://www.nasdaq.com/articles/us-consumer-prices-increase-line-estimates-september",
+   "summary": "(RTTNews) - Partly reflecting a spike in energy prices, the Labor Department released a closely watched report on Wednesday showing consumer prices in the U.S. increased in line with economist estimates in the month of September.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T12:38:49+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "f2594322f9c1",
    "title": "BHP reaches preliminary deal with Escondida mine supervisors union, likely averting strike",
    "link": "https://seekingalpha.com/news/4652868-bhps-escondida-workers-reach-preliminary-deal-with-supervisors-union-likely-averting-strike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2270,6 +2489,23 @@
    "tag_v": 2
   },
   {
+   "id": "17d3b99ea948",
+   "title": "TELUS Digital, Parloa Partner To Expand AI-Powered CX Solutions",
+   "link": "https://www.nasdaq.com/articles/telus-digital-parloa-partner-expand-ai-powered-cx-solutions",
+   "summary": "(RTTNews) - TELUS Digital (TU,T.TO), a Canadian technology service provider, on Wednesday announced that it has partnered with German AI company Parloa to help businesses deploy artificial intelligence agents for customer service.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T12:35:24+00:00",
+   "tickers": [
+    "TU",
+    "CX"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "10700e3e28e5",
    "title": "Jefferies upgrades Texas Roadhouse to Buy, citing overdone pullback; shares rise",
    "link": "https://www.investing.com/news/stock-market-news/jefferies-upgrades-texas-roadhouse-to-buy-citing-overdone-pullback-shares-rise-4949219",
@@ -2311,6 +2547,20 @@
    "published": "2026-10-14T12:35:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0de1f1c3bc69",
+   "title": "33-Year History Shows How to Profit Even When a Market Crash Hits",
+   "link": "https://www.nasdaq.com/articles/33-year-history-shows-how-profit-even-when-market-crash-hits",
+   "summary": "Key PointsSPDR S&amp;P 500 ETF was the first exchange-traded fund ever created.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T12:35:00+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3793,6 +4043,23 @@
    "tag_v": 2
   },
   {
+   "id": "e6eb78755e76",
+   "title": "2 Beaten-Down Healthcare Stocks That Could Soar in the Fourth Quarter",
+   "link": "https://www.nasdaq.com/articles/2-beaten-down-healthcare-stocks-could-soar-fourth-quarter",
+   "summary": "Key PointsBoth Danaher and GE Healthcare are trading at attractive valuations after recent declines.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T12:20:00+00:00",
+   "tickers": [
+    "DHR",
+    "GE"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "c246bcbd6085",
    "title": "BofA profits drop 17% after $1.2bn money laundering fine",
    "link": "https://www.ft.com/content/a82b4275-6519-4142-b1df-e74c66ead877?syn-25a6b1a6=1",
@@ -4152,20 +4419,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dbcc52c7e9ab",
-   "title": "Oil Prices Rise as Iran Steps Up Attacks and Fighting Intensifies",
-   "link": "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html",
-   "summary": "In a volatile moment for energy markets, more vessels are being hit while transiting the Strait of Hormuz, while the Houthis and Saudi Arabia traded attacks.",
-   "source": "NYT Business",
-   "category": "macro",
-   "domain": "nytimes.com",
-   "published": "2026-10-14T12:08:58+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8689,269 +8942,18 @@
    "type": "upgrade",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "4b310c0e5e56",
-   "title": "Stock futures tick higher as traders await consumer inflation report: Live updates",
-   "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
-   "summary": "A slide in chip stocks and mixed bank results on Tuesday weighed on the major averages.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T10:53:07+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "070ccf300d25",
-   "title": "Deutsche Bank Initiates Coverage of Wintrust Financial Corporation - Preferred Stock at Buy",
-   "link": "https://www.nasdaq.com/articles/deutsche-bank-initiates-coverage-wintrust-financial-corporation-preferred-stock-buy",
-   "summary": "Fintel reports that on October 13, 2026, Deutsche Bank initiated coverage of Wintrust Financial Corporation - Preferred Stock (NASDAQGS:WTFCN) with a Buy recommendation. On the day of this coverage initiation, October 13, 2026, the security closed at $25.62, following a pre-actio",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T10:52:59+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "25123f3b623d",
-   "title": "RLJ Lodging Trust Reaches Analyst Target Price",
-   "link": "https://www.nasdaq.com/articles/rlj-lodging-trust-reaches-analyst-target-price-0",
-   "summary": "In recent trading, shares of RLJ Lodging Trust (Symbol: RLJ) have crossed above the average analyst 12-month target price of $11.30, changing hands for $11.60/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on val",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T10:52:58+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ec5823b84a17",
-   "title": "American Coastal Insurance Reaches Analyst Target Price",
-   "link": "https://www.nasdaq.com/articles/american-coastal-insurance-reaches-analyst-target-price",
-   "summary": "In recent trading, shares of American Coastal Insurance Corp (Symbol: ACIC) have crossed above the average analyst 12-month target price of $10.50, changing hands for $10.64/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: d",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T10:52:56+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fe24ac13f9aa",
-   "title": "QuidelOrtho Reaches Analyst Target Price",
-   "link": "https://www.nasdaq.com/articles/quidelortho-reaches-analyst-target-price",
-   "summary": "In recent trading, shares of QuidelOrtho Corp (Symbol: QDEL) have crossed above the average analyst 12-month target price of $13.50, changing hands for $14.10/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on val",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T10:52:50+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6410f1713ee8",
-   "title": "Fastenal GAAP EPS of $0.35 beats by $0.01, revenue of $2.46B beats by $20M",
-   "link": "https://seekingalpha.com/news/4652831-fastenal-gaap-eps-of-035-beats-by-001-revenue-of-246b-beats-by-20m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T10:52:38+00:00",
-   "tickers": [
-    "FAST"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "b70bbd7abf55",
-   "title": "Longleaf Partners Fund Q3 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4954034-longleaf-partners-fund-q3-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T10:52:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f2088456d967",
-   "title": "Amkor Technology: Improving Fundamentals At A Discounted Valuation",
-   "link": "https://seekingalpha.com/article/4953993-amkor-technology-improving-fundamentals-at-a-discounted-valuation?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T10:51:17+00:00",
-   "tickers": [
-    "AMKR"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c93184eeef47",
-   "title": "Timken to Announce Third-Quarter 2026 Financial Results on November 4",
-   "link": "https://www.prnewswire.com/news-releases/timken-to-announce-third-quarter-2026-financial-results-on-november-4-302908423.html",
-   "summary": "NORTH CANTON, Ohio, Oct. 14, 2026 /PRNewswire/ -- The Timken Company (NYSE: TKR; www.timken.com), a leader in advanced motion technology, will release its 2026 third-quarter financial results on Wednesday, November 4, prior to the opening of the New York Stock Exchange. The company will...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-14T10:51:00+00:00",
-   "tickers": [
-    "TKR"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "76c5e780bfed",
-   "title": "Timken to Announce Third-Quarter 2026 Financial Results on November 4 | TKR Stock News",
-   "link": "https://www.stocktitan.net/news/TKR/timken-to-announce-third-quarter-2026-financial-results-on-november-6trbjha85pvf.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T10:51:00+00:00",
-   "tickers": [
-    "TKR"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f2b5e0ea4c4d",
-   "title": "Not Nvidia. Not Broadcom. This Storage Stock Could Be 2027's Hidden AI Winner.",
-   "link": "https://www.nasdaq.com/articles/not-nvidia-not-broadcom-storage-stock-could-be-2027s-hidden-ai-winner",
-   "summary": "Key PointsSeagate's fiscal 2026 revenue rose 34% to $12.2 billion as AI data center demand boosted sales of its high-capacity hard drives.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T10:50:00+00:00",
-   "tickers": [
-    "AVGO"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6fff89891d71",
-   "title": "Fastenal Company Reports 2026 Third Quarter Earnings | FAST Stock News",
-   "link": "https://www.stocktitan.net/news/FAST/fastenal-company-reports-2026-third-quarter-qqf8b5f32x3o.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T10:50:00+00:00",
-   "tickers": [
-    "FAST"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f9b25d3bfb13",
-   "title": "Pentair to Release Third Quarter 2026 Earnings and Host Investor Conference Call on October 27 | PNR Stock News",
-   "link": "https://www.stocktitan.net/news/PNR/pentair-to-release-third-quarter-2026-earnings-and-host-investor-zzxfn92hel9p.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T10:50:00+00:00",
-   "tickers": [
-    "PNR"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9e7592c88b7e",
-   "title": "Eton Pharmaceuticals and Aquestive Therapeutics Announce Exclusive U.S. Licensing Agreement for LIBERVANT® (diazepam) Buccal Film | ETON Stock News",
-   "link": "https://www.stocktitan.net/news/ETON/eton-pharmaceuticals-and-aquestive-therapeutics-announce-exclusive-u-1bpjxas71sd1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T10:50:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "88f14b2e572f",
-   "title": "FIGS Inc.: Even After 150% Share Price Growth, The Stock Can Further Re-Rate",
-   "link": "https://seekingalpha.com/article/4954033-figs-even-after-150-percent-share-price-growth-the-stock-can-further-re-rate?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T10:49:55+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b53d2627dbc9",
-   "title": "Bank of America Non-GAAP EPS of $1.08 misses by $0.02, revenue of $30B misses by $540M",
-   "link": "https://seekingalpha.com/news/4652830-bank-of-america-non-gaap-eps-of-108-misses-by-002-revenue-of-30b-misses-by-540m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T10:48:32+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "a8055e258441",
-   "title": "Why is Technip Energies stock climbing today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-technip-energies-stock-climbing-today-93CH-4948733",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-14T10:47:45+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
+  "VCIT": "Vanguard Intermediate-Term Corporate Bond ETF",
   "IRE": "Defiance Daily Target 2X Long IREN ETF",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "EWA": "iShares MSCI Australia Index Fund",
   "PNC": "The PNC Financial Services Group",
   "IAUM": "iShares Gold Trust Micro Shares",
   "IBM": "International Business Machines",
+  "PPA": "Invesco Aerospace & Defense ETF",
+  "BND": "Vanguard Total Bond Market ETF",
   "EWC": "iShares MSCI Canada Index Fund",
   "HIG": "The Hartford Insurance Group",
   "QQQ": "Invesco QQQ Trust, Series 1",
@@ -9002,7 +9004,6 @@
   "RF": "Regions Financial",
   "RIVN": "Rivian Automotive",
   "UBER": "Uber Technologies",
-  "AMKR": "Amkor Technology",
   "AXP": "American Express",
   "BKNG": "Booking Holdings",
   "COST": "Costco Wholesale",
@@ -9014,6 +9015,7 @@
   "RKT": "Rocket Companies",
   "TTMI": "TTM Technologies",
   "UMAC": "Unusual Machines",
+  "GE": "General Electric",
   "ACHR": "Archer Aviation",
   "BAC": "Bank of America",
   "COIN": "Coinbase Global",
@@ -9065,9 +9067,9 @@
   "BA": "The Boeing",
   "BROS": "Dutch Bros",
   "CAVA": "CAVA Group",
+  "CMS": "CMS Energy",
   "CVS": "CVS Health",
   "FICO": "Fair Isaac",
-  "TKR": "The Timken",
   "TRU": "TransUnion",
   "MSFT": "Office 365",
   "ACN": "Accenture",
@@ -9079,7 +9081,6 @@
   "OS": "OneStream",
   "TE": "T1 Energy",
   "WELL": "Welltower",
-  "AVGO": "Broadcom",
   "BCS": "Barclays",
   "DASH": "DoorDash",
   "DUOL": "Duolingo",
@@ -9093,7 +9094,6 @@
   "EMBJ": "Embraer",
   "GDDY": "GoDaddy",
   "GLW": "Corning",
-  "PNR": "Pentair",
   "SYK": "Stryker",
   "W": "Wayfair",
   "WDAY": "Workday",
@@ -9110,9 +9110,11 @@
   "ORCL": "Oracle",
   "RBRK": "Rubrik",
   "ANTM": "Anthem",
+  "CX": "CEMEX",
   "FIG": "Figma",
   "INTC": "Intel",
   "NUE": "Nucor",
+  "TU": "TELUS",
   "IONQ": "IonQ",
   "NKE": "NIKE",
   "OKLO": "Oklo",
