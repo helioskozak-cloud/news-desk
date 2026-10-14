@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-14T03:11:32.654492+00:00",
+ "generated": "2026-10-14T03:16:13.987373+00:00",
  "feed_count": 23,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2dc96d2b1e35",
+   "title": "China's producer prices rise at fastest pace since June 2022, beating expectations",
+   "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+   "summary": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T03:14:48+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "f884c50bda2e",
+   "title": "Sugar Prices Climb as Brazil Rains Disrupt Cane Crushing",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-climb-brazil-rains-disrupt-cane-crushing",
+   "summary": "March NY world sugar #11 (SBH27 ) is up +0.21 (+1.01%) today, and December London ICE white sugar #5 (SWZ26 ) is up +1.20 (+0.21%). Sugar prices are moving higher today and are just below last week’s significant highs. Last Wednesday, NY sugar climbed to a 19-month nearest-futures high and...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T03:08:39+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "1d82d1fe12e7",
    "title": "ASTS Investors Have Opportunity to Lead AST SpaceMobile, Inc. Securities Fraud Lawsuit with SBS Law",
@@ -63,6 +93,23 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e63b354015e3",
+   "title": "Stocks Finish Lower Ahead of Wednesday’s CPI Report",
+   "link": "https://www.nasdaq.com/articles/stocks-finish-lower-ahead-wednesdays-cpi-report",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -0.02% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.35%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.31%. December E-mini S&amp;P futures (ESZ26 ) fell -0.02%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T02:57:31+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -197,20 +244,6 @@
    ],
    "type": "legal",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "2dc96d2b1e35",
-   "title": "Producer prices in China rise at fastest pace since June 2022, beating expectations",
-   "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
-   "summary": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T02:43:01+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1864,23 +1897,6 @@
    "tag_v": 2
   },
   {
-   "id": "e63b354015e3",
-   "title": "Stocks Finish Lower Ahead of Wednesday’s CPI Report",
-   "link": "https://www.nasdaq.com/articles/stocks-finish-lower-ahead-wednesdays-cpi-report",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -0.02% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.35%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.31%. December E-mini S&amp;P futures (ESZ26 ) fell -0.02%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T00:04:32+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "d80e3fbbbd7b",
    "title": "Singapore Stock Market May Spin Its Wheels On Wednesday",
    "link": "https://www.nasdaq.com/articles/singapore-stock-market-may-spin-its-wheels-wednesday",
@@ -2547,22 +2563,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f884c50bda2e",
-   "title": "Sugar Prices Climb as Brazil Rains Disrupt Cane Crushing",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-climb-brazil-rains-disrupt-cane-crushing",
-   "summary": "March NY world sugar #11 (SBH27 ) is up +0.21 (+1.01%) today, and December London ICE white sugar #5 (SWZ26 ) is up +1.20 (+0.21%). Sugar prices are moving higher today and are just below last week’s significant highs. Last Wednesday, NY sugar climbed to a 19-month nearest-futures high and...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-13T23:19:35+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
