@@ -1,8 +1,40 @@
 {
- "generated": "2026-10-14T05:01:29.359090+00:00",
+ "generated": "2026-10-14T05:06:34.002396+00:00",
  "feed_count": 23,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8afde1f96a63",
+   "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
+   "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
+   "summary": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T05:04:05+00:00",
+   "tickers": [
+    "MS"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d5bca7241c93",
+   "title": "Eastman Chemical: The Market Is Overreacting To Suspected Downside",
+   "link": "https://seekingalpha.com/article/4953964-eastman-chemical-stock-market-overreacting-suspected-downside?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T05:03:04+00:00",
+   "tickers": [
+    "EMN"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "310a66ad569c",
    "title": "CoinShares Launches OnChain Asset Management Business Through Strategic Partnership with Safe | CSHR Stock News",
@@ -30,6 +62,56 @@
     "ASML"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cfeb3f4e89c1",
+   "title": "Introducing Chainguard Libraries for Go and .NET: Secure Endpoints to Protect Organizations from Supply Chain Attacks",
+   "link": "https://www.prnewswire.com/news-releases/introducing-chainguard-libraries-for-go-and-net-secure-endpoints-to-protect-organizations-from-supply-chain-attacks-302907708.html",
+   "summary": "Chainguard Libraries now includes CVE remediation for JavaScript and Go; customers also receive protections from frontier AI-discovered zero-days once they are made public SEATTLE, Oct. 14, 2026 /PRNewswire/ -- Chainguard, the trusted source for open source, today announced Chainguard...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-14T05:00:00+00:00",
+   "tickers": [
+    "NET",
+    "CVE"
+   ],
+   "type": "press",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "701e01c4ba18",
+   "title": "Introducing Chainguard Workspaces: Hardened, Hardware-Isolated Environments for Faster Agentic Development",
+   "link": "https://www.prnewswire.com/news-releases/introducing-chainguard-workspaces-hardened-hardware-isolated-environments-for-faster-agentic-development-302907716.html",
+   "summary": "Hardware-isolated, credential-free microVMs built from zero-CVE Chainguard OS Packages give security and platform teams a safe way to run fleets of agents at full speed SEATTLE, Oct. 14, 2026 /PRNewswire/ -- Chainguard, the trusted source for open source, today announced Chainguard...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-14T05:00:00+00:00",
+   "tickers": [
+    "CVE",
+    "OS"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "294a5f971841",
+   "title": "Galderma Signs Agreement to Acquire ZO Skin Health, Strengthening Its Physician-Dispensed Skincare Offering",
+   "link": "http://www.businesswire.com/news/home/20261013945338/en/Galderma-Signs-Agreement-to-Acquire-ZO-Skin-Health-Strengthening-Its-Physician-Dispensed-Skincare-Offering/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+   "summary": "ZUG, Switzerland & IRVINE, Calif.--(BUSINESS WIRE)--Galderma (SIX: GALD) today announced that it has signed an agreement to acquire ZO® Skin Health, a leading physician-dispensed skincare brand built on clinical science and protocol-based daily care, from its shareholders, including funds managed by Blackstone Tactical Opportunities (“Blackstone”) and the Obagi family. Founded by dermatologist Dr. Zein Obagi and headquartered in Irvine, California, ZO Skin Health has been a reference name in cl",
+   "source": "BusinessWire",
+   "category": "press",
+   "domain": "businesswire.com",
+   "published": "2026-10-14T05:00:00+00:00",
+   "tickers": [
+    "BX"
+   ],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -103,22 +185,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "8afde1f96a63",
-   "title": "Judge indefinitely extends block on Trump White House ban of three media outlets",
-   "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
-   "summary": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T04:47:04+00:00",
-   "tickers": [
-    "MS"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8887,64 +8953,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "5747976bd7e4",
-   "title": "Artisan Partners Asset Management Inc. to Announce 3Q26 Results on October 27, 2026 | APAM Stock News",
-   "link": "https://www.stocktitan.net/news/APAM/artisan-partners-asset-management-inc-to-announce-3q26-results-on-nd9jdw4c0x6i.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T20:16:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8dd51ce6b1d9",
-   "title": "Cyber attack on French supermarket fridges raises alarm over food security",
-   "link": "https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1",
-   "summary": "Some stores reported fridge temperatures as high as 80C, melting equipment and destroying food",
-   "source": "FT Companies",
-   "category": "stocks",
-   "domain": "ft.com",
-   "published": "2026-10-13T20:15:57+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "842594dc266b",
-   "title": "Porch Group to acquire Allied Trust insurance business, adding $200M in premiums",
-   "link": "https://seekingalpha.com/news/4652673-porch-group-to-acquire-allied-trust-insurance-business-adding-200m-in-premiums?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-13T20:15:13+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "53fa2ec725e1",
-   "title": "Galaxy Schedules Webcast and Investor Call to Review Third Quarter 2026 Results on October 27, 2026 | GLXY Stock News",
-   "link": "https://www.stocktitan.net/news/GLXY/galaxy-schedules-webcast-and-investor-call-to-review-third-quarter-kcfhbn4f5ehf.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-13T20:15:00+00:00",
-   "tickers": [
-    "GLXY"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8995,6 +9003,7 @@
   "RF": "Regions Financial",
   "TXN": "Texas Instruments",
   "BKNG": "Booking Holdings",
+  "EMN": "Eastman Chemical",
   "EXK": "Endeavour Silver",
   "JPM": "JPMorgan Chase &",
   "NVO": "Novo Nordisk A/S",
@@ -9017,11 +9026,12 @@
   "ADI": "Analog Devices",
   "AMT": "American Tower",
   "CARR": "Carrier Global",
+  "CVE": "Cenovus Energy",
   "DPZ": "Domino's Pizza",
-  "GLXY": "Galaxy Digital",
   "HD": "The Home Depot",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
+  "NET": "Cloudflare Inc",
   "CIFR": "Cipher Mining",
   "CSCO": "Cisco Systems",
   "FTAI": "FTAI Aviation",
@@ -9062,6 +9072,7 @@
   "C": "Citigroup",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
+  "OS": "OneStream",
   "SYNA": "Synaptics",
   "WELL": "Welltower",
   "APP": "AppLovin",
