@@ -78,3 +78,29 @@ def test_only_movers_our_feeds_missed_are_searched_and_misses_say_null(tmp_path,
              "losers": [], "movers": []}
     fetch_movers.add_web_headlines(fresh, payload, NOW + timedelta(minutes=30), find=find)
     assert asked == ["ZZZ"] and fresh["gainers"][0]["web"]["title"] == "Liquidia moves"
+
+
+# ── companies only in the gainers and losers (2026-10-14) ───────────────────
+
+def test_funds_drop_out_by_security_type_even_with_no_name():
+    asked = []
+
+    def lookup(t):
+        asked.append(t)
+        return {"FNGD": "ETF", "VXX": "ETF", "HALO": "EQUITY", "LQDA": "EQUITY"}.get(t)
+
+    types = {}
+    pool = [("FNGD", {}), ("LQDA", {}), ("VXX", {}), ("HALO", {})]
+    got = [t for t, _ in fetch_movers.top_companies(pool, {"LQDA": "Liquidia"}, types, lookup)]
+    assert got == ["LQDA", "HALO"]
+    assert types == {"FNGD": "ETF", "VXX": "ETF", "HALO": "EQUITY", "LQDA": "EQUITY"}
+    asked.clear()
+    fetch_movers.top_companies(pool, {}, types, lookup)
+    assert asked == []                                       # cached: Yahoo asked once per ticker
+
+
+def test_when_yahoo_cannot_say_the_name_decides():
+    none = lambda t: None
+    assert fetch_movers.is_company("ACME", "Acme Corp", {}, none)
+    assert not fetch_movers.is_company("XYZU", "Direxion Daily Bull 3X Shares", {}, none)
+    assert not fetch_movers.is_company("NONAME", "", {}, none)

@@ -44,6 +44,11 @@ KEEP = 40
 # articles"): the day's biggest gainers and losers among operating companies.
 TOP_N = 15
 TOP_MIN_PRICE = 5.0
+# Yahoo's own security type decides what is a company (2026-10-14): FNGD and VXX
+# have no name in universe_names.csv, so the name pattern below let them into
+# the gainers. quote_types.json caches it per ticker; the name pattern is only
+# the fallback when Yahoo cannot be asked.
+QUOTE_TYPES = ROOT / "docs" / "data" / "quote_types.json"
 FUND = re.compile(r"\b(?:ETF|ETN|Fund|Trust|Index|Shares|iShares|SPDR|Portfolio|ProShares|Direxion|Defiance|Daily|Ultra|Leveraged|Inverse|Bull|Bear|[23]X)\b", re.I)  # funds and leveraged/inverse products
 
 
@@ -68,6 +73,46 @@ def fresh_enough() -> bool:
         return datetime.now(timezone.utc) - made < timedelta(minutes=MIN_AGE_MIN)
     except Exception:
         return False
+
+
+def load_types() -> dict[str, str]:
+    try:
+        return json.loads(QUOTE_TYPES.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+
+def yahoo_type(ticker: str) -> str | None:
+    try:
+        import yfinance as yf
+        return yf.Ticker(ticker).info.get("quoteType") or None
+    except Exception as e:
+        print(f"fetch_movers: no security type for {ticker}: {e}", flush=True)
+        return None
+
+
+def is_company(ticker: str, name: str, types: dict, lookup=yahoo_type) -> bool:
+    """EQUITY in Yahoo's security type. Asked once per ticker, then cached in
+    `types`; when Yahoo cannot say, a named non-fund is a company and a
+    nameless ticker is not."""
+    if ticker not in types:
+        q = lookup(ticker)
+        if q:
+            types[ticker] = q
+    if ticker in types:
+        return types[ticker] == "EQUITY"
+    return bool(name) and not FUND.search(name)
+
+
+def top_companies(pool: list, nm: dict, types: dict, lookup=yahoo_type) -> list:
+    """The first TOP_N companies, in the pool's order."""
+    out = []
+    for t, q in pool:
+        if len(out) == TOP_N:
+            break
+        if is_company(t, nm.get(t, ""), types, lookup):
+            out.append((t, q))
+    return out
 
 
 def tagged_recently(now: datetime) -> set[str]:
@@ -140,15 +185,16 @@ def main(argv=None) -> int:
     payload = {"generated": datetime.now(timezone.utc).isoformat(), "as_of": as_of,
                "universe": len(tickers), "priced": len(sized), "threshold": THRESHOLD, "min_abs_pct": MIN_ABS_PCT,
                "movers": movers[:KEEP]}
-    # Gainers / losers: same session, priced, not a fund (leveraged ETFs would
-    # crowd out companies), at least $5.
-    pool = [(t, q) for t, q in sized if q["as_of"] == as_of and q["price"] >= TOP_MIN_PRICE
-            and not FUND.search(nm.get(t, ""))]
+    # Gainers / losers: same session, priced, companies only (leveraged ETFs
+    # would crowd them out), at least $5.
+    pool = [(t, q) for t, q in sized if q["as_of"] == as_of and q["price"] >= TOP_MIN_PRICE]
     row = lambda t, q: {"ticker": t, "name": nm.get(t, ""), "price": q["price"], "change_pct": q["change_pct"],
                         "vol_20d": q.get("vol_20d"), "sigma": q.get("sigma")}
     pool.sort(key=lambda tq: tq[1]["change_pct"])
-    payload["losers"] = [row(t, q) for t, q in pool[:TOP_N] if q["change_pct"] < 0]
-    payload["gainers"] = [row(t, q) for t, q in reversed(pool[-TOP_N:]) if q["change_pct"] > 0]
+    types = load_types()
+    payload["losers"] = [row(t, q) for t, q in top_companies([tq for tq in pool if tq[1]["change_pct"] < 0], nm, types)]
+    payload["gainers"] = [row(t, q) for t, q in top_companies([tq for tq in reversed(pool) if tq[1]["change_pct"] > 0], nm, types)]
+    QUOTE_TYPES.write_text(json.dumps(types, sort_keys=True), encoding="utf-8")
     try:
         previous = json.loads(OUT.read_text(encoding="utf-8"))
     except Exception:
