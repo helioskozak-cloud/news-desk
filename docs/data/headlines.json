@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T11:26:30.522090+00:00",
+ "generated": "2026-10-14T11:31:07.286419+00:00",
  "feed_count": 23,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,11 +11,73 @@
    "source": "CNBC Earnings",
    "category": "earnings",
    "domain": "cnbc.com",
-   "published": "2026-10-14T11:24:43+00:00",
+   "published": "2026-10-14T11:29:57+00:00",
    "tickers": [
     "GS"
    ],
    "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "97b149ae216d",
+   "title": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine; shares decline",
+   "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+   "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T11:28:19+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3c75ff5a2f51",
+   "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+   "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+   "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
+   "source": "MarketWatch",
+   "category": "markets",
+   "domain": "marketwatch.com",
+   "published": "2026-10-14T11:28:00+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "cc615483e570",
+   "title": "Edible Garden Scores UNFI Distribution Win, Expanding Fresh Herb Reach to More Than 1,500 Mid-Atlantic Stores | EDBL Stock News",
+   "link": "https://www.stocktitan.net/news/EDBL/edible-garden-scores-unfi-distribution-win-expanding-fresh-herb-nr2jbqyluyfa.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-14T11:26:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "db448044bca2",
+   "title": "Sterling Infrastructure: Down 40% Since My Bearish Call - Now Close To Fair Value (Rating Upgrade)",
+   "link": "https://seekingalpha.com/article/4954044-sterling-stock-down-40-percent-since-my-bearish-call-now-close-to-fair-value-rating-upgrade?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-14T11:25:01+00:00",
+   "tickers": [
+    "STRL"
+   ],
+   "type": "upgrade",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -51,7 +113,7 @@
   },
   {
    "id": "76ad380d3f14",
-   "title": "Bank of America plunges as Q3 loss widens on Treasury Department's $1.2B fine",
+   "title": "Bank of America plunges as Q3 earnings hit by Treasury Department's $1.2B fine",
    "link": "https://seekingalpha.com/news/4652829-bank-of-america-plunges-as-q3-loss-widens-on-treasury-departments-12b-fine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
    "summary": "",
    "source": "Seeking Alpha M&A",
@@ -139,22 +201,6 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "97b149ae216d",
-   "title": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine",
-   "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-   "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T11:16:07+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8858,50 +8904,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "f7a146d8b1bc",
-   "title": "UNPACK ’27: EXPEDIA AND HOTELS.COM REVEAL THE TRAVEL TRENDS INSPIRING THE WORLD IN 2027 | EXPE Stock News",
-   "link": "https://www.stocktitan.net/news/EXPE/unpack-27-expedia-and-hotels-com-reveal-the-travel-trends-inspiring-ohpm90cthcgp.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T06:00:00+00:00",
-   "tickers": [
-    "EXPE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1ffb7341580f",
-   "title": "Director/PDMR Shareholding | EDVMF Stock News",
-   "link": "https://www.stocktitan.net/news/EDVMF/director-pdmr-wvec742vks19.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T06:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "98a6a8815f5c",
-   "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - October 14 | IHG Stock News",
-   "link": "https://www.stocktitan.net/news/IHG/inter-continental-hotels-group-plc-announces-transaction-in-own-ibhngstmtw0k.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T06:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8923,6 +8925,7 @@
   "APO": "Apollo Global Management",
   "ARR": "ARMOUR Residential REIT",
   "GS": "The Goldman Sachs Group",
+  "STRL": "Sterling Infrastructure",
   "GDX": "VanEck Gold Miners ETF",
   "LPLA": "LPL Financial Holdings",
   "PFGC": "Performance Food Group",
@@ -8973,7 +8976,6 @@
   "IQV": "IQVIA Holdings",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
-  "EXPE": "Expedia Group",
   "HSBC": "HSBC Holdings",
   "LLY": "Eli Lilly and",
   "WFC": "Wells Fargo &",
