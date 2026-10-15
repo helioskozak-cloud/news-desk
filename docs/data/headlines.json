@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T14:21:35.900507+00:00",
+ "generated": "2026-10-15T14:26:29.667392+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,27 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-15T14:19:58+00:00",
+   "published": "2026-10-15T14:24:26+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e2ebea63bfe5",
+   "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+   "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+   "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T14:23:12+00:00",
+   "tickers": [
+    "AMD",
+    "MU"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -46,20 +63,33 @@
    "tag_v": 2
   },
   {
-   "id": "e2ebea63bfe5",
-   "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-   "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-   "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
-   "source": "CNBC Top",
+   "id": "2a300c589821",
+   "title": "Evercore stock hits 52-week low at 250.59 USD",
+   "link": "https://www.investing.com/news/company-news/evercore-stock-hits-52week-low-at-25059-usd-93CH-4952153",
+   "summary": "",
+   "source": "Investing.com",
    "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T14:18:06+00:00",
+   "domain": "investing.com",
+   "published": "2026-10-15T14:17:49+00:00",
    "tickers": [
-    "AMD",
-    "MU"
+    "EVR"
    ],
    "type": "markets",
-   "sentiment": "negative",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ba10ca4047ae",
+   "title": "Why is SK hynix ADR stock sliding today?",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-adr-stock-sliding-today-93CH-4952152",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T14:17:23+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -202,6 +232,154 @@
    ],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "fe5b3c9cd4bb",
+   "title": "Dollar Index bearish reversal below 102.74: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/dollar-index-consolidates-near-double-top-at-102305-live-levels-93CH-4944781",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T14:16:54+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b13b6c4c4df3",
+   "title": "Mkango receives notice for exercise of 300,000 warrants",
+   "link": "https://www.investing.com/news/company-news/mkango-receives-notice-for-exercise-of-300000-warrants-93CH-4952151",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-15T14:16:44+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b8496033edb0",
+   "title": "Microsoft tests resistance at $535 after sharp rally: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/microsoft-nears-overbought-rsi-below-542-resistance-live-levels-93CH-4944772",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T14:16:41+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "b255b731b922",
+   "title": "S&P 500 oversold at 7,744 in bearish trend: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/sp-500-stalls-in-chop-zone-below-7897-live-levels-93CH-4944776",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T14:16:26+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "19b16dc2bf42",
+   "title": "Dow Jones stuck in tight range below SMA200: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/dow-jones-tests-52200-resistance-amid-bull-trap-risk-live-levels-93CH-4944779",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T14:16:15+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "76c4b843ed2a",
+   "title": "Nasdaq 100 in freefall from ATH, RSI at 20.6: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-breaks-cloud-support-at-30935-live-levels-93CH-4944778",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T14:16:14+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c09aabaf866d",
+   "title": "DAX trapped in high-volatility squeeze at 25,367: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/dax-at-25359-faces-bull-trap-risk-near-2548125589-live-93CH-4943422",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T14:16:09+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6a3000c70744",
+   "title": "Alphabet C coils in $344-$349 range before breakout: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/alphabet-c-squeezed-at-349-between-key-levels-live-levels-93CH-4944780",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T14:16:09+00:00",
+   "tickers": [
+    "GOOG"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "129052d04c1f",
+   "title": "Tesla breaks below Ichimoku cloud at $356: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/tesla-rangebound-at-380-with-weak-trend-live-levels-93CH-4944787",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T14:16:08+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "20aeed8014a7",
+   "title": "Micron oversold at RSI 22 amid strong downtrend: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/micron-tests-980-support-as-bears-dominate-live-levels-93CH-4944775",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T14:16:07+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -2606,20 +2784,6 @@
    "tickers": [
     "PARA"
    ],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d5b85a39611a",
-   "title": "Artificial intelligence - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
-   "summary": "Artificial intelligence&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-15T13:19:06+00:00",
-   "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
@@ -6100,6 +6264,20 @@
    "tag_v": 2
   },
   {
+   "id": "04a320abe27b",
+   "title": "Ex-leader of Northern Ireland’s largest unionist party sentenced to 15 years for sex abuse - AP News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ2hKUnUtenpiZFJoRmZnc2h0ZENJVTV1YjJxX3ZOS3dEV1VYMElLdzFWOWFURUlJS2RjOFNrMEpwTzJRTkZNZ2Vid0tfaGxseW9jeHFJY1V5V1VubUpJZmo2MXFRMWVzRm9wUG9MbEM1MTdIM2d1b2pweDA1RnF4U3pyLXF0S0xvRU1VeDI1ZHYtd2dvQ3BGYjdQZW1SdGY1T01EXzY0UHBCejlIQ0NYLWpaQy1RQQ?oc=5",
+   "summary": "Ex-leader of Northern Ireland’s largest unionist party sentenced to 15 years for sex abuse&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-15T12:20:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "8832c86e0e48",
    "title": "Wall Street Might Open Broadly Lower",
    "link": "https://www.nasdaq.com/articles/wall-street-might-open-broadly-lower-1",
@@ -8783,191 +8961,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "f37da152301e",
-   "title": "Kimberly-Clark shares rise following preliminary Q3 earnings beat",
-   "link": "https://www.investing.com/news/stock-market-news/kimberlyclark-shares-rise-following-preliminary-q3-earnings-beat-4951321",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-15T11:19:22+00:00",
-   "tickers": [
-    "KMB"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "f1f1fa988ea1",
-   "title": "First Horizon Corp. Turns To Loss In Q3",
-   "link": "https://www.nasdaq.com/articles/first-horizon-corp-turns-loss-q3",
-   "summary": "(RTTNews) - Thursday, First Horizon Corp. (FHN) announced its financial results for the third quarter, reporting a net loss of $94 million, or $0.20 per share, compared with a net income of $254 million, or $0.50 per share, last year.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T11:17:57+00:00",
-   "tickers": [
-    "FHN"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "a9e591986ef6",
-   "title": "Baird Upgrades Zions Bancorporation, National Association to Outperform from Neutral",
-   "link": "https://www.nasdaq.com/articles/baird-upgrades-zions-bancorporation-national-association-outperform-neutral",
-   "summary": "Fintel reports that on October 15, 2026, Baird upgraded their outlook for Zions Bancorporation, National Association (NASDAQGS:ZION) (DB:ZB1) from Neutral to Outperform. Baird had maintained a Neutral rating on July 21, 2026.Other firms recently maintained or updated coverage: on",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T11:17:01+00:00",
-   "tickers": [
-    "ZION",
-    "DB"
-   ],
-   "type": "upgrade",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "7b985cff7505",
-   "title": "What to do for the most ultra-luxury experience in Miami Beach",
-   "link": "https://www.thestreet.com/travel/miami-ultra-luxury-travel-restaurants-attractions-hotels",
-   "summary": "The coastal area offers countless opportunities for travelers looking for glitz and luxury.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-15T11:17:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "381b8132ce3c",
-   "title": "RBC flags Kuehne + Nagel valuation as freight rates face reversal",
-   "link": "https://www.investing.com/news/stock-market-news/rbc-flags-kuehne--nagel-valuation-as-freight-rates-face-reversal-4951309",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-15T11:17:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cb893744e5c5",
-   "title": "Walmart has a 3-pack of stackable storage bins with magnetic cabinet doors for $96",
-   "link": "https://www.thestreet.com/deals/broview-stackable-storage-bins-walmart-sale-mp-october-2026",
-   "summary": "\"This product is by far one of the best things I've purchased for storage,\" one shopper said.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-15T11:15:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "24b3ff742ee0",
-   "title": "Avino Announces Q3 2026 Production Results | ASM Stock News",
-   "link": "https://www.stocktitan.net/news/ASM/avino-announces-q3-2026-production-klgwvlvn7d6m.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T11:15:00+00:00",
-   "tickers": [
-    "ASM"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3a5b10b678fc",
-   "title": "EverCommerce Announces Date of Third Quarter 2026 Earnings Call | EVCM Stock News",
-   "link": "https://www.stocktitan.net/news/EVCM/ever-commerce-announces-date-of-third-quarter-2026-earnings-lon4h8ecrkoo.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T11:15:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2c565ee588a3",
-   "title": "QS Arab University Rankings 2027",
-   "link": "https://www.prnewswire.com/news-releases/qs-arab-university-rankings-2027-302909987.html",
-   "summary": "The best universities across the region revealed LONDON, Oct. 15, 2026 /PRNewswire/ -- Global higher education experts QS Quacquarelli Symonds have released the QS Arab University Rankings 2027. It evaluates 325 universities across 20 locations in the Arab Region. Saudi Arabia and the UAE...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-15T11:15:00+00:00",
-   "tickers": [
-    "QS"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ef3d6901bf86",
-   "title": "As AI Makes Software Cheaper to Build, Data and Distribution Become the Moat",
-   "link": "https://www.nasdaq.com/articles/ai-makes-software-cheaper-build-data-and-distribution-become-moat",
-   "summary": "Key PointsPalantir's ontology, CrowdStrike's security telemetry, and ServiceNow's workflow footprint would all be genuinely hard for a competitor to replicate.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T11:15:00+00:00",
-   "tickers": [
-    "CRWD"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d8774e719bd8",
-   "title": "Will Weak Consumer Loan Demand & High Provisions Hurt COF Q3 Earnings?",
-   "link": "https://www.nasdaq.com/articles/will-weak-consumer-loan-demand-high-provisions-hurt-cof-q3-earnings",
-   "summary": "Capital One's Q3 earnings are expected to have faced pressure from weak consumer loan demand and higher provisions, despite strength in credit card operations.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T11:14:00+00:00",
-   "tickers": [
-    "COF"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "d4b7b425c486",
-   "title": "Best Stocks Under $10",
-   "link": "https://www.benzinga.com/money/stocks-under-10",
-   "summary": "The post Best Stocks Under $10 by Ryan Peterson appeared first on Benzinga. Visit Benzinga to get more great content like this. If you&#8217;re interested in exploring more stocks under $10 get an edge over other traders with Benzinga Pro while we&#8217;re currently offering a 14-day trial. Investing in stocks under $10 could significantly increase the returns on your portfolio, especially if you pick the right stock. Also, suppose you choose stocks in promising industrial sectors or those &#823",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-15T11:12:45+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8975,7 +8968,6 @@
   "FIS": "Fidelity National Information Services",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "CCC": "CCC Intelligent Solutions Holdings",
-  "DB": "Deutsche Bank Aktiengesellschaft",
   "SEI": "Solaris Energy Infrastructure",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "AMC": "AMC Entertainment Holdings",
@@ -8984,7 +8976,6 @@
   "IYF": "iShares U.S. Financial ETF",
   "SSNC": "SS&C Technologies Holdings",
   "ARWR": "Arrowhead Pharmaceuticals",
-  "ASM": "Avino Silver & Gold Mines",
   "ECG": "Everus Construction Group",
   "ICE": "Intercontinental Exchange",
   "REGN": "Regeneron Pharmaceuticals",
@@ -9005,7 +8996,6 @@
   "DKS": "DICK'S Sporting Goods",
   "PLTR": "Palantir Technologies",
   "ALHC": "Alignment Healthcare",
-  "CRWD": "CrowdStrike Holdings",
   "PCOR": "Procore Technologies",
   "PG": "The Procter & Gamble",
   "RVMD": "Revolution Medicines",
@@ -9068,7 +9058,6 @@
   "CDE": "Coeur Mining",
   "CRUS": "Cirrus Logic",
   "MO": "Altria Group",
-  "QS": "QuantumScape",
   "R": "Ryder System",
   "TTAN": "ServiceTitan",
   "Z": "Zillow Group",
@@ -9109,6 +9098,7 @@
   "CE": "Celanese",
   "DOCS": "Doximity",
   "DUOL": "Duolingo",
+  "EVR": "Evercore",
   "GME": "GameStop",
   "GOOG": "Alphabet",
   "INOD": "Innodata",
