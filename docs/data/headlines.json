@@ -1,8 +1,39 @@
 {
- "generated": "2026-10-15T08:11:37.906718+00:00",
+ "generated": "2026-10-15T08:16:16.628830+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e2ebea63bfe5",
+   "title": "Nvidia, AMD, Micron fall as AI stocks continue $1 trillion selloff amid mounting concerns",
+   "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+   "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T08:11:34+00:00",
+   "tickers": [
+    "AMD",
+    "MU"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "d5b85a39611a",
+   "title": "Artificial intelligence - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
+   "summary": "Artificial intelligence&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-15T08:10:44+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "3f9472570183",
    "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
@@ -31,20 +62,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "d5b85a39611a",
-   "title": "Artificial intelligence - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
-   "summary": "Artificial intelligence&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-15T08:04:37+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -202,6 +219,20 @@
    "published": "2026-10-15T07:46:52+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "15d129070686",
+   "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
+   "link": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
+   "summary": "Ukraine will now resume attacks on Russian energy targets after Moscow hasn't held up its end of the proposed deal brokered by Trump.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T07:46:30+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -383,22 +414,6 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e2ebea63bfe5",
-   "title": "Tech stocks plunge as Fed rate hike fears, AI funding worries mount; ASML, SK Hynix slump",
-   "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-   "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T07:28:44+00:00",
-   "tickers": [
-    "ASML"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8850,22 +8865,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "b2470f4306df",
-   "title": "Klaviyo to Announce Third Quarter 2026 Results on November 4, 2026 | KVYO Stock News",
-   "link": "https://www.stocktitan.net/news/KVYO/klaviyo-to-announce-third-quarter-2026-results-on-november-4-j4org9mwm6d4.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T20:30:00+00:00",
-   "tickers": [
-    "KVYO"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8885,6 +8884,7 @@
   "RXRX": "Recursion Pharmaceuticals",
   "APO": "Apollo Global Management",
   "GS": "The Goldman Sachs Group",
+  "AMD": "Advanced Micro Devices",
   "EAT": "Brinker International",
   "MSM": "MSC Industrial Direct",
   "ORC": "Orchid Island Capital",
@@ -8942,7 +8942,6 @@
   "NXE": "NexGen Energy",
   "OMC": "Omnicom Group",
   "PINS": "Pinterest Inc",
-  "ASML": "ASML Holding",
   "DVLT": "Datavault AI",
   "MKL": "Markel Group",
   "MO": "Altria Group",
@@ -8988,7 +8987,6 @@
   "SNAP": "Snapchat",
   "CVNA": "Carvana",
   "IVZ": "Invesco",
-  "KVYO": "Klaviyo",
   "MDB": "MongoDB",
   "NDSN": "Nordson",
   "PEP": "PepsiCo",
