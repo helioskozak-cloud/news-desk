@@ -1,8 +1,25 @@
 {
- "generated": "2026-10-15T01:11:18.773243+00:00",
+ "generated": "2026-10-15T01:16:11.901987+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "7f02f3826434",
+   "title": "Disney embraces A.I. with proposed Character.ai bankruptcy sale",
+   "link": "https://www.thestreet.com/technology/disney-embraces-a-i-with-proposed-character-ai-bankruptcy-sale",
+   "summary": "Google previously reached a $2.7 billion deal with Character.ai in 2024 which included a non-exclusive license of technology.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-15T01:13:00+00:00",
+   "tickers": [
+    "GOOGL",
+    "DIS"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "e2ebea63bfe5",
    "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
@@ -8945,22 +8962,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "2c1fa8be5abe",
-   "title": "Morgan Stanley (MS) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/morgan-stanley-ms-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T18:31:35+00:00",
-   "tickers": [
-    "MS"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9031,6 +9032,7 @@
   "COIN": "Coinbase Global",
   "CORZ": "Core Scientific",
   "DAL": "Delta Air Lines",
+  "DIS": "The Walt Disney",
   "LMT": "Lockheed Martin",
   "LVS": "Las Vegas Sands",
   "PAYC": "Paycom Software",
