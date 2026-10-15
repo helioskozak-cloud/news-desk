@@ -1,19 +1,137 @@
 {
- "generated": "2026-10-15T07:26:36.488780+00:00",
+ "generated": "2026-10-15T07:31:40.486554+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
    "id": "e2ebea63bfe5",
-   "title": "Tech stocks plunge as Fed rate hike fears, AI funding worries mount",
+   "title": "Tech stocks plunge as Fed rate hike fears, AI funding worries mount; ASML, SK Hynix slump",
    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
    "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-15T07:25:04+00:00",
-   "tickers": [],
+   "published": "2026-10-15T07:28:44+00:00",
+   "tickers": [
+    "ASML"
+   ],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3f9472570183",
+   "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+   "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+   "summary": "TSMC reported its third-quarter earnings on Thursday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T07:27:49+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "d12a8ce8a136",
+   "title": "European shares fall as global tech rout hits risk appetite",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-fall-as-global-tech-rout-hits-risk-appetite-4950699",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:24:41+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "f48ba45ecb07",
+   "title": "South Korea’s KOSPI closes at 6-month low as chipmakers slump on AI worries",
+   "link": "https://www.investing.com/news/economy-news/south-koreas-kospi-triggers-circuit-breaker-in-techled-selloff-4950522",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:24:29+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "931dc7f1d08b",
+   "title": "Earnings call transcript: Entra Q3 2024 profit hit by higher rates",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-entra-q3-2024-profit-hit-by-higher-rates-93CH-4950697",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:22:04+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "843828619acc",
+   "title": "Earnings call transcript: TSMC beats Q3 2026 estimates as stock slips",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-tsmc-beats-q3-2026-estimates-as-stock-slips-93CH-4950695",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:18:47+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "61893a1b7e1a",
+   "title": "Why is Antofagasta stock sliding today?",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-antofagasta-stock-sliding-today-93CH-4950694",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:17:46+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "23f3ef57fefa",
+   "title": "Hang Seng rejects resistance at 24,022: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:16:19+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a0b4da73ee10",
+   "title": "Carasent Q3 2026 slides: revenue jumps 32%, AI tool gains traction",
+   "link": "https://www.investing.com/news/company-news/carasent-q3-2026-slides-revenue-jumps-32-ai-tool-gains-traction-93CH-4950693",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:15:33+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -43,6 +161,120 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e0bed6021af8",
+   "title": "Natural Gas stuck below double-top at $3.334: Live levels",
+   "link": "https://www.investing.com/news/commodities-news/natural-gas-coils-in-bull-flag-at-3172-live-levels-93CH-4943302",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:14:06+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "54e31f67c037",
+   "title": "Bitcoin tests $80K after breaking 200-SMA: Live levels",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:14:05+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "eea86e18269f",
+   "title": "London Gas Oil rangebound near 200-period MA: Live levels",
+   "link": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-200sma-support-after-double-top-live-93CH-4943301",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:13:47+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4cb420fef2fd",
+   "title": "Taiwan president calls for Micron, workers to negotiate ’sincerely’ ahead of possible strike",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-president-calls-for-micron-workers-to-negotiate-sincerely-ahead-of-possible-strike-4950532",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:12:28+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8933f3c680aa",
+   "title": "Why is Pernod Ricard stock rallying today?",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-pernod-ricard-stock-rallying-today-93CH-4950687",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:11:37+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9cd6464361ba",
+   "title": "Why is Nordea Bank stock sliding today?",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nordea-bank-stock-sliding-today-93CH-4950685",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:11:10+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6726e67c9046",
+   "title": "European shares trip on global tech bump and U.S. inflation spike",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-trip-on-global-tech-bump-and-us-inflation-spike-4950557",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:10:48+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5652e33d9441",
+   "title": "Why is TomTom stock sliding today?",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tomtom-stock-sliding-today-93CH-4950684",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-15T07:10:43+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -966,22 +1198,6 @@
    "tag_v": 2
   },
   {
-   "id": "4cb420fef2fd",
-   "title": "Taiwan president calls for Micron, workers to negotiate ’sincerely’ ahead of possible strike",
-   "link": "https://www.investing.com/news/stock-market-news/taiwan-president-calls-for-micron-workers-to-negotiate-sincerely-ahead-of-possible-strike-4950532",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-15T06:00:47+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "c787fabe711e",
    "title": "Taiwan stocks lower at close of trade; Taiwan Weighted down 3.41%",
    "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-341-4950569",
@@ -1023,22 +1239,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3f9472570183",
-   "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-   "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-   "summary": "TSMC reported its third-quarter earnings on Thursday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T05:59:57+00:00",
-   "tickers": [
-    "TSM"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1643,20 +1843,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "f48ba45ecb07",
-   "title": "South Korea’s KOSPI triggers circuit breaker in tech-led selloff",
-   "link": "https://www.investing.com/news/economy-news/south-koreas-kospi-triggers-circuit-breaker-in-techled-selloff-4950522",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-15T05:00:39+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3098,20 +3284,6 @@
    "published": "2026-10-15T02:03:12+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "23f3ef57fefa",
-   "title": "Hang Seng stalls below 24,285 resistance: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/hang-seng-presses-cloud-resistance-at-24372-live-levels-93CH-4943001",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-15T02:02:43+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8700,186 +8872,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "aba1c55a89b9",
-   "title": "ICE rejects suggestion that its officers wear body cameras that automatically activate - AP News",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQWFiTnNlN2FSM0R0dmh0eFJyeVlKS1FRYlZ0a0UyQkNSbmI3Y0djdDBhc3B4UlhNSmRUY3MtZ2pQM1hybnhqYjRvVUtmcjJYZWh5bURjQ2lkenlLeUZONm03QmVUVTBXcFhpRmVSUndJY05Yc2pvWHNUMC15eGcwYzA3SnNiZk9jQjJuUm95N1ZGQUdXdEVnZkNDREZZNGM3c05lY2MyMTlLVHdHcUp4VnpvTDRVWE1EcThvWjFvLUIwTlhkUVQyYVZEZUpkdTVITmJjNm5meU5ZdGs5V0JaNkprLVl0eFFzM290c2RtOHZhaDNZeFE5MTdGZlc?oc=5",
-   "summary": "ICE rejects suggestion that its officers wear body cameras that automatically activate&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-14T20:24:00+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e5f02cddb391",
-   "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-   "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-   "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T20:22:09+00:00",
-   "tickers": [
-    "MS"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "2bff59a688f4",
-   "title": "Winmark reports mixed third quarter results as royalties drive revenue higher",
-   "link": "https://www.investing.com/news/earnings/winmark-reports-mixed-third-quarter-results-as-royalties-drive-revenue-higher-93CH-4949981",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-14T20:21:13+00:00",
-   "tickers": [
-    "WINA"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "97b149ae216d",
-   "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-   "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-   "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-14T20:20:46+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "9c63e2c4bde3",
-   "title": "Jackson Financial adds Donald Templin to board of directors",
-   "link": "https://www.investing.com/news/company-news/jackson-financial-adds-donald-templin-to-board-of-directors-93CH-4949978",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-14T20:20:40+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "092a214ae8a9",
-   "title": "Infinity Natural Resources reports $64.4M derivative loss in Q3",
-   "link": "https://www.investing.com/news/company-news/infinity-natural-resources-reports-644m-derivative-loss-in-q3-93CH-4949977",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-14T20:20:37+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e44831594c4e",
-   "title": "ONEOK declares $1.07 quarterly dividend, payable November 16",
-   "link": "https://www.investing.com/news/company-news/oneok-declares-107-quarterly-dividend-payable-november-16-93CH-4949976",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-14T20:20:36+00:00",
-   "tickers": [
-    "OKE"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "62887d511c13",
-   "title": "Jaguar Health sets ex-dividend date for special stock dividend",
-   "link": "https://www.investing.com/news/company-news/jaguar-health-sets-exdividend-date-for-special-stock-dividend-93CH-4949974",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-14T20:20:35+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "79defa42bbdc",
-   "title": "Wabtec declares quarterly dividend of 31 cents per share",
-   "link": "https://www.investing.com/news/company-news/wabtec-declares-quarterly-dividend-of-31-cents-per-share-93CH-4949975",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-14T20:20:35+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3a284732db78",
-   "title": "NiSource to Release Third Quarter 2026 Financial Results and Host Conference Call on October 28 | NI Stock News",
-   "link": "https://www.stocktitan.net/news/NI/ni-source-to-release-third-quarter-2026-financial-results-and-host-cwkk7dgddb9e.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T20:20:00+00:00",
-   "tickers": [
-    "NI"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cc651540561d",
-   "title": "GMEX Robotics Completes Initial Strategic Investment in MediaMeta.Ai to Advance Socially Intelligent Robotics | GMEX Stock News",
-   "link": "https://www.stocktitan.net/news/GMEX/gmex-robotics-completes-initial-strategic-investment-in-media-meta-j18umfqm9wc1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T20:20:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d775c9bc7fed",
-   "title": "RedCloud Receives Expected Nasdaq Staff Delisting Determination and Files Appeal to Preserve Listing Pending Panel Hearing | RCT Stock News",
-   "link": "https://www.stocktitan.net/news/RCT/red-cloud-receives-expected-nasdaq-staff-delisting-determination-and-i7a7i0vkiocg.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T20:20:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8955,6 +8947,7 @@
   "NXE": "NexGen Energy",
   "OMC": "Omnicom Group",
   "PINS": "Pinterest Inc",
+  "ASML": "ASML Holding",
   "CDE": "Coeur Mining",
   "DVLT": "Datavault AI",
   "MKL": "Markel Group",
@@ -8999,7 +8992,6 @@
   "DOCS": "Doximity",
   "DUOL": "Duolingo",
   "GOOG": "Alphabet",
-  "NI": "NiSource",
   "SNAP": "Snapchat",
   "CVNA": "Carvana",
   "IVZ": "Invesco",
@@ -9012,7 +9004,6 @@
   "VTRS": "Viatris",
   "W": "Wayfair",
   "WDAY": "Workday",
-  "WINA": "Winmark",
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "ZS": "Zscaler",
@@ -9029,7 +9020,6 @@
   "FIG": "Figma",
   "INTC": "Intel",
   "KKR": "KKR &",
-  "OKE": "ONEOK",
   "TU": "TELUS",
   "PCG": "PG&E",
   "ROKU": "Roku",
