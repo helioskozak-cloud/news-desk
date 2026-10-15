@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-15T20:51:36.273012+00:00",
+ "generated": "2026-10-15T20:56:18.651864+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "34b4b5b1b10a",
+   "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
+   "link": "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
+   "summary": "\"If Ken Paxton loses, it will be because of WEAK and INEFFECTIVE Political Hacks like John Cornyn and Karl Rove,\" Trump claimed on Truth Social.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T20:54:49+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6cf022fb9aa6",
+   "title": "New NRC Health Research Reveals What Sets High-Performing Health Systems Apart: Turning Patient Feedback Into Action | NRC Stock News",
+   "link": "https://www.stocktitan.net/news/NRC/new-nrc-health-research-reveals-what-sets-high-performing-health-0uv0ia2lyd88.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-15T20:53:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "d87010f6c260",
    "title": "GeoPark Announces Third Quarter 2026 Operational Update | GPRK Stock News",
@@ -66,16 +94,77 @@
    "tag_v": 2
   },
   {
-   "id": "34b4b5b1b10a",
-   "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-   "link": "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
-   "summary": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T20:47:45+00:00",
+   "id": "a269b4e3982a",
+   "title": "Coffee Prices Slide on Optimism Over Global Coffee Crops",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-slide-optimism-over-global-coffee-crops",
+   "summary": "December arabica coffee (KCZ26 ) closed down -3.25 (-1.09%) on Thursday, and November ICE robusta coffee (RMX26 ) closed down -108 (-3.10%). Coffee prices fell sharply on Thursday, with robusta posting a 2-week low. Beneficial growing conditions in Brazil and Vietnam are negative for coffee prices. Above-normal rainfall in Brazil...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:45:28+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "2cbe44106134",
+   "title": "Wheat Fading Early Gains for Midday Weakness",
+   "link": "https://www.nasdaq.com/articles/wheat-fading-early-gains-midday-weakness",
+   "summary": "The wheat complex is fading off the early morning gains on Thursday. Chicago SRW contracts are steady to a penny higher so far. KC HRW futures are fractionally in the red at midday. MPLS spring wheat is showing fractional losses on the session. USDA’s Export Sales report will be released...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:45:28+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "dc641681a71e",
+   "title": "Soybeans Fading Another Round of Chinese Purchases, as Crush Falls in September",
+   "link": "https://www.nasdaq.com/articles/soybeans-fading-another-round-chinese-purchases-crush-falls-september",
+   "summary": "Soybeans are down 10 to 12 cents across the front months at midday, as futures fade Chinese purchases and sell a bearish NOPA report. The cmdtyView national average Cash Bean price is down 11 1/4 cents at $12.07 1/2. Soymeal futures are down $3.50 to $3.70, with Soy Oil futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:45:28+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "609610062e5e",
+   "title": "Smaller-Than-Expected Weekly Storage Build Lifts Nat-Gas Prices",
+   "link": "https://www.nasdaq.com/articles/smaller-expected-weekly-storage-build-lifts-nat-gas-prices",
+   "summary": "November Nymex natural gas (NGX26 ) on Thursday closed up +0.038 (+1.19%). Nat-gas prices settled higher on Thursday after weekly US nat-gas storage levels rose less than expected. The EIA reported Thursday that nat-gas inventories rose by +67 bcf the week ended October 9, below expectations of +74 bcf and...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:45:28+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a6faffbd34b1",
+   "title": "Stock Indexes Rebound as Investors Rotate Out of Chip Stocks",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-rebound-investors-rotate-out-chip-stocks",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up by +0.13% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +1.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.57%. December E-mini S&amp;P futures (ESZ26 ) are up +0158%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:45:27+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -212,6 +301,22 @@
    "tag_v": 2
   },
   {
+   "id": "8cd8fe3ce393",
+   "title": "Baird Upgrades Bank of America to Outperform from Neutral",
+   "link": "https://www.nasdaq.com/articles/baird-upgrades-bank-america-outperform-neutral",
+   "summary": "Fintel reports that on October 15, 2026, Baird upgraded their outlook for Bank of America (NYSE:BAC) (LSE:0Q16) from Neutral to Outperform. This rating action follows a prior action by Baird on July 15, 2026, when the firm maintained its Neutral rating on the stock.On the same da",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:39:30+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "292086473523",
    "title": "148-year-old mall retailer behind Famous Footwear closes 18 stores as shoppers change what they buy",
    "link": "https://www.thestreet.com/retail/caleres-famous-footwear-closes-18-stores-as-shopper-purchase-patterns-change",
@@ -298,6 +403,22 @@
    "tag_v": 2
   },
   {
+   "id": "e8d28446eef6",
+   "title": "Sugar Prices Climb on Weather Threats to Global Output",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-climb-weather-threats-global-output",
+   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.29 (+1.39%) on Thursday, and December London ICE white sugar #5 (SWZ26 ) closed up +6.20 (+1.12%). Sugar prices moved higher on Thursday and are just below recent significant highs. Sugar prices have rallied sharply over the past three weeks, with...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:31:13+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "2c1eda1f949a",
    "title": "Dollar Retreats with Bond Yields",
    "link": "https://www.nasdaq.com/articles/dollar-retreats-bond-yields",
@@ -328,6 +449,22 @@
    "tag_v": 2
   },
   {
+   "id": "c40971ee78e8",
+   "title": "Cocoa Prices Rise as Chocolate Demand Improves",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-rise-chocolate-demand-improves",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed up +96 (+1.67%) on Thursday, and December ICE London cocoa #7 (CAZ26 ) closed up +45 (+1.04%). Cocoa prices settled higher on Thursday amid signs of stronger global cocoa demand. The Cocoa Association of Asia reported Thursday that Q3 Asian cocoa grindings rose...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:31:12+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "2d852f51adaf",
    "title": "Stocks Pressured as Chipmaker Selloff Deepens",
    "link": "https://www.nasdaq.com/articles/stocks-pressured-chipmaker-selloff-deepens",
@@ -355,6 +492,23 @@
    "published": "2026-10-15T20:31:03+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0ad8af432ae2",
+   "title": "Corning vs. Honeywell International: Which Stock Is a Better Buy in 2026?",
+   "link": "https://www.nasdaq.com/articles/corning-vs-honeywell-international-which-stock-better-buy-2026",
+   "summary": "Key PointsCorning is a materials science leader benefiting from high demand for optical interconnects in AI data centers.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:30:57+00:00",
+   "tickers": [
+    "HON",
+    "GLW"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -857,6 +1011,36 @@
    "tag_v": 2
   },
   {
+   "id": "e6e3cb80eecb",
+   "title": "Prediction: This Is What $2,000 Invested in Micron Stock Today Could Be Worth by 2029",
+   "link": "https://www.nasdaq.com/articles/prediction-what-2000-invested-micron-stock-today-could-be-worth-2029",
+   "summary": "Key PointsIn its fiscal 2026, Micron's revenue grew by 256% to $133.2 billion, with surging prices driven by a memory shortage.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:30:00+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "01bb38b8a01b",
+   "title": "Canadian Stocks Show Significant Rebound, Offsetting Yesterday's Pullback",
+   "link": "https://www.nasdaq.com/articles/canadian-stocks-show-significant-rebound-offsetting-yesterdays-pullback",
+   "summary": "(RTTNews) - Canadian stocks moved sharply higher over the course of the trading day on Thursday, more than offsetting the significant pullback seen in the previous session.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:29:52+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a7780ac893a8",
    "title": "Freenome to Report Third Quarter 2026 Financial Results on November 10, 2026 | FRNM Stock News",
    "link": "https://www.stocktitan.net/news/FRNM/freenome-to-report-third-quarter-2026-financial-results-on-november-8htmsvkosa31.html",
@@ -939,6 +1123,20 @@
    "published": "2026-10-15T20:27:48+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cc89da2a4fab",
+   "title": "If I Could Only Buy and Hold 1 Stock Heading Into the Eye of a Stock Market Storm, This Would Be It",
+   "link": "https://www.nasdaq.com/articles/if-i-could-only-buy-and-hold-1-stock-heading-eye-stock-market-storm-would-be-it-0",
+   "summary": "Key PointsCostco's value pricing makes it an attractive shopping destination.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:25:00+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1048,69 +1246,6 @@
    ],
    "type": "ma",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e8d28446eef6",
-   "title": "Sugar Prices Climb on Weather Threats to Global Output",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-climb-weather-threats-global-output",
-   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.29 (+1.39%) on Thursday, and December London ICE white sugar #5 (SWZ26 ) closed up +6.20 (+1.12%). Sugar prices moved higher on Thursday and are just below recent significant highs. Sugar prices have rallied sharply over the past three weeks, with...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T20:20:16+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "a269b4e3982a",
-   "title": "Coffee Prices Slide on Optimism Over Global Coffee Crops",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-slide-optimism-over-global-coffee-crops",
-   "summary": "December arabica coffee (KCZ26 ) closed down -3.25 (-1.09%) on Thursday, and November ICE robusta coffee (RMX26 ) closed down -108 (-3.10%). Coffee prices fell sharply on Thursday, with robusta posting a 2-week low. Beneficial growing conditions in Brazil and Vietnam are negative for coffee prices. Above-normal rainfall in Brazil...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T20:20:15+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "a6faffbd34b1",
-   "title": "Stock Indexes Rebound as Investors Rotate Out of Chip Stocks",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-rebound-investors-rotate-out-chip-stocks",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up by +0.13% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +1.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.57%. December E-mini S&amp;P futures (ESZ26 ) are up +0158%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T20:20:15+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2cbe44106134",
-   "title": "Wheat Fading Early Gains for Midday Weakness",
-   "link": "https://www.nasdaq.com/articles/wheat-fading-early-gains-midday-weakness",
-   "summary": "The wheat complex is fading off the early morning gains on Thursday. Chicago SRW contracts are steady to a penny higher so far. KC HRW futures are fractionally in the red at midday. MPLS spring wheat is showing fractional losses on the session. USDA’s Export Sales report will be released...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T20:20:15+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1248,6 +1383,22 @@
    "tag_v": 2
   },
   {
+   "id": "2e262222a05f",
+   "title": "Alcoa Corp. Q3 Earnings Summary",
+   "link": "https://www.nasdaq.com/articles/alcoa-corp-q3-earnings-summary",
+   "summary": "(RTTNews) - Below are the earnings highlights for Alcoa Corp. (AA):",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:18:24+00:00",
+   "tickers": [
+    "AA"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "c50df669e607",
    "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
    "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
@@ -1292,6 +1443,20 @@
     "SFM"
    ],
    "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "cb173fdea9de",
+   "title": "Dow Jumps To Highest Closing Level In A Month, Nasdaq Edges Slightly Higher",
+   "link": "https://www.nasdaq.com/articles/dow-jumps-highest-closing-level-month-nasdaq-edges-slightly-higher",
+   "summary": "(RTTNews) - Stocks extended Wednesday's slump in early trading on Thursday but showed a considerable turnaround over the course of the session. The major averages all moved to the upside as the day progressed, with the Dow jumping to its best closing level in a month.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:16:19+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -1840,6 +2005,22 @@
    "tag_v": 2
   },
   {
+   "id": "8a4f1d4d5490",
+   "title": "JB Hunt Transport Services Inc. Reveals Rise In Q3 Income",
+   "link": "https://www.nasdaq.com/articles/jb-hunt-transport-services-inc-reveals-rise-q3-income",
+   "summary": "(RTTNews) - JB Hunt Transport Services Inc. (JBHT) announced a profit for its third quarter that Increased, from the same period last year",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:12:34+00:00",
+   "tickers": [
+    "JBHT"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "be798690e2a8",
    "title": "Nasdaq ends higher in big rebound as bond rally offsets tech softness, hot PPI",
    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
@@ -1926,36 +2107,6 @@
    "tag_v": 2
   },
   {
-   "id": "c40971ee78e8",
-   "title": "Cocoa Prices Rise as Chocolate Demand Improves",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-rise-chocolate-demand-improves",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +96 (+1.67%) on Thursday, and December ICE London cocoa #7 (CAZ26 ) closed up +45 (+1.04%). Cocoa prices settled higher on Thursday amid signs of stronger global cocoa demand. The Cocoa Association of Asia reported Thursday that Q3 Asian cocoa grindings rose...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T20:11:28+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "dc641681a71e",
-   "title": "Soybeans Fading Another Round of Chinese Purchases, as Crush Falls in September",
-   "link": "https://www.nasdaq.com/articles/soybeans-fading-another-round-chinese-purchases-crush-falls-september",
-   "summary": "Soybeans are down 10 to 12 cents across the front months at midday, as futures fade Chinese purchases and sell a bearish NOPA report. The cmdtyView national average Cash Bean price is down 11 1/4 cents at $12.07 1/2. Soymeal futures are down $3.50 to $3.70, with Soy Oil futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T20:11:28+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "08235029ec64",
    "title": "Weather Risks Underpin Sugar Prices",
    "link": "https://www.nasdaq.com/articles/weather-risks-underpin-sugar-prices",
@@ -1996,6 +2147,22 @@
    "published": "2026-10-15T20:11:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "14e4ab95ec55",
+   "title": "SEI Names Kristie Edling-Day As Chief Information Officer",
+   "link": "https://www.nasdaq.com/articles/sei-names-kristie-edling-day-chief-information-officer",
+   "summary": "(RTTNews) - On Thursday, SEI Investments Company (SEIC) announced the appointment of Kristie Edling-Day as Chief Information Officer, reporting to CEO Ryan Hicke. She will oversee technology and product strategy, digital transformation, platform modernization and cybersecurity go",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T20:10:37+00:00",
+   "tickers": [
+    "SEI"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3083,6 +3250,20 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "321a21e974c9",
+   "title": "The 6 victims who died in a Wisconsin plane crash included a 13-year-old boy and his mother - AP News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMF9MLUljekdzUXdSRXRWbjlkaGpBWjZNaHpIQmZKblFjOGdtbVZRbjFFMzd4enNhMENwZV9qeE1uSTV3eTdvTVJCNURXLXZwUVUtMTJWN3pXbFBRd2RRdFcxYjN6Q2ZyWGpJdUV2aXpXZWVvUHB1XzJoS2VjdGpGNTUzZnF2UnVNRG15NnNTOEQ3S1phTTFKT01lQnUyQQ?oc=5",
+   "summary": "The 6 victims who died in a Wisconsin plane crash included a 13-year-old boy and his mother&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-15T20:01:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -7110,20 +7291,6 @@
    "tag_v": 2
   },
   {
-   "id": "321a21e974c9",
-   "title": "Experienced pilot among 6 killed in plane crash after ice accumulated on the wings during storm - AP News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMF9MLUljekdzUXdSRXRWbjlkaGpBWjZNaHpIQmZKblFjOGdtbVZRbjFFMzd4enNhMENwZV9qeE1uSTV3eTdvTVJCNURXLXZwUVUtMTJWN3pXbFBRd2RRdFcxYjN6Q2ZyWGpJdUV2aXpXZWVvUHB1XzJoS2VjdGpGNTUzZnF2UnVNRG15NnNTOEQ3S1phTTFKT01lQnUyQQ?oc=5",
-   "summary": "Experienced pilot among 6 killed in plane crash after ice accumulated on the wings during storm&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-15T16:57:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "84f0b9ea6a42",
    "title": "USPS postmarks can lag mailing dates. What taxpayers and voters should know",
    "link": "https://www.cnbc.com/2026/10/15/usps-postmark-rules-taxpayers-voters.html",
@@ -8837,166 +9004,6 @@
    "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "d4c2daf01463",
-   "title": "Tether Global Investments fund buys $2.7m in Gold.com stock",
-   "link": "https://www.investing.com/news/insider-trading-news/tether-global-investments-fund-buys-27m-in-goldcom-stock-93CH-4952286",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-15T15:46:17+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f294bb936b5d",
-   "title": "Earnings call transcript: Jio Financial posts strong Q2 2027 growth as stock stays flat",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-jio-financial-posts-strong-q2-2027-growth-as-stock-stays-flat-93CH-4952285",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-15T15:44:32+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "40c21df9cbff",
-   "title": "Innoviz at the ThinkEquity Conference: defense push broadens lidar case",
-   "link": "https://www.investing.com/news/transcripts/innoviz-at-the-thinkequity-conference-defense-push-broadens-lidar-case-93CH-4952284",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-15T15:43:22+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ba2cc7c23671",
-   "title": "Equitable Bank completes successful issuance of €500 million of covered bonds, furthering diversification of the bank's funding",
-   "link": "https://www.prnewswire.com/news-releases/equitable-bank-completes-successful-issuance-of-500-million-of-covered-bonds-furthering-diversification-of-the-banks-funding-302910301.html",
-   "summary": "TORONTO, Oct. 15, 2026 /PRNewswire/ -- Equitable Bank (the \"Bank\" or \"Equitable\") announced that it has successfully executed its latest offering of €500 million (CAD $797 million) of covered bonds (the \"bonds\"). The bonds were issued under the Bank's CAD $3.0 billion Global Legislative...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-15T15:43:00+00:00",
-   "tickers": [
-    "EQH"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c9b6887c8721",
-   "title": "Xpeng to integrate Google Play into vehicles in early 2027",
-   "link": "https://www.investing.com/news/company-news/xpeng-to-integrate-google-play-into-vehicles-in-early-2027-93CH-4952283",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-15T15:40:40+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dc12a8c703ac",
-   "title": "U.S. Stocks Recover From Early Weakness, Dow Moves Sharply Higher",
-   "link": "https://www.nasdaq.com/articles/us-stocks-recover-early-weakness-dow-moves-sharply-higher",
-   "summary": "(RTTNews) - After coming under pressure early in the session, stocks have regained ground over the course of the trading day on Thursday. The major averages have climbed well off their lows of the session, with the S&amp;P 500 joining the narrower Dow in positive territory.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T15:40:34+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "328ff06b5e95",
-   "title": "Josh Brown says this is his AI roller coaster stock",
-   "link": "https://www.cnbc.com/2026/10/15/josh-brown-says-this-is-his-ai-roller-coaster-stock.html",
-   "summary": "Josh Brown and Sean Russo take a look at one stock that's 60% more volatile than the broader market.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T15:39:58+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "596fc8358611",
-   "title": "Economists: Hot PPI shows Fed's work is not done",
-   "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
-   "summary": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T15:37:59+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c67039f4dab0",
-   "title": "William Blair cuts Clarivate stock rating on take-private deal",
-   "link": "https://www.investing.com/news/analyst-ratings/william-blair-cuts-clarivate-stock-rating-on-takeprivate-deal-93CH-4952282",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-15T15:36:53+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "b24e57244c4f",
-   "title": "TomTom Q3 2026 slides: margins rise despite revenue decline",
-   "link": "https://www.investing.com/news/company-news/tomtom-q3-2026-slides-margins-rise-despite-revenue-decline-93CH-4952281",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-15T15:36:41+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3e37f9102428",
-   "title": "BAE Systems Bags Ultra-Compact Radio-Frequency Terminals Contract",
-   "link": "https://www.nasdaq.com/articles/bae-systems-bags-ultra-compact-radio-frequency-terminals-contract",
-   "summary": "(RTTNews) - Thursday, BAE Systems plc (BA.L) announced that it has been awarded a contract from the U.S. Space Force Space Systems Command to design and demonstrate ultra-compact radio-frequency terminals for a space-based data layer.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T15:36:20+00:00",
-   "tickers": [
-    "BA"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9013,6 +9020,7 @@
   "OLLI": "Ollie's Bargain Outlet Holdings",
   "NCLH": "Norwegian Cruise Line Holdings",
   "NLR": "VanEck Uranium and Nuclear ETF",
+  "SEI": "Solaris Energy Infrastructure",
   "JBHT": "J.B. Hunt Transport Services",
   "RGA": "Reinsurance Group of America",
   "FIGR": "Figure Technology Solutions",
@@ -9029,6 +9037,7 @@
   "WMS": "Advanced Drainage Systems",
   "AAOI": "Applied Optoelectronics",
   "COLB": "Columbia Banking System",
+  "HON": "Honeywell International",
   "AMD": "Advanced Micro Devices",
   "CRVS": "Corvus Pharmaceuticals",
   "SFM": "Sprouts Farmers Market",
@@ -9049,7 +9058,6 @@
   "LULU": "lululemon athletica",
   "MIR": "Mirion Technologies",
   "BRK-A": "Berkshire Hathaway",
-  "EQH": "Equitable Holdings",
   "MPC": "Marathon Petroleum",
   "MRVL": "Marvell Technology",
   "NYT": "The New York Times",
@@ -9128,7 +9136,6 @@
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
-  "BA": "The Boeing",
   "BN": "Brookfield",
   "CRM": "Salesforce",
   "MCD": "McDonald's",
