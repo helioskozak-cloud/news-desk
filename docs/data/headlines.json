@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T02:16:34.600047+00:00",
+ "generated": "2026-10-15T02:21:02.761907+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -104,6 +104,20 @@
    "published": "2026-10-15T02:05:55+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3bb0ec7731c6",
+   "title": "Thai Shares Likely To Remain Rangebound",
+   "link": "https://www.nasdaq.com/articles/thai-shares-likely-remain-rangebound",
+   "summary": "(RTTNews) - The Thai stock market has alternated between positive and negative finishes through the last four trading days since the end of the five-day winning streak in which it had gained almost 25 points or 1.6 percent. The Stock Exchange of Thailand now sits just above the 1",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T02:03:12+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -557,6 +571,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "b082baaeb6e9",
+   "title": "Press Releases - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CelNmUzhqNnQ2ajlNcEtLVlVuenpZSUtDVk01WG9VU2lRYnp2RHVzSjhtLV9KbFdnYll6V3Z5VkdqZEhWelRPYQ?oc=5",
+   "summary": "Press Releases&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-15T01:19:09+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8910,38 +8938,6 @@
    "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "5d69c76b1c72",
-   "title": "A $10,000 Broadcom investment in 2016 now pays $1,991 a year in dividends",
-   "link": "https://www.thestreet.com/investing/stocks/broadcom-avgo-dividend-10000-investment-2016-pays-1944-a-year",
-   "summary": "Early buyers thought they were getting a chip stock, not an income play. A decade later, the paycheck says otherwise.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-14T19:17:00+00:00",
-   "tickers": [
-    "AVGO"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cb5579cecbb7",
-   "title": "See Which Recent 13F Filers Hold VOO",
-   "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-voo-0",
-   "summary": "At Holdings Channel, we have reviewed the latest batch of the 54 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Vanguard Index Funds - Vanguard S&amp;P 500 Exchange Traded Fund Shares (Symbol: VOO) was held by 33 of these funds. When hedge fund man",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T19:16:28+00:00",
-   "tickers": [
-    "VOO"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8973,7 +8969,6 @@
   "EIX": "Edison International",
   "PCOR": "Procore Technologies",
   "PRU": "Prudential Financial",
-  "VOO": "Vanguard S&P 500 ETF",
   "ED": "Consolidated Edison",
   "IP": "International Paper",
   "LULU": "lululemon athletica",
