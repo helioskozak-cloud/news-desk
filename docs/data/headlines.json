@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T09:21:06.098993+00:00",
+ "generated": "2026-10-15T09:26:44.115778+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -664,7 +664,7 @@
    "title": "Bank of America veröffentlicht Finanzergebnisse für das dritte Quartal 2026",
    "link": "https://www.prnewswire.com/news-releases/bank-of-america-veroffentlicht-finanzergebnisse-fur-das-dritte-quartal-2026-302909824.html",
    "summary": "CHARLOTTE, North Carolina, 15. Oktober 2026 /PRNewswire/ -- Die Bank of America hat heute ihre Finanzergebnisse für das dritte Quartal 2026 veröffentlicht. Die Pressemitteilung, die ergänzenden Unterlagen und die Investorenpräsentation sind auf...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-15T08:31:00+00:00",
@@ -999,14 +999,14 @@
    "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
    "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
    "summary": "TSMC reported its third-quarter earnings on Thursday.",
-   "source": "CNBC Top",
-   "category": "markets",
+   "source": "CNBC Earnings",
+   "category": "earnings",
    "domain": "cnbc.com",
    "published": "2026-10-15T08:09:37+00:00",
    "tickers": [
     "TSM"
    ],
-   "type": "markets",
+   "type": "earnings",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -1856,6 +1856,38 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "39ffb495b1f4",
+   "title": "Bull of the Day: Monday.com (MNDY)",
+   "link": "https://www.nasdaq.com/articles/bull-day-mondaycom-mndy",
+   "summary": "With AI monetization accelerating, earnings estimates rising, and an attractive valuation, Monday.com offers investors a compelling opportunity amid the recent tech selloff.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T07:00:00+00:00",
+   "tickers": [
+    "MNDY"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f88a9f06834d",
+   "title": "Bear of the Day: Evercore (EVR)",
+   "link": "https://www.nasdaq.com/articles/bear-day-evercore-evr",
+   "summary": "Although Evercore remains a prominent investment bank, rapidly declining earnings estimates suggest that near-term challenges may be intensifying.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T07:00:00+00:00",
+   "tickers": [
+    "EVR"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -5196,6 +5228,20 @@
    "tag_v": 2
   },
   {
+   "id": "ffd5f59701ee",
+   "title": "South Americans pray for Pope Leo’s recovery as uncertainty hangs over his visit - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdG55ZWJNanJSaUdoSzZUaGMxYlNhLWVBTmpBSzFZOTBVM3VjVDF0THNoU3pIcjhSX0ZOd1NIRFlOYWFCangyNVdOVzFOVWo5WDZfUDRGLWE2MkVRaHE2YjkyVk1Edy01VFptWDZQSXBuOE1oaHhfcWo5REpjVVBZQm9TU2lTd1dDdkVwbFpnbVg0STQ0aGJpaXYzUnVNYkpqZ1hUajdR?oc=5",
+   "summary": "South Americans pray for Pope Leo’s recovery as uncertainty hangs over his visit&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-15T00:56:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "7204d9fc7638",
    "title": "Australia employment slides 39,300 in September, jobless at 4.7%",
    "link": "https://www.investing.com/news/economic-indicators/australia-employment-slides-39300-in-september-jobless-at-47-4950349",
@@ -6762,12 +6808,12 @@
    "title": "Jim Cramer says don't give up on this unpredictable market. Here's why",
    "link": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
    "summary": "Despite an unpredictable market, CNBC's Jim Cramer says it's important to stay invested.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
+   "source": "CNBC Top",
+   "category": "markets",
    "domain": "cnbc.com",
    "published": "2026-10-14T22:19:32+00:00",
    "tickers": [],
-   "type": "earnings",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8804,50 +8850,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "50cc09dc9a41",
-   "title": "Select Water Solutions, Inc. Announces Pricing of Upsized $900 Million of 7.625% Senior Notes Due 2034 | WTTR Stock News",
-   "link": "https://www.stocktitan.net/news/WTTR/select-water-solutions-inc-announces-pricing-of-upsized-900-million-shgjr6ce43s7.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-14T20:51:00+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8f108c1ea905",
-   "title": "Here's How the 2027 Social Security Cost-of-Living Adjustment (COLA) Stacks Up Against 2024, 2025, and 2026",
-   "link": "https://www.nasdaq.com/articles/heres-how-2027-social-security-cost-living-adjustment-cola-stacks-against-2024-2025-and",
-   "summary": "Key PointsSocial Security has increased benefits by at least 2.5% in each of the last three years.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T20:50:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dedfb7cfd2d6",
-   "title": "Televisa’s AT&T Mexico deal boosts its challenge to America Movil",
-   "link": "https://www.investing.com/news/stock-market-news/televisas-att-mexico-deal-boosts-its-challenge-to-america-movil-4949745",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-14T20:48:27+00:00",
-   "tickers": [
-    "T"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8939,6 +8941,7 @@
   "F": "Ford Motor",
   "FORM": "FormFactor",
   "LFUS": "Littelfuse",
+  "MNDY": "monday.com",
   "PLUG": "Plug Power",
   "RKLB": "Rocket Lab",
   "TECH": "Bio-Techne",
@@ -8957,6 +8960,7 @@
   "DASH": "DoorDash",
   "DOCS": "Doximity",
   "DUOL": "Duolingo",
+  "EVR": "Evercore",
   "GOOG": "Alphabet",
   "SNAP": "Snapchat",
   "IVZ": "Invesco",
@@ -8983,7 +8987,6 @@
   "TU": "TELUS",
   "PCG": "PG&E",
   "ROKU": "Roku",
-  "T": "AT&T",
   "SAAB": "Saab"
  }
 }
