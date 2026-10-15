@@ -1,8 +1,41 @@
 {
- "generated": "2026-10-15T17:26:34.057897+00:00",
+ "generated": "2026-10-15T17:31:39.439256+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "6928689b54b2",
+   "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
+   "link": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+   "summary": "Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T17:29:40+00:00",
+   "tickers": [
+    "AAPL",
+    "META"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "35c129677066",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Franklin, Tennessee | TOL Stock News",
+   "link": "https://www.stocktitan.net/news/TOL/toll-brothers-announces-new-luxury-home-community-coming-soon-to-98jkrho39mcn.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-15T17:26:00+00:00",
+   "tickers": [
+    "TOL"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "b46daae654c4",
    "title": "Datavault AI Highlights Data Futures Platform Patent Amid Tokenized Stock Exemption | DVLT Stock News",
@@ -468,23 +501,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "6928689b54b2",
-   "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
-   "link": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
-   "summary": "Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T17:00:01+00:00",
-   "tickers": [
-    "AAPL",
-    "META"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1554,14 +1570,14 @@
    "title": "Thursday Sector Laggards: Computers, Shipping Stocks",
    "link": "https://www.nasdaq.com/articles/thursday-sector-laggards-computers-shipping-stocks",
    "summary": "In trading on Thursday, computers shares were relative laggards, down on the day by about 2.5%. Helping drag down the group were shares of Quantum, off about 8.7% and shares of Dell Technologies down about 7.7% on the day. Also lagging the market Thursday are shipping shares,",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-15T16:23:16+00:00",
    "tickers": [
     "DELL"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2097,20 +2113,6 @@
     "IP"
    ],
    "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8d4ad664d31e",
-   "title": "Ex-Venezuelan President Nicolás Maduro says new torture allegations are ‘false’ - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0NNbTVUQ2hYN3doNGNjQjZHblo1MlNhR2h2MmNGbjdGNmRONEVDbVVPZ0FoSFVzTHE3VkJvcFpJd21CbzAxc3RwbDRHX1lqNUtIZGVrOV96em1nSG9GRmFXUV83eU5neEpNaVZlZjZrNzY3a29adHRJNnFPZkZPRTlpZDZFWnMyRUNSNjJ1M2lwYmpW?oc=5",
-   "summary": "Ex-Venezuelan President Nicolás Maduro says new torture allegations are ‘false’&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-15T16:01:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3396,6 +3398,20 @@
    "tickers": [
     "BAC"
    ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3b7cdfe4eb42",
+   "title": "At least 6 explosions strike near Yemen government buildings in Aden, witnesses say - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWFBY3V0N0h0Q3B2eEFNN3RSNzh0d0d5T1k1Um04UVY2R0ExekZiNFN2RFFNSUhobXlOUmNma3FfRmU3TjBQSEFjNG0tQVQ3Qk5EX0RoaEZmYUpsMnBnR0dRb1hfTFg2THB2emYwZmZZUTRfaEVrTU1VUDFWM2lCVTBXa0ltbC1DMmtvcjdBR3l4TVB3eGdmUWFnSG1UaF9VYjVWRG9naw?oc=5",
+   "summary": "At least 6 explosions strike near Yemen government buildings in Aden, witnesses say&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-15T15:03:00+00:00",
+   "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8420,6 +8436,20 @@
    "tag_v": 2
   },
   {
+   "id": "d5b85a39611a",
+   "title": "Artificial intelligence - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
+   "summary": "Artificial intelligence&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-15T13:04:48+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "9d99c504be14",
    "title": "RedCloud signs first Saudi Arabia customer on $21M trade data",
    "link": "https://www.investing.com/news/company-news/redcloud-signs-first-saudi-arabia-customer-on-21m-trade-data-93CH-4951798",
@@ -9082,34 +9112,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "41853ea5197a",
-   "title": "Lincoln International to Announce Third Quarter 2026 Financial Results on November 5, 2026 | LCLN Stock News",
-   "link": "https://www.stocktitan.net/news/LCLN/lincoln-international-to-announce-third-quarter-2026-financial-mm2wvuo2sx84.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T13:00:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d98cd1280d61",
-   "title": "Supply Chain Modernization Strengthens Business Resilience | III Stock News",
-   "link": "https://www.stocktitan.net/news/III/supply-chain-modernization-strengthens-business-bn96atqjog57.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T13:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9226,6 +9228,7 @@
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "SMR": "NuScale Power",
+  "TOL": "Toll Brothers",
   "UNP": "Union Pacific",
   "WFC": "Wells Fargo &",
   "ASML": "ASML Holding",
