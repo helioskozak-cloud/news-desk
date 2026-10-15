@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-15T19:21:37.934129+00:00",
+ "generated": "2026-10-15T19:26:01.324626+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "bc9f0d2df2a3",
+   "title": "Dell stock tumbles 8% in a day. Here’s why",
+   "link": "https://www.thestreet.com/investing/stocks/dell-stock-tumbles-8-percent-in-a-day-heres-why",
+   "summary": "Here’s what happened to Dell stock after concern around AI grows.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-15T19:25:19+00:00",
+   "tickers": [
+    "DELL"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "56726bb63d99",
    "title": "EL NOMBRAMIENTO DE NUEVOS LÍDERES ABRE UN NUEVO HORIZONTE EN LA ATENCIÓN E INVESTIGACIÓN DEL CÁNCER",
@@ -231,6 +247,54 @@
    "tag_v": 2
   },
   {
+   "id": "0d3e5de5df38",
+   "title": "Meet the Dividend ETF With Big Stakes in These 3 Blue Chip Stocks",
+   "link": "https://www.nasdaq.com/articles/meet-dividend-etf-big-stakes-these-3-blue-chip-stocks",
+   "summary": "Key PointsThe Schwab U.S. Dividend Equity ETF ranks as one of the best dividend ETFs, with a trailing 12-month yield of 3.24%.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T19:05:00+00:00",
+   "tickers": [
+    "SCHW"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "256946fba8f1",
+   "title": "JB Hunt Transport Services Q3 26 Earnings Conference Call At 5:00 PM ET",
+   "link": "https://www.nasdaq.com/articles/jb-hunt-transport-services-q3-26-earnings-conference-call-5-00-pm-et",
+   "summary": "(RTTNews) - JB Hunt Transport Services Inc. (JBHT) will host a conference call at 5:00 PM ET on October 15, 2026, to discuss Q3 26 earnings results.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T19:02:42+00:00",
+   "tickers": [
+    "JBHT"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "39f49901cf88",
+   "title": "Interactive Brokers Group Q3 26 Earnings Conference Call At 4:30 PM ET",
+   "link": "https://www.nasdaq.com/articles/interactive-brokers-group-q3-26-earnings-conference-call-4-30-pm-et",
+   "summary": "(RTTNews) - Interactive Brokers Group Inc. (IBKR) will host a conference call at 4:30 PM ET on October 15, 2026, to discuss Q3 26 earnings results.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T19:02:42+00:00",
+   "tickers": [
+    "IBKR"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "ec73906c0633",
    "title": "HGT Law Announces Investigation of L3Harris Technologies, Inc. (NYSE:LHX)",
    "link": "https://www.prnewswire.com/news-releases/hgt-law-announces-investigation-of-l3harris-technologies-inc-nyselhx-302910520.html",
@@ -281,12 +345,12 @@
    "title": "RLJ Lodging Trust's Series A Preferred Shares Cross 8% Yield Mark",
    "link": "https://www.nasdaq.com/articles/rlj-lodging-trusts-series-preferred-shares-cross-8-yield-mark",
    "summary": "In trading on Thursday, shares of RLJ Lodging Trust's $1.95 Series A Cumulative Convertible Preferred Shares (Symbol: RLJ.PRA) were yielding above the 8% mark based on its quarterly dividend (annualized to $1.95), with shares changing hands as low as $24.36 on the day. This c",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-15T19:00:24+00:00",
    "tickers": [],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -295,12 +359,12 @@
    "title": "Sunstone Hotel Investors' Series I Preferred Stock Shares Cross 7% Yield Mark",
    "link": "https://www.nasdaq.com/articles/sunstone-hotel-investors-series-i-preferred-stock-shares-cross-7-yield-mark",
    "summary": "In trading on Thursday, shares of Sunstone Hotel Investors Inc's 5.70% Series I Cumulative Preferred Stock (Symbol: SHO.PRI) were yielding above the 7% mark based on its quarterly dividend (annualized to $1.425), with shares changing hands as low as $20.28 on the day. This co",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-15T19:00:14+00:00",
    "tickers": [],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -350,39 +414,6 @@
    "tag_v": 2
   },
   {
-   "id": "2d852f51adaf",
-   "title": "Stocks Pressured as Chipmaker Selloff Deepens",
-   "link": "https://www.nasdaq.com/articles/stocks-pressured-chipmaker-selloff-deepens",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -0.57% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.30%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.71%. December E-mini S&amp;P futures (ESZ26 ) are down -0.58%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T18:59:06+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "90dbd7df5173",
-   "title": "Improving Global Cocoa Demand Boosts Prices",
-   "link": "https://www.nasdaq.com/articles/improving-global-cocoa-demand-boosts-prices",
-   "summary": "December ICE NY cocoa (CCZ26 ) is up +73 (+1.27%) today, and December ICE London cocoa #7 (CAZ26 ) is up +21 (+0.49%). Cocoa prices are moving higher today on signs of stronger global demand. The Cocoa Association of Asia reported today that Q3 Asian cocoa grindings rose by a...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T18:59:06+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "f0019d91c3c7",
    "title": "Ferrovial selected to deliver Georgia's I-285 East Express Lanes | FER Stock News",
    "link": "https://www.stocktitan.net/news/FER/ferrovial-selected-to-deliver-georgia-s-i-285-east-express-0ugm1i9gew6c.html",
@@ -411,6 +442,39 @@
     "NYT"
    ],
    "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2d852f51adaf",
+   "title": "Stocks Pressured as Chipmaker Selloff Deepens",
+   "link": "https://www.nasdaq.com/articles/stocks-pressured-chipmaker-selloff-deepens",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -0.57% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.30%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.71%. December E-mini S&amp;P futures (ESZ26 ) are down -0.58%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T18:54:20+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "90dbd7df5173",
+   "title": "Improving Global Cocoa Demand Boosts Prices",
+   "link": "https://www.nasdaq.com/articles/improving-global-cocoa-demand-boosts-prices",
+   "summary": "December ICE NY cocoa (CCZ26 ) is up +73 (+1.27%) today, and December ICE London cocoa #7 (CAZ26 ) is up +21 (+0.49%). Cocoa prices are moving higher today on signs of stronger global demand. The Cocoa Association of Asia reported today that Q3 Asian cocoa grindings rose by a...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T18:54:20+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -962,6 +1026,39 @@
    ],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ca4ded2beff5",
+   "title": "Pulmonary Hypertension Awareness Month Explores the Pressures of Living with PH",
+   "link": "https://www.prnewswire.com/news-releases/pulmonary-hypertension-awareness-month-explores-the-pressures-of-living-with-ph-302910282.html",
+   "summary": "The Pulmonary Hypertension Association's \"Living Under Pressure\" campaign draws attention to the medical and daily pressures people with pulmonary hypertension face. WASHINGTON, Oct. 15, 2026 /PRNewswire-PRWeb/ -- This November, the Pulmonary Hypertension Association will recognize...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-15T18:30:00+00:00",
+   "tickers": [
+    "PH"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cf2015373dbc",
+   "title": "Dito's CollabAiShield Now Available on Google Cloud Marketplace",
+   "link": "https://www.prnewswire.com/news-releases/ditos-collabaishield-now-available-on-google-cloud-marketplace-302910297.html",
+   "summary": "Customers can now buy Dito's managed collaboration SOC through the Marketplace, with a new dashboard for onboarding, reporting, and investigation. RESTON, Va., Oct. 15, 2026 /PRNewswire-PRWeb/ -- Dito, a Google Cloud Premier Partner, today announced that CollabAiShield, its 24/7/365...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-15T18:30:00+00:00",
+   "tickers": [
+    "GOOGL",
+    "SOC"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -9016,96 +9113,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "8ad7f9c4b4e5",
-   "title": "Why is Super Micro Computer stock falling today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-super-micro-computer-stock-falling-today-93CH-4952042",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-15T13:43:54+00:00",
-   "tickers": [
-    "SMCI"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "25503411a610",
-   "title": "Service Corporation International Announces Schedule For Third Quarter 2026 Earnings Release and Conference Call",
-   "link": "https://www.prnewswire.com/news-releases/service-corporation-international-announces-schedule-for-third-quarter-2026-earnings-release-and-conference-call-302910175.html",
-   "summary": "HOUSTON, October 15, 2026 /PRNewswire/ -- Service Corporation International (NYSE: SCI) announced it expects to issue a press release with financial results for the third quarter 2026 on Wednesday, October 28, 2026. A conference call will be hosted by SCI Management on Thursday, October...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-15T13:43:00+00:00",
-   "tickers": [
-    "SCI"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "87a9a133591a",
-   "title": "Service Corporation International Announces Schedule For Third Quarter 2026 Earnings Release and Conference Call | SCI Stock News",
-   "link": "https://www.stocktitan.net/news/SCI/service-corporation-international-announces-schedule-for-third-e3qgij61yll7.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T13:43:00+00:00",
-   "tickers": [
-    "SCI"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "20290f615678",
-   "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-   "link": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-   "summary": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T13:42:32+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e58fd7fbbd13",
-   "title": "Michael Burry Is Short This AI Darling. Should You Be Worried?",
-   "link": "https://www.nasdaq.com/articles/michael-burry-short-ai-darling-should-you-be-worried",
-   "summary": "Key PointsMicron's business has historically been cyclical, and Michael Burry is betting the company's profits will soon retreat.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T13:42:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "314660f35c3c",
-   "title": "Wipro Announces Results for the Quarter Ended September 30, 2026 | WIT Stock News",
-   "link": "https://www.stocktitan.net/news/WIT/wipro-announces-results-for-the-quarter-ended-september-30-w7ps6o2zr9qk.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T13:41:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9127,10 +9134,12 @@
   "QQQI": "NEOS Nasdaq 100 High Income ETF",
   "KBE": "State Street SPDR S&P Bank ETF",
   "NLR": "VanEck Uranium and Nuclear ETF",
+  "JBHT": "J.B. Hunt Transport Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "EL": "The Est?e Lauder Companies",
   "FDVV": "Fidelity High Dividend ETF",
   "MRSH": "Marsh & McLennan Companies",
+  "IBKR": "Interactive Brokers Group",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "LYV": "Live Nation Entertainment",
@@ -9152,7 +9161,6 @@
   "CRWD": "CrowdStrike Holdings",
   "PCOR": "Procore Technologies",
   "RVMD": "Revolution Medicines",
-  "SMCI": "Super Micro Computer",
   "AKAM": "Akamai Technologies",
   "FIX": "Comfort Systems USA",
   "IP": "International Paper",
@@ -9202,6 +9210,7 @@
   "HBM": "Hudbay Minerals",
   "JBLU": "JetBlue Airways",
   "LMT": "Lockheed Martin",
+  "PH": "Parker-Hannifin",
   "WDC": "Western Digital",
   "ALLY": "Ally Financial",
   "DPZ": "Domino's Pizza",
@@ -9211,6 +9220,7 @@
   "MS": "Morgan Stanley",
   "PPG": "PPG Industries",
   "QBTS": "D-Wave Quantum",
+  "SOC": "Sable Offshore",
   "TSCO": "Tractor Supply",
   "VG": "Venture Global",
   "FHN": "First Horizon",
