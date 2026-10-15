@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-15T11:36:31.633883+00:00",
+ "generated": "2026-10-15T11:41:17.463314+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ea7bd2dca4e3",
+   "title": "IonQ raises $2 billion from the buyer that paid $93 a share last year",
+   "link": "https://www.thestreet.com/investing/ionq-sells-2-billion-to-heights-capital-at-deep-discount",
+   "summary": "The repeat deal still carries a premium. What has changed is how much IonQ the same money buys now.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-15T11:37:00+00:00",
+   "tickers": [
+    "IONQ"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "06253ea6e49e",
    "title": "Why is Fortrea stock gaining today?",
@@ -2813,6 +2829,20 @@
    "tag_v": 2
   },
   {
+   "id": "d5b85a39611a",
+   "title": "Artificial intelligence - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
+   "summary": "Artificial intelligence&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-15T10:35:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "6726e67c9046",
    "title": "European shares trip on global tech bump and U.S. inflation spike",
    "link": "https://www.investing.com/news/stock-market-news/european-shares-trip-on-global-tech-bump-and-us-inflation-spike-4950557",
@@ -3351,20 +3381,6 @@
    "published": "2026-10-15T10:25:00+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d5b85a39611a",
-   "title": "Artificial intelligence - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
-   "summary": "Artificial intelligence&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-15T10:24:56+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8831,22 +8847,6 @@
    "type": "markets",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "5bd4ff6efcd0",
-   "title": "Pinterest director Benjamin Silbermann sells over $2m in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/pinterest-director-benjamin-silbermann-sells-over-2m-in-stock-93CH-4950450",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-15T03:31:12+00:00",
-   "tickers": [
-    "PINS"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8925,7 +8925,6 @@
   "LLY": "Eli Lilly and",
   "MT": "ArcelorMittal",
   "TLRY": "Tilray Brands",
-  "PINS": "Pinterest Inc",
   "ASML": "ASML Holding",
   "BKR": "Baker Hughes",
   "CRUS": "Cirrus Logic",
@@ -8986,6 +8985,7 @@
   "FIG": "Figma",
   "TEX": "Terex",
   "TU": "TELUS",
+  "IONQ": "IonQ",
   "SAAB": "Saab"
  }
 }
