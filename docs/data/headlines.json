@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-15T15:21:39.842894+00:00",
+ "generated": "2026-10-15T15:26:30.432927+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c1637148d6e4",
+   "title": "Trump says Nidal Hasan execution won't be livestreamed",
+   "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
+   "summary": "Hasan murdered 13 people and injured more than 32 others in the mass shooting at Fort Hood in Texas.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T15:25:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "cd6ea19cb3dd",
+   "title": "Dow jumps 500 points, Nasdaq slides as investors rotate out of tech shares: Live updates",
+   "link": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html",
+   "summary": "Concerns around tech companies overspending on artificial intelligence grew, and traders digested U.S. data that pointed to persistent inflation.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T15:23:15+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "32b84927b844",
    "title": "Sterne Kessler and Clarivate Announce Partnership to Develop AI-enhanced Patent Workflow Solutions | CLVT Stock News",
@@ -18,16 +46,16 @@
    "tag_v": 2
   },
   {
-   "id": "cd6ea19cb3dd",
-   "title": "Dow jumps 500 points, Nasdaq slides as investors rotate out of tech shares: Live updates",
-   "link": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html",
-   "summary": "Concerns around tech companies overspending on artificial intelligence grew, and traders digested U.S. data that pointed to persistent inflation.",
+   "id": "8c6717d5ac19",
+   "title": "We're trimming a rallying defensive stock and buying other on a muted earnings move",
+   "link": "https://www.cnbc.com/investingclub/2026/10/15/were-trimming-a-rallying-defensive-stock-and-buying-other-on-a-muted-earnings-move.html",
+   "summary": "A major rotation is happening in the market on Thursday, and we're capitalizing on it.",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-15T15:16:43+00:00",
+   "published": "2026-10-15T15:17:14+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -157,6 +185,23 @@
    "tag_v": 2
   },
   {
+   "id": "3c2e2e326a6d",
+   "title": "Coupang vs. Uber Technologies: Decelerating Versus Steady Revenue Growth",
+   "link": "https://www.nasdaq.com/articles/coupang-vs-uber-technologies-decelerating-versus-steady-revenue-growth",
+   "summary": "Key PointsUber Technologies currently demonstrates a stronger overall revenue profile by consistently generating higher absolute sales totals than Coupang throughout all eight of the comparable periods presented.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T15:04:01+00:00",
+   "tickers": [
+    "UBER",
+    "CPNG"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b80c91f34e59",
    "title": "PulteGroup options suggest 4.4% move after earnings report",
    "link": "https://www.investing.com/news/stock-market-news/pultegroup-options-suggest-44-move-after-earnings-report-93CH-4952246",
@@ -245,6 +290,41 @@
     "TSCO"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b2ef13c69404",
+   "title": "Forget Cystic Fibrosis: Vertex's Next Growth Engine Could Be Hormone Disorders",
+   "link": "https://www.nasdaq.com/articles/forget-cystic-fibrosis-vertexs-next-growth-engine-could-be-hormone-disorders",
+   "summary": "Key PointsThanks to its most recent acquisition, Vertex now has some promising products in the field of hormone disorders.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T15:01:00+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a8a9ec3824a8",
+   "title": "Baker Hughes Signs Power Agreement With Venture Global For U.S. On-Site Power Generation",
+   "link": "https://www.nasdaq.com/articles/baker-hughes-signs-power-agreement-venture-global-us-site-power-generation",
+   "summary": "(RTTNews) - On Thursday, Baker Hughes (BKR) signed a power agreement with Venture Global and GE Vernova to support U.S. on-site power generation for LNG production and potential future data center projects.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T15:00:46+00:00",
+   "tickers": [
+    "BKR",
+    "VG",
+    "GEV",
+    "GE"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -485,6 +565,22 @@
    "tag_v": 2
   },
   {
+   "id": "010b4e62cecb",
+   "title": "AkzoNobel, Axalta To Be Called Axanzo After Merger",
+   "link": "https://www.nasdaq.com/articles/akzonobel-axalta-be-called-axanzo-after-merger",
+   "summary": "(RTTNews) - Paints and coatings makers AkzoNobel N.V. (AKZOY) announced on Thursday that its planned merger with Axalta Coating Systems Ltd. (AXTA), will result in a combined company called Axanzo following completion.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T14:59:31+00:00",
+   "tickers": [
+    "AXTA"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "4153112e91c3",
    "title": "Schwab Q3 2026 slides: record results show 29% EPS growth, shares fall",
    "link": "https://www.investing.com/news/company-news/schwab-q3-2026-slides-record-results-show-29-eps-growth-shares-fall-93CH-4952235",
@@ -511,6 +607,23 @@
    "published": "2026-10-15T14:58:46+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c55c48691857",
+   "title": "Figma vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
+   "link": "https://www.nasdaq.com/articles/figma-vs-palantir-technologies-which-technology-stock-better-buy-2026-0",
+   "summary": "Key PointsFigma dominates the collaborative design space and is rapidly scaling its customer base with new AI-driven billing models.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T14:57:17+00:00",
+   "tickers": [
+    "PLTR",
+    "FIG"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -572,20 +685,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c1637148d6e4",
-   "title": "Trump says Nidal Hasan execution won't be livestreamed",
-   "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
-   "summary": "Hasan murdered 13 people and injured more than 32 others in the mass shooting at Fort Hood in Texas.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T14:55:46+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -713,15 +812,15 @@
    "title": "Noteworthy ETF Outflows: DIVO, V, AMGN, XLY",
    "link": "https://www.nasdaq.com/articles/noteworthy-etf-outflows-divo-v-amgn-xly",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Amplify CWP Enhanced Dividend Income ETF (Symbol: DIVO) where we have detected an approximate $99.9 million dollar outflow -- that's a 1.2% decrease",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-15T14:49:34+00:00",
    "tickers": [
     "AMGN",
     "XLY"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -730,12 +829,12 @@
    "title": "ARKF, XYZ, TOST, ARKF: ETF Outflow Alert",
    "link": "https://www.nasdaq.com/articles/arkf-xyz-tost-arkf-etf-outflow-alert",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the ARK Blockchain &amp; Fintech Innovation ETF (Symbol: ARKF) where we have detected an approximate $96.4 million dollar outflow -- that's a 10.9% decr",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-15T14:49:17+00:00",
    "tickers": [],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -744,8 +843,8 @@
    "title": "MISL, HEI, ASTS, CW: ETF Outflow Alert",
    "link": "https://www.nasdaq.com/articles/misl-hei-asts-cw-etf-outflow-alert",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the First Trust Indxx Aerospace &amp; Defense ETF (Symbol: MISL) where we have detected an approximate $86.3 million dollar outflow -- that's a 11.4% de",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-15T14:49:15+00:00",
    "tickers": [
@@ -753,7 +852,7 @@
     "ASTS",
     "CW"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -762,15 +861,15 @@
    "title": "IYK, KO, CAH, VYLR: Large Outflows Detected at ETF",
    "link": "https://www.nasdaq.com/articles/iyk-ko-cah-vylr-large-outflows-detected-etf",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares U.S. Consumer Staples ETF (Symbol: IYK) where we have detected an approximate $109.9 million dollar outflow -- that's a 6.4% decrease week o",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-15T14:49:12+00:00",
    "tickers": [
     "KO",
     "CAH"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -779,15 +878,15 @@
    "title": "State Street SPDR Portfolio Developed World ex-US ETF Experiences Big Inflow",
    "link": "https://www.nasdaq.com/articles/state-street-spdr-portfolio-developed-world-ex-us-etf-experiences-big-inflow",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the State Street SPDR Portfolio Developed World ex-US ETF (Symbol: SPDW) where we have detected an approximate $290.5 million dollar inflow -- that's a 0",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-15T14:49:06+00:00",
    "tickers": [
     "SPDW",
     "STT"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -796,14 +895,14 @@
    "title": "Avantis International Equity ETF Experiences Big Inflow",
    "link": "https://www.nasdaq.com/articles/avantis-international-equity-etf-experiences-big-inflow",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Avantis International Equity ETF (Symbol: AVDE) where we have detected an approximate $258.9 million dollar inflow -- that's a 1.4% increase week ove",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-15T14:49:02+00:00",
    "tickers": [
     "AVDE"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -812,15 +911,15 @@
    "title": "State Street SPDR S&P Bank ETF Experiences Big Outflow",
    "link": "https://www.nasdaq.com/articles/state-street-spdr-sp-bank-etf-experiences-big-outflow",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the State Street SPDR S&amp;P Bank ETF (Symbol: KBE) where we have detected an approximate $84.4 million dollar outflow -- that's a 5.6% decrease week o",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-15T14:48:59+00:00",
    "tickers": [
     "KBE",
     "STT"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -829,12 +928,12 @@
    "title": "CORO, EWC, EWL, EWT: ETF Inflow Alert",
    "link": "https://www.nasdaq.com/articles/coro-ewc-ewl-ewt-etf-inflow-alert",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares International Country Rotation Active ETF (Symbol: CORO) where we have detected an approximate $281.9 million dollar inflow -- that's a 2.2%",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-15T14:48:57+00:00",
    "tickers": [],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -843,15 +942,15 @@
    "title": "IYJ, MA, ETN, UNP: ETF Outflow Alert",
    "link": "https://www.nasdaq.com/articles/iyj-ma-etn-unp-etf-outflow-alert",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares U.S. Industrials ETF (Symbol: IYJ) where we have detected an approximate $85.5 million dollar outflow -- that's a 4.3% decrease week over we",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-15T14:48:55+00:00",
    "tickers": [
     "ETN",
     "UNP"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -860,15 +959,15 @@
    "title": "JMST: Large Inflows Detected at ETF",
    "link": "https://www.nasdaq.com/articles/jmst-large-inflows-detected-etf",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the JPMorgan Ultra-Short Municipal Income ETF (Symbol: JMST) where we have detected an approximate $261.0 million dollar inflow -- that's a 3.4% increase",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-15T14:48:54+00:00",
    "tickers": [
     "JMST",
     "JPM"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -4699,6 +4798,20 @@
    "tag_v": 2
   },
   {
+   "id": "d5b85a39611a",
+   "title": "Artificial intelligence - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
+   "summary": "Artificial intelligence&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-15T13:20:57+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "139e0ee9449a",
    "title": "MicroVision IRIS Long-Range Lidar Selected by Overland AI for Its Next-Gen IBEX Autonomous Ground Vehicle | MVIS Stock News",
    "link": "https://www.stocktitan.net/news/MVIS/micro-vision-iris-long-range-lidar-selected-by-overland-ai-for-its-y7qnqyoeu1k0.html",
@@ -5592,20 +5705,6 @@
     "APO"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d5b85a39611a",
-   "title": "Artificial intelligence - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
-   "summary": "Artificial intelligence&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-15T13:03:01+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8921,96 +9020,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "3f2d995cce1a",
-   "title": "Redfin Reports List Prices Fall for the First Time Since March | RKT Stock News",
-   "link": "https://www.stocktitan.net/news/RKT/redfin-reports-list-prices-fall-for-the-first-time-since-xwhiz3nd90ky.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T12:00:00+00:00",
-   "tickers": [
-    "RKT"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "c9426f724082",
-   "title": "Nova to Report Third Quarter 2026 Financial Results on November 5 | NVMI Stock News",
-   "link": "https://www.stocktitan.net/news/NVMI/nova-to-report-third-quarter-2026-financial-results-on-november-untmbyd8hrfb.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T12:00:00+00:00",
-   "tickers": [
-    "NVMI"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "09112b57e65c",
-   "title": "Netlist Introduces Next-Generation LIGHTNING™ ULL DDR5 RDIMMs for Agentic AI | NLST Stock News",
-   "link": "https://www.stocktitan.net/news/NLST/netlist-introduces-next-generation-lightningtm-ull-ddr5-rdim-ms-for-m3m855n42ec2.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "69c6fb5984fb",
-   "title": "Bank7 Corp. Announces Q3 2026 Earnings | BSVN Stock News",
-   "link": "https://www.stocktitan.net/news/BSVN/bank7-corp-announces-q3-2026-n7ru28z3pi84.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T12:00:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b820214807d9",
-   "title": "S&P Global brings Visible Alpha data to the S&P Global AI Data Portal | SPGI Stock News",
-   "link": "https://www.stocktitan.net/news/SPGI/s-p-global-brings-visible-alpha-data-to-the-s-p-global-ai-data-slcanintht27.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T12:00:00+00:00",
-   "tickers": [
-    "SPGI"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6f47e872bb5f",
-   "title": "Lightspeed AI Expands From Insights to Action With New Agentic Capabilities for Retail | LSPD Stock News",
-   "link": "https://www.stocktitan.net/news/LSPD/lightspeed-ai-expands-from-insights-to-action-with-new-agentic-7hdvuq3n0apo.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9050,6 +9059,7 @@
   "FND": "Floor & Decor Holdings",
   "MDLZ": "Mondelez International",
   "SEDG": "SolarEdge Technologies",
+  "VRTX": "Vertex Pharmaceuticals",
   "COF": "Capital One Financial",
   "DKS": "DICK'S Sporting Goods",
   "PLTR": "Palantir Technologies",
@@ -9082,17 +9092,18 @@
   "NFG": "National Fuel Gas",
   "RF": "Regions Financial",
   "RSG": "Republic Services",
+  "UBER": "Uber Technologies",
   "AR": "Antero Resources",
   "AXP": "American Express",
   "CELH": "Celsius Holdings",
   "COST": "Costco Wholesale",
   "ENSG": "The Ensign Group",
   "JPM": "JPMorgan Chase &",
-  "RKT": "Rocket Companies",
   "URBN": "Urban Outfitters",
   "VRSK": "Verisk Analytics",
   "WEC": "WEC Energy Group",
   "WM": "Waste Management",
+  "GE": "General Electric",
   "ANET": "Arista Networks",
   "ASTS": "AST SpaceMobile",
   "AXON": "Axon Enterprise",
@@ -9148,9 +9159,9 @@
   "CVS": "CVS Health",
   "DTE": "DTE Energy",
   "F": "Ford Motor",
+  "GEV": "GE Vernova",
   "PHM": "PulteGroup",
   "RKLB": "Rocket Lab",
-  "SPGI": "S&P Global",
   "STLA": "Stellantis",
   "UNM": "Unum Group",
   "MSFT": "Office 365",
@@ -9177,6 +9188,7 @@
   "NNN": "NNN REIT",
   "PLD": "Prologis",
   "SQ": "Cash App",
+  "CPNG": "Coupang",
   "GAP": "The Gap",
   "GDDY": "GoDaddy",
   "IOT": "Samsara",
@@ -9201,6 +9213,7 @@
   "AMGN": "Amgen",
   "CX": "CEMEX",
   "ETN": "Eaton",
+  "FIG": "Figma",
   "HEI": "HEICO",
   "INTC": "Intel",
   "SYY": "Sysco",
