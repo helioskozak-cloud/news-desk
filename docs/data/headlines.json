@@ -1,8 +1,69 @@
 {
- "generated": "2026-10-15T16:11:37.689785+00:00",
+ "generated": "2026-10-15T16:16:39.311142+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c43f9709e1c7",
+   "title": "Walmart is selling a hooded fleece robe for only $36",
+   "link": "https://www.thestreet.com/deals/amitofo-long-hooded-robe-walmart-flash-sale",
+   "summary": "\"I was surprised at the quality for the price point. It looks and feels luxurious, and it is very warm.\"",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-15T16:15:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c57bf11da07c",
+   "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
+   "link": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
+   "summary": "Investors rotated into bonds amid a broader flight to safety.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T16:14:05+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "5efbcf95095b",
+   "title": "Mark Cuban says the ‘one thing in life you can control’ gives you a huge advantage",
+   "link": "https://www.thestreet.com/employment/mark-cuban-says-effort-drives-career-success",
+   "summary": "Billionaire Mark Cuban says ‘one thing in your life you can control’ is the key to success.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-15T16:13:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e2ebea63bfe5",
+   "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
+   "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+   "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T16:12:05+00:00",
+   "tickers": [
+    "AMD",
+    "DELL"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "cd6ea19cb3dd",
    "title": "Dow jumps 400 points, Nasdaq slides as investors rotate out of tech shares: Live updates",
@@ -280,23 +341,6 @@
    "tag_v": 2
   },
   {
-   "id": "2d852f51adaf",
-   "title": "Stocks Pressured as Chipmaker Selloff Deepens",
-   "link": "https://www.nasdaq.com/articles/stocks-pressured-chipmaker-selloff-deepens",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -0.57% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.30%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.71%. December E-mini S&amp;P futures (ESZ26 ) are down -0.58%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T16:00:56+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "06b626b361ad",
    "title": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.62%",
    "link": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-062-4952327",
@@ -481,6 +525,23 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "2d852f51adaf",
+   "title": "Stocks Pressured as Chipmaker Selloff Deepens",
+   "link": "https://www.nasdaq.com/articles/stocks-pressured-chipmaker-selloff-deepens",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -0.57% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.30%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.71%. December E-mini S&amp;P futures (ESZ26 ) are down -0.58%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T15:55:14+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -715,20 +776,6 @@
    "published": "2026-10-15T15:40:34+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5de52d9d223a",
-   "title": "Wholesale inflation reaches levels last seen in 2022 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNExzSHEyWDFGWnpSTkR2V3NndkhQTmU1dzE3M2pTWENyU3RPRTAyb0JQQXNqbENPTjJneHRsYWpMMXFPUXg3dnZfekhEM1VoSFNIRTM4U29QR1l0TGhzeVd6WkZIamdXWDkwcmdlR3k5eExLZFd3SUc0MHFQc1NoQlIwRWw5MzM5OVpndWJKa3NIZFNJRGx5YQ?oc=5",
-   "summary": "Wholesale inflation reaches levels last seen in 2022&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-15T15:40:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2731,23 +2778,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e2ebea63bfe5",
-   "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-   "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-   "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T14:40:22+00:00",
-   "tickers": [
-    "AMD",
-    "MU"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -5960,20 +5990,6 @@
    "tag_v": 2
   },
   {
-   "id": "c57bf11da07c",
-   "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
-   "link": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
-   "summary": "Investors rotated into bonds amid a broader flight to safety.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T13:24:41+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "34a8652c5fe5",
    "title": "Super Micro Computer Names Mark Long SVP & CFO",
    "link": "https://www.nasdaq.com/articles/super-micro-computer-names-mark-long-svp-cfo",
@@ -6556,6 +6572,20 @@
    ],
    "type": "press",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "5de52d9d223a",
+   "title": "Wholesale inflation reaches levels last seen in 2022 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNExzSHEyWDFGWnpSTkR2V3NndkhQTmU1dzE3M2pTWENyU3RPRTAyb0JQQXNqbENPTjJneHRsYWpMMXFPUXg3dnZfekhEM1VoSFNIRTM4U29QR1l0TGhzeVd6WkZIamdXWDkwcmdlR3k5eExLZFd3SUc0MHFQc1NoQlIwRWw5MzM5OVpndWJKa3NIZFNJRGx5YQ?oc=5",
+   "summary": "Wholesale inflation reaches levels last seen in 2022&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-15T13:06:58+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -9002,34 +9032,6 @@
    "tickers": [],
    "type": "ma",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "341627700903",
-   "title": "BrenX Reports Tempo Beverages Steam Production of Approximately 85 Tons per Operating Day, Above the Project's Base Case of Approximately 70 Tons | BRNX Stock News",
-   "link": "https://www.stocktitan.net/news/BRNX/bren-x-reports-tempo-beverages-steam-production-of-approximately-85-fkuuwacxscgz.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T12:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "214f09cda9ae",
-   "title": "Powerfleet Named AIoT Fleet Management Software Company of the Year 2026 by Transportation Outlook | AIOT Stock News",
-   "link": "https://www.stocktitan.net/news/AIOT/powerfleet-named-a-io-t-fleet-management-software-company-of-the-pbe1nw4w1o4c.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T12:30:00+00:00",
-   "tickers": [],
-   "type": "guidance",
-   "sentiment": "neutral",
    "tag_v": 2
   }
  ],
