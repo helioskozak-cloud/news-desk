@@ -1,8 +1,41 @@
 {
- "generated": "2026-10-16T21:36:34.245592+00:00",
+ "generated": "2026-10-16T21:41:17.806545+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "76d976ae9060",
+   "title": "UL Solutions Warns of GFCI and Duplex Wall Outlets Modified by Third Parties to Include Built-in Cameras | ULS Stock News",
+   "link": "https://www.stocktitan.net/news/ULS/ul-solutions-warns-of-gfci-and-duplex-wall-outlets-modified-by-third-28gzjjre4v70.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-16T21:38:00+00:00",
+   "tickers": [
+    "ULS"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "97a52d4e251b",
+   "title": "A kidney transplant milestone has Wall Street excited about Biogen",
+   "link": "https://www.thestreet.com/investing/stocks/biogen-stock-upgrade-felzartamab-drug",
+   "summary": "JPMorgan strongly reset its price target on the company's attractive 2027 pipeline catalysts.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-16T21:37:00+00:00",
+   "tickers": [
+    "JPM",
+    "BIIB"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "5fd52d0545da",
    "title": "Annexon Reports Inducement Grants to New Employees Under Nasdaq Listing Rule 5635(c)(4) | ANNX Stock News",
@@ -8913,41 +8946,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "302697858bc7",
-   "title": "SPY, GE, PM, HD: ETF Inflow Alert",
-   "link": "https://www.nasdaq.com/articles/spy-ge-pm-hd-etf-inflow-alert",
-   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the State Street SPDR S&amp;P 500 ETF Trust (Symbol: SPY) where we have detected an approximate $4 inflow -- that's a 0.5% increase week over week in out",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T14:58:04+00:00",
-   "tickers": [
-    "STT",
-    "SPY",
-    "GE",
-    "HD"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "15878afa07d4",
-   "title": "Noteworthy ETF Inflows: MUB",
-   "link": "https://www.nasdaq.com/articles/noteworthy-etf-inflows-mub",
-   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares National Muni Bond ETF (Symbol: MUB) where we have detected an approximate $1.7 billion dollar inflow -- that's a 3.5% increase week over wee",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T14:58:03+00:00",
-   "tickers": [
-    "MUB"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8964,7 +8962,6 @@
   "DB": "Deutsche Bank Aktiengesellschaft",
   "IWF": "iShares Russell 1000 Growth Fund",
   "IBM": "International Business Machines",
-  "MUB": "iShares National Muni Bond ETF",
   "NLR": "VanEck Uranium and Nuclear ETF",
   "HII": "Huntington Ingalls Industries",
   "TTWO": "Take-Two Interactive Software",
@@ -9022,7 +9019,6 @@
   "JPM": "JPMorgan Chase &",
   "TFC": "Truist Financial",
   "WM": "Waste Management",
-  "GE": "General Electric",
   "AMLP": "Alerian MLP ETF",
   "ANET": "Arista Networks",
   "BAC": "Bank of America",
@@ -9057,6 +9053,7 @@
   "CCI": "Crown Castle",
   "STT": "State Street",
   "UBS": "UBS Group AG",
+  "ULS": "UL Solutions",
   "USB": "U.S. Bancorp",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
@@ -9112,6 +9109,7 @@
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "SPY": "SPY ETF",
+  "BIIB": "Biogen",
   "BULL": "Webull",
   "CPRT": "Copart",
   "FTS": "Fortis",
