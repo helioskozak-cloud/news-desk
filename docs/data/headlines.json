@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-16T16:16:29.149031+00:00",
+ "generated": "2026-10-16T16:21:35.885111+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4135f038e413",
+   "title": "S&P 500 dragged down by AI stocks as chip shares head for worst week since July: Live updates",
+   "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+   "summary": "The three major averages are coming off of a winning session on Thursday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-16T16:17:56+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "9f0b7f0782b1",
    "title": "Charles Schwab CEO Rick Wurster on Q3 results: A record quarter in serving clients",
@@ -16,6 +30,22 @@
     "SCHW"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "708a9df52d85",
+   "title": "Netflix’s big executive shakeup: Here’s what you need to know",
+   "link": "https://www.cnbc.com/video/2026/10/16/netflixs-big-executive-shakeup.html",
+   "summary": "CNBC’s Julia Boorstin reports on Netflix’s big executive shakeup.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-16T16:12:56+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -47,6 +77,37 @@
    ],
    "type": "press",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8e97d4594cb8",
+   "title": "NBA and sportsbooks agree to ban multiple types of bets",
+   "link": "https://www.cnbc.com/video/2026/10/16/nba-and-sportsbooks-agree-to-ban-multiple-types-of-bets.html",
+   "summary": "",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-16T16:11:42+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cf2a3f5f34de",
+   "title": "U.S. raises Mastercard, Citigroup China market access in bilateral Bangkok talks, official says",
+   "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+   "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-16T16:11:09+00:00",
+   "tickers": [
+    "MA",
+    "C"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -112,34 +173,6 @@
    ],
    "type": "press",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "3e078d166615",
-   "title": "Cattle Look to Friday Following Thursday Rally",
-   "link": "https://www.nasdaq.com/articles/cattle-look-friday-following-thursday-rally",
-   "summary": "Live cattle futures were up $1.57 to $2.12 higher across the board on Thursday. There still have been no deliveries against October live cattle. Open interest was down 630 contracts on Thursday. USDA reported a few dressed northern sales at $345-355 in the north. The Thursday Fed Cattle Exchange online...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T16:00:42+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "b6f6a060c7df",
-   "title": "Cattle Rally on Thursday",
-   "link": "https://www.nasdaq.com/articles/cattle-rally-thursday",
-   "summary": "Live cattle futures were up $1.57 to $2.12 higher across the board on Thursday. There still have been no deliveries against October live cattle. USDA reported a few dressed northern sales at $345-355 in the north. The Thursday Fed Cattle Exchange online auction showed $224-226 bids on 898 of the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T16:00:42+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -440,20 +473,6 @@
    "tag_v": 2
   },
   {
-   "id": "4135f038e413",
-   "title": "Dow rises, Nasdaq slides as investors continue to rotate out of AI stocks: Live updates",
-   "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
-   "summary": "The three major averages are coming off of a winning session on Thursday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T15:50:37+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "4a2058e94a30",
    "title": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
    "link": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
@@ -524,6 +543,34 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3e078d166615",
+   "title": "Cattle Look to Friday Following Thursday Rally",
+   "link": "https://www.nasdaq.com/articles/cattle-look-friday-following-thursday-rally",
+   "summary": "Live cattle futures were up $1.57 to $2.12 higher across the board on Thursday. There still have been no deliveries against October live cattle. Open interest was down 630 contracts on Thursday. USDA reported a few dressed northern sales at $345-355 in the north. The Thursday Fed Cattle Exchange online...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T15:47:58+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "b6f6a060c7df",
+   "title": "Cattle Rally on Thursday",
+   "link": "https://www.nasdaq.com/articles/cattle-rally-thursday",
+   "summary": "Live cattle futures were up $1.57 to $2.12 higher across the board on Thursday. There still have been no deliveries against October live cattle. USDA reported a few dressed northern sales at $345-355 in the north. The Thursday Fed Cattle Exchange online auction showed $224-226 bids on 898 of the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T15:47:58+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -2538,6 +2585,20 @@
    "published": "2026-10-16T14:35:45+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "95496c588fbd",
+   "title": "Norwegian teen sentenced to 20 years in prison for plotting murder in UK for Iran-linked gang - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMXVGUWJ5OFpmSHYwLXR1eGd4MGZNVTlHNGZYXzJSRWNzQ19EcGNPaWR3d3JUcG5KdzhtZnp2Zk1BTVp1TmthNUtQN082LUo5VUlNS2FiU1IzcTlWcG4zSHdXRGpxRkxidDEyYUZOSkYyc0pBc3k4UFd5NzNpQkhvOVYwMHB2dVdHVjdic0d3V1pIcVJyTU9xNTlFd1FwQlZLS1ZFNXF3?oc=5",
+   "summary": "Norwegian teen sentenced to 20 years in prison for plotting murder in UK for Iran-linked gang&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T14:34:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -4970,6 +5031,20 @@
    "tag_v": 2
   },
   {
+   "id": "f3dc4d9158a1",
+   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUdoZ1dEUV9yMWY2UHVhSmtrdWRyeUYxUDlWRTN1b2EwbGVtSUJZM1lVTnAyMEJybzBnM1hMdU5iZV9Ta3pvXzkzcXk1dGRlcWoycGJzVktfc25UNmM4SEhSZWVQdUw2ekw0RU5kRUNSendlWElacnlvQm43R3d4MnlTZzFZNE8xTjRuN0l3QXg?oc=5",
+   "summary": "Fed chair Warsh says price stability is key but shies away from signals about rates&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T12:58:06+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "eef4f5bdc643",
    "title": "Shoppers Stop Q2 FY27 slides: profitability returns, stock falls",
    "link": "https://www.investing.com/news/company-news/shoppers-stop-q2-fy27-slides-profitability-returns-stock-falls-93CH-4954121",
@@ -6066,20 +6141,6 @@
     "APP"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f3dc4d9158a1",
-   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUdoZ1dEUV9yMWY2UHVhSmtrdWRyeUYxUDlWRTN1b2EwbGVtSUJZM1lVTnAyMEJybzBnM1hMdU5iZV9Ta3pvXzkzcXk1dGRlcWoycGJzVktfc25UNmM4SEhSZWVQdUw2ekw0RU5kRUNSendlWElacnlvQm43R3d4MnlTZzFZNE8xTjRuN0l3QXg?oc=5",
-   "summary": "Fed chair Warsh says price stability is key but shies away from signals about rates&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-16T12:20:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7409,20 +7470,6 @@
     "OMER"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "95496c588fbd",
-   "title": "Norwegian teen sentenced to 20 years in prison for plotting murder in UK for Iran-linked gang - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMXVGUWJ5OFpmSHYwLXR1eGd4MGZNVTlHNGZYXzJSRWNzQ19EcGNPaWR3d3JUcG5KdzhtZnp2Zk1BTVp1TmthNUtQN082LUo5VUlNS2FiU1IzcTlWcG4zSHdXRGpxRkxidDEyYUZOSkYyc0pBc3k4UFd5NzNpQkhvOVYwMHB2dVdHVjdic0d3V1pIcVJyTU9xNTlFd1FwQlZLS1ZFNXF3?oc=5",
-   "summary": "Norwegian teen sentenced to 20 years in prison for plotting murder in UK for Iran-linked gang&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-16T11:40:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8985,50 +9032,6 @@
    "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "b8e96440db62",
-   "title": "POET Technologies to Report Third Quarter 2026 Financial Results on November 16 | POET Stock News",
-   "link": "https://www.stocktitan.net/news/POET/poet-technologies-to-report-third-quarter-2026-financial-results-on-qidxia9szoqw.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-16T11:00:00+00:00",
-   "tickers": [
-    "POET"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f696abf9ba3f",
-   "title": "NN, Inc. Enters Cable Assembly & Harness Business | NNBR Stock News",
-   "link": "https://www.stocktitan.net/news/NNBR/nn-inc-enters-cable-assembly-harness-n7zt9yz7elgp.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-16T11:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7408eb4a70bf",
-   "title": "Tango Therapeutics to Present Updated Vopimetostat + RAS(ON) Combination Data at European Society For Medical Oncology (ESMO) Congress 2026 | TNGX Stock News",
-   "link": "https://www.stocktitan.net/news/TNGX/tango-therapeutics-to-present-updated-vopimetostat-ras-on-uku1a7pl753s.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-16T11:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9096,7 +9099,6 @@
   "DELL": "Dell Technologies",
   "HOOD": "Robinhood Markets",
   "MU": "Micron Technology",
-  "POET": "POET Technologies",
   "POWL": "Powell Industries",
   "QUBT": "Quantum Computing",
   "RF": "Regions Financial",
