@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-16T08:56:33.199159+00:00",
+ "generated": "2026-10-16T09:01:23.607273+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "869846cbfa1f",
+   "title": "Amazon has machine-washable house slippers starting at just $10",
+   "link": "https://www.thestreet.com/deals/vifuur-fuzzy-house-slippers-amazon-sale",
+   "summary": "\"I consider myself a slipper queen, and I love these.\"",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-16T09:00:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "bcd445b03141",
    "title": "Zelenskyy praises 'real leaders' in Europe, as his strained relationship with Trump overshadows EU summit",
@@ -115,6 +131,22 @@
    "published": "2026-10-16T08:33:35+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "5bad113cd0c8",
+   "title": "JP Morgan Upgrades Brighthouse Financial, Inc. - Preferred Stock to Neutral from Underweight",
+   "link": "https://www.nasdaq.com/articles/jp-morgan-upgrades-brighthouse-financial-inc-preferred-stock-neutral-underweight-0",
+   "summary": "Fintel reports that on October 15, 2026, JP Morgan upgraded their outlook for Brighthouse Financial, Inc. - Preferred Stock (NASDAQGS:BHFAM) from Underweight to Neutral. Brighthouse Financial, Inc., based in the United States, operates primarily in the insurance industry, focusin",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T08:31:17+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "type": "upgrade",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -1299,6 +1331,22 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e8ece61b3ef6",
+   "title": "New Strong Sell Stocks for October 16th",
+   "link": "https://www.nasdaq.com/articles/new-strong-sell-stocks-october-16th",
+   "summary": "BRCB, CSIQ and VLRS have been added to the Zacks Rank #5 (Strong Sell) List on October 16, 2026.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T06:33:00+00:00",
+   "tickers": [
+    "CSIQ"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8777,54 +8825,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "2e262222a05f",
-   "title": "Alcoa Corp. Q3 Earnings Summary",
-   "link": "https://www.nasdaq.com/articles/alcoa-corp-q3-earnings-summary",
-   "summary": "(RTTNews) - Below are the earnings highlights for Alcoa Corp. (AA):",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T20:18:24+00:00",
-   "tickers": [
-    "AA"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "81e9962058b9",
-   "title": "Halliburton Appoints David Hernandez to Board of Directors | HAL Stock News",
-   "link": "https://www.stocktitan.net/news/HAL/halliburton-appoints-david-hernandez-to-board-of-flneenoh0oi8.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-15T20:18:00+00:00",
-   "tickers": [
-    "HAL"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "18848921e7e9",
-   "title": "Sprouts expands a key service for customers as pressure mounts",
-   "link": "https://www.thestreet.com/retail/sprouts-expands-same-day-grocery-delivery-shipt",
-   "summary": "Sprouts Farmers Market makes a new move to reach shoppers as it navigates a competitive grocery retail environment.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-15T20:17:00+00:00",
-   "tickers": [
-    "SFM"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8848,7 +8848,6 @@
   "AMD": "Advanced Micro Devices",
   "CMG": "Chipotle Mexican Grill",
   "MAR": "Marriott International",
-  "SFM": "Sprouts Farmers Market",
   "AMP": "Ameriprise Financial",
   "CRBG": "Corebridge Financial",
   "CRWD": "CrowdStrike Holdings",
@@ -8885,6 +8884,7 @@
   "VIK": "Viking Holdings",
   "VRNS": "Varonis Systems",
   "WDC": "Western Digital",
+  "CSIQ": "Canadian Solar",
   "FLNC": "Fluence Energy",
   "GM": "General Motors",
   "HD": "The Home Depot",
