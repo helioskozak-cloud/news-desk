@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-16T01:26:06.270198+00:00",
+ "generated": "2026-10-16T01:31:32.355841+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "09dd401de7ce",
+   "title": "Macy's is selling an $80 farmhouse comforter set for $22",
+   "link": "https://www.thestreet.com/deals/farmhouse-floral-patch-3-piece-comforter-set-macys-sale",
+   "summary": "Upgrade your bed on a budget while it's 73% off.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-16T01:30:00+00:00",
+   "tickers": [
+    "M"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "89a41ea6243f",
    "title": "Tesla reveals next-generation Roadster after almost a decade of delays",
@@ -62,17 +78,19 @@
    "tag_v": 2
   },
   {
-   "id": "39f7466f20e2",
-   "title": "Wheat Bears Push Lower into Thursday’s Close",
-   "link": "https://www.nasdaq.com/articles/wheat-bears-push-lower-thursdays-close",
-   "summary": "The wheat complex faded some early Thursday gains, to close the session with losses. Chicago SRW contracts were 1 ¾ to 4 ¾ cents lower across most contracts on Thursday. KC HRW futures slipped back 1 ¼ to 6 cents across the board. MPLS spring wheat was 3 ¼ to...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "id": "f6da7d57bcc9",
+   "title": "Bitcoin Pizza vs. Apple's Third Co-Founder: Which &quot;Worst Investment Ever&quot; Actually Teaches Investors More?",
+   "link": "https://www.nasdaq.com/articles/bitcoin-pizza-vs-apples-third-co-founder-which-worst-investment-ever-actually-teaches",
+   "summary": "Key PointsEarly stakes in companies or crypto can act like long-dated options with huge, hard-to-replace upside.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
-   "published": "2026-10-16T01:11:53+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
+   "published": "2026-10-16T01:10:32+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -104,20 +122,6 @@
    "tag_v": 2
   },
   {
-   "id": "fa34c9571e2a",
-   "title": "Cotton Fades Lower on Thursday",
-   "link": "https://www.nasdaq.com/articles/cotton-fades-lower-thursday",
-   "summary": "Cotton futures were under pressure late, despite supportive outside markets, as contracts were down 24 to 60 points. Crude oil was up $2.46 per barrel on the session, with the US dollar index $0.562 lower. The Seam reported 3,109 bales sold on Wednesday, at an average of 76.59 cents/lb. The...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T01:06:13+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "5c50e7b39cd9",
    "title": "SK Hynix crashes 20% below SMA, RSI at 18.8: Live levels",
    "link": "https://www.investing.com/news/stock-market-news/sk-hynix-oversold-near-support-after-15-slide-live-levels-93CH-4942961",
@@ -129,6 +133,34 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "7ed342c9cf0e",
+   "title": "China Bourse Tipped To Open In The Green",
+   "link": "https://www.nasdaq.com/articles/china-bourse-tipped-open-green",
+   "summary": "(RTTNews) - The China stock market has moved lower in consecutive trading days, stumbling almost 100 points or 3.2 percent along the way. The Shanghai Composite Index now sits just above the 3,700-point plateau although it may find traction on Friday.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T01:03:15+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "36888b3bd9a7",
+   "title": "Australian Market Significantly Higher",
+   "link": "https://www.nasdaq.com/articles/australian-market-significantly-higher",
+   "summary": "(RTTNews) - The Australian stock market is trading significantly higher on Friday, reversing the losses in the previous two sessions, following the broadly positive cues from Wall Street overnight. The benchmark S&amp;P/ASX 200 is moving a tad above 8,800 level, with gains across mos",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T01:01:25+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -158,6 +190,20 @@
     "GIL"
    ],
    "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "fa34c9571e2a",
+   "title": "Cotton Fades Lower on Thursday",
+   "link": "https://www.nasdaq.com/articles/cotton-fades-lower-thursday",
+   "summary": "Cotton futures were under pressure late, despite supportive outside markets, as contracts were down 24 to 60 points. Crude oil was up $2.46 per barrel on the session, with the US dollar index $0.562 lower. The Seam reported 3,109 bales sold on Wednesday, at an average of 76.59 cents/lb. The...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T00:59:15+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -282,6 +328,20 @@
    ],
    "type": "press",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "39f7466f20e2",
+   "title": "Wheat Bears Push Lower into Thursday’s Close",
+   "link": "https://www.nasdaq.com/articles/wheat-bears-push-lower-thursdays-close",
+   "summary": "The wheat complex faded some early Thursday gains, to close the session with losses. Chicago SRW contracts were 1 ¾ to 4 ¾ cents lower across most contracts on Thursday. KC HRW futures slipped back 1 ¼ to 6 cents across the board. MPLS spring wheat was 3 ¼ to...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T00:45:46+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1026,20 +1086,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "923b2796d4f9",
-   "title": "Car registered to man accused of planning mass shooting was at Hindu temple he targeted, police say - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUUlrQlBfYzFDMjFidWNQbXNOdmpMMnlmQzhIYk1ZamdPSlVjM0diUnJESW9Bak9IYmZORTJJeVo3Xy1XeGU1V3NEcXo2SkdQRE54ZGoxWUtPeFBFc0RsRVdpci1aMDJzQzFjZXhpdDFsZUUwb19xcHlCOUVTVXNnTGdxMU11VmpoNnZMbmhiRGd5SnF6VjloRDRkNnFkOGRRWmdzbGhRRXRtVHhicHhz?oc=5",
-   "summary": "Car registered to man accused of planning mass shooting was at Hindu temple he targeted, police say&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-15T23:33:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -4162,7 +4208,7 @@
   },
   {
    "id": "292086473523",
-   "title": "148-year-old mall retailer behind Famous Footwear closes 18 stores as shoppers change what they buy",
+   "title": "Famous Footwear's 148-year-old parent closes 18 stores as shoppers change habits",
    "link": "https://www.thestreet.com/retail/caleres-famous-footwear-closes-18-stores-as-shopper-purchase-patterns-change",
    "summary": "The popular shoe retailer is not retreating, but its affordable business segment is under pressure.",
    "source": "TheStreet",
@@ -7161,6 +7207,20 @@
    "tag_v": 2
   },
   {
+   "id": "923b2796d4f9",
+   "title": "Car registered to man accused of planning mass shooting was at Hindu temple he targeted, police say - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUUlrQlBfYzFDMjFidWNQbXNOdmpMMnlmQzhIYk1ZamdPSlVjM0diUnJESW9Bak9IYmZORTJJeVo3Xy1XeGU1V3NEcXo2SkdQRE54ZGoxWUtPeFBFc0RsRVdpci1aMDJzQzFjZXhpdDFsZUUwb19xcHlCOUVTVXNnTGdxMU11VmpoNnZMbmhiRGd5SnF6VjloRDRkNnFkOGRRWmdzbGhRRXRtVHhicHhz?oc=5",
+   "summary": "Car registered to man accused of planning mass shooting was at Hindu temple he targeted, police say&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-15T19:58:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "2e5b7cb28520",
    "title": "Saul Centers Enters Oversold Territory",
    "link": "https://www.nasdaq.com/articles/saul-centers-enters-oversold-territory",
@@ -7990,7 +8050,7 @@
   },
   {
    "id": "bc9f0d2df2a3",
-   "title": "Dell stock tumbles 8% in a day. Here’s why",
+   "title": "Dell stock price tumbles 6.8% after epic 271% run",
    "link": "https://www.thestreet.com/investing/stocks/dell-stock-tumbles-8-percent-in-a-day-heres-why",
    "summary": "Here’s what happened to Dell stock after concern around AI grows.",
    "source": "TheStreet",
@@ -8854,69 +8914,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "9cf63a4a3bae",
-   "title": "ASML Just Delivered Excellent News for Micron Stock Investors",
-   "link": "https://www.nasdaq.com/articles/asml-just-delivered-excellent-news-micron-stock-investors",
-   "summary": "Key PointsASML is now taking orders into 2030 and says supply has exhausted demand through 2028.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T18:40:02+00:00",
-   "tickers": [
-    "ASML",
-    "MU"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2e302e69fb25",
-   "title": "Tucuvi joins the Microsoft Pegasus Program to scale clinically governed AI Care Management across health systems",
-   "link": "https://www.prnewswire.com/news-releases/tucuvi-joins-the-microsoft-pegasus-program-to-scale-clinically-governed-ai-care-management-across-health-systems-302910378.html",
-   "summary": "Tucuvi brings a differentiated clinical approach to conversational AI within the Microsoft Pegasus Program, extending voice AI beyond administrative interactions into clinically governed care management. BOSTON, Oct. 15, 2026 /PRNewswire/ -- Tucuvi, an AI care management company, today...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-15T18:40:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f661d3233bb3",
-   "title": "The Ensign Group, Inc. (ENSG) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/the-ensign-group-inc-ensg-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302909732.html",
-   "summary": "LOS ANGELES, Oct. 15, 2026 /PRNewswire/ -- The Law Offices of Frank R. Cruz announces that investors with losses related to The Ensign Group, Inc. (ENSG) have opportunity to lead the securities fraud class action lawsuit. IF YOU ARE AN INVESTOR WHO SUFFERED A LOSS IN THE ENSIGN GROUP, INC....",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-15T18:40:00+00:00",
-   "tickers": [
-    "ENSG"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "21d2470770ef",
-   "title": "’Godfather’ star Al Pacino to receive life achievement award from actors’ guild",
-   "link": "https://www.investing.com/news/stock-market-news/godfather-star-al-pacino-to-receive-life-achievement-award-from-actors-guild-4952467",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-15T18:37:01+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8980,7 +8977,6 @@
   "WCN": "Waste Connections",
   "AR": "Antero Resources",
   "COST": "Costco Wholesale",
-  "ENSG": "The Ensign Group",
   "JPM": "JPMorgan Chase &",
   "GE": "General Electric",
   "BAC": "Bank of America",
@@ -9012,7 +9008,6 @@
   "NXE": "NexGen Energy",
   "TLRY": "Tilray Brands",
   "UNH": "United Health",
-  "ASML": "ASML Holding",
   "CYTK": "Cytokinetics",
   "DVN": "Devon Energy",
   "FER": "Ferrovial SE",
@@ -9069,6 +9064,7 @@
   "SPY": "SPY ETF",
   "HUM": "Humana",
   "LEN": "Lennar",
+  "M": "Macy's",
   "MAT": "Mattel",
   "RDDT": "Reddit",
   "VST": "Vistra",
