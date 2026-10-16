@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-16T01:56:37.190325+00:00",
+ "generated": "2026-10-16T02:01:16.093114+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "9eb2bfb64352",
+   "title": "MSCI freezes certain Turkey index changes, warns of potential market downgrade",
+   "link": "https://www.investing.com/news/stock-market-news/msci-freezes-certain-turkey-index-changes-warns-of-potential-market-downgrade-4952952",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-16T01:54:03+00:00",
+   "tickers": [
+    "MSCI"
+   ],
+   "type": "downgrade",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "4135f038e413",
    "title": "S&P 500 futures are little changed as index heads for losing week: Live updates",
@@ -14,6 +30,22 @@
    "published": "2026-10-16T01:46:32+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7b617e678477",
+   "title": "Tesla unveils next generation Roadster sports EV after years of delay",
+   "link": "https://www.investing.com/news/stock-market-news/tesla-set-to-unveil-next-generation-roadster-sports-ev-after-years-of-delay-4951021",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-16T01:42:19+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8889,38 +8921,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "54248f21d6d6",
-   "title": "Prediction: Here's What $1,000 Invested in Nu Holdings Today Could Be Worth by 2030",
-   "link": "https://www.nasdaq.com/articles/prediction-heres-what-1000-invested-nu-holdings-today-could-be-worth-2030",
-   "summary": "Key PointsExtrapolating consensus analyst estimates, Nu&rsquo;s earnings per share could total $1.94 in 2029.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T18:50:00+00:00",
-   "tickers": [
-    "NU"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0bb278b01475",
-   "title": "Alibaba vs. Coupang: Which E-Commerce Giant Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/alibaba-vs-coupang-which-e-commerce-giant-better-buy-2026",
-   "summary": "Key PointsAlibaba remains a dominant force in global e-commerce and cloud infrastructure with robust net margins.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T18:49:13+00:00",
-   "tickers": [
-    "CPNG"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9030,7 +9030,6 @@
   "NVDA": "Grace Hopper",
   "HAL": "Halliburton",
   "LCID": "Lucid Group",
-  "NU": "Nu Holdings",
   "RHI": "Robert Half",
   "SHAK": "Shake Shack",
   "YUM": "Yum! Brands",
@@ -9059,7 +9058,6 @@
   "MC": "Moelis &",
   "NI": "NiSource",
   "PLD": "Prologis",
-  "CPNG": "Coupang",
   "GAP": "The Gap",
   "GDDY": "GoDaddy",
   "GLW": "Corning",
