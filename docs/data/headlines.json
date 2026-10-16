@@ -1,14 +1,44 @@
 {
- "generated": "2026-10-16T07:11:19.987149+00:00",
+ "generated": "2026-10-16T07:16:34.843116+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e1d3fa79554f",
+   "title": "Walmart is selling solar Christmas lights that don't need outlets for $22",
+   "link": "https://www.thestreet.com/deals/rirool-2-pack-multicolored-solar-christmas-lights-walmart-sale-october-2026",
+   "summary": "Decorate your home's exterior without tangled extension cords.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-16T07:15:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0c08e490c1ff",
+   "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+   "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+   "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-16T07:11:22+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "40c9625c6406",
    "title": "Performance Brokerage Services Advises on the Sale of Gregg Young Chevrolet in Plattsmouth, Nebraska, from Gregg Young Automotive Group to Janssen Auto Group",
    "link": "https://www.prnewswire.com/news-releases/performance-brokerage-services-advises-on-the-sale-of-gregg-young-chevrolet-in-plattsmouth-nebraska-from-gregg-young-automotive-group-to-janssen-auto-group-302910646.html",
    "summary": "Performance Brokerage Services, the leader in dealership buy-sell activity, announces the sale of Gregg Young Chevrolet in Plattsmouth, Nebraska, from Gregg Young Automotive Group to Janssen Auto Group. IRVINE, Calif., Oct. 16, 2026 /PRNewswire/ -- Performance Brokerage Services, North...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-16T07:00:00+00:00",
@@ -434,20 +464,6 @@
    "published": "2026-10-16T06:18:20+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0c08e490c1ff",
-   "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
-   "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-   "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T06:18:12+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8823,22 +8839,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "409c348883b9",
-   "title": "Solventum to Report Third Quarter Fiscal 2026 Earnings on November 5, 2026",
-   "link": "https://www.prnewswire.com/news-releases/solventum-to-report-third-quarter-fiscal-2026-earnings-on-november-5-2026-302908656.html",
-   "summary": "EAGAN, Minn., Oct. 15, 2026 /PRNewswire/ -- Solventum (NYSE: SOLV) will release its third quarter fiscal 2026 financial results on Thursday, November 5, 2026, after the U.S. financial markets close. Following the release, Solventum management will host a webcast to discuss the results....",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-15T20:05:00+00:00",
-   "tickers": [
-    "SOLV"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8943,7 +8943,6 @@
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "MDT": "Medtronic",
-  "SOLV": "Solventum",
   "CCL": "Carnival",
   "LQDA": "Liquidia",
   "MC": "Moelis &",
