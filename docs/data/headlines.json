@@ -1,8 +1,39 @@
 {
- "generated": "2026-10-16T11:16:32.827590+00:00",
+ "generated": "2026-10-16T11:21:30.783247+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8fa862f6e93a",
+   "title": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message",
+   "link": "https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html",
+   "summary": "Nvidia has a near monopoly over the most powerful AI chips and Huang courts tech execs and world leaders with ease.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-16T11:18:18+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "626e8d284444",
+   "title": "HBO Max, Paramount+ subscribers pay more after $110 billion merger",
+   "link": "https://www.thestreet.com/latest-news/hbo-max-paramount-merger-streaming-subscription-prices",
+   "summary": "What to expect post-merger from your content and subscription?",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-16T11:17:00+00:00",
+   "tickers": [
+    "PARA",
+    "WBD"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "18111130e4bf",
    "title": "Kate Spade Outlet’s 'roomy' $379 leather bucket bag is 74% off in 6 colors",
@@ -223,20 +254,6 @@
    "published": "2026-10-16T11:07:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8fa862f6e93a",
-   "title": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message",
-   "link": "https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html",
-   "summary": "Nvidia has a near monopoly over the most powerful AI chips and Huang courts tech execs and world leaders with ease.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T11:06:50+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -467,7 +484,7 @@
    "title": "Buck Institute President Dr. Eric Verdin Named Co-Chairman of Attilio",
    "link": "https://www.prnewswire.com/news-releases/buck-institute-president-dr-eric-verdin-named-co-chairman-of-attilio-302910667.html",
    "summary": "Verdin, designer of the Dr. Verdin Baseline Assessment(TM), joins Attilio as Co-Chairman. ST. PETERSBURG, Fla., Oct. 16, 2026 /PRNewswire/ -- Attilio announced today that Dr. Eric Verdin, President and CEO of the Buck Institute for Research on Aging, has joined the company as Co-Chairman....",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-16T11:00:00+00:00",
@@ -4892,6 +4909,23 @@
    "tag_v": 2
   },
   {
+   "id": "fe2f649f618d",
+   "title": "Expecting a Market Correction? This Mega-Cap ETF Deserves a Spot on Your Watchlist",
+   "link": "https://www.marketbeat.com/articles/expecting-a-market-correction-this-mega-cap-etf-deserves-a-spot-on-your-watchlist/",
+   "summary": "Nearly 75% of Americans expect a correction, survey finds. The Invesco S&amp;P 500 Top 50 ETF (XLG) offers exposure to mega-cap growth stocks that could fall more, then rebound.",
+   "source": "MarketBeat",
+   "category": "stocks",
+   "domain": "marketbeat.com",
+   "published": "2026-10-16T06:20:00+00:00",
+   "tickers": [
+    "XLG",
+    "IVZ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b9d20eccc466",
    "title": "Bernstein Names Top Pick in U.S. Waste Sector",
    "link": "https://www.investing.com/news/stock-market-news/bernstein-names-top-pick-in-us-waste-sector-4953169",
@@ -8854,34 +8888,6 @@
    "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "d4b876379dc8",
-   "title": "Anthropic to add US voting information to Claude before midterms (Oct 14)",
-   "link": "https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-oct-14-4952758",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-15T22:13:01+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "74cab132e3d8",
-   "title": "Exclusive-UN chief frontrunner Rebeca Grynspan says UN has ’become too risk-averse’",
-   "link": "https://www.investing.com/news/stock-market-news/exclusiveun-chief-frontrunner-rebeca-grynspan-says-un-has-become-too-riskaverse-4952757",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-15T22:12:44+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8895,6 +8901,7 @@
   "BJ": "BJ's Wholesale Club Holdings",
   "MTD": "Mettler-Toledo International",
   "QQQ": "Invesco QQQ Trust, Series 1",
+  "XLG": "Invesco S&P 500 Top 50 ETF",
   "IBKR": "Interactive Brokers Group",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
@@ -8906,6 +8913,7 @@
   "TRV": "The Travelers Companies",
   "AMD": "Advanced Micro Devices",
   "CMG": "Chipotle Mexican Grill",
+  "WBD": "Warner Bros. Discovery",
   "BDX": "Becton, Dickinson and",
   "IONS": "Ionis Pharmaceuticals",
   "PLTR": "Palantir Technologies",
@@ -8989,6 +8997,7 @@
   "GDDY": "GoDaddy",
   "HUBS": "HubSpot",
   "IOT": "Samsara",
+  "IVZ": "Invesco",
   "MDB": "MongoDB",
   "NEM": "Newmont",
   "PEP": "PepsiCo",
