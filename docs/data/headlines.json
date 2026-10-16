@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-16T14:51:30.218963+00:00",
+ "generated": "2026-10-16T14:56:23.175277+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4135f038e413",
+   "title": "Dow jumps 200 points, Nasdaq slides as investors continue to rotate out of AI stocks: Live updates",
+   "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+   "summary": "The three major averages are coming off of a winning session on Thursday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-16T14:53:38+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "c2dfeba4fe0b",
    "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
@@ -11,7 +25,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-16T14:49:45+00:00",
+   "published": "2026-10-16T14:52:47+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -26,20 +40,6 @@
    "category": "markets",
    "domain": "investing.com",
    "published": "2026-10-16T14:48:45+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4135f038e413",
-   "title": "Dow jumps 150 points, Nasdaq slides as investors continue to rotate out of AI stocks: Live updates",
-   "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
-   "summary": "The three major averages are coming off of a winning session on Thursday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T14:48:43+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -136,6 +136,20 @@
    "tag_v": 2
   },
   {
+   "id": "19002a0ebcc7",
+   "title": "Indian police detain ’cockroach’ founder, student leaders ahead of Delhi rally",
+   "link": "https://www.investing.com/news/world-news/indian-police-warn-cockroach-movement-founder-overprotest-local-media-says-4953652",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-16T14:43:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "d3fc3b0c3180",
    "title": "Technology Minerals executive director steps down from board",
    "link": "https://www.investing.com/news/company-news/technology-minerals-executive-director-steps-down-from-board-93CH-4954479",
@@ -212,6 +226,55 @@
    "tag_v": 2
   },
   {
+   "id": "c80287b8a489",
+   "title": "Doximity stock sees Raymond James reiterate Outperform on settlement",
+   "link": "https://www.investing.com/news/analyst-ratings/doximity-stock-sees-raymond-james-reiterate-outperform-on-settlement-93CH-4954477",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-16T14:41:01+00:00",
+   "tickers": [
+    "DOCS"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "512fd088371f",
+   "title": "BMO Capital cuts WEC Energy Group stock price target on valuation",
+   "link": "https://www.investing.com/news/analyst-ratings/bmo-capital-cuts-wec-energy-group-stock-price-target-on-valuation-93CH-4954474",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-16T14:41:00+00:00",
+   "tickers": [
+    "WEC",
+    "BMO"
+   ],
+   "type": "analyst",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "d1d0e10cd6b7",
+   "title": "BMO cuts Interactive Brokers stock price target on commission headwinds",
+   "link": "https://www.investing.com/news/analyst-ratings/bmo-cuts-interactive-brokers-stock-price-target-on-commission-headwinds-93CH-4954473",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-16T14:40:59+00:00",
+   "tickers": [
+    "BMO"
+   ],
+   "type": "analyst",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "0c41ea4c2642",
    "title": "Micron leads memory stock rebound candidates after sharp weekly selloff",
    "link": "https://www.investing.com/news/stock-market-news/micron-leads-memory-stock-rebound-candidates-after-sharp-weekly-selloff-93CH-4954472",
@@ -225,62 +288,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ba3b60be9a77",
-   "title": "Weakness in the Corn Market Continues on Friday Trade",
-   "link": "https://www.nasdaq.com/articles/weakness-corn-market-continues-friday-trade",
-   "summary": "Corn prices are down 1 to 2 cents as futures round out the week of trade. Futures faced late pressure on Thursday, with contracts closing down 1 to 4 cents at the closing bell. Open interest was down 5,434 contracts on Thursday, heavily in the December contract. The CmdtyView national...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T14:40:17+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3e078d166615",
-   "title": "Cattle Look to Friday Following Thursday Rally",
-   "link": "https://www.nasdaq.com/articles/cattle-look-friday-following-thursday-rally",
-   "summary": "Live cattle futures were up $1.57 to $2.12 higher across the board on Thursday. There still have been no deliveries against October live cattle. Open interest was down 630 contracts on Thursday. USDA reported a few dressed northern sales at $345-355 in the north. The Thursday Fed Cattle Exchange online...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T14:40:17+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "8c9ba06aefeb",
-   "title": "Wheat Weakness Extending on Friday",
-   "link": "https://www.nasdaq.com/articles/wheat-weakness-extending-friday",
-   "summary": "Wheat is falling across the three exchanges on Friday morning. The wheat complex faded some early Thursday gains, to close the session with losses. Chicago SRW contracts were 1 ¾ to 4 ¾ cents lower across most contracts on Thursday. Open interest was down 8,327 contracts. KC HRW futures slipped...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T14:40:17+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ae8bf4d05c74",
-   "title": "Losses in Soybeans Extending to Friday Morning",
-   "link": "https://www.nasdaq.com/articles/losses-soybeans-extending-friday-morning",
-   "summary": "Soybeans are showing extended weakness on Friday morning, with losses of 4 to 6 cents. Futures fell further into the close on Thursday, down 10 to 14 ¼ cents as futures faded Chinese purchases and sell a bearish NOPA report. Open interest was up 3,241 contracts on Thursday, with November...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T14:40:17+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -352,53 +359,6 @@
    "published": "2026-10-16T14:35:45+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1c8136816573",
-   "title": "Cotton Popping Higher on Friday Morning",
-   "link": "https://www.nasdaq.com/articles/cotton-popping-higher-friday-morning",
-   "summary": "Cotton price action is up 22 to 36 points so far on Friday morning. Futures were under pressure late, despite supportive outside markets, as contracts were down 24 to 60 points. Crude oil was up $2.46 per barrel on the session, with the US dollar index $0.562 lower. The Seam...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T14:34:22+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b17e3f76012b",
-   "title": "Hogs Get a Bounce on Thursday, as Traders Look to Round Out the Week",
-   "link": "https://www.nasdaq.com/articles/hogs-get-bounce-thursday-traders-look-round-out-week",
-   "summary": "Lean hog futures found some strength, despite continued pork weakness, with contracts up 35 to 60 cents at the close. Open interest was up 2,643 contracts on Thursday. USDA’s national base hog price was reported at $71.70 on Thursday afternoon, up $2.56 from the day prior. The CME Lean Hog...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T14:34:22+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9128633a5448",
-   "title": "Stocks Settle Mixed as Broader Market Recovers from Chip Stock Rout",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-mixed-broader-market-recovers-chip-stock-rout",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up by +0.33% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +1.08%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.05%. December E-mini S&amp;P futures (ESZ26 ) rose +0.28%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T14:34:22+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -480,6 +440,95 @@
    ],
    "type": "downgrade",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ba3b60be9a77",
+   "title": "Weakness in the Corn Market Continues on Friday Trade",
+   "link": "https://www.nasdaq.com/articles/weakness-corn-market-continues-friday-trade",
+   "summary": "Corn prices are down 1 to 2 cents as futures round out the week of trade. Futures faced late pressure on Thursday, with contracts closing down 1 to 4 cents at the closing bell. Open interest was down 5,434 contracts on Thursday, heavily in the December contract. The CmdtyView national...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T14:28:05+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3e078d166615",
+   "title": "Cattle Look to Friday Following Thursday Rally",
+   "link": "https://www.nasdaq.com/articles/cattle-look-friday-following-thursday-rally",
+   "summary": "Live cattle futures were up $1.57 to $2.12 higher across the board on Thursday. There still have been no deliveries against October live cattle. Open interest was down 630 contracts on Thursday. USDA reported a few dressed northern sales at $345-355 in the north. The Thursday Fed Cattle Exchange online...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T14:28:05+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ae8bf4d05c74",
+   "title": "Losses in Soybeans Extending to Friday Morning",
+   "link": "https://www.nasdaq.com/articles/losses-soybeans-extending-friday-morning",
+   "summary": "Soybeans are showing extended weakness on Friday morning, with losses of 4 to 6 cents. Futures fell further into the close on Thursday, down 10 to 14 ¼ cents as futures faded Chinese purchases and sell a bearish NOPA report. Open interest was up 3,241 contracts on Thursday, with November...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T14:28:05+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "1c8136816573",
+   "title": "Cotton Popping Higher on Friday Morning",
+   "link": "https://www.nasdaq.com/articles/cotton-popping-higher-friday-morning",
+   "summary": "Cotton price action is up 22 to 36 points so far on Friday morning. Futures were under pressure late, despite supportive outside markets, as contracts were down 24 to 60 points. Crude oil was up $2.46 per barrel on the session, with the US dollar index $0.562 lower. The Seam...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T14:28:04+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b17e3f76012b",
+   "title": "Hogs Get a Bounce on Thursday, as Traders Look to Round Out the Week",
+   "link": "https://www.nasdaq.com/articles/hogs-get-bounce-thursday-traders-look-round-out-week",
+   "summary": "Lean hog futures found some strength, despite continued pork weakness, with contracts up 35 to 60 cents at the close. Open interest was up 2,643 contracts on Thursday. USDA’s national base hog price was reported at $71.70 on Thursday afternoon, up $2.56 from the day prior. The CME Lean Hog...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T14:28:04+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9128633a5448",
+   "title": "Stocks Settle Mixed as Broader Market Recovers from Chip Stock Rout",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-mixed-broader-market-recovers-chip-stock-rout",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up by +0.33% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +1.08%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.05%. December E-mini S&amp;P futures (ESZ26 ) rose +0.28%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T14:28:04+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1069,6 +1118,20 @@
    ],
    "type": "analyst",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "8c9ba06aefeb",
+   "title": "Wheat Weakness Extending on Friday",
+   "link": "https://www.nasdaq.com/articles/wheat-weakness-extending-friday",
+   "summary": "Wheat is falling across the three exchanges on Friday morning. The wheat complex faded some early Thursday gains, to close the session with losses. Chicago SRW contracts were 1 ¾ to 4 ¾ cents lower across most contracts on Thursday. Open interest was down 8,327 contracts. KC HRW futures slipped...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T14:05:06+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2895,6 +2958,20 @@
    "tag_v": 2
   },
   {
+   "id": "f3dc4d9158a1",
+   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUdoZ1dEUV9yMWY2UHVhSmtrdWRyeUYxUDlWRTN1b2EwbGVtSUJZM1lVTnAyMEJybzBnM1hMdU5iZV9Ta3pvXzkzcXk1dGRlcWoycGJzVktfc25UNmM4SEhSZWVQdUw2ekw0RU5kRUNSendlWElacnlvQm43R3d4MnlTZzFZNE8xTjRuN0l3QXg?oc=5",
+   "summary": "Fed chair Warsh says price stability is key but shies away from signals about rates&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T12:58:06+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "eef4f5bdc643",
    "title": "Shoppers Stop Q2 FY27 slides: profitability returns, stock falls",
    "link": "https://www.investing.com/news/company-news/shoppers-stop-q2-fy27-slides-profitability-returns-stock-falls-93CH-4954121",
@@ -4027,20 +4104,6 @@
    "title": "China moves to curb tech exports, including AI, citing national security risks - AP News",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGpqZzJpbGpZRmVEdHJ1dEQzY1dTMld3RU92aGlhd0xOeFA4al9qalc4bHZLZ1BZZ1ViQXI3V19Ed2gyTVNibjZqS1VkZUJaR05WMjdjVmx0LWNvaUV3Mnh4SUx5eVFKMkkySzVnUW40OW9aU2VZVVp4Q1NJbjVzQS1IZV9RWUlXc3BUY0hJMVpZT083dDR2dFVhUnZCai1mT3dqUUJR?oc=5",
    "summary": "China moves to curb tech exports, including AI, citing national security risks&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-16T12:20:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f3dc4d9158a1",
-   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUdoZ1dEUV9yMWY2UHVhSmtrdWRyeUYxUDlWRTN1b2EwbGVtSUJZM1lVTnAyMEJybzBnM1hMdU5iZV9Ta3pvXzkzcXk1dGRlcWoycGJzVktfc25UNmM4SEhSZWVQdUw2ekw0RU5kRUNSendlWElacnlvQm43R3d4MnlTZzFZNE8xTjRuN0l3QXg?oc=5",
-   "summary": "Fed chair Warsh says price stability is key but shies away from signals about rates&nbsp;&nbsp;AP News",
    "source": "AP Business",
    "category": "macro",
    "domain": "news.google.com",
@@ -5332,20 +5395,6 @@
     "TSLA"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "55a776511fbe",
-   "title": "Trump wants the midterms to be all about himself. Judging by the ads, Democrats are happy to oblige - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSzRFUjZWczdDQnJ1SWt4RDhzdTBuV1F4LXUyeGtRcE5IM24zdDU5YUFhSzFqX19kdjZPVjVleWtCTEFSd0ZCSTdsbTdaanh0WXE5ZkkxcmVUQjlJYlBzQkI5OXJYWG11MGFWWUR6MVZXMThFb0JzU0NVTnZYUFN5M2NjWmtqdHhUaTVzOEh4anp2enl4MUdrZ0pnM1RjYk84R3c?oc=5",
-   "summary": "Trump wants the midterms to be all about himself. Judging by the ads, Democrats are happy to oblige&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-16T11:42:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8949,50 +8998,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "5f07894c2b00",
-   "title": "Bitcoin rebounds to $82k but set for second week in red",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-16T09:33:12+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "37f675937c4b",
-   "title": "Citizens cuts Rocket Lab stock price target on Neutron delay to 2027",
-   "link": "https://www.investing.com/news/analyst-ratings/citizens-cuts-rocket-lab-stock-price-target-on-neutron-delay-to-2027-93CH-4953465",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-16T09:32:52+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "type": "analyst",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e1ddb01349ec",
-   "title": "Steppe Cement reports 19% revenue increase in third quarter",
-   "link": "https://www.investing.com/news/company-news/steppe-cement-reports-19-revenue-increase-in-third-quarter-93CH-4953464",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-16T09:32:51+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9061,6 +9066,7 @@
   "NOC": "Northrop Grumman",
   "TFC": "Truist Financial",
   "URBN": "Urban Outfitters",
+  "WEC": "WEC Energy Group",
   "GE": "General Electric",
   "BAC": "Bank of America",
   "BG": "Bunge Global SA",
@@ -9121,6 +9127,7 @@
   "APP": "AppLovin",
   "BCS": "Barclays",
   "CCL": "Carnival",
+  "DOCS": "Doximity",
   "DUOL": "Duolingo",
   "EVR": "Evercore",
   "GME": "GameStop",
