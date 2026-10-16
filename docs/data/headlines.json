@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T22:11:32.624745+00:00",
+ "generated": "2026-10-16T22:16:09.097603+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,20 @@
    "published": "2026-10-16T22:03:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7694d00eae08",
+   "title": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlcwLW12UDlEZm1YNlAzTHVxTUJ0Zmh3OFZnZ0h5bmpmSUZzalllbG9XREtXYTZQUjNkYUNzWXpRTTFXWExjLV9vb1VpTVZCX1pBTFdZNGhoeE9lb0lGdTY1a0kwdldpNFE2c3VvUEx2b0JpTTBhc096THIwbWJGdVc2U0diMnhSNlgxZFVhR3pDeGxLc2J6US1tWG1MUElueFNxdGFvUTE?oc=5",
+   "summary": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T22:03:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -62,20 +76,6 @@
    "tag_v": 2
   },
   {
-   "id": "7694d00eae08",
-   "title": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlcwLW12UDlEZm1YNlAzTHVxTUJ0Zmh3OFZnZ0h5bmpmSUZzalllbG9XREtXYTZQUjNkYUNzWXpRTTFXWExjLV9vb1VpTVZCX1pBTFdZNGhoeE9lb0lGdTY1a0kwdldpNFE2c3VvUEx2b0JpTTBhc096THIwbWJGdVc2U0diMnhSNlgxZFVhR3pDeGxLc2J6US1tWG1MUElueFNxdGFvUTE?oc=5",
-   "summary": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-16T21:49:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "e9cb44fb385f",
    "title": "Here's How Many Shares of AbbVie You'd Need for $5,000 in Yearly Dividends",
    "link": "https://www.nasdaq.com/articles/heres-how-many-shares-abbvie-youd-need-5000-yearly-dividends",
@@ -102,6 +102,36 @@
    "published": "2026-10-16T21:47:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f761b15e86a0",
+   "title": "Crude Oil Prices Surge as Global Supply Risks Multiply",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-surge-global-supply-risks-multiply",
+   "summary": "November WTI crude oil (CLX26 ) closed up +3.44 (+3.51%) on Friday, and November RBOB gasoline (RBX26 ) closed up +0.552 (+1.74%). Crude oil and gasoline prices rallied sharply on Friday, with crude posting a 1-month high. Crude prices rose Friday amid a weaker dollar and concerns that escalating hostilities...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T21:45:15+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "b29293e45ae5",
+   "title": "Dollar Weakens on Reduced Fed Rate Hike Chances This Month",
+   "link": "https://www.nasdaq.com/articles/dollar-weakens-reduced-fed-rate-hike-chances-month",
+   "summary": "The dollar index (DXY00 ) tumbled to a 2-week low on Friday and finished down by -0.19%. The dollar came under pressure Friday after Fed Chair Powell refrained from providing guidance on monetary policy or the economy during a speech at the annual IMF meeting in Bangkok. Mr. Powell’s lack...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T21:45:15+00:00",
+   "tickers": [
+    "POWL"
+   ],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -214,36 +244,6 @@
    "published": "2026-10-16T21:40:40+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f761b15e86a0",
-   "title": "Crude Oil Prices Surge as Global Supply Risks Multiply",
-   "link": "https://www.nasdaq.com/articles/crude-oil-prices-surge-global-supply-risks-multiply",
-   "summary": "November WTI crude oil (CLX26 ) closed up +3.44 (+3.51%) on Friday, and November RBOB gasoline (RBX26 ) closed up +0.552 (+1.74%). Crude oil and gasoline prices rallied sharply on Friday, with crude posting a 1-month high. Crude prices rose Friday amid a weaker dollar and concerns that escalating hostilities...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T21:40:33+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "b29293e45ae5",
-   "title": "Dollar Weakens on Reduced Fed Rate Hike Chances This Month",
-   "link": "https://www.nasdaq.com/articles/dollar-weakens-reduced-fed-rate-hike-chances-month",
-   "summary": "The dollar index (DXY00 ) tumbled to a 2-week low on Friday and finished down by -0.19%. The dollar came under pressure Friday after Fed Chair Powell refrained from providing guidance on monetary policy or the economy during a speech at the annual IMF meeting in Bangkok. Mr. Powell’s lack...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T21:40:33+00:00",
-   "tickers": [
-    "POWL"
-   ],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -543,7 +543,7 @@
    "title": "EQB Inc. Appoints Vivian Abdelmessih to the Board of Directors",
    "link": "https://www.prnewswire.com/news-releases/eqb-inc-appoints-vivian-abdelmessih-to-the-board-of-directors-302911612.html",
    "summary": "Kishore Kapoor, current EQB Board member and Chair of the Risk & Capital Committee, to step down effective January 1, 2027 TORONTO, Oct. 16, 2026 /PRNewswire/ -- The Board of Directors of EQB Inc. and Equitable Bank (collectively \"EQB\") today announced that it will appoint Vivian...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-16T21:30:00+00:00",
@@ -2075,7 +2075,7 @@
    "title": "QBTS Stockholder Notice: Robbins LLP Reminds Investors of the Class Action Lawsuit Against D-Wave Quantum Inc.",
    "link": "https://www.prnewswire.com/news-releases/qbts-stockholder-notice-robbins-llp-reminds-investors-of-the-class-action-lawsuit-against-d-wave-quantum-inc-302911530.html",
    "summary": "SAN DIEGO, Oct. 16, 2026 /PRNewswire/ -- Shareholder rights law firm Robbins LLP reminds investors that a class action was filed on behalf of all persons who purchased or otherwise acquired D-Wave (NYSE: QBTS) securities between February 26, 2026 and August 25, 2026, inclusive (the \"Class...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-16T20:24:00+00:00",
@@ -2084,6 +2084,20 @@
    ],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "41bc7f675509",
+   "title": "Russia strikes 9 Ukrainian regions as a new report shows a spike in civilian casualties - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkhGZ3BTcW9RNmZaUXE3TVR3czBVeGlhS3NuYXlyZ1NxU1BpXy16emxHOGRPQ3BKZGM0cVFCWDdFeWpsRnVydHI3dFRYaThlSXI4VVVuMGVLa2xCZnJDdUxxbDNrT1gzd3ZYQUV3VERhZl9fWFlhRHo4N2VEYUUwWldBUGlzcWlxc1FhVWFNdnNsb2xVOS1JbU5EV2QtUXhET2VWT0ozeXU?oc=5",
+   "summary": "Russia strikes 9 Ukrainian regions as a new report shows a spike in civilian casualties&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T20:24:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3536,20 +3550,6 @@
    "tag_v": 2
   },
   {
-   "id": "bb1e7a8c7c1d",
-   "title": "Israeli settlers attack Palestinians during olive harvest, and other Middle East developments - AP News",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTFXVEx4VzRPN1IydkVnbXpuS2dDUHRTZlA2b2w0WEJxa2tTUG9wZTc0SVJRSU9RbTk4cEpGSERTRzNPeFZLTWdMVU12ZkJkd0ZvTmhJWlVXNHB6MjY2d0dhekp2bGNUaVFXUHNTQVlaT2hjQjkwWllETzFzY2tabGg3RzJDcC1mLS1XYXVxZnhkcjcwbk40Q1lkVlFmdm9jSzQwOTJ5amNxd2t4azdmdA?oc=5",
-   "summary": "Israeli settlers attack Palestinians during olive harvest, and other Middle East developments&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-16T19:40:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "58e68ad88e03",
    "title": "CoreWeave stock plunges 12%, but Wall Street analyst says buy the dip",
    "link": "https://www.thestreet.com/investing/stocks/coreweave-stock-plunges-12-but-wall-street-analyst-says-buy-the-dip-crwv",
@@ -3576,6 +3576,20 @@
    "published": "2026-10-16T19:36:37+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d5befb3d1d5a",
+   "title": "Chile’s president makes first state visit to Bolivia in 71 years as region shifts right - AP News",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHBDYk91SENHcjhsSXc5WWY3RF9zWkVQZmR4dktuTVh2SWpScUJ3TnBrckxnX3o0VnA5OFFncG8tWWZueDRmUEJNTHdkeHdRaHN2dE9BMTYzd2VJakRFTjl2anRuZDZObzRYTDN0ckczQ1hTeUJwLW9MTTIwazZjVGFVOVVaSDc1Tmx6X3ZOc0N0U0dyUkh0TlpmVVdXQ1Q0SjNGbEcyeDBQWC12WV9jTFlwcHFhRnNIQnc2bkFYXzNXcmFTeU9F?oc=5",
+   "summary": "Chile’s president makes first state visit to Bolivia in 71 years as region shifts right&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T19:36:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -4992,20 +5006,6 @@
    "published": "2026-10-16T18:17:15+00:00",
    "tickers": [],
    "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "41bc7f675509",
-   "title": "Russia strikes 9 Ukrainian regions as a new report shows a spike in civilian casualties - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkhGZ3BTcW9RNmZaUXE3TVR3czBVeGlhS3NuYXlyZ1NxU1BpXy16emxHOGRPQ3BKZGM0cVFCWDdFeWpsRnVydHI3dFRYaThlSXI4VVVuMGVLa2xCZnJDdUxxbDNrT1gzd3ZYQUV3VERhZl9fWFlhRHo4N2VEYUUwWldBUGlzcWlxc1FhVWFNdnNsb2xVOS1JbU5EV2QtUXhET2VWT0ozeXU?oc=5",
-   "summary": "Russia strikes 9 Ukrainian regions as a new report shows a spike in civilian casualties&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-16T18:17:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
