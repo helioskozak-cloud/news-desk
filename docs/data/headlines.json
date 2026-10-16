@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T09:01:23.607273+00:00",
+ "generated": "2026-10-16T09:06:21.474231+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -2831,20 +2831,6 @@
    "category": "macro",
    "domain": "news.google.com",
    "published": "2026-10-16T03:32:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4dacf1fa43d0",
-   "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTVdJTTJHaHg2ZGo0U2tob2dFdG5JX3p2OGY3MkpEbjZ0LU00Tk1jWEFmSTliR01PWHVTVGdjV1FMc1BTYVZ4U29vUlF0TVZFaUd2aURGVXZnaU5tUXZCT0lHTFVOLVhBejFlN3N0b0pjMU8zcnotWkppYkpMN250S0VDUnI3bzJ4NGY4SzllSS00X19XZnlWaVEtUlg?oc=5",
-   "summary": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-16T03:30:00+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -8825,6 +8811,22 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
+  },
+  {
+   "id": "18848921e7e9",
+   "title": "Sprouts expands a key service for customers as pressure mounts",
+   "link": "https://www.thestreet.com/retail/sprouts-expands-same-day-grocery-delivery-shipt",
+   "summary": "Sprouts Farmers Market makes a new move to reach shoppers as it navigates a competitive grocery retail environment.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-15T20:17:00+00:00",
+   "tickers": [
+    "SFM"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8848,6 +8850,7 @@
   "AMD": "Advanced Micro Devices",
   "CMG": "Chipotle Mexican Grill",
   "MAR": "Marriott International",
+  "SFM": "Sprouts Farmers Market",
   "AMP": "Ameriprise Financial",
   "CRBG": "Corebridge Financial",
   "CRWD": "CrowdStrike Holdings",
