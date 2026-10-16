@@ -1,8 +1,41 @@
 {
- "generated": "2026-10-16T20:21:33.011576+00:00",
+ "generated": "2026-10-16T20:26:07.088609+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "aba7d241a147",
+   "title": "Major earnings reports are due next week, but strong results may not be enough to quell market fears",
+   "link": "https://www.cnbc.com/2026/10/16/major-earnings-reports-market-fears-next-week.html",
+   "summary": "Reports from Meta Platforms and Procter & Gamble are on deck as investors grow wary of the market.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-16T20:25:10+00:00",
+   "tickers": [
+    "META",
+    "PG"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "7308004fda5b",
+   "title": "QBTS Stockholder Notice: Robbins LLP Reminds Investors of the Class Action Lawsuit Against D-Wave Quantum Inc.",
+   "link": "https://www.prnewswire.com/news-releases/qbts-stockholder-notice-robbins-llp-reminds-investors-of-the-class-action-lawsuit-against-d-wave-quantum-inc-302911530.html",
+   "summary": "SAN DIEGO, Oct. 16, 2026 /PRNewswire/ -- Shareholder rights law firm Robbins LLP reminds investors that a class action was filed on behalf of all persons who purchased or otherwise acquired D-Wave (NYSE: QBTS) securities between February 26, 2026 and August 25, 2026, inclusive (the \"Class...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-16T20:24:00+00:00",
+   "tickers": [
+    "QBTS"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "9019308b04d2",
    "title": "Stoke Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(C)(4) | STOK Stock News",
@@ -38,7 +71,7 @@
    "title": "Bank of America Declares Preferred Stock Dividends Payable in November and December 2026",
    "link": "https://www.prnewswire.com/news-releases/bank-of-america-declares-preferred-stock-dividends-payable-in-november-and-december-2026-302911604.html",
    "summary": "CHARLOTTE, N.C., Oct. 16, 2026 /PRNewswire/ -- Bank of America Corporation today announced the Board of Directors has authorized regular cash dividends on the outstanding shares or depositary shares of the following series of preferred stock: Series of Preferred Stock Dividend per Share...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-16T20:15:00+00:00",
@@ -208,20 +241,6 @@
     "SPY",
     "QQQ"
    ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1c8136816573",
-   "title": "Cotton Popping Higher on Friday Morning",
-   "link": "https://www.nasdaq.com/articles/cotton-popping-higher-friday-morning",
-   "summary": "Cotton price action is up 22 to 36 points so far on Friday morning. Futures were under pressure late, despite supportive outside markets, as contracts were down 24 to 60 points. Crude oil was up $2.46 per barrel on the session, with the US dollar index $0.562 lower. The Seam...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T20:14:43+00:00",
-   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -1103,6 +1122,82 @@
    "tag_v": 2
   },
   {
+   "id": "f7bb77dc4fa1",
+   "title": "Corn Bulls Failing to See Strength on a Pick-up in Export Business",
+   "link": "https://www.nasdaq.com/articles/corn-bulls-failing-see-strength-pick-export-business",
+   "summary": "Corn futures are trading with contracts down 2 to 4 cents at midday, getting some slight midday bids off the lows. The CmdtyView national average Cash Corn price was down 2 3/4 cents at $4.36. USDA reported a private export sale of 127,000 MT of corn for 2026/27 to Japan...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T19:52:07+00:00",
+   "tickers": [
+    "MT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1c8136816573",
+   "title": "Cotton Popping Higher on Friday Morning",
+   "link": "https://www.nasdaq.com/articles/cotton-popping-higher-friday-morning",
+   "summary": "Cotton price action is up 22 to 36 points so far on Friday morning. Futures were under pressure late, despite supportive outside markets, as contracts were down 24 to 60 points. Crude oil was up $2.46 per barrel on the session, with the US dollar index $0.562 lower. The Seam...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T19:52:06+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "533d279aedd9",
+   "title": "Coffee Prices Climb on El Niño Weather Concerns",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-climb-el-nino-weather-concerns",
+   "summary": "December arabica coffee (KCZ26 ) is up +6.60 (+2.24%) today, and November ICE robusta coffee (RMX26 ) is up +12 (+0.36%). Coffee prices are moving higher today, with arabica posting a 5-week high. Concerns that an El Niño weather pattern could hurt Brazil's and Vietnam’s coffee crops next year are...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T19:52:06+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "15f6c2bc9a11",
+   "title": "Sugar Prices Sink on Forecasts for Drier Weather in Brazil",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-sink-forecasts-drier-weather-brazil",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.41 (-1.94%) today, and December London ICE white sugar #5 (SWZ26 ) is down -7.20 (-1.28%). Sugar prices are falling today as forecasts for hot, dry weather next week in Brazil’s Center-South region, the country’s largest sugar-producing area, sparked long liquidation...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T19:52:06+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ba3b60be9a77",
+   "title": "Weakness in the Corn Market Continues on Friday Trade",
+   "link": "https://www.nasdaq.com/articles/weakness-corn-market-continues-friday-trade",
+   "summary": "Corn prices are down 1 to 2 cents as futures round out the week of trade. Futures faced late pressure on Thursday, with contracts closing down 1 to 4 cents at the closing bell. Open interest was down 5,434 contracts on Thursday, heavily in the December contract. The CmdtyView national...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T19:52:06+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "ad37774f9a42",
    "title": "Oil set for weekly surge on Mideast supply fears, Russian diesel deal uncertainty",
    "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-on-improving-supplies-wti-set-for-strong-week-4952863",
@@ -1113,23 +1208,6 @@
    "published": "2026-10-16T19:50:40+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "aba7d241a147",
-   "title": "Major earnings reports are due next week, but strong results may not be enough to quell market fears",
-   "link": "https://www.cnbc.com/2026/10/16/major-earnings-reports-market-fears-next-week.html",
-   "summary": "Reports from Meta Platforms and Procter & Gamble are on deck as investors grow wary of the market.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T19:48:41+00:00",
-   "tickers": [
-    "META",
-    "PG"
-   ],
-   "type": "earnings",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -1667,22 +1745,6 @@
    "tag_v": 2
   },
   {
-   "id": "533d279aedd9",
-   "title": "Coffee Prices Climb on El Niño Weather Concerns",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-climb-el-nino-weather-concerns",
-   "summary": "December arabica coffee (KCZ26 ) is up +6.60 (+2.24%) today, and November ICE robusta coffee (RMX26 ) is up +12 (+0.36%). Coffee prices are moving higher today, with arabica posting a 5-week high. Concerns that an El Niño weather pattern could hurt Brazil's and Vietnam’s coffee crops next year are...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T19:16:15+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "097ee0d52169",
    "title": "Kreate Named The Home Depot Partner of the Year for Third Consecutive Year",
    "link": "https://www.prnewswire.com/news-releases/kreate-named-the-home-depot-partner-of-the-year-for-third-consecutive-year-302911587.html",
@@ -2050,22 +2112,6 @@
    "tag_v": 2
   },
   {
-   "id": "f7bb77dc4fa1",
-   "title": "Corn Bulls Failing to See Strength on a Pick-up in Export Business",
-   "link": "https://www.nasdaq.com/articles/corn-bulls-failing-see-strength-pick-export-business",
-   "summary": "Corn futures are trading with contracts down 2 to 4 cents at midday, getting some slight midday bids off the lows. The CmdtyView national average Cash Corn price was down 2 3/4 cents at $4.36. USDA reported a private export sale of 127,000 MT of corn for 2026/27 to Japan...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:58:36+00:00",
-   "tickers": [
-    "MT"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "028f96388240",
    "title": "Hogs Popping Higher on Friday, with Pork Finally Getting Some Bids",
    "link": "https://www.nasdaq.com/articles/hogs-popping-higher-friday-pork-finally-getting-some-bids",
@@ -2079,22 +2125,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "15f6c2bc9a11",
-   "title": "Sugar Prices Sink on Forecasts for Drier Weather in Brazil",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-sink-forecasts-drier-weather-brazil",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.41 (-1.94%) today, and December London ICE white sugar #5 (SWZ26 ) is down -7.20 (-1.28%). Sugar prices are falling today as forecasts for hot, dry weather next week in Brazil’s Center-South region, the country’s largest sugar-producing area, sparked long liquidation...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:58:35+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2134,20 +2164,6 @@
    "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-16T18:58:35+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ba3b60be9a77",
-   "title": "Weakness in the Corn Market Continues on Friday Trade",
-   "link": "https://www.nasdaq.com/articles/weakness-corn-market-continues-friday-trade",
-   "summary": "Corn prices are down 1 to 2 cents as futures round out the week of trade. Futures faced late pressure on Thursday, with contracts closing down 1 to 4 cents at the closing bell. Open interest was down 5,434 contracts on Thursday, heavily in the December contract. The CmdtyView national...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:58:34+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -3446,6 +3462,20 @@
    "published": "2026-10-16T17:31:03+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bb1e7a8c7c1d",
+   "title": "Israeli settlers attack Palestinians during olive harvest, and other Middle East developments - AP News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTFXVEx4VzRPN1IydkVnbXpuS2dDUHRTZlA2b2w0WEJxa2tTUG9wZTc0SVJRSU9RbTk4cEpGSERTRzNPeFZLTWdMVU12ZkJkd0ZvTmhJWlVXNHB6MjY2d0dhekp2bGNUaVFXUHNTQVlaT2hjQjkwWllETzFzY2tabGg3RzJDcC1mLS1XYXVxZnhkcjcwbk40Q1lkVlFmdm9jSzQwOTJ5amNxd2t4azdmdA?oc=5",
+   "summary": "Israeli settlers attack Palestinians during olive harvest, and other Middle East developments&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T17:31:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8993,36 +9023,6 @@
    "published": "2026-10-16T13:20:00+00:00",
    "tickers": [],
    "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "8dbb652ba11c",
-   "title": "Azitra To Implement 1-for-10 Reverse Stock Split",
-   "link": "https://www.nasdaq.com/articles/azitra-implement-1-10-reverse-stock-split",
-   "summary": "(RTTNews) - Friday, Azitra, Inc. (AZTR) announced plans to implement a 1-for-10 reverse stock split, effective October 26, 2026. The company's shares will continue trading under the AZTR ticker on a split-adjusted basis.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T13:19:32+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "df0a9355f37b",
-   "title": "Our top 10 things to watch in the stock market Friday",
-   "link": "https://www.cnbc.com/investingclub/2026/10/16/our-top-10-things-to-watch-in-the-stock-market-friday-.html",
-   "summary": "Wall Street is headed for a mixed open, as CoreWeave shares tumble again.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T13:19:30+00:00",
-   "tickers": [
-    "CRWV"
-   ],
-   "type": "markets",
    "sentiment": "positive",
    "tag_v": 2
   }
