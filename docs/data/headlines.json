@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-16T18:01:38.827020+00:00",
+ "generated": "2026-10-16T18:06:35.665019+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "20ae6bd37cf8",
+   "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+   "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+   "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-10-16T18:04:20+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "5d1127716f40",
    "title": "With Tesla Roadster debut, Elon Musk shows \"flying cars are real\"",
@@ -144,6 +158,83 @@
    "category": "stocks",
    "domain": "investing.com",
    "published": "2026-10-16T17:41:17+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bd68c0e4e4ed",
+   "title": "Cocoa Prices Retreat as North American Cocoa Demand Unexpectedly Falters",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-retreat-north-american-cocoa-demand-unexpectedly-falters",
+   "summary": "December ICE NY cocoa (CCZ26 ) is down -162 (-2.78%) today, and December ICE London cocoa #7 (CAZ26 ) is down -122 (-2.80%). Cocoa prices are retreating today on weaker-than-expected Q3 North American cocoa demand. The National Confectioners Association reported late Thursday that Q3 North American cocoa grindings unexpectedly fell...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T17:41:01+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b67c4054ecd8",
+   "title": "Stock Indexes Mostly Lower as Chipmaker Weakness Persists",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-mostly-lower-chipmaker-weakness-persists",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -0.06% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.44%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.96%. December E-mini S&amp;P futures (ESZ26 ) are down -0.10%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T17:41:00+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ae8bf4d05c74",
+   "title": "Losses in Soybeans Extending to Friday Morning",
+   "link": "https://www.nasdaq.com/articles/losses-soybeans-extending-friday-morning",
+   "summary": "Soybeans are showing extended weakness on Friday morning, with losses of 4 to 6 cents. Futures fell further into the close on Thursday, down 10 to 14 ¼ cents as futures faded Chinese purchases and sell a bearish NOPA report. Open interest was up 3,241 contracts on Thursday, with November...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T17:41:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "533d279aedd9",
+   "title": "Coffee Prices Climb on El Niño Weather Concerns",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-climb-el-nino-weather-concerns",
+   "summary": "December arabica coffee (KCZ26 ) is up +6.60 (+2.24%) today, and November ICE robusta coffee (RMX26 ) is up +12 (+0.36%). Coffee prices are moving higher today, with arabica posting a 5-week high. Concerns that an El Niño weather pattern could hurt Brazil's and Vietnam’s coffee crops next year are...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T17:41:00+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "1c8136816573",
+   "title": "Cotton Popping Higher on Friday Morning",
+   "link": "https://www.nasdaq.com/articles/cotton-popping-higher-friday-morning",
+   "summary": "Cotton price action is up 22 to 36 points so far on Friday morning. Futures were under pressure late, despite supportive outside markets, as contracts were down 24 to 60 points. Crude oil was up $2.46 per barrel on the session, with the US dollar index $0.562 lower. The Seam...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T17:41:00+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -443,53 +534,6 @@
    "tag_v": 2
   },
   {
-   "id": "b67c4054ecd8",
-   "title": "Stock Indexes Mostly Lower as Chipmaker Weakness Persists",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-mostly-lower-chipmaker-weakness-persists",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -0.06% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.44%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.96%. December E-mini S&amp;P futures (ESZ26 ) are down -0.10%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T17:29:44+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "ae8bf4d05c74",
-   "title": "Losses in Soybeans Extending to Friday Morning",
-   "link": "https://www.nasdaq.com/articles/losses-soybeans-extending-friday-morning",
-   "summary": "Soybeans are showing extended weakness on Friday morning, with losses of 4 to 6 cents. Futures fell further into the close on Thursday, down 10 to 14 ¼ cents as futures faded Chinese purchases and sell a bearish NOPA report. Open interest was up 3,241 contracts on Thursday, with November...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T17:29:44+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "533d279aedd9",
-   "title": "Coffee Prices Climb on El Niño Weather Concerns",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-climb-el-nino-weather-concerns",
-   "summary": "December arabica coffee (KCZ26 ) is up +6.60 (+2.24%) today, and November ICE robusta coffee (RMX26 ) is up +12 (+0.36%). Coffee prices are moving higher today, with arabica posting a 5-week high. Concerns that an El Niño weather pattern could hurt Brazil's and Vietnam’s coffee crops next year are...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T17:29:44+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "ba3b60be9a77",
    "title": "Weakness in the Corn Market Continues on Friday Trade",
    "link": "https://www.nasdaq.com/articles/weakness-corn-market-continues-friday-trade",
@@ -515,20 +559,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1c8136816573",
-   "title": "Cotton Popping Higher on Friday Morning",
-   "link": "https://www.nasdaq.com/articles/cotton-popping-higher-friday-morning",
-   "summary": "Cotton price action is up 22 to 36 points so far on Friday morning. Futures were under pressure late, despite supportive outside markets, as contracts were down 24 to 60 points. Crude oil was up $2.46 per barrel on the session, with the US dollar index $0.562 lower. The Seam...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T17:29:43+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -894,6 +924,20 @@
    "id": "eaf5bd13c6a0",
    "title": "Simmons First (SFNC) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/simmons-first-sfnc-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T17:15:10+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "893346947398",
+   "title": "Cohen & Steers (CNS) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/cohen-steers-cns-q3-2026-earnings-call-transcript",
    "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
    "source": "NASDAQ Markets",
    "category": "markets",
@@ -8977,50 +9021,6 @@
    "published": "2026-10-16T12:00:00+00:00",
    "tickers": [],
    "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dcd490ed8788",
-   "title": "Atlanta Braves Holdings Announces Third Quarter 2026 Earnings Release and Quarterly Conference Call | BATRA Stock News",
-   "link": "https://www.stocktitan.net/news/BATRA/atlanta-braves-holdings-announces-third-quarter-2026-earnings-irr51vrvwgvn.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-16T12:00:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4271b38acef9",
-   "title": "Atlas Announces Timing of Third Quarter 2026 Earnings Release and Conference Call | AESI Stock News",
-   "link": "https://www.stocktitan.net/news/AESI/atlas-announces-timing-of-third-quarter-2026-earnings-release-and-kqcfrg97r1xd.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-16T12:00:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "46dd027ecfaa",
-   "title": "Box to Host a Virtual Investor Product Briefing at BoxWorks 2026 | BOX Stock News",
-   "link": "https://www.stocktitan.net/news/BOX/box-to-host-a-virtual-investor-product-briefing-at-box-works-mm8z4g4z1dqj.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-16T12:00:00+00:00",
-   "tickers": [
-    "BOX"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   }
