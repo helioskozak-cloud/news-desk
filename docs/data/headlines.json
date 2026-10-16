@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-16T15:51:32.770209+00:00",
+ "generated": "2026-10-16T15:56:12.709307+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "89a41ea6243f",
+   "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
+   "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+   "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-16T15:52:41+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4135f038e413",
+   "title": "Dow rises, Nasdaq slides as investors continue to rotate out of AI stocks: Live updates",
+   "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+   "summary": "The three major averages are coming off of a winning session on Thursday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-16T15:50:37+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "4a2058e94a30",
    "title": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
@@ -113,20 +143,6 @@
    "tickers": [
     "AAPL"
    ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4135f038e413",
-   "title": "Dow rises, Nasdaq slides as investors continue to rotate out of AI stocks: Live updates",
-   "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
-   "summary": "The three major averages are coming off of a winning session on Thursday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T15:38:46+00:00",
-   "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -352,6 +368,22 @@
    "published": "2026-10-16T15:28:15+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "66f75c096709",
+   "title": "ETHA, STLU: Big ETF Outflows",
+   "link": "https://www.nasdaq.com/articles/etha-stlu-big-etf-outflows",
+   "summary": "Looking at units outstanding versus one week prior within the universe of ETFs covered at ETF Channel, the biggest outflow was seen in the ishares Ethereum Trust ETF, where 8,920,049 units were destroyed, or a 5.5% decrease week over week. And on a percentage change basis, th",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T15:27:34+00:00",
+   "tickers": [
+    "ETHA"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2961,22 +2993,6 @@
    "published": "2026-10-16T13:45:00+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "89a41ea6243f",
-   "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
-   "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-   "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T13:44:52+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -9019,20 +9035,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "b74a2c3f7475",
-   "title": "Hon Hai subsidiary acquires 50% stake in Mitsubishi Electric Mobility",
-   "link": "https://www.investing.com/news/company-news/hon-hai-subsidiary-acquires-50-stake-in-mitsubishi-electric-mobility-93CH-4953655",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-16T10:36:44+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9056,6 +9058,7 @@
   "JCPB": "JPMorgan Core Plus Bond ETF",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "STX": "Seagate Technology Holdings",
+  "ETHA": "iShares Ethereum Trust ETF",
   "GEHC": "GE HealthCare Technologies",
   "AMG": "Affiliated Managers Group",
   "ICE": "Intercontinental Exchange",
