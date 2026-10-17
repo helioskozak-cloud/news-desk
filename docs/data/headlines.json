@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-17T15:01:46.386657+00:00",
+ "generated": "2026-10-17T15:06:31.583853+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ce195313e757",
+   "title": "Heating oil prices will break the bank in the Northeast this winter",
+   "link": "https://www.thestreet.com/economy/heating-oil-prices-will-break-the-bank-in-the-northeast-this-winter",
+   "summary": "Inflation data show heating oil prices are accelerating into winter, and nobody is talking about it.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-17T15:03:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "125b71d59436",
    "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
@@ -28,6 +42,53 @@
    "published": "2026-10-17T14:56:54+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "499eb2dbad4d",
+   "title": "Analysis-High debt, growing strains put focus on need for new development approaches",
+   "link": "https://www.investing.com/news/economy-news/analysishigh-debt-growing-strains-put-focus-on-need-for-new-development-approaches-4955453",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-17T14:54:21+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3e0531f55b4d",
+   "title": "Stock Indexes Finish Sharply Lower as Tech Stocks Plunge",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-lower-tech-stocks-plunge",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -1.09% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.50%. December E-mini S&amp;P futures (ESZ26 ) fell -1.14%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T14:51:22+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ef3071575daf",
+   "title": "Saba Capital sells $675,333 in BlackRock ECAT shares",
+   "link": "https://www.investing.com/news/insider-trading-news/saba-capital-sells-675333-in-blackrock-ecat-shares-93CH-4955451",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-17T14:46:01+00:00",
+   "tickers": [
+    "BLK"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -540,23 +601,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3e0531f55b4d",
-   "title": "Stock Indexes Finish Sharply Lower as Tech Stocks Plunge",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-lower-tech-stocks-plunge",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -1.09% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.50%. December E-mini S&amp;P futures (ESZ26 ) fell -1.14%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-17T13:37:47+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -5103,6 +5147,20 @@
    "tag_v": 2
   },
   {
+   "id": "cb5909261c04",
+   "title": "The aftermath of a school shooting in Oregon, in photos - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa3BVQ3NxY3E3dWFiU3BuWXlPb2ZMcnIyTFBySENFRDJhaGJEMUl2MHVyRF9TWDdicXh2dHVaUU9McmFRd3BXT2lBeFZjZkFBeVhoTk9COXNCdFJDbTdQTk1pOTNPVi1VRE8xX2NzRUV3a3RHWXBibUt0cERROWY0ekhMS3hHaUlPUU0yMjJYcG9Kdm9tM1dLcTNPdDZTcDh6Y2JQcXRaM1o?oc=5",
+   "summary": "The aftermath of a school shooting in Oregon, in photos&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T23:05:21+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "6751ab34553a",
    "title": "Agereh Technologies announces private placement of up to C$600,000",
    "link": "https://www.investing.com/news/company-news/agereh-technologies-announces-private-placement-of-up-to-c600000-93CH-4954973",
@@ -8843,68 +8901,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "b38316516cde",
-   "title": "Prediction: Micron Could Turn $10,000 Into a Fortune by 2030",
-   "link": "https://www.nasdaq.com/articles/prediction-micron-could-turn-10000-fortune-2030",
-   "summary": "Key PointsIf Micron's stock price grows in line with its revenues, investors can expect strong returns in the next few years.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T20:05:00+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "638941eeb113",
-   "title": "Gauzy raises $7 million in private placement led by CEO",
-   "link": "https://www.investing.com/news/company-news/gauzy-raises-7-million-in-private-placement-led-by-ceo-93CH-4954783",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-16T20:04:34+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "872b794f715b",
-   "title": "Celanese raises prices for liquid crystal polymer products",
-   "link": "https://www.investing.com/news/company-news/celanese-raises-prices-for-liquid-crystal-polymer-products-93CH-4954782",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-16T20:04:32+00:00",
-   "tickers": [
-    "CE"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "966a3186f4a6",
-   "title": "Bullish Two Hundred Day Moving Average Cross - CCI",
-   "link": "https://www.nasdaq.com/articles/bullish-two-hundred-day-moving-average-cross-cci",
-   "summary": "In trading on Friday, shares of Crown Castle Inc (Symbol: CCI) crossed above their 200 day moving average of $82.42, changing hands as high as $83.26 per share. Crown Castle Inc shares are currently trading up about 3.1% on the day. The chart below shows the one year performan",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T20:04:05+00:00",
-   "tickers": [
-    "CCI"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8995,7 +8991,6 @@
   "KO": "The Coca-Cola",
   "OMC": "Omnicom Group",
   "PINS": "Pinterest Inc",
-  "CCI": "Crown Castle",
   "MP": "MP Materials",
   "NBIS": "Nebius Group",
   "SARO": "StandardAero",
