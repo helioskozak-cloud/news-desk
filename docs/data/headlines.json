@@ -1,8 +1,53 @@
 {
- "generated": "2026-10-17T14:06:32.648932+00:00",
+ "generated": "2026-10-17T14:10:58.968460+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "3c36ec54d4f9",
+   "title": "Noodles & Company overhauls menu after dozens of locations close",
+   "link": "https://www.thestreet.com/restaurants/noodles-company-overhauls-menu-after-dozens-of-locations-close",
+   "summary": "The restaurant chain adds a new line of menu items after the success of a limited-time offer.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-17T14:07:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "64922f58dc8f",
+   "title": "Home Depot and Lowe's have a spending problem",
+   "link": "https://www.thestreet.com/retail/home-depot-and-lowes-have-a-spending-problem",
+   "summary": "Both retailers are trying different ways to get shoppers to open their wallets.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-17T14:07:00+00:00",
+   "tickers": [
+    "HD",
+    "LOW"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2ee997389a0f",
+   "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
+   "link": "https://www.investing.com/news/economy-news/bank-of-canada-sees-sharply-higher-inflation-outlook-as-oil-surges-macklem-says-4955437",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-17T14:06:43+00:00",
+   "tickers": [],
+   "type": "guidance",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "8765e0b50bc4",
    "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
@@ -494,17 +539,14 @@
   },
   {
    "id": "9f9b1363bf69",
-   "title": "Amazon, Target, and Walmart stay quiet on holiday hiring",
+   "title": "Holiday jobs this year may not end when the holidays do",
    "link": "https://www.thestreet.com/retail/these-major-retailers-are-hiring-for-the-2026-holidays",
-   "summary": "Some stores are hiring, and even the big retailers who haven't announced huge seasonal job pushes may still have openings.",
+   "summary": "Job postings are running ahead of 2019, but the companies that usually lead the charge are doing something different",
    "source": "TheStreet",
    "category": "stocks",
    "domain": "thestreet.com",
    "published": "2026-10-17T12:07:00+00:00",
-   "tickers": [
-    "WMT",
-    "AMZN"
-   ],
+   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8869,48 +8911,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "f6806a5ac4a9",
-   "title": "SWX Makes Bullish Cross Above Critical Moving Average",
-   "link": "https://www.nasdaq.com/articles/swx-makes-bullish-cross-above-critical-moving-average",
-   "summary": "In trading on Friday, shares of Southwest Gas Holdings, Inc. (Symbol: SWX) crossed above their 200 day moving average of $87.72, changing hands as high as $87.95 per share. Southwest Gas Holdings, Inc. shares are currently trading up about 1.9% on the day. The chart below show",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T19:59:10+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c61b8aa44992",
-   "title": "Teucrium Corn Fund (CORN) Shares Cross Below 200 DMA",
-   "link": "https://www.nasdaq.com/articles/teucrium-corn-fund-corn-shares-cross-below-200-dma",
-   "summary": "In trading on Friday, shares of the Teucrium Corn Fund ETF (Symbol: CORN) crossed below their 200 day moving average of $18.18, changing hands as low as $18.12 per share. Teucrium Corn Fund shares are currently trading off about 1% on the day. The chart below shows the one yea",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T19:59:06+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e01f11b965b7",
-   "title": "FLAU Crosses Above Key Moving Average Level",
-   "link": "https://www.nasdaq.com/articles/flau-crosses-above-key-moving-average-level",
-   "summary": "In trading on Friday, shares of the Franklin FTSE Australia ETF (Symbol: FLAU) crossed above their 200 day moving average of $34.32, changing hands as high as $34.54 per share. Franklin FTSE Australia shares are currently trading up about 0.6% on the day. The chart below shows",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T19:59:01+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8971,6 +8971,7 @@
   "ENSG": "The Ensign Group",
   "J": "Jacobs Solutions",
   "JPM": "JPMorgan Chase &",
+  "LOW": "Lowe's Companies",
   "PTCT": "PTC Therapeutics",
   "URBN": "Urban Outfitters",
   "WM": "Waste Management",
@@ -8983,6 +8984,7 @@
   "TEL": "TE Connectivity",
   "VRNS": "Varonis Systems",
   "VRT": "Vertiv Holdings",
+  "HD": "The Home Depot",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "QBTS": "D-Wave Quantum",
