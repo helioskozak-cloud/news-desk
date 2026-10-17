@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T22:51:09.197376+00:00",
+ "generated": "2026-10-17T22:56:30.374189+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -16,6 +16,20 @@
     "RL"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aaa2a16a1a13",
+   "title": "Loop: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/loop-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsLoop downsized its first India facility to 45,000 kilotons per annum.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T22:33:48+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -50,6 +64,22 @@
    "tag_v": 2
   },
   {
+   "id": "c921398071ae",
+   "title": "Should You Buy NuScale at $6 After the Google Rally? Here's the Next Catalyst That Could Send It Higher.",
+   "link": "https://www.nasdaq.com/articles/should-you-buy-nuscale-6-after-google-rally-heres-next-catalyst-could-send-it-higher",
+   "summary": "Key PointsNuScale could benefit from the rising demand for nuclear energy for data centers and other industry operators.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T22:25:00+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "0c41faaf1470",
    "title": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast",
    "link": "https://www.cnbc.com/2026/10/17/hurricane-trudy-mexico-typhoon-champi-guam.html",
@@ -75,6 +105,20 @@
    "tickers": [
     "DBX"
    ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c40f1f3fb4e0",
+   "title": "ManpowerGroup: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/manpowergroup-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsBecky Frankiewicz becomes chief executive officer on Jan. 1, 2027.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T22:04:48+00:00",
+   "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8883,50 +8927,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "0531b88a076e",
-   "title": "LGI Homes Announces the Opening of New Community in Weatherford, Texas | LGIH Stock News",
-   "link": "https://www.stocktitan.net/news/LGIH/lgi-homes-announces-the-opening-of-new-community-in-weatherford-ue170quplf5h.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-16T21:00:00+00:00",
-   "tickers": [
-    "WFRD"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "842218a3e5d4",
-   "title": "U.S. dollar snaps four-week win streak, helping the euro halt a five-week slide",
-   "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-weakens-after-bond-rally-rupee-set-for-2-weekly-jump-4953070",
-   "summary": "",
-   "source": "Investing Forex",
-   "category": "fx",
-   "domain": "investing.com",
-   "published": "2026-10-16T20:59:45+00:00",
-   "tickers": [],
-   "type": "fx",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2dc283c1e464",
-   "title": "LA fire survivors are set to lose case managers as standoff between California and FEMA drags on - AP News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3p4bldZdzdkbUFYSjlPc1dHWWZZdnZkYzFMV211aXNJUktSb2dzLV83VThJZnhjQkhGR3c4WFRMa1pRbDVqUzQzdWMzNE1LcXBQOWIyZlgyMWs5aTY1MU40d1lwYWF1b253N3Npb2dDbXNNa045RXhnRVZ3a25TbkY0LS1obFhJWjV0RmtrT1pmVmw1Nmk5RUlONE1DQmIy?oc=5",
-   "summary": "LA fire survivors are set to lose case managers as standoff between California and FEMA drags on&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-16T20:58:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8948,7 +8948,6 @@
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "REGN": "Regeneron Pharmaceuticals",
-  "WFRD": "Weatherford International",
   "PTGX": "Protagonist Therapeutics",
   "HON": "Honeywell International",
   "AMD": "Advanced Micro Devices",
