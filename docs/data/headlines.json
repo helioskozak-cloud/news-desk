@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T00:11:33.331238+00:00",
+ "generated": "2026-10-17T00:16:40.309342+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -57,8 +57,69 @@
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
-   "published": "2026-10-16T23:54:46+00:00",
+   "published": "2026-10-17T00:01:11+00:00",
    "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7bc0ea721142",
+   "title": "Wheat Weakness Extends into the Weekend",
+   "link": "https://www.nasdaq.com/articles/wheat-weakness-extends-weekend",
+   "summary": "The wheat complex headed into the weekend holding onto the weakness on Friday. Chicago SRW contracts fell lower on Friday, with contracts down 1 ½ to 9 ½ cents on the day and December losing 10 ½ cents this week. KC HRW futures slipped back 3 to 9 cents at...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T00:01:11+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c65a259cc357",
+   "title": "Corn Falls on Friday as Spec Longs Continue Exit",
+   "link": "https://www.nasdaq.com/articles/corn-falls-friday-spec-longs-continue-exit",
+   "summary": "Corn futures closed out the Friday session with contracts 1 to 4 ½ cents across the board, as December was 5 ½ cents lower. The CmdtyView national average Cash Corn price was down 3 3/4 cents at $4.35. Now halfway through October the average close for December futures has been...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T00:01:11+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3e0531f55b4d",
+   "title": "Stock Indexes Finish Sharply Lower as Tech Stocks Plunge",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-lower-tech-stocks-plunge",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -1.09% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.50%. December E-mini S&amp;P futures (ESZ26 ) fell -1.14%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T00:01:11+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "10f7f14ed105",
+   "title": "Sugar Prices Decline on Drier Weather Forecasts for Brazil",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-decline-drier-weather-forecasts-brazil",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.28 (-1.33%) on Friday, and December London ICE white sugar #5 (SWZ26 ) closed down -6.20 (-1.10%). Sugar prices came under pressure on Friday as forecasts for hot, dry weather next week in Brazil’s Center-South region, the country’s largest sugar-producing area,...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T00:01:10+00:00",
+   "tickers": [
+    "ICE"
+   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -104,20 +165,6 @@
    "published": "2026-10-16T23:48:29+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7bc0ea721142",
-   "title": "Wheat Weakness Extends into the Weekend",
-   "link": "https://www.nasdaq.com/articles/wheat-weakness-extends-weekend",
-   "summary": "The wheat complex headed into the weekend holding onto the weakness on Friday. Chicago SRW contracts fell lower on Friday, with contracts down 1 ½ to 9 ½ cents on the day and December losing 10 ½ cents this week. KC HRW futures slipped back 3 to 9 cents at...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T23:48:22+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -233,20 +280,6 @@
    "tickers": [],
    "type": "dividend",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "c65a259cc357",
-   "title": "Corn Falls on Friday as Spec Longs Continue Exit",
-   "link": "https://www.nasdaq.com/articles/corn-falls-friday-spec-longs-continue-exit",
-   "summary": "Corn futures closed out the Friday session with contracts 1 to 4 ½ cents across the board, as December was 5 ½ cents lower. The CmdtyView national average Cash Corn price was down 3 3/4 cents at $4.35. Now halfway through October the average close for December futures has been...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T23:36:17+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -417,23 +450,6 @@
    "tag_v": 2
   },
   {
-   "id": "3e0531f55b4d",
-   "title": "Stock Indexes Finish Sharply Lower as Tech Stocks Plunge",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-lower-tech-stocks-plunge",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -1.09% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.50%. December E-mini S&amp;P futures (ESZ26 ) fell -1.14%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T23:24:42+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "6ca83e25cceb",
    "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
    "link": "https://www.investing.com/news/stock-market-news/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports-4954941",
@@ -519,22 +535,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "10f7f14ed105",
-   "title": "Sugar Prices Decline on Drier Weather Forecasts for Brazil",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-decline-drier-weather-forecasts-brazil",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.28 (-1.33%) on Friday, and December London ICE white sugar #5 (SWZ26 ) closed down -6.20 (-1.10%). Sugar prices came under pressure on Friday as forecasts for hot, dry weather next week in Brazil’s Center-South region, the country’s largest sugar-producing area,...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T23:12:07+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -699,9 +699,9 @@
   },
   {
    "id": "4d8effd43fc6",
-   "title": "/C O R R E C T I O N - PepsiCo Beverages North America/",
+   "title": "PEPSI® AND OFF SEASON GIVE GREAT TASTE A ONE-OF-A-KIND TAILGATE FIT WITH MINI NFL PUFFER CAN JACKETS",
    "link": "https://www.prnewswire.com/news-releases/pepsi-and-off-season-give-great-taste-a-one-of-a-kind-tailgate-fit-with-mini-nfl-puffer-can-jackets-302909405.html",
-   "summary": "In the news release, PEPSI® AND OFF SEASON GIVE GREAT TASTE A ONE-OF-A-KIND TAILGATE FIT WITH MINI NFL PUFFER CAN JACKETS, issued 15-Oct-2026 by PepsiCo Beverages North America over PR Newswire, we are advised by the company that changes have been made. The complete, corrected release...",
+   "summary": "Fan-favorite Off Season shrinks its viral NFL puffer down to fit 12-ounce Pepsi cans, pairing ice-cold Pepsi with official team style across all 15 NFL team partners Off Season reimagines its signature NFL puffer as a functional can jacket designed to keep Pepsi cold and hands comfortable...",
    "source": "PR Newswire All",
    "category": "press",
    "domain": "prnewswire.com",
@@ -1014,7 +1014,7 @@
    "title": "Lightview Capital and Thorn Run Partners Announce Partnership to Fuel Further Growth",
    "link": "https://www.prnewswire.com/news-releases/lightview-capital-and-thorn-run-partners-announce-partnership-to-fuel-further-growth-302911682.html",
    "summary": "WASHINGTON, Oct. 16, 2026 /PRNewswire/ -- Lightview Capital announced a strategic growth investment in Thorn Run Partners (TRP), a Top 10 ranked national, bipartisan government relations firm. The partnership will serve as a growth catalyst, designed to enhance TRP's service offerings,...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-16T22:30:00+00:00",
@@ -1344,6 +1344,22 @@
    "published": "2026-10-16T21:54:59+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7aebd494f587",
+   "title": "Tesla’s new Roadster car can thrust itself in the air. But don’t expect to drive it anytime soon - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX195aDdJcFhmZnVFYWFLZDFLX0Nudkp5VGh2Q2VVRm5neVVibXFwYzIzQUpiM09VZ0UxUWhfUU5tcllJdGlGckZEWEloeTRwMVhLRDBua1p2UlVMS0FXS09leHZXYmxBMkVVSTg0enRtOE94bk9BYXdYYUhSVjZaZUlCcFpRb002bDJkOGdBWQ?oc=5",
+   "summary": "Tesla’s new Roadster car can thrust itself in the air. But don’t expect to drive it anytime soon&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T21:53:00+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1785,7 +1801,7 @@
    "title": "EQB Inc. Appoints Vivian Abdelmessih to the Board of Directors",
    "link": "https://www.prnewswire.com/news-releases/eqb-inc-appoints-vivian-abdelmessih-to-the-board-of-directors-302911612.html",
    "summary": "Kishore Kapoor, current EQB Board member and Chair of the Risk & Capital Committee, to step down effective January 1, 2027 TORONTO, Oct. 16, 2026 /PRNewswire/ -- The Board of Directors of EQB Inc. and Equitable Bank (collectively \"EQB\") today announced that it will appoint Vivian...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-16T21:30:00+00:00",
@@ -7297,6 +7313,20 @@
    "tag_v": 2
   },
   {
+   "id": "68571489cf55",
+   "title": "Can DC blend horror with a superhero movie? ‘Clayface’ wants to blur genres - AP News",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGFOR2pjRVhGa1kxN1k3czc5ZFFjU3pWSVdFMWVDU3pCRkFTbjd3T19BUjJ5N0lkN2JmNUtKb1hGQmVMaUZaSGZfQS1mMkl6VkttLW1DM3FOdUJKMkJmdW1mcUNPYVNHdldWX2p3OXFpamp0d3AzM21hWnhjc2pCaW02dWlHdw?oc=5",
+   "summary": "Can DC blend horror with a superhero movie? ‘Clayface’ wants to blur genres&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T17:15:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "341b0bcc0f81",
    "title": "Regions Financial (RF) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/regions-financial-rf-q3-2026-earnings-call-transcript",
@@ -8857,36 +8887,6 @@
    "type": "press",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "b82f617ad423",
-   "title": "Human Longevity Expands Its $1 Million Cancer Prevention Pledge to Breast Cancer",
-   "link": "https://www.prnewswire.com/news-releases/human-longevity-expands-its-1-million-cancer-prevention-pledge-to-breast-cancer-302910773.html",
-   "summary": "Breast Cancer Awareness Month initiative supports early detection and eligible members diagnosed with stage IV disease SAN FRANCISCO, Oct. 16, 2026 /PRNewswire/ -- Human Longevity, Inc. (HLI) today expanded its $1 million Cancer Prevention Pledge to breast cancer, providing up to $1...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-16T16:00:00+00:00",
-   "tickers": [
-    "HLI"
-   ],
-   "type": "press",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "56a7038e33f9",
-   "title": "Opus Genetics Announces FDA Approval of Phentolamine Ophthalmic Solution 0.75% for the Treatment of Presbyopia | IRD Stock News",
-   "link": "https://www.stocktitan.net/news/IRD/opus-genetics-announces-fda-approval-of-phentolamine-ophthalmic-r0amehwvo6fv.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-16T16:00:00+00:00",
-   "tickers": [],
-   "type": "fda",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8961,7 +8961,6 @@
   "DPZ": "Domino's Pizza",
   "FLNC": "Fluence Energy",
   "HD": "The Home Depot",
-  "HLI": "Houlihan Lokey",
   "META": "Meta Platforms",
   "NVT": "nVent Electric",
   "QBTS": "D-Wave Quantum",
