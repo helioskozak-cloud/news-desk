@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T07:26:32.892247+00:00",
+ "generated": "2026-10-17T07:31:29.693616+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -43,6 +43,23 @@
    "domain": "investing.com",
    "published": "2026-10-17T07:01:08+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9a49c4a7429b",
+   "title": "BYD or Tesla: Which Is a Better Stock?",
+   "link": "https://www.nasdaq.com/articles/byd-or-tesla-which-better-stock",
+   "summary": "Key PointsBYD is largely a bet on execution.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T06:50:00+00:00",
+   "tickers": [
+    "TSLA",
+    "BYD"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8875,22 +8892,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "98e9e18f2843",
-   "title": "BULL Investor Alert: Kessler Topaz Meltzer &amp; Check, LLP Encourages BULL Investors with Losses to Contact the Firm",
-   "link": "https://www.prnewswire.com/news-releases/bull-investor-alert-kessler-topaz-meltzer--check-llp-encourages-bull-investors-with-losses-to-contact-the-firm-302910777.html",
-   "summary": "Did you buy BULL securities between April 26, 2025 and October 6, 2026? Affected BULL Investor Summary Who: Webull Corporation (NASDAQ: BULL) What: Securities fraud class action lawsuit filed Class Period: April 26, 2026 through October 6, 2026 Deadline to Seek Lead Plaintiff Status:...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-16T17:30:00+00:00",
-   "tickers": [
-    "BULL"
-   ],
-   "type": "press",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8982,6 +8983,7 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
+  "BYD": "Boyd Gaming",
   "NVS": "Novartis AG",
   "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
@@ -9029,7 +9031,6 @@
   "SPY": "SPY ETF",
   "ABBV": "AbbVie",
   "BIIB": "Biogen",
-  "BULL": "Webull",
   "FTS": "Fortis",
   "M": "Macy's",
   "NTRA": "Natera",
