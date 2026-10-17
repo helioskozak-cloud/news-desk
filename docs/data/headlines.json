@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T03:01:15.934113+00:00",
+ "generated": "2026-10-17T03:05:58.962654+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,64 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "040e5e7bd0ee",
+   "title": "Cattle Rally into the Weekend, as Cash Firms",
+   "link": "https://www.nasdaq.com/articles/cattle-rally-weekend-cash-firms",
+   "summary": "Live cattle futures caught some strength on Friday, with contracts up $1.10 to $1.65 at the close. December was up $1.30 on the week. USDA reported northern dressed sales at $350-355 and $222-227 live. Southern sales were reported at $228. The Friday morning Fed Cattle Exchange online auction showed sales...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T02:41:57+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "7bc0ea721142",
+   "title": "Wheat Weakness Extends into the Weekend",
+   "link": "https://www.nasdaq.com/articles/wheat-weakness-extends-weekend",
+   "summary": "The wheat complex headed into the weekend holding onto the weakness on Friday. Chicago SRW contracts fell lower on Friday, with contracts down 1 ½ to 9 ½ cents on the day and December losing 10 ½ cents this week. KC HRW futures slipped back 3 to 9 cents at...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T02:41:57+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "05211d8bbdd1",
+   "title": "Hog Bulls Find Footing on Friday, as Pork Sees Strength",
+   "link": "https://www.nasdaq.com/articles/hog-bulls-find-footing-friday-pork-sees-strength",
+   "summary": "Lean hog futures found some strength to close the week, with contracts up 27 cents to $1.25 on Friday. December was still down 90 cents for the week. USDA’s national base hog price was reported at $67.09 on Friday afternoon down $4.61 from the day prior. The CME Lean Hog...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T02:41:57+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c65a259cc357",
+   "title": "Corn Falls on Friday as Spec Longs Continue Exit",
+   "link": "https://www.nasdaq.com/articles/corn-falls-friday-spec-longs-continue-exit",
+   "summary": "Corn futures closed out the Friday session with contracts 1 to 4 ½ cents across the board, as December was 5 ½ cents lower. The CmdtyView national average Cash Corn price was down 3 3/4 cents at $4.35. Now halfway through October the average close for December futures has been...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T02:41:56+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -87,50 +145,6 @@
    "domain": "nasdaq.com",
    "published": "2026-10-17T02:24:52+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "040e5e7bd0ee",
-   "title": "Cattle Rally into the Weekend, as Cash Firms",
-   "link": "https://www.nasdaq.com/articles/cattle-rally-weekend-cash-firms",
-   "summary": "Live cattle futures caught some strength on Friday, with contracts up $1.10 to $1.65 at the close. December was up $1.30 on the week. USDA reported northern dressed sales at $350-355 and $222-227 live. Southern sales were reported at $228. The Friday morning Fed Cattle Exchange online auction showed sales...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-17T02:24:52+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "7bc0ea721142",
-   "title": "Wheat Weakness Extends into the Weekend",
-   "link": "https://www.nasdaq.com/articles/wheat-weakness-extends-weekend",
-   "summary": "The wheat complex headed into the weekend holding onto the weakness on Friday. Chicago SRW contracts fell lower on Friday, with contracts down 1 ½ to 9 ½ cents on the day and December losing 10 ½ cents this week. KC HRW futures slipped back 3 to 9 cents at...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-17T02:24:52+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "05211d8bbdd1",
-   "title": "Hog Bulls Find Footing on Friday, as Pork Sees Strength",
-   "link": "https://www.nasdaq.com/articles/hog-bulls-find-footing-friday-pork-sees-strength",
-   "summary": "Lean hog futures found some strength to close the week, with contracts up 27 cents to $1.25 on Friday. December was still down 90 cents for the week. USDA’s national base hog price was reported at $67.09 on Friday afternoon down $4.61 from the day prior. The CME Lean Hog...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-17T02:24:52+00:00",
-   "tickers": [
-    "CME"
-   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -347,20 +361,6 @@
     "SPY",
     "QQQ"
    ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "c65a259cc357",
-   "title": "Corn Falls on Friday as Spec Longs Continue Exit",
-   "link": "https://www.nasdaq.com/articles/corn-falls-friday-spec-longs-continue-exit",
-   "summary": "Corn futures closed out the Friday session with contracts 1 to 4 ½ cents across the board, as December was 5 ½ cents lower. The CmdtyView national average Cash Corn price was down 3 3/4 cents at $4.35. Now halfway through October the average close for December futures has been...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-17T01:59:15+00:00",
-   "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
@@ -1347,20 +1347,6 @@
    "tag_v": 2
   },
   {
-   "id": "70d387dea95d",
-   "title": "Painting Eisenhower Building would diminish historic character of White House complex, report says - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmtnQmJhZUdYenI5NG1feE1iZnZTYjFiYTRaSm1mdlNORXlYRlpTMzJNaExzRERwejJzQTZYWnlQMzl5d1lYaFhMUThuMWlWTnktcHczOWkzYlZKdnctMTA5UFIxOVBHWEJxOG13cjhLLU1hTXc2TEo4YW8xUWFjam5SaUtXMnFodUNFRUFFQV9ybG9QNTBTMm1hYUt4bHZNbW8wNE1hNFlBR2gw?oc=5",
-   "summary": "Painting Eisenhower Building would diminish historic character of White House complex, report says&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-16T23:17:15+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "9dedd2e21565",
    "title": "Ani pharma president & ceo Lalwani sells shares for $388k",
    "link": "https://www.investing.com/news/insider-trading-news/ani-pharma-president--ceo-lalwani-sells-shares-for-388k-93CH-4954985",
@@ -1405,6 +1391,20 @@
    "tag_v": 2
   },
   {
+   "id": "70d387dea95d",
+   "title": "Painting Eisenhower Building would diminish historic character of White House complex, report says - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmtnQmJhZUdYenI5NG1feE1iZnZTYjFiYTRaSm1mdlNORXlYRlpTMzJNaExzRERwejJzQTZYWnlQMzl5d1lYaFhMUThuMWlWTnktcHczOWkzYlZKdnctMTA5UFIxOVBHWEJxOG13cjhLLU1hTXc2TEo4YW8xUWFjam5SaUtXMnFodUNFRUFFQV9ybG9QNTBTMm1hYUt4bHZNbW8wNE1hNFlBR2gw?oc=5",
+   "summary": "Painting Eisenhower Building would diminish historic character of White House complex, report says&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T23:07:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "f8b1596f6aff",
    "title": "Anthropic signs lease for first Canadian data center",
    "link": "https://www.investing.com/news/stock-market-news/anthropic-signs-lease-for-first-canadian-data-center-4954967",
@@ -1431,20 +1431,6 @@
     "USB"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cb5909261c04",
-   "title": "The aftermath of a school shooting in Oregon, in photos - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa3BVQ3NxY3E3dWFiU3BuWXlPb2ZMcnIyTFBySENFRDJhaGJEMUl2MHVyRF9TWDdicXh2dHVaUU9McmFRd3BXT2lBeFZjZkFBeVhoTk9COXNCdFJDbTdQTk1pOTNPVi1VRE8xX2NzRUV3a3RHWXBibUt0cERROWY0ekhMS3hHaUlPUU0yMjJYcG9Kdm9tM1dLcTNPdDZTcDh6Y2JQcXRaM1o?oc=5",
-   "summary": "The aftermath of a school shooting in Oregon, in photos&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-16T23:05:21+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3834,6 +3820,20 @@
     "FIX"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d3c8ea9f5dbd",
+   "title": "US markets are weighed down by an extended sell-off in the tech sector - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFFYejUyLUpIbnJydUstZS1rSXRsdFhVN1hNTHF0VDIyc0FUZzFObERkVURrWFhyOVJrNmlSVExieWlKYlR2U1ByRTBxVVhGbjJrZzYxOEJzZVNJTVd2d3BCaXlaV29oNTJCVVkxRXJIbDUtR2poTXBMblhETkNlV1c1R3Vrck9RaHg0dXRCd0NUTmFDcFNkbUlVNA?oc=5",
+   "summary": "US markets are weighed down by an extended sell-off in the tech sector&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T20:37:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6880,6 +6880,20 @@
    "tag_v": 2
   },
   {
+   "id": "cb5909261c04",
+   "title": "The aftermath of a school shooting in Oregon, in photos - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa3BVQ3NxY3E3dWFiU3BuWXlPb2ZMcnIyTFBySENFRDJhaGJEMUl2MHVyRF9TWDdicXh2dHVaUU9McmFRd3BXT2lBeFZjZkFBeVhoTk9COXNCdFJDbTdQTk1pOTNPVi1VRE8xX2NzRUV3a3RHWXBibUt0cERROWY0ekhMS3hHaUlPUU0yMjJYcG9Kdm9tM1dLcTNPdDZTcDh6Y2JQcXRaM1o?oc=5",
+   "summary": "The aftermath of a school shooting in Oregon, in photos&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T18:37:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "17a58d21d0ba",
    "title": "Dutch Bros Has Lost a Third of Its Value in 2026. Is It Time to Buy?",
    "link": "https://www.nasdaq.com/articles/dutch-bros-has-lost-third-its-value-2026-it-time-buy",
@@ -8899,20 +8913,6 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "8df677d7c314",
-   "title": "Thames Water reaches deal with Class B creditors on debt terms",
-   "link": "https://www.investing.com/news/company-news/thames-water-reaches-deal-with-class-b-creditors-on-debt-terms-93CH-4954630",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-16T16:40:29+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   }
  ],
