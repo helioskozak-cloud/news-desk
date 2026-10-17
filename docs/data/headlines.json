@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-17T22:36:27.253604+00:00",
+ "generated": "2026-10-17T22:41:27.755154+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "6f1b97ffc871",
+   "title": "Protagonist CFO Ali Asif sells $8.3 million in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/protagonist-cfo-ali-asif-sells-83-million-in-company-stock-93CH-4955634",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-17T22:31:13+00:00",
+   "tickers": [
+    "PTGX"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "345bb6026879",
    "title": "Mass protests in France spiral into worst riots in years",
@@ -27,6 +43,22 @@
    "domain": "cnbc.com",
    "published": "2026-10-17T22:22:53+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ac979523742c",
+   "title": "Dropbox CAO Sarah Schubach sells $65,893 of stock",
+   "link": "https://www.investing.com/news/insider-trading-news/dropbox-cao-sarah-schubach-sells-65893-of-stock-93CH-4955624",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-17T22:16:05+00:00",
+   "tickers": [
+    "DBX"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8895,36 +8927,6 @@
    "type": "markets",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "3d75b5606944",
-   "title": "Maverick Gold closes first tranche of private placement",
-   "link": "https://www.investing.com/news/company-news/maverick-gold-closes-first-tranche-of-private-placement-93CH-4954846",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-16T20:52:31+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b3023a6bb7e5",
-   "title": "Google Partner Novacore Labs and AIBotics Complete Acquisition of Assets, Expanding AI, Drone, Mapping and Automation Platform in Jamaica | AIBT Stock News",
-   "link": "https://www.stocktitan.net/news/AIBT/google-partner-novacore-labs-and-ai-botics-complete-acquisition-of-aalogduzz262.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-16T20:52:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8947,6 +8949,7 @@
   "JEF": "Jefferies Financial Group",
   "REGN": "Regeneron Pharmaceuticals",
   "WFRD": "Weatherford International",
+  "PTGX": "Protagonist Therapeutics",
   "HON": "Honeywell International",
   "AMD": "Advanced Micro Devices",
   "CAKE": "The Cheesecake Factory",
@@ -9053,6 +9056,7 @@
   "SATS": "EchoStar",
   "SNPS": "Synopsys",
   "BNTX": "BioNTech",
+  "DBX": "Dropbox",
   "IOT": "Samsara",
   "MDLN": "Medline",
   "MRNA": "Moderna",
