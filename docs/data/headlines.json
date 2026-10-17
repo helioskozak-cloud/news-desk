@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-17T15:21:01.859399+00:00",
+ "generated": "2026-10-17T15:26:17.576704+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ae035f90caea",
+   "title": "GIC Private Ltd sells $274.8 million in Medline (MDLN) shares",
+   "link": "https://www.investing.com/news/insider-trading-news/gic-private-ltd-sells-2748-million-in-medline-mdln-shares-93CH-4955458",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-17T15:16:10+00:00",
+   "tickers": [
+    "MDLN"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "5d627f041ab3",
    "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
@@ -15,6 +31,20 @@
    "tickers": [
     "BRK-A"
    ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "499eb2dbad4d",
+   "title": "Analysis-High debt, growing strains put focus on need for new development approaches",
+   "link": "https://www.investing.com/news/economy-news/analysishigh-debt-growing-strains-put-focus-on-need-for-new-development-approaches-4955453",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-17T15:06:19+00:00",
+   "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -58,20 +88,6 @@
    "published": "2026-10-17T14:56:54+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "499eb2dbad4d",
-   "title": "Analysis-High debt, growing strains put focus on need for new development approaches",
-   "link": "https://www.investing.com/news/economy-news/analysishigh-debt-growing-strains-put-focus-on-need-for-new-development-approaches-4955453",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-17T14:54:21+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8887,22 +8903,6 @@
    "type": "fda",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "3bc660416a9c",
-   "title": "Omnicom Schedules Third Quarter 2026 Earnings Release and Conference Call",
-   "link": "https://www.prnewswire.com/news-releases/omnicom-schedules-third-quarter-2026-earnings-release-and-conference-call-302911609.html",
-   "summary": "NEW YORK, Oct. 16, 2026 /PRNewswire/ -- Omnicom (NYSE: OMC) will publish its third quarter 2026 results on Thursday, October 22, 2026 after the New York Stock Exchange close of trading. The company will also host a conference call to review such financial results on Thursday, October 22,...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-16T20:05:00+00:00",
-   "tickers": [
-    "OMC"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9033,6 +9033,7 @@
   "SNPS": "Synopsys",
   "WWD": "Woodward",
   "IOT": "Samsara",
+  "MDLN": "Medline",
   "MRK": "Merck &",
   "MRNA": "Moderna",
   "PEP": "PepsiCo",
