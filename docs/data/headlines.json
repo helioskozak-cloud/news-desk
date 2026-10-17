@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T13:51:33.899030+00:00",
+ "generated": "2026-10-17T13:55:58.439542+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -31,6 +31,23 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3e0531f55b4d",
+   "title": "Stock Indexes Finish Sharply Lower as Tech Stocks Plunge",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-lower-tech-stocks-plunge",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -1.09% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.50%. December E-mini S&amp;P futures (ESZ26 ) fell -1.14%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T13:37:47+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2224,23 +2241,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3e0531f55b4d",
-   "title": "Stock Indexes Finish Sharply Lower as Tech Stocks Plunge",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-lower-tech-stocks-plunge",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -1.09% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.50%. December E-mini S&amp;P futures (ESZ26 ) fell -1.14%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-17T06:10:24+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -4471,6 +4471,20 @@
     "USB"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cb5909261c04",
+   "title": "The aftermath of a school shooting in Oregon, in photos - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa3BVQ3NxY3E3dWFiU3BuWXlPb2ZMcnIyTFBySENFRDJhaGJEMUl2MHVyRF9TWDdicXh2dHVaUU9McmFRd3BXT2lBeFZjZkFBeVhoTk9COXNCdFJDbTdQTk1pOTNPVi1VRE8xX2NzRUV3a3RHWXBibUt0cERROWY0ekhMS3hHaUlPUU0yMjJYcG9Kdm9tM1dLcTNPdDZTcDh6Y2JQcXRaM1o?oc=5",
+   "summary": "The aftermath of a school shooting in Oregon, in photos&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-16T23:05:21+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8897,27 +8911,10 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "213c62f91299",
-   "title": "ProShares UltraShort Bloomberg Natural Gas (KOLD) Shares Cross Above 200 DMA",
-   "link": "https://www.nasdaq.com/articles/proshares-ultrashort-bloomberg-natural-gas-kold-shares-cross-above-200-dma",
-   "summary": "In trading on Friday, shares of the ProShares UltraShort Bloomberg Natural Gas ETF (Symbol: KOLD) crossed above their 200 day moving average of $25.87, changing hands as high as $27.19 per share. ProShares UltraShort Bloomberg Natural Gas shares are currently trading up about 9",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T19:58:53+00:00",
-   "tickers": [
-    "KOLD"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
   "SPTM": "State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF",
-  "KOLD": "ProShares UltraShort Bloomberg Natural Gas",
   "KTOS": "Kratos Defense & Security Solutions",
   "CCC": "CCC Intelligent Solutions Holdings",
   "SHV": "iShares 0-1 Year Treasury Bond ETF",
