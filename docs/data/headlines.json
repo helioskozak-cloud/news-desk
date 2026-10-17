@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T18:11:30.477563+00:00",
+ "generated": "2026-10-17T18:16:32.468607+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -16,6 +16,34 @@
     "BAC"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "33e86ac24736",
+   "title": "EOS Climbs 18% In a Green Day",
+   "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-17T18:03:00+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "dee4525456f2",
+   "title": "Anterix CFO Elena Marquez sells $400,606 of stock from $80.00 to $82.50",
+   "link": "https://www.investing.com/news/insider-trading-news/anterix-cfo-elena-marquez-sells-400606-of-stock-from-8000-to-8250-93CH-4955522",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-17T18:01:08+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -388,6 +416,20 @@
    "published": "2026-10-17T16:31:06+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8269bc023442",
+   "title": "Shrewd moves helped the Brewers become annual contenders. Here's how they got to the World Series - AP News",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlZHQUNLMmJKUnY4YlFtaV9FeEx1LWRHSzhYV0RXcHgyZFI3NFRyZWtTV05nTFljazhBQ195cmFIRjYyQS0yZEhlYTlVVGxlZkFsRl82bUxHdG52MS00RWQ2aEFIMmJRdWtldV9aZHJnN0dXcW90eXNhTDNaZFhiU0t4bk05eWM?oc=5",
+   "summary": "Shrewd moves helped the Brewers become annual contenders. Here's how they got to the World Series&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-17T16:31:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8872,50 +8914,6 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "cd6104640278",
-   "title": "Xtrackers MSCI Emerging Markets Hedged Equity (DBEM) Enters Oversold Territory",
-   "link": "https://www.nasdaq.com/articles/xtrackers-msci-emerging-markets-hedged-equity-dbem-enters-oversold-territory",
-   "summary": "In trading on Friday, shares of the Xtrackers MSCI Emerging Markets Hedged Equity ETF (Symbol: DBEM) entered into oversold territory, changing hands as low as $36.79 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T20:23:59+00:00",
-   "tickers": [
-    "MSCI"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5855333d41d2",
-   "title": "First Trust Enhanced Equity Income Fund Breaks Below 200-Day Moving Average - Notable for FFA",
-   "link": "https://www.nasdaq.com/articles/first-trust-enhanced-equity-income-fund-breaks-below-200-day-moving-average-notable-ffa",
-   "summary": "In trading on Friday, shares of First Trust Enhanced Equity Income Fund (Symbol: FFA) crossed below their 200 day moving average of $22.23, changing hands as low as $22.10 per share. First Trust Enhanced Equity Income Fund shares are currently trading off about 1.4% on the day.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T20:22:58+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d7f03494655c",
-   "title": "Nasdaq Plunges To One-Month Low Amid Renewed Tech Sell-Off",
-   "link": "https://www.nasdaq.com/articles/nasdaq-plunges-one-month-low-amid-renewed-tech-sell",
-   "summary": "(RTTNews) - After recovering from an early slump to end Thursday's session mostly higher, stocks showed a significant move back to the downside during trading on Friday. Technology stocks led the way lower, dragging the tech-heavy Nasdaq down to its lowest closing level in a mont",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T20:22:56+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9067,7 +9065,6 @@
   "VST": "Vistra",
   "CHWY": "Chewy",
   "INTC": "Intel",
-  "MSCI": "MSCI",
   "NKE": "NIKE"
  }
 }
