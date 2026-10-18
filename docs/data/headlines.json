@@ -1,8 +1,26 @@
 {
- "generated": "2026-10-18T12:46:32.779093+00:00",
+ "generated": "2026-10-18T12:51:30.799630+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "6b586012c9d2",
+   "title": "Meta Platforms and Tesla are among the companies set to report next week. What to expect",
+   "link": "https://www.cnbc.com/2026/10/18/meta-tesla-netflix-earnings-preview.html",
+   "summary": "Meta, General Motors, major airlines and more companies will report earnings this week. Here's what analysts forecast and what's happened in the past.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-18T12:41:18+00:00",
+   "tickers": [
+    "META",
+    "GM",
+    "TSLA"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "86fdf9119efb",
    "title": "Analysis-Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom",
@@ -15,6 +33,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1e9e6513bc30",
+   "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+   "link": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+   "summary": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-18T12:34:51+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -90,6 +122,20 @@
     "DAL"
    ],
    "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e59c8fad7935",
+   "title": "Trump dominated rural America. Iowa is testing whether Democrats can win them back - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkk3X0RvYU12ak1PLTN1LU9scDdma1E0aTQtTTRrd2F2LUFQclplSGV4dEF0eEEySlQyQXZhblhDY1pSVmtnOXA3XzZrdHRqYzJONURZWVd2eEtGR2ZBMVgtQ1F1SFVpUzRwMzFZSXJOeHJKTVd5T0hBQjhDak4tSHNMenVIX3BqWnRSRzRmQ2FBZWZVOWIwYWVVNmEySXFhalNFRlh3?oc=5",
+   "summary": "Trump dominated rural America. Iowa is testing whether Democrats can win them back&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-18T12:07:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -8872,50 +8918,6 @@
    "type": "markets",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "5229bfaf7c3a",
-   "title": "Blaize declares preferred stock dividend ahead of potential reverse split",
-   "link": "https://www.investing.com/news/company-news/blaize-declares-preferred-stock-dividend-ahead-of-potential-reverse-split-93CH-4955003",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-16T23:36:29+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "5d59a804fdc8",
-   "title": "Warren Buffett's Berkshire invests $330M in Bending Spoons",
-   "link": "https://www.thestreet.com/investing/stocks/berkshire-hathaway-invests-330-million-bending-spoons-bsp",
-   "summary": "Berkshire Hathaway is doubling down on a company born from a failed startup and a backpacking trip.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-16T23:33:00+00:00",
-   "tickers": [
-    "BRK-A"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1b8eccb6e428",
-   "title": "J.B. Hunt: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/jb-hunt-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsThird-quarter revenue increased 20% compared to the prior-year period.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T23:31:55+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8982,6 +8984,7 @@
   "GILD": "Gilead Sciences",
   "LMT": "Lockheed Martin",
   "B": "Barrick Mining",
+  "GM": "General Motors",
   "HD": "The Home Depot",
   "LEU": "Centrus Energy",
   "META": "Meta Platforms",
