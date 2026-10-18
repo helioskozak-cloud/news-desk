@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-18T14:36:29.280005+00:00",
+ "generated": "2026-10-18T14:41:40.355392+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "bad6da9af5b6",
+   "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
+   "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+   "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-18T14:37:36+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3a315663a4aa",
+   "title": "JPMorgan raises ICICI Bank stock price target on strong earnings",
+   "link": "https://www.investing.com/news/analyst-ratings/jpmorgan-raises-icici-bank-stock-price-target-on-strong-earnings-93CH-4955968",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-18T14:35:04+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "f37a1fa87d4c",
    "title": "Cathie Wood buys $11.8 million of tumbling tech stock",
@@ -8872,38 +8902,6 @@
    "type": "legal",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "4b6dbb987356",
-   "title": "Ensign Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against The Ensign Group, Inc. - ENSG",
-   "link": "https://www.prnewswire.com/news-releases/ensign-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-the-ensign-group-inc---ensg-302911680.html",
-   "summary": "NEW ORLEANS, Oct. 16, 2026 /PRNewswire/ -- ClaimsFiler, a FREE shareholder information service, reminds investors that they have until December 7, 2026 to file lead plaintiff applications in a securities class action lawsuit against The Ensign Group, Inc. (\"Ensign\" or the \"Company\")...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-17T02:00:00+00:00",
-   "tickers": [
-    "ENSG"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "928c0b0e76b7",
-   "title": "Honeywell Aerospace Shareholder Alert: ClaimsFiler Reminds Investors With Losses In Excess Of $100,000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against Honeywell Aerospace, Inc. - HONA",
-   "link": "https://www.prnewswire.com/news-releases/honeywell-aerospace-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-honeywell-aerospace-inc---hona-302911692.html",
-   "summary": "NEW ORLEANS, Oct. 16, 2026 /PRNewswire/ -- - ClaimsFiler, a FREE shareholder information service, reminds investors that they have until October 30, 2026 to file lead plaintiff applications in a securities class action lawsuit against Honeywell Aerospace, Inc. (\"Honeywell Aerospace\" or...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-17T02:00:00+00:00",
-   "tickers": [
-    "HON"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8925,7 +8923,6 @@
   "ICE": "Intercontinental Exchange",
   "REGN": "Regeneron Pharmaceuticals",
   "PTGX": "Protagonist Therapeutics",
-  "HON": "Honeywell International",
   "AMD": "Advanced Micro Devices",
   "CAKE": "The Cheesecake Factory",
   "VZ": "Verizon Communications",
@@ -8954,7 +8951,6 @@
   "AR": "Antero Resources",
   "AXP": "American Express",
   "COST": "Costco Wholesale",
-  "ENSG": "The Ensign Group",
   "JPM": "JPMorgan Chase &",
   "NOC": "Northrop Grumman",
   "GE": "General Electric",
