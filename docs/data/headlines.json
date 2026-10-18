@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T23:21:18.797860+00:00",
+ "generated": "2026-10-18T23:25:59.853269+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -17,6 +17,23 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3e0531f55b4d",
+   "title": "Stock Indexes Finish Sharply Lower as Tech Stocks Plunge",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-lower-tech-stocks-plunge",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -1.09% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.50%. December E-mini S&amp;P futures (ESZ26 ) fell -1.14%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-18T23:12:52+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -613,23 +630,6 @@
    "domain": "investing.com",
    "published": "2026-10-18T21:20:03+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "3e0531f55b4d",
-   "title": "Stock Indexes Finish Sharply Lower as Tech Stocks Plunge",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-lower-tech-stocks-plunge",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -1.09% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.50%. December E-mini S&amp;P futures (ESZ26 ) fell -1.14%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-18T21:16:47+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
    "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
@@ -1330,20 +1330,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8cceab23e21a",
-   "title": "German authorities investigate a hole cut into a fence at Leipzig airport - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUZEQ2ZCVDhLQWUzSHRWc2lMa3Myb3dxOVFKd2VRWUo1aWFPM1JiWGRIcTFxNDBsNkZJUFZpUGxSd3p4OVFEc0NpTEUtRF9CQ3I1ZjhSNkZTazFTOFRLM3VRb2lvZS04cm16VVBkRVB4SGNwZjM3NGI5QzJpaEVFUUE4U0RUZmRnTG1QQ0xzSlFjNVk?oc=5",
-   "summary": "German authorities investigate a hole cut into a fence at Leipzig airport&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-18T18:04:35+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2116,6 +2102,20 @@
    "category": "macro",
    "domain": "news.google.com",
    "published": "2026-10-18T14:30:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "8cceab23e21a",
+   "title": "German authorities investigate a hole cut into a fence at Leipzig airport - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUZEQ2ZCVDhLQWUzSHRWc2lMa3Myb3dxOVFKd2VRWUo1aWFPM1JiWGRIcTFxNDBsNkZJUFZpUGxSd3p4OVFEc0NpTEUtRF9CQ3I1ZjhSNkZTazFTOFRLM3VRb2lvZS04cm16VVBkRVB4SGNwZjM3NGI5QzJpaEVFUUE4U0RUZmRnTG1QQ0xzSlFjNVk?oc=5",
+   "summary": "German authorities investigate a hole cut into a fence at Leipzig airport&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-18T14:21:00+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "negative",
