@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-18T16:26:29.555979+00:00",
+ "generated": "2026-10-18T16:31:34.261053+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0827840fe29f",
+   "title": "Hurricane Trudy brings heavy rain and strong winds to Mexico’s Pacific coast",
+   "link": "https://www.cnbc.com/2026/10/18/hurricane-trudy-brings-heavy-rain-winds-to-mexicos-pacific-coast.html",
+   "summary": "Trudy's center was expected to remain near the Mexican coast through Sunday evening before moving south of the Baja California Peninsula.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-18T16:26:56+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "bad6da9af5b6",
    "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
@@ -994,20 +1008,6 @@
    "tag_v": 2
   },
   {
-   "id": "0827840fe29f",
-   "title": "Hurricane Trudy brings heavy rain and strong winds to Mexico’s Pacific coast",
-   "link": "https://www.cnbc.com/2026/10/18/hurricane-trudy-brings-heavy-rain-winds-to-mexicos-pacific-coast.html",
-   "summary": "Trudy's center was expected to remain near the Mexican coast through Sunday evening before moving south of the Baja California Peninsula.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-18T13:08:21+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "5ae226852f5b",
    "title": "Moderna Just Joined the Nasdaq-100. Here's What That Means for Investors.",
    "link": "https://www.nasdaq.com/articles/moderna-just-joined-nasdaq-100-heres-what-means-investors",
@@ -1528,6 +1528,23 @@
    "published": "2026-10-18T11:32:19+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6c617afc3a56",
+   "title": "These 3 Green Stocks Have a Growth Story That Goes Far Beyond Washington",
+   "link": "https://www.marketbeat.com/articles/these-3-green-stocks-have-a-growth-story-that-goes-far-beyond-washington/",
+   "summary": "Green stocks are outperforming on commercial demand, not policy, per LSEG data. Bloom Energy, Ecolab, and Brookfield Renewable show growth driven by AI and data-center needs.",
+   "source": "MarketBeat",
+   "category": "stocks",
+   "domain": "marketbeat.com",
+   "published": "2026-10-18T11:30:00+00:00",
+   "tickers": [
+    "BN",
+    "ECL"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8895,22 +8912,6 @@
    "type": "upgrade",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "17cd8bb86e6a",
-   "title": "BlackRock: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/blackrock-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsBlackRock generated $205 billion of net inflows in the third quarter.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-17T03:08:23+00:00",
-   "tickers": [
-    "BLK"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9004,6 +9005,7 @@
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
   "BA": "The Boeing",
+  "BN": "Brookfield",
   "BROS": "Dutch Bros",
   "CRM": "Salesforce",
   "F": "Ford Motor",
@@ -9036,6 +9038,7 @@
   "ABBV": "AbbVie",
   "ABNB": "Airbnb",
   "BULL": "Webull",
+  "ECL": "Ecolab",
   "MASI": "Masimo",
   "ORCL": "Oracle",
   "PFE": "Pfizer",
