@@ -1,8 +1,55 @@
 {
- "generated": "2026-10-19T15:11:42.139884+00:00",
+ "generated": "2026-10-19T15:16:29.091525+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ac222ee5c5a0",
+   "title": "Intel stock surges as JPMorgan upgrades shares after 14% weekly plunge",
+   "link": "https://www.thestreet.com/investing/stocks/intel-stock-surges-as-jpmorgan-upgrades-shares-after-14-weekly-plunge",
+   "summary": "JPMorgan upgrades Intel stock ahead of Q3 earnings, citing stronger AI chip demand and improving execution under CEO Lip-Bu Tan.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-19T15:11:49+00:00",
+   "tickers": [
+    "JPM",
+    "INTC"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "156bdbd2da6d",
+   "title": "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to hold the line",
+   "link": "https://www.cnbc.com/2026/10/19/oracle-debt-faces-an-ai-stress-test-why-some-investors-arent-worried-.html",
+   "summary": "Investors are pushing up the cost of insurance against an Oracle default.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-19T15:11:40+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2b9b6858fe1b",
+   "title": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
+   "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+   "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-19T15:10:54+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "da577bc61ae8",
    "title": "Bitmine Immersion Technologies (BMNR) gibt bekannt, dass der ETH-Bestand 6,04 Millionen Token erreicht hat und sich der Gesamtbestand an Kryptowährungen sowie an Barmitteln und marktfähigen Wertpapieren auf 15,1 Milliarden US-Dollar beläuft",
@@ -47,22 +94,6 @@
     "HPE"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "156bdbd2da6d",
-   "title": "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to hold the line",
-   "link": "https://www.cnbc.com/2026/10/19/oracle-debt-faces-an-ai-stress-test-why-some-investors-arent-worried-.html",
-   "summary": "Investors are pushing up the cost of insurance against an Oracle default.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-19T15:08:30+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -446,6 +477,39 @@
    "tag_v": 2
   },
   {
+   "id": "268d24ae1986",
+   "title": "Why Micron Stock Bounced on Monday",
+   "link": "https://www.nasdaq.com/articles/why-micron-stock-bounced-monday",
+   "summary": "Key PointsInvestors sold off Micron on competition fears last week.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-19T14:59:08+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a7e5dc56433b",
+   "title": "U.S. Army Awards Javelin Joint Venture $215 Mln Contract For Lightweight Launchers",
+   "link": "https://www.nasdaq.com/articles/us-army-awards-javelin-joint-venture-215-mln-contract-lightweight-launchers",
+   "summary": "(RTTNews) - The U.S. Army has awarded the Javelin Joint Venture (JJV), a partnership between Raytheon, an RTX (RTX) business, and Lockheed Martin, a $215 million production contract for Lightweight Command Launch Units (LWCLU).",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-19T14:57:24+00:00",
+   "tickers": [
+    "RTX",
+    "LMT"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "71425b35a12f",
    "title": "Morgan Stanley names Amazon \"Top Pick\" amid AWS strength",
    "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-names-amazon-top-pick-amid-aws-strength-4957990",
@@ -474,6 +538,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "8ff5b983a8f0",
+   "title": "AIOS Tech To Acquire SmartCore Holdings Limited For $100 Mln",
+   "link": "https://www.nasdaq.com/articles/aios-tech-acquire-smartcore-holdings-limited-100-mln",
+   "summary": "(RTTNews) - Monday, AIOS Tech Inc. (AIOS) announced an agreement with Better Way Holdings Limited, Novo Spring Management Limited and Cloud Spring Limited to acquire SmartCore Holdings Limited in an all-stock transaction valued at approximately $100 million.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-19T14:54:28+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -562,6 +640,36 @@
    ],
    "type": "press",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e57490101377",
+   "title": "Answering Questions about Early Retirement, Roth Conversions, Closed-End Funds, and More",
+   "link": "https://www.nasdaq.com/articles/answering-questions-about-early-retirement-roth-conversions-closed-end-funds-and-more",
+   "summary": "In this episode of Motley Fool Hidden Gems Investing, Motley Fool personal finance expert Robert Brokamp is joined by Motley Fool contributor Dan Caplinger to answer financial planning questions sent in from listeners, including:",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-19T14:47:01+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6630da42459e",
+   "title": "Forget Eli Lilly and Novo: This Biotech Could Be a Surprising Winner in the Weight Loss Market",
+   "link": "https://www.nasdaq.com/articles/forget-eli-lilly-and-novo-biotech-could-be-surprising-winner-weight-loss-market",
+   "summary": "Key PointsRegeneron&rsquo;s leading weight-loss candidate could offer patients an option with fewer side effects.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-19T14:44:01+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1362,14 +1470,14 @@
    "title": "S&P 500 Movers: SKYD, HONIV",
    "link": "https://www.nasdaq.com/articles/sp-500-movers-skyd-honiv",
    "summary": "In early trading on Monday, shares of Honeywell International topped the list of the day's best performing components of the S&amp;P 500 index, trading up 7.5%. Year to date, Honeywell International registers a 42.2% gain. And the worst performing S&amp;P 500 component thus fa",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-19T14:23:12+00:00",
    "tickers": [
     "HON"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1378,15 +1486,15 @@
    "title": "Nasdaq 100 Movers: CPRT, HONIV",
    "link": "https://www.nasdaq.com/articles/nasdaq-100-movers-cprt-honiv-0",
    "summary": "In early trading on Monday, shares of Honeywell International topped the list of the day's best performing components of the Nasdaq 100 index, trading up 7.5%. Year to date, Honeywell International registers a 42.2% gain. And the worst performing Nasdaq 100 component thus far",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-19T14:23:08+00:00",
    "tickers": [
     "HON",
     "CPRT"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3493,22 +3601,6 @@
    "published": "2026-10-19T13:24:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2b9b6858fe1b",
-   "title": "OpenAI bugging suspect communicated with Saudi royal on WhatsApp days before arrest, feds say",
-   "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-   "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-19T13:21:27+00:00",
-   "tickers": [
-    "META"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8449,20 +8541,6 @@
    "tag_v": 2
   },
   {
-   "id": "8711f5f9b968",
-   "title": "Russia-Ukraine | Breaking News & Live Updates - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
-   "summary": "Russia-Ukraine | Breaking News & Live Updates&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-19T11:56:08+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "dce773610353",
    "title": "The GOP counts on farmers' votes. As a costly harvest season raises concerns, Trump heads to Kansas - AP News",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa0ZvV294YXVvajRQZ25PRG4yd09oczduQUNDTkVWVXY5dzZoWXBsZS1nbDBWNkYwNHJzajVFdzliYXZuMXhiMDlYNEFSVElNS3NEVXpIMGVBUGp4b0FXLUJEQUdoOFJpdUVuSnE0RVF2Sll3TVBaSlFCcmN0MzN0eW9qR0RKalNEUXkzVUpVQ2IyclhfVF81cS1QdTNON2ZlRlpleGdtRV9YSFozSUNnRUplOURlNmhN?oc=5",
@@ -8866,79 +8944,6 @@
    "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "b1bd7123500f",
-   "title": "Top U.S. Transport Stocks to Watch as Peak Shipping Season Approaches: Goldman",
-   "link": "https://www.investing.com/news/stock-market-news/top-us-transport-stocks-to-watch-as-peak-shipping-season-approaches-goldman-4957143",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-19T11:34:59+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "baae36a8925a",
-   "title": "FTSE 100 Down 1.05% As Banks, Miners Lead Retreat On Tensions",
-   "link": "https://www.nasdaq.com/articles/ftse-100-down-105-banks-miners-lead-retreat-tensions",
-   "summary": "(RTTNews) - U.K. stocks shed ground on Monday, tracking weakness in other European markets amid rising tensions due to civil unrest in several countries across the continent. Worries about Russia-Ukraine conflict and Middle East tensions hurt as well.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-19T11:34:37+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "551bcad0b748",
-   "title": "JPMorgan lifts Intel rating as execution under Tan has been solid",
-   "link": "https://www.investing.com/news/stock-market-news/jpmorgan-lifts-intel-rating-as-execution-under-tan-has-been-solid-4957134",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-19T11:33:37+00:00",
-   "tickers": [
-    "JPM",
-    "INTC"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "97f5581fdbf2",
-   "title": "Italy achieves only 15% of 2030 energy transition goals",
-   "link": "https://www.investing.com/news/economy-news/italy-achieves-only-15-of-2030-energy-transition-goals-93CH-4957131",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-19T11:33:08+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "013e88417c9e",
-   "title": "The S&P 500's Worst Day Was 39 Years Ago Today. Should You Buy When Stocks Crash?",
-   "link": "https://www.nasdaq.com/articles/sp-500s-worst-day-was-39-years-ago-today-should-you-buy-when-stocks-crash",
-   "summary": "Key PointsThe S&amp;P 500 dropped 20.5% to 224.84 on Oct. 19, 1987, its worst day on record.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-19T11:33:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9026,6 +9031,7 @@
   "G": "Genpact Limited",
   "GILD": "Gilead Sciences",
   "GPN": "Global Payments",
+  "LMT": "Lockheed Martin",
   "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
   "TEL": "TE Connectivity",
