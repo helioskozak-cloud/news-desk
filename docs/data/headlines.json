@@ -1,8 +1,52 @@
 {
- "generated": "2026-10-19T17:26:02.809564+00:00",
+ "generated": "2026-10-19T17:31:04.409268+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b5c8b8e87208",
+   "title": "Goldman says play defense with these stocks if you're worried about the AI bull failing",
+   "link": "https://www.cnbc.com/2026/10/19/goldman-says-play-defense-with-these-stocks-if-youre-worried-about-the-ai-bull-failing.html",
+   "summary": "These defensive stocks, some of which have lagged, could be ready rally as investors bail on AI trade.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-19T17:28:11+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aca9bf6b396d",
+   "title": "Nasdaq gains as investors buy the dip in the AI trade: Live updates",
+   "link": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
+   "summary": "The S&amp;P 500 lost nearly 2% last week, its biggest weekly decline since late June. The Nasdaq fell 4.5%, snapping a four-week winning streak.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-19T17:27:26+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "5f5c54bfbf6b",
+   "title": "Tigerlily Foundation Brings Patients, Advocates and Healthcare Leaders to Washington, DC for 20th Anniversary Events Advancing Health",
+   "link": "https://www.prnewswire.com/news-releases/tigerlily-foundation-brings-patients-advocates-and-healthcare-leaders-to-washington-dc-for-20th-anniversary-events-advancing-health-302912915.html",
+   "summary": "WASHINGTON, Oct. 19, 2026 /PRNewswire/ -- Tigerlily Foundation will mark a milestone 20 years of impact on Saturday, October 24, 2026, with two signature events at the Grand Hyatt Washington: the 4th Annual BEACON Symposium and the 20th Anniversary EmPOWER Ball. Together, the events will...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-19T17:26:00+00:00",
+   "tickers": [
+    "H"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "da7d6958fec0",
    "title": "Schwab's dividend ETF drops 6% into a familiar zone",
@@ -423,20 +467,6 @@
    "tag_v": 2
   },
   {
-   "id": "b5c8b8e87208",
-   "title": "Goldman says play defense with these stocks if you're worried about the AI bull failing",
-   "link": "https://www.cnbc.com/2026/10/19/goldman-says-play-defense-with-these-stocks-if-youre-worried-about-the-ai-bull-failing.html",
-   "summary": "These defensive stocks, some of which have lagged, could be ready to catch up to the broader market.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-19T16:59:52+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "1d58d26b8672",
    "title": "Wheat Holding Steady on Monday Morning Trade",
    "link": "https://www.nasdaq.com/articles/wheat-holding-steady-monday-morning-trade",
@@ -477,6 +507,24 @@
     "PTC"
    ],
    "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "eb14cfd1ab27",
+   "title": "Better Emerging Markets ETF: Schwab's SCHE vs. Vanguard's VWO",
+   "link": "https://www.nasdaq.com/articles/better-emerging-markets-etf-schwabs-sche-vs-vanguards-vwo",
+   "summary": "Key PointsThe Schwab Emerging Markets Equity ETF and Vanguard FTSE Emerging Markets ETF both maintain low expense ratios of 0.06%.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-19T16:57:53+00:00",
+   "tickers": [
+    "SCHE",
+    "VWO",
+    "SCHW"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -543,6 +591,38 @@
    "published": "2026-10-19T16:52:37+00:00",
    "tickers": [
     "OWL"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a4d88bfa6729",
+   "title": "Why Palantir Technologies Stock Rallied Today",
+   "link": "https://www.nasdaq.com/articles/why-palantir-technologies-stock-rallied-today",
+   "summary": "Key PointsPalantir gained ground after announcing a collaboration with Knox Systems.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-19T16:51:07+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "0a817d5718f5",
+   "title": "Arista Networks Is Heading for a Big Test on Nov. 3. Here's What Could Send the Stock Soaring.",
+   "link": "https://www.nasdaq.com/articles/arista-networks-heading-big-test-nov-3-heres-what-could-send-stock-soaring",
+   "summary": "Key PointsArista makes Ethernet switches that help eliminate networking bottlenecks in data centers.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-19T16:50:00+00:00",
+   "tickers": [
+    "ANET"
    ],
    "type": "markets",
    "sentiment": "neutral",
@@ -648,20 +728,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "aca9bf6b396d",
-   "title": "Nasdaq gains as investors buy the dip in the AI trade: Live updates",
-   "link": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
-   "summary": "The S&amp;P 500 lost nearly 2% last week, its biggest weekly decline since late June. The Nasdaq fell 4.5%, snapping a four-week winning streak.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-19T16:41:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8920,62 +8986,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c5b90dbaeee2",
-   "title": "Your Patients Know Your Name, But Does AI? AimwellBio Expands Its Healthcare Platform and Invites the Public to Nominate Professionals Worth Knowing | AIMN Stock News",
-   "link": "https://www.stocktitan.net/news/AIMN/your-patients-know-your-name-but-does-ai-aimwell-bio-expands-its-bo8egc06qw7o.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T12:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1626206d7378",
-   "title": "Alpha Tau Announces FDA Approval to Expand Alpha DaRT® U.S. Recurrent Glioblastoma REGAIN Trial; New Trial Data to be Presented at SNO 2026 Annual Meeting | DRTS Stock News",
-   "link": "https://www.stocktitan.net/news/DRTS/alpha-tau-announces-fda-approval-to-expand-alpha-da-rt-u-s-recurrent-cr6brw9xiubt.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T12:30:00+00:00",
-   "tickers": [],
-   "type": "fda",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "fdbfeca517f4",
-   "title": "Dogwood Announces $5 Million Private Placement with CK Life Sciences Int’l., (Holdings) Inc. | DWTX Stock News",
-   "link": "https://www.stocktitan.net/news/DWTX/dogwood-announces-5-million-private-placement-with-ck-life-sciences-t198pq0d38up.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T12:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "25f49514596a",
-   "title": "Beyond Copper: Fabric.AI and Kopin Model Up to 60% Increase in GPU Utilization in a Neural I/o™-Powered Data Center | FABC Stock News",
-   "link": "https://www.stocktitan.net/news/FABC/beyond-copper-fabric-ai-and-kopin-model-up-to-60-increase-in-gpu-0hkq9qwtqkh5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T12:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8985,7 +8995,9 @@
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "SLVP": "iShares MSCI Global Silver Miners Fund",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
+  "SCHE": "Schwab Emerging Markets Equity ETF",
   "TSM": "Taiwan Semiconductor Manufacturing",
+  "VWO": "Vanguard FTSE Emerging Markets ETF",
   "IBM": "International Business Machines",
   "PPA": "Invesco Aerospace & Defense ETF",
   "BMNR": "Bitmine Immersion Technologies",
@@ -9066,6 +9078,7 @@
   "RKT": "Rocket Companies",
   "TTMI": "TTM Technologies",
   "GE": "General Electric",
+  "ANET": "Arista Networks",
   "APLD": "Applied Digital",
   "BAC": "Bank of America",
   "COIN": "Coinbase Global",
