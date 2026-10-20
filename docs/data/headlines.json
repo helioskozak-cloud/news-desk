@@ -1,8 +1,40 @@
 {
- "generated": "2026-10-20T11:41:37.254932+00:00",
+ "generated": "2026-10-20T11:46:02.156055+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "83c98750b1fd",
+   "title": "Wayfair is selling a $5,240 reclining living room set for 73% off",
+   "link": "https://www.thestreet.com/deals/red-barrel-3-piece-reclining-living-room-set-wayfair-sale-october-2026",
+   "summary": "\"Color is gorgeous and it's comfortable.\"",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-20T11:45:00+00:00",
+   "tickers": [
+    "W"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4734901bad38",
+   "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+   "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+   "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-20T11:41:09+00:00",
+   "tickers": [
+    "GM"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "1a687d102492",
    "title": "3M lifts annual profit forecast on cost controls, price hikes",
@@ -11,7 +43,7 @@
    "source": "CNBC Earnings",
    "category": "earnings",
    "domain": "cnbc.com",
-   "published": "2026-10-20T11:40:19+00:00",
+   "published": "2026-10-20T11:40:22+00:00",
    "tickers": [],
    "type": "guidance",
    "sentiment": "positive",
@@ -180,22 +212,6 @@
    ],
    "type": "guidance",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4734901bad38",
-   "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-   "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-   "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-20T11:33:18+00:00",
-   "tickers": [
-    "GM"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -4567,6 +4583,20 @@
    "tag_v": 2
   },
   {
+   "id": "8a3bd7713d97",
+   "title": "WNBA Finals and the national anthem: The rules and why some teams stay on the court and others don't - AP News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM05vVzJjQ0x6SlZBcDR5bHY3Z2lpNG9rb1JLOFhqZHdxaS1KQVBydTZPYjUtYjd0MWFIdGE0UDRhT1U4RXdmMV9RcDU3UkFiQ1VQMDlHblIxNTU4RGNwejBaaU9NUUQ1RE5NZ0pJVnNQSkVDeUFwSXBpTVFYWUlRcjBwMmo?oc=5",
+   "summary": "WNBA Finals and the national anthem: The rules and why some teams stay on the court and others don't&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-20T10:00:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "4cf4687e165e",
    "title": "Morgan Stanley turns bearish on Vonovia, LEG as Berlin housing risks mount",
    "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-turns-bearish-on-vonovia-leg-as-berlin-housing-risks-mount-4959345",
@@ -8810,36 +8840,6 @@
    "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "9e68603b0f59",
-   "title": "Exclusive-India probing Pernod, Diageo Scotch imports under India-UK trade pact, sources say",
-   "link": "https://www.investing.com/news/stock-market-news/exclusiveindia-probingpernod-diageo-scotch-imports-under-indiauk-trade-pact-sources-say-4957842",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-20T02:07:00+00:00",
-   "tickers": [
-    "DEO"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "857e6cf94e45",
-   "title": "China’s September US soybean imports rebound from zero a year earlier, data shows",
-   "link": "https://www.investing.com/news/economic-indicators/chinas-september-us-soybean-imports-rebound-from-zero-a-year-earlier-data-shows-4958675",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-20T02:06:29+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8960,7 +8960,6 @@
   "SPY": "SPY ETF",
   "ABNB": "Airbnb",
   "BULL": "Webull",
-  "DEO": "Diageo",
   "GRMN": "Garmin",
   "INCY": "Incyte",
   "INSM": "Insmed",
