@@ -1,8 +1,80 @@
 {
- "generated": "2026-10-20T15:41:31.248461+00:00",
+ "generated": "2026-10-20T15:46:09.751525+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "dba9c84ca804",
+   "title": "SpaceX earnings live updates: Starlink growth, AI revenue and merger speculation",
+   "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+   "summary": "Follow SpaceX’s Q3 2026 earnings live, with updates on revenue, Starlink, AI spending, Starship, guidance and SPCX stock.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-20T15:44:19+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4734901bad38",
+   "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+   "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+   "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-20T15:43:44+00:00",
+   "tickers": [
+    "GM"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "64fbb1e3ee68",
+   "title": "Southern Company announces quarterly dividend | SO Stock News",
+   "link": "https://www.stocktitan.net/news/SO/southern-company-announces-quarterly-0z2zgwkdh53f.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-20T15:43:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8df26e5d1184",
+   "title": "Axonex AI Group Limited Announces 2-for-5 Reverse Stock Split | AXNX Stock News",
+   "link": "https://www.stocktitan.net/news/AXNX/axonex-ai-group-limited-announces-2-for-5-reverse-stock-w0qgsfyxea9l.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-20T15:43:00+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "5427442f240d",
+   "title": "Data center stocks remain under pressure after Korea IPO plunges 30%",
+   "link": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+   "summary": "Neocloud stocks are still feeling the squeeze after last week's sell-off",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-20T15:41:33+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "24bf4f563c91",
    "title": "Watch CNBC's full interview with Impactive Capital's Lauren Taylor Wolfe",
@@ -27,6 +99,25 @@
    "domain": "cnbc.com",
    "published": "2026-10-20T15:35:43+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fe0df541a013",
+   "title": "Shell's Latest LNG Move Has Me Rethinking My Oil Major Pecking Order. Here's Where I'd Rank Exxon and Chevron Now.",
+   "link": "https://www.nasdaq.com/articles/shells-latest-lng-move-has-me-rethinking-my-oil-major-pecking-order-heres-where-id-rank",
+   "summary": "Key PointsShell and BP cut their dividends in 2020 amid plans to expand in the clean energy sector.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T15:35:00+00:00",
+   "tickers": [
+    "CVX",
+    "XOM",
+    "LNG",
+    "BP"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -180,6 +271,22 @@
    "tag_v": 2
   },
   {
+   "id": "6900b1208d62",
+   "title": "GE (GE) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/ge-ge-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T15:28:42+00:00",
+   "tickers": [
+    "GE"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "90ba55004e67",
    "title": "Why is Loblaw stock climbing today?",
    "link": "https://www.investing.com/news/stock-market-news/why-is-loblaw-stock-climbing-today-93CH-4960637",
@@ -205,6 +312,22 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a32091343567",
+   "title": "Why GE Aerospace Stock Dropped After Beating Earnings",
+   "link": "https://www.nasdaq.com/articles/why-ge-aerospace-stock-dropped-after-beating-earnings",
+   "summary": "Key PointsGE Aerospace grew sales briskly in Q3.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T15:27:08+00:00",
+   "tickers": [
+    "GE"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -253,22 +376,6 @@
    ],
    "type": "press",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4734901bad38",
-   "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-   "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-   "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-20T15:23:57+00:00",
-   "tickers": [
-    "GM"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -360,6 +467,54 @@
    "tag_v": 2
   },
   {
+   "id": "e5f061a8517f",
+   "title": "Micron Is Quietly Building a Financial Fortress. Here's Why Investors Should Care.",
+   "link": "https://www.nasdaq.com/articles/micron-quietly-building-financial-fortress-heres-why-investors-should-care",
+   "summary": "Key PointsMicron Technology has more financial flexibility than ever.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T15:20:00+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9a854df2a5b9",
+   "title": "History Says Micron Stock Gains 28% During the Fourth Quarter. Here's Why I Think Shares Will Surge Even More Before 2026 Is Over.",
+   "link": "https://www.nasdaq.com/articles/history-says-micron-stock-gains-28-during-fourth-quarter-heres-why-i-think-shares-will",
+   "summary": "Key PointsBetween 2020 and 2025, Micron stock has averaged a 28% gain during the fourth quarter.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T15:20:00+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ec7a5d228c42",
+   "title": "Should You Buy Apple Stock Now or Wait for a Dip?",
+   "link": "https://www.nasdaq.com/articles/should-you-buy-apple-stock-now-or-wait-dip",
+   "summary": "Key PointsApple's stock recently hit new highs and is trading at around 40 times its trailing earnings.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T15:19:01+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "28fd5ffbb54e",
    "title": "HSBC’s Kettner on the latest market action: Fundamentally, nothing has changed in the last two weeks",
    "link": "https://www.cnbc.com/video/2026/10/20/hsbcs-kettner-on-the-latest-market-action-.html",
@@ -408,14 +563,14 @@
    "title": "ARKK, XW: Big ETF Outflows",
    "link": "https://www.nasdaq.com/articles/arkk-xw-big-etf-outflows",
    "summary": "Looking at units outstanding versus one week prior within the universe of ETFs covered at ETF Channel, the biggest outflow was seen in the ARK Innovation ETF, where 28,800,000 units were destroyed, or a 27.7% decrease week over week. Among the largest underlying components of A",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-20T15:17:20+00:00",
    "tickers": [
     "ARKK"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -424,14 +579,14 @@
    "title": "PYLD, EEE: Big ETF Inflows",
    "link": "https://www.nasdaq.com/articles/pyld-eee-big-etf-inflows",
    "summary": "Comparing units outstanding versus one week ago at the coverage universe of ETFs at ETF Channel, the biggest inflow was seen in the PIMCO Multisector Bond Active ETF, which added 14,560,000 units, or a 2.3% increase week over week. And on a percentage change basis, the ETF wi",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-20T15:17:06+00:00",
    "tickers": [
     "PYLD"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -457,14 +612,14 @@
    "title": "See Which Recent 13F Filers Hold MU But TABR Capital Management and Whipplewood Advisors Exited",
    "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-mu-tabr-capital-management-and-whipplewood-advisors",
    "summary": "At Holdings Channel, we have reviewed the latest batch of the 49 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Micron Technology Inc. (Symbol: MU) was held by 31 of these funds. When hedge fund managers appear to be thinking alike, we find it is a",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-20T15:16:53+00:00",
    "tickers": [
     "MU"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -473,14 +628,14 @@
    "title": "SHV: ETF Outflow Alert",
    "link": "https://www.nasdaq.com/articles/shv-etf-outflow-alert-0",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares 0-1 Year Treasury Bond ETF (Symbol: SHV) where we have detected an approximate $131.2 million dollar outflow -- that's a 0.6% decrease week",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-20T15:16:44+00:00",
    "tickers": [
     "SHV"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -489,15 +644,15 @@
    "title": "Noteworthy ETF Inflows: BIL",
    "link": "https://www.nasdaq.com/articles/noteworthy-etf-inflows-bil",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the State Street SPDR Bloomberg 1-3 Month T-Bill ETF (Symbol: BIL) where we have detected an approximate $345.2 million dollar inflow -- that's a 0.7% in",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-20T15:16:42+00:00",
    "tickers": [
     "BIL",
     "STT"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -506,14 +661,14 @@
    "title": "JAAA: ETF Inflow Alert",
    "link": "https://www.nasdaq.com/articles/jaaa-etf-inflow-alert-0",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Janus Henderson AAA CLO ETF (Symbol: JAAA) where we have detected an approximate $450.3 million dollar inflow -- that's a 1.4% increase week over wee",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-20T15:16:39+00:00",
    "tickers": [
     "JAAA"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -522,8 +677,8 @@
    "title": "Noteworthy ETF Inflows: IWR, NET, LITE, RCL",
    "link": "https://www.nasdaq.com/articles/noteworthy-etf-inflows-iwr-net-lite-rcl",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares Russell Mid-Cap ETF (Symbol: IWR) where we have detected an approximate $281.7 million dollar inflow -- that's a 0.5% increase week over week",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-20T15:16:36+00:00",
    "tickers": [
@@ -532,7 +687,7 @@
     "LITE",
     "RCL"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -805,20 +960,6 @@
     "SOLS"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dba9c84ca804",
-   "title": "SpaceX earnings live updates: Starlink growth, AI revenue and merger speculation",
-   "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
-   "summary": "Follow SpaceX’s Q3 2026 earnings live, with updates on revenue, Starlink, AI spending, Starship, guidance and SPCX stock.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-20T15:10:48+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3683,20 +3824,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "5427442f240d",
-   "title": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
-   "link": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-   "summary": "Neocloud stocks are falling again following the sector's troubles last week",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-20T13:50:24+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8866,120 +8993,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "cb855663b8c1",
-   "title": "Adia Med Sells 7% Economic Interest in Adia Labs to CEO Larry Powalisz for $350,000 in Cash | ADIA Stock News",
-   "link": "https://www.stocktitan.net/news/ADIA/adia-med-sells-7-economic-interest-in-adia-labs-to-ceo-larry-l38xbsieewux.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-20T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5fdc3c6deafb",
-   "title": "Cartier Resources to Attend the 52nd Annual New Orleans Investment Conference | ECRFF Stock News",
-   "link": "https://www.stocktitan.net/news/ECRFF/cartier-resources-to-attend-the-52nd-annual-new-orleans-investment-xfdd5z5m7z3d.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-20T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a9c55758a889",
-   "title": "Ross McElroy to Present at the Red Cloud Fall Mining Conference | FUUFF Stock News",
-   "link": "https://www.stocktitan.net/news/FUUFF/ross-mc-elroy-to-present-at-the-red-cloud-fall-mining-4xla5gzu5cd2.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-20T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "92cc33e00d08",
-   "title": "Actinium Pharmaceuticals Unveils ATNM‑400 Data at EANM 2026 with a First‑In‑Human HER3‑Targeted Radiotherapy Approach Beyond PSMA in Prostate Cancer | ATNM Stock News",
-   "link": "https://www.stocktitan.net/news/ATNM/actinium-pharmaceuticals-unveils-atnm-400-data-at-eanm-2026-with-a-0a7vkp8rwerd.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-20T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c1da4f803a93",
-   "title": "Belk Secures $1.275 Billion in New Financing from Wells Fargo and Pathlight Capital | WFC Stock News",
-   "link": "https://www.stocktitan.net/news/WFC/belk-secures-1-275-billion-in-new-financing-from-wells-fargo-and-4bg2ztivmgq7.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-20T12:00:00+00:00",
-   "tickers": [
-    "WFC"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "ef59f75a1e7f",
-   "title": "Innovative Eyewear, Inc. Receives Time Magazine's Best Inventions of 2026 Award | LUCY Stock News",
-   "link": "https://www.stocktitan.net/news/LUCY/innovative-eyewear-inc-receives-time-magazine-s-best-inventions-of-z2qjrvlf7sr5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-20T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6109bb8fe563",
-   "title": "Leatt Corp. Launches GRITT by LEATT®, A High-Performance Range of Cleaning and Maintenance Products | LEAT Stock News",
-   "link": "https://www.stocktitan.net/news/LEAT/leatt-corp-launches-gritt-by-leatt-a-high-performance-range-of-ulm50a9jney0.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-20T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "b0fc833b3bec",
-   "title": "PERMIAN BASIN ROYALTY TRUST ANNOUNCES OCTOBER CASH DISTRIBUTION AND EXCESS COST POSITION ON WADDELL RANCH PROPERTIES | PBT Stock News",
-   "link": "https://www.stocktitan.net/news/PBT/permian-basin-royalty-trust-announces-october-cash-distribution-and-704gwfmcgr4c.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-20T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9080,6 +9093,7 @@
   "COIN": "Coinbase Global",
   "GH": "Guardant Health",
   "HWC": "Hancock Whitney",
+  "LNG": "Cheniere Energy",
   "PL": "Planet Labs PBC",
   "PYPL": "PayPal Holdings",
   "TEL": "TE Connectivity",
@@ -9142,6 +9156,7 @@
   "ADBE": "Photoshop",
   "AVGO": "Broadcom",
   "BBY": "Best Buy",
+  "BP": "BP p.l.c",
   "CCL": "Carnival",
   "COHR": "Coherent",
   "DOCS": "Doximity",
@@ -9155,6 +9170,7 @@
   "WING": "Wingstop",
   "SNAP": "Snapchat",
   "CNC": "Centene",
+  "CVX": "Chevron",
   "EFX": "Equifax",
   "KVYO": "Klaviyo",
   "MRK": "Merck &",
