@@ -63,8 +63,8 @@ MARKET = re.compile(r"\b(stocks|wall street|s&p|dow|nasdaq|russell|indexes|indic
                     r"yields?|the fed|federal reserve|inflation|markets?|sell-?off|rally|live updates)\b", re.I)
 # A foreign exchange's own close (Investing.com's "<Country> stocks lower at
 # close of trade") is not a US market article (owner, 2026-10-20).
-FOREIGN_CLOSE = re.compile(r"(at close of trade|ftse|dax|cac 40|ibex|omx|obx|wig ?\d\d|bist|ta-35|nifty|sensex|"
-                           r"kospi|taiex|hang seng|asx|tsx|bovespa|athens general|all shares)", re.I)
+FOREIGN_CLOSE = re.compile(r"\b(at close of trade|ftse|dax|cac 40|ibex|omx|obx|wig ?\d\d|bist|ta-35|nifty|sensex|"
+                           r"kospi|taiex|hang seng|asx|tsx|bovespa|athens general|all shares)\b", re.I)
 NOT_MARKET = re.compile(r"\b(stock|shares) (rating|price target|climbing|falling|surges?|jumps?|plunges?|sinks?)\b|"
                         r"\bmarket debut\b|^why is .+ stock\b", re.I)
 
