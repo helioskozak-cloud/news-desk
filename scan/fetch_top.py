@@ -227,6 +227,12 @@ def main(argv=None) -> int:
     except Exception as e:
         print(f"fetch_top: Google News top stories failed — {e}; keeping the last list", flush=True)
         stories = prev.get("stories", [])
+    # The last 24 hours only (owner, 2026-10-20: "top stories must also be from
+    # the last 24 hours"). Google's front page can carry an older story, and
+    # the kept list above ages while Google is down. An undated story is out:
+    # its age cannot be shown to be inside the window.
+    cut24 = (now - timedelta(hours=WINDOW_H)).isoformat()
+    stories = [s for s in stories if (s.get("published") or "") >= cut24]
 
     arts = market_articles(now)
     fetched = failed = 0
