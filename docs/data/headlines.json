@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-20T18:46:35.462088+00:00",
+ "generated": "2026-10-20T18:51:27.098915+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "18a66da77fb4",
+   "title": "Jim Cramer spots familiar pattern in the AI stock sell-off",
+   "link": "https://www.thestreet.com/markets/jim-cramer-spots-familiar-pattern-in-the-ai-stock-sell-off",
+   "summary": "Cramer says the real question is not whether to panic, but why the stocks fell at all.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-20T18:47:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "034dc00cf9f9",
+   "title": "FMC Rings in the Holiday Season with \"Silver Bells &amp; Silver Screens\" starting October 25th",
+   "link": "https://www.prnewswire.com/news-releases/fmc-rings-in-the-holiday-season-with-silver-bells--silver-screens-starting-october-25th-302914511.html",
+   "summary": "SOUTH BEND, Ind., Oct. 20, 2026 /PRNewswire/ -- FMC (Family Movie Classics), home to beloved and timeless movies carried across cable, satellite and virtual platforms, announced today the return of viewer favorite \"Silver Bells & Silver Screens,\" a season-long programming event beginning...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T18:45:00+00:00",
+   "tickers": [
+    "FMC"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "1dd7e9601827",
    "title": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
@@ -3433,6 +3463,20 @@
     "AGI"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e5e1033655e9",
+   "title": "Ahead of massive IPOs, AI companies are sketching plans to share their wealth - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGZwMkpiTjZsZHhjNjZOYnlSSXc1OEtPWFhKNy01MDZUMGc4b3dHRzZDTHhmdXZFekZjdHVJWjZsazhLUF9walJSSnNuSEF0ZXdGOXRLTG5vNFBoX2tuaVYySW8tQ2hKY2hpa3hqRE5vd0h4bWdSXzVydXJmRXJOVXZNbHJ6UVBUdnRYN2lzVUVObF8zeDV2X1N5R3o?oc=5",
+   "summary": "Ahead of massive IPOs, AI companies are sketching plans to share their wealth&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-20T16:16:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -9018,50 +9062,6 @@
    "type": "earnings",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "4e2c8d479ea4",
-   "title": "Thryv to Release Third Quarter 2026 Financial Results on Thursday, November 5 | THRY Stock News",
-   "link": "https://www.stocktitan.net/news/THRY/thryv-to-release-third-quarter-2026-financial-results-on-thursday-akz60ydcaxse.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-20T13:05:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "82310ed84589",
-   "title": "Huron Announces Third Quarter 2026 Earnings Release and Webcast | HURN Stock News",
-   "link": "https://www.stocktitan.net/news/HURN/huron-announces-third-quarter-2026-earnings-release-and-wmff0ybayksv.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-20T13:05:00+00:00",
-   "tickers": [
-    "HURN"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dd75e1d64f44",
-   "title": "TRNR to Report Q3 2026 Results on November 16, 2026; Expects Record Quarterly Revenue of $8.0 Million | TRNR Stock News",
-   "link": "https://www.stocktitan.net/news/TRNR/trnr-to-report-q3-2026-results-on-november-16-2026-expects-record-aqs79dbphpoz.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-20T13:05:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9162,7 +9162,6 @@
   "OWL": "Blue Owl Capital",
   "PAAA": "PGIM AAA CLO ETF",
   "GE": "General Electric",
-  "HURN": "Huron Consulting",
   "AGNC": "AGNC Investment",
   "COIN": "Coinbase Global",
   "DIS": "The Walt Disney",
