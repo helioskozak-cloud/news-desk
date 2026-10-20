@@ -61,6 +61,10 @@ WALLED_NAMES = {"WSJ", "The Wall Street Journal", "Bloomberg", "Bloomberg.com", 
 # regime-desk's Market news toggle).
 MARKET = re.compile(r"\b(stocks|wall street|s&p|dow|nasdaq|russell|indexes|indices|futures|treasur(?:y|ies)|"
                     r"yields?|the fed|federal reserve|inflation|markets?|sell-?off|rally|live updates)\b", re.I)
+# A foreign exchange's own close (Investing.com's "<Country> stocks lower at
+# close of trade") is not a US market article (owner, 2026-10-20).
+FOREIGN_CLOSE = re.compile(r"(at close of trade|ftse|dax|cac 40|ibex|omx|obx|wig ?\d\d|bist|ta-35|nifty|sensex|"
+                           r"kospi|taiex|hang seng|asx|tsx|bovespa|athens general|all shares)", re.I)
 NOT_MARKET = re.compile(r"\b(stock|shares) (rating|price target|climbing|falling|surges?|jumps?|plunges?|sinks?)\b|"
                         r"\bmarket debut\b|^why is .+ stock\b", re.I)
 
@@ -198,6 +202,8 @@ def market_articles(now: datetime) -> list[dict]:
         if "news.google.com" in link or h.get("source") in ("Stock Titan", "SEC EDGAR") or h.get("category") == "press":
             continue
         if h.get("type") in ("earnings", "dividend", "offering", "fda", "legal", "analyst", "ma", "guidance"):
+            continue
+        if FOREIGN_CLOSE.search(title):
             continue
         if len(h.get("tickers") or []) >= 2 or (MARKET.search(title) and not NOT_MARKET.search(title)):
             out.append(h)
