@@ -47,11 +47,18 @@ jobs:
         run: python scan/fetch_movers.py
         continue-on-error: true
 
+      # Top stories (Google News Business front page) and how often each
+      # company is named in the day's market-wide articles. Skips itself
+      # unless top_stories.json is over 15 minutes old.
+      - name: Top stories and market-article mentions
+        run: python scan/fetch_top.py
+        continue-on-error: true
+
       - name: Commit and push
         run: |
           git config user.name "news-desk-bot"
           git config user.email "bot@news-desk"
-          git add docs/data/headlines.json docs/data/stocks.json docs/data/movers.json docs/data/quote_types.json docs/data/indices.json
+          git add docs/data/headlines.json docs/data/stocks.json docs/data/movers.json docs/data/quote_types.json docs/data/indices.json docs/data/top_stories.json
           git diff --cached --quiet && echo "No new headlines" || \
             git commit -m "chore: refresh feed $(date -u +%Y-%m-%dT%H:%MZ)"
           # Two refreshes can overlap (pinger + schedule). Every data file is
