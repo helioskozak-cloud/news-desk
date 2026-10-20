@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T02:31:34.703447+00:00",
+ "generated": "2026-10-20T02:36:15.434902+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -220,6 +220,20 @@
    "tag_v": 2
   },
   {
+   "id": "81e878bfd0e6",
+   "title": "Thai Shares May Find Traction On Tuesday",
+   "link": "https://www.nasdaq.com/articles/thai-shares-may-find-traction-tuesday",
+   "summary": "(RTTNews) - The Thai stock market has finished lower in back-to-back sessions, sinking almost 5 points or 0.3 percent in that span. The Stock Exchange of Thailand now sits just above the 1,570-point plateau although it may stop the bleeding on Tuesday.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T02:01:11+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "2409435c73ed",
    "title": "Ionis Pharma EVP Devers sells $59,081 in stock",
    "link": "https://www.investing.com/news/insider-trading-news/ionis-pharma-evp-devers-sells-59081-in-stock-93CH-4958665",
@@ -294,6 +308,22 @@
    "tag_v": 2
   },
   {
+   "id": "ca1ee90a9192",
+   "title": "Great News for Taiwan Semiconductor Stock Investors",
+   "link": "https://www.nasdaq.com/articles/great-news-taiwan-semiconductor-stock-investors",
+   "summary": "Management is upgrading its forecast amid soaring demand for AI.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T01:52:07+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "af410e2f358b",
    "title": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
    "link": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
@@ -305,6 +335,22 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "9d176792f14d",
+   "title": "Interesting News for Netflix Stock Investors",
+   "link": "https://www.nasdaq.com/articles/interesting-news-netflix-stock-investors",
+   "summary": "The cost-cutting effort is likely a restructuring rather than a reduction.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T01:51:15+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8882,56 +8928,13 @@
    "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "ceb0b25a8d4d",
-   "title": "Cotton Closes the Week with Mixed Trade",
-   "link": "https://www.nasdaq.com/articles/cotton-closes-week-mixed-trade",
-   "summary": "Cotton futures posted mixed trade on Friday, with contracts down 19 points to 24 points higher. December was down 54 points on the week. Crude oil was up $3.87 per barrel on the session, with the US dollar index $0.255 lower. Weekly CTC data showed managed money adding 1,862 contracts...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-19T18:31:48+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fc82099a11e3",
-   "title": "Alexandria Real Estate stock may move 3.4% on earnings report",
-   "link": "https://www.investing.com/news/stock-market-news/alexandria-real-estate-stock-may-move-34-on-earnings-report-93CH-4958150",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-19T18:30:55+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4d7f6c68ef32",
-   "title": "Walmart's top-rated $23 memory foam slippers are machine washable",
-   "link": "https://www.thestreet.com/deals/longbay-memory-foam-washable-slippers-walmart-sale",
-   "summary": "Buyers said they're ideal for people with swollen feet.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-19T18:30:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
   "IXUS": "iShares Core MSCI Total International Stock ETF",
   "VT": "Vanguard Total World Stock Index ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
+  "TSM": "Taiwan Semiconductor Manufacturing",
   "IBM": "International Business Machines",
   "VTI": "Vanguard Total Stock Market ETF",
   "WAL": "Western Alliance Bancorporation",
