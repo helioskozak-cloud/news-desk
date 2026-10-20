@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-20T11:16:27.515468+00:00",
+ "generated": "2026-10-20T11:21:24.260486+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d2447442a5d1",
+   "title": "U.S. oil surges to top $109, Brent crude at five-month high amid Mideast tensions",
+   "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+   "summary": "Oil extended its rally on Tuesday as investors continued to monitor developments in the Middle East.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-20T11:19:45+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "1de5d7cca916",
    "title": "Best Tech Stocks Right Now",
@@ -250,23 +264,6 @@
    "domain": "stocktitan.net",
    "published": "2026-10-20T11:05:00+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "24532d08b341",
-   "title": "Stocks Settle Higher as Chipmakers and AI-Infrastructure Stocks Rebound",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-chipmakers-and-ai-infrastructure-stocks-rebound",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up by +0.41% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.07%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.17%. December E-mini S&amp;P futures (ESZ26 ) rose +0.43%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:04:58+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -1585,20 +1582,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d2447442a5d1",
-   "title": "U.S. oil surges to top $107, Brent crude at five-month high amid Mideast tensions",
-   "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-   "summary": "Oil extended its rally on Tuesday as investors continued to monitor developments in the Middle East.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-20T10:48:27+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8800,6 +8783,23 @@
    "published": "2026-10-20T00:24:00+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "24532d08b341",
+   "title": "Stocks Settle Higher as Chipmakers and AI-Infrastructure Stocks Rebound",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-chipmakers-and-ai-infrastructure-stocks-rebound",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up by +0.41% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.07%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.17%. December E-mini S&amp;P futures (ESZ26 ) rose +0.43%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T00:23:26+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
