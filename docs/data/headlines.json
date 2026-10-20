@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-20T21:06:31.286182+00:00",
+ "generated": "2026-10-20T21:11:15.890319+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "dba9c84ca804",
+   "title": "SpaceX revenue jumps 161% driven by Starlink and AI: Live updates",
+   "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+   "summary": "Follow SpaceX’s Q3 2026 earnings live, with updates on revenue, Starlink, AI spending, Starship, guidance and SPCX stock.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-20T21:06:49+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "e0a5334e6702",
    "title": "Liquid AI CEO says AI's next big opportunity may be hiding inside your car",
@@ -60,17 +74,19 @@
    "tag_v": 2
   },
   {
-   "id": "dba9c84ca804",
-   "title": "SpaceX revenue jumps 161% driven by Starlink and AI: Live updates",
-   "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
-   "summary": "Follow SpaceX’s Q3 2026 earnings live, with updates on revenue, Starlink, AI spending, Starship, guidance and SPCX stock.",
-   "source": "CNBC Top",
+   "id": "006b341ffbc6",
+   "title": "Watch CNBC's full interview with Transportation Sec. Sean Duffy",
+   "link": "https://www.cnbc.com/video/2026/10/20/watch-cnbcs-full-interview-with-transportation-sec-sean-duffy.html",
+   "summary": "Sean Duffy, U.S. Secretary of Transportation, joins CNBC's Phil LeBeau and 'Closing Bell Overtime' to talk the FAA certifying Boeing's 737 MAX-10 after nearly a decade of delays.",
+   "source": "CNBC Investing",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-20T21:00:36+00:00",
-   "tickers": [],
+   "published": "2026-10-20T21:00:54+00:00",
+   "tickers": [
+    "BA"
+   ],
    "type": "markets",
-   "sentiment": "positive",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -176,6 +192,22 @@
     "SU"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7a546dff5a98",
+   "title": "JPMorgan invests $5B in companies critical to US national security",
+   "link": "https://www.foxbusiness.com/economy/jpmorgan-invests-5b-companies-critical-us-national-security",
+   "summary": "JPMorgan Chase committed $5 billion in equity to companies strengthening U.S. national security, defense technology and critical supply chains.",
+   "source": "Fox Business Econ",
+   "category": "macro",
+   "domain": "foxbusiness.com",
+   "published": "2026-10-20T20:59:39+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -360,6 +392,38 @@
    "tag_v": 2
   },
   {
+   "id": "e2b160a220be",
+   "title": "Cocoa Prices Climb on Smaller Deliveries from the Ivory Coast",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-climb-smaller-deliveries-ivory-coast",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed up +114 (+2.00%) on Tuesday, and December ICE London cocoa #7 (CAZ26 ) closed up +47 (+1.11%). Cocoa prices moved higher for a second day on Tuesday amid signs of smaller cocoa supplies from the Ivory Coast. On Monday, data from the Ivory...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T20:51:53+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "216546e3576d",
+   "title": "Sugar Prices Settle Mixed on Signs of a Larger Global Sugar Deficit",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-settle-mixed-signs-larger-global-sugar-deficit",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.05 (-0.24%) on Tuesday, and December London ICE white sugar #5 (SWZ26 ) closed up +0.30 (+0.05%). Sugar prices recovered from 1-week lows on Tuesday and settled mixed. Short covering emerged in sugar futures on Tuesday after Green Pool Commodity Specialists...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T20:51:53+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "00a910601556",
    "title": "Hogs Ticking Higher on Monday as Pork Finds Some Strength",
    "link": "https://www.nasdaq.com/articles/hogs-ticking-higher-monday-pork-finds-some-strength",
@@ -376,6 +440,64 @@
    "tag_v": 2
   },
   {
+   "id": "6f68d013dcab",
+   "title": "Signs of Larger ICE Inventories Weigh on Coffee Prices",
+   "link": "https://www.nasdaq.com/articles/signs-larger-ice-inventories-weigh-coffee-prices",
+   "summary": "December arabica coffee (KCZ26 ) closed down -4.40 (-1.39%) on Tuesday, and November ICE robusta coffee (RMX26 ) closed down -74 (-2.12%). Coffee prices settled lower on Tuesday amid signs of bigger supplies, as nearly 28,000 bags of arabica coffee are pending grading at the Intercontinental Exchange, the highest total...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T20:51:52+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "47c62d6caeeb",
+   "title": "Cattle Extending Higher on Tuesday",
+   "link": "https://www.nasdaq.com/articles/cattle-extending-higher-tuesday",
+   "summary": "Live cattle futures are showing $1.82 to $1.95 higher in most nearbys on Tuesday. Cash trade has yet to be reported this week, following the northern dressed sales at $350-355 and $222-227 live last week and Southern sales at $228. Feeder cattle futures are up $1.05 to $2.75 across the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T20:51:52+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b889be133a5e",
+   "title": "Corn Facing Continued Pressure on Tuesday",
+   "link": "https://www.nasdaq.com/articles/corn-facing-continued-pressure-tuesday",
+   "summary": "Corn futures are trading with 5 to 6 cent losses at the midday portion of the session. The CmdtyView national average Cash Corn price is 5 1/2 lower cents at $4.22 3/4. The average close for December corn in October has been $4.87, as the October is used to determine...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T20:51:52+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "df1edef171ac",
+   "title": "Soybeans Facing Tuesday Losses",
+   "link": "https://www.nasdaq.com/articles/soybeans-facing-tuesday-losses",
+   "summary": "Soybeans are showing losses of 6 to 8 cents, as meal spillover weakness is taking over the continued export business. The cmdtyView national average Cash Bean price is down 7 1/4 cents at $11.87. Soymeal futures are down $5.40 to $6.20, as Soy Oil futures are up 25 to 28...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T20:51:52+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "00f9c985dfa0",
    "title": "Stocks Pressured by Tech Stock Weakness and Higher Crude Oil Prices",
    "link": "https://www.nasdaq.com/articles/stocks-pressured-tech-stock-weakness-and-higher-crude-oil-prices",
@@ -389,6 +511,39 @@
     "QQQ"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "53532498c4e3",
+   "title": "Stocks Rebound on Strong Earnings and Lower Bond Yields",
+   "link": "https://www.nasdaq.com/articles/stocks-rebound-strong-earnings-and-lower-bond-yields",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up by +0.60% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.12%. December E-mini S&amp;P futures (ESZ26 ) are up +0.60%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T20:51:51+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a2a2e6b665d0",
+   "title": "Sugar Prices Recover as Green Pool Boosts Its Sugar Deficit Forecast",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-recover-green-pool-boosts-its-sugar-deficit-forecast",
+   "summary": "March NY world sugar #11 (SBH27 ) is up +0.02 (+0.10%) today, and December London ICE white sugar #5 (SWZ26 ) is up +1.40 (+0.26%). Sugar prices recovered from 1-week lows today and moved higher as short covering emerged after Green Pool Commodity Specialists raised their 2026/27 global sugar deficit...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T20:51:51+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "guidance",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -515,6 +670,20 @@
    "tag_v": 2
   },
   {
+   "id": "cdf7b8fff35e",
+   "title": "Cotton Bulls Pushing Higher on Tuesday",
+   "link": "https://www.nasdaq.com/articles/cotton-bulls-pushing-higher-tuesday",
+   "summary": "Cotton futures are trading with contracts 65 to 76 points higher at Tuesday’s midday. Crude oil is up 32 cents per barrel on the session, with the US dollar index $0.216 lower. Late on Monday, the White House announced a Harvest Fuel Relief Program, providing producers with $8 billion in...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T20:44:22+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "0435956a418b",
    "title": "After-Hours Movers: NFLX, SPCX, SMCI, ISRG, COF, UAL, PEGA",
    "link": "https://www.investing.com/news/stock-market-news/afterhours-movers-nflx-spcx-smci-isrg-cof-ual-pega-432SI-4961130",
@@ -622,12 +791,12 @@
    "title": "ORBX Crowded With Sellers",
    "link": "https://www.nasdaq.com/articles/orbx-crowded-sellers",
    "summary": "In trading on Tuesday, shares of the ORBX ETF (Symbol: ORBX) entered into oversold territory, changing hands as low as $35.50 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentum on a",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-20T20:40:39+00:00",
    "tickers": [],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -636,14 +805,14 @@
    "title": "BSJV Crowded With Sellers",
    "link": "https://www.nasdaq.com/articles/bsjv-crowded-sellers",
    "summary": "In trading on Tuesday, shares of the Invesco BulletShares 2031 High Yield Corporate Bond ETF (Symbol: BSJV) entered into oversold territory, changing hands as low as $24.64 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical a",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-20T20:40:37+00:00",
    "tickers": [
     "IVZ"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -859,99 +1028,6 @@
    "published": "2026-10-20T20:36:56+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e2b160a220be",
-   "title": "Cocoa Prices Climb on Smaller Deliveries from the Ivory Coast",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-climb-smaller-deliveries-ivory-coast",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +114 (+2.00%) on Tuesday, and December ICE London cocoa #7 (CAZ26 ) closed up +47 (+1.11%). Cocoa prices moved higher for a second day on Tuesday amid signs of smaller cocoa supplies from the Ivory Coast. On Monday, data from the Ivory...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T20:36:41+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "216546e3576d",
-   "title": "Sugar Prices Settle Mixed on Signs of a Larger Global Sugar Deficit",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-settle-mixed-signs-larger-global-sugar-deficit",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.05 (-0.24%) on Tuesday, and December London ICE white sugar #5 (SWZ26 ) closed up +0.30 (+0.05%). Sugar prices recovered from 1-week lows on Tuesday and settled mixed. Short covering emerged in sugar futures on Tuesday after Green Pool Commodity Specialists...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T20:36:41+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6f68d013dcab",
-   "title": "Signs of Larger ICE Inventories Weigh on Coffee Prices",
-   "link": "https://www.nasdaq.com/articles/signs-larger-ice-inventories-weigh-coffee-prices",
-   "summary": "December arabica coffee (KCZ26 ) closed down -4.40 (-1.39%) on Tuesday, and November ICE robusta coffee (RMX26 ) closed down -74 (-2.12%). Coffee prices settled lower on Tuesday amid signs of bigger supplies, as nearly 28,000 bags of arabica coffee are pending grading at the Intercontinental Exchange, the highest total...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T20:36:41+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "47c62d6caeeb",
-   "title": "Cattle Extending Higher on Tuesday",
-   "link": "https://www.nasdaq.com/articles/cattle-extending-higher-tuesday",
-   "summary": "Live cattle futures are showing $1.82 to $1.95 higher in most nearbys on Tuesday. Cash trade has yet to be reported this week, following the northern dressed sales at $350-355 and $222-227 live last week and Southern sales at $228. Feeder cattle futures are up $1.05 to $2.75 across the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T20:36:40+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b889be133a5e",
-   "title": "Corn Facing Continued Pressure on Tuesday",
-   "link": "https://www.nasdaq.com/articles/corn-facing-continued-pressure-tuesday",
-   "summary": "Corn futures are trading with 5 to 6 cent losses at the midday portion of the session. The CmdtyView national average Cash Corn price is 5 1/2 lower cents at $4.22 3/4. The average close for December corn in October has been $4.87, as the October is used to determine...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T20:36:40+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "53532498c4e3",
-   "title": "Stocks Rebound on Strong Earnings and Lower Bond Yields",
-   "link": "https://www.nasdaq.com/articles/stocks-rebound-strong-earnings-and-lower-bond-yields",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up by +0.60% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.12%. December E-mini S&amp;P futures (ESZ26 ) are up +0.60%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T20:36:40+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1976,36 +2052,6 @@
    "tag_v": 2
   },
   {
-   "id": "a2a2e6b665d0",
-   "title": "Sugar Prices Recover as Green Pool Boosts Its Sugar Deficit Forecast",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-recover-green-pool-boosts-its-sugar-deficit-forecast",
-   "summary": "March NY world sugar #11 (SBH27 ) is up +0.02 (+0.10%) today, and December London ICE white sugar #5 (SWZ26 ) is up +1.40 (+0.26%). Sugar prices recovered from 1-week lows today and moved higher as short covering emerged after Green Pool Commodity Specialists raised their 2026/27 global sugar deficit...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T20:17:54+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "guidance",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cdf7b8fff35e",
-   "title": "Cotton Bulls Pushing Higher on Tuesday",
-   "link": "https://www.nasdaq.com/articles/cotton-bulls-pushing-higher-tuesday",
-   "summary": "Cotton futures are trading with contracts 65 to 76 points higher at Tuesday’s midday. Crude oil is up 32 cents per barrel on the session, with the US dollar index $0.216 lower. Late on Monday, the White House announced a Harvest Fuel Relief Program, providing producers with $8 billion in...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T20:17:54+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "a618014d047a",
    "title": "Costco has strict rules to keep its food safe",
    "link": "https://www.thestreet.com/retail/costco-has-strict-rules-to-keep-its-food-safe",
@@ -2961,20 +3007,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "df1edef171ac",
-   "title": "Soybeans Facing Tuesday Losses",
-   "link": "https://www.nasdaq.com/articles/soybeans-facing-tuesday-losses",
-   "summary": "Soybeans are showing losses of 6 to 8 cents, as meal spillover weakness is taking over the continued export business. The cmdtyView national average Cash Bean price is down 7 1/4 cents at $11.87. Soymeal futures are down $5.40 to $6.20, as Soy Oil futures are up 25 to 28...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T20:10:02+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8957,37 +8989,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "a310f920fc02",
-   "title": "Coeur d'Alene Bancorp Announces Its Third Quarter 2026 Results | CDAB Stock News",
-   "link": "https://www.stocktitan.net/news/CDAB/coeur-d-alene-bancorp-announces-its-third-quarter-2026-7ao0qgbqb5nu.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-20T16:35:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ffeae93c6219",
-   "title": "Berkshire Hathaway's New Top Holding Owns Its Market",
-   "link": "https://www.nasdaq.com/articles/berkshire-hathaways-new-top-holding-owns-its-market",
-   "summary": "Key PointsBerkshire Hathaway has made Alphabet stock a major holding in its portfolio.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T16:35:00+00:00",
-   "tickers": [
-    "BRK-A",
-    "GOOG"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9037,7 +9038,6 @@
   "FITB": "Fifth Third Bancorp",
   "SYF": "Synchrony Financial",
   "ZM": "Zoom Communications",
-  "BRK-A": "Berkshire Hathaway",
   "CNP": "CenterPoint Energy",
   "HIMS": "Hims & Hers Health",
   "IDXX": "IDEXX Laboratories",
@@ -9057,6 +9057,7 @@
   "COST": "Costco Wholesale",
   "ENSG": "The Ensign Group",
   "HWM": "Howmet Aerospace",
+  "JPM": "JPMorgan Chase &",
   "LH": "Labcorp Holdings",
   "NOC": "Northrop Grumman",
   "OWL": "Blue Owl Capital",
