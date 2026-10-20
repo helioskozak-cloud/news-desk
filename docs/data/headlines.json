@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T09:26:00.149939+00:00",
+ "generated": "2026-10-20T09:31:32.400226+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,9 +11,51 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-20T09:24:56+00:00",
+   "published": "2026-10-20T09:25:33+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "35a4e234892b",
+   "title": "Shares slide again as oil stays high; AI earnings in focus",
+   "link": "https://www.investing.com/news/economy-news/asian-shares-tumble-oil-rises-as-markets-await-ai-sector-results-4958677",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:24:47+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "205dc080128a",
+   "title": "ByteDance, Alibaba and Tencent order $35 billion of Nvidia chips: Reuters",
+   "link": "https://www.investing.com/news/stock-market-news/bytedance-alibaba-and-tencent-order-35-billion-of-nvidia-chips-reuters-4959256",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:23:32+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0cde6dee034b",
+   "title": "Wabash National stock price target held at $25 by Citizens",
+   "link": "https://www.investing.com/news/analyst-ratings/wabash-national-stock-price-target-held-at-25-by-citizens-93CH-4959255",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:22:54+00:00",
+   "tickers": [],
+   "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -48,6 +90,106 @@
    "tag_v": 2
   },
   {
+   "id": "409934fccf1e",
+   "title": "Bitcoin dips below $82,000 as elevated oil prices, Fed outlook weigh",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-82000-as-elevated-oil-prices-fed-outlook-weigh-4958968",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:20:21+00:00",
+   "tickers": [],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9732e19bbbe1",
+   "title": "As France erupts, Europe’s far right gains from fuel-price anger ahead of elections",
+   "link": "https://www.investing.com/news/commodities-news/as-france-erupts-europes-far-right-gains-from-fuelprice-anger-ahead-of-elections-4958835",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:18:37+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "88463f100d66",
+   "title": "Why is Alvotech stock climbing today?",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-alvotech-stock-climbing-today-93CH-4959251",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:18:27+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "111eab4d10a1",
+   "title": "Citizens reiterates Market Outperform on Fox stock, $95 target",
+   "link": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-market-outperform-on-fox-stock-95-target-93CH-4959249",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:16:54+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "d8e73693036f",
+   "title": "Citizens reiterates Meta stock rating citing AI progress and ad strength",
+   "link": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-meta-stock-rating-citing-ai-progress-and-ad-strength-93CH-4959250",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:16:54+00:00",
+   "tickers": [
+    "META"
+   ],
+   "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5d535b664ec2",
+   "title": "Byggmax Q3 2026 slides: margin gains drive 9.7% stock surge",
+   "link": "https://www.investing.com/news/company-news/byggmax-q3-2026-slides-margin-gains-drive-97-stock-surge-93CH-4959248",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:16:52+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "96c47d1a51d4",
+   "title": "Earnings call transcript: ABB posts record margins in Q3 2026 but misses EPS",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-abb-posts-record-margins-in-q3-2026-but-misses-eps-93CH-4959247",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:16:05+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "1c8ba2df8dcc",
    "title": "Zhihu Inc. Announces Results of the Extraordinary General Meeting | ZH Stock News",
    "link": "https://www.stocktitan.net/news/ZH/zhihu-inc-announces-results-of-the-extraordinary-general-nmjzh31rayg1.html",
@@ -58,6 +200,94 @@
    "published": "2026-10-20T09:15:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "af4ead7be7af",
+   "title": "Brazil’s Azul sees longer recovery as fuel costs squeeze margins after Chapter 11",
+   "link": "https://www.investing.com/news/stock-market-news/brazils-azul-sees-longer-recovery-as-fuel-costs-squeeze-margins-after-chapter-11-4959241",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:12:41+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e94846145504",
+   "title": "Eni launches gas hub project in Egypt’s Western Desert",
+   "link": "https://www.investing.com/news/stock-market-news/eni-launches-gas-hub-project-in-egypts-western-desert-93CH-4959240",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:11:38+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "b780252fe0b1",
+   "title": "Goldman Sachs starts TAG Immobilien at ’buy’, sees 38% upside on Polish growth",
+   "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-starts-tag-immobilien-at-buy-sees-38-upside-on-polish-growth-4959236",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:08:49+00:00",
+   "tickers": [
+    "GS"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b641a7733ce7",
+   "title": "The Best Trillion-Dollar Stock to Buy Right Now, According to Wall Street",
+   "link": "https://www.nasdaq.com/articles/best-trillion-dollar-stock-buy-right-now-according-wall-street",
+   "summary": "Key PointsIn total, 13 stocks traded on U.S. exchanges have market capitalizations of at least $1 trillion, and Wall Street sees the most upside in Micron.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T09:08:01+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4229ee95a2e2",
+   "title": "Exclusive-ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+   "link": "https://www.investing.com/news/stock-market-news/exclusivebytedance-alibaba-tencent-place-over-35-billion-worth-of-nvidia-chip-orders-4959231",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:06:52+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7cca91c7d5a2",
+   "title": "EssilorLuxottica’s smart glasses boom runs into tougher regulatory scrutiny",
+   "link": "https://www.investing.com/news/stock-market-news/essilorluxotticas-smart-glasses-boom-runs-into-tougher-regulatory-scrutiny-4959229",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:06:32+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -76,6 +306,20 @@
    "tag_v": 2
   },
   {
+   "id": "123e7fa6d11c",
+   "title": "Nvidia Stock Hasn’t Been This Cheap in 7 Years. Only 1 Explanation Makes Sense.",
+   "link": "https://www.nasdaq.com/articles/nvidia-stock-hasnt-been-cheap-7-years-only-1-explanation-makes-sense",
+   "summary": "Key PointsNvidia's trailing earnings multiple is at its lowest level since June 2019.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T09:04:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "12a4900fdcda",
    "title": "Bath & Body Works faces surprising problem as Americans return to malls",
    "link": "https://www.thestreet.com/retail/bath-body-works-surprising-problem-as-americans-return-to-malls",
@@ -87,6 +331,20 @@
    "tickers": [
     "BBWI"
    ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9e225cca20be",
+   "title": "Italy to seek €5 billion from financial sector for 2027 budget",
+   "link": "https://www.investing.com/news/stock-market-news/italy-to-seek-5-billion-from-financial-sector-for-2027-budget-93CH-4959216",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-20T09:00:23+00:00",
+   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -308,6 +566,22 @@
    "tag_v": 2
   },
   {
+   "id": "f89fb381f8fe",
+   "title": "Should You Buy Meta Stock Before the Huge Investor Update?",
+   "link": "https://www.nasdaq.com/articles/should-you-buy-meta-stock-huge-investor-update",
+   "summary": "The early success of its personal agent is attracting investors to Meta (NASDAQ: META) stock.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T08:50:00+00:00",
+   "tickers": [
+    "META"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "81d0b11403ae",
    "title": "Why is Solvay stock sliding today?",
    "link": "https://www.investing.com/news/stock-market-news/why-is-solvay-stock-sliding-today-93CH-4959199",
@@ -347,6 +621,22 @@
    "domain": "investing.com",
    "published": "2026-10-20T08:46:00+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fcf1c4f364ab",
+   "title": "Is Marvell Technology a Millionaire-Maker Stock?",
+   "link": "https://www.nasdaq.com/articles/marvell-technology-millionaire-maker-stock-0",
+   "summary": "Key PointsMarvell Technology's market cap has almost tripled this year thanks to robust demand for AI infrastructure products.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T08:46:00+00:00",
+   "tickers": [
+    "MRVL"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -601,6 +891,38 @@
    "tag_v": 2
   },
   {
+   "id": "1acc233d4965",
+   "title": "Should You Forget Micron and Buy These 3 Memory Stocks Instead?",
+   "link": "https://www.nasdaq.com/articles/should-you-forget-micron-and-buy-these-3-memory-stocks-instead",
+   "summary": "Key PointsSK Hynix trades at a lower valuation than Micron while delivering similar revenue numbers and higher sequential growth.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T08:35:00+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5da62d84bc21",
+   "title": "Here's How Many Shares of Enterprise Products Partners (EPD) You'd Need for $2,000 a Year in Dividend Income",
+   "link": "https://www.nasdaq.com/articles/heres-how-many-shares-enterprise-products-partners-epd-youd-need-2000-year-dividend-income",
+   "summary": "Key PointsEnterprise Products Partners currently has a 6.1% forward dividend yield and 28 consecutive years of dividend growth.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T08:35:00+00:00",
+   "tickers": [
+    "EPD"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "49bb0dbbf568",
    "title": "GB Group shares fall as H1 profit drops, Americas writedown flagged",
    "link": "https://www.investing.com/news/stock-market-news/gb-group-shares-fall-as-h1-profit-drops-americas-writedown-flagged-93CH-4959143",
@@ -717,6 +1039,68 @@
    "tag_v": 2
   },
   {
+   "id": "c80cd9753b98",
+   "title": "President Donald Trump Claims, &quot;We Don't Have Inflation, and Tariffs Don't Cause Inflation,&quot; but a New Report Strongly Disagrees",
+   "link": "https://www.nasdaq.com/articles/president-donald-trump-claims-we-dont-have-inflation-and-tariffs-dont-cause-inflation-new",
+   "summary": "Key PointsThe Dow Jones Industrial Average, S&amp;P 500, and Nasdaq Composite have thrived under President Trump.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T08:26:02+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "139486ad8a72",
+   "title": "IVV vs. SPY: Which S&P 500 ETF Is the Better Buy for Long-Term Investors?",
+   "link": "https://www.nasdaq.com/articles/ivv-vs-spy-which-sp-500-etf-better-buy-long-term-investors",
+   "summary": "Key PointsiShares Core S&amp;P 500 ETF offers a significantly lower expense ratio than State Street SPDR S&amp;P 500 ETF.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T08:20:02+00:00",
+   "tickers": [
+    "STT",
+    "IVV",
+    "SPY"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a53f61c8050c",
+   "title": "Could Skydance Pose a Big Threat to Netflix's Future Growth?",
+   "link": "https://www.nasdaq.com/articles/could-skydance-pose-big-threat-netflixs-future-growth",
+   "summary": "Key PointsThe creation of Skydance means Netflix now faces a much stronger competitor.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T08:20:02+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "48c850c6a95c",
+   "title": "Warren Buffett Is Issuing a Stark Warning About the Stock Market. Here's What History Says Comes Next.",
+   "link": "https://www.nasdaq.com/articles/warren-buffett-issuing-stark-warning-about-stock-market-heres-what-history-says-comes-next",
+   "summary": "Key PointsThe market has been shaky this week after a record-breaking year.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T08:20:00+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "3dd0ea0f6404",
    "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
    "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
@@ -741,6 +1125,20 @@
    "published": "2026-10-20T08:15:50+00:00",
    "tickers": [],
    "type": "fx",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "85c1fdb9ec62",
+   "title": "Prediction: Oct. 21 Will Be a Huge Day for the Stock Market",
+   "link": "https://www.nasdaq.com/articles/prediction-oct-21-will-be-huge-day-stock-market",
+   "summary": "Key PointsAI stocks have helped the S&amp;P 500 soar in recent years.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-20T08:15:01+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1250,20 +1648,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "9732e19bbbe1",
-   "title": "As France erupts, Europe’s far right gains from fuel-price anger ahead of elections",
-   "link": "https://www.investing.com/news/commodities-news/as-france-erupts-europes-far-right-gains-from-fuelprice-anger-ahead-of-elections-4958835",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-20T07:42:20+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -2262,6 +2646,20 @@
    "tag_v": 2
   },
   {
+   "id": "4c3df371ee27",
+   "title": "An Australian lawmaker is critical but stable after being hit by a car, the prime minister says - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOVnVHa0tBUGhjMHRSUTlkTlQ4clhTSmVkNmpnTXFFRVpsZFprTEplajRtX1hmYmZtVWRLRjdZZXB6ZzVseWtHeG51Q1Rxb21YTUZmOUh3aGpBOGQzYWlpRGhiVXJWZjhwTkJ4STFfbWxZWnRpN0t2a3hxQzNsN0pKMEVsZnBkV085TWNvRkV2VlR2azRaMTB6OTM1ZHlhWGZEYzV3?oc=5",
+   "summary": "An Australian lawmaker is critical but stable after being hit by a car, the prime minister says&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-20T05:56:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "6086da6da370",
    "title": "ABB Q3 orders surge on data-centre boom as operating profit beats forecasts",
    "link": "https://www.investing.com/news/earnings/abb-q3-orders-surge-on-datacentre-boom-as-operating-profit-beats-forecasts-4958809",
@@ -2538,6 +2936,20 @@
    "tag_v": 2
   },
   {
+   "id": "ff9279e28936",
+   "title": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2Z4eF9VQkszcjYzUUF1S2tZYWdRcGpuWGZjLUY0ejVwMGRYdlJWUkMyVmxzdmEtdGhnaC0zZHlWTENFeFdsbm9YLVFqVVcxd2dPMmpzS1FiNU9fYy1FS2ZDSjNIdnJzcXNSX3pCbTVhZ1BMRGZ5UUtUVnF3SnhMdFBHVWw1UUdEd1hNQ3J2WVVYQWNQSDFzazNDTUo?oc=5",
+   "summary": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-20T05:18:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "6f7851f0a41a",
    "title": "Honeywell Aerospace Forecasts 9,950 New Business Jet Deliveries Over Next Decade",
    "link": "https://www.nasdaq.com/articles/honeywell-aerospace-forecasts-9950-new-business-jet-deliveries-over-next-decade",
@@ -2565,20 +2977,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "35a4e234892b",
-   "title": "Shares stumble, oil rises as investors await AI sector earnings",
-   "link": "https://www.investing.com/news/economy-news/asian-shares-tumble-oil-rises-as-markets-await-ai-sector-results-4958677",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-20T05:06:49+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -4806,6 +5204,20 @@
    "tag_v": 2
   },
   {
+   "id": "fd0cc5cb2042",
+   "title": "Australian prime minister says lawmaker critically injured by car is ‘no accident’ - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTTBSLXh6S2JGYWxxTC1fSmFWaS0yRFVuMXhZeUhCZF9oOWtFckREd2htWXZBUXgxRU5oaVM2NGFUSWU3Zm9tWDduOUptSkZ1SnJLQl9tYURxV0w4Ynd1MjlQVnR0bjRaTWFXWXpJZU40SlhGcm1sZkEyZ1c5VklYR0lnVFNDSXBoY0tUNFR2QnpaOWM?oc=5",
+   "summary": "Australian prime minister says lawmaker critically injured by car is ‘no accident’&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-19T23:58:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "1caea58c4003",
    "title": "Meet the Dividend King Stock That Yields More Than Quintuple the Nasdaq-100. Here's Why It's a Buy in October.",
    "link": "https://www.nasdaq.com/articles/meet-dividend-king-stock-yields-more-quintuple-nasdaq-100-heres-why-its-buy-october",
@@ -5500,20 +5912,6 @@
    "title": "Eagles QB Jalen Hurts is expected to miss the rest of the season with blood clots, AP source says - AP News",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2hFdE0wTGx0bDQ0NEJLVVFERER4bExSTzBXYkFyMURvQXViUWZ3NUFiWms2dEFNYjhmdDZwQldtX2ZaVE1WemktU2w0WlhoSDlxa0ZrNE44dEc1dzFJLUp0ZFJ6MXZ1N0lOb3NFSVB6LUpuR0JLX242MHVVSkRlUUdEX01sS1QxUzJEWmp3c3ZtZG9q?oc=5",
    "summary": "Eagles QB Jalen Hurts is expected to miss the rest of the season with blood clots, AP source says&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-19T22:47:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ff9279e28936",
-   "title": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2Z4eF9VQkszcjYzUUF1S2tZYWdRcGpuWGZjLUY0ejVwMGRYdlJWUkMyVmxzdmEtdGhnaC0zZHlWTENFeFdsbm9YLVFqVVcxd2dPMmpzS1FiNU9fYy1FS2ZDSjNIdnJzcXNSX3pCbTVhZ1BMRGZ5UUtUVnF3SnhMdFBHVWw1UUdEd1hNQ3J2WVVYQWNQSDFzazNDTUo?oc=5",
-   "summary": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations&nbsp;&nbsp;AP News",
    "source": "AP Business",
    "category": "macro",
    "domain": "news.google.com",
@@ -8434,413 +8832,12 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "411c0e26491e",
-   "title": "Ally Financial declares dividend on common stock and Series C and Series D preferred stock | ALLY Stock News",
-   "link": "https://www.stocktitan.net/news/ALLY/ally-financial-declares-dividend-on-common-stock-and-series-c-and-d5q93c8l29mj.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [
-    "ALLY"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "724c4507d343",
-   "title": "NUBURU Announces Receipt of NYSE American Warning Letter Regarding Disclosure Requirements | BURU Stock News",
-   "link": "https://www.stocktitan.net/news/BURU/nuburu-announces-receipt-of-nyse-american-warning-letter-regarding-ce0uqb03yv8u.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "b23947eab971",
-   "title": "ProPetro Appoints Kyle Crowley to Board of Directors | CEG Stock News",
-   "link": "https://www.stocktitan.net/news/CEG/pro-petro-appoints-kyle-crowley-to-board-of-8y21dp03x4s4.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [
-    "CEG"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "77a1b07f7c16",
-   "title": "Oaktree Specialty Lending Corporation Schedules Fourth Fiscal Quarter and Full Year 2026 Earnings Conference Call for November 17, 2026 | OCSL Stock News",
-   "link": "https://www.stocktitan.net/news/OCSL/oaktree-specialty-lending-corporation-schedules-fourth-fiscal-udugo88k6nn0.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2be2df2c0165",
-   "title": "Marriott Vacations Worldwide Appoints Heena Patel as Chief Revenue Management Officer | VAC Stock News",
-   "link": "https://www.stocktitan.net/news/VAC/marriott-vacations-worldwide-appoints-heena-patel-as-chief-revenue-78zyhtu04q53.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [
-    "MAR"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "40726144d5d3",
-   "title": "1-800-FLOWERS.COM, Inc. Completes Sale of PersonalizationMall.com® and Things Remembered® to PlanetArt® | FLWS Stock News",
-   "link": "https://www.stocktitan.net/news/FLWS/1-800-flowers-com-inc-completes-sale-of-personalization-mall-com-and-yiav10fdgasw.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3d4c91098fbb",
-   "title": "LSI Industries Announces Fiscal 2027 First Quarter Conference Call Date | LSI Stock News",
-   "link": "https://www.stocktitan.net/news/LSI/lsi-industries-announces-fiscal-2027-first-quarter-conference-call-f0nauy69faa8.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3543c2513d88",
-   "title": "Onto Innovation to Report Third Quarter 2026 Financial Results on November 9, 2026 | ONTO Stock News",
-   "link": "https://www.stocktitan.net/news/ONTO/onto-innovation-to-report-third-quarter-2026-financial-results-on-jxksruhn1zs2.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [
-    "ONTO"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "71b775eb5727",
-   "title": "Chemtrade Logistics Income Fund to Announce Third Quarter 2026 Results on November 13, 2026 | CGIFF Stock News",
-   "link": "https://www.stocktitan.net/news/CGIFF/chemtrade-logistics-income-fund-to-announce-third-quarter-2026-1lr8iu79bpuh.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8bc87c152fe0",
-   "title": "CNH to announce 2026 Q3 results on November 9 | CNH Stock News",
-   "link": "https://www.stocktitan.net/news/CNH/cnh-to-announce-2026-q3-results-on-november-g5udyqqsgpu9.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [
-    "CNH"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ba76b6605ebd",
-   "title": "Bitdeer Announces September 2026 Production and Operations Update | BTDR Stock News",
-   "link": "https://www.stocktitan.net/news/BTDR/bitdeer-announces-september-2026-production-and-operations-8rzvwvkzzcr4.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [
-    "BTDR"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1e19535c724c",
-   "title": "USCB Financial Holdings, Inc. Declares Quarterly Cash Dividend on Common Stock | USCB Stock News",
-   "link": "https://www.stocktitan.net/news/USCB/uscb-financial-holdings-inc-declares-quarterly-cash-dividend-on-qipy8vnp4o4u.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "127540e43757",
-   "title": "Gouverneur Bancorp Inc. Announces Increase in Semi-Annual Cash Dividend | GOVB Stock News",
-   "link": "https://www.stocktitan.net/news/GOVB/gouverneur-bancorp-inc-announces-increase-in-semi-annual-cash-k73ia1o4n6rl.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "b0827c3a1da7",
-   "title": "Clover Health Earns Top Honors in U.S. News & World Report's 2027 Medicare Advantage Ratings Across Three States | CLOV Stock News",
-   "link": "https://www.stocktitan.net/news/CLOV/clover-health-earns-top-honors-in-u-s-news-world-report-s-2027-cip0uaxjp562.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "c560074ccc25",
-   "title": "Streamex Corp. Announces September 2026 Yield Dividend Distribution for GLDY | STEX Stock News",
-   "link": "https://www.stocktitan.net/news/STEX/streamex-corp-announces-september-2026-yield-dividend-distribution-gcp0vsxdy80n.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "44ccc7eabba5",
-   "title": "Benton Resources Announces Grant of Stock Options | BNTRF Stock News",
-   "link": "https://www.stocktitan.net/news/BNTRF/benton-resources-announces-grant-of-stock-oeujvjw4kesx.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "aceded612e30",
-   "title": "Ball Corporation Names New Presidents of Beverage Packaging North and Central America and EMEA",
-   "link": "https://www.prnewswire.com/news-releases/ball-corporation-names-new-presidents-of-beverage-packaging-north-and-central-america-and-emea-302913092.html",
-   "summary": "WESTMINSTER, Colo., Oct. 19, 2026 /PRNewswire/ -- Ball Corporation (NYSE: BALL) today announced senior leadership changes for two of its business units. Carey Causey has been appointed senior vice president and president, Beverage Packaging North and Central America, effective...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [
-    "BALL"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9a6de3d78dc1",
-   "title": "Steel Dynamics Reports Third Quarter 2026 Results",
-   "link": "https://www.prnewswire.com/news-releases/steel-dynamics-reports-third-quarter-2026-results-302913069.html",
-   "summary": "FORT WAYNE, Ind., Oct. 19, 2026 /PRNewswire/ -- Third Quarter 2026 Performance Highlights: Record steel shipments of 3.8 million tons Net sales of $6.5 billion, operating income of $1.0 billion, and net income of $756 million Adjusted EBITDA of $1.2 billion and cash flow from operations...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [
-    "STLD"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "528e7291d68e",
-   "title": "Newsweek names Encompass Health America's Most Awarded Leader in Inpatient Rehabilitation for seventh consecutive year",
-   "link": "https://www.prnewswire.com/news-releases/newsweek-names-encompass-health-americas-most-awarded-leader-in-inpatient-rehabilitation-for-seventh-consecutive-year-302913059.html",
-   "summary": "BIRMINGHAM, Ala., Oct. 19, 2026 /PRNewswire/ -- Encompass Health today announced it has been named America's Most Awarded Leader in Inpatient Rehabilitation by Newsweek for the seventh consecutive year. A record 78 Encompass Health hospitals in 32 states were included on Newsweek's...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [
-    "EHC"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8ecb14366917",
-   "title": "Chord Energy Schedules Third Quarter 2026 Earnings Release and Conference Call",
-   "link": "https://www.prnewswire.com/news-releases/chord-energy-schedules-third-quarter-2026-earnings-release-and-conference-call-302912988.html",
-   "summary": "HOUSTON, Oct. 19, 2026 /PRNewswire/ -- Chord Energy Corp. (Nasdaq: CHRD) (\"Chord\" or the \"Company\") plans to announce its third quarter 2026 financial and operating results on Wednesday, November 4, 2026 after market close. The Company will host a live webcast and conference call on...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-19T20:30:00+00:00",
-   "tickers": [
-    "CHRD"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "07dff5d974a3",
-   "title": "5 best veterinary practice loans for 2026",
-   "link": "https://www.cnbc.com/select/best-veterinary-practice-loans/",
-   "summary": "Compare veterinary practice financing options for startup costs, expansion, equipment and working capital, with picks for different borrowing needs.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-19T20:29:54+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fac7ff33cd41",
-   "title": "W.R. Berkley stock slips over 3% on Q3 top-line miss",
-   "link": "https://www.investing.com/news/earnings/wr-berkley-stock-slips-over-3-on-q3-topline-miss-4958281",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-19T20:29:42+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "9c7709ed164e",
-   "title": "Why CoreWeave's Struggles Could Weigh Down Nvidia's Stock",
-   "link": "https://www.nasdaq.com/articles/why-coreweaves-struggles-could-weigh-down-nvidias-stock",
-   "summary": "Key PointsCoreWeave's stock has been in a tailspin amid investor concerns about rising interest rates, which could make it difficult for it to turn a profit anytime soon.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-19T20:29:01+00:00",
-   "tickers": [
-    "CRWV"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "06767bb93bb5",
-   "title": "Driver’s License Suspensions for Court Debt Draw Scrutiny in Oklahoma - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0F2cnZRT25GNzJBR19SSDUtaHhWTXVCUWtybGF6Sm5YeHRuVVBxcTNRUUtfYTZmMmk2dzlLMUIxWTBPUVltdTJmTmR0eEkyNk5aSDAyOEd1dW1DdHRyaEx1TnBEN3FtcWc3M2ZRWlItUmM2Z1FqeE9za25CaWowS0M4WjcxbklUWE9lSFJQZFUzQzJSRVk1TXFhekR1MlZqTy0zdkVPQ1p3dXc?oc=5",
-   "summary": "Driver’s License Suspensions for Court Debt Draw Scrutiny in Oklahoma&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-19T20:29:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "22388998e268",
-   "title": "Notable Two Hundred Day Moving Average Cross - HTGC",
-   "link": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-htgc",
-   "summary": "In trading on Monday, shares of Hercules Technology Growth Capital (Symbol: HTGC) crossed below their 200 day moving average of $16.27, changing hands as low as $15.96 per share. Hercules Technology Growth Capital shares are currently trading down about 2% on the day. The char",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-19T20:27:50+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "642b7908dada",
-   "title": "Precision Drilling (PDS) Shares Cross Above 200 DMA",
-   "link": "https://www.nasdaq.com/articles/precision-drilling-pds-shares-cross-above-200-dma-0",
-   "summary": "In trading on Monday, shares of Precision Drilling Corp. (Symbol: PDS) crossed above their 200 day moving average of $86.72, changing hands as high as $87.07 per share. Precision Drilling Corp. shares are currently trading up about 1.5% on the day. The chart below shows the on",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-19T20:27:46+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "63f96e912cf3",
-   "title": "Jim Cramer’s 4-word Apple rule could save you real money",
-   "link": "https://www.thestreet.com/investing/jim-cramers-4-word-apple-rule-could-save-you-real-money",
-   "summary": "Cramer’s ‘own it, don’t trade it’ line resurfaced as the iPhone Duo sold out. Here’s the tax math that makes it matter.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-19T20:17:00+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "TSM": "Taiwan Semiconductor Manufacturing",
+  "EPD": "Enterprise Products Partners L.P",
   "IBM": "International Business Machines",
   "VTI": "Vanguard Total Stock Market ETF",
   "WAL": "Western Alliance Bancorporation",
@@ -8851,19 +8848,19 @@
   "EL": "The Est?e Lauder Companies",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
+  "IVV": "iShares Core S&P 500 ETF",
   "AAL": "American Airlines Group",
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
   "CDNS": "Cadence Design Systems",
   "CHTR": "Charter Communications",
   "FND": "Floor & Decor Holdings",
-  "MAR": "Marriott International",
   "COF": "Capital One Financial",
   "EFA": "iShares MSCI EAFE ETF",
   "IONS": "Ionis Pharmaceuticals",
   "PLTR": "Palantir Technologies",
-  "CEG": "Constellation Energy",
   "BRK-A": "Berkshire Hathaway",
+  "MRVL": "Marvell Technology",
   "SCHW": "The Charles Schwab",
   "RBLX": "Roblox Corporation",
   "ATEC": "Alphatec Holdings",
@@ -8885,15 +8882,14 @@
   "BAC": "Bank of America",
   "DIS": "The Walt Disney",
   "GH": "Guardant Health",
-  "ONTO": "Onto Innovation",
   "WDC": "Western Digital",
   "ALLY": "Ally Financial",
   "CCK": "Crown Holdings",
-  "CNH": "CNH Industrial",
   "FSM": "Fortuna Mining",
   "GM": "General Motors",
   "HD": "The Home Depot",
   "KMB": "Kimberly-Clark",
+  "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "NVT": "nVent Electric",
   "STLD": "Steel Dynamics",
@@ -8908,6 +8904,7 @@
   "HQY": "HealthEquity",
   "IREN": "IREN Limited",
   "NBIS": "Nebius Group",
+  "STT": "State Street",
   "TTAN": "ServiceTitan",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
