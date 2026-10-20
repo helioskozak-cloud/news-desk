@@ -32,6 +32,34 @@ OUT = DATA / "stocks.json"
 
 BATCH_SIZE = 80     # tickers per yfinance.download call
 
+# INDICES AND ETFS (owner, 2026-10-20: "on the regime desk news tab include
+# some etfs and broad indices"). Always priced, whether or not a headline
+# names them, and listed in order under "funds" for the News tab's markets
+# panel. Groups: broad (indices and the broad-market funds), sector (the
+# eleven SPDRs plus the industry funds people quote), cross (rates, credit,
+# commodities, the dollar, abroad).
+FUNDS = [
+    ("^GSPC", "S&P 500", "broad"), ("^DJI", "Dow Jones Industrial Average", "broad"),
+    ("^IXIC", "Nasdaq Composite", "broad"), ("^NDX", "Nasdaq-100", "broad"),
+    ("^RUT", "Russell 2000", "broad"), ("^VIX", "CBOE Volatility Index", "broad"),
+    ("SPY", "SPDR S&P 500 ETF", "broad"), ("RSP", "Invesco S&P 500 Equal Weight ETF", "broad"),
+    ("QQQ", "Invesco QQQ (Nasdaq-100)", "broad"), ("DIA", "SPDR Dow Jones ETF", "broad"),
+    ("IWM", "iShares Russell 2000 ETF", "broad"), ("VTI", "Vanguard Total Stock Market ETF", "broad"),
+    ("XLK", "Technology", "sector"), ("XLC", "Communication Services", "sector"),
+    ("XLY", "Consumer Discretionary", "sector"), ("XLP", "Consumer Staples", "sector"),
+    ("XLF", "Financials", "sector"), ("XLV", "Health Care", "sector"),
+    ("XLI", "Industrials", "sector"), ("XLE", "Energy", "sector"),
+    ("XLB", "Materials", "sector"), ("XLU", "Utilities", "sector"),
+    ("XLRE", "Real Estate", "sector"), ("SMH", "Semiconductors (VanEck)", "sector"),
+    ("KRE", "Regional Banks (SPDR)", "sector"), ("XBI", "Biotech (SPDR)", "sector"),
+    ("ITB", "Homebuilders (iShares)", "sector"),
+    ("TLT", "20+ Year Treasuries (iShares)", "cross"), ("IEF", "7-10 Year Treasuries (iShares)", "cross"),
+    ("HYG", "High Yield Corporates (iShares)", "cross"), ("LQD", "Investment Grade Corporates (iShares)", "cross"),
+    ("GLD", "Gold (SPDR)", "cross"), ("USO", "Crude Oil (USO)", "cross"),
+    ("UUP", "US Dollar Index (Invesco)", "cross"), ("EFA", "Developed ex-US (iShares)", "cross"),
+    ("EEM", "Emerging Markets (iShares)", "cross"), ("IBIT", "Bitcoin (iShares)", "cross"),
+]
+
 
 def collect_tickers() -> list[str]:
     if not HEADLINES.exists():
@@ -125,9 +153,8 @@ def main():
     DATA.mkdir(parents=True, exist_ok=True)
     tickers = collect_tickers()
     print(f"fetch_stocks: {len(tickers)} unique tickers in current feed", flush=True)
-    if not tickers:
-        OUT.write_text(json.dumps({"generated": datetime.now(timezone.utc).isoformat(), "stocks": {}}), encoding="utf-8")
-        return
+    fund_names = {t: n for t, n, _ in FUNDS}
+    tickers = sorted(set(tickers) | set(fund_names))
 
     stocks = {}
     for i in range(0, len(tickers), BATCH_SIZE):
@@ -136,9 +163,13 @@ def main():
         stocks.update(chunk)
         print(f"  batch {i+1}-{i+len(batch)}: {len(chunk)} resolved", flush=True)
 
+    for t, n in fund_names.items():
+        if t in stocks:
+            stocks[t]["name"] = n
     payload = {
         "generated": datetime.now(timezone.utc).isoformat(),
         "stocks":    stocks,
+        "funds":     [{"ticker": t, "name": n, "group": g} for t, n, g in FUNDS if t in stocks],
     }
     OUT.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
     print(f"Wrote {OUT.relative_to(ROOT)} ({len(stocks)} tickers with prices)", flush=True)
