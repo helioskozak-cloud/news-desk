@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T11:36:22.145297+00:00",
+ "generated": "2026-10-21T11:41:15.396290+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,42 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-21T11:35:16+00:00",
+   "published": "2026-10-21T11:40:00+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e3a19efde349",
+   "title": "Meta Muse closes dangerous privacy loophole after researchers exploit it",
+   "link": "https://www.thestreet.com/technology/meta-muse-ai-agent-closes-dangerous-privacy-loophole",
+   "summary": "Sharing conversations came with a huge privacy downside for early Muse adopters.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-21T11:37:00+00:00",
+   "tickers": [
+    "META"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "54e3fa1b2ec8",
+   "title": "IREN to Advance Europe’s Sovereign AI Ambitions with 300MW Spanish Campus | IREN Stock News",
+   "link": "https://www.stocktitan.net/news/IREN/iren-to-advance-europe-s-sovereign-ai-ambitions-with-300mw-spanish-yy9yscgqks1g.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T11:36:00+00:00",
+   "tickers": [
+    "IREN"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -31,6 +63,23 @@
     "NVDA"
    ],
    "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "27a98280dad0",
+   "title": "Supermicro Brings NVIDIA Aerial RAN Computer Solutions to the Network Edge with Nokia to Enable Low-latency AI Services | SMCI Stock News",
+   "link": "https://www.stocktitan.net/news/SMCI/supermicro-brings-nvidia-aerial-ran-computer-solutions-to-the-akuycobx759f.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T11:35:00+00:00",
+   "tickers": [
+    "SMCI",
+    "NVDA"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -59,6 +108,20 @@
    "published": "2026-10-21T11:31:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "12d295db9709",
+   "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+   "link": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+   "summary": "Nvidia says its DSX Pod AI Factory, which combines seven Vera Rubin racks in a shipping container, could cut the time to start serving AI tokens to 14 days.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T11:30:01+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -670,7 +733,7 @@
    "title": "RavenPack Introduces NVIDIA Nemotron-Powered Pipeline for Backtest-Ready Investment Datasets on Bigdata.com",
    "link": "https://www.prnewswire.com/news-releases/ravenpack-introduces-nvidia-nemotron-powered-pipeline-for-backtest-ready-investment-datasets-on-bigdatacom-302915393.html",
    "summary": "RavenPack fine-tuned a 4B NVIDIA Nemotron model to label more than 845,000 financial-text excerpts in under an hour on two NVIDIA H200 GPUs, enabling full-corpus dataset generation for financial research. BERLIN, Oct. 21, 2026 /PRNewswire/ -- RavenPack, the data and AI infrastructure...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-21T11:30:00+00:00",
@@ -1024,6 +1087,23 @@
    "tag_v": 2
   },
   {
+   "id": "aa39c641d5e8",
+   "title": "Vertiv Targets Up to 30% More Cumulative AI Token Output in First 12 Months Using NVIDIA DSX, Polar Deploys Approach at Norway Site",
+   "link": "https://www.prnewswire.com/news-releases/vertiv-targets-up-to-30-more-cumulative-ai-token-output-in-first-12-months-using-nvidia-dsx-polar-deploys-approach-at-norway-site-302915397.html",
+   "summary": "Pre-engineered reference designs enable configuration and validation up to 10x faster, combined with factory-built infrastructure for faster deployment, integrated with Dassault Systèmes' 3DEXPERIENCE agentic platform COLUMBUS, Ohio, Oct. 21, 2026 /PRNewswire/ -- At NVIDIA GTC Berlin,...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-21T11:30:00+00:00",
+   "tickers": [
+    "NVDA",
+    "VRT"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "4d062a54ac43",
    "title": "TÜV SÜD and Accenture Accelerate Certification of Physical AI in Automated Factories and Warehouses with NVIDIA Technologies to Drive Manufacturing Productivity | ACN Stock News",
    "link": "https://www.stocktitan.net/news/ACN/tuv-sud-and-accenture-accelerate-certification-of-physical-ai-in-k34poysyld1n.html",
@@ -1037,6 +1117,20 @@
     "NVDA"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6e9852b15843",
+   "title": "IMF official says currency intervention offers limited benefits",
+   "link": "https://www.investing.com/news/economy-news/imf-official-says-currency-intervention-offers-limited-benefits-93CH-4962596",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T11:28:59+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1055,16 +1149,90 @@
    "tag_v": 2
   },
   {
+   "id": "34fff9493c5f",
+   "title": "Amkor Technology stock jumps on Nvidia advanced packaging expansion",
+   "link": "https://www.investing.com/news/stock-market-news/amkor-technology-stock-jumps-on-nvidia-advanced-packaging-expansion-4962593",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T11:28:38+00:00",
+   "tickers": [
+    "AMKR"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "6f03b54399bb",
+   "title": "Nexera unit Logia USA signs distributor for Midwest states",
+   "link": "https://www.investing.com/news/company-news/nexera-unit-logia-usa-signs-distributor-for-midwest-states-93CH-4962594",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T11:28:37+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0441dc4ac1ed",
+   "title": "Vertiv shares fall for 11th day, marking longest losing streak",
+   "link": "https://www.investing.com/news/stock-market-news/vertiv-shares-fall-for-11th-day-marking-longest-losing-streak-93CH-4962591",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T11:28:05+00:00",
+   "tickers": [
+    "VRT"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "9fb812f9780b",
    "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
    "link": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
    "summary": "United Airlines cut its profit outlook for the year as fuel prices continued to climb.",
-   "source": "CNBC Top",
-   "category": "markets",
+   "source": "CNBC Earnings",
+   "category": "earnings",
    "domain": "cnbc.com",
    "published": "2026-10-21T11:27:59+00:00",
    "tickers": [],
    "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8b44eff5dc71",
+   "title": "Stifel Financial shares rise 3% on beating profit estimates",
+   "link": "https://www.investing.com/news/earnings/stifel-financial-shares-rise-3-on-beating-profit-estimates-93CH-4962589",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T11:26:53+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "dfe485cc9cf6",
+   "title": "France’s Macron vows no repeat of riots as Yellow Vests mobilise",
+   "link": "https://www.investing.com/news/world-news/french-government-faces-fresh-test-as-yellow-vests-mobilise-4962362",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T11:25:01+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3344,12 +3512,12 @@
    "title": "BSR's Underlying Holdings Imply 10% Gain Potential",
    "link": "https://www.nasdaq.com/articles/bsrs-underlying-holdings-imply-10-gain-potential",
    "summary": "Looking at the underlying holdings of the ETFs in our coverage universe at ETF Channel, we have compared the trading price of each holding against the average analyst 12-month forward target price, and computed the weighted average implied analyst target price for the ETF itself.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-21T10:46:52+00:00",
    "tickers": [],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -3358,14 +3526,14 @@
    "title": "APLE Crosses Above Average Analyst Target",
    "link": "https://www.nasdaq.com/articles/aple-crosses-above-average-analyst-target",
    "summary": "In recent trading, shares of Apple Hospitality REIT Inc (Symbol: APLE) have crossed above the average analyst 12-month target price of $17.28, changing hands for $17.82/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgr",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-21T10:45:18+00:00",
    "tickers": [
     "AAPL"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3374,12 +3542,12 @@
    "title": "Analysts See 10% Gains Ahead For XCOR",
    "link": "https://www.nasdaq.com/articles/analysts-see-10-gains-ahead-xcor",
    "summary": "Looking at the underlying holdings of the ETFs in our coverage universe at ETF Channel, we have compared the trading price of each holding against the average analyst 12-month forward target price, and computed the weighted average implied analyst target price for the ETF itself.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-21T10:45:16+00:00",
    "tickers": [],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -3388,14 +3556,14 @@
    "title": "GoDaddy Reaches Analyst Target Price",
    "link": "https://www.nasdaq.com/articles/godaddy-reaches-analyst-target-price",
    "summary": "In recent trading, shares of GoDaddy Inc (Symbol: GDDY) have crossed above the average analyst 12-month target price of $107.65, changing hands for $108.80/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on valuat",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-21T10:45:14+00:00",
    "tickers": [
     "GDDY"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3478,14 +3646,14 @@
    "title": "HUBS Crosses Above Average Analyst Target",
    "link": "https://www.nasdaq.com/articles/hubs-crosses-above-average-analyst-target",
    "summary": "In recent trading, shares of HubSpot Inc (Symbol: HUBS) have crossed above the average analyst 12-month target price of $248.55, changing hands for $250.76/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on valuat",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-21T10:44:50+00:00",
    "tickers": [
     "HUBS"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3494,14 +3662,14 @@
    "title": "WMS Crosses Above Average Analyst Target",
    "link": "https://www.nasdaq.com/articles/wms-crosses-above-average-analyst-target",
    "summary": "In recent trading, shares of Advanced Drainage Systems Inc (Symbol: WMS) have crossed above the average analyst 12-month target price of $129.13, changing hands for $130.16/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: do",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-21T10:44:49+00:00",
    "tickers": [
     "WMS"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3570,14 +3738,14 @@
    "title": "Logitech International Reaches Analyst Target Price",
    "link": "https://www.nasdaq.com/articles/logitech-international-reaches-analyst-target-price",
    "summary": "In recent trading, shares of Logitech International SA (Symbol: LOGI) have crossed above the average analyst 12-month target price of $107.40, changing hands for $109.28/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downg",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-21T10:42:40+00:00",
    "tickers": [
     "LOGI"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3600,14 +3768,14 @@
    "title": "See Which Recent 13F Filers Hold CAT But Englebert Financial Advisers, Sentinel Advisory Group and Sage Capital Management Exited",
    "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-cat-englebert-financial-advisers-sentinel-advisory-group",
    "summary": "At Holdings Channel, we have reviewed the latest batch of the 58 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Caterpillar Inc. (Symbol: CAT) was held by 33 of these funds. When hedge fund managers appear to be thinking alike, we find it is a good",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-21T10:42:27+00:00",
    "tickers": [
     "CAT"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -5914,6 +6082,22 @@
     "ASTS"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "dba9c84ca804",
+   "title": "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates",
+   "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+   "summary": "SpaceX shares jumped after the company beat on revenue and issued uplifting guidance.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T09:08:26+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8770,181 +8954,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "41877e8578a7",
-   "title": "Storebrand Q3 earnings miss estimates as guaranteed pensions weaken",
-   "link": "https://www.investing.com/news/earnings/storebrand-q3-earnings-miss-estimates-as-guaranteed-pensions-weaken-4961633",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T06:03:47+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b6d4a8e7cb4c",
-   "title": "Halfords reports 7.1% like-for-like sales growth in first half",
-   "link": "https://www.investing.com/news/company-news/halfords-reports-71-likeforlike-sales-growth-in-first-half-93CH-4961632",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T06:02:56+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "944d104960a6",
-   "title": "Neobo Fastigheter earnings capacity drops despite record occupancy",
-   "link": "https://www.investing.com/news/stock-market-news/neobo-fastigheter-earnings-capacity-drops-despite-record-occupancy-93CH-4961631",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T06:01:55+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "11ce125b655b",
-   "title": "M&T Bank vice chairman Pearson sells $441,500 in common stock",
-   "link": "https://www.investing.com/news/insider-trading-news/mt-bank-vice-chairman-pearson-sells-441500-in-common-stock-93CH-4961630",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T06:01:24+00:00",
-   "tickers": [
-    "MTB"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0a07c80c6d78",
-   "title": "Oklo general counsel Narayanadas sells $65,179 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/oklo-general-counsel-narayanadas-sells-65179-in-stock-93CH-4961629",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T06:01:19+00:00",
-   "tickers": [
-    "OKLO"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f0362928c9e7",
-   "title": "Trump says companies should pay ’dividend’ to communities to make data centers popular",
-   "link": "https://www.investing.com/news/stock-market-news/trump-says-companies-should-pay-dividend-to-communities-to-make-data-centers-popular-4961626",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T06:00:24+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "52f3bf628a87",
-   "title": "Pigment Raises $250M at $2.3B Valuation",
-   "link": "https://www.prnewswire.com/news-releases/pigment-raises-250m-at-2-3b-valuation-302914892.html",
-   "summary": "Series E raise is led by Scaleup Europe Fund managed by EQT, with participation from existing investors, WIL (World Innovation Lab), and a planned investment from NVIDIA New capital accelerates Pigment's move toward autonomous planning, powered by its proprietary Graphite engine PARIS,...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T06:00:00+00:00",
-   "tickers": [
-    "NVDA",
-    "EQT"
-   ],
-   "type": "press",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "d8a02f387969",
-   "title": "Coty Sharpens Climate Goals, Cuts Water and Packaging Use in FY26 Sustainability Report | COTY Stock News",
-   "link": "https://www.stocktitan.net/news/COTY/coty-sharpens-climate-goals-cuts-water-and-packaging-use-in-fy26-prc4y5a6mqs5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T06:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "06800f3fc80f",
-   "title": "InterContinental Hotels Group PLC Announces Transaction in Own Shares - October 21 | IHG Stock News",
-   "link": "https://www.stocktitan.net/news/IHG/inter-continental-hotels-group-plc-announces-transaction-in-own-9a4i2fddnkvd.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T06:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5676a77add5e",
-   "title": "Guardian Metal Resources PLC Announces Strengthening of Senior Management Team | GMTL Stock News",
-   "link": "https://www.stocktitan.net/news/GMTL/guardian-metal-resources-plc-announces-strengthening-of-senior-hg8jw9edeijj.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T06:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1a07ff97d7ce",
-   "title": "Vaalco Schedules Third Quarter 2026 Earnings Release and Conference Call | EGY Stock News",
-   "link": "https://www.stocktitan.net/news/EGY/vaalco-schedules-third-quarter-2026-earnings-release-and-conference-czoqn0neiwim.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T06:00:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "38ebf6b318ff",
-   "title": "Klepierre raises 2026 guidance after strong third quarter",
-   "link": "https://www.investing.com/news/stock-market-news/klepierre-raises-2026-guidance-after-strong-third-quarter-93CH-4961622",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T05:58:41+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9009,9 +9018,11 @@
   "VRT": "Vertiv Holdings",
   "CSIQ": "Canadian Solar",
   "DPZ": "Domino's Pizza",
+  "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "NEE": "NextEra Energy",
   "LAD": "Lithia Motors",
+  "IREN": "IREN Limited",
   "NBIS": "Nebius Group",
   "R": "Ryder System",
   "SARO": "StandardAero",
@@ -9047,7 +9058,6 @@
   "ENB": "Enbridge",
   "EVR": "Evercore",
   "GOOG": "Alphabet",
-  "MTB": "M&T Bank",
   "SATS": "EchoStar",
   "RTX": "Raytheon",
   "CMCSA": "Comcast",
@@ -9083,7 +9093,6 @@
   "NUE": "Nucor",
   "VICR": "Vicor",
   "NKE": "NIKE",
-  "OKLO": "Oklo",
   "T": "AT&T",
   "V": "Visa"
  }
