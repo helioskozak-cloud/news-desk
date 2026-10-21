@@ -1,20 +1,762 @@
 {
- "generated": "2026-10-21T20:05:48.768388+00:00",
+ "generated": "2026-10-21T20:09:07.306030+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
    "id": "be017080293a",
-   "title": "Meta earnings live updates: Here are the numbers",
+   "title": "Meta posts Q3 revenue beat and strong guidance: Live updates",
    "link": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
    "summary": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-21T20:04:31+00:00",
+   "published": "2026-10-21T20:07:43+00:00",
    "tickers": [
     "META"
    ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "240588df72ef",
+   "title": "Triumph Releases Third Quarter 2026 Financial Results | TFIN Stock News",
+   "link": "https://www.stocktitan.net/news/TFIN/triumph-releases-third-quarter-2026-financial-t46uav2wonxw.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:07:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c3a2d872f116",
+   "title": "Tesla earnings are out – here are the numbers",
+   "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+   "summary": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T20:06:42+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1db26f02fe17",
+   "title": "Tesla Releases Third Quarter 2026 Financial Results | TSLA Stock News",
+   "link": "https://www.stocktitan.net/news/TSLA/tesla-releases-third-quarter-2026-financial-ptza7z4lqz4d.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:06:00+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d2434306a4ad",
+   "title": "Las Vegas Sands Reports Third Quarter 2026 Results",
+   "link": "https://www.prnewswire.com/news-releases/las-vegas-sands-reports-third-quarter-2026-results-302915950.html",
+   "summary": "For the quarter ended September 30, 2026 Net Revenue $3.22 billion Net Income $352 million Diluted Earnings per Share $0.48 Consolidated Adjusted Property EBITDA $1.12 billion LVS Repurchased $950 million of Common Stock During the Quarter LVS Board of Directors Announced a 20% Increase...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "LVS"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c811a6303c92",
+   "title": "SouthState Bank Corporation Reports Third Quarter 2026 Results, Declares Quarterly Cash Dividend",
+   "link": "https://www.prnewswire.com/news-releases/southstate-bank-corporation-reports-third-quarter-2026-results-declares-quarterly-cash-dividend-302915965.html",
+   "summary": "WINTER HAVEN, Fla., Oct. 21, 2026 /PRNewswire/ -- SouthState Bank Corporation (\"SouthState\" or the \"Company\") (NYSE: SSB) today released its unaudited results of operations and other financial information for the three-month and nine-month periods ended September 30, 2026. \"The third...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "SSB"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4e05888d8773",
+   "title": "EastGroup Properties Announces Third Quarter 2026 Results",
+   "link": "https://www.prnewswire.com/news-releases/eastgroup-properties-announces-third-quarter-2026-results-302915970.html",
+   "summary": "Quarter Highlights Net Income Attributable to Common Stockholders of $1.46 Per Diluted Share for Third Quarter 2026 Compared to $1.26 Per Diluted Share for Third Quarter 2025 Funds from Operations (\"FFO\"), Excluding Gain on Involuntary Conversion and Business Interruption Claims, of $2.45...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "EGP"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "eee27b6a5686",
+   "title": "Lam Research Corporation Reports Financial Results for the Quarter Ended September 27, 2026",
+   "link": "https://www.prnewswire.com/news-releases/lam-research-corporation-reports-financial-results-for-the-quarter-ended-september-27-2026-302915810.html",
+   "summary": "FREMONT, Calif., Oct. 21, 2026 /PRNewswire/ -- Lam Research Corporation (the \"Company,\" \"Lam,\" \"Lam Research\") today announced financial results for the quarter ended September 27, 2026 (the \"September 2026 quarter\"). Highlights for the September 2026 quarter were as follows: Revenue of...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "LRCX"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f94fbbeacf93",
+   "title": "SAP Quarterly Statement Q3 2026",
+   "link": "https://www.prnewswire.com/news-releases/sap-quarterly-statement-q3-2026-302915956.html",
+   "summary": "Current cloud backlog of €24.1 billion, up 28% and up 26% at constant currencies Cloud revenue up 26% and up 25% at constant currencies Cloud ERP Suite revenue up 29% and up 28% at constant currencies Total revenue up 13% and up 12% at constant currencies IFRS operating profit up 18%,...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "SAP"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e215fb1c85ae",
+   "title": "YYForce Unveils \"Workforce OS\" Robotics Architecture Powered by NVIDIA Physical AI",
+   "link": "https://www.prnewswire.com/news-releases/yyforce-unveils-workforce-os-robotics-architecture-powered-by-nvidia-physical-ai-302915031.html",
+   "summary": "Integration of NVIDIA Jetson Edge Computing and RTX Accelerators Establishes High-Performance Foundation for Commercial Human-and-Robot Workforces Workforce OS Leverages NVIDIA Project GR00T, Isaac Sim, Isaac ROS, and TensorRT to Accelerate Sim-to-Real Deployments Across Enterprise...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "NVDA",
+    "OS",
+    "RTX"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ab437db05222",
+   "title": "ROLLINS, INC. REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS",
+   "link": "https://www.prnewswire.com/news-releases/rollins-inc-reports-third-quarter-2026-financial-results-302915958.html",
+   "summary": "ATLANTA, Oct. 21, 2026 /PRNewswire/ -- Rollins, Inc. (NYSE:ROL) (\"Rollins\" or the \"Company\"), a premier global consumer and commercial services company, reported unaudited financial results for the third quarter of 2026. Key Highlights Third quarter revenues were $1.1 billion, an increase...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "ROL"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ca40da8e3dd7",
+   "title": "Viking Therapeutics to Report Financial Results for Third Quarter 2026 on October 28, 2026",
+   "link": "https://www.prnewswire.com/news-releases/viking-therapeutics-to-report-financial-results-for-third-quarter-2026-on-october-28-2026-302914794.html",
+   "summary": "Conference Call Scheduled for Wednesday, October 28, at 4:30 p.m. Eastern Time SAN DIEGO, Oct. 21, 2026 /PRNewswire/ -- Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "096ea6601f69",
+   "title": "Robot Consulting Co., Ltd. Notified of Anticipated Delisting from The Nasdaq Stock Market | NDAQ Stock News",
+   "link": "https://www.stocktitan.net/news/NDAQ/robot-consulting-co-ltd-notified-of-anticipated-delisting-from-the-fx1fxubkyqyh.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "NDAQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5b6849ed5cc1",
+   "title": "SAP Quarterly Statement Q3 2026 | SAP Stock News",
+   "link": "https://www.stocktitan.net/news/SAP/sap-quarterly-statement-q3-lfpmuutnzhal.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "SAP"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0b1159cccced",
+   "title": "First Bancorp Reports Third Quarter Results | FBNC Stock News",
+   "link": "https://www.stocktitan.net/news/FBNC/first-bancorp-reports-third-quarter-id1ktcxtw3g1.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e7bc892f2bd3",
+   "title": "SERA PROGNOSTICS ANNOUNCES CONFERENCE CALL AND WEBCAST OF THIRD QUARTER FISCAL YEAR 2026 FINANCIAL RESULTS ON NOVEMBER 4, 2026 | SERA Stock News",
+   "link": "https://www.stocktitan.net/news/SERA/sera-prognostics-announces-conference-call-and-webcast-of-third-1cvdjcllncl4.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3012b3be4140",
+   "title": "Viking Therapeutics to Report Financial Results for Third Quarter 2026 on October 28, 2026 | VKTX Stock News",
+   "link": "https://www.stocktitan.net/news/VKTX/viking-therapeutics-to-report-financial-results-for-third-quarter-5lbhzb9h4r87.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3d846f428f4d",
+   "title": "Lam Research Corporation Reports Financial Results for the Quarter Ended September 27, 2026 | LRCX Stock News",
+   "link": "https://www.stocktitan.net/news/LRCX/lam-research-corporation-reports-financial-results-for-the-quarter-1vsrjd00a60b.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "LRCX"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1fe508a5c941",
+   "title": "ROLLINS, INC. REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS | ROL Stock News",
+   "link": "https://www.stocktitan.net/news/ROL/rollins-inc-reports-third-quarter-2026-financial-igve4tsgabfr.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "ROL"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2d1966804cba",
+   "title": "Accuray to Report First Quarter Fiscal 2027 Financial Results on November 4, 2026 | ARAY Stock News",
+   "link": "https://www.stocktitan.net/news/ARAY/accuray-to-report-first-quarter-fiscal-2027-financial-results-on-pfiw7rq5wbd3.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b49a8e7e33c2",
+   "title": "EastGroup Properties Announces Third Quarter 2026 Results | EGP Stock News",
+   "link": "https://www.stocktitan.net/news/EGP/east-group-properties-announces-third-quarter-2026-em0vsgn91jv4.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "EGP"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0a0721dc5030",
+   "title": "SouthState Bank Corporation Reports Third Quarter 2026 Results, Declares Quarterly Cash Dividend | SSB Stock News",
+   "link": "https://www.stocktitan.net/news/SSB/south-state-bank-corporation-reports-third-quarter-2026-results-8md65sd9yetb.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "SSB"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8954980dd5d7",
+   "title": "Las Vegas Sands Reports Third Quarter 2026 Results | LVS Stock News",
+   "link": "https://www.stocktitan.net/news/LVS/las-vegas-sands-reports-third-quarter-2026-7mf9j1191g4k.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "LVS"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1a08d61f85dc",
+   "title": "Nuvation Bio to Report Third Quarter 2026 Financial Results and Provide Business Update on November 4, 2026 | NUVB Stock News",
+   "link": "https://www.stocktitan.net/news/NUVB/nuvation-bio-to-report-third-quarter-2026-financial-results-and-46nm4l05hys0.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "834c521c26f2",
+   "title": "Waste Connections Reports Third Quarter 2026 Results and Raises Full Year Outlook | WCN Stock News",
+   "link": "https://www.stocktitan.net/news/WCN/waste-connections-reports-third-quarter-2026-results-and-raises-full-63g6n3fbzd3k.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "WCN"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "42e523834b3c",
+   "title": "Enterprise Financial Services Corp Reports Third Quarter 2026 Results | EFSC Stock News",
+   "link": "https://www.stocktitan.net/news/EFSC/enterprise-financial-services-corp-reports-third-quarter-2026-omx5688aqxdu.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "01328700c389",
+   "title": "NETSTREIT Reports Third Quarter 2026 Financial and Operating Results | NTST Stock News",
+   "link": "https://www.stocktitan.net/news/NTST/netstreit-reports-third-quarter-2026-financial-and-operating-4ulxsljpfvzo.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a58cd43b9f6f",
+   "title": "Pathward Financial, Inc. Announces Results for Fourth Quarter and Fiscal Year 2026 | CASH Stock News",
+   "link": "https://www.stocktitan.net/news/CASH/pathward-financial-inc-announces-results-for-fourth-quarter-and-u8yeae6vldc9.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "22765c81b3ed",
+   "title": "Deutsche Bank Appointed as Depositary Bank for the Sponsored American Depositary Receipt Program of Andean Silver Limited | DB Stock News",
+   "link": "https://www.stocktitan.net/news/DB/deutsche-bank-appointed-as-depositary-bank-for-the-sponsored-l4jrmapwfs17.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "DB"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ef3fa4104eeb",
+   "title": "WD-40 Company Reports Fourth Quarter and Fiscal Year 2026 Financial Results | WDFC Stock News",
+   "link": "https://www.stocktitan.net/news/WDFC/wd-40-company-reports-fourth-quarter-and-fiscal-year-2026-financial-6sp3p2oqme2p.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cab218684573",
+   "title": "Kinder Morgan Reports Record Third Quarter 2026 Financial Results | KMI Stock News",
+   "link": "https://www.stocktitan.net/news/KMI/kinder-morgan-reports-record-third-quarter-2026-financial-ic4x0uswigb1.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "KMI"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a5fc134cc11b",
+   "title": "Essential Properties Announces Third Quarter 2026 Results | EPRT Stock News",
+   "link": "https://www.stocktitan.net/news/EPRT/essential-properties-announces-third-quarter-2026-ltn3w0m170y1.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "EPRT"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "162652c8a96f",
+   "title": "Ategrity Specialty Insurance Company Holdings Reports Third Quarter 2026 Results | ASIC Stock News",
+   "link": "https://www.stocktitan.net/news/ASIC/ategrity-specialty-insurance-company-holdings-reports-third-quarter-p2i7h9x7vrso.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7cc617a33cc8",
+   "title": "Biote Schedules Third Quarter 2026 Financial Results Release and Conference Call | BTMD Stock News",
+   "link": "https://www.stocktitan.net/news/BTMD/biote-schedules-third-quarter-2026-financial-results-release-and-yp0s1fdizaw2.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1f832ee464ac",
+   "title": "Informa TechTarget to Announce Third Quarter 2026 Financial Results; Participate in Upcoming Investor Conference | TTGT Stock News",
+   "link": "https://www.stocktitan.net/news/TTGT/informa-tech-target-to-announce-third-quarter-2026-financial-results-rb36eofz6coh.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ddfa497574df",
+   "title": "Boot Barn Holdings, Inc. to Report Second Quarter Fiscal Year 2027 Results on October 28, 2026 | BOOT Stock News",
+   "link": "https://www.stocktitan.net/news/BOOT/boot-barn-holdings-inc-to-report-second-quarter-fiscal-year-2027-az36mlkb53h2.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "BOOT"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2a1ee69ef35b",
+   "title": "Traeger Announces Reporting Date for Third Quarter 2026 Financial Results | COOK Stock News",
+   "link": "https://www.stocktitan.net/news/COOK/traeger-announces-reporting-date-for-third-quarter-2026-financial-4z8qqzzg2xg2.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2da384bb9f02",
+   "title": "Acadia Pharmaceuticals to Announce Third Quarter 2026 Financial Results on November 4, 2026 | ACAD Stock News",
+   "link": "https://www.stocktitan.net/news/ACAD/acadia-pharmaceuticals-to-announce-third-quarter-2026-financial-rvnjfbza60ii.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "edb9516d3e23",
+   "title": "Spok Sets Date to Report Third Quarter 2026 Results | SPOK Stock News",
+   "link": "https://www.stocktitan.net/news/SPOK/spok-sets-date-to-report-third-quarter-2026-2b158pehlila.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ce961ebfc05d",
+   "title": "Tigo Energy Inc. to Report Third Quarter 2026 Financial Results on Wednesday, November 4, 2026 at 4:30 p.m. ET | TYGO Stock News",
+   "link": "https://www.stocktitan.net/news/TYGO/tigo-energy-inc-to-report-third-quarter-2026-financial-results-on-zr9og2a8xiu1.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4b967fdeca0f",
+   "title": "TrueBlue to Announce Third Quarter 2026 Results | TBI Stock News",
+   "link": "https://www.stocktitan.net/news/TBI/true-blue-to-announce-third-quarter-2026-k94b5sl8s4hq.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "85f252cea417",
+   "title": "Logitech Announces 2026 Future Positive Technology Challenge Winners | LOGI Stock News",
+   "link": "https://www.stocktitan.net/news/LOGI/logitech-announces-2026-future-positive-technology-challenge-a5zs9414zub7.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "LOGI"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2ca37c2f5aa1",
+   "title": "Waste Connections Announces 10.0% Increase in Quarterly Dividend | WCN Stock News",
+   "link": "https://www.stocktitan.net/news/WCN/waste-connections-announces-10-0-increase-in-quarterly-e0npf0o42u68.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "WCN"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fe87a3fa5682",
+   "title": "Knight-Swift Transportation Holdings Inc. Announces Results for Third Quarter 2026 | KNX Stock News",
+   "link": "https://www.stocktitan.net/news/KNX/knight-swift-transportation-holdings-inc-announces-results-for-third-7dhn6gve56is.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "KNX"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ef2d84ac7fae",
+   "title": "Beacon Financial Corporation Announces Third Quarter Results | BBT Stock News",
+   "link": "https://www.stocktitan.net/news/BBT/beacon-financial-corporation-announces-third-quarter-ef4r3ua81bjk.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1eb6fed4f9de",
+   "title": "TaskUs, Inc. to Announce Third-Quarter 2026 Financial Results on November 4, 2026 | TASK Stock News",
+   "link": "https://www.stocktitan.net/news/TASK/task-us-inc-to-announce-third-quarter-2026-financial-results-on-7opgyfrugshs.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a48254c3ce9c",
+   "title": "Sturm, Ruger & Company, Inc. to Report Third Quarter 2026 Financial Results on Wednesday, November 4 | RGR Stock News",
+   "link": "https://www.stocktitan.net/news/RGR/sturm-ruger-company-inc-to-report-third-quarter-2026-financial-qaftp4peak45.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "341878f65e39",
+   "title": "Vir Biotechnology to Host Conference Call for Third Quarter 2026 Financial Results | VIR Stock News",
+   "link": "https://www.stocktitan.net/news/VIR/vir-biotechnology-to-host-conference-call-for-third-quarter-2026-dqkmflbq91nq.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6a4927b14477",
+   "title": "HubSpot to Announce Third Quarter 2026 Financial Results on November 4, 2026 | HUBS Stock News",
+   "link": "https://www.stocktitan.net/news/HUBS/hub-spot-to-announce-third-quarter-2026-financial-results-on-rmkz818xqrnw.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "HUBS"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "663fb83d5845",
+   "title": "Remitly to Report Third Quarter Financial Results on November 4, 2026 | RELY Stock News",
+   "link": "https://www.stocktitan.net/news/RELY/remitly-to-report-third-quarter-financial-results-on-november-4-iccterr2wqmh.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
@@ -68,38 +810,6 @@
    "tag_v": 2
   },
   {
-   "id": "98706727ed28",
-   "title": "GRAIL to Announce Third Quarter 2026 Financial Results | GRAL Stock News",
-   "link": "https://www.stocktitan.net/news/GRAL/grail-to-announce-third-quarter-2026-financial-21mnzr87f365.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:02:00+00:00",
-   "tickers": [
-    "GRAL"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4b5f139d7d2e",
-   "title": "CSX Corp. Announces Third Quarter 2026 Results | CSX Stock News",
-   "link": "https://www.stocktitan.net/news/CSX/csx-corp-announces-third-quarter-2026-0ettl4ewbts8.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:02:00+00:00",
-   "tickers": [
-    "CSX"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "87f958946602",
    "title": "SEI Reports Third-Quarter 2026 Financial Results",
    "link": "https://www.prnewswire.com/news-releases/sei-reports-third-quarter-2026-financial-results-302915961.html",
@@ -110,22 +820,6 @@
    "published": "2026-10-21T20:01:00+00:00",
    "tickers": [
     "SEI"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f943ac4e6809",
-   "title": "Meta Reports Third Quarter 2026 Results",
-   "link": "https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html",
-   "summary": "Announces Establishment of New Class C Common Stock MENLO PARK, Calif., Oct. 21, 2026 /PRNewswire/ -- Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter ended September 30, 2026. \"We hit major milestones this quarter toward delivering personal...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T20:01:00+00:00",
-   "tickers": [
-    "META"
    ],
    "type": "earnings",
    "sentiment": "neutral",
@@ -148,167 +842,17 @@
    "tag_v": 2
   },
   {
-   "id": "725e1cdac05e",
-   "title": "Meta Reports Third Quarter 2026 Results | META Stock News",
-   "link": "https://www.stocktitan.net/news/META/meta-reports-third-quarter-2026-13ysmyjaxliq.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
+   "id": "f943ac4e6809",
+   "title": "Meta Reports Third Quarter 2026 Results",
+   "link": "https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html",
+   "summary": "Announces Establishment of New Class C Common Stock MENLO PARK, Calif., Oct. 21, 2026 /PRNewswire/ -- Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter ended September 30, 2026. \"We hit major milestones this quarter toward delivering personal...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
    "published": "2026-10-21T20:01:00+00:00",
    "tickers": [
     "META"
    ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "81b169889d23",
-   "title": "SEI Reports Third-Quarter 2026 Financial Results | SEIC Stock News",
-   "link": "https://www.stocktitan.net/news/SEIC/sei-reports-third-quarter-2026-financial-z5wvr75kn7yu.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:01:00+00:00",
-   "tickers": [
-    "SEI"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7315b2e058a6",
-   "title": "TI reports third quarter 2026 financial results and shareholder returns | TXN Stock News",
-   "link": "https://www.stocktitan.net/news/TXN/ti-reports-third-quarter-2026-financial-results-and-shareholder-4p1drg4ycvfb.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:01:00+00:00",
-   "tickers": [
-    "TXN"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a196306eb9fc",
-   "title": "Martin Midstream Partners Reports Third Quarter 2026 Financial Results, Increases Full Year 2026 Adjusted EBITDA Guidance to $94 Million, and Declares Quarterly Cash Distribution | MMLP Stock News",
-   "link": "https://www.stocktitan.net/news/MMLP/martin-midstream-partners-reports-third-quarter-2026-financial-6r16vmbekycy.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:01:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e58f8ed6b715",
-   "title": "STAAR Surgical to Host Third Quarter 2026 Earnings Results Call and Webcast on November 4, 2026 | STAA Stock News",
-   "link": "https://www.stocktitan.net/news/STAA/staar-surgical-to-host-third-quarter-2026-earnings-results-call-and-eq39n60ps5wd.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:01:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e4bcf1cf64bb",
-   "title": "Palantir Accelerates Delivery of Sovereign AI to New Wave of Customers | PLTR Stock News",
-   "link": "https://www.stocktitan.net/news/PLTR/palantir-accelerates-delivery-of-sovereign-ai-to-new-wave-of-astlf37nso5h.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:01:00+00:00",
-   "tickers": [
-    "PLTR"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6ab6502f9244",
-   "title": "Mirum Pharmaceuticals to Participate in Upcoming Investor Conferences | MIRM Stock News",
-   "link": "https://www.stocktitan.net/news/MIRM/mirum-pharmaceuticals-to-participate-in-upcoming-investor-ueqonjnxy861.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:01:00+00:00",
-   "tickers": [
-    "MIRM"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ab250fbd88ec",
-   "title": "U.S. Bancorp | BTIG to Host Turn Therapeutics for Virtual Fireside Chat | TTRX Stock News",
-   "link": "https://www.stocktitan.net/news/TTRX/u-s-bancorp-btig-to-host-turn-therapeutics-for-virtual-fireside-2uomwzsiq7m5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:01:00+00:00",
-   "tickers": [
-    "USB"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "615afea18585",
-   "title": "VTEX to Announce Third Quarter 2026 Financial Results on November 5th, 2026 | VTEX Stock News",
-   "link": "https://www.stocktitan.net/news/VTEX/vtex-to-announce-third-quarter-2026-financial-results-on-november-p56zte3n07xm.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:01:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "860f1d543664",
-   "title": "Genenta Science Announces Receipt of Nasdaq Minimum Bid Price Deficiency Notification | GNTA Stock News",
-   "link": "https://www.stocktitan.net/news/GNTA/genenta-science-announces-receipt-of-nasdaq-minimum-bid-price-6pgsvvipoadp.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:01:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "88bf0ce882cb",
-   "title": "BioCryst to Report Third Quarter 2026 Financial Results on November 4 | BCRX Stock News",
-   "link": "https://www.stocktitan.net/news/BCRX/bio-cryst-to-report-third-quarter-2026-financial-results-on-november-u5uf2qey45gd.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:01:00+00:00",
-   "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
@@ -1457,6 +2001,20 @@
     "PNFP"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "11fecda3d1b9",
+   "title": "New Mexico attorney general accuses Epstein attorney, accountant of abuse cover-up at ranch - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3NydUNob1RqQVYxNUhyZHhCcFlsV2txQ3pMVWxCT0oyWEJHT2JkbzV0WHRFYVF6OWRnVU1KaVZsNV9oY25IU19SZWNEUWJ6T1A5aXJaZlZVUDBjNDVnTEJDdy1yU3JFbkdBX2EwZ2RudzRMc0VxbEpSTGI3Xy1LSGVJUXVNaDBtMktSYXdQcnJlQjNnUmFR?oc=5",
+   "summary": "New Mexico attorney general accuses Epstein attorney, accountant of abuse cover-up at ranch&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T19:18:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3807,20 +4365,6 @@
    "tag_v": 2
   },
   {
-   "id": "11fecda3d1b9",
-   "title": "New Mexico attorney general accuses Epstein attorney, accountant of abuse cover-up at ranch - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3NydUNob1RqQVYxNUhyZHhCcFlsV2txQ3pMVWxCT0oyWEJHT2JkbzV0WHRFYVF6OWRnVU1KaVZsNV9oY25IU19SZWNEUWJ6T1A5aXJaZlZVUDBjNDVnTEJDdy1yU3JFbkdBX2EwZ2RudzRMc0VxbEpSTGI3Xy1LSGVJUXVNaDBtMktSYXdQcnJlQjNnUmFR?oc=5",
-   "summary": "New Mexico attorney general accuses Epstein attorney, accountant of abuse cover-up at ranch&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-21T17:31:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "c19beaaedf51",
    "title": "Meta ordered to pay $25 billion to New Mexico after jury finds company misled consumers about data privacy",
    "link": "https://www.investing.com/news/stock-market-news/meta-ordered-to-pay-25-billion-to-new-mexico-after-jury-finds-company-misled-consumers-about-data-privacy-4963776",
@@ -3968,6 +4512,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T17:24:29+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -5989,22 +6547,6 @@
     "KWEB"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c3a2d872f116",
-   "title": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
-   "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-   "summary": "A day after Elon Musk's SpaceX reported third-quarter results, Tesla is scheduled to update investors.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-21T16:01:25+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8557,518 +9099,6 @@
    "type": "dividend",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "21f1abe09668",
-   "title": "Ex-Div Reminder for Templeton Emerging Markets Income Fund (TEI)",
-   "link": "https://www.nasdaq.com/articles/ex-div-reminder-templeton-emerging-markets-income-fund-tei",
-   "summary": "Looking at the universe of stocks we cover at Dividend Channel, on 10/23/26, Templeton Emerging Markets Income Fund (Symbol: TEI) will trade ex-dividend, for its monthly dividend of $0.054, payable on 10/30/26. As a percentage of TEI's recent stock price of $6.21, this dividend",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T14:22:12+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "923d2bb4320f",
-   "title": "Nasdaq 100 Movers: NFLX, HONIV",
-   "link": "https://www.nasdaq.com/articles/nasdaq-100-movers-nflx-honiv",
-   "summary": "In early trading on Wednesday, shares of Honeywell International topped the list of the day's best performing components of the Nasdaq 100 index, trading up 7.5%. Year to date, Honeywell International registers a 42.2% gain. And the worst performing Nasdaq 100 component thus f",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T14:22:09+00:00",
-   "tickers": [
-    "HON",
-    "NFLX"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f132af04b2b4",
-   "title": "Reminder - ClearBridge Energy MLP Opportunity Fund (EMO) Goes Ex-Dividend Soon",
-   "link": "https://www.nasdaq.com/articles/reminder-clearbridge-energy-mlp-opportunity-fund-emo-goes-ex-dividend-soon",
-   "summary": "Looking at the universe of stocks we cover at Dividend Channel, on 10/23/26, ClearBridge Energy MLP Opportunity Fund (Symbol: EMO) will trade ex-dividend, for its monthly dividend of $0.41, payable on 10/30/26. As a percentage of EMO's recent stock price of $51.48, this dividen",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T14:21:59+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "b8203d38a6cc",
-   "title": "Cash Dividend On The Way From Franklin Templeton Limited Duration Income Trust (FTF)",
-   "link": "https://www.nasdaq.com/articles/cash-dividend-way-franklin-templeton-limited-duration-income-trust-ftf",
-   "summary": "Looking at the universe of stocks we cover at Dividend Channel, on 10/23/26, Franklin Templeton Limited Duration Income Trust (Symbol: FTF) will trade ex-dividend, for its monthly dividend of $0.0615, payable on 10/30/26. As a percentage of FTF's recent stock price of $5.42, th",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T14:21:05+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "883fb9575b7a",
-   "title": "HGLB Ex-Dividend Reminder - 10/23/26",
-   "link": "https://www.nasdaq.com/articles/hglb-ex-dividend-reminder-10-23-26",
-   "summary": "Looking at the universe of stocks we cover at Dividend Channel, on 10/23/26, Highland Global Allocation Fund (Symbol: HGLB) will trade ex-dividend, for its monthly dividend of $0.085, payable on 10/30/26. As a percentage of HGLB's recent stock price of $6.52, this dividend work",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T14:21:01+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "fce7882968cb",
-   "title": "FRD Ex-Dividend Reminder - 10/23/26",
-   "link": "https://www.nasdaq.com/articles/frd-ex-dividend-reminder-10-23-26",
-   "summary": "Looking at the universe of stocks we cover at Dividend Channel, on 10/23/26, Friedman Industries, Inc. (Symbol: FRD) will trade ex-dividend, for its quarterly dividend of $0.04, payable on 11/13/26. As a percentage of FRD's recent stock price of $42.30, this dividend works out",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T14:20:58+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "d58361bd83f2",
-   "title": "Cash Dividend On The Way From Federated Premier Municipal Income Fund (FMN)",
-   "link": "https://www.nasdaq.com/articles/cash-dividend-way-federated-premier-municipal-income-fund-fmn",
-   "summary": "Looking at the universe of stocks we cover at Dividend Channel, on 10/23/26, Federated Premier Municipal Income Fund (Symbol: FMN) will trade ex-dividend, for its monthly dividend of $0.045, payable on 11/2/26. As a percentage of FMN's recent stock price of $10.52, this dividen",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T14:20:55+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "ac9c17bfa3a4",
-   "title": "Not Lilly. Not Johnson & Johnson. This Stock Will Be the Biggest Healthcare Winner of 2026",
-   "link": "https://www.nasdaq.com/articles/not-lilly-not-johnson-johnson-stock-will-be-biggest-healthcare-winner-2026",
-   "summary": "Key PointsModerna&rsquo;s shares soared following a major Phase 3 clinical trial win.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T14:20:00+00:00",
-   "tickers": [
-    "JNJ",
-    "LLY"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3c9b17abc05c",
-   "title": "Medicare eats into retirees' 2027 raise from day one",
-   "link": "https://www.thestreet.com/retirement/medicare-2027-cola-raise-part-d-part-b-costs",
-   "summary": "The cost-of-living adjustment could shrink fast once three healthcare costs take their cut.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-21T14:17:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "88be3b7eccec",
-   "title": "Apple bearish tilt at $340 with breakdown risk: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/apple-forms-double-top-near-348-ath-resistance-live-levels-93CH-4957920",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:16:50+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "04c6cc4acee6",
-   "title": "Micron tests $875 Fibonacci support amid bear flag: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/micron-clings-to-910-support-in-active-downtrend-live-levels-93CH-4957911",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:16:44+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "44064f8586dd",
-   "title": "S&P 500 Movers: T, SMCI",
-   "link": "https://www.nasdaq.com/articles/sp-500-movers-t-smci",
-   "summary": "In early trading on Wednesday, shares of Super Micro Computer topped the list of the day's best performing components of the S&amp;P 500 index, trading up 12.4%. Year to date, Super Micro Computer registers a 24.7% gain. And the worst performing S&amp;P 500 component thus far",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T14:16:42+00:00",
-   "tickers": [
-    "SMCI"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3e2c8790b34f",
-   "title": "NVIDIA stuck at $218 in tug-of-war zone: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/nvidia-stuck-below-200-sma-with-bearish-momentum-live-levels-93CH-4957916",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:16:41+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "976d8bb87d38",
-   "title": "FedEx shares may move 6.6% on Oct. 28 earnings release",
-   "link": "https://www.investing.com/news/stock-market-news/fedex-shares-may-move-66-on-oct-28-earnings-release-93CH-4963458",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:16:41+00:00",
-   "tickers": [
-    "FDX"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c6e4529c616b",
-   "title": "Alphabet nears oversold as $329.60 support threatens: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/alphabet-a-pinned-below-resistance-at-347350-live-levels-93CH-4957924",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:16:39+00:00",
-   "tickers": [
-    "GOOG"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6abab1c5276a",
-   "title": "Earnings call transcript: Agree Realty beats Q3 2026 estimates as shares slip",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-agree-realty-beats-q3-2026-estimates-as-shares-slip-93CH-4963457",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:16:35+00:00",
-   "tickers": [
-    "ADC"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "c080ed1d988e",
-   "title": "SanDisk trapped below all MAs in bear trend: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/sandisk-tests-1346-fibonacci-support-in-fierce-downtrend-live-93CH-4957918",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:16:34+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e7d68fe63768",
-   "title": "Intel pinned at 78.6% Fib after plunge: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/intel-oversold-in-bear-trend-near-9430-live-levels-93CH-4957909",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:16:33+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "a82343689331",
-   "title": "Microsoft wedged at $529 in bull-bear standoff: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/microsoft-stalls-at-534-after-failed-breakout-live-levels-93CH-4957912",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:16:31+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7f9d15a5a4e2",
-   "title": "Why is Datadog stock surging today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-datadog-stock-surging-today-93CH-4963456",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:16:23+00:00",
-   "tickers": [
-    "DDOG"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3851d5abd706",
-   "title": "eBay to cut 9% of workforce in strategic operational push, Reuters reports",
-   "link": "https://www.investing.com/news/stock-market-news/ebay-to-cut-9-of-workforce-in-strategic-operational-push-reuters-reports-4963455",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:16:09+00:00",
-   "tickers": [
-    "EBAY"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "296252b5fcf5",
-   "title": "TTM Technologies faces earnings test as AI bets fuel investor worries",
-   "link": "https://www.investing.com/news/earnings/ttm-technologies-faces-earnings-test-as-ai-bets-fuel-investor-worries-93CH-4963454",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:16:08+00:00",
-   "tickers": [
-    "TTMI"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2ed561673525",
-   "title": "Carvana stock may move 12% on upcoming earnings report",
-   "link": "https://www.investing.com/news/stock-market-news/carvana-stock-may-move-12-on-upcoming-earnings-report-93CH-4963453",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:15:45+00:00",
-   "tickers": [
-    "CVNA"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "74d7ab76ccdd",
-   "title": "Earnings call transcript: Northern Trust tops Q3 2026 forecasts as profit jumps",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-northern-trust-tops-q3-2026-forecasts-as-profit-jumps-93CH-4963452",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:15:32+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "434422166658",
-   "title": "First American earnings up next: Can commercial offset residential?",
-   "link": "https://www.investing.com/news/earnings/first-american-earnings-up-next-can-commercial-offset-residential-93CH-4963450",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T14:15:15+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1e3d9bbb86fc",
-   "title": "Vanguard Growth ETF Outperforms Small-Cap Peer Over Five Years",
-   "link": "https://www.nasdaq.com/articles/vanguard-growth-etf-outperforms-small-cap-peer-over-five-years",
-   "summary": "Key PointsVanguard Morningstar Growth ETF offers a slightly lower expense ratio than Vanguard Morningstar Small-Cap Growth ETF.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T14:15:02+00:00",
-   "tickers": [
-    "VUG",
-    "MORN"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "7da11a6c920a",
-   "title": "JD Bancshares, Inc. Declares Cash Dividend | JDVB Stock News",
-   "link": "https://www.stocktitan.net/news/JDVB/jd-bancshares-inc-declares-cash-5mt3wsi9njuf.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T14:15:00+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "904743eb8765",
-   "title": "Toncoin (TON) Price Prediction 2025, 2026, 2027-2030",
-   "link": "https://www.benzinga.com/money/toncoin-ton-price-prediction",
-   "summary": "The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are saying that Toncoin (TON) could hit $26.17 by 2030. Feeling bullish about TON already? You can buy TON through Coinbase Wallet,&#160;Kraken,&#160;Gemini, and&#160;Paybis. In the cryptocurrency market, staying informed about trends is important for investors. With the Bitcoin (BTC) prices rising this year, investors are also looki",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-21T14:13:31+00:00",
-   "tickers": [
-    "BTC",
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d9576a1abcbf",
-   "title": "Myro (MYRO) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/myro-price-prediction",
-   "summary": "The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Myro (MYRO) could reach $0.050 by 2030. Feeling confident about this MYRO price prediction? You can trade Myro on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Myro (MYRO), a meme &#8230;",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-21T14:13:30+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d63400c168ca",
-   "title": "PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/pancakeswap-cake-price-prediction",
-   "summary": "The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that PancakeSwap (CAKE) could reach $7.70 by 2030. Feeling confident about this CAKE price prediction? You can trade PancakeSwap on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. PancakeS",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-21T14:13:29+00:00",
-   "tickers": [
-    "CAKE",
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6d145a9e8b42",
-   "title": "Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction",
-   "summary": "The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Hedera Hashgraph (HBAR) could reach $0.873 by 2030. Feeling confident about this HBAR price prediction? You can trade Hedera Hashgraph on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying t",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-21T14:13:28+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "313f4c49c99c",
-   "title": "Algorand (ALGO) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/algorand-price-prediction",
-   "summary": "The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Algorand (ALGO) could reach $0.812 by 2030. Feeling confident about this ALGO price prediction? You can trade Algorand on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Algorand (ALGO)",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-21T14:13:28+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4e00eff9296e",
-   "title": "Arweave (AR) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/arweave-ar-price-prediction",
-   "summary": "The post Arweave (AR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Arweave (AR) could reach $44.30 by 2030. Feeling confident about this AR price prediction? You can trade Arweave on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Arweave (AR) is betting &#8",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-21T14:13:27+00:00",
-   "tickers": [
-    "AR",
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9080,13 +9110,14 @@
   "USFR": "WisdomTree Floating Rate Treasury Fund",
   "NVD": "GraniteShares 2x Short NVDA Daily ETF",
   "CONL": "GraniteShares 2x Long COIN Daily ETF",
+  "KNX": "Knight-Swift Transportation Holdings",
   "IUSB": "iShares Core Universal USD Bond ETF",
   "VEA": "Vanguard FTSE Developed Markets ETF",
   "WAB": "Westinghouse Air Brake Technologies",
-  "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "ITB": "iShares U.S. Home Construction ETF",
   "KWEB": "KraneShares CSI China Internet ETF",
   "TSM": "Taiwan Semiconductor Manufacturing",
+  "DB": "Deutsche Bank Aktiengesellschaft",
   "IHI": "iShares U.S. Medical Devices ETF",
   "IBM": "International Business Machines",
   "JPST": "JPMorgan Ultra-Short Income ETF",
@@ -9117,11 +9148,10 @@
   "ASST": "Strive Asset Management",
   "BKLN": "Invesco Senior Loan ETF",
   "GS": "The Goldman Sachs Group",
-  "HON": "Honeywell International",
   "JKHY": "Jack Henry & Associates",
   "AMD": "Advanced Micro Devices",
-  "CAKE": "The Cheesecake Factory",
   "CMG": "Chipotle Mexican Grill",
+  "LOGI": "Logitech International",
   "TECK": "Teck Resources Limited",
   "VZ": "Verizon Communications",
   "WBD": "Warner Bros. Discovery",
@@ -9134,6 +9164,7 @@
   "PLTR": "Palantir Technologies",
   "TDY": "Teledyne Technologies",
   "ALHC": "Alignment Healthcare",
+  "EGP": "EastGroup Properties",
   "LW": "Lamb Weston Holdings",
   "ONB": "Old National Bancorp",
   "PG": "The Procter & Gamble",
@@ -9141,9 +9172,10 @@
   "SMCI": "Super Micro Computer",
   "ABT": "Abbott Laboratories",
   "LULU": "lululemon athletica",
+  "VKTX": "Viking Therapeutics",
   "VSNT": "Versant Media Group",
-  "VUG": "Vanguard Growth ETF",
   "WTRG": "Essential Utilities",
+  "BOOT": "Boot Barn Holdings",
   "BRK-A": "Berkshire Hathaway",
   "GPI": "Group 1 Automotive",
   "HIMS": "Hims & Hers Health",
@@ -9157,7 +9189,6 @@
   "EWBC": "East West Bancorp",
   "FWONK": "Formula One Group",
   "GIL": "Gildan Activewear",
-  "JNJ": "Johnson & Johnson",
   "MU": "Micron Technology",
   "TXN": "Texas Instruments",
   "UBER": "Uber Technologies",
@@ -9179,7 +9210,9 @@
   "CRML": "Critical Metals",
   "ELV": "Elevance Health",
   "LMT": "Lockheed Martin",
+  "LVS": "Las Vegas Sands",
   "SCCO": "Southern Copper",
+  "SSB": "SouthState Bank",
   "WDC": "Western Digital",
   "HPQ": "Hewlett-Packard",
   "AMT": "American Tower",
@@ -9220,7 +9253,6 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
-  "DDOG": "Datadog Inc",
   "BA": "The Boeing",
   "BX": "Blackstone",
   "CRM": "Salesforce",
@@ -9241,6 +9273,7 @@
   "CRWV": "CoreWeave",
   "FRO": "Frontline",
   "MDT": "Medtronic",
+  "OS": "OneStream",
   "SBUX": "Starbucks",
   "APP": "AppLovin",
   "AVGO": "Broadcom",
@@ -9253,14 +9286,15 @@
   "PLD": "Prologis",
   "WULF": "TeraWulf",
   "RTX": "Raytheon",
-  "CVNA": "Carvana",
   "CVX": "Chevron",
   "DHR": "Danaher",
   "EQIX": "Equinix",
+  "HUBS": "HubSpot",
   "IVZ": "Invesco",
   "MCO": "Moody's",
   "MDB": "MongoDB",
   "PEP": "PepsiCo",
+  "ROL": "Rollins",
   "SNDK": "Sandisk",
   "WMT": "Walmart",
   "NFLX": "Netflix",
@@ -9273,8 +9307,8 @@
   "NTRA": "Natera",
   "ORCL": "Oracle",
   "RMD": "ResMed",
+  "SAP": "SAP SE",
   "BRZE": "Braze",
-  "FDX": "FedEx",
   "GRAL": "GRAIL",
   "INTC": "Intel",
   "VICR": "Vicor",
