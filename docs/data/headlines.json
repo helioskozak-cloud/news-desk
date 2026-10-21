@@ -1,8 +1,40 @@
 {
- "generated": "2026-10-21T12:21:32.803428+00:00",
+ "generated": "2026-10-21T12:26:33.935580+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4de597c2f0e2",
+   "title": "SpaceX up 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
+   "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+   "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T12:23:13+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "0910a6144bc5",
+   "title": "Elisa taps NVIDIA and Nokia for its journey towards commercial AI-RAN in Finland",
+   "link": "https://www.prnewswire.com/news-releases/elisa-taps-nvidia-and-nokia-for-its-journey-towards-commercial-ai-ran-in-finland-302915444.html",
+   "summary": "HELSINKI, Oct. 21, 2026 /PRNewswire/ -- Elisa advances its vision to bring AI closer to the users in Finland by deploying distributed AI infrastructure and preparing to validate the benefits of AI-RAN in a live commercial network with NVIDIA and Nokia in 2027. The company has completed...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-21T12:21:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "6699cdabe078",
    "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
@@ -1466,22 +1498,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4de597c2f0e2",
-   "title": "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
-   "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-   "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-21T11:51:56+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -6159,6 +6175,20 @@
    "tag_v": 2
   },
   {
+   "id": "b9654c0da8c7",
+   "title": "As Ebola spreads in Congo, grieving families face a growing mental health toll - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFg0eG01WUlaTjRLSzVoel9ieER4YlpJVmdMM003VHRiSnYtMGZDZHpfNWZ4Z0JGUGNYY1ZmeGRvZGhqM1d6bm9pVVJrVnJ1Qy1hNEdBV0tMNUF5dVFmbWhoekdSWXRYQV9ERnFMeDJmSGQ1cnZuNGhMcHJXcGJDYUp4WHJlSThBZEhRVENiNlNVaW1GUnFTNlBwdXZTZ0otT0E?oc=5",
+   "summary": "As Ebola spreads in Congo, grieving families face a growing mental health toll&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T10:32:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "8dc27a19aa95",
    "title": "Will Micron suffer a post-trillion-dollar hangover?",
    "link": "https://www.investing.com/news/stock-market-news/will-micron-suffer-a-posttrilliondollar-hangover-4960424",
@@ -8974,34 +9004,6 @@
     "PEGA"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c97fd63b2441",
-   "title": "Trumpflation Is Evolving, and There's a New Twist That Threatens to Sink Stocks",
-   "link": "https://www.nasdaq.com/articles/trumpflation-evolving-and-theres-new-twist-threatens-sink-stocks",
-   "summary": "Key PointsThe artificial intelligence (AI) infrastructure build-out has lifted the Dow Jones Industrial Average, S&amp;P 500, and Nasdaq Composite to several new highs in 2026.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T08:26:01+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "3f6a34663216",
-   "title": "The history behind France’s proud tradition of protests - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTJ2UlZLX3F6OVNISDJLYUZNV2hJZG9zZHNYcVRqNHNCeEFjQ0ZBS1BIOW9GZWhaSmRLTzJBWVZBRkktTUJwc0pkRnBscW5TOGR4U2Nxd3BNQkt2RlE0RlNFYVcxTmYtVkQ2UERNdHBGUG1OYUpTMWZjNnJaTEI3UE9PZHNEMFhvSmJLa0RzazNwOXpSeWUxa2trRlpheVFZRV9IblNQXzY?oc=5",
-   "summary": "The history behind France’s proud tradition of protests&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-21T08:26:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   }
