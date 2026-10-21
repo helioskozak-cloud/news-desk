@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-21T01:41:10.645683+00:00",
+ "generated": "2026-10-21T01:46:37.286738+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "fce628262adc",
+   "title": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
+   "link": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
+   "summary": "The company cited power supply delays at its Melbourne facility amid local community and stakeholder opposition for lowering earnings forecast.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T01:44:42+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "d2bae19a898a",
    "title": "Musk ordered slowdown of Starlink service used by Ukraine’s military, WSJ reports",
@@ -92,6 +106,37 @@
    "tag_v": 2
   },
   {
+   "id": "1884c4d03345",
+   "title": "Wheat Losses Push to Tuesday",
+   "link": "https://www.nasdaq.com/articles/wheat-losses-push-tuesday",
+   "summary": "The wheat complex posted weakness across the three exchanges on Tuesday. Chicago SRW contracts were 5 ¾ to 12 cents lower on Tuesday. KC HRW futures were down 4 ¼ to 8 ½ cents on the day. MPLS spring wheat saw losses of 3 ½ to 8 ¼ cents at...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T01:28:24+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e916c41c7bbd",
+   "title": "Stocks Finish Mostly Higher on Earnings Optimism",
+   "link": "https://www.nasdaq.com/articles/stocks-finish-mostly-higher-earnings-optimism",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up by +0.38% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +1.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.13%. December E-mini S&amp;P futures (ESZ26 ) rose +0.33%, and December E-mini...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T01:28:23+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "c3489461f61b",
    "title": "Earnings call transcript: Kantra Copper posts record Q3 2026 output, cash flow",
    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-kantra-copper-posts-record-q3-2026-output-cash-flow-93CH-4961461",
@@ -163,6 +208,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5cd0a38a37c9",
+   "title": "Cotton Closes Tuesday with Gains",
+   "link": "https://www.nasdaq.com/articles/cotton-closes-tuesday-gains",
+   "summary": "Cotton futures were 8 to 77 points higher across most contracts on the Tuesday session. Crude was down $2.57 cents per barrel on the session, with the US dollar index $0.266 lower. Late on Monday, the White House announced a Harvest Fuel Relief Program, providing producers with $8 billion in...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T01:15:26+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -548,34 +607,6 @@
    "tag_v": 2
   },
   {
-   "id": "1884c4d03345",
-   "title": "Wheat Losses Push to Tuesday",
-   "link": "https://www.nasdaq.com/articles/wheat-losses-push-tuesday",
-   "summary": "The wheat complex posted weakness across the three exchanges on Tuesday. Chicago SRW contracts were 5 ¾ to 12 cents lower on Tuesday. KC HRW futures were down 4 ¼ to 8 ½ cents on the day. MPLS spring wheat saw losses of 3 ½ to 8 ¼ cents at...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T00:56:25+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "5cd0a38a37c9",
-   "title": "Cotton Closes Tuesday with Gains",
-   "link": "https://www.nasdaq.com/articles/cotton-closes-tuesday-gains",
-   "summary": "Cotton futures were 8 to 77 points higher across most contracts on the Tuesday session. Crude was down $2.57 cents per barrel on the session, with the US dollar index $0.266 lower. Late on Monday, the White House announced a Harvest Fuel Relief Program, providing producers with $8 billion in...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T00:56:25+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "e4d02201aa2c",
    "title": "Soybean Weakness Extends to Tuesday",
    "link": "https://www.nasdaq.com/articles/soybean-weakness-extends-tuesday",
@@ -586,23 +617,6 @@
    "published": "2026-10-21T00:56:25+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e916c41c7bbd",
-   "title": "Stocks Finish Mostly Higher on Earnings Optimism",
-   "link": "https://www.nasdaq.com/articles/stocks-finish-mostly-higher-earnings-optimism",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up by +0.38% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +1.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.13%. December E-mini S&amp;P futures (ESZ26 ) rose +0.33%, and December E-mini...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T00:56:25+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1926,6 +1940,22 @@
     "MSCI"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c414b5b849c2",
+   "title": "Christina Applegate says her doctor told her she was misdiagnosed with MS - AP News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkYzQldPUk1aRXAzMkJjRWcyUExBWllBZ3J5b2U3anVlaDM1S1lYOTJDMXF5azQ4TEVvNU1tVThNZWxfa3lXSkNadjZSTUxnS1g5aWgwV244VVNoQUxXX3g2NXc3SlV3a0hWZnNzLWtjNm15SjlYeTJFRFdqY19HVFBseWxuaU5WTVlBb1hCeWNvV09tcjZWZ2M1d2t5Y2NJQ3JPRkNqOVRZQmEzX1ZlUTVFWks?oc=5",
+   "summary": "Christina Applegate says her doctor told her she was misdiagnosed with MS&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-20T23:10:00+00:00",
+   "tickers": [
+    "MS"
+   ],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -4269,22 +4299,6 @@
     "HD"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c414b5b849c2",
-   "title": "Christina Applegate says her doctor told her she was misdiagnosed with MS - AP News",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkYzQldPUk1aRXAzMkJjRWcyUExBWllBZ3J5b2U3anVlaDM1S1lYOTJDMXF5azQ4TEVvNU1tVThNZWxfa3lXSkNadjZSTUxnS1g5aWgwV244VVNoQUxXX3g2NXc3SlV3a0hWZnNzLWtjNm15SjlYeTJFRFdqY19HVFBseWxuaU5WTVlBb1hCeWNvV09tcjZWZ2M1d2t5Y2NJQ3JPRkNqOVRZQmEzX1ZlUTVFWks?oc=5",
-   "summary": "Christina Applegate says her doctor told her she was misdiagnosed with MS&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-20T21:04:00+00:00",
-   "tickers": [
-    "MS"
-   ],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8952,22 +8966,6 @@
     "IJH"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "72f75d02381e",
-   "title": "Boeing’s 737 MAX receives FAA approval paving way for deliveries",
-   "link": "https://www.investing.com/news/stock-market-news/boeings-737-max-receives-faa-approval-paving-way-for-deliveries-4960927",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-20T19:45:35+00:00",
-   "tickers": [
-    "BA"
-   ],
-   "type": "fda",
    "sentiment": "neutral",
    "tag_v": 2
   }
