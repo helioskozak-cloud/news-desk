@@ -1,8 +1,39 @@
 {
- "generated": "2026-10-21T14:46:26.889872+00:00",
+ "generated": "2026-10-21T14:51:34.989855+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "468657517f99",
+   "title": "Mark Cuban says the 'best' guaranteed ROI on $100K is bulk toothpaste and soup",
+   "link": "https://www.thestreet.com/investing/mark-cuban-says-best-roi-on-100k-bulk-products-cash-savings-paying-off-debt",
+   "summary": "He wouldn't start a business or buy stocks; he'd pay off debt and keep the rest in the bank for a crash.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-21T14:47:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2fe8cfce6e4c",
+   "title": "envelio accelerates power grid calculations using NVIDIA technology",
+   "link": "https://www.prnewswire.com/news-releases/envelio-accelerates-power-grid-calculations-using-nvidia-technology-302915616.html",
+   "summary": "150x faster grid calculations with the new GPU solver: envelio's GPU-based power flow solver is already in use at Czech distribution system operator EG.D. It significantly improves processing time and usability, cutting processing time by more than 99% in comparison to the original IGP...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-21T14:47:00+00:00",
+   "tickers": [
+    "NVDA",
+    "EG"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "6fb52e6e4fcc",
    "title": "Progyny, Inc. Announces Details for Its Third Quarter 2026 Results Report | PGNY Stock News",
@@ -6742,6 +6773,20 @@
    "tag_v": 2
   },
   {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T12:23:17+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "e84054cea576",
    "title": "Wall Street Aimst To Open Moderately Up",
    "link": "https://www.nasdaq.com/articles/wall-street-aimst-open-moderately",
@@ -6995,20 +7040,6 @@
     "NFLX"
    ],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-21T12:16:35+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -9030,39 +9061,6 @@
    "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "403aa142d387",
-   "title": "JPMorgan sees strategic logic in potential SpaceX-Tesla merger",
-   "link": "https://www.investing.com/news/analyst-ratings/jpmorgan-sees-strategic-logic-in-potential-spacextesla-merger-93CH-4962687",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T11:43:06+00:00",
-   "tickers": [
-    "JPM",
-    "TSLA"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e087f84349ab",
-   "title": "Ares Capital Set to Release Q3 Earnings: Here's What to Expect",
-   "link": "https://www.nasdaq.com/articles/ares-capital-set-release-q3-earnings-heres-what-expect",
-   "summary": "ARCC's Q3 earnings are expected to have declined amid lower prepayment activity and rising costs despite portfolio growth and higher dividend income.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T11:43:00+00:00",
-   "tickers": [
-    "ARCC"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9166,6 +9164,7 @@
   "TSCO": "Tractor Supply",
   "NET": "Cloudflare Inc",
   "BILL": "BILL Holdings",
+  "EG": "Everest Group",
   "ELF": "e.l.f. Beauty",
   "EXE": "Expand Energy",
   "GIS": "General Mills",
