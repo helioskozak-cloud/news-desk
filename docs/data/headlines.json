@@ -1,8 +1,40 @@
 {
- "generated": "2026-10-21T23:36:24.288461+00:00",
+ "generated": "2026-10-21T23:41:02.610876+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ae770654147f",
+   "title": "Norfolk Southern declares $1.35 quarterly dividend",
+   "link": "https://www.investing.com/news/company-news/norfolk-southern-declares-135-quarterly-dividend-93CH-4964420",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T23:36:31+00:00",
+   "tickers": [
+    "NSC"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "be017080293a",
+   "title": "Zuckerberg commits to staying in California for 8 years as part of creation of new class of Meta shares: Live updates",
+   "link": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
+   "summary": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T23:35:10+00:00",
+   "tickers": [
+    "META"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "34b9280d37bc",
    "title": "BofA lifts Western Digital target despite lower capacity outlook",
@@ -68,6 +100,22 @@
    "tag_v": 2
   },
   {
+   "id": "388cef709098",
+   "title": "Comcast planning significant jobs cuts, Bloomberg News reports",
+   "link": "https://www.investing.com/news/stock-market-news/comcast-planning-significant-jobs-cuts-bloomberg-news-reports-4964417",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-21T23:30:40+00:00",
+   "tickers": [
+    "CMCSA"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "f14e82b04f46",
    "title": "Walmart is selling a space-saving 3-tier corner shelf floor lamp for only $42",
    "link": "https://www.thestreet.com/deals/coliware-floor-lamp-with-shelves-walmart-sale-october-2026",
@@ -80,6 +128,23 @@
     "WMT"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "267be4ea05e9",
+   "title": "Cognizant to acquire SAP partner DyFlex Solutions",
+   "link": "https://www.investing.com/news/company-news/cognizant-to-acquire-sap-partner-dyflex-solutions-93CH-4964407",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T23:28:42+00:00",
+   "tickers": [
+    "CTSH",
+    "SAP"
+   ],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -135,19 +200,32 @@
    "tag_v": 2
   },
   {
-   "id": "dee806868448",
-   "title": "Stocks Rally on Positive AI News, with SpaceX up +7%",
-   "link": "https://www.nasdaq.com/articles/stocks-rally-positive-ai-news-spacex-7",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) rose +0.59% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +1.13%. December E-mini S&amp;P futures (ESZ26 ) rose +0.62%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
-   "source": "NASDAQ Stocks",
+   "id": "e68c8d09039f",
+   "title": "From groceries to home loans, high oil prices permeate daily life",
+   "link": "https://www.investing.com/news/commodities-news/from-groceries-to-home-loans-high-oil-prices-permeate-daily-life-4964403",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T23:24:32+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "17982b7d9053",
+   "title": "AstraZeneca says U.S. FDA approves rare kidney disease drug",
+   "link": "https://www.investing.com/news/stock-market-news/astrazeneca-says-us-fda-approves-rare-kidney-disease-drug-93CH-4964404",
+   "summary": "",
+   "source": "Investing Stock",
    "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T23:19:02+00:00",
+   "domain": "investing.com",
+   "published": "2026-10-21T23:21:10+00:00",
    "tickers": [
-    "SPY",
-    "QQQ"
+    "AZN"
    ],
-   "type": "stocks",
+   "type": "fda",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -194,46 +272,16 @@
    "tag_v": 2
   },
   {
-   "id": "c366d4d230f2",
-   "title": "Crude Oil Prices Rally After Close on US State Department Warning",
-   "link": "https://www.nasdaq.com/articles/crude-oil-prices-rally-after-close-us-state-department-warning",
-   "summary": "December WTI crude oil (CLZ26 ) closed down -0.67 (-0.68%) on Wednesday, and December RBOB gasoline (RBZ26 ) closed down -0.0051 (-1.7%). Crude oil prices closed lower on Wednesday, but then rallied shortly after the close, with crude oil up by as much as +0.8% as of 3:15pm ET. Crude...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T23:19:01+00:00",
+   "id": "057e5cd4a121",
+   "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+   "link": "https://www.investing.com/news/commodities-news/exclusiveus-preparing-to-issue-ordered-departure-of-some-personnel-from-gulf-embassies--us-officials-4963834",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T23:18:38+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cf2df1dd08b4",
-   "title": "Cocoa Prices Continue Higher on Smaller Deliveries from the Ivory Coast",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-continue-higher-smaller-deliveries-ivory-coast-0",
-   "summary": "December ICE NY cocoa (CCZ26 ) on Wednesday closed up +42 (+0.72%), and December ICE London cocoa #7 (CAZ26 ) closed up +40 (+0.93%). Cocoa prices moved higher for a third day on Wednesday amid signs of smaller cocoa supplies from the Ivory Coast. On Monday, data from the Ivory...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T23:19:01+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "caf79811739e",
-   "title": "Cotton Posting Wednesday Midday Strength",
-   "link": "https://www.nasdaq.com/articles/cotton-posting-wednesday-midday-strength",
-   "summary": "Cotton futures are showing 75 to 86 point gains so far on the Wednesday session. Crude is down $1.17 per barrel on the session, with the US dollar index holding steady. The Seam reported 2,550 bales sold on Tuesday, at an average of 76.22 cents/lb. The Cotlook A index was...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T23:19:01+00:00",
-   "tickers": [],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -279,66 +327,6 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "5ec23270ff41",
-   "title": "Sugar Prices Continue to Sag From Last Week’s Contract High",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-continue-sag-last-weeks-contract-high-0",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.07 (-0.34%) on Wednesday, and December London ICE white sugar #5 (SWZ26 ) closed down -3.40 (-0.62%). March NY world sugar prices on Wednesday fell for a fourth day on some continued long liquidation pressure after posting a contract high last...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T23:13:57+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9ef722ca202a",
-   "title": "Hogs Weakness Resuming on Wednesday as Pork Prices Fall",
-   "link": "https://www.nasdaq.com/articles/hogs-weakness-resuming-wednesday-pork-prices-fall",
-   "summary": "Lean hog futures are falling $1.05 to $1.30 so far on Wednesday. USDA’s national base hog price was down $3.66 from the day prior in the Wednesday AM report at $68.01. The CME Lean Hog Index was down another 38 cents on October 19 at $73.02. USDA’s pork carcass cutout...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T23:13:56+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "3d54f33801a2",
-   "title": "Cattle Rally Continuing on Wednesday",
-   "link": "https://www.nasdaq.com/articles/cattle-rally-continuing-wednesday",
-   "summary": "Live cattle futures are trading with $1.20 to $1.37 gains on Wednesday. Cash trade has yet to be reported this week. The Wednesday Fed Cattle Exchange online auction showed no sales on the 1,800 head offered, with a few bids of $224-224.50 live and $349 dressed. Feeder cattle futures are...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T23:13:56+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "9c367c6145c1",
-   "title": "Soybeans Holding onto Weakness on Wednesday",
-   "link": "https://www.nasdaq.com/articles/soybeans-holding-weakness-wednesday",
-   "summary": "Soybeans are trading with 4 to 8 cent losses at Wednesday’s midday. The cmdtyView national average Cash Bean price is down 4 1/4 cents at $11.85 1/2. Soymeal futures is down $2.40 to $2.80, as Soy Oil futures are down 80 to 90 points. USDA reported a private export sale...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T23:13:56+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -433,6 +421,67 @@
    "tag_v": 2
   },
   {
+   "id": "dee806868448",
+   "title": "Stocks Rally on Positive AI News, with SpaceX up +7%",
+   "link": "https://www.nasdaq.com/articles/stocks-rally-positive-ai-news-spacex-7",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) rose +0.59% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +1.13%. December E-mini S&amp;P futures (ESZ26 ) rose +0.62%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T23:02:04+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "9ef722ca202a",
+   "title": "Hogs Weakness Resuming on Wednesday as Pork Prices Fall",
+   "link": "https://www.nasdaq.com/articles/hogs-weakness-resuming-wednesday-pork-prices-fall",
+   "summary": "Lean hog futures are falling $1.05 to $1.30 so far on Wednesday. USDA’s national base hog price was down $3.66 from the day prior in the Wednesday AM report at $68.01. The CME Lean Hog Index was down another 38 cents on October 19 at $73.02. USDA’s pork carcass cutout...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T23:02:04+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3d54f33801a2",
+   "title": "Cattle Rally Continuing on Wednesday",
+   "link": "https://www.nasdaq.com/articles/cattle-rally-continuing-wednesday",
+   "summary": "Live cattle futures are trading with $1.20 to $1.37 gains on Wednesday. Cash trade has yet to be reported this week. The Wednesday Fed Cattle Exchange online auction showed no sales on the 1,800 head offered, with a few bids of $224-224.50 live and $349 dressed. Feeder cattle futures are...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T23:02:04+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "9c367c6145c1",
+   "title": "Soybeans Holding onto Weakness on Wednesday",
+   "link": "https://www.nasdaq.com/articles/soybeans-holding-weakness-wednesday",
+   "summary": "Soybeans are trading with 4 to 8 cent losses at Wednesday’s midday. The cmdtyView national average Cash Bean price is down 4 1/4 cents at $11.85 1/2. Soymeal futures is down $2.40 to $2.80, as Soy Oil futures are down 80 to 90 points. USDA reported a private export sale...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T23:02:04+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "3e7b9dd2e76b",
    "title": "Wheat Pressure Continues on Wednesday with Black Sea News",
    "link": "https://www.nasdaq.com/articles/wheat-pressure-continues-wednesday-black-sea-news",
@@ -515,6 +564,20 @@
    "published": "2026-10-21T23:00:58+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c366d4d230f2",
+   "title": "Crude Oil Prices Rally After Close on US State Department Warning",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-rally-after-close-us-state-department-warning",
+   "summary": "December WTI crude oil (CLZ26 ) closed down -0.67 (-0.68%) on Wednesday, and December RBOB gasoline (RBZ26 ) closed down -0.0051 (-1.7%). Crude oil prices closed lower on Wednesday, but then rallied shortly after the close, with crude oil up by as much as +0.8% as of 3:15pm ET. Crude...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T22:55:37+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -907,6 +970,52 @@
    "tag_v": 2
   },
   {
+   "id": "cf2df1dd08b4",
+   "title": "Cocoa Prices Continue Higher on Smaller Deliveries from the Ivory Coast",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-continue-higher-smaller-deliveries-ivory-coast-0",
+   "summary": "December ICE NY cocoa (CCZ26 ) on Wednesday closed up +42 (+0.72%), and December ICE London cocoa #7 (CAZ26 ) closed up +40 (+0.93%). Cocoa prices moved higher for a third day on Wednesday amid signs of smaller cocoa supplies from the Ivory Coast. On Monday, data from the Ivory...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T22:33:12+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "caf79811739e",
+   "title": "Cotton Posting Wednesday Midday Strength",
+   "link": "https://www.nasdaq.com/articles/cotton-posting-wednesday-midday-strength",
+   "summary": "Cotton futures are showing 75 to 86 point gains so far on the Wednesday session. Crude is down $1.17 per barrel on the session, with the US dollar index holding steady. The Seam reported 2,550 bales sold on Tuesday, at an average of 76.22 cents/lb. The Cotlook A index was...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T22:33:12+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5ec23270ff41",
+   "title": "Sugar Prices Continue to Sag From Last Week’s Contract High",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-continue-sag-last-weeks-contract-high-0",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.07 (-0.34%) on Wednesday, and December London ICE white sugar #5 (SWZ26 ) closed down -3.40 (-0.62%). March NY world sugar prices on Wednesday fell for a fourth day on some continued long liquidation pressure after posting a contract high last...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T22:33:12+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "be8dc058dffe",
    "title": "Texas Capital Q3 2026 slides: record fee income drives earnings beat",
    "link": "https://www.investing.com/news/company-news/texas-capital-q3-2026-slides-record-fee-income-drives-earnings-beat-93CH-4964357",
@@ -1045,20 +1154,6 @@
    "category": "macro",
    "domain": "news.google.com",
    "published": "2026-10-21T22:27:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-21T22:25:48+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -1229,22 +1324,6 @@
    "published": "2026-10-21T22:15:00+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "be017080293a",
-   "title": "Zuckerberg commits to staying in California for 8 years as part of creation of new class of Meta shares: Live updates",
-   "link": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
-   "summary": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-21T22:14:10+00:00",
-   "tickers": [
-    "META"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6094,6 +6173,20 @@
    "tag_v": 2
   },
   {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T20:14:16+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "bd601126e7d2",
    "title": "Lam Research earnings beat by $0.02, revenue topped estimates",
    "link": "https://www.investing.com/news/earnings/lam-research-earnings-beat-by-002-revenue-topped-estimates-4963948",
@@ -7435,6 +7528,20 @@
    "tag_v": 2
   },
   {
+   "id": "36c79097d7f3",
+   "title": "Dan Gilbert pledges $1 billion to redevelop Detroit’s Renaissance Center - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1lRblJldVlnQkFRR25aMHg0bENUSjBCRGhWdGtJR2JTcXBRbXVTbHFlWldLUElHR2VkUmQtSmtZVXJaUmdELXpJbXQxcTFsSndMN3B2TnR5UFE3VzN0SmNvMm12eS03VG02V083M0ZEUFdwX2dkRzR1QkNPTFlZbGk1UFM1ak1ENEJvR1dZUk9HTTlwMnhtaF8zQzJoUUE?oc=5",
+   "summary": "Dan Gilbert pledges $1 billion to redevelop Detroit’s Renaissance Center&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T20:00:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "2fe025b66218",
    "title": "Bullish Two Hundred Day Moving Average Cross - TEO",
    "link": "https://www.nasdaq.com/articles/bullish-two-hundred-day-moving-average-cross-teo",
@@ -8228,20 +8335,6 @@
    "tag_v": 2
   },
   {
-   "id": "057e5cd4a121",
-   "title": "US preparing to issue ordered departure of some personnel from Gulf embassies, say US officials",
-   "link": "https://www.investing.com/news/commodities-news/exclusiveus-preparing-to-issue-ordered-departure-of-some-personnel-from-gulf-embassies--us-officials-4963834",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T19:19:35+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "7564c7ca2f30",
    "title": "Nasdaq 100 wedged at bull trap zone near 30,225: Live levels",
    "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-trapped-below-30101-after-ath-breakdown-live-levels-93CH-4957925",
@@ -8905,99 +8998,6 @@
    "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "3a74d7b6b935",
-   "title": "M&amp;T Bank Strengthens Commitment to Connecticut with Expanded UConn Partnership and Gampel Pavilion Naming Rights",
-   "link": "https://www.prnewswire.com/news-releases/mt-bank-strengthens-commitment-to-connecticut-with-expanded-uconn-partnership-and-gampel-pavilion-naming-rights-302915894.html",
-   "summary": "UConn basketball venue to become 'M&amp;T Bank Center at Gampel Pavilion' under new, multi-year agreement STORRS, Conn., Oct. 21, 2026 /PRNewswire/ -- M&amp;T Bank (NYSE: MTB) today announced the expansion of their strategic partnership with the University of Connecticut. As the official bank of...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T18:54:00+00:00",
-   "tickers": [
-    "MTB"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6b6f1a78cde4",
-   "title": "M&T Bank Strengthens Commitment to Connecticut with Expanded UConn Partnership and Gampel Pavilion Naming Rights | MTB Stock News",
-   "link": "https://www.stocktitan.net/news/MTB/m-t-bank-strengthens-commitment-to-connecticut-with-expanded-u-conn-lg02g9eiewmt.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T18:54:00+00:00",
-   "tickers": [
-    "MTB"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fa47a81734e0",
-   "title": "Meta Platforms, Inc. Q3 2026 Earnings: Recap of $META Earnings Call, Stock Forecast",
-   "link": "https://www.thestreet.com/investing/earnings/meta-q3-2026-earnings-call-stock-forecast-updates",
-   "summary": "Investors will focus on Meta’s 2027 capital expenditure (CapEx) guidance, AI monetization and adoption of its Muse AI assistant.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-21T18:53:56+00:00",
-   "tickers": [
-    "META"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f8a02bf9f44a",
-   "title": "Cms Energy Corp stock hits 52-week low at 19.59 USD",
-   "link": "https://www.investing.com/news/company-news/cms-energy-corp-stock-hits-52week-low-at-1959-usd-93CH-4963830",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T18:53:22+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "32d00cc56575",
-   "title": "Brightstar Lottery stock hits 52-week low at 9.27 USD",
-   "link": "https://www.investing.com/news/company-news/brightstar-lottery-stock-hits-52week-low-at-927-usd-93CH-4963828",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T18:52:56+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "89d4a3841626",
-   "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors",
-   "link": "https://www.nasdaq.com/articles/asml-has-incredible-news-nvidia-stock-and-micron-stock-investors",
-   "summary": "Key PointsASML sees chip and memory demand exceeding supply at least until 2028.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T18:52:02+00:00",
-   "tickers": [
-    "ASML",
-    "MU"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9058,7 +9058,6 @@
   "DGX": "Quest Diagnostics",
   "MOH": "Molina Healthcare",
   "MTDR": "Matador Resources",
-  "MU": "Micron Technology",
   "TXN": "Texas Instruments",
   "WCN": "Waste Connections",
   "ALGN": "Align Technology",
@@ -9098,7 +9097,6 @@
   "RITM": "Rithm Capital",
   "RRX": "Regal Rexnord",
   "ADC": "Agree Realty",
-  "ASML": "ASML Holding",
   "CCI": "Crown Castle",
   "CYTK": "Cytokinetics",
   "HSIC": "Henry Schein",
@@ -9113,6 +9111,7 @@
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
+  "AZN": "AstraZeneca",
   "CLX": "The Clorox",
   "FICO": "Fair Isaac",
   "GEV": "GE Vernova",
@@ -9132,10 +9131,10 @@
   "DUOL": "Duolingo",
   "EVR": "Evercore",
   "GOOG": "Alphabet",
-  "MTB": "M&T Bank",
   "PLD": "Prologis",
   "WULF": "TeraWulf",
   "RTX": "Raytheon",
+  "CMCSA": "Comcast",
   "DHR": "Danaher",
   "ENS": "EnerSys",
   "ETR": "Entergy",
