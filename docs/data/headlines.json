@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-21T22:36:32.755361+00:00",
+ "generated": "2026-10-21T22:41:34.261767+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c3a2d872f116",
+   "title": "Tesla beats on earnings and sales even as auto revenue declines",
+   "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+   "summary": "Tesla reported better-than-expected third-quarter results.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T22:35:36+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "4b72e4d39aaa",
    "title": "Kustom Entertainment at LD Micro: music and ticketing push growth",
@@ -385,22 +401,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c3a2d872f116",
-   "title": "Tesla beats on earnings and sales even as auto revenue declines",
-   "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-   "summary": "Tesla reported better-than-expected third-quarter results.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-21T22:16:40+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1538,6 +1538,20 @@
     "LBRT"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3a73d6595133",
+   "title": "Trump administration wants to reconsider permit for Massachusetts offshore wind project - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3BTR1hHWHZrcHpjeUlEVXh4OWJnZ2dORk1pUjhWdDZzZFBGbFFOQV8xYjVxRXdpZ0NlV1otYU1zeTNtSXhoVC1ya0ZKYVJ5UGViakNxUF9Tc0FlVVh3WWM0bWcxRlhjNk1KbEwzZ2NwQ3VrUkFyMEhORW5CQVo3Y25vR1dub1J4TFNrQ1NHRUFZc0NYM3lWSmhRTm5nLTFGd1BMb0F4ZkVWLWkw?oc=5",
+   "summary": "Trump administration wants to reconsider permit for Massachusetts offshore wind project&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T21:29:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8982,22 +8996,6 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "2c607fa6d807",
-   "title": "Moody's (MCO) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/moodys-mco-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T18:13:45+00:00",
-   "tickers": [
-    "MCO"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9135,7 +9133,6 @@
   "GLOB": "Globant",
   "IAG": "IAMGOLD",
   "IVZ": "Invesco",
-  "MCO": "Moody's",
   "MDB": "MongoDB",
   "PODD": "Insulet",
   "ROL": "Rollins",
