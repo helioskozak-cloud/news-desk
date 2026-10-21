@@ -1,24 +1,8 @@
 {
- "generated": "2026-10-21T21:16:23.057616+00:00",
+ "generated": "2026-10-21T21:21:02.958533+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
-  {
-   "id": "c3a2d872f116",
-   "title": "Tesla beats on earnings and sales even as auto revenue declines",
-   "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-   "summary": "Tesla reported better-than-expected third-quarter results.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-21T21:14:38+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
   {
    "id": "be017080293a",
    "title": "Meta posts Q3 revenue beat and strong guidance: Live updates",
@@ -27,12 +11,196 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-21T21:13:37+00:00",
+   "published": "2026-10-21T21:19:41+00:00",
    "tickers": [
     "META"
    ],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "a7d3c04eb237",
+   "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
+   "link": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
+   "summary": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T21:18:54+00:00",
+   "tickers": [
+    "IBM"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "0feb931d8113",
+   "title": "Nat-Gas Prices Fall to 5-week Low on Warm Forecasts",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-fall-5-week-low-warm-forecasts",
+   "summary": "November Nymex natural gas (NGX26 ) on Wednesday closed down -0.173 (-5.84%). Nov nat-gas prices on Wednesday tumbled to a contract low and a 5-week nearest-futures low as technical selling accelerated with the breakout to new downside lows. Nat-gas prices have plunged this week on forecasts for above-average US autumn...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:17:17+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "7e4d8335f185",
+   "title": "Coffee Prices Buffeted by ICE Inventory Fluctuations",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-buffeted-ice-inventory-fluctuations",
+   "summary": "December arabica coffee (KCZ26 ) on Wednesday closed up +4.85 (+1.56%), while November ICE robusta coffee (RMX26 ) closed down -58 (-1.70%). Arabica coffee prices rallied on Wednesday, reversing Tuesday’s -1.39% decline that was driven by news that nearly 28,000 bags of arabica coffee are pending grading at the Intercontinental...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:17:16+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cf2df1dd08b4",
+   "title": "Cocoa Prices Continue Higher on Smaller Deliveries from the Ivory Coast",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-continue-higher-smaller-deliveries-ivory-coast-0",
+   "summary": "December ICE NY cocoa (CCZ26 ) on Wednesday closed up +42 (+0.72%), and December ICE London cocoa #7 (CAZ26 ) closed up +40 (+0.93%). Cocoa prices moved higher for a third day on Wednesday amid signs of smaller cocoa supplies from the Ivory Coast. On Monday, data from the Ivory...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:17:16+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5c37b268c9f9",
+   "title": "Cocoa Prices Continue Higher on Smaller Deliveries from the Ivory Coast",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-continue-higher-smaller-deliveries-ivory-coast",
+   "summary": "December ICE NY cocoa (CCZ26 ) is up +35 (+0.60%), and December ICE London cocoa #7 (CAZ26 ) is up +40 (+0.93%). Cocoa prices moved higher for a third day on Wednesday amid signs of smaller cocoa supplies from the Ivory Coast. On Monday, data from the Ivory Coast government...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:17:16+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fc9ed3906ef7",
+   "title": "Sugar Prices Continue to Sag From Last Week’s Contract High",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-continue-sag-last-weeks-contract-high",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.08 (-0.39%), and December London ICE white sugar #5 (SWZ26 ) is down -3.40 (-0.62%). March NY world sugar prices today fell for a fourth day on some continued long liquidation pressure after posting a contract high last Wednesday. A large...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:17:16+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5ec23270ff41",
+   "title": "Sugar Prices Continue to Sag From Last Week’s Contract High",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-continue-sag-last-weeks-contract-high-0",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.07 (-0.34%) on Wednesday, and December London ICE white sugar #5 (SWZ26 ) closed down -3.40 (-0.62%). March NY world sugar prices on Wednesday fell for a fourth day on some continued long liquidation pressure after posting a contract high last...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:17:16+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6b1ffa555732",
+   "title": "Why is Rollins stock sliding today?",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-rollins-stock-sliding-today-93CH-4964209",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-21T21:16:49+00:00",
+   "tickers": [
+    "ROL"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "77d0b211f810",
+   "title": "Sunlife is now part of Rippling's Preferred Carrier Program to simplify benefits administration for small and mid-market employers | SLF Stock News",
+   "link": "https://www.stocktitan.net/news/SLF/sunlife-is-now-part-of-rippling-s-preferred-carrier-program-to-c0h0p1x5g53a.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T21:16:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c3a2d872f116",
+   "title": "Tesla beats on earnings and sales even as auto revenue declines",
+   "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+   "summary": "Tesla reported better-than-expected third-quarter results.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T21:15:57+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "57faccb9d029",
+   "title": "Home BancShares, Inc. Increases Share Repurchase Program and Announces Fourth Quarter Cash Dividend | HOMB Stock News",
+   "link": "https://www.stocktitan.net/news/HOMB/home-banc-shares-inc-increases-share-repurchase-program-and-5ywjlxgoeq0e.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T21:15:00+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "239cef212d54",
+   "title": "Dollar up slightly, other currencies see small moves ahead of central bank deluge",
+   "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-hovers-near-3week-low-rupee-extends-rally-4961573",
+   "summary": "",
+   "source": "Investing Forex",
+   "category": "fx",
+   "domain": "investing.com",
+   "published": "2026-10-21T21:14:10+00:00",
+   "tickers": [],
+   "type": "fx",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -46,6 +214,36 @@
    "published": "2026-10-21T21:13:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fe59edefb83c",
+   "title": "Trading Day: Tech it away",
+   "link": "https://www.investing.com/news/economy-news/trading-day-tech-it-away-4964198",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T21:12:44+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c34377240607",
+   "title": "FMC Corp appoints Luc Tack to board following Tessenderlo Group investment",
+   "link": "https://www.investing.com/news/sec-filings/fmc-corp-appoints-luc-tack-to-board-following-tessenderlo-group-investment-93CH-4964197",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T21:12:42+00:00",
+   "tickers": [
+    "FMC"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -66,6 +264,128 @@
    "tag_v": 2
   },
   {
+   "id": "8544f3c4fb63",
+   "title": "B. Riley Securities initiates coverage of QumulusAI with Buy",
+   "link": "https://www.nasdaq.com/articles/b-riley-securities-initiates-coverage-qumulusai-buy",
+   "summary": "Fintel reports that on October 21, 2026, B. Riley Securities initiated coverage of QumulusAI (NASDAQGM:QMLS) with a Buy recommendation. Prior to this coverage initiation, the stock closed at $3.56 on October 20, 2026. QumulusAI recorded a one-week price change of -12.75% from its",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:12:14+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d4dfe12a4f44",
+   "title": "Stock Market Today, Oct. 21: AT&T Beats Earnings on Strong Fiber Growth, Raises 2026 Profit Outlook",
+   "link": "https://www.nasdaq.com/articles/stock-market-today-oct-21-att-beats-earnings-strong-fiber-growth-raises-2026-profit",
+   "summary": "AT&amp;T (NYSE:T), a U.S. telecom carrier, closed at $21.91, down 6.45%. Premarket results beat estimates, but investors are weighing higher spending needs and SpaceX competition. Investors are watching free-cash-flow targets and the raised 2026 profit outlook.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:12:04+00:00",
+   "tickers": [
+    "T"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "40bd69133104",
+   "title": "Goldman Sachs cuts AT&T stock price target to $27 on competition concerns",
+   "link": "https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-att-stock-price-target-to-27-on-competition-concerns-93CH-4964185",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T21:10:48+00:00",
+   "tickers": [
+    "GS",
+    "T"
+   ],
+   "type": "analyst",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3e7b9dd2e76b",
+   "title": "Wheat Pressure Continues on Wednesday with Black Sea News",
+   "link": "https://www.nasdaq.com/articles/wheat-pressure-continues-wednesday-black-sea-news",
+   "summary": "The wheat complex is trading lower on Black Sea news at midday on Wednesday. Chicago SRW contracts are slipping 15 to 16 lower on Tuesday. KC HRW futures are falling 17 to 18 1/4 cents at midday. MPLS spring wheat is down 9 to 10 1/4 cents so far on...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:10:39+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6f2019a8cbc1",
+   "title": "Stocks See Support from Positive AI News, with SpaceX up +9%",
+   "link": "https://www.nasdaq.com/articles/stocks-see-support-positive-ai-news-spacex-9",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.22%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.70%. December E-mini S&amp;P futures (ESZ26 ) are up +0.27%, and December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:10:38+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1e763b8a9b53",
+   "title": "Cathay General Bancorp Profit Climbs In Q3",
+   "link": "https://www.nasdaq.com/articles/cathay-general-bancorp-profit-climbs-q3",
+   "summary": "(RTTNews) - Cathay General Bancorp (CATY) announced earnings for its third quarter that Increased, from last year",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:10:04+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "481020e65412",
+   "title": "Stock Market Today, Oct. 21: Netflix Cuts Ad Revenue Guidance, Stock Slides 5%",
+   "link": "https://www.nasdaq.com/articles/stock-market-today-oct-21-netflix-cuts-ad-revenue-guidance-stock-slides-5",
+   "summary": "Netflix (NASDAQ:NFLX), a global subscription streaming, advertising, and digital entertainment platform, closed at $65.04, down 5.31%. The stock fell after Netflix reported weaker Q4 revenue and weaker ad sales guidance; investors are watching ad growth and next-quarter guidance.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:08:48+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "738f78b6a577",
+   "title": "Santacruz Silver reports Q3 production of 1.5M oz silver",
+   "link": "https://www.investing.com/news/company-news/santacruz-silver-reports-q3-production-of-15m-oz-silver-93CH-4964183",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T21:08:38+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "3eb7d4ade6ce",
    "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
    "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
@@ -74,6 +394,20 @@
    "category": "markets",
    "domain": "cnbc.com",
    "published": "2026-10-21T21:08:22+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2c015ab2db10",
+   "title": "CitroTech at LD Micro: pitching wildfire prevention over suppression",
+   "link": "https://www.investing.com/news/transcripts/citrotech-at-ld-micro-pitching-wildfire-prevention-over-suppression-93CH-4964182",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T21:07:30+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -92,6 +426,102 @@
     "LUV"
    ],
    "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "93d605c9c018",
+   "title": "Bank of America names Jim Fitterling and Bill Thomas to board of directors",
+   "link": "https://www.investing.com/news/stock-market-news/bank-of-america-names-jim-fitterling-and-bill-thomas-to-board-of-directors-4964181",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-21T21:07:10+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "25d194da0aa3",
+   "title": "T1 Energy defers stock issuance in $30 million Evervolt asset purchase",
+   "link": "https://www.investing.com/news/sec-filings/t1-energy-defers-stock-issuance-in-30-million-evervolt-asset-purchase-93CH-4964180",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-21T21:07:02+00:00",
+   "tickers": [
+    "TE"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "92b470a4e669",
+   "title": "Mattel adds top shareholder EdgePoint Investment’s executive to board",
+   "link": "https://www.investing.com/news/stock-market-news/mattel-adds-top-shareholder-edgepoint-investments-executive-to-board-4964179",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-21T21:06:56+00:00",
+   "tickers": [
+    "MAT"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "6f276a585d67",
+   "title": "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
+   "link": "https://www.investing.com/news/stock-market-news/musks-tesla-revenue-beats-estimates-as-deliveries-rebound-energy-storage-grows-4963934",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-21T21:06:28+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "aed0c4658be5",
+   "title": "Southwest Airlines Inc. Q3 Profit Climbs",
+   "link": "https://www.nasdaq.com/articles/southwest-airlines-inc-q3-profit-climbs",
+   "summary": "(RTTNews) - Southwest Airlines Inc. (LUV) announced earnings for its third quarter that Increases, from last year",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:06:07+00:00",
+   "tickers": [
+    "LUV"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c98d41ff2b70",
+   "title": "Did SpaceX Just Save CoreWeave, Nebius, and the Neocloud Sector?",
+   "link": "https://www.nasdaq.com/articles/did-spacex-just-save-coreweave-nebius-and-neocloud-sector",
+   "summary": "Key PointsElon Musk said that prices for AI compute were rising.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:05:02+00:00",
+   "tickers": [
+    "CRWV"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -124,6 +554,22 @@
    "tag_v": 2
   },
   {
+   "id": "bc78279269b5",
+   "title": "Crown Castle Inc. Q3 Profit Declines",
+   "link": "https://www.nasdaq.com/articles/crown-castle-inc-q3-profit-declines",
+   "summary": "(RTTNews) - Crown Castle Inc. (CCI) released earnings for third quarter that Dropped, from last year",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:02:50+00:00",
+   "tickers": [
+    "CCI"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "86cefb1da7a9",
    "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
    "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
@@ -135,6 +581,22 @@
    "tickers": [],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "75ef58606444",
+   "title": "Why is International Business Machines stock surging today?",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-international-business-machines-stock-surging-today-93CH-4964164",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-21T21:01:31+00:00",
+   "tickers": [
+    "IBM"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -354,6 +816,22 @@
    "tag_v": 2
   },
   {
+   "id": "96313398fae5",
+   "title": "Trane Technologies To Acquire Cancoil Thermal",
+   "link": "https://www.nasdaq.com/articles/trane-technologies-acquire-cancoil-thermal",
+   "summary": "(RTTNews) - Trane Technologies (TT) on Wednesday said it has agreed to buy Cancoil Thermal Corporation, a North American heat-transfer products manufacturer, to strengthen supply chain resiliency and expand its thermal management capabilities.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T20:58:15+00:00",
+   "tickers": [
+    "TT"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "3b55470da6c4",
    "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
    "link": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
@@ -382,34 +860,18 @@
    "tag_v": 2
   },
   {
-   "id": "a7d3c04eb237",
-   "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
-   "link": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
-   "summary": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-21T20:55:19+00:00",
-   "tickers": [
-    "IBM"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "7e4d8335f185",
-   "title": "Coffee Prices Buffeted by ICE Inventory Fluctuations",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-buffeted-ice-inventory-fluctuations",
-   "summary": "December arabica coffee (KCZ26 ) on Wednesday closed up +4.85 (+1.56%), while November ICE robusta coffee (RMX26 ) closed down -58 (-1.70%). Arabica coffee prices rallied on Wednesday, reversing Tuesday’s -1.39% decline that was driven by news that nearly 28,000 bags of arabica coffee are pending grading at the Intercontinental...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "id": "a92744432f43",
+   "title": "If I Had $1,000 to Invest Today, Here's Why I Wouldn't Buy IonQ Stock",
+   "link": "https://www.nasdaq.com/articles/if-i-had-1000-invest-today-heres-why-i-wouldnt-buy-ionq-stock",
+   "summary": "Key PointsIonQ&rsquo;s expanding business now includes quantum computing, networking, security, sensing, and chip manufacturing.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
-   "published": "2026-10-21T20:55:13+00:00",
+   "published": "2026-10-21T20:55:00+00:00",
    "tickers": [
-    "ICE"
+    "IONQ"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -444,6 +906,20 @@
    "tag_v": 2
   },
   {
+   "id": "91657f245540",
+   "title": "Stewart Information Services Corp Q3 Income Drops",
+   "link": "https://www.nasdaq.com/articles/stewart-information-services-corp-q3-income-drops",
+   "summary": "(RTTNews) - Stewart Information Services Corp (STC) announced a profit for third quarter that Drops, from the same period last year",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T20:54:25+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "597aec57da51",
    "title": "United Rentals beats Q3 estimates, raises guidance on strong demand",
    "link": "https://www.investing.com/news/earnings/united-rentals-beats-q3-estimates-raises-guidance-on-strong-demand-93CH-4964128",
@@ -475,6 +951,20 @@
    "tag_v": 2
   },
   {
+   "id": "6cb60b003896",
+   "title": "TSX 2026 outlook: energy and financials lead, but risks remain",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-2026-outlook-energy-and-financials-lead-but-risks-remain-93CH-4964126",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-21T20:52:34+00:00",
+   "tickers": [],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "d38b58d4c051",
    "title": "Texas Capital earnings beat by $0.39, revenue topped estimates",
    "link": "https://www.investing.com/news/earnings/texas-capital-earnings-beat-by-039-revenue-topped-estimates-4964125",
@@ -503,6 +993,20 @@
    "tag_v": 2
   },
   {
+   "id": "03c5befa760d",
+   "title": "Gas Prices Are Skyrocketing. Can Bitcoin Actually Hedge Against Inflation?",
+   "link": "https://www.nasdaq.com/articles/gas-prices-are-skyrocketing-can-bitcoin-actually-hedge-against-inflation",
+   "summary": "Key PointsRising gas prices are driving higher consumer prices.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T20:51:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "fc6b2f473bdd",
    "title": "Dell Technologies announces retirement of chief legal officer, names successor",
    "link": "https://www.investing.com/news/sec-filings/dell-technologies-announces-retirement-of-chief-legal-officer-names-successor-93CH-4964121",
@@ -516,6 +1020,22 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6008a4653459",
+   "title": "Graco Inc Q3 Profit Retreats",
+   "link": "https://www.nasdaq.com/articles/graco-inc-q3-profit-retreats",
+   "summary": "(RTTNews) - Graco Inc (GGG) announced earnings for third quarter that Drops, from the same period last year",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T20:50:39+00:00",
+   "tickers": [
+    "GGG"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -605,6 +1125,20 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ec9c4a6335ba",
+   "title": "Cathay General Bancorp Q3 Profit Rises",
+   "link": "https://www.nasdaq.com/articles/cathay-general-bancorp-q3-profit-rises",
+   "summary": "(RTTNews) - Cathay General Bancorp (CATY) on Wednesday reported third-quarter net income of $95.2 million, or $1.43 per share, compared with $77.7 million, or $1.13 per share, in the year-ago quarter.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T20:49:30+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -714,15 +1248,15 @@
    "title": "American Water Works Now #333 Largest Company, Surpassing Quest Diagnostics",
    "link": "https://www.nasdaq.com/articles/american-water-works-now-333-largest-company-surpassing-quest-diagnostics",
    "summary": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, American Water Works Co, Inc. (Symbol: AWK) has taken over the #333 spot from Quest Diagnostics, Inc. (Symbol: DGX), according to The Online Investor. Market capitali",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-21T20:46:46+00:00",
    "tickers": [
     "AWK",
     "DGX"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -731,15 +1265,15 @@
    "title": "Align Technology Takes Over #479 Spot From Insulet",
    "link": "https://www.nasdaq.com/articles/align-technology-takes-over-479-spot-insulet",
    "summary": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, Align Technology Inc (Symbol: ALGN) has taken over the #479 spot from Insulet Corp (Symbol: PODD), according to The Online Investor. Market capitalization is an impor",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-21T20:46:40+00:00",
    "tickers": [
     "ALGN",
     "PODD"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -778,15 +1312,15 @@
    "title": "Henry Schein Moves Up In Market Cap Rank, Passing Federal Realty Investment Trust",
    "link": "https://www.nasdaq.com/articles/henry-schein-moves-market-cap-rank-passing-federal-realty-investment-trust",
    "summary": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, Henry Schein Inc (Symbol: HSIC) has taken over the #488 spot from Federal Realty Investment Trust (Symbol: FRT), according to The Online Investor. Market capitalizati",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-21T20:45:55+00:00",
    "tickers": [
     "HSIC",
     "FRT"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -966,36 +1500,6 @@
    "tag_v": 2
   },
   {
-   "id": "0feb931d8113",
-   "title": "Nat-Gas Prices Fall to 5-week Low on Warm Forecasts",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-fall-5-week-low-warm-forecasts",
-   "summary": "November Nymex natural gas (NGX26 ) on Wednesday closed down -0.173 (-5.84%). Nov nat-gas prices on Wednesday tumbled to a contract low and a 5-week nearest-futures low as technical selling accelerated with the breakout to new downside lows. Nat-gas prices have plunged this week on forecasts for above-average US autumn...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T20:44:41+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "cf2df1dd08b4",
-   "title": "Cocoa Prices Continue Higher on Smaller Deliveries from the Ivory Coast",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-continue-higher-smaller-deliveries-ivory-coast-0",
-   "summary": "December ICE NY cocoa (CCZ26 ) on Wednesday closed up +42 (+0.72%), and December ICE London cocoa #7 (CAZ26 ) closed up +40 (+0.93%). Cocoa prices moved higher for a third day on Wednesday amid signs of smaller cocoa supplies from the Ivory Coast. On Monday, data from the Ivory...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T20:44:41+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "c4014b09f19f",
    "title": "Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz",
    "link": "https://www.nasdaq.com/articles/crude-oil-prices-fall-oil-continues-flow-through-strait-hormuz",
@@ -1007,22 +1511,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "5c37b268c9f9",
-   "title": "Cocoa Prices Continue Higher on Smaller Deliveries from the Ivory Coast",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-continue-higher-smaller-deliveries-ivory-coast",
-   "summary": "December ICE NY cocoa (CCZ26 ) is up +35 (+0.60%), and December ICE London cocoa #7 (CAZ26 ) is up +40 (+0.93%). Cocoa prices moved higher for a third day on Wednesday amid signs of smaller cocoa supplies from the Ivory Coast. On Monday, data from the Ivory Coast government...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T20:44:41+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1097,22 +1585,6 @@
    ],
    "type": "ma",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "6f276a585d67",
-   "title": "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
-   "link": "https://www.investing.com/news/stock-market-news/musks-tesla-revenue-beats-estimates-as-deliveries-rebound-energy-storage-grows-4963934",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T20:42:41+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1485,23 +1957,6 @@
     "MOH"
    ],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6f2019a8cbc1",
-   "title": "Stocks See Support from Positive AI News, with SpaceX up +9%",
-   "link": "https://www.nasdaq.com/articles/stocks-see-support-positive-ai-news-spacex-9",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.22%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.70%. December E-mini S&amp;P futures (ESZ26 ) are up +0.27%, and December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T20:33:05+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2249,38 +2704,6 @@
    ],
    "type": "earnings",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "fc9ed3906ef7",
-   "title": "Sugar Prices Continue to Sag From Last Week’s Contract High",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-continue-sag-last-weeks-contract-high",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.08 (-0.39%), and December London ICE white sugar #5 (SWZ26 ) is down -3.40 (-0.62%). March NY world sugar prices today fell for a fourth day on some continued long liquidation pressure after posting a contract high last Wednesday. A large...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T20:22:03+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5ec23270ff41",
-   "title": "Sugar Prices Continue to Sag From Last Week’s Contract High",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-continue-sag-last-weeks-contract-high-0",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.07 (-0.34%) on Wednesday, and December London ICE white sugar #5 (SWZ26 ) closed down -3.40 (-0.62%). March NY world sugar prices on Wednesday fell for a fourth day on some continued long liquidation pressure after posting a contract high last...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T20:22:03+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -4392,20 +4815,6 @@
    "tag_v": 2
   },
   {
-   "id": "3e7b9dd2e76b",
-   "title": "Wheat Pressure Continues on Wednesday with Black Sea News",
-   "link": "https://www.nasdaq.com/articles/wheat-pressure-continues-wednesday-black-sea-news",
-   "summary": "The wheat complex is trading lower on Black Sea news at midday on Wednesday. Chicago SRW contracts are slipping 15 to 16 lower on Tuesday. KC HRW futures are falling 17 to 18 1/4 cents at midday. MPLS spring wheat is down 9 to 10 1/4 cents so far on...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T20:04:18+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "6edf9b4914e4",
    "title": "Corn Bouncing Off Lows at Midday",
    "link": "https://www.nasdaq.com/articles/corn-bouncing-lows-midday",
@@ -5943,20 +6352,6 @@
    "published": "2026-10-21T19:06:41+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-21T19:06:32+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7815,6 +8210,20 @@
    "tag_v": 2
   },
   {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T17:40:42+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "32e0b7803ce9",
    "title": "What Does The Ensign Group, Inc.'s 8.2% Stock Drop Mean for Investors? The Law Offices of Howard G. Smith Outlines Securities Fraud Class Action Lead Plaintiff Deadline",
    "link": "https://www.prnewswire.com/news-releases/what-does-the-ensign-group-incs-8-2-stock-drop-mean-for-investors-the-law-offices-of-howard-g-smith-outlines-securities-fraud-class-action-lead-plaintiff-deadline-302915773.html",
@@ -8604,405 +9013,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c7c054600a91",
-   "title": "Savara Presented New Data Showing Molgramostim Inhalation Solution (Molgramostim) Treatment Effects in Autoimmune Pulmonary Alveolar Proteinosis (aPAP) Patients with Mild Diffusion Impairment | SVRA Stock News",
-   "link": "https://www.stocktitan.net/news/SVRA/savara-presented-new-data-showing-molgramostim-inhalation-solution-xduyfp0xbcop.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T17:10:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d79af5f8e6db",
-   "title": "Soybeans Facing Early Wednesday Weakness",
-   "link": "https://www.nasdaq.com/articles/soybeans-facing-early-wednesday-weakness",
-   "summary": "Soybeans are down 6 to 8 cents early on Wednesday Futures were fractionally to 5 ¼ cents in the red at the Tuesday close. Open interest was up 12,787 contracts. The cmdtyView national average Cash Bean price was down 4 3/4 cents at $11.90 1/2. Soymeal futures fell $1.70 to...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T17:09:26+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "216546e3576d",
-   "title": "Sugar Prices Settle Mixed on Signs of a Larger Global Sugar Deficit",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-settle-mixed-signs-larger-global-sugar-deficit",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.05 (-0.24%) on Tuesday, and December London ICE white sugar #5 (SWZ26 ) closed up +0.30 (+0.05%). Sugar prices recovered from 1-week lows on Tuesday and settled mixed. Short covering emerged in sugar futures on Tuesday after Green Pool Commodity Specialists...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T17:09:25+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "378f2ce1e991",
-   "title": "Russian oil tax price runs 60% above budget assumptions in October",
-   "link": "https://www.investing.com/news/economy-news/russian-oil-tax-price-runs-60-above-budget-assumptions-in-october-93CH-4963763",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T17:09:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4690fd428326",
-   "title": "Holland America Line Celebrates 80 Years in Alaska with Heritage Tours Honoring Generations of Exploration | CCL Stock News",
-   "link": "https://www.stocktitan.net/news/CCL/holland-america-line-celebrates-80-years-in-alaska-with-heritage-50t6ltvnphs4.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T17:09:00+00:00",
-   "tickers": [
-    "CCL"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ea2d53c18b87",
-   "title": "Puig Q3 2026 slides: growth accelerates to 5.6% on makeup strength",
-   "link": "https://www.investing.com/news/company-news/puig-q3-2026-slides-growth-accelerates-to-56-on-makeup-strength-93CH-4963762",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T17:07:41+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "a71545e6e326",
-   "title": "John Malone says SpaceX may invest up to $10b in Skydance",
-   "link": "https://www.investing.com/news/stock-market-news/john-malone-says-spacex-may-invest-up-to-10b-in-skydance-4963761",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T17:07:02+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "752cda47e042",
-   "title": "Bank of America sees a $300 billion test for Google stock",
-   "link": "https://www.thestreet.com/investing/bank-of-america-sees-a-300-billion-test-for-google-stock",
-   "summary": "The biggest bill is still to come.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-21T17:07:00+00:00",
-   "tickers": [
-    "BAC",
-    "GOOGL"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "230522520378",
-   "title": "Earnings call transcript: 0J6V Q3 2026 shows balance-sheet strength and steady leasing",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-0j6v-q3-2026-shows-balancesheet-strength-and-steady-leasing-93CH-4963758",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T17:05:51+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ab1d0796c4db",
-   "title": "Earnings call transcript: BasicNet shares rise as Europe growth offsets weather drag in Q3 2026",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-basicnet-shares-rise-as-europe-growth-offsets-weather-drag-in-q3-2026-93CH-4963757",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T17:05:22+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "87a9c158081b",
-   "title": "History Says Nothing Beats This Dividend ETF for Total Returns",
-   "link": "https://www.nasdaq.com/articles/history-says-nothing-beats-dividend-etf-total-returns",
-   "summary": "Key PointsThis Franklin ETF boasts an annualized return of 18% over the past five years.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T17:05:00+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "bba6ae551ccb",
-   "title": "Cardtonic Goes Global to Serve Customers Regardless of Their Location",
-   "link": "https://www.investing.com/news/press-releases/cardtonic-goes-global-to-serve-customers-regardless-of-their-location-4963756",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T17:04:35+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1cfbf0fec1e7",
-   "title": "In struggling LA, Mayor Karen Bass fights for 2nd term against democratic socialist-backed Raman - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdzMzbDN5T2JTbGxtMzJLRTFXUUhjSE1MNTYwZ0RyeWlMbWdXVG9Xekdua1ljRXRBc2t3ODlMeGpVOXVHLWthYWlqS1I3aHZwVmlleXFVSUplSW1SR19maTJOdDNoUFdFVl9qNjk0cWNDR0hSalpmaTFmakxaeGZEbHJVd1pBTEFTOE5oblZ4SldHMVNKWGc1NVpJQXpSQlN5S0Q0?oc=5",
-   "summary": "In struggling LA, Mayor Karen Bass fights for 2nd term against democratic socialist-backed Raman&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-21T17:04:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "39a6ebff0df4",
-   "title": "US Treasury sanctions law firm over Iranian shipping support",
-   "link": "https://www.investing.com/news/stock-market-news/us-treasury-sanctions-law-firm-over-iranian-shipping-support-93CH-4963755",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T17:02:15+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6dbac65f0ad0",
-   "title": "The Inner Circle acknowledges Amy Salanty, MSN, RN, PMHNP-BC as a Pinnacle Lifetime Member",
-   "link": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-amy-salanty-msn-rn-pmhnp-bc-as-a-pinnacle-lifetime-member-302915732.html",
-   "summary": "HOLLYWOOD, Fla., Oct. 21, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Amy Salanty, MSN, RN, PMHNP-BC is acknowledged as a Pinnacle Lifetime Member for her contributions to Psychiatric Mental Health and Patient Centered Care. Amy Salanty, MSN, RN, PMHNP-BC, is an...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T17:01:00+00:00",
-   "tickers": [
-    "BC"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3d035bd127c8",
-   "title": "Nvidia’s Huang hails Europe’s AI potential, flanked by robot ducks",
-   "link": "https://www.investing.com/news/stock-market-news/nvidias-huang-hails-europes-ai-potential-flanked-by-robot-ducks-4963697",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T17:00:58+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5749799fd71b",
-   "title": "Airlines Are All-In on Premium Seating",
-   "link": "https://www.nasdaq.com/articles/airlines-are-all-premium-seating",
-   "summary": "In this episode of Motley Fool Hidden Gems Investing, Motley Fool contributors Tyler Crowe, Lou Whiteman, and Matt Frankel discuss:",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T17:00:25+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0978fa739d70",
-   "title": "Mopar at SEMA 2026: Shifting West Hall Into High Gear | STLA Stock News",
-   "link": "https://www.stocktitan.net/news/STLA/mopar-at-sema-2026-shifting-west-hall-into-high-spctmx9ltl65.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T17:00:00+00:00",
-   "tickers": [
-    "STLA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9f018a1202e5",
-   "title": "Reed’s Provides Response to Unusual Market Action | REED Stock News",
-   "link": "https://www.stocktitan.net/news/REED/reed-s-provides-response-to-unusual-market-h0cpucvlhaiv.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T17:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a8cf4607dcda",
-   "title": "Leifheit lowers 2026 outlook on market decline",
-   "link": "https://www.investing.com/news/stock-market-news/leifheit-lowers-2026-outlook-on-market-decline-93CH-4963750",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T16:59:35+00:00",
-   "tickers": [],
-   "type": "guidance",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f928c84702ac",
-   "title": "Stock Market Midday, Oct. 21: Tech Gains Lift Nasdaq as SpaceX Soars",
-   "link": "https://www.nasdaq.com/articles/stock-market-midday-oct-21-tech-gains-lift-nasdaq-spacex-soars",
-   "summary": "As of 11:41 AM ET, the Nasdaq Composite (NASDAQINDEX:^IXIC) is up 1.09% to 26,717 on renewed optimism for the AI trade, the S&amp;P 500 (SNPINDEX:^GSPC) has climbed 0.52% to 7,752 as technology gains offset telecom weakness, and the Dow Jones Industrial Average (DJINDICES:^DJI) is up",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T16:56:44+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "f912e04501ac",
-   "title": "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
-   "link": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
-   "summary": "Intel has installed the first major structural truss at its delayed Ohio chip fab, but the company has yet to announce a major outside customer.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-21T16:55:51+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "85fc86f5072f",
-   "title": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says",
-   "link": "https://www.investing.com/news/stock-market-news/europe-risks-startup-exodus-as-regulation-funding-and-skill-gaps-hamper-ai-adoption-aws-emea-head-says-4963748",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T16:54:30+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "668de5b42c1a",
-   "title": "Bridgepoint, Bain bid for UK wealth manager W1M - Bloomberg",
-   "link": "https://www.investing.com/news/stock-market-news/bridgepoint-bain-bid-for-uk-wealth-manager-w1m--bloomberg-93CH-4963747",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T16:53:10+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a118f1ddff01",
-   "title": "Apple vs. SK hynix: Which Tech Stock Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/apple-vs-sk-hynix-which-tech-stock-better-buy-2026",
-   "summary": "Key PointsApple remains a dominant force through its integrated hardware ecosystem and high-margin services revenue.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T16:53:02+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a71675e6d5dc",
-   "title": "Group 1 Automotive completes $1.3 billion acquisition of Hennessy dealerships",
-   "link": "https://www.investing.com/news/sec-filings/group-1-automotive-completes-13-billion-acquisition-of-hennessy-dealerships-93CH-4963745",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T16:53:00+00:00",
-   "tickers": [
-    "GPI"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e6734a7ed7e5",
-   "title": "Raymond James reiterates Strong Buy on AT&T stock, $33 target amid fiber strategy",
-   "link": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-strong-buy-on-att-stock-33-target-amid-fiber-strategy-93CH-4963746",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T16:53:00+00:00",
-   "tickers": [
-    "T"
-   ],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9031,6 +9041,7 @@
   "TMO": "Thermo Fisher Scientific",
   "ARR": "ARMOUR Residential REIT",
   "ASST": "Strive Asset Management",
+  "GS": "The Goldman Sachs Group",
   "CMG": "Chipotle Mexican Grill",
   "COKE": "Coca-Cola Consolidated",
   "TECK": "Teck Resources Limited",
@@ -9118,7 +9129,6 @@
   "HSIC": "Henry Schein",
   "LRCX": "Lam Research",
   "ULS": "UL Solutions",
-  "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "RACE": "Ferrari N.V.",
@@ -9134,7 +9144,6 @@
   "GL": "Globe Life",
   "RKLB": "Rocket Lab",
   "SPGI": "S&P Global",
-  "STLA": "Stellantis",
   "TECH": "Bio-Techne",
   "TTEK": "Tetra Tech",
   "UNM": "Unum Group",
@@ -9145,7 +9154,7 @@
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "OS": "OneStream",
-  "CCL": "Carnival",
+  "TE": "T1 Energy",
   "GOOG": "Alphabet",
   "MTB": "M&T Bank",
   "WULF": "TeraWulf",
@@ -9174,9 +9183,9 @@
   "SAP": "SAP SE",
   "GGG": "Graco",
   "GRAL": "GRAIL",
-  "INTC": "Intel",
   "KKR": "KKR &",
   "ETSY": "Etsy",
+  "IONQ": "IonQ",
   "T": "AT&T"
  }
 }
