@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T05:16:07.213263+00:00",
+ "generated": "2026-10-21T05:21:37.988451+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -414,6 +414,20 @@
     "TSLA"
    ],
    "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ae646f72a4bd",
+   "title": "A ‘Treasury of Ice’ goes on show, revealing relics as Swiss glaciers rapidly melt - AP News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnhfZlZ0ZDBGTTVWQVhNZkZub3ltcUJGQ2xEbGhuN3ZEU2JDVk1ZcHBRd1gxRldpcjdFVUhrUnhpT0JQbEdETTNuRGQwdUNvVDd4ems2SDhmNzh2Xy1CWnZZWmZjaEEzcTduUUtJWWMxS05JMTVPMnFRZEhvZ2FNei1xaUZwcHNQMW94bDdlSW5td3Q0Z0hzNkVhSmktN09VaWY5Q1FiSDZsZ3ptZ2lqT3B3?oc=5",
+   "summary": "A ‘Treasury of Ice’ goes on show, revealing relics as Swiss glaciers rapidly melt&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T04:03:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8931,23 +8945,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "223b08d89627",
-   "title": "Illumina To Webcast Upcoming Investor Conference",
-   "link": "https://www.prnewswire.com/news-releases/illumina-to-webcast-upcoming-investor-conference-302914574.html",
-   "summary": "SAN DIEGO, Oct. 20, 2026 /PRNewswire/ -- Illumina, Inc. (NASDAQ: ILMN) today announced that members of its management team will participate at the following investor conference: Upcoming Investor Conference UBS Global Healthcare Conference on November 10, 2026 The fireside chat is...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-20T20:05:00+00:00",
-   "tickers": [
-    "ILMN",
-    "UBS"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9043,7 +9040,6 @@
   "ADC": "Agree Realty",
   "ASML": "ASML Holding",
   "IREN": "IREN Limited",
-  "UBS": "UBS Group AG",
   "ULS": "UL Solutions",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
@@ -9074,7 +9070,6 @@
   "BP": "BP p.l.c",
   "DOCS": "Doximity",
   "GOOG": "Alphabet",
-  "ILMN": "Illumina",
   "MTB": "M&T Bank",
   "TTC": "The Toro",
   "CVX": "Chevron",
