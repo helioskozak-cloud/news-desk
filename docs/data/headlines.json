@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T05:21:37.988451+00:00",
+ "generated": "2026-10-21T05:26:32.158803+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -579,20 +579,6 @@
    "published": "2026-10-21T03:36:39+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "b893f69834cf",
-   "title": "LeBron James talks smack with Knicks fans, drops 14 points in victorious 76ers debut - AP News",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWphUVZGeW9CZTJ1dzRQRm91bVk1NC1weEtCMTJ0aGszX25laW1xOHNHcl9pYUsxNnR6RkV4OTlaYjRsb3FkejZnTnM0SEtNUzJpTmo2Rm94aVg1czRjSkpBN3BjMmRQWTNlMDhySU1Vbk5ocGVqTnlxVzV5a0d4RXBFdEZWZ3VjUlFPMlNUVTk0cmtUY1l6MjJmU1o5ZEU5VVlRRUp0SWtzbWk4Tmo1bw?oc=5",
-   "summary": "LeBron James talks smack with Knicks fans, drops 14 points in victorious 76ers debut&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-21T03:36:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -8945,6 +8931,23 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
+  },
+  {
+   "id": "1ca28cfaec10",
+   "title": "Morgan Stanley sees new hurdle for Microsoft stock",
+   "link": "https://www.thestreet.com/investing/morgan-stanley-microsoft-earnings-test",
+   "summary": "Wall Street wants more than another earnings beat.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-20T20:00:00+00:00",
+   "tickers": [
+    "MS",
+    "MSFT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9058,6 +9061,7 @@
   "RGLD": "Royal Gold",
   "RKLB": "Rocket Lab",
   "TECH": "Bio-Techne",
+  "MSFT": "Office 365",
   "DE": "John Deere",
   "BC": "Brunswick",
   "BLK": "BlackRock",
