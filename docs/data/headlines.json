@@ -1,8 +1,70 @@
 {
- "generated": "2026-10-21T21:11:31.025101+00:00",
+ "generated": "2026-10-21T21:16:23.057616+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c3a2d872f116",
+   "title": "Tesla beats on earnings and sales even as auto revenue declines",
+   "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+   "summary": "Tesla reported better-than-expected third-quarter results.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T21:14:38+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "be017080293a",
+   "title": "Meta posts Q3 revenue beat and strong guidance: Live updates",
+   "link": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
+   "summary": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T21:13:37+00:00",
+   "tickers": [
+    "META"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "3a7c68f56770",
+   "title": "Smith Douglas Homes Schedules Third Quarter of 2026 Earnings Call and Webcast | SDHC Stock News",
+   "link": "https://www.stocktitan.net/news/SDHC/smith-douglas-homes-schedules-third-quarter-of-2026-earnings-call-bmd0rqm3q7ep.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-21T21:13:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9c0a48b86633",
+   "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+   "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+   "summary": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T21:12:29+00:00",
+   "tickers": [
+    "CRWV"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "3eb7d4ade6ce",
    "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
@@ -31,22 +93,6 @@
    ],
    "type": "guidance",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "be017080293a",
-   "title": "Meta posts Q3 revenue beat and strong guidance: Live updates",
-   "link": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
-   "summary": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-21T21:06:43+00:00",
-   "tickers": [
-    "META"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -349,52 +395,6 @@
    ],
    "type": "earnings",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "0feb931d8113",
-   "title": "Nat-Gas Prices Fall to 5-week Low on Warm Forecasts",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-fall-5-week-low-warm-forecasts",
-   "summary": "November Nymex natural gas (NGX26 ) on Wednesday closed down -0.173 (-5.84%). Nov nat-gas prices on Wednesday tumbled to a contract low and a 5-week nearest-futures low as technical selling accelerated with the breakout to new downside lows. Nat-gas prices have plunged this week on forecasts for above-average US autumn...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T20:55:13+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "cf2df1dd08b4",
-   "title": "Cocoa Prices Continue Higher on Smaller Deliveries from the Ivory Coast",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-continue-higher-smaller-deliveries-ivory-coast-0",
-   "summary": "December ICE NY cocoa (CCZ26 ) on Wednesday closed up +42 (+0.72%), and December ICE London cocoa #7 (CAZ26 ) closed up +40 (+0.93%). Cocoa prices moved higher for a third day on Wednesday amid signs of smaller cocoa supplies from the Ivory Coast. On Monday, data from the Ivory...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T20:55:13+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fc9ed3906ef7",
-   "title": "Sugar Prices Continue to Sag From Last Week’s Contract High",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-continue-sag-last-weeks-contract-high",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.08 (-0.39%), and December London ICE white sugar #5 (SWZ26 ) is down -3.40 (-0.62%). March NY world sugar prices today fell for a fourth day on some continued long liquidation pressure after posting a contract high last Wednesday. A large...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T20:55:13+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -966,6 +966,36 @@
    "tag_v": 2
   },
   {
+   "id": "0feb931d8113",
+   "title": "Nat-Gas Prices Fall to 5-week Low on Warm Forecasts",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-fall-5-week-low-warm-forecasts",
+   "summary": "November Nymex natural gas (NGX26 ) on Wednesday closed down -0.173 (-5.84%). Nov nat-gas prices on Wednesday tumbled to a contract low and a 5-week nearest-futures low as technical selling accelerated with the breakout to new downside lows. Nat-gas prices have plunged this week on forecasts for above-average US autumn...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T20:44:41+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "cf2df1dd08b4",
+   "title": "Cocoa Prices Continue Higher on Smaller Deliveries from the Ivory Coast",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-continue-higher-smaller-deliveries-ivory-coast-0",
+   "summary": "December ICE NY cocoa (CCZ26 ) on Wednesday closed up +42 (+0.72%), and December ICE London cocoa #7 (CAZ26 ) closed up +40 (+0.93%). Cocoa prices moved higher for a third day on Wednesday amid signs of smaller cocoa supplies from the Ivory Coast. On Monday, data from the Ivory...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T20:44:41+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "c4014b09f19f",
    "title": "Crude Oil Prices Fall As Oil Continues to Flow Through Strait of Hormuz",
    "link": "https://www.nasdaq.com/articles/crude-oil-prices-fall-oil-continues-flow-through-strait-hormuz",
@@ -1051,22 +1081,6 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c3a2d872f116",
-   "title": "Tesla beats on earnings and sales even as auto revenue declines",
-   "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-   "summary": "Tesla reported better-than-expected third-quarter results.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-21T20:43:00+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -2235,6 +2249,22 @@
    ],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "fc9ed3906ef7",
+   "title": "Sugar Prices Continue to Sag From Last Week’s Contract High",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-continue-sag-last-weeks-contract-high",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.08 (-0.39%), and December London ICE white sugar #5 (SWZ26 ) is down -3.40 (-0.62%). March NY world sugar prices today fell for a fourth day on some continued long liquidation pressure after posting a contract high last Wednesday. A large...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T20:22:03+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -5917,6 +5947,20 @@
    "tag_v": 2
   },
   {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T19:06:32+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "e392311c2bd3",
    "title": "Rudy C. Yakym III purchases Treasury Bill via Schwab",
    "link": "https://www.investing.com/news/company-news/rudy-c-yakym-iii-purchases-treasury-bill-via-schwab-93CH-4963837",
@@ -7661,6 +7705,20 @@
    "tag_v": 2
   },
   {
+   "id": "a9a03fbbda1a",
+   "title": "Vance says he’s ‘disgusted’ by GOP pushback to Ramaswamy ad featuring Amy Acton's estranged mother - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2FkYjhwVnNzTFFwR18yckdkM0N6dnZKeGpjb1ZZanVISnpBY1JiOHpNZjBvbHZOUXBhcUNTU1dXa2dZeDZncmtpZ1k1cG5LdHdoOTNsWk8xY1c2UnJ4SFAzdGVhcDRBM3RrTkRWN1ZKOHhQak90NXVxaUpSSE1mQ29iMjBvOGprTVNLNFRTNklGanM0MUNzYU5TbUswcVZDbDgtLWp3bjRtX2VUS29j?oc=5",
+   "summary": "Vance says he’s ‘disgusted’ by GOP pushback to Ramaswamy ad featuring Amy Acton's estranged mother&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T17:47:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b9530ad37db0",
    "title": "Alaska Air (ALK) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/alaska-air-alk-q3-2026-earnings-call-transcript",
@@ -8084,20 +8142,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-21T17:24:29+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8737,6 +8781,20 @@
    "tag_v": 2
   },
   {
+   "id": "1cfbf0fec1e7",
+   "title": "In struggling LA, Mayor Karen Bass fights for 2nd term against democratic socialist-backed Raman - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdzMzbDN5T2JTbGxtMzJLRTFXUUhjSE1MNTYwZ0RyeWlMbWdXVG9Xekdua1ljRXRBc2t3ODlMeGpVOXVHLWthYWlqS1I3aHZwVmlleXFVSUplSW1SR19maTJOdDNoUFdFVl9qNjk0cWNDR0hSalpmaTFmakxaeGZEbHJVd1pBTEFTOE5oblZ4SldHMVNKWGc1NVpJQXpSQlN5S0Q0?oc=5",
+   "summary": "In struggling LA, Mayor Karen Bass fights for 2nd term against democratic socialist-backed Raman&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T17:04:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "39a6ebff0df4",
    "title": "US Treasury sanctions law firm over Iranian shipping support",
    "link": "https://www.investing.com/news/stock-market-news/us-treasury-sanctions-law-firm-over-iranian-shipping-support-93CH-4963755",
@@ -8821,20 +8879,6 @@
    "published": "2026-10-21T17:00:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f3a7622e2f43",
-   "title": "A chemical tank explodes in Ohio, forcing evacuations and prompting fears of another blast - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYUMtdXRqd1BSci1EcDgwYWpJaGpnZm1FNU4wUXE4UTNzb0VBOGp2VGNXUFh5R0FLNmdDT0NYeDZlcmZxZ3oxemRJUDAzS0ZjNV9ZS2hudzdzaXBMZWhreGxudXE1bkdGbmNpYmN1c1k2N3ZicGpsTGZ4d1dxY1N4Y20xdU5MZmltR3JJbHJ2eWRVSXFpekUtLXRDdw?oc=5",
-   "summary": "A chemical tank explodes in Ohio, forcing evacuations and prompting fears of another blast&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-21T17:00:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8958,51 +9002,6 @@
    ],
    "type": "analyst",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "bf1f93500d9d",
-   "title": "Israeli forces detain and then release US congressional candidate at West Bank harvest - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUNCQmR1SDE2bmpBYXYtOS1pd3NIMjRzc011eTI3OXdOMnFmemlRbWNNU1gtcE45TTA0bkJuWTRWRTNuYjV5Skl0THpZSVBISl9PTTVXZXBPUTNwemJCRHlPVlVxTElTUDlReFg0SlVvQzRUOFc0V1JZa0k2TUxTdjU3SzRvaXE2ZDQyc2FCQWk0bzh2LW53VGh2bkNxS1kxUkFXVGdXNFFWM1FjM09j?oc=5",
-   "summary": "Israeli forces detain and then release US congressional candidate at West Bank harvest&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-21T16:53:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cb3fdb8f615a",
-   "title": "SpaceX options activity: calls dominate as volume hits 2.17M contracts",
-   "link": "https://www.investing.com/news/stock-market-news/spacex-options-activity-calls-dominate-as-volume-hits-217m-contracts-93CH-4963744",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-21T16:51:39+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a49b1bfec37a",
-   "title": "PepsiCo vs. Starbucks: Which Consumer Goods Stock Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/pepsico-vs-starbucks-which-consumer-goods-stock-better-buy-2026",
-   "summary": "Key PointsPepsiCo manages a globally diversified portfolio of convenient snacks and beverage brands.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T16:50:02+00:00",
-   "tickers": [
-    "SBUX",
-    "PEP"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   }
  ],
@@ -9146,7 +9145,6 @@
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "OS": "OneStream",
-  "SBUX": "Starbucks",
   "CCL": "Carnival",
   "GOOG": "Alphabet",
   "MTB": "M&T Bank",
@@ -9161,7 +9159,6 @@
   "IVZ": "Invesco",
   "MCO": "Moody's",
   "MDB": "MongoDB",
-  "PEP": "PepsiCo",
   "PODD": "Insulet",
   "ROL": "Rollins",
   "WMT": "Walmart",
