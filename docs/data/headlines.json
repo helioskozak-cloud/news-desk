@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T07:16:36.465861+00:00",
+ "generated": "2026-10-21T07:21:21.546531+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,11 +11,41 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-21T07:13:00+00:00",
+   "published": "2026-10-21T07:19:49+00:00",
    "tickers": [
     "GS"
    ],
    "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "246f666769e0",
+   "title": "French supermarket giant's shares plunge 12% after warning ‘unprecedented’ unrest will hit business",
+   "link": "https://www.cnbc.com/2026/10/21/carrefour-french-protests-guidance-cut.html",
+   "summary": "",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T07:19:03+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "8a18ebcdf2cd",
+   "title": "L3Harris Wins $876 Million Next Generation Jamming Contract",
+   "link": "https://www.nasdaq.com/articles/l3harris-wins-876-million-next-generation-jamming-contract",
+   "summary": "Key PointsSo far, this is worth more than $876 million.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T07:09:25+00:00",
+   "tickers": [
+    "LHX"
+   ],
+   "type": "markets",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -31,6 +61,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "8f77ed20225d",
+   "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it.",
+   "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+   "summary": "Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-21T07:03:48+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -328,6 +372,22 @@
    "tag_v": 2
   },
   {
+   "id": "822be1f48b51",
+   "title": "Will Tesla’s New Flying Roadster Send the Stock Flying?",
+   "link": "https://www.nasdaq.com/articles/will-teslas-new-flying-roadster-send-stock-flying",
+   "summary": "Key PointsTesla unveiled its next-generation Roadster, including a flying version.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T06:50:01+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "d10dd25f6c9d",
    "title": "Guardian Metal receives £42,000 from warrant exercise",
    "link": "https://www.investing.com/news/company-news/guardian-metal-receives-42000-from-warrant-exercise-93CH-4961705",
@@ -395,6 +455,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "adcb2a6295d2",
+   "title": "Northern Star Resources Q1 Gold Sales Fall; Confirms Annual Outlook",
+   "link": "https://www.nasdaq.com/articles/northern-star-resources-q1-gold-sales-fall-confirms-annual-outlook",
+   "summary": "(RTTNews) - Northern Star Resources Ltd. (NST.AX), an Australian gold mining company, reported gold sales of 363,891 ounces in the first quarter of fiscal 2027, down 7.6% from 394,000 ounces a year earlier.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T06:40:30+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -977,7 +1051,7 @@
    "title": "Pigment Raises $250M at $2.3B Valuation",
    "link": "https://www.prnewswire.com/news-releases/pigment-raises-250m-at-2-3b-valuation-302914892.html",
    "summary": "Series E raise is led by Scaleup Europe Fund managed by EQT, with participation from existing investors, WIL (World Innovation Lab), and a planned investment from NVIDIA New capital accelerates Pigment's move toward autonomous planning, powered by its proprietary Graphite engine PARIS,...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-21T06:00:00+00:00",
@@ -1666,6 +1740,20 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "5b8b85dca3e8",
+   "title": "Drone strike on a market in disputed African region of Abyei kills at least 153 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0RoXzlpbUpReTJGMHFMdkZyRzd0NzlLRkNZdGRqQWk5ZmZLQ0pMSWhIUUlmWTE0TGE3Nm5oQWVGOVBrYlVnbnh2UVVpR0s5LUdSSWc3MnVPNDRmOGVBTkpNcUp3U1RKWnVrUU1UQjB4NUNEVlB5X2lMNnU3N0NjQmd1QU1TSDdXOU1vQXJoSkRzTnBiOHE2dFNITGhwNHhVbWdMUw?oc=5",
+   "summary": "Drone strike on a market in disputed African region of Abyei kills at least 153&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T04:59:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -4865,22 +4953,6 @@
    "tag_v": 2
   },
   {
-   "id": "7a556eaa90b1",
-   "title": "Elon Musk’s SpaceX reports a profit and he hints at a possible merger with Tesla - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlJVZExxcE9vRWtKZWQwc3pCMHQ3SUdoaC15bW1qam9DNFVRYzliR05EZk9rVm1yeEhOVnEwQm0zVndrVjhPTlZmVncweWtrZlFmUEtJdGxwbFlDMFZyaFU1MmIwYmtoQW1xRHJOMmZnbG1tYkdGWlRyVWViWGFMcVl1T0N6U09yb3I0ZHdUaVZhWHcyM0E?oc=5",
-   "summary": "Elon Musk’s SpaceX reports a profit and he hints at a possible merger with Tesla&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-20T23:05:00+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "type": "ma",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "384d0f2d181a",
    "title": "OMNIQ at LD Micro 20th Annual Main Event Conference: scaling AI",
    "link": "https://www.investing.com/news/transcripts/omniq-at-ld-micro-20th-annual-main-event-conference-scaling-ai-93CH-4961338",
@@ -7414,6 +7486,22 @@
    "tag_v": 2
   },
   {
+   "id": "7a556eaa90b1",
+   "title": "Elon Musk’s SpaceX reports a profit and he hints at a possible merger with Tesla - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlJVZExxcE9vRWtKZWQwc3pCMHQ3SUdoaC15bW1qam9DNFVRYzliR05EZk9rVm1yeEhOVnEwQm0zVndrVjhPTlZmVncweWtrZlFmUEtJdGxwbFlDMFZyaFU1MmIwYmtoQW1xRHJOMmZnbG1tYkdGWlRyVWViWGFMcVl1T0N6U09yb3I0ZHdUaVZhWHcyM0E?oc=5",
+   "summary": "Elon Musk’s SpaceX reports a profit and he hints at a possible merger with Tesla&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-20T20:57:42+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "ma",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "1ecd95d1170f",
    "title": "Netflix shares fall over 5% after hours on soft current quarter revenue guidance",
    "link": "https://www.investing.com/news/earnings/netflix-delivers-profit-beat-slightly-narrows-fullyear-revenue-guidance-4960949",
@@ -8824,94 +8912,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "56bf9ad8c5b8",
-   "title": "KeyCorp: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/keycorp-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsCommercial and industrial loans grew 5% sequentially in the third quarter.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T20:26:44+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "abaf321e6f3c",
-   "title": "Rapid Micro Biosystems to Participate at the PDA Pharmaceutical Microbiology Conference 2026 | RPID Stock News",
-   "link": "https://www.stocktitan.net/news/RPID/rapid-micro-biosystems-to-participate-at-the-pda-pharmaceutical-xsmh6w5ro6od.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-20T20:25:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1114ace3a6c9",
-   "title": "Factbox-Anthropic’s public benefit fund and how it compares with other big philanthropic efforts",
-   "link": "https://www.investing.com/news/stock-market-news/factboxanthropics-public-benefit-fund-and-how-it-compares-with-other-big-philanthropic-efforts-4960868",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-20T20:25:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "79c4e17ebc04",
-   "title": "Chevron Is Pouring Billions Into Venezuela. Here's the 1 Number Investors Should Watch.",
-   "link": "https://www.nasdaq.com/articles/chevron-pouring-billions-venezuela-heres-1-number-investors-should-watch",
-   "summary": "Key PointsVenezuelan production could more than double from current levels.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T20:25:00+00:00",
-   "tickers": [
-    "CVX"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9fb812f9780b",
-   "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-   "link": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-   "summary": "United Airlines cut its profit outlook for the year as fuel prices continued to climb.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-20T20:23:58+00:00",
-   "tickers": [],
-   "type": "guidance",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c3333b057d6a",
-   "title": "Chubb Q3 Profit Rises",
-   "link": "https://www.nasdaq.com/articles/chubb-q3-profit-rises",
-   "summary": "(RTTNews) - Chubb Limited (CB) on Tuesday reported third-quarter net income of $2.84 billion or $7.30 per share, up from $2.80 billion or $6.99 per share last year.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T20:23:50+00:00",
-   "tickers": [
-    "CB"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8993,7 +8993,6 @@
   "QBTS": "D-Wave Quantum",
   "STLD": "Steel Dynamics",
   "VG": "Venture Global",
-  "CB": "Chubb Limited",
   "DX": "Dynex Capital",
   "KMI": "Kinder Morgan",
   "LLY": "Eli Lilly and",
@@ -9034,7 +9033,6 @@
   "GOOG": "Alphabet",
   "MTB": "M&T Bank",
   "TTC": "The Toro",
-  "CVX": "Chevron",
   "EFX": "Equifax",
   "GAP": "The Gap",
   "IVZ": "Invesco",
