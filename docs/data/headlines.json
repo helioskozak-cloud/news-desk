@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-22T13:51:51.032993+00:00",
+ "generated": "2026-10-22T13:56:22.412301+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "430fe62f195d",
+   "title": "Trump’s tariffs loom over Maine Senate race between Collins and Jackson",
+   "link": "https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html",
+   "summary": "The Maine Senate race between Republican incumbent Susan Collins and Democrat Troy Jackson presents a laboratory for public sentiment on Trump's Canada tariffs.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T13:53:23+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "c161ffb5df37",
    "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
@@ -165,23 +179,6 @@
    "tickers": [],
    "type": "analyst",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dee806868448",
-   "title": "Stocks Rally on Positive AI News, with SpaceX up +7%",
-   "link": "https://www.nasdaq.com/articles/stocks-rally-positive-ai-news-spacex-7",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) rose +0.59% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +1.13%. December E-mini S&amp;P futures (ESZ26 ) rose +0.62%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T13:39:14+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -516,12 +513,12 @@
    "title": "&quot;AI FOMO&quot; Sent This Fund Soaring. Then It Lost 33%.",
    "link": "https://www.nasdaq.com/articles/ai-fomo-sent-fund-soaring-then-it-lost-33",
    "summary": "There are hundreds of closed-end funds (CEFs) out there, and almost all of them have an investor they're perfect for.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-22T13:30:03+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1592,6 +1589,23 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "dee806868448",
+   "title": "Stocks Rally on Positive AI News, with SpaceX up +7%",
+   "link": "https://www.nasdaq.com/articles/stocks-rally-positive-ai-news-spacex-7",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) rose +0.59% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +1.13%. December E-mini S&amp;P futures (ESZ26 ) rose +0.62%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T13:01:47+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8966,22 +8980,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "959431d18f6a",
-   "title": "Carrier Global Plans To Expand US Operations With $600 Mln Investment In Texas",
-   "link": "https://www.nasdaq.com/articles/carrier-global-plans-expand-us-operations-600-mln-investment-texas",
-   "summary": "(RTTNews) - Thursday, Carrier Global Corp. (CARR) announced plans to invest over $600 million in a new advanced manufacturing and engineering center in Fort Worth, Texas, over the next three years.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T11:12:40+00:00",
-   "tickers": [
-    "CARR"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9073,7 +9071,6 @@
   "LVS": "Las Vegas Sands",
   "TRI": "Thomson Reuters",
   "VIAV": "Viavi Solutions",
-  "CARR": "Carrier Global",
   "DPZ": "Domino's Pizza",
   "HD": "The Home Depot",
   "LNT": "Alliant Energy",
