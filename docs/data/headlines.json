@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-22T15:46:08.949738+00:00",
+ "generated": "2026-10-22T15:51:30.652578+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "edf5754b76d9",
+   "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
+   "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+   "summary": "Prices for the social media giant's 5-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T15:45:57+00:00",
+   "tickers": [
+    "META"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "18d4ea23314e",
    "title": "Fidelity D & D Bancorp, Inc. Raises Quarterly Dividend 7% to $0.46 per Share, Marking Twelve Consecutive Years of Increases | FDBC Stock News",
@@ -34,6 +50,20 @@
    "tag_v": 2
   },
   {
+   "id": "b4ef9ea473d9",
+   "title": "Pershing Square CEO Bill Ackman: I'm a big believer in Israel long-term",
+   "link": "https://www.cnbc.com/video/2026/10/22/watch-cnbcas-full-interview-with-pershing-square-ceo-bill-ackman.html",
+   "summary": "Pershing Square Capital Management founder and CEO Bill Ackman joins 'Squawk on the Street' to discuss Israel’s economy and stock market as the country heads toward an election, the U.S.-Iran war, the U.S.-Israel relationship, and more.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T15:40:14+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "c9c561284b12",
    "title": "Tairex lance un système d'IA multi-agents pour transformer la collaboration clinique et l'aide à la prise de décision.",
    "link": "https://www.prnewswire.com/news-releases/tairex-lance-un-systeme-dia-multi-agents-pour-transformer-la-collaboration-clinique-et-laide-a-la-prise-de-decision-302917169.html",
@@ -47,6 +77,20 @@
    ],
    "type": "press",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "10ef0efa4c8d",
+   "title": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia",
+   "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+   "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T15:36:13+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1632,6 +1676,20 @@
    "title": "Rush is on to patch a software vulnerability that could impact 70% of websites worldwide - AP News",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5",
    "summary": "Rush is on to patch a software vulnerability that could impact 70% of websites worldwide&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-22T14:55:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ffe5fe269599",
+   "title": "Powerful Democratic Virginia lawmaker Lucas is accused of leading a marijuana criminal conspiracy - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWV9EN19IUDB3X3ROUy1MNUhvTnh1cUdDMHJQeWhhLVBWTnpiNXhSQkV6a24xdWF5SXVmN184c3UwZFVzc3pOMWpOb25PZkZFbzY4LThoamJBSXJZRFBnR0hUWFBBMk5pOTUzLVFkc3BDcFhUVS1JcHROdmUtN0Q4RFh3cDVPNjRFNHM5WHFUYkZzdE9jTWt0ZW5KMTY5MXRpVms1cDluQ3Y2b19j?oc=5",
+   "summary": "Powerful Democratic Virginia lawmaker Lucas is accused of leading a marijuana criminal conspiracy&nbsp;&nbsp;AP News",
    "source": "AP Business",
    "category": "macro",
    "domain": "news.google.com",
@@ -4594,20 +4652,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "10ef0efa4c8d",
-   "title": "Brent crude tops $112 after Trump says no negotiations with Iran, something will happen 'fairly soon'",
-   "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-   "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-22T13:40:41+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -9007,48 +9051,6 @@
     "META"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f0197d8ddf4f",
-   "title": "Futures Point To Lower Open For Wall Street As Crude Oil Price Surges",
-   "link": "https://www.nasdaq.com/articles/futures-point-lower-open-wall-street-crude-oil-price-surges",
-   "summary": "(RTTNews) - A surge in oil prices and escalating supply risks, after the attack on Saudi's oil field are influencing the investor sentiments on Thursday.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T12:29:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "aa8c91bbcbc1",
-   "title": "Deutsche Bank names three stocks as standouts as AI usage grows",
-   "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-names-three-stocks-as-standouts-as-ai-usage-grows-4965999",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-22T12:28:39+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0b8a3ccd8324",
-   "title": "Why is Forgent Power Solutions stock sliding today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-forgent-power-solutions-stock-sliding-today-93CH-4965997",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-22T12:28:23+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   }
