@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T14:21:54.727188+00:00",
+ "generated": "2026-10-22T14:26:19.371051+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,24 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-22T14:20:04+00:00",
+   "published": "2026-10-22T14:25:04+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "8a228ed889cb",
+   "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
+   "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+   "summary": "France is facing a mounting economic crisis that pushed its 10-year government bond yield to a new 24-year high on Thursday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T14:21:56+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -34,6 +48,188 @@
    "tag_v": 2
   },
   {
+   "id": "df52b3b0946a",
+   "title": "Spotify forecasts strong profit as AI features start to pay off, shares surge",
+   "link": "https://www.investing.com/news/stock-market-news/spotify-forecasts-fourthquarter-profit-above-estimates-on-ai-bets-4965232",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:19:40+00:00",
+   "tickers": [
+    "SPOT"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "310c490225b9",
+   "title": "Rivian stock may move 7.2% on Oct. 29 earnings report",
+   "link": "https://www.investing.com/news/stock-market-news/rivian-stock-may-move-72-on-oct-29-earnings-report-93CH-4966694",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:19:30+00:00",
+   "tickers": [
+    "RIVN"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "19a5781d3b54",
+   "title": "Visteon Q3 2026 slides: strong growth offset by warranty charges",
+   "link": "https://www.investing.com/news/company-news/visteon-q3-2026-slides-strong-growth-offset-by-warranty-charges-93CH-4966693",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:19:15+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "086c3d3f4f81",
+   "title": "Meta falls as investors balance Muse growth with rising AI costs",
+   "link": "https://www.investing.com/news/stock-market-news/meta-falls-as-investors-balance-muse-growth-with-rising-ai-costs-4965902",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:19:10+00:00",
+   "tickers": [
+    "META"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "2276065ae72f",
+   "title": "Euro zone consumer confidence falls to -17.9 in October",
+   "link": "https://www.investing.com/news/economic-indicators/euro-zone-consumer-confidence-falls-to-179-in-october-4966691",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:18:54+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "762844be1fbe",
+   "title": "US weekly jobless claims near 57-year lows amid low layoffs",
+   "link": "https://www.investing.com/news/economy-news/us-weekly-jobless-claims-near-57year-lows-4966076",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:18:40+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "dac8b3873279",
+   "title": "Nippon Steel to spend $3 billion in U.S. Steel plant equipment upgrade, Nikkei reports",
+   "link": "https://www.investing.com/news/stock-market-news/nippon-steel-to-spend-3-billion-on-us-steel-plant-in-pennsylvania-nikkei-reports-4966675",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:18:29+00:00",
+   "tickers": [],
+   "type": "upgrade",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "26af67351b33",
+   "title": "Illumina stock may move 9.3% on earnings release",
+   "link": "https://www.investing.com/news/stock-market-news/illumina-stock-may-move-93-on-earnings-release-93CH-4966690",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:18:26+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6c9b6ad8c1bc",
+   "title": "Wendel Q3 2026 slides: NAV rises 5.1% on multiples rebound",
+   "link": "https://www.investing.com/news/company-news/wendel-q3-2026-slides-nav-rises-51-on-multiples-rebound-93CH-4966689",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:17:51+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "644c031e358b",
+   "title": "Spotify premium subscribers exceed estimates amid push into podcasting",
+   "link": "https://www.investing.com/news/earnings/spotify-premium-subscribers-exceed-estimates-amid-push-into-podcasting-4965263",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:17:39+00:00",
+   "tickers": [
+    "SPOT"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e98a252910ba",
+   "title": "Starbucks shares may move 4.9% on Oct. 29 earnings report",
+   "link": "https://www.investing.com/news/stock-market-news/starbucks-shares-may-move-49-on-oct-29-earnings-report-93CH-4966688",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:17:36+00:00",
+   "tickers": [
+    "SBUX"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a6c15f642698",
+   "title": "Western Digital faces earnings test as HDD pricing debate looms",
+   "link": "https://www.investing.com/news/earnings/western-digital-faces-earnings-test-as-hdd-pricing-debate-looms-93CH-4966687",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:17:20+00:00",
+   "tickers": [
+    "WDC"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "3855ab531ad8",
    "title": "The hidden cost of making digital payments easier",
    "link": "https://www.thestreet.com/technology/the-hidden-cost-of-making-digital-payments-easier",
@@ -42,6 +238,68 @@
    "category": "stocks",
    "domain": "thestreet.com",
    "published": "2026-10-22T14:17:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4613bf28b585",
+   "title": "Sandisk stock may move 7.7% on earnings release next week",
+   "link": "https://www.investing.com/news/stock-market-news/sandisk-stock-may-move-77-on-earnings-release-next-week-93CH-4966684",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:16:43+00:00",
+   "tickers": [
+    "SNDK"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b2524f4637b0",
+   "title": "Alphabet C breaks support at $323.55, deep oversold: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/alphabet-c-trapped-below-resistance-at-341-live-levels-93CH-4957926",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:16:05+00:00",
+   "tickers": [
+    "GOOG"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c0a6ffd828ee",
+   "title": "Tesla tests triple-top resistance at $388.73: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/tesla-hammer-at-35475-battles-200sma-resistance-live-levels-93CH-4957922",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:15:54+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "7564c7ca2f30",
+   "title": "Nasdaq 100 coils at 50% Fib support 29,412: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-trapped-below-30101-after-ath-breakdown-live-levels-93CH-4957925",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-22T14:15:49+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -851,20 +1109,6 @@
    "published": "2026-10-22T13:44:27+00:00",
    "tickers": [],
    "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8a228ed889cb",
-   "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
-   "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
-   "summary": "France is facing a mounting economic crisis that pushed its 10-year government bond yield to a new 24-year high on Thursday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-22T13:44:19+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -5987,22 +6231,6 @@
    "tag_v": 2
   },
   {
-   "id": "086c3d3f4f81",
-   "title": "Meta falls as investors balance Muse growth with rising AI costs",
-   "link": "https://www.investing.com/news/stock-market-news/meta-falls-as-investors-balance-muse-growth-with-rising-ai-costs-4965902",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-22T12:12:38+00:00",
-   "tickers": [
-    "META"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "eea3f3153750",
    "title": "A North Carolina Partnership Turns a Community's Voice into a Voting Anthem",
    "link": "https://www.prnewswire.com/news-releases/a-north-carolina-partnership-turns-a-communitys-voice-into-a-voting-anthem-302915942.html",
@@ -8771,223 +8999,6 @@
    "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "9271e964a9d3",
-   "title": "Ranpak to Hold Conference Call to Discuss Third Quarter 2026 Results | PACK Stock News",
-   "link": "https://www.stocktitan.net/news/PACK/ranpak-to-hold-conference-call-to-discuss-third-quarter-2026-54zwl03cpeey.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "78debf815928",
-   "title": "Acacia Research to Release Third Quarter 2026 Financial Results on November 5, 2026 | ACTG Stock News",
-   "link": "https://www.stocktitan.net/news/ACTG/acacia-research-to-release-third-quarter-2026-financial-results-on-8x8o6dp3qqmr.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "672babd923ed",
-   "title": "USA TODAY Co. Schedules Third Quarter 2026 Results | TDAY Stock News",
-   "link": "https://www.stocktitan.net/news/TDAY/usa-today-co-schedules-third-quarter-2026-karp58xi7zoa.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "90b90a66f969",
-   "title": "Atlas Energy Solutions Announces $424 Million Senior Secured Bridge Facility Provided by Goldman Sachs and Barclays | AESI Stock News",
-   "link": "https://www.stocktitan.net/news/AESI/atlas-energy-solutions-announces-424-million-senior-secured-bridge-uadushwr21vw.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [
-    "GS",
-    "BCS"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "cef52dcf968f",
-   "title": "Gibraltar to Announce Third Quarter 2026 Financial Results on November 5 | ROCK Stock News",
-   "link": "https://www.stocktitan.net/news/ROCK/gibraltar-to-announce-third-quarter-2026-financial-results-on-2nqv9f2y6l5h.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b329febbdf21",
-   "title": "Verastem Oncology to Report Third Quarter 2026 Financial Results on November 5, 2026 | VSTM Stock News",
-   "link": "https://www.stocktitan.net/news/VSTM/verastem-oncology-to-report-third-quarter-2026-financial-results-on-78pll6u3jct3.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c030221e26ea",
-   "title": "Monro, Inc. to Report Second Quarter Fiscal 2027 Earnings on October 29, 2026 | MNRO Stock News",
-   "link": "https://www.stocktitan.net/news/MNRO/monro-inc-to-report-second-quarter-fiscal-2027-earnings-on-october-eczg32ixl56o.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "85f793824526",
-   "title": "XCF Global Announces Leadership Appointments to Support Growth and Integration | SAFX Stock News",
-   "link": "https://www.stocktitan.net/news/SAFX/xcf-global-announces-leadership-appointments-to-support-growth-and-vged0r6k0e4k.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9e4048eb3b65",
-   "title": "Nextech3D.ai's Map D Creates First AI-Generated Customer Floor Plan for Florida Home Builders Association's Southeast Building Conference 2027 | NEXCF Stock News",
-   "link": "https://www.stocktitan.net/news/NEXCF/nextech3d-ai-s-map-d-creates-first-ai-generated-customer-floor-plan-c11atslx10a6.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "980a7a60136d",
-   "title": "FirstService Reports Third Quarter 2026 Results | FSV Stock News",
-   "link": "https://www.stocktitan.net/news/FSV/first-service-reports-third-quarter-2026-2hz2vc9odpqs.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "05ad1f7c0c17",
-   "title": "Arbutus Announces FDA Clinical Hold is Lifted on IND Application for AB-101, an Oral PD-L1 Inhibitor | ABUS Stock News",
-   "link": "https://www.stocktitan.net/news/ABUS/arbutus-announces-fda-clinical-hold-is-lifted-on-ind-application-for-iouh2thaqidr.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [],
-   "type": "fda",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "de10ef22feb4",
-   "title": "Acumen Pharmaceuticals to Present Preliminary Baseline Characteristics and Data on Care Experiences and Participation in Phase 2 ALTITUDE-AD Trial at the 19th Annual Clinical Trials on Alzheimer’s Disease (CTAD) Conference | ABOS Stock News",
-   "link": "https://www.stocktitan.net/news/ABOS/acumen-pharmaceuticals-to-present-preliminary-baseline-hp5vi1e4200r.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [],
-   "type": "fda",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "acd24a1ec381",
-   "title": "BridgeBio to Report Third Quarter 2026 Financial Results and Commercial Updates on October 29, 2026 at 4:30 pm ET | BBIO Stock News",
-   "link": "https://www.stocktitan.net/news/BBIO/bridge-bio-to-report-third-quarter-2026-financial-results-and-ln9nu9688a0r.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [
-    "BBIO"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9ef256734f3b",
-   "title": "FTI Consulting Appoints Katie Norris to Expand Life Sciences Compliance and Investigations Capabilities | FCN Stock News",
-   "link": "https://www.stocktitan.net/news/FCN/fti-consulting-appoints-katie-norris-to-expand-life-sciences-4irjdc5z7eqe.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [
-    "FTI"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "84abf7761b04",
-   "title": "Solana Company Selected as a Strategic Enterprise by the Hong Kong SAR Government | HSDT Stock News",
-   "link": "https://www.stocktitan.net/news/HSDT/solana-company-selected-as-a-strategic-enterprise-by-the-hong-kong-ynmbo7csvlr2.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T11:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9060,7 +9071,6 @@
   "WU": "The Western Union",
   "AR": "Antero Resources",
   "AXP": "American Express",
-  "BBIO": "BridgeBio Pharma",
   "BMO": "Bank of Montreal",
   "BWXT": "BWX Technologies",
   "EHC": "Encompass Health",
@@ -9085,6 +9095,7 @@
   "LVS": "Las Vegas Sands",
   "TRI": "Thomson Reuters",
   "VIAV": "Viavi Solutions",
+  "WDC": "Western Digital",
   "DPZ": "Domino's Pizza",
   "HD": "The Home Depot",
   "LNT": "Alliant Energy",
@@ -9120,7 +9131,6 @@
   "CBRE": "CBRE Group",
   "DTE": "DTE Energy",
   "F": "Ford Motor",
-  "FTI": "TechnipFMC",
   "MA": "Mastercard",
   "PHM": "PulteGroup",
   "SPGI": "S&P Global",
@@ -9136,6 +9146,8 @@
   "BP": "BP p.l.c",
   "CCL": "Carnival",
   "DOCU": "DocuSign",
+  "GOOG": "Alphabet",
+  "ILMN": "Illumina",
   "MNTS": "Momentus",
   "SNAP": "Snapchat",
   "CMCSA": "Comcast",
