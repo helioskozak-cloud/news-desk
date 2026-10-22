@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T18:26:37.115327+00:00",
+ "generated": "2026-10-22T18:31:42.165677+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -17,6 +17,36 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c04422463c58",
+   "title": "TEAMSTERS RALLY FOR DELIVERY PROTECTION ACT AT NEW YORK CITY HALL",
+   "link": "https://www.prnewswire.com/news-releases/teamsters-rally-for-delivery-protection-act-at-new-york-city-hall-302917339.html",
+   "summary": "Amazon Teamsters, Elected Officials Call on Speaker Julie Menin to Schedule Vote NEW YORK, Oct. 22, 2026 /PRNewswire/ -- Today, Teamsters General President Sean M. O'Brien joined hundreds of rank-and-file Amazon Teamsters and New York City elected officials, including Mayor Zohran...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T18:24:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "press",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "2c63211743ca",
+   "title": "The perfect storm behind the Nasdaq's rout — plus, some of the bright spots in the market",
+   "link": "https://www.cnbc.com/investingclub/2026/10/22/perfect-storm-behind-the-nasdaqs-rout-plus-some-bright-spots-in-the-market.html",
+   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T18:23:05+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -45,6 +75,36 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "55270ed7ef25",
+   "title": "Crude Oil Prices Rise on Saudi Tensions",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-rise-saudi-tensions",
+   "summary": "December WTI crude oil (CLZ26 ) is up +1.22 (+1.26%), and December RBOB gasoline (RBZ26 ) is up +0.0223 (+0.73%). Crude oil prices are higher today due to tensions in Saudi Arabia, where the Houthi militia in the past two days has launched additional attacks against Saudi infrastructure targets like...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:18:24+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "4e52caaa14a7",
+   "title": "Cocoa Prices Fall Sharply on Rising ICE Inventories",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-sharply-rising-ice-inventories",
+   "summary": "December ICE NY cocoa (CCZ26 ) is down -243 (-4.16%), and December ICE London cocoa #7 (CAZ26 ) is down -164 (-3.78%). Cocoa prices are sharply lower today on rising ICE cocoa inventories and technical selling as NY cocoa fell to a new 2-week low. ICE cocoa inventories have steadily...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:18:24+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -114,6 +174,40 @@
    "tag_v": 2
   },
   {
+   "id": "f255c2c692a7",
+   "title": "Coffee Prices Fall as ICE Coffee Inventories Rise",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-ice-coffee-inventories-rise",
+   "summary": "December arabica coffee (KCZ26 ) is down -3.85 (-1.22%), and November ICE robusta coffee (RMX26 ) is down -4.00 (-1.27%). Arabica coffee prices fell today after ICE arabica coffee inventories on Wednesday rose by 4,847 bags to 239,748 from Tuesday’s 5-week low of 234,901 bags. Wednesday’s inventory increase was consistent...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:14:09+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0eb07a8a64c2",
+   "title": "Stocks Fall Sharply on Risk-Off as Meta Slides -5%",
+   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-risk-meta-slides-5",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.15%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.19%. December E-mini S&amp;P futures (ESZ26 ) are down -1.36%, and December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:14:09+00:00",
+   "tickers": [
+    "META",
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "35b51ea08230",
    "title": "Earnings call transcript: Genomma Lab tops Q3 2026 forecasts as Mexico recovers",
    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-genomma-lab-tops-q3-2026-forecasts-as-mexico-recovers-93CH-4967166",
@@ -125,6 +219,48 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "aec1ca79b581",
+   "title": "Unibail-Rodamco-Westfield 9-Month Down 2.2%",
+   "link": "https://www.nasdaq.com/articles/unibail-rodamco-westfield-9-month-down-22",
+   "summary": "(RTTNews) - Unibail-Rodamco-Westfield (URW.PA) on Wednesday reported a 2.2% drop in total turnover for the first nine months of 2026 to &euro;2.23 billion from &euro;2.28 billion last year. On a like-for-like basis, turnover rose 2.4% for the period, supported by solid operating performanc",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:13:07+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f09d12f1f9e6",
+   "title": "Ready Capital Corporation - Corporate Bond Price Target Decreased by 17.50% to $31.42",
+   "link": "https://www.nasdaq.com/articles/ready-capital-corporation-corporate-bond-price-target-decreased-1750-3142",
+   "summary": "The average one-year price target for Ready Capital Corporation - Corporate Bond (NYSE:RCD) has been revised to $31.42 / share. This is a decrease of 17.50% from the prior estimate of $38.09 dated October 1, 2026. These figures represent aggregate analyst target",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:12:37+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8528460b03a3",
+   "title": "European Equities Fall On Multiple Headwinds Including Oil Spike",
+   "link": "https://www.nasdaq.com/articles/european-equities-fall-multiple-headwinds-including-oil-spike",
+   "summary": "(RTTNews) - European stocks closed notably lower on Thursday as concerns over spending on AI infrastructure, Middle East and Russia-Ukraine conflicts, and elevated oil prices hurt investors sentiment. Worries about French debt woes weighed as well.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:12:34+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -167,6 +303,62 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a3a646d00e25",
+   "title": "Outdoor Holding Company Amends Share Repurchase Program to Increase Authorization to $35.0 million and Extend Term to July 4, 2027",
+   "link": "https://www.nasdaq.com/articles/outdoor-holding-company-amends-share-repurchase-program-increase-authorization-350-million",
+   "summary": "On October 19, 2026, the Board of Directors of Outdoor Holding Company approved an amendment to the discretionary share repurchase program, originally authorized on January 4, 2026. The amendment increases the aggregate amount of outstanding common stock that may be repurchased u",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:09:17+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "1bf253a57e6d",
+   "title": "Otsuka Holdings Co., - Depositary Receipt Price Target Increased by 19.10% to $45.99",
+   "link": "https://www.nasdaq.com/articles/otsuka-holdings-co-depositary-receipt-price-target-increased-1910-4599",
+   "summary": "The average one-year price target for Otsuka Holdings Co., - Depositary Receipt (OTCPK:OTSKY) has been revised to $45.99 / share. This is an increase of 19.10% from the prior estimate of $38.61 dated June 8, 2026. These figures represent aggregate analyst target",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:09:07+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ea0de2ead09f",
+   "title": "Allot Ltd. Announces Results of Annual General Meeting of Shareholders Held on October 22, 2026",
+   "link": "https://www.nasdaq.com/articles/allot-ltd-announces-results-annual-general-meeting-shareholders-held-october-22-2026",
+   "summary": "Allot Ltd. announced the results of its Annual General Meeting of Shareholders held on October 22, 2026, at the Company's offices located at 22 Hanagar St., Neve Ne'eman Industrial Zone B, Hod-Hasharon 45240, Israel. Only shareholders of record at the close of business on Septemb",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:09:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "00dfb707494c",
+   "title": "Data443 Risk Mitigation, Inc. Launches Convaa.ai AI Collaboration Platform",
+   "link": "https://www.nasdaq.com/articles/data443-risk-mitigation-inc-launches-convaaai-ai-collaboration-platform",
+   "summary": "Data443 Risk Mitigation, Inc. announced the general availability of Convaa.ai, its enterprise artificial intelligence multi-party collaboration platform. The platform is designed for regulated mid-size and large enterprises, typically with 1,000 to 25,000 employees, including fin",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:08:51+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -218,22 +410,6 @@
    "tag_v": 2
   },
   {
-   "id": "f255c2c692a7",
-   "title": "Coffee Prices Fall as ICE Coffee Inventories Rise",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-ice-coffee-inventories-rise",
-   "summary": "December arabica coffee (KCZ26 ) is down -3.85 (-1.22%), and November ICE robusta coffee (RMX26 ) is down -4.00 (-1.27%). Arabica coffee prices fell today after ICE arabica coffee inventories on Wednesday rose by 4,847 bags to 239,748 from Tuesday’s 5-week low of 234,901 bags. Wednesday’s inventory increase was consistent...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T18:07:16+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "c5b2ace8f3a8",
    "title": "PAR Technology Corporation Announces Release Date and Conference Call Information for 2026 Third Quarter Financial Results | PAR Stock News",
    "link": "https://www.stocktitan.net/news/PAR/par-technology-corporation-announces-release-date-and-conference-fsktsgb48m8c.html",
@@ -244,6 +420,20 @@
    "published": "2026-10-22T18:07:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "63938b20883f",
+   "title": "The Best Stock to Invest $2,500 in Right Now",
+   "link": "https://www.nasdaq.com/articles/best-stock-invest-2500-right-now",
+   "summary": "Key PointsAmericans are expected to buy only 16 million cars and trucks in 2026, a million fewer than before 2020.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:07:00+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -293,6 +483,39 @@
    "tag_v": 2
   },
   {
+   "id": "485f9983c395",
+   "title": "e.l.f. Beauty vs. Monster Beverage: Here's What Their Revenue Trends Tell Investors About These High-Growth Consumer Companies",
+   "link": "https://www.nasdaq.com/articles/elf-beauty-vs-monster-beverage-heres-what-their-revenue-trends-tell-investors-about-these",
+   "summary": "Key PointsMonster Beverage produces a larger absolute revenue figure across the past eight quarters, although e.l.f. Beauty displays a faster trajectory of relative growth.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:05:55+00:00",
+   "tickers": [
+    "MNST",
+    "ELF"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "39faab85a18e",
+   "title": "Why Micron Stock Is Falling Hard Today",
+   "link": "https://www.nasdaq.com/articles/why-micron-stock-falling-hard-today",
+   "summary": "Key PointsInvestors are increasingly concerned about the high levels of AI spending.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:05:49+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b24b48529350",
    "title": "Global Payments to Report Third-Quarter Results on November 5, 2026 | GPN Stock News",
    "link": "https://www.stocktitan.net/news/GPN/global-payments-to-report-third-quarter-results-on-november-5-0adv36lddafj.html",
@@ -305,6 +528,23 @@
     "GPN"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8b615f2977c6",
+   "title": "Taiwan Semiconductor and ASML Are Incredible, but 1 of These Monopoly Chip Stocks Is Far Safer.",
+   "link": "https://www.nasdaq.com/articles/taiwan-semiconductor-and-asml-are-incredible-1-these-monopoly-chip-stocks-far-safer",
+   "summary": "Key PointsASML is the only company on Earth with its advanced technology.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:05:00+00:00",
+   "tickers": [
+    "ASML",
+    "TSM"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -385,17 +625,47 @@
    "tag_v": 2
   },
   {
-   "id": "55270ed7ef25",
-   "title": "Crude Oil Prices Rise on Saudi Tensions",
-   "link": "https://www.nasdaq.com/articles/crude-oil-prices-rise-saudi-tensions",
-   "summary": "December WTI crude oil (CLZ26 ) is up +1.22 (+1.26%), and December RBOB gasoline (RBZ26 ) is up +0.0223 (+0.73%). Crude oil prices are higher today due to tensions in Saudi Arabia, where the Houthi militia in the past two days has launched additional attacks against Saudi infrastructure targets like...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "id": "3fddf6cda897",
+   "title": "Sonoco (SON) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/sonoco-son-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
-   "published": "2026-10-22T18:01:34+00:00",
+   "published": "2026-10-22T18:01:23+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2bfbf2f82e42",
+   "title": "Southern Missouri Bancorp (SMBC) Q1 2027 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/southern-missouri-bancorp-smbc-q1-2027-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:01:23+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6d45713a950d",
+   "title": "ARMOUR (ARR) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/armour-arr-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:01:23+00:00",
+   "tickers": [
+    "ARR"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -440,6 +710,22 @@
    ],
    "type": "analyst",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9e3a83b1c203",
+   "title": "L'Oréal 9-Month Sales Rise 7.7%",
+   "link": "https://www.nasdaq.com/articles/loreal-9-month-sales-rise-77",
+   "summary": "(RTTNews) - L'Or&eacute;al SA (LRLCY.PK, OR.PA, LOR.DE) reported on Wednesday nine-month 2026 sales of &euro;35.34 billion, up 7.7% year on year from &euro;32.81 billion. Like-for-like growth was 6.9%, as the beauty group continued to outperform the global market.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T18:00:02+00:00",
+   "tickers": [
+    "DE"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -533,6 +819,52 @@
    "tag_v": 2
   },
   {
+   "id": "4920fffdf821",
+   "title": "Quest Diagnostics (DGX) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/quest-diagnostics-dgx-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T17:59:38+00:00",
+   "tickers": [
+    "DGX"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7feab64dee8b",
+   "title": "MSC Industrial (MSM) Q4 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/msc-industrial-msm-q4-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T17:59:38+00:00",
+   "tickers": [
+    "MSM"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9076c569982d",
+   "title": "Insteel (IIIN) Q4 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/insteel-iiin-q4-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T17:59:37+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "7b39d00f698a",
    "title": "President Trump considers next steps in Iran war as tensions escalate",
    "link": "https://www.cnbc.com/video/2026/10/22/president-trump-considers-next-steps-in-iran-war-as-tensions-escalate.html",
@@ -618,24 +950,6 @@
    ],
    "type": "press",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "0eb07a8a64c2",
-   "title": "Stocks Fall Sharply on Risk-Off as Meta Slides -5%",
-   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-risk-meta-slides-5",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.15%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.19%. December E-mini S&amp;P futures (ESZ26 ) are down -1.36%, and December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T17:55:35+00:00",
-   "tickers": [
-    "META",
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -819,6 +1133,22 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "76c86e5f68a3",
+   "title": "Groupe ADP Reports 9-Month Revenue Rise",
+   "link": "https://www.nasdaq.com/articles/groupe-adp-reports-9-month-revenue-rise",
+   "summary": "(RTTNews) - A&eacute;roports de Paris SA (ADP.PA) on Thursday, reported higher revenue for the first nine months of 2026, supported by growth in its international activities despite a challenging operating environment.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T17:51:38+00:00",
+   "tickers": [
+    "ADP"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -5251,7 +5581,7 @@
   },
   {
    "id": "ec1df50d4cc8",
-   "title": "Low-cost airline Avelo exits two markets",
+   "title": "Low-cost airline Avelo exits entire markets",
    "link": "https://www.thestreet.com/travel/low-cost-airline-avelo-exits-two-markets",
    "summary": "The Houston-based airline previously landed in controversy over the choice to run ICE deportation flights.",
    "source": "TheStreet",
@@ -5930,6 +6260,20 @@
    "published": "2026-10-22T15:19:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4be789d769bf",
+   "title": "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their livelihoods - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTG5DcHRNNURGcnp2YVRHWDBVdUQ0UzlxRndZMUtwMzlGT05UX0wxV1dFZnBWNGlCTDdhT0xxNzR3djc2bnpQRWxEV2dIS3hOTnoxc3lYdUhERmtoaXZJVVp2QWhCbk1YYUwxNzNrdzBKMUVyTHh1dGcyU0JtbmNMb0NxcVZmX2Rmd0dmdmliS0VkNm1yWFFFWjZRNjVlR01tRDNNYnZn?oc=5",
+   "summary": "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their livelihoods&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-22T15:19:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8729,364 +9073,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "1589ba043f76",
-   "title": "Pega Named a Leader in AppGen and Low-Code Platforms by Independent Research Firm | PEGA Stock News",
-   "link": "https://www.stocktitan.net/news/PEGA/pega-named-a-leader-in-app-gen-and-low-code-platforms-by-independent-xeii8xx4fohc.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T14:13:00+00:00",
-   "tickers": [
-    "PEGA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7c237d602a9b",
-   "title": "SpaceX Just Crushed Wall Street's Q3 Targets -- but a Potential Tesla Merger Is Even Bigger News",
-   "link": "https://www.nasdaq.com/articles/spacex-just-crushed-wall-streets-q3-targets-potential-tesla-merger-even-bigger-news",
-   "summary": "Key PointsSpaceX's sales and earnings in Q3 far exceeded Wall Street's expectations.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T14:11:27+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d26e3b41cb51",
-   "title": "Blackstone's Jon Gray says CoreWeave can 'find a way through' financing pressure",
-   "link": "https://www.cnbc.com/2026/10/22/blackstone-jon-gray-coreweave-financing.html",
-   "summary": "Blackstone COO Jon Gray says CoreWeave's underlying business is strong despite concerns over its mounting debt.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-22T14:11:14+00:00",
-   "tickers": [
-    "BX",
-    "CRWV"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "63770f4cae87",
-   "title": "TD Cowen Initiates Coverage of Ameren with Hold",
-   "link": "https://www.nasdaq.com/articles/td-cowen-initiates-coverage-ameren-hold",
-   "summary": "Fintel reports that on October 22, 2026, TD Cowen initiated coverage of Ameren (NYSE:AEE) (DB:AE4) with a Hold recommendation.Prior to this rating action, Ameren's stock closed at $106.48 on October 21, 2026. This latest close represents a price change of +1.82% over the precedin",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T14:10:40+00:00",
-   "tickers": [
-    "AEE",
-    "DB"
-   ],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ee3ceda6d41b",
-   "title": "Elektros Explores a Bold Domestic Supply Vision for the Next Era of American Energy | ELEK Stock News",
-   "link": "https://www.stocktitan.net/news/ELEK/elektros-explores-a-bold-domestic-supply-vision-for-the-next-era-of-1ouxg0z6nggo.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T14:10:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "61b40f15bbdc",
-   "title": "How much MSFT stock does Microsoft CEO Satya Nadella actually own?",
-   "link": "https://www.thestreet.com/personalities/how-much-msft-stock-does-microsoft-ceo-satya-nadella-actually-own",
-   "summary": "Satya Nadella transformed Microsoft into a Cloud and AI powerhouse. But compared with his predecessors, his stake in the company is surprisingly small.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-22T14:07:02+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "91171c182dba",
-   "title": "Verizon customers face monthly fee for new iPhone feature",
-   "link": "https://www.thestreet.com/retail/verizon-iphone-handoff-10-dollar-monthly-fee",
-   "summary": "Verizon is charging more than T-Mobile for a new iPhone feature, and some consumers aren’t happy.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-22T14:07:00+00:00",
-   "tickers": [
-    "VZ",
-    "AAPL"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "15e3c1ba6832",
-   "title": "Beyond Green Expands Its Global Portfolio With New Members in Costa Rica and Spain",
-   "link": "https://markets.businessinsider.com/news/stocks/beyond-green-expands-its-global-portfolio-with-new-members-in-costa-rica-and-spain-1036655089",
-   "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;em&gt;SUMMARY:&lt;/em&gt;&lt;em&gt; Beyond Green has welcomed two new member hotels, El Silencio Lodge Spa in Costa Rica and Hotel M&#243;n Sant Benet in Spain, to its global portfolio. Both exemplify a commitment to environmental stewardship, cultural heritage and...",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-10-22T14:05:28+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "0afd1ad61012",
-   "title": "Vera Therapeutics Announces Positive ORIGIN 3 Final Efficacy Analysis of TRUTAKNA™ (atacicept-vymj) in IgA Nephropathy Presented at ASN Kidney Week 2026 and Published in the New England Journal of Medicine | VERA Stock News",
-   "link": "https://www.stocktitan.net/news/VERA/vera-therapeutics-announces-positive-origin-3-final-efficacy-653adjcg4tbt.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T14:05:00+00:00",
-   "tickers": [
-    "VERA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3877315183d0",
-   "title": "Vera Therapeutics Announces Positive ORIGIN 3 Final Efficacy Analysis of TRUTAKNA™ (atacicept-vymj) in IgA Nephropathy Presented at ASN Kidney Week 2026 and Published in the New England Journal of...",
-   "link": "https://markets.businessinsider.com/news/stocks/vera-therapeutics-announces-positive-origin-3-final-efficacy-analysis-of-trutakna-atacicept-vymj-in-iga-nephropathy-presented-at-asn-kidney-week-2026-and-published-in-the-new-england-journal-of-1036655088",
-   "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;ul type=&quot;disc&quot;&gt;&lt;li style=&quot;margin-top:6pt;&quot;&gt;&lt;em&gt;TRUTAKNA, the first and only FDA-approved BAFF and APRIL inhibitor, achieved statistical significance in all prespecified endpoints, including eGFR change from baseline and annualized slope, and risk...",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-10-22T14:05:00+00:00",
-   "tickers": [
-    "VERA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "df6150687e6c",
-   "title": "Nvidia, Apple, Alphabet, Microsoft, and Amazon Now Make Up 30.8% of VOO and 49.2% of VUG. Here's a Better Low-Cost Vanguard ETF to Buy Now.",
-   "link": "https://www.nasdaq.com/articles/nvidia-apple-alphabet-microsoft-and-amazon-now-make-308-voo-and-492-vug-heres-better-low",
-   "summary": "Key PointsThe U.S. is home to the world&rsquo;s leading technology companies, which significantly impact its stock market indexes.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T14:05:00+00:00",
-   "tickers": [
-    "MSFT",
-    "GOOG",
-    "AMZN",
-    "AAPL"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6da192b571ad",
-   "title": "Bloom Energy vs. Constellation Energy: Which AI Power Stock Is the Better Buy?",
-   "link": "https://www.nasdaq.com/articles/bloom-energy-vs-constellation-energy-which-ai-power-stock-better-buy",
-   "summary": "Key PointsAI data centers need enormous amounts of reliable power.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T14:05:00+00:00",
-   "tickers": [
-    "CEG"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b7937c197d4d",
-   "title": "L3Harris Technologies, Inc. Appoints Kimberly Fields to Board of Directors on October 21, 2026",
-   "link": "https://www.nasdaq.com/articles/l3harris-technologies-inc-appoints-kimberly-fields-board-directors-october-21-2026",
-   "summary": "On October 21, 2026, the Board of Directors of L3Harris Technologies, Inc. increased the authorized number of directors constituting the Board from eleven to twelve and appointed Kimberly Fields as an independent director. Ms. Fields&rsquo; initial term commenced October 21, 2026",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T14:04:16+00:00",
-   "tickers": [
-    "LHX"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d1222ef654d5",
-   "title": "Dow Inc. Reports Third Quarter 2026 Net Sales of $11.3 Billion and GAAP Net Income of $525 Million",
-   "link": "https://www.nasdaq.com/articles/dow-inc-reports-third-quarter-2026-net-sales-113-billion-and-gaap-net-income-525-million",
-   "summary": "Dow Inc. reported net sales of $11.3 billion for the third quarter of 2026, representing an increase of 13% year-over-year. This growth reflected increases across all operating segments, with local price up 14% compared to the year-ago period, led by gains in Packaging &amp; Spec",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T14:04:15+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2332f1f9ac75",
-   "title": "ZwitterCo gibt strategische Investition von Ecolab zur Förderung der Wasserkreislaufwirtschaft bekannt",
-   "link": "https://www.prnewswire.com/news-releases/zwitterco-gibt-strategische-investition-von-ecolab-zur-forderung-der-wasserkreislaufwirtschaft-bekannt-302917072.html",
-   "summary": "Investitionen ermöglichen es Unternehmen, gemeinsam an fortschrittlichen Lösungen für die Wiederverwendung von Wasser und die Kreislaufwirtschaft für Lebensmittel- und Getränkehersteller zu arbeiten. WOBURN, Massachusetts, 22. Oktober 2026 /PRNewswire/ -- Heute gab ZwitterCo, ein...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T14:04:00+00:00",
-   "tickers": [
-    "ECL"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-22T14:03:09+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9756552ad885",
-   "title": "Where Will Oracle Stock Be in 2029?",
-   "link": "https://www.nasdaq.com/articles/where-will-oracle-stock-be-2029",
-   "summary": "Key PointsOracle stock has dropped substantially over the past year, but it can step on the gas due to its strong backlog.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T14:03:02+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "750d72b044fd",
-   "title": "Urology Care Foundation Names Gopal H. Badlani, MD, as Next President",
-   "link": "https://markets.businessinsider.com/news/stocks/urology-care-foundation-names-gopal-h-badlani-md-as-next-president-1036655087",
-   "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;BALTIMORE, Oct. 22, 2026 (GLOBE NEWSWIRE) -- The Urology Care Foundation, the official foundation of the American Urological Association&#174;, today announced that longtime Foundation leader and supporter Gopal H. Badlani, MD, has been elected its...",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-10-22T14:03:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6ad3402fa503",
-   "title": "Sturgis Bancorp, Inc. Reports Financial Results for Third Quarter 2026 | STBI Stock News",
-   "link": "https://www.stocktitan.net/news/STBI/sturgis-bancorp-inc-reports-financial-results-for-third-quarter-zzrmp68vzkhi.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T14:02:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2eebbbb04c08",
-   "title": "ZwitterCo annonce un investissement stratégique d'Ecolab pour favoriser l'économie circulaire de l'eau",
-   "link": "https://www.prnewswire.com/news-releases/zwitterco-annonce-un-investissement-strategique-decolab-pour-favoriser-leconomie-circulaire-de-leau-302917066.html",
-   "summary": "Cet investissement permet aux entreprises de collaborer sur des solutions avancées de réutilisation de l'eau et d'économie circulaire pour les fabricants de produits alimentaires et de boissons. WOBURN, Mass., 22 octobre 2026 /PRNewswire/ -- Aujourd'hui, ZwitterCo, un fournisseur de...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T14:01:00+00:00",
-   "tickers": [
-    "ECL"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3640761fcd48",
-   "title": "EQS-PVR: AIXTRON SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
-   "link": "https://markets.businessinsider.com/news/stocks/eqs-pvr-aixtron-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036655090",
-   "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt; EQS Voting Rights Announcement: AIXTRON SE &lt;br/&gt; AIXTRON SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution &lt;br/&gt;&lt;br/&gt; 22.10.2026 / 16:00 CET/CEST&lt;br/&gt; Dissemination of a Voting Rights Announcement...",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-10-22T14:00:01+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "db65b453f2e5",
-   "title": "Texas Instruments Announces the TI-Rover BT: Bringing Math to Life with a Calculator-Controlled Robotic Vehicle | TXN Stock News",
-   "link": "https://www.stocktitan.net/news/TXN/texas-instruments-announces-the-ti-rover-bt-bringing-math-to-life-h5v9u2efcn02.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T14:00:00+00:00",
-   "tickers": [
-    "TXN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "69b3301612ad",
-   "title": "Ubique Group and Martha Stewart Introduce Martha Stewart's First Modular Living-Room Collection | PSEC Stock News",
-   "link": "https://www.stocktitan.net/news/PSEC/ubique-group-and-martha-stewart-introduce-martha-stewart-s-first-c4p6tf741w8i.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T14:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9118,6 +9104,7 @@
   "APD": "Air Products and Chemicals",
   "AWI": "Armstrong World Industries",
   "ORI": "Old Republic International",
+  "ADP": "Automatic Data Processing",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "BFH": "Bread Financial Holdings",
@@ -9137,7 +9124,6 @@
   "FLUT": "Flutter Entertainment",
   "IONS": "Ionis Pharmaceuticals",
   "KEYS": "Keysight Technologies",
-  "LHX": "L3Harris Technologies",
   "LSCC": "Lattice Semiconductor",
   "MSM": "MSC Industrial Direct",
   "PB": "Prosperity Bancshares",
@@ -9145,7 +9131,6 @@
   "ALHC": "Alignment Healthcare",
   "AMP": "Ameriprise Financial",
   "AWK": "American Water Works",
-  "CEG": "Constellation Energy",
   "CRS": "Carpenter Technology",
   "EGP": "EastGroup Properties",
   "EW": "Edwards Lifesciences",
@@ -9165,6 +9150,7 @@
   "SCHW": "The Charles Schwab",
   "SPOT": "Spotify Technology",
   "CL": "Colgate-Palmolive",
+  "DGX": "Quest Diagnostics",
   "GIL": "Gildan Activewear",
   "JNJ": "Johnson & Johnson",
   "LNTH": "Lantheus Holdings",
@@ -9176,7 +9162,6 @@
   "RIVN": "Rivian Automotive",
   "RSG": "Republic Services",
   "TXN": "Texas Instruments",
-  "VERA": "Vera Therapeutics",
   "AR": "Antero Resources",
   "BMO": "Bank of Montreal",
   "CENX": "Century Aluminum",
@@ -9184,6 +9169,7 @@
   "FCX": "Freeport-McMoRan",
   "JPM": "JPMorgan Chase &",
   "MEDP": "Medpace Holdings",
+  "MNST": "Monster Beverage",
   "NSC": "Norfolk Southern",
   "RCAT": "Red Cat Holdings",
   "TTMI": "TTM Technologies",
@@ -9219,6 +9205,7 @@
   "RPRX": "Royalty Pharma",
   "TSCO": "Tractor Supply",
   "AVAV": "AeroVironment",
+  "ELF": "e.l.f. Beauty",
   "HSBC": "HSBC Holdings",
   "KMI": "Kinder Morgan",
   "KO": "The Coca-Cola",
@@ -9226,6 +9213,7 @@
   "UNP": "Union Pacific",
   "VLO": "Valero Energy",
   "PINS": "Pinterest Inc",
+  "ASML": "ASML Holding",
   "CCI": "Crown Castle",
   "DVN": "Devon Energy",
   "HRL": "Hormel Foods",
@@ -9243,7 +9231,6 @@
   "DHI": "D.R. Horton",
   "FSLR": "First Solar",
   "MORN": "Morningstar",
-  "PEGA": "Pegasystems",
   "ULTA": "Ulta Beauty",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
@@ -9299,7 +9286,6 @@
   "NFLX": "Netflix",
   "SPY": "SPY ETF",
   "ABNB": "Airbnb",
-  "AEE": "Ameren",
   "ECL": "Ecolab",
   "EXC": "Exelon",
   "FISV": "Fiserv",
