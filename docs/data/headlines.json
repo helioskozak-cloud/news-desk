@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-22T15:11:34.891445+00:00",
+ "generated": "2026-10-22T15:13:23.688612+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5cbc6c91b06e",
+   "title": "What to know about the PHP bug affecting 70% of world's websites",
+   "link": "https://www.cbsnews.com/news/php2shell-vulnerability-ai-security-flaw/",
+   "summary": "AI was used to uncover a security weakness that affects most of the world's websites, researchers said. Here's what internet users should know.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-10-22T15:11:01+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "7cfc3852b49f",
    "title": "Click Holdings Limited (NASDAQ: CLIK) Reports Record Full-Year Results: Revenue, Gross Profit and Net Income Hit New Highs; Every Segment Delivers Record Revenue | CLIK Stock News",
@@ -18,6 +32,22 @@
    "tag_v": 2
   },
   {
+   "id": "9f3044313718",
+   "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+   "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+   "summary": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T15:08:47+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "9aeff4474029",
    "title": "National Blood Clot Alliance Applauds Senator Blunt Rochester's Call for NFL Blood Clot Protocols; Urges Congress to Fund National Blood Clot Education and Awareness Program",
    "link": "https://www.prnewswire.com/news-releases/national-blood-clot-alliance-applauds-senator-blunt-rochesters-call-for-nfl-blood-clot-protocols-urges-congress-to-fund-national-blood-clot-education-and-awareness-program-302917142.html",
@@ -30,6 +60,20 @@
     "DE"
    ],
    "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "24d03f83822c",
+   "title": "Investors Are Rotating Out of Tech Funds. How to Know if You Should Do the Same",
+   "link": "https://www.nasdaq.com/articles/investors-are-rotating-out-tech-funds-how-know-if-you-should-do-same",
+   "summary": "Key PointsA rotation is not an automatic signal to sell your holdings.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T15:05:00+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -334,64 +378,6 @@
     "PEP"
    ],
    "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "09222a115c14",
-   "title": "Cotton Slipping Back on Thursday Morning",
-   "link": "https://www.nasdaq.com/articles/cotton-slipping-back-thursday-morning-1",
-   "summary": "Cotton prices are down 47 to 62 points on Thursday. Futures posted gains on the Wednesday session, with contracts up 94 to 102 points in the front months and other contracts 1 to 17 points higher. Crude was down just 11 cents per barrel on the session, with the US...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T14:57:45+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5adf5c2c0601",
-   "title": "Wheat Holding on the Lower Side of Unchanged to Start Thursday",
-   "link": "https://www.nasdaq.com/articles/wheat-holding-lower-side-unchanged-start-thursday",
-   "summary": "Wheat is trading with just modest losses on Thursday morning, following midweek losses. The wheat complex saw Wednesday weakness across the three markets, pressured by Black Sea news. Chicago SRW contracts fell 7 ½ to 16 ½ cents at the close. Open interest suggested new selling interest, rising 4,512 contracts....",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T14:57:44+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "9d0704d09cf1",
-   "title": "Cattle Bulls Look to Extend Rally on Wednesday",
-   "link": "https://www.nasdaq.com/articles/cattle-bulls-look-extend-rally-wednesday",
-   "summary": "Live cattle futures posted strength on Wednesday, with contracts up 77 cents to $1.07 at the close, with some contracts more than $1 off the intraday highs. Open interest was up 1,751 contracts, suggesting some new buying interest. Cash trade has yet to be reported this week. The Wednesday Fed...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T14:57:44+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "2827124c4543",
-   "title": "Hogs Look to Thursday After New Selling on Wednesday",
-   "link": "https://www.nasdaq.com/articles/hogs-look-thursday-after-new-selling-wednesday",
-   "summary": "Lean hog futures closed the Wednesday session with contracts down 62 cents to $1.42 lower across the board. Open interest was up 1,522 contracts on Wednesday, suggesting new selling. USDA’s national base hog price was up $1.76 from the day prior in the Wednesday PM report at $67.70. The CME...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T14:57:44+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -885,22 +871,6 @@
    "tag_v": 2
   },
   {
-   "id": "a68e47893003",
-   "title": "MULL: Large Outflows Detected at ETF",
-   "link": "https://www.nasdaq.com/articles/mull-large-outflows-detected-etf",
-   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the GraniteShares 2x Long MU Daily ETF (Symbol: MULL) where we have detected an approximate $237.4 million dollar outflow -- that's a 32.9% decrease wee",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T14:50:24+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "88d0e18d9676",
    "title": "Muse will be a 'transformative product' for Meta, says Guggenheim Securities' Michael Morris",
    "link": "https://www.cnbc.com/video/2026/10/22/muse-will-be-a-transformative-product-for-meta-says-guggenheim-securities-michael-morris.html",
@@ -1184,6 +1154,20 @@
    "tickers": [
     "COHR"
    ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "09222a115c14",
+   "title": "Cotton Slipping Back on Thursday Morning",
+   "link": "https://www.nasdaq.com/articles/cotton-slipping-back-thursday-morning-1",
+   "summary": "Cotton prices are down 47 to 62 points on Thursday. Futures posted gains on the Wednesday session, with contracts up 94 to 102 points in the front months and other contracts 1 to 17 points higher. Crude was down just 11 cents per barrel on the session, with the US...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T14:40:51+00:00",
+   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -1785,6 +1769,50 @@
    "tag_v": 2
   },
   {
+   "id": "5adf5c2c0601",
+   "title": "Wheat Holding on the Lower Side of Unchanged to Start Thursday",
+   "link": "https://www.nasdaq.com/articles/wheat-holding-lower-side-unchanged-start-thursday",
+   "summary": "Wheat is trading with just modest losses on Thursday morning, following midweek losses. The wheat complex saw Wednesday weakness across the three markets, pressured by Black Sea news. Chicago SRW contracts fell 7 ½ to 16 ½ cents at the close. Open interest suggested new selling interest, rising 4,512 contracts....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T14:27:37+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "9d0704d09cf1",
+   "title": "Cattle Bulls Look to Extend Rally on Wednesday",
+   "link": "https://www.nasdaq.com/articles/cattle-bulls-look-extend-rally-wednesday",
+   "summary": "Live cattle futures posted strength on Wednesday, with contracts up 77 cents to $1.07 at the close, with some contracts more than $1 off the intraday highs. Open interest was up 1,751 contracts, suggesting some new buying interest. Cash trade has yet to be reported this week. The Wednesday Fed...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T14:27:37+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "2827124c4543",
+   "title": "Hogs Look to Thursday After New Selling on Wednesday",
+   "link": "https://www.nasdaq.com/articles/hogs-look-thursday-after-new-selling-wednesday",
+   "summary": "Lean hog futures closed the Wednesday session with contracts down 62 cents to $1.42 lower across the board. Open interest was up 1,522 contracts on Wednesday, suggesting new selling. USDA’s national base hog price was up $1.76 from the day prior in the Wednesday PM report at $67.70. The CME...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T14:27:36+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "73a6efc73886",
    "title": "Soybeans Trading with Thursday AM Gains",
    "link": "https://www.nasdaq.com/articles/soybeans-trading-thursday-am-gains",
@@ -1923,15 +1951,15 @@
    "title": "Nasdaq 100 Movers: LRCX, HONIV",
    "link": "https://www.nasdaq.com/articles/nasdaq-100-movers-lrcx-honiv",
    "summary": "In early trading on Thursday, shares of Honeywell International topped the list of the day's best performing components of the Nasdaq 100 index, trading up 7.5%. Year to date, Honeywell International registers a 42.2% gain. And the worst performing Nasdaq 100 component thus fa",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-22T14:22:27+00:00",
    "tickers": [
     "HON",
     "LRCX"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2033,15 +2061,15 @@
    "title": "S&P 500 Movers: LRCX, LMT",
    "link": "https://www.nasdaq.com/articles/sp-500-movers-lrcx-lmt",
    "summary": "In early trading on Thursday, shares of Lockheed Martin topped the list of the day's best performing components of the S&amp;P 500 index, trading up 9.4%. Year to date, Lockheed Martin registers a 24.8% gain. And the worst performing S&amp;P 500 component thus far on the day i",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-22T14:19:13+00:00",
    "tickers": [
     "LMT",
     "LRCX"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3189,6 +3217,54 @@
    ],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a615127bcc87",
+   "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Zscaler, Inc. - ZS",
+   "link": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-zscaler-inc---zs-302916550.html",
+   "summary": "NEW YORK, Oct. 22, 2026 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Zscaler, Inc. (\"Zscaler\" or the \"Company\") (NASDAQ: ZS). Such investors are advised to contact Danielle Peyton at newaction@pomlaw.com or 646-581-9980, ext. 7980. The investigation...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T14:00:00+00:00",
+   "tickers": [
+    "ZS"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "61fcf9f67182",
+   "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Kinross Gold Corporation - KGC",
+   "link": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-kinross-gold-corporation---kgc-302916543.html",
+   "summary": "NEW YORK, Oct. 22, 2026 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Kinross Gold Corporation (\"Kinross\" or the \"Company\") (NYSE: KGC). Such investors are advised to contact Danielle Peyton at newaction@pomlaw.com or 646-581-9980, ext. 7980. The...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T14:00:00+00:00",
+   "tickers": [
+    "KGC"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "34aff864c14d",
+   "title": "BMO Named One of America's Most Trusted Companies by Forbes for Second Consecutive Year",
+   "link": "https://www.prnewswire.com/news-releases/bmo-named-one-of-americas-most-trusted-companies-by-forbes-for-second-consecutive-year-302914705.html",
+   "summary": "Recognition reflects BMO's commitment to earning trust with clients, employees, and communities CHICAGO, Oct. 22, 2026 /PRNewswire/ -- BMO has been named to the Forbes 2027 list of America's Most Trusted Companies, marking the second consecutive year the bank has earned the recognition....",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T14:00:00+00:00",
+   "tickers": [
+    "BMO"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8069,6 +8145,20 @@
    "tag_v": 2
   },
   {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-22T12:18:15+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "e412adaf42f6",
    "title": "Norfolk Southern Corp Reveals Climb In Q3 Bottom Line",
    "link": "https://www.nasdaq.com/articles/norfolk-southern-corp-reveals-climb-q3-bottom-line",
@@ -8970,96 +9060,6 @@
    "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "4120b1885a10",
-   "title": "Home State Health, McCormack Baron Salazar and Urban Strategies, Inc. Announce Preservation Square Community Partnership to Support Families with Services, Economic Opportunity | CNC Stock News",
-   "link": "https://www.stocktitan.net/news/CNC/home-state-health-mc-cormack-baron-salazar-and-urban-strategies-inc-z39k9mrtjpyq.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T12:00:00+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ea6e33e09b6d",
-   "title": "Heritage Financial Announces Third Quarter 2026 Results and Declares Regular Cash Dividend of $0.25 Per Share | HFWA Stock News",
-   "link": "https://www.stocktitan.net/news/HFWA/heritage-financial-announces-third-quarter-2026-results-and-declares-9tr8lty0lkhu.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T12:00:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3890f43929c8",
-   "title": "Ribbon Communications Names Industry Veteran Priyanka Kharat to Accelerate Acumen Growth and AI Strategy | RBBN Stock News",
-   "link": "https://www.stocktitan.net/news/RBBN/ribbon-communications-names-industry-veteran-priyanka-kharat-to-88886p3sapj1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8f04b282917d",
-   "title": "Manulife to Release Third Quarter 2026 Results | MFC Stock News",
-   "link": "https://www.stocktitan.net/news/MFC/manulife-to-release-third-quarter-2026-7zyzcj12kjoh.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T12:00:00+00:00",
-   "tickers": [
-    "MFC"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d4afb0c3cc42",
-   "title": "Xeris Biopharma to Report Third Quarter 2026 Financial Results and Business Highlights on November 5, 2026 | XERS Stock News",
-   "link": "https://www.stocktitan.net/news/XERS/xeris-biopharma-to-report-third-quarter-2026-financial-results-and-i4ks2tquvw2b.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T12:00:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "80be2d2513f8",
-   "title": "Gilead to Present New Data on Treatment Response and Long-Term Management of Rare Liver Diseases at The Liver Meeting® 2026 | GILD Stock News",
-   "link": "https://www.stocktitan.net/news/GILD/gilead-to-present-new-data-on-treatment-response-and-long-term-gmrfxw0f2fgb.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T12:00:00+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9133,7 +9133,6 @@
   "SRAD": "Sportradar Group AG",
   "HIMS": "Hims & Hers Health",
   "LUV": "Southwest Airlines",
-  "MFC": "Manulife Financial",
   "MRVL": "Marvell Technology",
   "MSI": "Motorola Solutions",
   "ROP": "Roper Technologies",
@@ -9193,6 +9192,7 @@
   "CCI": "Crown Castle",
   "HRL": "Hormel Foods",
   "IREN": "IREN Limited",
+  "KGC": "Kinross Gold",
   "KLAR": "Klarna Group",
   "LRCX": "Lam Research",
   "MO": "Altria Group",
@@ -9264,6 +9264,7 @@
   "WIX": "Wix.com",
   "WMT": "Walmart",
   "NFLX": "Netflix",
+  "ZS": "Zscaler",
   "SPY": "SPY ETF",
   "ABBV": "AbbVie",
   "ABNB": "Airbnb",
