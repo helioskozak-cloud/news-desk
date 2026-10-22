@@ -1,8 +1,25 @@
 {
- "generated": "2026-10-22T06:36:03.096015+00:00",
+ "generated": "2026-10-22T06:41:10.534722+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8c276b3c9332",
+   "title": "Stock futures fall as investors digest earnings from Meta and Tesla: Live updates",
+   "link": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
+   "summary": "The S&amp;P 500 posted a three-day winning streak on Wednesday, and the Nasdaq Composite rose as Tesla and SpaceX rallied.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T06:36:21+00:00",
+   "tickers": [
+    "TSLA",
+    "META"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "4abd1b4db0f2",
    "title": "Earnings call transcript: Arjo posts stronger Q3 2026 profit, stock edges up",
@@ -29,23 +46,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8c276b3c9332",
-   "title": "Stock futures fall as investors digest earnings from Meta and Tesla: Live updates",
-   "link": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
-   "summary": "The S&amp;P 500 posted a three-day winning streak on Wednesday, and the Nasdaq Composite rose as Tesla and SpaceX rallied.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-22T06:32:12+00:00",
-   "tickers": [
-    "TSLA",
-    "META"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2604,20 +2604,6 @@
    "tag_v": 2
   },
   {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-22T03:15:40+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "b1024b65e975",
    "title": "Workday prices $2.5 billion senior notes offering",
    "link": "https://www.investing.com/news/company-news/workday-prices-25-billion-senior-notes-offering-93CH-4964591",
@@ -3870,6 +3856,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-22T01:24:57+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
