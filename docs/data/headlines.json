@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T00:11:38.676126+00:00",
+ "generated": "2026-10-22T00:16:05.745748+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -149,6 +149,24 @@
    "domain": "investing.com",
    "published": "2026-10-21T23:50:14+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4eadcb4404a4",
+   "title": "Cathie Wood Trimmed Ark's Alphabet Stake Even as Google Search Revenue Grew, While Ark Piled Into Rocket Lab Even After Its Neutron Launch Delay. Is Ark Betting Against the Wrong AI Winner?",
+   "link": "https://www.nasdaq.com/articles/cathie-wood-trimmed-arks-alphabet-stake-even-google-search-revenue-grew-while-ark-piled",
+   "summary": "Key PointsCathie Wood continued buying Rocket Lab shares despite the delay of Neutron's inaugural launch until 2027.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T23:50:00+00:00",
+   "tickers": [
+    "RKLB",
+    "GOOG",
+    "GOOGL"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8979,20 +8997,6 @@
    "type": "legal",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "d8cc52f82634",
-   "title": "J.B. Hunt declares $0.45 quarterly dividend per share",
-   "link": "https://www.investing.com/news/company-news/jb-hunt-declares-045-quarterly-dividend-per-share-93CH-4963844",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T19:08:46+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9097,6 +9101,7 @@
   "HSIC": "Henry Schein",
   "LRCX": "Lam Research",
   "ULS": "UL Solutions",
+  "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "RACE": "Ferrari N.V.",
@@ -9112,6 +9117,7 @@
   "FICO": "Fair Isaac",
   "GEV": "GE Vernova",
   "GL": "Globe Life",
+  "RKLB": "Rocket Lab",
   "SPGI": "S&P Global",
   "TECH": "Bio-Techne",
   "TTEK": "Tetra Tech",
