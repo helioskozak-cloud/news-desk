@@ -1,21 +1,35 @@
 {
- "generated": "2026-10-22T12:41:16.600285+00:00",
+ "generated": "2026-10-22T12:46:29.482672+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
-   "id": "5ce2caca9b6c",
-   "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
-   "link": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
-   "summary": "Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices.",
+   "id": "5c240405d5ef",
+   "title": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
+   "link": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
+   "summary": "Investors liked what they saw.",
    "source": "CNBC Earnings",
    "category": "earnings",
    "domain": "cnbc.com",
-   "published": "2026-10-22T12:40:27+00:00",
+   "published": "2026-10-22T12:45:06+00:00",
    "tickers": [
-    "LUV"
+    "META"
    ],
-   "type": "guidance",
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "8d6bb9546d17",
+   "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+   "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+   "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T12:44:34+00:00",
+   "tickers": [],
+   "type": "fda",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -27,10 +41,73 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-22T12:40:09+00:00",
+   "published": "2026-10-22T12:42:31+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5ce2caca9b6c",
+   "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+   "link": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+   "summary": "Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T12:42:01+00:00",
+   "tickers": [
+    "LUV"
+   ],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9c112e9d8dc2",
+   "title": "ROKFORM Launches Rangefinder 18X: The Rangefinder That Stays Put, Sees More, and Is Hard to Lose",
+   "link": "https://www.prnewswire.com/news-releases/rokform-launches-rangefinder-18x-the-rangefinder-that-stays-put-sees-more-and-is-hard-to-lose-302916387.html",
+   "summary": "Featuring up to 3X stronger magnetic holding power, built-in Apple Find My and Google Find Hub tracking, and adjustable 8X–18X magnification. IRVINE, Calif., Oct. 22, 2026 /PRNewswire/ -- ROKFORM today announced the launch of the Rangefinder 18X, a premium golf laser rangefinder designed...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T12:42:00+00:00",
+   "tickers": [
+    "GOOGL",
+    "AAPL"
+   ],
+   "type": "press",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "77c50463f21d",
+   "title": "Worthington Enterprises Participating in Baird Global Industrial Conference Following Investor and Analyst Day | WOR Stock News",
+   "link": "https://www.stocktitan.net/news/WOR/worthington-enterprises-participating-in-baird-global-industrial-s3n8fg5aii8b.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-22T12:40:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e5fde8be6847",
+   "title": "eBay to cut about 1,000 jobs in second round of layoffs this year",
+   "link": "https://www.foxbusiness.com/economy/ebay-cut-1000-jobs-second-round-layoffs-this-year",
+   "summary": "eBay plans to eliminate approximately 1,000 positions as it focuses on strategic priorities following an earlier round of layoffs that affected 800 employees.",
+   "source": "Fox Business Econ",
+   "category": "macro",
+   "domain": "foxbusiness.com",
+   "published": "2026-10-22T12:39:04+00:00",
+   "tickers": [
+    "EBAY"
+   ],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2195,20 +2272,6 @@
    "published": "2026-10-22T12:04:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8d6bb9546d17",
-   "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-   "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-   "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "domain": "cnbc.com",
-   "published": "2026-10-22T12:03:40+00:00",
-   "tickers": [],
-   "type": "fda",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8939,64 +9002,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "303741047ed3",
-   "title": "Russia pounds Kyiv with missiles as Moscow says 808 drones downed in Russian cities - AP News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeldMenNBb3pveGlrZmlGLXZkaWNZaEhBUHMwSWh4dm5ZQW1IRWxEVGRxbFVDeUdwTnh2WW1jSXJ3T2U1cmh4cTR5bC1DSXdOSzJZb3hFaGNBNlAtclluMU4zMVBEVWpua1A2S2dBbXdjeWo1SFNUWGNvZ1dRRXhKSk4xTjlYUXFXNVM4NFctSmdxVHRqcjZrOWF4allidw?oc=5",
-   "summary": "Russia pounds Kyiv with missiles as Moscow says 808 drones downed in Russian cities&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-22T10:14:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a5edfe7cad64",
-   "title": "Zoom Advances Its AI Strategy With a New Unified Context Layer That Helps Turn Meeting Conversations Into Completed Work | ZM Stock News",
-   "link": "https://www.stocktitan.net/news/ZM/zoom-advances-its-ai-strategy-with-a-new-unified-context-layer-that-d3jyi8e9q52v.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T10:13:00+00:00",
-   "tickers": [
-    "ZM"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a07d552d3e1e",
-   "title": "Top Performing Green Penny Stocks",
-   "link": "https://www.benzinga.com/money/best-green-penny-stocks",
-   "summary": "The post Top Performing Green Penny Stocks by Goran Radanovic appeared first on Benzinga. Visit Benzinga to get more great content like this. Stay up to date on all green penny stocks with Benzinga Pro, your go-to stock market research platform with real-time news and actionable insights. Investors concerned about greenhouse gas emissions may prefer investing in companies that follow environmentally friendly practices. Governments have imposed restrictions on carbon emissions, making some pollut",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-22T10:12:19+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "d9339b9faacc",
-   "title": "Top Performing Monthly Dividend ETFs",
-   "link": "https://www.benzinga.com/money/best-monthly-dividend-etfs",
-   "summary": "The post Top Performing Monthly Dividend ETFs by Goran Radanovic appeared first on Benzinga. Visit Benzinga to get more great content like this. The rising popularity of monthly dividend ETFs has prompted major hedge fund firms to offer a large selection. Investors have numerous options, but knowing the factors to analyze in monthly dividend ETFs is key to making the right investment. We have explored the best assets, detailing their features and benefits as you search every stock &#8230; Contin",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-22T10:12:19+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9041,7 +9046,6 @@
   "ROK": "Rockwell Automation",
   "SRAD": "Sportradar Group AG",
   "VDE": "Vanguard Energy ETF",
-  "ZM": "Zoom Communications",
   "CSL": "Carlisle Companies",
   "IBN": "ICICI Bank Limited",
   "LUV": "Southwest Airlines",
@@ -9155,6 +9159,7 @@
   "ANTM": "Anthem",
   "INTC": "Intel",
   "KKR": "KKR &",
+  "EBAY": "eBay",
   "PCG": "PG&E",
   "V": "Visa"
  }
