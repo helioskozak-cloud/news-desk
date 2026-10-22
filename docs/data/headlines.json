@@ -1,8 +1,25 @@
 {
- "generated": "2026-10-22T03:56:10.577993+00:00",
+ "generated": "2026-10-22T04:01:38.161131+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8c276b3c9332",
+   "title": "Stock futures fall as investors digest earnings from Meta and Tesla: Live updates",
+   "link": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
+   "summary": "The S&amp;P 500 posted a three-day winning streak on Wednesday, and the Nasdaq Composite rose as Tesla and SpaceX rallied.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T03:58:24+00:00",
+   "tickers": [
+    "TSLA",
+    "META"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "e4355094d750",
    "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
@@ -11,7 +28,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-22T03:51:47+00:00",
+   "published": "2026-10-22T03:57:47+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
@@ -747,6 +764,20 @@
    "tag_v": 2
   },
   {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-22T02:24:57+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "0bec5dd57072",
    "title": "Meta: 3 Key Takeaways for Long-Term Investors",
    "link": "https://www.nasdaq.com/articles/meta-3-key-takeaways-long-term-investors",
@@ -940,23 +971,6 @@
    ],
    "type": "press",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8c276b3c9332",
-   "title": "Stock futures fall as investors digest earnings from Meta and Tesla: Live updates",
-   "link": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
-   "summary": "The S&amp;P 500 posted a three-day winning streak on Wednesday, and the Nasdaq Composite rose as Tesla and SpaceX rallied.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-22T02:09:37+00:00",
-   "tickers": [
-    "TSLA",
-    "META"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -3899,20 +3913,6 @@
    "published": "2026-10-21T22:30:00+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-21T22:28:42+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
