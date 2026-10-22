@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T15:21:24.501125+00:00",
+ "generated": "2026-10-22T15:26:20.353761+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -8507,20 +8507,6 @@
    "tag_v": 2
   },
   {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-22T12:18:15+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "e412adaf42f6",
    "title": "Norfolk Southern Corp Reveals Climb In Q3 Bottom Line",
    "link": "https://www.nasdaq.com/articles/norfolk-southern-corp-reveals-climb-q3-bottom-line",
@@ -9062,6 +9048,23 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
+  },
+  {
+   "id": "df60d87422f7",
+   "title": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
+   "link": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
+   "summary": "More than 1 million Airbnb listings are now available to book through Amex Travel, allowing customers to earn membership points on prepaid bookings.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T12:00:02+00:00",
+   "tickers": [
+    "AXP",
+    "ABNB"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9154,6 +9157,7 @@
   "TXN": "Texas Instruments",
   "VERA": "Vera Therapeutics",
   "AR": "Antero Resources",
+  "AXP": "American Express",
   "BMO": "Bank of Montreal",
   "BWXT": "BWX Technologies",
   "COST": "Costco Wholesale",
@@ -9273,6 +9277,7 @@
   "ZS": "Zscaler",
   "SPY": "SPY ETF",
   "ABBV": "AbbVie",
+  "ABNB": "Airbnb",
   "AEE": "Ameren",
   "BULL": "Webull",
   "ECL": "Ecolab",
