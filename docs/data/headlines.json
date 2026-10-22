@@ -1,8 +1,39 @@
 {
- "generated": "2026-10-22T00:06:12.633065+00:00",
+ "generated": "2026-10-22T00:11:38.676126+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f403bdec8d7f",
+   "title": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
+   "link": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
+   "summary": "India is grappling with growing public anger against data centers that pose a threat to its ambitions to host the whole world's data.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T00:07:48+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c3bdc978ccb8",
+   "title": "DoorDash, Uber Eats have a new rival, offering lower menu prices",
+   "link": "https://www.thestreet.com/restaurants/olo-food-delivery-app-doordash-uber-eats-rival-lower-prices",
+   "summary": "Five Guys, Waffle House and more than 250 restaurant brands join Olo, a new app promising no markups.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-22T00:07:00+00:00",
+   "tickers": [
+    "DASH",
+    "UBER"
+   ],
+   "type": "offering",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "371ee470b82e",
    "title": "ACM Research Enhances Single-Wafer Hot SPM System with Sulfuric Acid Recycle Capability | ACMR Stock News",
@@ -8962,36 +8993,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "9ba1bf69ce2e",
-   "title": "Conocophillips stock hits all-time high at 147.15 USD",
-   "link": "https://www.investing.com/news/company-news/conocophillips-stock-hits-alltime-high-at-14715-usd-93CH-4963843",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T19:08:04+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "ea70ae77288a",
-   "title": "MDB Capital at LD Micro 20th annual main event: pivot to leaner model",
-   "link": "https://www.investing.com/news/transcripts/mdb-capital-at-ld-micro-20th-annual-main-event-pivot-to-leaner-model-93CH-4963842",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-21T19:07:17+00:00",
-   "tickers": [
-    "MDB"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9053,6 +9054,7 @@
   "MOH": "Molina Healthcare",
   "MTDR": "Matador Resources",
   "TXN": "Texas Instruments",
+  "UBER": "Uber Technologies",
   "WCN": "Waste Connections",
   "ALGN": "Align Technology",
   "BMO": "Bank of Montreal",
@@ -9123,6 +9125,7 @@
   "OS": "OneStream",
   "SNOW": "Snowflake",
   "TE": "T1 Energy",
+  "DASH": "DoorDash",
   "DOCS": "Doximity",
   "DUOL": "Duolingo",
   "EVR": "Evercore",
