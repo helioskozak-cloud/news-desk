@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T05:16:35.201907+00:00",
+ "generated": "2026-10-22T05:21:30.555395+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,38 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-22T05:12:19+00:00",
+   "published": "2026-10-22T05:18:24+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "9c367c6145c1",
+   "title": "Soybeans Holding onto Weakness on Wednesday",
+   "link": "https://www.nasdaq.com/articles/soybeans-holding-weakness-wednesday",
+   "summary": "Soybeans are trading with 4 to 8 cent losses at Wednesday’s midday. The cmdtyView national average Cash Bean price is down 4 1/4 cents at $11.85 1/2. Soymeal futures is down $2.40 to $2.80, as Soy Oil futures are down 80 to 90 points. USDA reported a private export sale...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T05:06:35+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7671d42a6141",
+   "title": "Ceconomy AG - Depositary Receipt Price Target Decreased by 25.05% to $0.80",
+   "link": "https://www.nasdaq.com/articles/ceconomy-ag-depositary-receipt-price-target-decreased-2505-080",
+   "summary": "The average one-year price target for Ceconomy AG - Depositary Receipt (OTCPK:MTTRY) (BST:MEOD) has been revised to $0.80 / share. This is a decrease of 25.05% from the prior estimate of $1.07 dated February 23, 2026. These figures represent aggregate analyst targets and do not c",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T05:02:47+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -166,6 +194,54 @@
    "tag_v": 2
   },
   {
+   "id": "54e253feedc6",
+   "title": "Salvatore Ferragamo S.p.A. - Depositary Receipt Consensus Price Target Raised 10.04% to $4.55",
+   "link": "https://www.nasdaq.com/articles/salvatore-ferragamo-spa-depositary-receipt-consensus-price-target-raised-1004-455",
+   "summary": "The average one-year price target for Salvatore Ferragamo S.p.A. - Depositary Receipt (OTCPK:SFRGY) (DB:S9L0) has been revised to $4.55 / share. This is an increase of 10.04% from the prior estimate of $4.14 dated June 8, 2026. These figures represent an aggregate of analyst targ",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T04:59:36+00:00",
+   "tickers": [
+    "DB"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "a6eb0f705e75",
+   "title": "Rollins, Inc. Reports Third Quarter 2026 Financial Results",
+   "link": "https://www.nasdaq.com/articles/rollins-inc-reports-third-quarter-2026-financial-results",
+   "summary": "Rollins, Inc. reported its unaudited financial results for the third quarter ended September 30, 2026. Revenues for the quarter were $ 1,089,670 thousand, representing an increase of 6.2 % compared to $ 1,026,106 thousand in the third quarter of 2025. Operating income decreased (",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T04:58:21+00:00",
+   "tickers": [
+    "ROL"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "689066d9503e",
+   "title": "Las Vegas Sands Corp. Reports Third Quarter 2026 Results",
+   "link": "https://www.nasdaq.com/articles/las-vegas-sands-corp-reports-third-quarter-2026-results",
+   "summary": "Las Vegas Sands Corp. reported its financial results for the third quarter ended September 30, 2026. Net revenue was $3.22 billion, compared to $3.33 billion in the prior year quarter. Net income in the third quarter of 2026 was $352 million, compared to $491 million in the third",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T04:58:21+00:00",
+   "tickers": [
+    "LVS"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "44706d9abb4a",
    "title": "Hunting PLC - Depositary Receipt Price Target Increased by 18.36% to $7.20",
    "link": "https://www.nasdaq.com/articles/hunting-plc-depositary-receipt-price-target-increased-1836-720",
@@ -191,6 +267,23 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b597ec80c607",
+   "title": "Here's How Much You'd Need to Invest in SCHD to Generate $1,000 per Month in Dividend Income",
+   "link": "https://www.nasdaq.com/articles/heres-how-much-youd-need-invest-schd-generate-1000-month-dividend-income",
+   "summary": "Key PointsThe Schwab U.S. Dividend Equity ETF (SCHD) has averaged a dividend yield of over 3.4% over the past five years.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T04:50:00+00:00",
+   "tickers": [
+    "SCHD",
+    "SCHW"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -706,20 +799,6 @@
    "category": "stocks",
    "domain": "investing.com",
    "published": "2026-10-22T04:04:42+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9c367c6145c1",
-   "title": "Soybeans Holding onto Weakness on Wednesday",
-   "link": "https://www.nasdaq.com/articles/soybeans-holding-weakness-wednesday",
-   "summary": "Soybeans are trading with 4 to 8 cent losses at Wednesday’s midday. The cmdtyView national average Cash Bean price is down 4 1/4 cents at $11.85 1/2. Soymeal futures is down $2.40 to $2.80, as Soy Oil futures are down 80 to 90 points. USDA reported a private export sale...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T04:04:40+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -4021,6 +4100,20 @@
     "MORN"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a9a03fbbda1a",
+   "title": "Vance says Republicans shouldn't complain about Ramaswamy ad featuring Amy Acton's estranged mother - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2FkYjhwVnNzTFFwR18yckdkM0N6dnZKeGpjb1ZZanVISnpBY1JiOHpNZjBvbHZOUXBhcUNTU1dXa2dZeDZncmtpZ1k1cG5LdHdoOTNsWk8xY1c2UnJ4SFAzdGVhcDRBM3RrTkRWN1ZKOHhQak90NXVxaUpSSE1mQ29iMjBvOGprTVNLNFRTNklGanM0MUNzYU5TbUswcVZDbDgtLWp3bjRtX2VUS29j?oc=5",
+   "summary": "Vance says Republicans shouldn't complain about Ramaswamy ad featuring Amy Acton's estranged mother&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-21T23:20:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8849,98 +8942,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "05279652fea1",
-   "title": "AMX Crosses Above Key Moving Average Level",
-   "link": "https://www.nasdaq.com/articles/amx-crosses-above-key-moving-average-level",
-   "summary": "In trading on Wednesday, shares of America Movil SAB de CV (Symbol: AMX) crossed above their 200 day moving average of $24.25, changing hands as high as $24.53 per share. America Movil SAB de CV shares are currently trading up about 5.9% on the day. The chart below shows the o",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T20:16:31+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fbd13b45725f",
-   "title": "Eastman Kodak Breaks Above 200-Day Moving Average - Bullish for KODK",
-   "link": "https://www.nasdaq.com/articles/eastman-kodak-breaks-above-200-day-moving-average-bullish-kodk",
-   "summary": "In trading on Wednesday, shares of Eastman Kodak Co. (Symbol: KODK) crossed above their 200 day moving average of $9.24, changing hands as high as $9.42 per share. Eastman Kodak Co. shares are currently trading up about 4.7% on the day. The chart below shows the one year perfo",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T20:16:26+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cea1f1d1f724",
-   "title": "Meta beats on Q3 revenue, reports stronger than expected Q4 guidance",
-   "link": "https://www.cnbc.com/video/2026/10/21/meta-beats-on-q3-revenue-reports-stronger-than-expected-q4-guidance.html",
-   "summary": "CNBC's Julia Boorstin joins 'Closing Bell Overtime' to report on Meta quarterly results.",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-21T20:16:18+00:00",
-   "tickers": [
-    "META"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "f34a8e9423ef",
-   "title": "Hexcel Declares Quarterly Dividend | HXL Stock News",
-   "link": "https://www.stocktitan.net/news/HXL/hexcel-declares-quarterly-uinxzdhwpkrb.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:16:00+00:00",
-   "tickers": [
-    "HXL"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0adc2b2fdf6f",
-   "title": "Las Vegas Sands Corp. Reports Drop In Q3 Bottom Line",
-   "link": "https://www.nasdaq.com/articles/las-vegas-sands-corp-reports-drop-q3-bottom-line",
-   "summary": "(RTTNews) - Las Vegas Sands Corp. (LVS) reported earnings for third quarter that Drops, from the same period last year",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-21T20:15:25+00:00",
-   "tickers": [
-    "LVS"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "9e10c1711f04",
-   "title": "CACI Reports Results for Its Fiscal 2027 First Quarter | CACI Stock News",
-   "link": "https://www.stocktitan.net/news/CACI/caci-reports-results-for-its-fiscal-2027-first-kjlcbcsrfumr.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "CACI"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8948,10 +8949,12 @@
   "CP": "Canadian Pacific Kansas City Limited",
   "KNX": "Knight-Swift Transportation Holdings",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
+  "DB": "Deutsche Bank Aktiengesellschaft",
   "VGSH": "Vanguard Short-Term Treasury ETF",
   "IBM": "International Business Machines",
   "SCHF": "Schwab International Equity ETF",
   "CTSH": "Cognizant Technology Solutions",
+  "SCHD": "Schwab US Dividend Equity ETF",
   "SEI": "Solaris Energy Infrastructure",
   "PNFP": "Pinnacle Financial Partners",
   "QQQ": "Invesco QQQ Trust, Series 1",
@@ -8975,7 +8978,6 @@
   "ABT": "Abbott Laboratories",
   "SYF": "Synchrony Financial",
   "VUG": "Vanguard Growth ETF",
-  "CACI": "CACI International",
   "HIMS": "Hims & Hers Health",
   "LUV": "Southwest Airlines",
   "SCHW": "The Charles Schwab",
