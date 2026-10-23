@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T09:51:12.645500+00:00",
+ "generated": "2026-10-23T09:56:01.434891+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -199,6 +199,37 @@
    ],
    "type": "upgrade",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "86ea2c19dee0",
+   "title": "Average Analyst Price Target for Unicycive Therapeutics Rises 12.32% to $32.54",
+   "link": "https://www.nasdaq.com/articles/average-analyst-price-target-unicycive-therapeutics-rises-1232-3254",
+   "summary": "The average one-year price target for Unicycive Therapeutics (NASDAQCM:UNCY) has been revised to $32.54 / share. This is an increase of 12.32% from the prior estimate of $28.97 dated September 29, 2026. These figures represent aggregate analyst targets and do not constitute a rec",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T09:36:09+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "1dd0f901ce33",
+   "title": "Group 1 Automotive Consensus Price Target Lowered by 11.60% to $340.73",
+   "link": "https://www.nasdaq.com/articles/group-1-automotive-consensus-price-target-lowered-1160-34073",
+   "summary": "The average one-year price target for Group 1 Automotive (NYSE:GPI) (DB:GAV) has been revised to $340.73 / share. This is a decrease of 11.60% from the prior estimate of $385.43 dated September 29, 2026. These figures represent aggregate analyst targets compiled by Fintel and do",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T09:31:57+00:00",
+   "tickers": [
+    "GPI",
+    "DB"
+   ],
+   "type": "analyst",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8838,34 +8869,6 @@
    "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "ba30715a425f",
-   "title": "Xai floating rate VP John Spence buys $34,140 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/xai-floating-rate-vp-john-spence-buys-34140-in-stock-93CH-4967861",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-23T00:16:09+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "70e8af613e9f",
-   "title": "Sister of American held in Russia says he didn't know he was being released until he saw US flag - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmp5M3lYV2cwT1dIbnNSNTI1dms0d210elVoWmNGd3pqMl94eHdhS3hpV2REX3hVdVlyOUpodElwTWpIZVF1LUxMZTcxa2YtaWtpMC1LZUFHQU9uc01uYTRCX3N6VmpEUUlQV3VJRmQ0dHdKblk4bVRtOUU1VUptN25LX1JzOVdnc2Z4LVR1YnJZUzNuT0pLZzRBRXB2d1RhTGk3WGhrZmtQNmRr?oc=5",
-   "summary": "Sister of American held in Russia says he didn't know he was being released until he saw US flag&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-23T00:16:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8904,6 +8907,7 @@
   "VDE": "Vanguard Energy ETF",
   "BRK-A": "Berkshire Hathaway",
   "EQH": "Equitable Holdings",
+  "GPI": "Group 1 Automotive",
   "LUNR": "Intuitive Machines",
   "MPC": "Marathon Petroleum",
   "SPOT": "Spotify Technology",
