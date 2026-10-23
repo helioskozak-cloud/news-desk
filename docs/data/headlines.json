@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T07:41:33.392773+00:00",
+ "generated": "2026-10-23T07:46:24.276313+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,22 @@
    "published": "2026-10-23T07:31:46+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5af9390f9ff6",
+   "title": "Gilead To Buy PepStar's IBD Investigational Oral IL-23R Inhibitor Program For $1.275 Bln Cash",
+   "link": "https://www.nasdaq.com/articles/gilead-buy-pepstars-ibd-investigational-oral-il-23r-inhibitor-program-1275-bln-cash",
+   "summary": "(RTTNews) - Gilead Sciences, Inc. (GILD), a biopharmaceutical company, announced that it has reached an agreement to acquire investigational oral IL-23R inhibitor program, including lead asset HCXT-2001, from privately held PepStar Therapeutics Ltd.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T07:31:28+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8868,22 +8884,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "8d771e3f54be",
-   "title": "Stock Market Today, Oct. 22: Netflix Rises as Investors Capitalize on Post-Earnings Sell-Off",
-   "link": "https://www.nasdaq.com/articles/stock-market-today-oct-22-netflix-rises-investors-capitalize-post-earnings-sell",
-   "summary": "Netflix (NASDAQ:NFLX), a global subscription streaming entertainment and ad-supported video platform, closed at $67.05, up 3.09%, on Oct. 22. Shares rose as investors capitalized on a sharp post-earnings sell-off. Netflix stock fell the day prior, closing at $65.04, due to a soft",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T22:12:42+00:00",
-   "tickers": [
-    "NFLX"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8938,6 +8938,7 @@
   "BAC": "Bank of America",
   "BSY": "Bentley Systems",
   "DECK": "Deckers Outdoor",
+  "GILD": "Gilead Sciences",
   "LMT": "Lockheed Martin",
   "PYPL": "PayPal Holdings",
   "SCCO": "Southern Copper",
