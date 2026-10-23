@@ -1,8 +1,42 @@
 {
- "generated": "2026-10-23T04:31:11.975163+00:00",
+ "generated": "2026-10-23T04:36:16.044392+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "eb6d588cdbb5",
+   "title": "Allegion: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/allegion-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsAllegion raised its 2026 reported revenue growth outlook to 9.5% to 10.5%.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T04:24:36+00:00",
+   "tickers": [
+    "ALLE"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b360bcd9cf5c",
+   "title": "IonQ vs. Rigetti Computing: Which Quantum Computing Stock Is the Better Buy?",
+   "link": "https://www.nasdaq.com/articles/ionq-vs-rigetti-computing-which-quantum-computing-stock-better-buy",
+   "summary": "Key PointsIonQ and Rigetti use different technologies in their quantum computers.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T04:20:00+00:00",
+   "tickers": [
+    "QUBT",
+    "RGTI",
+    "IONQ"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "bc049b6c4aba",
    "title": "Walmart's Swarovski hoop earrings that come in 3 colors are on sale for just $18",
@@ -8897,36 +8931,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "3a785a3b0c4f",
-   "title": "Coca-Cola shifts North America media account to Omnicom",
-   "link": "https://www.investing.com/news/company-news/cocacola-shifts-north-america-media-account-to-omnicom-93CH-4967534",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-22T20:48:32+00:00",
-   "tickers": [
-    "KO"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "afebeb2a81ad",
-   "title": "Easterly Government Properties declares $0.45 quarterly dividend",
-   "link": "https://www.investing.com/news/company-news/easterly-government-properties-declares-045-quarterly-dividend-93CH-4967533",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-22T20:48:24+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8966,6 +8970,8 @@
   "SPOT": "Spotify Technology",
   "MU": "Micron Technology",
   "Q": "Qnity Electronics",
+  "QUBT": "Quantum Computing",
+  "RGTI": "Rigetti Computing",
   "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
   "TXN": "Texas Instruments",
@@ -9032,6 +9038,7 @@
   "CRWV": "CoreWeave",
   "SBUX": "Starbucks",
   "ADBE": "Photoshop",
+  "ALLE": "Allegion",
   "APPF": "AppFolio",
   "CCL": "Carnival",
   "DASH": "DoorDash",
