@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-23T13:36:02.137670+00:00",
+ "generated": "2026-10-23T13:41:35.029396+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d0abd4ffc765",
+   "title": "Stocks open lower as oil tops $100 amid escalating Iran tensions: Live updates",
+   "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+   "summary": "Stock futures edged down on Friday as oil traded higher.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-23T13:39:35+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "29ea7df0e42a",
+   "title": "AEON Launches Agentic Checkout V2, Bringing AI-Powered Travel Booking to Travala",
+   "link": "https://www.prnewswire.com/news-releases/aeon-launches-agentic-checkout-v2-bringing-ai-powered-travel-booking-to-travala-302918148.html",
+   "summary": "HONG KONG, Oct. 23, 2026 /PRNewswire/ -- AEON, the settlement layer built for the AI economy, has launched Agentic Checkout V2, expanding its agentic commerce infrastructure beyond e-commerce purchases to travel bookings. The updated version enables AI agents to search and book hotel...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-23T13:38:00+00:00",
+   "tickers": [
+    "BKNG"
+   ],
+   "type": "press",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "825828a71e0d",
    "title": "JBS to Host Third Quarter 2026 Earnings Call on November 10, 2026 | JBS Stock News",
@@ -16,20 +46,6 @@
     "JBS"
    ],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d0abd4ffc765",
-   "title": "Stocks open lower as oil tops $100 amid escalating Iran tensions: Live updates",
-   "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
-   "summary": "Stock futures edged down on Friday as oil traded higher.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-23T13:33:44+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8867,23 +8883,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c0404df68ed8",
-   "title": "Better Dividend Stock to Buy and Hold: Pfizer or Bristol Myers Squibb?",
-   "link": "https://www.nasdaq.com/articles/better-dividend-stock-buy-and-hold-pfizer-or-bristol-myers-squibb",
-   "summary": "Key PointsPfizer's dividend yield ranks among the highest in the healthcare sector and S&amp;P 500.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T10:03:00+00:00",
-   "tickers": [
-    "BMY",
-    "PFE"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8929,6 +8928,7 @@
   "WU": "The Western Union",
   "AR": "Antero Resources",
   "AXP": "American Express",
+  "BKNG": "Booking Holdings",
   "JPM": "JPMorgan Chase &",
   "LH": "Labcorp Holdings",
   "UMAC": "Unusual Machines",
@@ -9012,7 +9012,6 @@
   "KSS": "Kohl's",
   "M": "Macy's",
   "ORCL": "Oracle",
-  "PFE": "Pfizer",
   "INTC": "Intel",
   "KKR": "KKR &",
   "RHHBY": "Roche",
