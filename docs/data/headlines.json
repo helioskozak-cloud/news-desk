@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T10:07:59.371742+00:00",
+ "generated": "2026-10-23T10:11:10.175196+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -234,6 +234,20 @@
    "published": "2026-10-23T10:00:29+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cf6d890ea01d",
+   "title": "Florida's manufacturing ambitions take flight as aerospace, medtech giants fuel Sunshine State's economic push",
+   "link": "https://www.foxbusiness.com/economy/floridas-manufacturing-ambitions-take-flight-aerospace-medtech-giants-fuel-sunshine-states-economic-push",
+   "summary": "Florida is moving beyond tourism as aerospace and medtech giants drive an manufacturing boom aimed at securing a top-10 global economic ranking by 2030.",
+   "source": "Fox Business Econ",
+   "category": "macro",
+   "domain": "foxbusiness.com",
+   "published": "2026-10-23T10:00:05+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8853,36 +8867,6 @@
    "type": "markets",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "0dbd7e54b3e5",
-   "title": "Rexford Industrial Realty, Inc. Reports Third Quarter 2026 Results",
-   "link": "https://www.nasdaq.com/articles/rexford-industrial-realty-inc-reports-third-quarter-2026-results",
-   "summary": "Rexford Industrial Realty, Inc. announced its financial and operating results for the third quarter ended September 30, 2026. Net income attributable to common stockholders was $14.6 million, or $0.07 per diluted share, compared to net income of $87.1 million, or $0.37 per dilute",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T00:43:19+00:00",
-   "tickers": [
-    "REXR"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5f875b9f4419",
-   "title": "Kiniksa Pharmaceuticals, Ltd. Appoints Ross Moat as President and Chief Operating Officer",
-   "link": "https://www.nasdaq.com/articles/kiniksa-pharmaceuticals-ltd-appoints-ross-moat-president-and-chief-operating-officer",
-   "summary": "Kiniksa Pharmaceuticals, Ltd. announced that on October 17, 2026, the Compensation Committee of the Board of Directors of Kiniksa Pharmaceuticals International, plc appointed Ross Moat as President and Chief Operating Officer, effective immediately. Mr. Moat will continue to repo",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T00:43:19+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8899,7 +8883,6 @@
   "IBB": "iShares Biotechnology ETF",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
-  "REXR": "Rexford Industrial Realty",
   "ALNY": "Alnylam Pharmaceuticals",
   "ARR": "ARMOUR Residential REIT",
   "COLB": "Columbia Banking System",
