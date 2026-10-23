@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-23T09:01:42.492221+00:00",
+ "generated": "2026-10-23T09:06:31.467411+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d504b8238bdd",
+   "title": "What to know about ACA open enrollment this year",
+   "link": "https://www.cbsnews.com/news/aca-open-enrollment-premiums-rules-brokers/",
+   "summary": "As open enrollment for Affordable Care Act health insurance kicks off, consumers face rising premiums, additional identity checks, and fewer brokers.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-10-23T09:00:17+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "b685dbff1ba8",
    "title": "Macy's is selling $475 sapphire and diamond hoop earrings for 75% off",
@@ -31,6 +45,22 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6425d9f13364",
+   "title": "Occidental Resources Reports $200 Million in Argentine Sunflower Seed Purchases Amid Global Demand Surge",
+   "link": "https://www.prnewswire.com/news-releases/occidental-resources-reports-200-million-in-argentine-sunflower-seed-purchases-amid-global-demand-surge-302917580.html",
+   "summary": "The company's reported purchases of more than 300,000 metric tons highlight its commercial capacity, international market reach, and focus on supply-chain reliability. MIAMI, Oct. 23, 2026 /PRNewswire/ -- Occidental Resources Group LLC reported purchasing more than 300,000 metric tons of...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-23T09:00:00+00:00",
+   "tickers": [
+    "OXY"
+   ],
+   "type": "press",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8822,36 +8852,6 @@
    "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "fafeea76d871",
-   "title": "Nippon Life, 10% owner, buys $6.77 million Corebridge Financial stock",
-   "link": "https://www.investing.com/news/insider-trading-news/nippon-life-10-owner-buys-677-million-corebridge-financial-stock-93CH-4967817",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-22T23:16:06+00:00",
-   "tickers": [
-    "CRBG"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e2c0820e66d1",
-   "title": "XAI Madison Equity Premium Income Fund Will Host its Q3 2026 Quarterly Webinar on November 5, 2026 | MCN Stock News",
-   "link": "https://www.stocktitan.net/news/MCN/xai-madison-equity-premium-income-fund-will-host-its-q3-2026-bb1vdoduxum5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T23:16:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8879,8 +8879,8 @@
   "PLTR": "Palantir Technologies",
   "ASB": "Associated Banc-Corp",
   "BIO": "Bio-Rad Laboratories",
-  "CRBG": "Corebridge Financial",
   "CRS": "Carpenter Technology",
+  "OXY": "Occidental Petroleum",
   "PG": "The Procter & Gamble",
   "SMCI": "Super Micro Computer",
   "SPHR": "Sphere Entertainment",
