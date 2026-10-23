@@ -1,38 +1,64 @@
 {
- "generated": "2026-10-23T00:46:14.200414+00:00",
+ "generated": "2026-10-23T00:51:44.854745+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
-   "id": "ceedaf95676d",
-   "title": "Corn Fades Back Lower on Thursday",
-   "link": "https://www.nasdaq.com/articles/corn-fades-back-lower-thursday-0",
-   "summary": "Corn futures fell back weaker on Thursday, after the midweek gains, as contracts were down 2 ¼ to 3 ¾ cents on the session. The CmdtyView national average Cash Corn price was down 2 1/2 cents at $4.22 1/2. The average close for December futures has been $4.84, as the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T00:44:36+00:00",
+   "id": "ff250d4de48f",
+   "title": "Japan core inflation in September surges to its highest this year at 2.1%",
+   "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
+   "summary": "Core inflation, which strips out prices of fresh food, was in line with than the 2.1% forecast by economists polled by Reuters.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-23T00:50:01+00:00",
    "tickers": [],
-   "type": "stocks",
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "75637979bec2",
+   "title": "Sensata Technologies Board Approves Q4 2026 Dividend of $0.12 per share | ST Stock News",
+   "link": "https://www.stocktitan.net/news/ST/sensata-technologies-board-approves-q4-2026-dividend-of-0-12-per-x6mq1p6mlkue.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-23T00:50:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "49474e3de936",
+   "title": "TTM Technologies Investigation Notice: SueWallSt Notifies Investors of Pending Investigation Into TTM Technologies (TTMI)",
+   "link": "https://www.prnewswire.com/news-releases/ttm-technologies-investigation-notice-suewallst-notifies-investors-of-pending-investigation-into-ttm-technologies-ttmi-302917479.html",
+   "summary": "TTM Technologies stock saw a quarter of its share price disappear following the publication of its third quarter results. An investigation into potential securities law violations is underway. NEW YORK, Oct. 22, 2026 /PRNewswire/ -- A more than 18% slide at open in TTM Technologies...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-23T00:48:00+00:00",
+   "tickers": [
+    "TTMI"
+   ],
+   "type": "legal",
    "sentiment": "negative",
    "tag_v": 2
   },
   {
-   "id": "379fe807ec1f",
-   "title": "Stocks Fall Sharply on Risk-Off as Meta Slides -7%",
-   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-risk-meta-slides-7",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -1.21%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -2.90%. December E-mini S&amp;P futures (ESZ26 ) fell -1.18%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.79%. A...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T00:44:36+00:00",
-   "tickers": [
-    "META",
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
+   "id": "829d235697ce",
+   "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+   "link": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
+   "summary": "SpaceX's stake in Boring Co. helped boost its net income in the third quarter.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-23T00:46:09+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -77,6 +103,94 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "24ebf422f1bd",
+   "title": "Microsoft develops AI tool that can diagnose ’sequentially’ like a doctor",
+   "link": "https://www.investing.com/news/stock-market-news/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor-4967877",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-23T00:42:24+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6d773a543cc3",
+   "title": "Oil prices cool from 5-month highs as Trump invokes defense production act",
+   "link": "https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-23T00:41:37+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "954da8bbbab9",
+   "title": "Earnings call transcript: ikeGPS Group flags stronger second half in Q2 2026",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-ikegps-group-flags-stronger-second-half-in-q2-2026-93CH-4967879",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-23T00:39:55+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "35535bfb619e",
+   "title": "Japan manufacturing growth slows to 7-month low in October, PMI shows",
+   "link": "https://www.investing.com/news/economic-indicators/japan-manufacturing-growth-slows-to-7month-low-in-october-pmi-shows-4967878",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-23T00:37:39+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "568da33e6e6a",
+   "title": "Exclusive-GM cancels deal with new US rare-earth magnet plant, documents say",
+   "link": "https://www.investing.com/news/stock-market-news/exclusivegm-cancels-deal-with-new-us-rareearth-magnet-plant-documents-say-4967695",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-23T00:37:22+00:00",
+   "tickers": [
+    "GM"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ccf7d81ebc71",
+   "title": "SK Hynix says Solidigm suspends review of US IPO, citing market volatility",
+   "link": "https://www.investing.com/news/stock-market-news/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports-4967714",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-23T00:37:08+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -170,6 +284,34 @@
    "tag_v": 2
   },
   {
+   "id": "e71489f5e8cf",
+   "title": "Innsuites Hospitality Trust CEO sells $2.01 billion in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-sells-201-billion-in-shares-93CH-4967874",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-23T00:31:03+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1bfde769b810",
+   "title": "Penguin solutions SVP Kuykendall sells $40,649 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/penguin-solutions-svp-kuykendall-sells-40649-in-shares-93CH-4967873",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-23T00:30:57+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "5cb0ca52f4bd",
    "title": "Diana Shipping Inc. - Preferred Stock Price Target Increased by 18.90% to $39.85",
    "link": "https://www.nasdaq.com/articles/diana-shipping-inc-preferred-stock-price-target-increased-1890-3985",
@@ -230,6 +372,24 @@
    "tag_v": 2
   },
   {
+   "id": "379fe807ec1f",
+   "title": "Stocks Fall Sharply on Risk-Off as Meta Slides -7%",
+   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-risk-meta-slides-7",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -1.21%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -2.90%. December E-mini S&amp;P futures (ESZ26 ) fell -1.18%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.79%. A...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T00:29:00+00:00",
+   "tickers": [
+    "META",
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "1e42bb468ad8",
    "title": "Coffee Prices Fall as ICE Coffee Inventories Rise",
    "link": "https://www.nasdaq.com/articles/coffee-prices-fall-ice-coffee-inventories-rise-0",
@@ -246,6 +406,20 @@
    "tag_v": 2
   },
   {
+   "id": "ceedaf95676d",
+   "title": "Corn Fades Back Lower on Thursday",
+   "link": "https://www.nasdaq.com/articles/corn-fades-back-lower-thursday-0",
+   "summary": "Corn futures fell back weaker on Thursday, after the midweek gains, as contracts were down 2 ¼ to 3 ¾ cents on the session. The CmdtyView national average Cash Corn price was down 2 1/2 cents at $4.22 1/2. The average close for December futures has been $4.84, as the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T00:25:04+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "4250fb378a92",
    "title": "Sugar Prices Continue to Sag From Last Week’s Contract High",
    "link": "https://www.nasdaq.com/articles/sugar-prices-continue-sag-last-weeks-contract-high-2",
@@ -259,20 +433,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ff250d4de48f",
-   "title": "Japan core inflation in September surges to its highest this year at 2.1%",
-   "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
-   "summary": "Core inflation, which strips out prices of fresh food, was in line with than the 2.1% forecast by economists polled by Reuters.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-23T00:24:59+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -306,6 +466,34 @@
    "tag_v": 2
   },
   {
+   "id": "1dc398f4873d",
+   "title": "The Boston Beer Company, Inc. Reports Third Quarter 2026 Financial Results",
+   "link": "https://www.nasdaq.com/articles/boston-beer-company-inc-reports-third-quarter-2026-financial-results",
+   "summary": "The Boston Beer Company, Inc. reported its third quarter 2026 financial results, with net revenue decreasing 3.2% to $520.1 million compared to the third quarter of the prior year. Depletions decreased 5% and shipment volume decreased 4.9% to approximately 1.8 million barrels, dr",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T00:24:11+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "38ddc4580c69",
+   "title": "Average Analyst Price Target for Mitsui Kinzoku Company, Limited - Depositary Receipt Decreased by 46.36% to $29.96",
+   "link": "https://www.nasdaq.com/articles/average-analyst-price-target-mitsui-kinzoku-company-limited-depositary-receipt-decreased",
+   "summary": "The average one-year price target for Mitsui Kinzoku Company, Limited - Depositary Receipt (OTCPK:MMSMY) has been revised to $29.96 / share. This is a decrease of 46.36% from the prior estimate of $55.85 dated June 8, 2026. These figures represent aggregate anal",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T00:24:11+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "85b74b420800",
    "title": "U.S. stock futures steady after Nasdaq posts worst day since June",
    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
@@ -330,6 +518,20 @@
    "published": "2026-10-23T00:20:00+00:00",
    "tickers": [],
    "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6bad7216ef96",
+   "title": "Average Analyst Price Target for BPER Banca SpA - Depositary Receipt Increases 45.68% to $35.91",
+   "link": "https://www.nasdaq.com/articles/average-analyst-price-target-bper-banca-spa-depositary-receipt-increases-4568-3591",
+   "summary": "The average one-year price target for BPER Banca SpA - Depositary Receipt (OTCPK:BPXXY) has been revised to $35.91 / share. This is an increase of 45.68% from the prior estimate of $24.65 dated August 21, 2025. These figures represent aggregate analyst targets a",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T00:19:55+00:00",
+   "tickers": [],
+   "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -360,6 +562,22 @@
     "AMZN"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3f86c1b6c1f1",
+   "title": "Goldman Sachs Group, Inc. - Preferred Stock Price Target Increased by 22.27% to $22.13",
+   "link": "https://www.nasdaq.com/articles/goldman-sachs-group-inc-preferred-stock-price-target-increased-2227-2213",
+   "summary": "The average one-year price target for Goldman Sachs Group, Inc. - Preferred Stock (NYSE:GS.PRD) has been revised to $22.13 / share. This is an increase of 22.27% from the prior estimate of $18.10 dated June 8, 2026. These figures represent aggregate analyst targe",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T00:16:56+00:00",
+   "tickers": [
+    "GS"
+   ],
+   "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -408,6 +626,50 @@
    "tag_v": 2
   },
   {
+   "id": "b3f659678dd4",
+   "title": "BayCom Corp Announces 2026 Third Quarter Results",
+   "link": "https://www.nasdaq.com/articles/baycom-corp-announces-2026-third-quarter-results",
+   "summary": "BayCom Corp reported net income of $1.1 million, or $0.10 per diluted common share, for the third quarter of 2026, compared to a net loss of $7.0 million, or $(0.64) per diluted common share, for the second quarter of 2026, and net income of $5.0 million, or $0.46 per diluted com",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T00:15:44+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "88565bd494a7",
+   "title": "Dream Finders Homes, Inc. Commences Private Exchange Offers for Beazer Notes Due 2031 and 2032",
+   "link": "https://www.nasdaq.com/articles/dream-finders-homes-inc-commences-private-exchange-offers-beazer-notes-due-2031-and-2032",
+   "summary": "Dream Finders Homes, Inc. announced that it is commencing private exchange offers and related consent solicitations with respect to Beazer Homes USA, Inc.&rsquo;s outstanding 7.500% Senior Notes due 2031 and 8.000% Senior Notes due 2032. The transaction follows the completed acqu",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T00:15:44+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9b6bdb0d5134",
+   "title": "Wells Fargo Advantage Funds - Allspring Income Opportunities Fund Changes Fiscal Year End to December 31",
+   "link": "https://www.nasdaq.com/articles/wells-fargo-advantage-funds-allspring-income-opportunities-fund-changes-fiscal-year-end",
+   "summary": "On October 15, 2026, the Board of Trustees of Wells Fargo Advantage Funds - Allspring Income Opportunities Fund approved a change to the Fund's fiscal year end from April 30 to December 31. This change begins with the current fiscal year, which will now end on December 31, 2026.T",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T00:15:43+00:00",
+   "tickers": [
+    "WFC"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "da1d4dfa6fc4",
    "title": "SL Green (SLG) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/sl-green-slg-q3-2026-earnings-call-transcript",
@@ -446,6 +708,22 @@
    "published": "2026-10-23T00:12:19+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3042d1d12ab2",
+   "title": "Wolfe Research Initiates Coverage of Urban Outfitters at Peer Perform",
+   "link": "https://www.nasdaq.com/articles/wolfe-research-initiates-coverage-urban-outfitters-peer-perform",
+   "summary": "Fintel reports that on October 22, 2026, Wolfe Research initiated coverage of Urban Outfitters (NASDAQGS:URBN) (BMV:URBN) with a Peer Perform recommendation.On October 21, 2026, the day prior to the rating action, the stock closed at $86.96. On October 22, 2026, the latest close",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T00:12:03+00:00",
+   "tickers": [
+    "URBN"
+   ],
+   "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -489,6 +767,22 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "23ac477c0d2a",
+   "title": "Capstone Holding Consensus Price Target Increased by 2,900% to $91.80",
+   "link": "https://www.nasdaq.com/articles/capstone-holding-consensus-price-target-increased-2900-9180",
+   "summary": "The average one-year price target for Capstone Holding (NASDAQCM:CAPS) (DB:J7W) has been revised to $91.80 / share. This is an increase of 2,900.00% from the prior estimate of $3.06 dated September 29, 2026. These figures represent aggregate analyst targets collected as of Octobe",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T00:09:05+00:00",
+   "tickers": [
+    "DB"
+   ],
+   "type": "analyst",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -917,7 +1211,7 @@
   },
   {
    "id": "33e0ae7f9211",
-   "title": "SK Hynix scraps Solidigm IPO plans, citing market conditions",
+   "title": "SK Hynix scraps Solidigm IPO plans amid market uncertainty; shares fall",
    "link": "https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830",
    "summary": "",
    "source": "Investing Stock",
@@ -926,7 +1220,7 @@
    "published": "2026-10-22T23:39:12+00:00",
    "tickers": [],
    "type": "offering",
-   "sentiment": "neutral",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1059,6 +1353,20 @@
    "published": "2026-10-22T23:31:50+00:00",
    "tickers": [],
    "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e77cc87ea1d5",
+   "title": "Trump blasts 76ers star LeBron James as 'disgrace' for not standing still during national anthem - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUgxR2FFOThLekhqb3BGZnVkRDJGVkxmcDNCN3VVM3M0YU1pYWhjMXJJc0FFZTFPc2thckdyenJGS2NuVkdOV0tSazM3blJTMFV0eXdOWWlWMjZGTUhBTUI3VFRHQ3ItSXRCWmlhY21GR1c4eXdScVExenAtU04teklRd05XbFRNbE9INVNKLUJ6dUxrYVR3?oc=5",
+   "summary": "Trump blasts 76ers star LeBron James as 'disgrace' for not standing still during national anthem&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-22T23:31:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1324,20 +1632,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ccf7d81ebc71",
-   "title": "SK Hynix says Solidigm drops plan for US IPO amid market volatility",
-   "link": "https://www.investing.com/news/stock-market-news/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports-4967714",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-22T23:18:40+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2832,22 +3126,6 @@
    "tag_v": 2
   },
   {
-   "id": "568da33e6e6a",
-   "title": "Exclusive-GM cancels deal with new US rare-earth magnet plant, documents say",
-   "link": "https://www.investing.com/news/stock-market-news/exclusivegm-cancels-deal-with-new-us-rareearth-magnet-plant-documents-say-4967695",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-22T22:13:36+00:00",
-   "tickers": [
-    "GM"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "f86e704aaf4d",
    "title": "Australia’s Rio Tinto to invest $1.9 billion in Queensland bauxite project",
    "link": "https://www.investing.com/news/stock-market-news/australias-rio-tinto-to-invest-19-billion-in-queensland-bauxite-project-4967736",
@@ -3012,20 +3290,6 @@
     "HURN"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e77cc87ea1d5",
-   "title": "Trump blasts 76ers star LeBron James as 'disgrace' for not standing still during national anthem - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUgxR2FFOThLekhqb3BGZnVkRDJGVkxmcDNCN3VVM3M0YU1pYWhjMXJJc0FFZTFPc2thckdyenJGS2NuVkdOV0tSazM3blJTMFV0eXdOWWlWMjZGTUhBTUI3VFRHQ3ItSXRCWmlhY21GR1c4eXdScVExenAtU04teklRd05XbFRNbE9INVNKLUJ6dUxrYVR3?oc=5",
-   "summary": "Trump blasts 76ers star LeBron James as 'disgrace' for not standing still during national anthem&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-22T22:07:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3781,6 +4045,20 @@
    "published": "2026-10-22T21:34:33+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4be789d769bf",
+   "title": "Central Park's horse-drawn carriage drivers fear for their future as New York City passes a ban - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTG5DcHRNNURGcnp2YVRHWDBVdUQ0UzlxRndZMUtwMzlGT05UX0wxV1dFZnBWNGlCTDdhT0xxNzR3djc2bnpQRWxEV2dIS3hOTnoxc3lYdUhERmtoaXZJVVp2QWhCbk1YYUwxNzNrdzBKMUVyTHh1dGcyU0JtbmNMb0NxcVZmX2Rmd0dmdmliS0VkNm1yWFFFWjZRNjVlR01tRDNNYnZn?oc=5",
+   "summary": "Central Park's horse-drawn carriage drivers fear for their future as New York City passes a ban&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-22T21:34:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8644,300 +8922,11 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "55a220d6568c",
-   "title": "South Plains Financial, Inc. Announces 6% Increase to Quarterly Cash Dividend | SPFI Stock News",
-   "link": "https://www.stocktitan.net/news/SPFI/south-plains-financial-inc-announces-6-increase-to-quarterly-cash-qp77gz30y0ql.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T20:10:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2e1dfc6e1072",
-   "title": "Compass Diversified Announces Third Quarter 2026 Earnings and Conference Call Information | CODI Stock News",
-   "link": "https://www.stocktitan.net/news/CODI/compass-diversified-announces-third-quarter-2026-earnings-and-a32xwlqepof6.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T20:10:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e72d6ad5eb00",
-   "title": "CARNIVAL CORPORATION DECLARES DIVIDEND",
-   "link": "https://www.prnewswire.com/news-releases/carnival-corporation-declares-dividend-302917310.html",
-   "summary": "MIAMI, Oct. 22, 2026 /PRNewswire/ -- Carnival Corporation Ltd. (NYSE: CCL) (the \"Company\") has announced that its board of directors has declared a dividend of $0.15 per share. The Company's board of directors approved a record date for the quarterly dividend of November 6, 2026, and a...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T20:10:00+00:00",
-   "tickers": [
-    "CCL"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "c2ca50142d56",
-   "title": "KQC Quantum, Inc. and Charlton Aria Acquisition Corporation Announce Shareholder Approval of Business Combination Deadline Extension",
-   "link": "http://www.businesswire.com/news/home/20261021973123/en/KQC-Quantum-Inc.-and-Charlton-Aria-Acquisition-Corporation-Announce-Shareholder-Approval-of-Business-Combination-Deadline-Extension/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-   "summary": "WILMINGTON, Del. & BUSAN, South Korea--(BUSINESS WIRE)--KQC Quantum, Inc. (“KQC Parent”), the Delaware parent company of Korea Quantum Computing Co., Ltd. (“KQC” or the “Company”), which helps enterprises adopt quantum computing and quantum-safe security, and Charlton Aria Acquisition Corporation (Nasdaq: CHAR) (“Charlton Aria”), a publicly traded special purpose acquisition company, today announced results from a special meeting held on October 19, 2026 at which Charlton Aria shareholders appr",
-   "source": "BusinessWire",
-   "category": "press",
-   "domain": "businesswire.com",
-   "published": "2026-10-22T20:10:00+00:00",
-   "tickers": [
-    "QUBT"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "399ea8f48de1",
-   "title": "Google Is Paying SpaceX $11 Billion a Year for Compute. Here's the Concentration Risk Nobody Is Pricing In.",
-   "link": "https://www.nasdaq.com/articles/google-paying-spacex-11-billion-year-compute-heres-concentration-risk-nobody-pricing",
-   "summary": "Key PointsGoogle just started paying SpaceX for access to roughly 110,000 GPUs.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T20:10:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e45d40a971ae",
-   "title": "Invesco Food & Beverage Breaks Above 200-Day Moving Average - Bullish for PBJ",
-   "link": "https://www.nasdaq.com/articles/invesco-food-beverage-breaks-above-200-day-moving-average-bullish-pbj",
-   "summary": "In trading on Thursday, shares of the Invesco Food &amp; Beverage ETF (Symbol: PBJ) crossed above their 200 day moving average of $48.06, changing hands as high as $48.27 per share. Invesco Food &amp; Beverage shares are currently trading up about 1.7% on the day. The chart be",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T20:09:11+00:00",
-   "tickers": [
-    "IVZ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c3617bf03893",
-   "title": "BlueScope Steel Limited - Depositary Receipt Price Target Increased by 19.76% to $123.86",
-   "link": "https://www.nasdaq.com/articles/bluescope-steel-limited-depositary-receipt-price-target-increased-1976-12386",
-   "summary": "The average one-year price target for BlueScope Steel Limited - Depositary Receipt (OTCPK:BLSFY) has been revised to $123.86 / share. This is an increase of 19.76% from the prior estimate of $103.42 dated February 23, 2026. These figures represent aggregate anal",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T20:09:04+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "db9c9b8d3079",
-   "title": "Elastic Announces Multi-Year Partnership with Audi Revolut F1® Team, Expanding Search and Observability Collaboration | ESTC Stock News",
-   "link": "https://www.stocktitan.net/news/ESTC/elastic-announces-multi-year-partnership-with-audi-revolut-f1-team-7dj00trlyd5q.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T20:09:00+00:00",
-   "tickers": [
-    "ESTC"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "59020e0dd199",
-   "title": "Expeditors Named Gap Inc.’s 2025 Strategic Supplier of the Year for Operations Excellence | EXPD Stock News",
-   "link": "https://www.stocktitan.net/news/EXPD/expeditors-named-gap-inc-s-2025-strategic-supplier-of-the-year-for-13wnjvk4zbtc.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T20:09:00+00:00",
-   "tickers": [
-    "EXPD"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "73f7c5b9b0dd",
-   "title": "SoundHound AI to Announce Third Quarter 2026 Financial Results on November 5th | SOUN Stock News",
-   "link": "https://www.stocktitan.net/news/SOUN/sound-hound-ai-to-announce-third-quarter-2026-financial-results-on-6t7i3p85cjvh.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T20:09:00+00:00",
-   "tickers": [
-    "SOUN"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "71e74132447a",
-   "title": "Stewart Information Services Enters Oversold Territory",
-   "link": "https://www.nasdaq.com/articles/stewart-information-services-enters-oversold-territory",
-   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics &mdash; strong fundamentals and a valuation that looks inexpensive.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T20:08:53+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a8a2e04b7514",
-   "title": "BorgWarner Becomes Oversold",
-   "link": "https://www.nasdaq.com/articles/borgwarner-becomes-oversold",
-   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics &mdash; strong fundamentals and a valuation that looks inexpensive.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T20:08:48+00:00",
-   "tickers": [
-    "BWA"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b1b1a77794ea",
-   "title": "Liberty Energy (LBRT) Shares Enter Oversold Territory",
-   "link": "https://www.nasdaq.com/articles/liberty-energy-lbrt-shares-enter-oversold-territory",
-   "summary": "In trading on Thursday, shares of Liberty Energy Inc (Symbol: LBRT) entered into oversold territory, changing hands as low as $15.17 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure moment",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T20:08:36+00:00",
-   "tickers": [
-    "LBRT"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "df9aa933ed53",
-   "title": "RSI Alert: Mid Penn Bancorp Now Oversold",
-   "link": "https://www.nasdaq.com/articles/rsi-alert-mid-penn-bancorp-now-oversold",
-   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics &mdash; strong fundamentals and a valuation that looks inexpensive.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T20:08:33+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f5721e817219",
-   "title": "Mueller Water Products Expands Stock Repurchase Authorization by $300 Million and Increases Quarterly Dividend by 14.3% | MWA Stock News",
-   "link": "https://www.stocktitan.net/news/MWA/mueller-water-products-expands-stock-repurchase-authorization-by-300-jhwmthjlm4b3.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T20:08:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "4263bee2af3a",
-   "title": "DAR Crosses Below Key Moving Average Level",
-   "link": "https://www.nasdaq.com/articles/dar-crosses-below-key-moving-average-level",
-   "summary": "In trading on Thursday, shares of Darling Ingredients Inc (Symbol: DAR) crossed below their 200 day moving average of $57.86, changing hands as low as $54.86 per share. Darling Ingredients Inc shares are currently trading down about 6% on the day. The chart below shows the one",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T20:07:53+00:00",
-   "tickers": [
-    "DAR"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9979d2c2d5a9",
-   "title": "VTOL Crosses Critical Technical Indicator",
-   "link": "https://www.nasdaq.com/articles/vtol-crosses-critical-technical-indicator",
-   "summary": "In trading on Thursday, shares of Bristow Group Inc (Symbol: VTOL) entered into oversold territory, changing hands as low as $37.17 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentu",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T20:07:31+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ffe406714310",
-   "title": "Trekor Metals Breaks Below 200-Day Moving Average - Notable for TGB",
-   "link": "https://www.nasdaq.com/articles/trekor-metals-breaks-below-200-day-moving-average-notable-tgb",
-   "summary": "In trading on Thursday, shares of Trekor Metals Ltd (Symbol: TGB) crossed below their 200 day moving average of $7.59, changing hands as low as $7.27 per share. Trekor Metals Ltd shares are currently trading off about 8.4% on the day. The chart below shows the one year perform",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T20:07:28+00:00",
-   "tickers": [
-    "TGB"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f330dfac7183",
-   "title": "1st Source Corporation Reports Record Third Quarter Results, Cash Dividend Declared | SRCE Stock News",
-   "link": "https://www.stocktitan.net/news/SRCE/1st-source-corporation-reports-record-third-quarter-results-cash-g4ncufeya9zh.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T20:07:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "CRL": "Charles River Laboratories International",
-  "EXPD": "Expeditors International of Washington",
   "AVEM": "Avantis Emerging Markets Equity ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "DB": "Deutsche Bank Aktiengesellschaft",
@@ -8965,9 +8954,7 @@
   "CRBG": "Corebridge Financial",
   "CRS": "Carpenter Technology",
   "GVA": "Granite Construction",
-  "TGB": "Taseko Mines Limited",
   "ABT": "Abbott Laboratories",
-  "DAR": "Darling Ingredients",
   "FIX": "Comfort Systems USA",
   "LULU": "lululemon athletica",
   "NXST": "Nexstar Media Group",
@@ -8992,6 +8979,7 @@
   "RKT": "Rocket Companies",
   "TTMI": "TTM Technologies",
   "UMAC": "Unusual Machines",
+  "URBN": "Urban Outfitters",
   "HURN": "Huron Consulting",
   "AGNC": "AGNC Investment",
   "ANET": "Arista Networks",
@@ -9007,7 +8995,6 @@
   "CCK": "Crown Holdings",
   "GM": "General Motors",
   "IR": "Ingersoll Rand",
-  "LBRT": "Liberty Energy",
   "LEU": "Centrus Energy",
   "META": "Meta Platforms",
   "NAMM": "Namib Minerals",
@@ -9020,7 +9007,6 @@
   "OMC": "Omnicom Group",
   "POST": "Post Holdings",
   "SGML": "Sigma Lithium",
-  "SOUN": "SoundHound AI",
   "WFC": "Wells Fargo &",
   "BF-B": "Brown-Forman",
   "DVLT": "Datavault AI",
@@ -9056,7 +9042,6 @@
   "VRSN": "VeriSign",
   "FOX": "Fox Corp",
   "FTV": "Fortive",
-  "IVZ": "Invesco",
   "MRK": "Merck &",
   "MRNA": "Moderna",
   "NEM": "Newmont",
