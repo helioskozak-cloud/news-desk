@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T09:31:37.860679+00:00",
+ "generated": "2026-10-23T09:36:29.754913+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,6 +13,22 @@
    "domain": "cnbc.com",
    "published": "2026-10-23T09:28:29+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4605323cb977",
+   "title": "Warren Buffett's Successor, Greg Abel, Has 32% of Berkshire Hathaway's $364 Billion Portfolio Invested in 3 Unstoppable AI Stocks",
+   "link": "https://www.nasdaq.com/articles/warren-buffetts-successor-greg-abel-has-32-berkshire-hathaways-364-billion-portfolio",
+   "summary": "Key PointsWarren Buffett retired on Dec. 31, passing oversight of Berkshire&rsquo;s vaunted investment portfolio to Greg Abel.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T09:26:01+00:00",
+   "tickers": [
+    "BRK-A"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -71,6 +87,22 @@
    "domain": "cnbc.com",
    "published": "2026-10-23T09:21:59+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6169f10171a3",
+   "title": "Stock-Split Watch: Is ASML Next?",
+   "link": "https://www.nasdaq.com/articles/stock-split-watch-asml-next",
+   "summary": "Key PointsASML is one of the most important companies in the global semiconductor ecosystem, but its stock price performance has left a lot to be desired over the past three years.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T09:21:00+00:00",
+   "tickers": [
+    "ASML"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -319,6 +351,23 @@
    "published": "2026-10-23T09:04:08+00:00",
    "tickers": [],
    "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cd8982f96cec",
+   "title": "Better Memory Stock: Micron vs. Sandisk",
+   "link": "https://www.nasdaq.com/articles/better-memory-stock-micron-vs-sandisk",
+   "summary": "Key PointsMicron and Sandisk rank among the S&amp;P 500's biggest winners in 2026.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T09:04:00+00:00",
+   "tickers": [
+    "SNDK",
+    "MU"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -651,6 +700,20 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e4b41a309151",
+   "title": "Asian Shares Mixed In Choppy Trade",
+   "link": "https://www.nasdaq.com/articles/asian-shares-mixed-choppy-trade",
+   "summary": "(RTTNews) - Asian stocks ended mixed on Friday due to concerns over technology valuations and escalating Houthi attacks in Saudi Arabia.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T08:46:37+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8803,68 +8866,6 @@
    "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "1ad5276aa76f",
-   "title": "Japan CPI inflation hits 9-mth high in Sept, crosses BOJ target",
-   "link": "https://www.investing.com/news/economic-indicators/japan-cpi-inflation-hits-9mth-high-in-sept-crosses-boj-target-4967840",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-22T23:49:30+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c13007b3db72",
-   "title": "Arista Networks president & CTO Kenneth Duda sells $7.8m in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/arista-networks-president--cto-kenneth-duda-sells-78m-in-shares-93CH-4967838",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-22T23:46:15+00:00",
-   "tickers": [
-    "ANET"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fa5871b2a685",
-   "title": "Wayfair CTO Fiona Tan sells $920,000 in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/wayfair-cto-fiona-tan-sells-920000-in-company-stock-93CH-4967837",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-22T23:46:03+00:00",
-   "tickers": [
-    "W"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "30c14251a801",
-   "title": "Etsy bans AI-generated recipes and patterns from its online marketplace",
-   "link": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
-   "summary": "Etsy also laid out clearer rules around AI usage on its platform, including barring sellers from creating bot-generated listings without any human involvement.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-22T23:45:50+00:00",
-   "tickers": [
-    "ETSY"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8902,11 +8903,13 @@
   "FIX": "Comfort Systems USA",
   "PAAS": "Pan American Silver",
   "VDE": "Vanguard Energy ETF",
+  "BRK-A": "Berkshire Hathaway",
   "EQH": "Equitable Holdings",
   "LUNR": "Intuitive Machines",
   "MPC": "Marathon Petroleum",
   "SPOT": "Spotify Technology",
   "JNJ": "Johnson & Johnson",
+  "MU": "Micron Technology",
   "QUBT": "Quantum Computing",
   "RGTI": "Rigetti Computing",
   "SOFI": "SoFi Technologies",
@@ -8942,6 +8945,7 @@
   "UNP": "Union Pacific",
   "WFC": "Wells Fargo &",
   "WRB": "W. R. Berkley",
+  "ASML": "ASML Holding",
   "TM": "Toyota Motor",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
@@ -8979,7 +8983,7 @@
   "NEM": "Newmont",
   "PEP": "PepsiCo",
   "SNA": "Snap-on",
-  "W": "Wayfair",
+  "SNDK": "Sandisk",
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "SPY": "SPY ETF",
@@ -8992,7 +8996,6 @@
   "PFE": "Pfizer",
   "BRZE": "Braze",
   "JBL": "Jabil",
-  "ETSY": "Etsy",
   "IONQ": "IonQ",
   "OKLO": "Oklo",
   "T": "AT&T",
