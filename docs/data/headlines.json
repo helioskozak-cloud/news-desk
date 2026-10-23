@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T16:21:01.640592+00:00",
+ "generated": "2026-10-23T16:26:18.867526+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,7 +11,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-23T16:17:48+00:00",
+   "published": "2026-10-23T16:24:31+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -45,6 +45,20 @@
    ],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "6f58b7ee569e",
+   "title": "What we want to see when this data center stock reports earnings next week",
+   "link": "https://www.cnbc.com/investingclub/2026/10/23/what-we-want-to-see-when-this-data-center-stock-reports-earnings-next-week.html",
+   "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-23T16:15:59+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -119,23 +133,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "7e9b398ac9e0",
-   "title": "Stocks See Continued Downward Pressure from AI Anxiety and Oil Prices",
-   "link": "https://www.nasdaq.com/articles/stocks-see-continued-downward-pressure-ai-anxiety-and-oil-prices",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.45%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.08%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.08%. December E-mini S&amp;P futures (ESZ26 ) are down -0.43%, and December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T16:12:08+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -313,15 +310,15 @@
    "title": "Friday's ETF Movers: OIH, EUAD",
    "link": "https://www.nasdaq.com/articles/fridays-etf-movers-oih-euad",
    "summary": "In trading on Friday, the VanEck Oil Services ETF is outperforming other ETFs, up about 5.4% on the day. Components of that ETF showing particular strength include shares of Noble, up about 8.2% and shares of Weatherford International, up about 7.3% on the day. And underperfor",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-23T16:04:55+00:00",
    "tickers": [
     "WFRD",
     "OIH"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -330,14 +327,14 @@
    "title": "Friday Sector Laggards: Auto Parts, Trucking Stocks",
    "link": "https://www.nasdaq.com/articles/friday-sector-laggards-auto-parts-trucking-stocks",
    "summary": "In trading on Friday, auto parts shares were relative laggards, down on the day by about 3.2%. Helping drag down the group were shares of LKQ, off about 19.9% and shares of Visteon down about 8.3% on the day. Also lagging the market Friday are trucking shares, down on the day",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-23T16:04:40+00:00",
    "tickers": [
     "LKQ"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -346,12 +343,12 @@
    "title": "Friday Sector Leaders: Oil & Gas Exploration & Production, Oil & Gas Equipment & Services",
    "link": "https://www.nasdaq.com/articles/friday-sector-leaders-oil-gas-exploration-production-oil-gas-equipment-services",
    "summary": "In trading on Friday, oil &amp; gas exploration &amp; production shares were relative leaders, up on the day by about 3.8%. Leading the group were shares of W &amp; T Offshore, up about 8.5% and shares of Noble up about 7.6% on the day. Also showing relative strength are oil &",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-23T16:04:37+00:00",
    "tickers": [],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -360,8 +357,8 @@
    "title": "Daily Dividend Report: APD,ZWS,SCHW,MOS,JBL,SJM",
    "link": "https://www.nasdaq.com/articles/daily-dividend-report-apdzwsschwmosjblsjm",
    "summary": "The Board of Directors of Air Products declared a quarterly dividend of $1.81 per share of common stock. The dividend is payable on February 8, 2027 to shareholders of record at the close of business on January 4, 2027. Zurn Elkay Water Solutions announced that its Board of Di",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-23T16:04:32+00:00",
    "tickers": [
@@ -475,20 +472,6 @@
    "published": "2026-10-23T16:01:28+00:00",
    "tickers": [],
    "type": "fda",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b9b9312d5ac1",
-   "title": "Wheat Kicking off Friday with a Slight Bounce",
-   "link": "https://www.nasdaq.com/articles/wheat-kicking-friday-slight-bounce",
-   "summary": "Wheat is seeing some buying come in on Friday morning, with just marginal gains. The wheat complex saw weakness across the three markets on Thursday. Chicago SRW contracts were down 3 ½ to 6 ½ cents on the day. Open interest was up 940 contracts. KC HRW futures saw losses...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T16:01:03+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -731,6 +714,20 @@
    "tag_v": 2
   },
   {
+   "id": "520c4d12a6a8",
+   "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 34 others - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXJlUlhXa2k4Z0t0c0FMNGlNNWZyM2Y2QkdXeFhqeEFMcmduN2JZZVUwelo1aU41bHZtTUMyamxGUVB5YTVQLVQ1S2p3ZnRtVzU5ZXNsaGd1NXctODdmeEZJbTFpN0l2MlE0MFlVSHZDbWtKaVBJeTd1bkNEeF9sTVRTZVZ2VmFxT0E1X2lrOVpybnlLUHJrUTRUWjl6a1VpNGpDRm5OZ0xqRTA5?oc=5",
+   "summary": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 34 others&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-23T15:56:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "882585564f94",
    "title": "Why T-Mobile US Stock Dropped Today",
    "link": "https://www.nasdaq.com/articles/why-t-mobile-us-stock-dropped-today",
@@ -755,6 +752,20 @@
    "category": "stocks",
    "domain": "stocktitan.net",
    "published": "2026-10-23T15:55:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b9b9312d5ac1",
+   "title": "Wheat Kicking off Friday with a Slight Bounce",
+   "link": "https://www.nasdaq.com/articles/wheat-kicking-friday-slight-bounce",
+   "summary": "Wheat is seeing some buying come in on Friday morning, with just marginal gains. The wheat complex saw weakness across the three markets on Thursday. Chicago SRW contracts were down 3 ½ to 6 ½ cents on the day. Open interest was up 940 contracts. KC HRW futures saw losses...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T15:54:54+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -1019,6 +1030,23 @@
    "published": "2026-10-23T15:49:31+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7e9b398ac9e0",
+   "title": "Stocks See Continued Downward Pressure from AI Anxiety and Oil Prices",
+   "link": "https://www.nasdaq.com/articles/stocks-see-continued-downward-pressure-ai-anxiety-and-oil-prices",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.45%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.08%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.08%. December E-mini S&amp;P futures (ESZ26 ) are down -0.43%, and December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T15:49:01+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2009,6 +2037,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "7bf2e40ba3f9",
+   "title": "US designates helium as a critical material, citing its importance for semiconductors - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjM5SGFuUzRrVGZkRXl5NWJtQkYzQTVub3FLQ2MzZEd3eTRiU2RHYldFOXpUdmhNYnkwaVh1Q1pHNXNfQjdCRXhqVjZxUDZDVW5RWXFFMTU0NXZFT2tGY1FOcWdhV1ZhRG9pY2xORGdkbTdBZG5yekNOdnpJYW01cEpQU1lnOFVMY2xKZm5sY21ZQ3h6UG9TMUtQZEZ4a05WVS1Z?oc=5",
+   "summary": "US designates helium as a critical material, citing its importance for semiconductors&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-23T15:19:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -5146,20 +5188,6 @@
    "tag_v": 2
   },
   {
-   "id": "7bf2e40ba3f9",
-   "title": "US designates helium as a critical material, citing its importance for semiconductors - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjM5SGFuUzRrVGZkRXl5NWJtQkYzQTVub3FLQ2MzZEd3eTRiU2RHYldFOXpUdmhNYnkwaVh1Q1pHNXNfQjdCRXhqVjZxUDZDVW5RWXFFMTU0NXZFT2tGY1FOcWdhV1ZhRG9pY2xORGdkbTdBZG5yekNOdnpJYW01cEpQU1lnOFVMY2xKZm5sY21ZQ3h6UG9TMUtQZEZ4a05WVS1Z?oc=5",
-   "summary": "US designates helium as a critical material, citing its importance for semiconductors&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-23T14:01:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "058d9a2f6f83",
    "title": "Kin Becomes First U.S. Home Insurer to Enable WebMCP for AI Shopping",
    "link": "https://www.prnewswire.com/news-releases/kin-becomes-first-us-home-insurer-to-enable-webmcp-for-ai-shopping-302917809.html",
@@ -6277,20 +6305,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "520c4d12a6a8",
-   "title": "Gunmen open fire inside a church in Jordan, causing deaths and injuries - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXJlUlhXa2k4Z0t0c0FMNGlNNWZyM2Y2QkdXeFhqeEFMcmduN2JZZVUwelo1aU41bHZtTUMyamxGUVB5YTVQLVQ1S2p3ZnRtVzU5ZXNsaGd1NXctODdmeEZJbTFpN0l2MlE0MFlVSHZDbWtKaVBJeTd1bkNEeF9sTVRTZVZ2VmFxT0E1X2lrOVpybnlLUHJrUTRUWjl6a1VpNGpDRm5OZ0xqRTA5?oc=5",
-   "summary": "Gunmen open fire inside a church in Jordan, causing deaths and injuries&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-23T13:22:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -7977,6 +7991,20 @@
    "tag_v": 2
   },
   {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-23T12:50:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a1c66455dfd4",
    "title": "Gentex Corp. Bottom Line Declines In Q3",
    "link": "https://www.nasdaq.com/articles/gentex-corp-bottom-line-declines-q3",
@@ -8992,36 +9020,6 @@
    "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "24dd9e2430e4",
-   "title": "Mississippi releases video showing fatal shooting of 1-year-old boy by police officer - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVXBZYkZtdldzQ01oLVBGazQ1WTlGbkVWZW9vSlljTHBDY0liRXJ0cC0yRlhCSG80MFZJT3VDNzNsWldMczBGS0dQR3ZyQ3ZlLWd1T2p4cTJEVHItSEhtcU4wSWNaUjJhMXF1SW5vRlNZQk8zNXA0aTVfTmJhOFQzOTZzS3JOYmxoNFludUpUZlhYQXBhZHE5SlRTdHY4bW1kMFE?oc=5",
-   "summary": "Mississippi releases video showing fatal shooting of 1-year-old boy by police officer&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-23T12:26:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "03dab0e6d519",
-   "title": "L3Harris Announces Quarterly Dividend | LHX Stock News",
-   "link": "https://www.stocktitan.net/news/LHX/l3harris-announces-quarterly-gzgxmbcr8f1s.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-23T12:25:00+00:00",
-   "tickers": [
-    "LHX"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9079,7 +9077,6 @@
   "COF": "Capital One Financial",
   "EAT": "Brinker International",
   "HALO": "Halozyme Therapeutics",
-  "LHX": "L3Harris Technologies",
   "ORC": "Orchid Island Capital",
   "ASB": "Associated Banc-Corp",
   "BMY": "Bristol-Myers Squibb",
