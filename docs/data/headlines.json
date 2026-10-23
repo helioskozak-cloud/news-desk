@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-23T00:16:12.723062+00:00",
+ "generated": "2026-10-23T00:21:36.799387+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ff250d4de48f",
+   "title": "Japan core inflation in September surges to its highest this year at 2.1%",
+   "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
+   "summary": "Core inflation, which strips out prices of fresh food, was in line with than the 2.1% forecast by economists polled by Reuters.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-23T00:19:45+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ef8fa402a4cb",
+   "title": "Amazon caught hackers probing a PHP flaw 4 days before the fix",
+   "link": "https://www.thestreet.com/technology/amazon-caught-hackers-probing-php-vulnerabilities",
+   "summary": "The flaw sits under most of the web, and the clock started before the public ever heard about it.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-23T00:17:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "a48879488198",
    "title": "Alkane Resources - Quarterly Report - September 2026 | ALKEF Stock News",
@@ -293,20 +323,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ff250d4de48f",
-   "title": "Japan core inflation in September surges to its highest this year at 2.1%",
-   "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
-   "summary": "Core inflation, which strips out prices of fresh food, was in line with than the 2.1% forecast by economists polled by Reuters.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-22T23:43:51+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8923,22 +8939,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "88eed8ec1816",
-   "title": "Neurocrine Biosciences Announces Publication in Orphanet Journal of Rare Diseases Advancing Understanding of Hyperphagia in Prader-Willi Syndrome | NBIX Stock News",
-   "link": "https://www.stocktitan.net/news/NBIX/neurocrine-biosciences-announces-publication-in-orphanet-journal-of-8ux0nqvg298z.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T20:05:00+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8961,7 +8961,6 @@
   "JHX": "James Hardie Industries",
   "AMD": "Advanced Micro Devices",
   "CHTR": "Charter Communications",
-  "NBIX": "Neurocrine Biosciences",
   "TECK": "Teck Resources Limited",
   "WBD": "Warner Bros. Discovery",
   "KNSL": "Kinsale Capital Group",
