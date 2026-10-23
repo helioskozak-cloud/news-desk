@@ -1,54 +1,8 @@
 {
- "generated": "2026-10-23T03:46:35.882802+00:00",
+ "generated": "2026-10-23T03:51:38.711597+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
-  {
-   "id": "ceedaf95676d",
-   "title": "Corn Fades Back Lower on Thursday",
-   "link": "https://www.nasdaq.com/articles/corn-fades-back-lower-thursday-0",
-   "summary": "Corn futures fell back weaker on Thursday, after the midweek gains, as contracts were down 2 ¼ to 3 ¾ cents on the session. The CmdtyView national average Cash Corn price was down 2 1/2 cents at $4.22 1/2. The average close for December futures has been $4.84, as the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T03:39:08+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "379fe807ec1f",
-   "title": "Stocks Fall Sharply on Risk-Off as Meta Slides -7%",
-   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-risk-meta-slides-7",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -1.21%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -2.90%. December E-mini S&amp;P futures (ESZ26 ) fell -1.18%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.79%. A...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T03:39:08+00:00",
-   "tickers": [
-    "META",
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "419b3a881b83",
-   "title": "Cotton Fading Lower on Thursday",
-   "link": "https://www.nasdaq.com/articles/cotton-fading-lower-thursday",
-   "summary": "Cotton futures are trading with midday Thursday losses of 55 to 86 points so far. Crude oil is up $1.85 per barrel on the session, with the US dollar index $0.178 lower. Cotton Ginnings data from NASS showed 735,950 RB of cotton ginned from October 1 to October 15, taking...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T03:39:07+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
   {
    "id": "d0abd4ffc765",
    "title": "Stock futures are little changed after tech sector sell-off: Live updates",
@@ -57,25 +11,26 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-23T03:38:47+00:00",
+   "published": "2026-10-23T03:45:30+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
   {
-   "id": "a9b46143b19f",
-   "title": "Sugar Prices Continue to Sag From Last Week’s Contract High",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-continue-sag-last-weeks-contract-high-1",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.29 (-1.42%), and December London ICE white sugar #5 (SWZ26 ) is down -9.80 (-1.80%). March NY world sugar prices today fell to a 2-week low on long liquidation pressure after posting a contract high last Wednesday. A large long position...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T03:34:12+00:00",
+   "id": "c4beb352f61e",
+   "title": "Supermicro introduceert het NVIDIA Vera CPU-rack: een volledig vloeistofgekoelde oplossing op rackschaal met 256 CPU's, als aanvulling op het NVIDIA Vera Rubin-platform voor agentische AI op grote schaal",
+   "link": "https://www.prnewswire.com/news-releases/supermicro-introduceert-het-nvidia-vera-cpu-rack-een-volledig-vloeistofgekoelde-oplossing-op-rackschaal-met-256-cpus-als-aanvulling-op-het-nvidia-vera-rubin-platform-voor-agentische-ai-op-grote-schaal-302917708.html",
+   "summary": "Biedt dedicated capaciteit voor 256 NVIDIA Vera CPU's voor agent-sandboxomgevingen en vult NVIDIA Vera Rubin NVL72 aan met een gemeenschappelijke DCBBS-infrastructuur met NVIDIA MGX-racks van de derde generatie en batterijback-upunits Integreert NVIDIA Vera CPU's en BlueField™-4 DPU's met...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-23T03:43:00+00:00",
    "tickers": [
-    "ICE"
+    "SMCI",
+    "NVDA"
    ],
-   "type": "stocks",
+   "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -300,6 +255,20 @@
    "tag_v": 2
   },
   {
+   "id": "ceedaf95676d",
+   "title": "Corn Fades Back Lower on Thursday",
+   "link": "https://www.nasdaq.com/articles/corn-fades-back-lower-thursday-0",
+   "summary": "Corn futures fell back weaker on Thursday, after the midweek gains, as contracts were down 2 ¼ to 3 ¾ cents on the session. The CmdtyView national average Cash Corn price was down 2 1/2 cents at $4.22 1/2. The average close for December futures has been $4.84, as the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T03:21:29+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "f50732a93d5b",
    "title": "United Rentals: 3 Key Takeaways for Long-Term Investors",
    "link": "https://www.nasdaq.com/articles/united-rentals-3-key-takeaways-long-term-investors",
@@ -372,6 +341,24 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "379fe807ec1f",
+   "title": "Stocks Fall Sharply on Risk-Off as Meta Slides -7%",
+   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-risk-meta-slides-7",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -1.21%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -2.90%. December E-mini S&amp;P futures (ESZ26 ) fell -1.18%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.79%. A...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T03:16:59+00:00",
+   "tickers": [
+    "META",
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -619,6 +606,36 @@
    "published": "2026-10-23T03:03:40+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "419b3a881b83",
+   "title": "Cotton Fading Lower on Thursday",
+   "link": "https://www.nasdaq.com/articles/cotton-fading-lower-thursday",
+   "summary": "Cotton futures are trading with midday Thursday losses of 55 to 86 points so far. Crude oil is up $1.85 per barrel on the session, with the US dollar index $0.178 lower. Cotton Ginnings data from NASS showed 735,950 RB of cotton ginned from October 1 to October 15, taking...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T03:03:10+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a9b46143b19f",
+   "title": "Sugar Prices Continue to Sag From Last Week’s Contract High",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-continue-sag-last-weeks-contract-high-1",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.29 (-1.42%), and December London ICE white sugar #5 (SWZ26 ) is down -9.80 (-1.80%). March NY world sugar prices today fell to a 2-week low on long liquidation pressure after posting a contract high last Wednesday. A large long position...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T03:03:09+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8914,20 +8931,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "86ce0c8c2efd",
-   "title": "First Bank Announces Third Quarter 2026 Net Income of $12.2 Million | FRBA Stock News",
-   "link": "https://www.stocktitan.net/news/FRBA/first-bank-announces-third-quarter-2026-net-income-of-12-2-581j1nagb5w9.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T20:35:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8960,6 +8963,7 @@
   "CRBG": "Corebridge Financial",
   "CRS": "Carpenter Technology",
   "PG": "The Procter & Gamble",
+  "SMCI": "Super Micro Computer",
   "ABT": "Abbott Laboratories",
   "BBAI": "BigBear.ai Holdings",
   "FIX": "Comfort Systems USA",
@@ -9017,6 +9021,7 @@
   "TM": "Toyota Motor",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
+  "NVDA": "Grace Hopper",
   "BKH": "Black Hills",
   "BYD": "Boyd Gaming",
   "LCID": "Lucid Group",
