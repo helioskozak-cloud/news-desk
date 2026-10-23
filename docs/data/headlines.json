@@ -1,21 +1,49 @@
 {
- "generated": "2026-10-23T15:01:25.709354+00:00",
+ "generated": "2026-10-23T15:06:19.641253+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
-   "id": "4b7ddf71af13",
-   "title": "City of Millington and First Horizon Foundation Celebrate Historic Lone Sailor Groundbreaking",
-   "link": "https://www.prnewswire.com/news-releases/city-of-millington-and-first-horizon-foundation-celebrate-historic-lone-sailor-groundbreaking-302918188.html",
-   "summary": "First Horizon Foundation serves as the title sponsor for Tennessee's first Lone Sailor Monument as the community celebrates the United States Navy's 251st birthday. MEMPHIS, Tenn., Oct. 23, 2026 /PRNewswire/ -- The City of Millington, in partnership with First Horizon Foundation, Navy...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-23T15:00:00+00:00",
+   "id": "6f013f824970",
+   "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+   "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+   "summary": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-23T15:04:33+00:00",
    "tickers": [
-    "FHN"
+    "AXP"
    ],
-   "type": "press",
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "520bf8f1961c",
+   "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+   "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+   "summary": "The 10-year Treasury yield stayed below 5% Friday after AI-driven tech selling sent investors into government bonds.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-23T15:04:09+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "2682060165ac",
+   "title": "Golden Corral closes another restaurant as shutdowns mount",
+   "link": "https://www.thestreet.com/restaurants/golden-corral-closes-another-restaurant",
+   "summary": "Golden Corral's growing list of closures could leave some families with fewer affordable dining options, raising concerns for customers who rely on its buffet.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-23T15:03:00+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -27,9 +55,67 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-23T14:59:57+00:00",
+   "published": "2026-10-23T15:00:49+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4b7ddf71af13",
+   "title": "City of Millington and First Horizon Foundation Celebrate Historic Lone Sailor Groundbreaking",
+   "link": "https://www.prnewswire.com/news-releases/city-of-millington-and-first-horizon-foundation-celebrate-historic-lone-sailor-groundbreaking-302918188.html",
+   "summary": "First Horizon Foundation serves as the title sponsor for Tennessee's first Lone Sailor Monument as the community celebrates the United States Navy's 251st birthday. MEMPHIS, Tenn., Oct. 23, 2026 /PRNewswire/ -- The City of Millington, in partnership with First Horizon Foundation, Navy...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-23T15:00:00+00:00",
+   "tickers": [
+    "FHN"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0dedc84acb96",
+   "title": "Drone Nerds Introduces ABZ Innovation C30 High-Pressure Cleaning Drone to Enterprise Portfolio | XTIA Stock News",
+   "link": "https://www.stocktitan.net/news/XTIA/drone-nerds-introduces-abz-innovation-c30-high-pressure-cleaning-wvh74xvajv47.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-23T15:00:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f1a20cb11879",
+   "title": "YouCam Integrates Newly Released Kling 4.0 API to Turn Photos into 30-Second Stories with Dialogue and Sound | PERF Stock News",
+   "link": "https://www.stocktitan.net/news/PERF/you-cam-integrates-newly-released-kling-4-0-api-to-turn-photos-into-g7uif99grujy.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-23T15:00:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a9f83ddc9d55",
+   "title": "FS Bancorp, Inc. Announces the Appointment of Matthew D. Mullet as a Director of FS Bancorp, Inc. | FSBW Stock News",
+   "link": "https://www.stocktitan.net/news/FSBW/fs-bancorp-inc-announces-the-appointment-of-matthew-d-mullet-as-a-dplc9iogpltf.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-23T15:00:00+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -45,20 +131,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "520bf8f1961c",
-   "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-   "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-   "summary": "The 10-year Treasury yield stayed below 5% Friday after AI-driven tech selling sent investors into government bonds.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-23T14:57:23+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1531,22 +1603,6 @@
     "FRO"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6f013f824970",
-   "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-   "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-   "summary": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-23T14:13:37+00:00",
-   "tickers": [
-    "AXP"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8916,64 +8972,6 @@
     "SOXX"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2a4358d400e2",
-   "title": "American Express Co. Q3 Profit Climbs",
-   "link": "https://www.nasdaq.com/articles/american-express-co-q3-profit-climbs",
-   "summary": "(RTTNews) - American Express Co. (AXP) announced earnings for its third quarter that Increases, from last year",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T11:19:40+00:00",
-   "tickers": [
-    "AXP"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "23615febfd96",
-   "title": "Exclusive-First Russian diesel from Putin-Trump deal heading for US, data shows",
-   "link": "https://www.investing.com/news/economic-indicators/exclusivetanker-carrying-40000-t-of-russian-diesel-heads-to-new-york-after-putintrump-deal-data-shows-4968099",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-23T11:19:31+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5a0edc02e257",
-   "title": "Euro set for weekly drop against dollar, yen as France concerns resurface",
-   "link": "https://www.investing.com/news/economy-news/yen-shines-as-ai-jitters-spur-safehaven-rush-4967941",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-23T11:19:14+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "94ed54887670",
-   "title": "French Benchmark Weakens On Earnings, Economic Contraction",
-   "link": "https://www.nasdaq.com/articles/french-benchmark-weakens-earnings-economic-contraction",
-   "summary": "(RTTNews) - France's equity benchmark CAC 40 shed ground on Friday with investors making cautious moves, reacting to corporate earnings updates and flash data showing a contraction in the nation's services sector activity in the month of October. Concerns over fiscal woes and wor",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T11:18:19+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   }
