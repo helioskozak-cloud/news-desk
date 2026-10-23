@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T05:26:36.221766+00:00",
+ "generated": "2026-10-23T05:31:15.590000+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -75,6 +75,38 @@
    ],
    "type": "analyst",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "379fe807ec1f",
+   "title": "Stocks Fall Sharply on Risk-Off as Meta Slides -7%",
+   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-risk-meta-slides-7",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -1.21%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -2.90%. December E-mini S&amp;P futures (ESZ26 ) fell -1.18%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.79%. A...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T05:08:38+00:00",
+   "tickers": [
+    "META",
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ceedaf95676d",
+   "title": "Corn Fades Back Lower on Thursday",
+   "link": "https://www.nasdaq.com/articles/corn-fades-back-lower-thursday-0",
+   "summary": "Corn futures fell back weaker on Thursday, after the midweek gains, as contracts were down 2 ¼ to 3 ¾ cents on the session. The CmdtyView national average Cash Corn price was down 2 1/2 cents at $4.22 1/2. The average close for December futures has been $4.84, as the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T05:08:38+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -233,24 +265,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "379fe807ec1f",
-   "title": "Stocks Fall Sharply on Risk-Off as Meta Slides -7%",
-   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-risk-meta-slides-7",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -1.21%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -2.90%. December E-mini S&amp;P futures (ESZ26 ) fell -1.18%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.79%. A...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T04:59:17+00:00",
-   "tickers": [
-    "META",
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -575,20 +589,6 @@
    "tickers": [],
    "type": "analyst",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ceedaf95676d",
-   "title": "Corn Fades Back Lower on Thursday",
-   "link": "https://www.nasdaq.com/articles/corn-fades-back-lower-thursday-0",
-   "summary": "Corn futures fell back weaker on Thursday, after the midweek gains, as contracts were down 2 ¼ to 3 ¾ cents on the session. The CmdtyView national average Cash Corn price was down 2 1/2 cents at $4.22 1/2. The average close for December futures has been $4.84, as the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T04:30:27+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2158,20 +2158,6 @@
    "tag_v": 2
   },
   {
-   "id": "ef19bcfbee86",
-   "title": "Agriculture secretary says agency is ‘full-bore ahead’ on Forest Service reorganization - AP News",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0xpaW5PdVN3YnY2SVMyX1lOOElRVlJteTZGRlhpOW5BbFk5ajlGNDZ1RGRqcVpsYWJrVndjZ0NYNE1QUXJfZm1STzdsdmJPRnNrYV84Sk0tWlVrNDlZeWJ2U2lEWUl0TVlqcW0wdm5keW0temtyaWs0cFdHYWdyaFI2TWRjenppTFVOSGJmaTdQRUNyZ2dUM0pHdlh5ZkUtSDVnSkdIU2s4Z2toOWxuTi1lLWlvX0k?oc=5",
-   "summary": "Agriculture secretary says agency is ‘full-bore ahead’ on Forest Service reorganization&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-23T02:29:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "d4115e841934",
    "title": "LianLian Global and PayPal Power Cross-Border Payouts for Social Commerce, Marketplace, and eCommerce Customers",
    "link": "https://www.prnewswire.com/news-releases/lianlian-global-and-paypal-power-cross-border-payouts-for-social-commerce-marketplace-and-ecommerce-customers-302917635.html",
@@ -2230,6 +2216,20 @@
    "published": "2026-10-23T02:19:29+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2e44ac06eab6",
+   "title": "Ashley Hinson shows Republicans' midterm balancing act as Trump comes to boost Iowa turnout - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaG5uUGpMN2p0bXJwZm5OdkN6MTUyOEhrb0VoTU9SS2dXQ2FyTXNONVV3QTg0T0Y5OEVQOG1QU3VxWjFzNzVkNExoZHF6WjVEV0RpakFueGxiWGNQYmk4amQ2VWNBXzdKdFRwZnJoLVd1OHE4LVlEc083OFdlUFYtRk1WSF95Q3NqdnNELVNYOE9fdlhldDlacjhXdlRma2Y0NGt1cA?oc=5",
+   "summary": "Ashley Hinson shows Republicans' midterm balancing act as Trump comes to boost Iowa turnout&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-23T02:18:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -5782,6 +5782,20 @@
    "tag_v": 2
   },
   {
+   "id": "ef19bcfbee86",
+   "title": "Agriculture secretary says agency is “full-bore ahead” on Forest Service reorganization - AP News",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0xpaW5PdVN3YnY2SVMyX1lOOElRVlJteTZGRlhpOW5BbFk5ajlGNDZ1RGRqcVpsYWJrVndjZ0NYNE1QUXJfZm1STzdsdmJPRnNrYV84Sk0tWlVrNDlZeWJ2U2lEWUl0TVlqcW0wdm5keW0temtyaWs0cFdHYWdyaFI2TWRjenppTFVOSGJmaTdQRUNyZ2dUM0pHdlh5ZkUtSDVnSkdIU2s4Z2toOWxuTi1lLWlvX0k?oc=5",
+   "summary": "Agriculture secretary says agency is “full-bore ahead” on Forest Service reorganization&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-22T23:02:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "f27bed8d4b82",
    "title": "Apple SVP Jennifer Newstead sells $814,748 in AAPL stock",
    "link": "https://www.investing.com/news/insider-trading-news/apple-svp-jennifer-newstead-sells-814748-in-aapl-stock-93CH-4967792",
@@ -8899,22 +8913,6 @@
    ],
    "type": "earnings",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "31fb20573804",
-   "title": "Rivian Acquires Third Dimension AI, Inc. to Accelerate Advanced Scene Simulation for Autonomous Driving Technology Development | RIVN Stock News",
-   "link": "https://www.stocktitan.net/news/RIVN/rivian-acquires-third-dimension-ai-inc-to-accelerate-advanced-scene-1axsoo5mf6nn.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-22T21:04:00+00:00",
-   "tickers": [
-    "RIVN"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
    "tag_v": 2
   }
  ],
