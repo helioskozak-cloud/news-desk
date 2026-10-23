@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T01:36:32.950987+00:00",
+ "generated": "2026-10-23T01:41:12.330716+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -77,6 +77,24 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "379fe807ec1f",
+   "title": "Stocks Fall Sharply on Risk-Off as Meta Slides -7%",
+   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-risk-meta-slides-7",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -1.21%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -2.90%. December E-mini S&amp;P futures (ESZ26 ) fell -1.18%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.79%. A...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T01:18:29+00:00",
+   "tickers": [
+    "META",
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -429,24 +447,6 @@
    "tickers": [],
    "type": "analyst",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "379fe807ec1f",
-   "title": "Stocks Fall Sharply on Risk-Off as Meta Slides -7%",
-   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-risk-meta-slides-7",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -1.21%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -2.90%. December E-mini S&amp;P futures (ESZ26 ) fell -1.18%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.79%. A...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T01:01:39+00:00",
-   "tickers": [
-    "META",
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -962,6 +962,20 @@
    "published": "2026-10-23T00:49:22+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "daaf7a4e3d7c",
+   "title": "Powerful earthquake in China’s Tibet collapses hundreds of homes and kills at least 16 people - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc?oc=5",
+   "summary": "Powerful earthquake in China’s Tibet collapses hundreds of homes and kills at least 16 people&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-23T00:49:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7084,20 +7098,6 @@
    "published": "2026-10-22T20:40:00+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "daaf7a4e3d7c",
-   "title": "A 7.0 earthquake hits China’s Tibet, killing 16 and injuring 32 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc?oc=5",
-   "summary": "A 7.0 earthquake hits China’s Tibet, killing 16 and injuring 32&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-22T20:40:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
