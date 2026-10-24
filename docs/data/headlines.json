@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T12:31:35.366964+00:00",
+ "generated": "2026-10-24T12:35:58.323855+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -34,6 +34,20 @@
    "tag_v": 2
   },
   {
+   "id": "e0a12d525059",
+   "title": "Is Bitcoin a Buy Right Now?",
+   "link": "https://www.nasdaq.com/articles/bitcoin-buy-right-now",
+   "summary": "Key PointsJ.P. Morgan predicts 10% annualized returns for Bitcoin over the next decade.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T12:20:00+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "1c6766c6ffaa",
    "title": "JetBlue has a customer service problem hiding in plain sight",
    "link": "https://www.thestreet.com/travel/jetblue-forced-bag-check-customer-service-problem",
@@ -44,6 +58,20 @@
    "published": "2026-10-24T12:17:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4d34732b3fc4",
+   "title": "I'd Put Most of a Lump Sum Into an S&P 500 Fund Right Away. Here's When I Wouldn't.",
+   "link": "https://www.nasdaq.com/articles/id-put-most-lump-sum-sp-500-fund-right-away-heres-when-i-wouldnt",
+   "summary": "Key PointsVanguard's 2012 study showed investing a lump sum all at once beat dollar-cost averaging around two-thirds of the time.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T12:12:02+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2168,6 +2196,22 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8ddff46ed19d",
+   "title": "Amex Stock Slides on Job Cuts, But the Real Story Is Macro",
+   "link": "https://www.marketbeat.com/articles/amex-stock-slides-on-job-cuts-but-the-real-story-is-macro/",
+   "summary": "American Express posted record Q3 2026 revenue, raised EPS guidance, and improved credit metrics, yet AXP stock fell as investors weighed job cuts and macro concerns.",
+   "source": "MarketBeat",
+   "category": "stocks",
+   "domain": "marketbeat.com",
+   "published": "2026-10-24T07:35:00+00:00",
+   "tickers": [
+    "AXP"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8814,50 +8858,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "520bf8f1961c",
-   "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-   "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-   "summary": "The 10-year Treasury yield was just below 5% Friday after AI-driven tech selling sent investors into the safety of government bonds.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-23T20:20:58+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "4ebcc09a1a20",
-   "title": "Trump says he ordered DOJ suit to block Alaska Senate race certification if Republican loses",
-   "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
-   "summary": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-23T20:20:41+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "42c4798f370c",
-   "title": "Is Elon Musk Coming for Verizon?",
-   "link": "https://www.nasdaq.com/articles/elon-musk-coming-verizon",
-   "summary": "In this episode of Motley Fool Hidden Gems Investing, Motley Fool contributors Travis Hoium, Lou Whiteman, and Dan Caplinger discuss:",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T20:20:02+00:00",
-   "tickers": [
-    "VZ"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8886,7 +8886,6 @@
   "RNR": "RenaissanceRe Holdings",
   "SH": "ProShares Short S&P500",
   "VRTX": "Vertex Pharmaceuticals",
-  "VZ": "Verizon Communications",
   "PLTR": "Palantir Technologies",
   "AMPX": "Amprius Technologies",
   "AWK": "American Water Works",
