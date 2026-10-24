@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T15:06:00.631418+00:00",
+ "generated": "2026-10-24T15:11:04.240502+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -47,6 +47,36 @@
    "published": "2026-10-24T14:51:00+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "54350f41ecff",
+   "title": "3 Industrial Stocks Under $50 to Buy in October",
+   "link": "https://www.nasdaq.com/articles/3-industrial-stocks-under-50-buy-october",
+   "summary": "Key PointsEngineering specialist Amentum has booked over $1 billion in defense awards, but debt remains a risk.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T14:50:00+00:00",
+   "tickers": [
+    "AMTM"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f81645ed7c91",
+   "title": "IDFC First Bank Q2 FY27 slides: profit crosses Rs. 1,000 Cr milestone",
+   "link": "https://www.investing.com/news/company-news/idfc-first-bank-q2-fy27-slides-profit-crosses-rs-1000-cr-milestone-93CH-4970851",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-24T14:48:38+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1505,7 +1535,7 @@
   },
   {
    "id": "0d170f41b7f2",
-   "title": "Lufthansa exits entire market until end of November, offers refunds",
+   "title": "Lufthansa exits entire market until end of November",
    "link": "https://www.thestreet.com/economy/lufthansa-exits-entire-market-until-end-of-november-offers-refunds",
    "summary": "The airline confirmed that it is pushing back the restart of its flight suspension.",
    "source": "TheStreet",
@@ -8883,36 +8913,6 @@
    "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "e65fbe4826a0",
-   "title": "Laser Photonics receives Nasdaq notice for minimum bid price non-compliance",
-   "link": "https://www.investing.com/news/sec-filings/laser-photonics-receives-nasdaq-notice-for-minimum-bid-price-noncompliance-93CH-4970389",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-23T21:02:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5c6acac6987d",
-   "title": "Trick or Treat, Collect 'Em All -- CASEKOO Unleashes Limited-Edition Spooky Commemorative Postcards for Halloween",
-   "link": "https://www.prnewswire.com/news-releases/trick-or-treat-collect-em-all--casekoo-unleashes-limited-edition-spooky-commemorative-postcards-for-halloween-302918159.html",
-   "summary": "LOS ANGELES, Oct. 23, 2026 /PRNewswire/ -- Toast to 10 years of CASEKOO with the debut of all-new, limited-edition Spooky Season Commemorative Postcards! These eerie, collectible cards pair perfectly with any new iPhone case and are souvenir-worthy and frightfully ready! Since last week,...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-23T21:00:00+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8967,6 +8967,7 @@
   "RIVN": "Rivian Automotive",
   "UBER": "Uber Technologies",
   "ALK": "Alaska Air Group",
+  "AMTM": "Amentum Holdings",
   "AR": "Antero Resources",
   "AXP": "American Express",
   "COST": "Costco Wholesale",
