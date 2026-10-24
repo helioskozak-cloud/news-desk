@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-24T16:21:31.500998+00:00",
+ "generated": "2026-10-24T16:26:01.054738+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b998df078a12",
+   "title": "Mass protests challenge Macron as French police use tear gas and water cannons - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+   "summary": "Mass protests challenge Macron as French police use tear gas and water cannons&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-24T16:20:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "4edf17f49e23",
    "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
@@ -32,17 +46,34 @@
    "tag_v": 2
   },
   {
-   "id": "b998df078a12",
-   "title": "Mass protests challenge Macron as French police use tear gas and water cannons - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
-   "summary": "Mass protests challenge Macron as French police use tear gas and water cannons&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-24T15:57:00+00:00",
-   "tickers": [],
-   "type": "macro",
+   "id": "2a28917c7b70",
+   "title": "Could Redwire Be the Next Rocket Lab?",
+   "link": "https://www.nasdaq.com/articles/could-redwire-be-next-rocket-lab",
+   "summary": "Key PointsRedwire&rsquo;s record Q2, with revenue up about 90% and a $542 million backlog, was driven mainly by its defense business.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T16:03:00+00:00",
+   "tickers": [
+    "RKLB",
+    "RDW"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "396784fa0a36",
+   "title": "MPLX Stock Pays a Hefty 7.4% Dividend Yield. Here's How Much $10,000 Generates in Passive Income Each Year.",
+   "link": "https://www.nasdaq.com/articles/mplx-stock-pays-hefty-74-dividend-yield-heres-how-much-10000-generates-passive-income-each",
+   "summary": "Key PointsMPLX is worth a closer look if you're a long-term income-seeking investor.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T15:54:00+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8880,36 +8911,6 @@
    "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "fbb3e848376b",
-   "title": "Russia stocks higher at close of trade; MOEX Russia Index up 1.51%",
-   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-151-4970421",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-23T21:20:03+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "03c8ddc6c7f1",
-   "title": "The Private Equity Playbook Most Small Business Owners Never Get Access To",
-   "link": "https://www.nasdaq.com/articles/private-equity-playbook-most-small-business-owners-never-get-access",
-   "summary": "In this episode of Motley Fool Hidden Gems Investing, Motley Fool contributor Rachel Warren talks with Codie Sanchez -- former Wall Street investor, New York Times best-selling author, and founder of Contrarian Thinking -- about the private equity frameworks she's now deploying f",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T21:20:02+00:00",
-   "tickers": [
-    "NYT"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9023,6 +9024,7 @@
   "IVZ": "Invesco",
   "MCO": "Moody's",
   "PEP": "PepsiCo",
+  "RDW": "Redwire",
   "SMTC": "Semtech",
   "SNDK": "Sandisk",
   "VLTO": "Veralto",
