@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T23:21:31.364258+00:00",
+ "generated": "2026-10-24T23:26:00.402146+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,6 +13,23 @@
    "domain": "thestreet.com",
    "published": "2026-10-24T23:17:00+00:00",
    "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fbf1bce23f37",
+   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
+   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&amp;P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T23:11:33+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -60,6 +77,38 @@
    "tag_v": 2
   },
   {
+   "id": "e3b20031f5f6",
+   "title": "Advance Auto Parts vs. Etsy: Which Consumer Stock Is a Better Buy in 2026?",
+   "link": "https://www.nasdaq.com/articles/advance-auto-parts-vs-etsy-which-consumer-stock-better-buy-2026",
+   "summary": "Key PointsAdvance Auto Parts is navigating a turnaround while maintaining a balanced split between professional and DIY customers.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T22:52:02+00:00",
+   "tickers": [
+    "ETSY"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "be8177a1d8df",
+   "title": "Stock-Split Watch: Is Palantir Next?",
+   "link": "https://www.nasdaq.com/articles/stock-split-watch-palantir-next-0",
+   "summary": "Key PointsStrong business momentum has translated into huge share price gains for Palantir.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T22:50:00+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "3b8603d3991d",
    "title": "Fast-fashion giant to pay $100 million after customer complaints",
    "link": "https://www.thestreet.com/retail/fast-fashion-giant-to-pay-100-million-after-customer-complaints",
@@ -84,23 +133,6 @@
    "published": "2026-10-24T22:29:45+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fbf1bce23f37",
-   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
-   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&amp;P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T22:25:59+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -278,6 +310,20 @@
     "CVX"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b998df078a12",
+   "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+   "summary": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-24T21:31:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6262,20 +6308,6 @@
    "tag_v": 2
   },
   {
-   "id": "b998df078a12",
-   "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
-   "summary": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-24T05:22:40+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "cd18878f54b3",
    "title": "Athena Gold CEO Koby Kushner buys $3,534 in company stock",
    "link": "https://www.investing.com/news/insider-trading-news/athena-gold-ceo-koby-kushner-buys-3534-in-company-stock-93CH-4970616",
@@ -8903,34 +8935,6 @@
    "published": "2026-10-23T22:54:42+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "255725c8fedf",
-   "title": "SpaceX’s $40bn AI debt deal faces hurdles amid credit market turmoil - Bloomberg",
-   "link": "https://www.investing.com/news/company-news/spacexs-40bn-ai-debt-deal-faces-hurdles-amid-credit-market-turmoil--bloomberg-4970497",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-23T22:52:42+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c520fd2cd1be",
-   "title": "Graphano Energy amends private placement to add flow-through shares",
-   "link": "https://www.investing.com/news/company-news/graphano-energy-amends-private-placement-to-add-flowthrough-shares-93CH-4970496",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-23T22:52:32+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   }
