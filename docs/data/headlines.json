@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T02:51:32.099919+00:00",
+ "generated": "2026-10-24T02:56:22.717850+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -60,6 +60,53 @@
     "AMZN"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fbf1bce23f37",
+   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
+   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&amp;P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T02:26:04+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fd126daf9d9d",
+   "title": "Coffee Prices Fall Despite Decline in ICE Coffee Inventories to 5-week Low",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-despite-decline-ice-coffee-inventories-5-week-low-0",
+   "summary": "December arabica coffee (KCZ26 ) closed down -5.00 (-1.60%) on Friday, and November ICE robusta coffee (RMX26 ) closed down -60 (-1.82%). Arabica coffee prices fell on Friday due to (1) some long liquidation pressure after the rally seen in mid-October, and (2) ideas that ICE inventories may rise over...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T02:26:04+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "56d2263d7f4a",
+   "title": "Wheat Bulls Fail to Find Footing on Friday",
+   "link": "https://www.nasdaq.com/articles/wheat-bulls-fail-find-footing-friday",
+   "summary": "The wheat complex faded lower into the weekend across most contracts. Chicago SRW contracts were mostly fractionally to 2 ¾ cents lower. December was up a tick, but still fell 35 ½ cents this week. KC HRW futures posted losses of 1 ¼ to 3 ¾ cents on Friday, with...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T02:26:04+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -156,39 +203,6 @@
     "GIL"
    ],
    "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "fbf1bce23f37",
-   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
-   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&amp;P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T01:57:59+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fd126daf9d9d",
-   "title": "Coffee Prices Fall Despite Decline in ICE Coffee Inventories to 5-week Low",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-despite-decline-ice-coffee-inventories-5-week-low-0",
-   "summary": "December arabica coffee (KCZ26 ) closed down -5.00 (-1.60%) on Friday, and November ICE robusta coffee (RMX26 ) closed down -60 (-1.82%). Arabica coffee prices fell on Friday due to (1) some long liquidation pressure after the rally seen in mid-October, and (2) ideas that ICE inventories may rise over...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T01:57:59+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -294,20 +308,6 @@
     "GH"
    ],
    "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "56d2263d7f4a",
-   "title": "Wheat Bulls Fail to Find Footing on Friday",
-   "link": "https://www.nasdaq.com/articles/wheat-bulls-fail-find-footing-friday",
-   "summary": "The wheat complex faded lower into the weekend across most contracts. Chicago SRW contracts were mostly fractionally to 2 ¾ cents lower. December was up a tick, but still fell 35 ½ cents this week. KC HRW futures posted losses of 1 ¼ to 3 ¾ cents on Friday, with...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T01:45:07+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
