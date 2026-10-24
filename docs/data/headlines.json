@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T13:25:58.582508+00:00",
+ "generated": "2026-10-24T13:31:08.672971+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -71,6 +71,23 @@
    "domain": "cnbc.com",
    "published": "2026-10-24T13:05:01+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1c252e55270c",
+   "title": "Rivian Shines as a Bright Spot in a Down U.S. EV Market, and Surprisingly, It's Not All R2 Driven",
+   "link": "https://www.nasdaq.com/articles/rivian-shines-bright-spot-down-us-ev-market-and-surprisingly-its-not-all-r2-driven",
+   "summary": "Key PointsRivian's registration tally surged to No. 2 in the U.S. during August, trailing only Tesla's.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T13:05:00+00:00",
+   "tickers": [
+    "RIVN",
+    "TSLA"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -539,6 +556,20 @@
    "published": "2026-10-24T12:12:02+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9831f7e29c46",
+   "title": "This US House district was once a political battleground. Now it shows why Congress is dysfunctional - AP News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWlwd0ZicjIzenVmaGdibW90NkRLem5yLUdERTAtbVZERlBWYW9DQl83eFlhRUVRdmxBT0ZqRmlRR0xhbUJEUGVTMXJPMnNMRzRFX3lTYlcwdWF5dXZNTnowX2kxenh5ZF9JaFBhWlRiX2c0RFNXYTZKVTZ5WHZjNU80VmZxanc5RjIzMHNXUXViNVM2bG4xODl3VW9PREJ2dlpVUkk3TGpSTV96Y2gzSE56aDdSNG8xSWJxSmdn?oc=5",
+   "summary": "This US House district was once a political battleground. Now it shows why Congress is dysfunctional&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-24T12:12:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8840,34 +8871,6 @@
    "type": "legal",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "d9a5ed6b116d",
-   "title": "Dollar steadies as AI jitters spur yen gains and weigh on euro",
-   "link": "https://www.investing.com/news/forex-news/asia-fx-steadies-as-oil-surge-weighs-on-risk-appetite-yen-holds-gains-4967999",
-   "summary": "",
-   "source": "Investing Forex",
-   "category": "fx",
-   "domain": "investing.com",
-   "published": "2026-10-23T20:31:27+00:00",
-   "tickers": [],
-   "type": "fx",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "650b900a8462",
-   "title": "Carriage Services Announces 2026 Third Quarter Earnings Release and Conference Call Schedule | CSV Stock News",
-   "link": "https://www.stocktitan.net/news/CSV/carriage-services-announces-2026-third-quarter-earnings-release-and-hzidwowme46s.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-23T20:31:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8917,6 +8920,7 @@
   "HOOD": "Robinhood Markets",
   "JNJ": "Johnson & Johnson",
   "MU": "Micron Technology",
+  "RIVN": "Rivian Automotive",
   "UBER": "Uber Technologies",
   "AXP": "American Express",
   "COST": "Costco Wholesale",
