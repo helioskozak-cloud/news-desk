@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-24T07:56:13.849342+00:00",
+ "generated": "2026-10-24T08:01:07.130634+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "66a6fcf55ede",
+   "title": "Wayfair is selling a $220 3-piece patio bistro dining set for 49% off",
+   "link": "https://www.thestreet.com/deals/ebern-designs-3-piece-patio-bistro-dining-set-wayfair-sale-october-2026",
+   "summary": "\"The lacy metalwork evokes a bit of French Quarter romance.\"",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-24T08:00:00+00:00",
+   "tickers": [
+    "W"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "fbf1bce23f37",
    "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
@@ -786,6 +802,20 @@
    "category": "macro",
    "domain": "news.google.com",
    "published": "2026-10-24T04:59:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "18c07c2bde91",
+   "title": "As Trump fights over what America owes, slavery descendants organize for the future - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGt6V3NucGVmYlg4czg4Z1hjTzRQSHpEWWRYS08tWlk4NGZMeWxVT0pLOUFfNlh6RHNlVDU2WG1Lakk4WF96X05XalV0VFhDRElYV3RhY0Q0Zkk1WUNYTGpFa29Ubm12Q3RDVXJSMXp4YmQ0N1dyWHNqSXBQZTNTc09NOXBjVFpENU9xdDBjYl9pOXdGQnZZVkpvTHpGZTNEUDE4?oc=5",
+   "summary": "As Trump fights over what America owes, slavery descendants organize for the future&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-24T04:40:38+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -8838,36 +8868,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "3e2c8790b34f",
-   "title": "NVIDIA tests $210 support with bearish momentum: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/nvidia-stuck-below-200-sma-with-bearish-momentum-live-levels-93CH-4957916",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-23T19:17:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c080ed1d988e",
-   "title": "SanDisk tests make-or-break $1,244 support: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/sandisk-tests-1346-fibonacci-support-in-fierce-downtrend-live-93CH-4957918",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-23T19:16:52+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8957,7 +8957,6 @@
   "KGC": "Kinross Gold",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
-  "NVDA": "Grace Hopper",
   "SLB": "Schlumberger",
   "BYD": "Boyd Gaming",
   "MORN": "Morningstar",
@@ -8991,6 +8990,7 @@
   "MCO": "Moody's",
   "PEP": "PepsiCo",
   "VLTO": "Veralto",
+  "W": "Wayfair",
   "WINA": "Winmark",
   "WMT": "Walmart",
   "SPY": "SPY ETF",
