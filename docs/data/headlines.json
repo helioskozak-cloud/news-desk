@@ -1,8 +1,25 @@
 {
- "generated": "2026-10-24T18:01:07.381166+00:00",
+ "generated": "2026-10-24T18:04:58.803552+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "81df46fe3eb1",
+   "title": "American Express adds $250 Airbnb credit, but there's a catch",
+   "link": "https://www.thestreet.com/travel/american-express-adds-250-airbnb-credit-but-theres-a-catch",
+   "summary": "American Express is expanding its travel rewards, but Platinum cardholders should read the fine print.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-24T18:03:00+00:00",
+   "tickers": [
+    "AXP",
+    "ABNB"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "60f61b94b4c7",
    "title": "HBO's Harry Potter series is on track to cost more than any of the films",
@@ -238,6 +255,20 @@
     "AXON"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "74ac2651d170",
+   "title": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZLRkl4Y2Jla2ZCdW90UzZ1aHJuTl9xVjZpSGdQb2xzTDdsRFVEeURDTUJvaVQwbGU2bEFNQ21oMlJqMVFZYWc0dUZiQy1yMWQzUnBhWmZXNzFHWUdpVU1ndHdBTHZIUDFybWNZbGx2QWdRQ2VrNlgwZlMtNWxQc2dCa2U4bmxUdXl1bXhGaUlVZW5OU3RmZnFFVW5LdnpsQUdxZGZkTEpqMm54TVpB?oc=5",
+   "summary": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-24T16:59:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1393,20 +1424,6 @@
    "category": "macro",
    "domain": "news.google.com",
    "published": "2026-10-24T14:06:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "74ac2651d170",
-   "title": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3ZLRkl4Y2Jla2ZCdW90UzZ1aHJuTl9xVjZpSGdQb2xzTDdsRFVEeURDTUJvaVQwbGU2bEFNQ21oMlJqMVFZYWc0dUZiQy1yMWQzUnBhWmZXNzFHWUdpVU1ndHdBTHZIUDFybWNZbGx2QWdRQ2VrNlgwZlMtNWxQc2dCa2U4bmxUdXl1bXhGaUlVZW5OU3RmZnFFVW5LdnpsQUdxZGZkTEpqMm54TVpB?oc=5",
-   "summary": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-24T14:03:00+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -8906,20 +8923,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "425315bb883e",
-   "title": "Akebia Therapeutics, Inc. Receives Nasdaq Minimum Bid Price Deficiency Notice",
-   "link": "https://www.nasdaq.com/articles/akebia-therapeutics-inc-receives-nasdaq-minimum-bid-price-deficiency-notice",
-   "summary": "On October 21, 2026, Akebia Therapeutics, Inc. received a deficiency letter from the Listing Qualifications Department of the Nasdaq Stock Market. The notice was issued because, for the last 30 consecutive business days, the bid price for the company's common stock, par value $0.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T21:43:07+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9043,6 +9046,7 @@
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "SPY": "SPY ETF",
+  "ABNB": "Airbnb",
   "BULL": "Webull",
   "GNTX": "Gentex",
   "INCY": "Incyte",
