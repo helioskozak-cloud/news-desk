@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-24T15:46:33.124303+00:00",
+ "generated": "2026-10-24T15:51:20.792525+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5fb181b5d63b",
+   "title": "Bill Ackman makes a striking claim on streaming giant he dumped at a $400 million loss",
+   "link": "https://www.thestreet.com/investing/stocks/nflx-netflix-bill-ackman-calls-the-streaming-stock-a-high-growth-utility-after-400m-loss-in-2022",
+   "summary": "Bill Ackman sold Netflix in 2022. Now he says it has \"won the streaming wars.\"",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-24T15:47:00+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "5bb8926b9777",
    "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
@@ -245,6 +261,20 @@
     "DB"
    ],
    "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b998df078a12",
+   "title": "Thousands march in France over schools and living costs as police use tear gas - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+   "summary": "Thousands march in France over schools and living costs as police use tear gas&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-24T14:51:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3786,20 +3816,6 @@
    "published": "2026-10-24T07:25:17+00:00",
    "tickers": [],
    "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b998df078a12",
-   "title": "Thousands march in France over schools and living costs as police use tear gas - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
-   "summary": "Thousands march in France over schools and living costs as police use tear gas&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-24T07:25:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8899,22 +8915,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "a0533583c5ef",
-   "title": "Kilroy Realty (KRC) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/kilroy-realty-krc-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T21:13:14+00:00",
-   "tickers": [
-    "KRC"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8990,7 +8990,6 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "HSBC": "HSBC Holdings",
-  "KRC": "Kilroy Realty",
   "LLY": "Eli Lilly and",
   "MT": "ArcelorMittal",
   "WFC": "Wells Fargo &",
