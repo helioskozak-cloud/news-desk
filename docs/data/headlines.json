@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T08:51:33.651050+00:00",
+ "generated": "2026-10-24T08:56:23.833633+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -73,6 +73,23 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "853c889fbd07",
+   "title": "Micron and Sandisk Hit Record Memory Margins. There's One Clear Winner.",
+   "link": "https://www.nasdaq.com/articles/micron-and-sandisk-hit-record-memory-margins-theres-one-clear-winner",
+   "summary": "Key PointsMicron is exposed to all facets of the memory chip industry.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T08:35:00+00:00",
+   "tickers": [
+    "SNDK",
+    "MU"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8850,20 +8867,6 @@
    "type": "fda",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "ab2d0f7ee846",
-   "title": "Seneca Foods Consensus Price Target Raised by 11.65% to $227.73",
-   "link": "https://www.nasdaq.com/articles/seneca-foods-consensus-price-target-raised-1165-22773",
-   "summary": "The average one-year price target for Seneca Foods (NASDAQGS:SENEB) has been revised to $227.73 / share. This is an increase of 11.65% from the prior estimate of $203.96 dated October 1, 2026. These figures represent aggregate analyst targets compiled from multiple sources and do",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T19:31:06+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8984,6 +8987,7 @@
   "IVZ": "Invesco",
   "MCO": "Moody's",
   "PEP": "PepsiCo",
+  "SNDK": "Sandisk",
   "VLTO": "Veralto",
   "W": "Wayfair",
   "WINA": "Winmark",
