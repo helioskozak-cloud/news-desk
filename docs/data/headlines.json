@@ -1,8 +1,25 @@
 {
- "generated": "2026-10-24T21:36:30.108357+00:00",
+ "generated": "2026-10-24T21:41:28.379625+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c434d33e2940",
+   "title": "CVS wants to be more like Costco and Marshalls",
+   "link": "https://www.thestreet.com/retail/cvs-wants-to-be-more-like-costco-and-marshalls",
+   "summary": "The struggling pharmacy chain plans to give customers a reason to visit even when they're not picking up a prescription.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-24T21:37:00+00:00",
+   "tickers": [
+    "COST",
+    "CVS"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "c21c86d30387",
    "title": "Fjallraven's $165 flannel shirt is 77% off at REI",
@@ -444,6 +461,20 @@
     "AMGN"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9831f7e29c46",
+   "title": "This US House district was once a political battleground. Now it shows why Congress is dysfunctional - AP News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWlwd0ZicjIzenVmaGdibW90NkRLem5yLUdERTAtbVZERlBWYW9DQl83eFlhRUVRdmxBT0ZqRmlRR0xhbUJEUGVTMXJPMnNMRzRFX3lTYlcwdWF5dXZNTnowX2kxenh5ZF9JaFBhWlRiX2c0RFNXYTZKVTZ5WHZjNU80VmZxanc5RjIzMHNXUXViNVM2bG4xODl3VW9PREJ2dlpVUkk3TGpSTV96Y2gzSE56aDdSNG8xSWJxSmdn?oc=5",
+   "summary": "This US House district was once a political battleground. Now it shows why Congress is dysfunctional&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-24T19:48:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3098,20 +3129,6 @@
    "published": "2026-10-24T12:12:02+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9831f7e29c46",
-   "title": "This US House district was once a political battleground. Now it shows why Congress is dysfunctional - AP News",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWlwd0ZicjIzenVmaGdibW90NkRLem5yLUdERTAtbVZERlBWYW9DQl83eFlhRUVRdmxBT0ZqRmlRR0xhbUJEUGVTMXJPMnNMRzRFX3lTYlcwdWF5dXZNTnowX2kxenh5ZF9JaFBhWlRiX2c0RFNXYTZKVTZ5WHZjNU80VmZxanc5RjIzMHNXUXViNVM2bG4xODl3VW9PREJ2dlpVUkk3TGpSTV96Y2gzSE56aDdSNG8xSWJxSmdn?oc=5",
-   "summary": "This US House district was once a political battleground. Now it shows why Congress is dysfunctional&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-24T12:12:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8917,22 +8934,6 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "395eeb18c8d3",
-   "title": "Bank of America issues Series WW preferred stock and related depositary shares",
-   "link": "https://www.investing.com/news/sec-filings/bank-of-america-issues-series-ww-preferred-stock-and-related-depositary-shares-93CH-4970491",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-23T22:37:40+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9029,6 +9030,7 @@
   "BA": "The Boeing",
   "BX": "Blackstone",
   "CBRE": "CBRE Group",
+  "CVS": "CVS Health",
   "GEV": "GE Vernova",
   "MCD": "McDonald's",
   "RIG": "Transocean",
