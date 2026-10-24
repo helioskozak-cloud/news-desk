@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T13:06:30.829715+00:00",
+ "generated": "2026-10-24T13:11:35.544613+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -96,6 +96,22 @@
    "tag_v": 2
   },
   {
+   "id": "aa2b5e6aba58",
+   "title": "Goldman says these top tech stocks have plenty of upside ahead of earnings",
+   "link": "https://www.cnbc.com/2026/10/24/top-tech-stocks-to-buy-according-to-goldman-sachs.html",
+   "summary": "Goldman Sachs said this week there are plenty of top tech companies to buy heading into their quarterly results.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-24T12:51:31+00:00",
+   "tickers": [
+    "GS"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "083adf177f65",
    "title": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races",
    "link": "https://www.investing.com/news/economic-indicators/as-winter-nears-heating-oil-emerges-as-hurdle-for-republicans-in-us-senate-races-4970790",
@@ -120,6 +136,22 @@
    "published": "2026-10-24T12:48:38+00:00",
    "tickers": [],
    "type": "fda",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a446571db7a4",
+   "title": "Berkshire shares shake the Buffett blues with new all-time highs",
+   "link": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
+   "summary": "After almost 18 months, Berkshire Hathaway shares have entirely erased all the ground they lost in the wake of Warren Buffett's surprise announcement at the 2025 shareholders meeting that he would step down as CEO.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-24T12:48:32+00:00",
+   "tickers": [
+    "BRK-A"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8834,34 +8866,6 @@
    "type": "analyst",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "5d15c3234484",
-   "title": "Canadian Stocks Slide As Concerns Of Fresh U.S.-Iran Attacks, Higher Inflation Loom Large",
-   "link": "https://www.nasdaq.com/articles/canadian-stocks-slide-concerns-fresh-us-iran-attacks-higher-inflation-loom-large",
-   "summary": "(RTTNews) - Canadian stocks edged lower on Friday due to intensifying Middle East tensions. An increase in crude oil price led to a surge in energy sector but rising concerns of higher inflation weighed on other major sectors.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T20:25:24+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "0bb94614ce3f",
-   "title": "Split $5,000 Across These 5 Dividend Stocks and Don't Look Until 2031",
-   "link": "https://www.nasdaq.com/articles/split-5000-across-these-5-dividend-stocks-and-dont-look-until-2031",
-   "summary": "Key PointsAll five companies pay regular dividends and are mid-project on something that should matter more in 2031 than it does today.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T20:25:00+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8898,6 +8902,7 @@
   "EVTV": "Envirotech Vehicles",
   "IP": "International Paper",
   "SYF": "Synchrony Financial",
+  "BRK-A": "Berkshire Hathaway",
   "DRI": "Darden Restaurants",
   "LUMN": "Lumen Technologies",
   "NYT": "The New York Times",
