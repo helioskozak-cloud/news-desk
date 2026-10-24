@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T08:06:30.552756+00:00",
+ "generated": "2026-10-24T08:11:40.625629+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,34 @@
    "published": "2026-10-24T08:03:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d071e1460a0b",
+   "title": "Slide Insurance CRO Matthew Larson sells $307,182 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/slide-insurance-cro-matthew-larson-sells-307182-in-shares-93CH-4970702",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-24T08:01:14+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "011277084e01",
+   "title": "US Innovation Foundation director sells $1.6M Linkhome shares privately",
+   "link": "https://www.investing.com/news/insider-trading-news/us-innovation-foundation-director-sells-16m-linkhome-shares-privately-93CH-4970700",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-24T08:01:07+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -58,6 +86,37 @@
    "published": "2026-10-24T07:50:00+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fdaf7bff4d6e",
+   "title": "Asana CEO Daniel Rogers sells $226,596 of ASAN shares",
+   "link": "https://www.investing.com/news/insider-trading-news/asana-ceo-daniel-rogers-sells-226596-of-asan-shares-93CH-4970694",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-24T07:46:06+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fbf1bce23f37",
+   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
+   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&amp;P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T07:42:00+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -408,23 +467,6 @@
    "published": "2026-10-24T06:23:02+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fbf1bce23f37",
-   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
-   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&amp;P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T06:20:07+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8818,48 +8860,6 @@
    "category": "markets",
    "domain": "investing.com",
    "published": "2026-10-23T19:17:38+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7564c7ca2f30",
-   "title": "Nasdaq 100 teeters above 29,100 support: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-trapped-below-30101-after-ath-breakdown-live-levels-93CH-4957925",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-23T19:17:38+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6689e358f3b9",
-   "title": "S&P 500 clings to 7,660 support above double top neckline: Live",
-   "link": "https://www.investing.com/news/stock-market-news/sp-500-double-top-tests-7678-support-live-levels-93CH-4957913",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-23T19:17:36+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "960bf6d9bad7",
-   "title": "Brent Oil hits $117.10 overbought RSI 74: Live levels",
-   "link": "https://www.investing.com/news/commodities-news/brent-oil-stuck-near-107-between-double-top-and-support-live-93CH-4956491",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-23T19:17:33+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
