@@ -1,8 +1,25 @@
 {
- "generated": "2026-10-25T19:26:28.366012+00:00",
+ "generated": "2026-10-25T19:31:37.037898+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "fbf1bce23f37",
+   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
+   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&amp;P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T19:14:47+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "9828c849c27b",
    "title": "Up Over 100% in 2026, Is CrowdStrike Still a Buy?",
@@ -345,23 +362,6 @@
    "tag_v": 2
   },
   {
-   "id": "fbf1bce23f37",
-   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
-   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&amp;P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-25T17:50:34+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "c434d33e2940",
    "title": "After 100s of closures, CVS borrows Costco and Marshalls' treasure hunt=",
    "link": "https://www.thestreet.com/retail/cvs-wants-to-be-more-like-costco-and-marshalls",
@@ -463,20 +463,6 @@
     "INTC"
    ],
    "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-25T17:24:06+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -637,6 +623,20 @@
    "published": "2026-10-25T16:55:14+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ae1e105022e8",
+   "title": "Blanche says Trump isn't trying to meddle with Alaska election results by suing over Senate race - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPME9ncV9CbWtldEtCMUFJM2JUNFp2blZQMk1FM1lRVkFYeXl2S0lFNlhvMWRxc2syeElsbzc4YzVGOEpPSmFCV2R5ODRKWTctaktzQ2JwdUYyNDR5YUUyV24tUDFjVkRTRUhadHhiMEZRQUFxOXFJb3NNcVFJRkI3Tnd1Mk5fMGhCalNvVWxfOWtEdnhyRFk0aHU3bE04ZWNkSExuTHpFWlp0YlBtVTVYSzZXWQ?oc=5",
+   "summary": "Blanche says Trump isn't trying to meddle with Alaska election results by suing over Senate race&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-25T16:49:00+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1091,6 +1091,20 @@
    ],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-25T15:20:32+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8936,20 +8950,6 @@
    ],
    "type": "earnings",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1050d565393e",
-   "title": "Consensus Price Target for Seven Hills Realty Trust - Equity Right Increases 12.58% to $0.03",
-   "link": "https://www.nasdaq.com/articles/consensus-price-target-seven-hills-realty-trust-equity-right-increases-1258-003",
-   "summary": "The average one-year price target for Seven Hills Realty Trust - Equity Right (NASDAQCM:SEVNR) has been revised to $0.03 / share. This is an increase of 12.58% from the prior estimate of $0.03 dated October 1, 2026. These figures represent aggregate analyst targ",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T12:40:13+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "neutral",
    "tag_v": 2
   }
  ],
