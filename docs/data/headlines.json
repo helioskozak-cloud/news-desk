@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T15:06:33.197460+00:00",
+ "generated": "2026-10-25T15:11:12.386279+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -31,6 +31,24 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "22f0043cbf11",
+   "title": "Jefferies Upgrades MSC Industrial Direct to Buy from Hold",
+   "link": "https://www.nasdaq.com/articles/jefferies-upgrades-msc-industrial-direct-buy-hold",
+   "summary": "Fintel reports that on October 23, 2026, Jefferies upgraded their outlook for MSC Industrial Direct (NYSE:MSM) (DB:98M) from Hold to Buy.MSC Industrial Direct Co., Inc., based in the United States, operates as a distributor of Metalworking and Maintenance, Repair, and Operations",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T14:51:44+00:00",
+   "tickers": [
+    "MSM",
+    "JEF",
+    "DB"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1203,6 +1221,20 @@
    "tickers": [],
    "type": "fda",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "662ec79b50b1",
+   "title": "College football | Latest News & Updates - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-25T12:09:50+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3374,20 +3406,6 @@
    "published": "2026-10-25T06:00:53+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "662ec79b50b1",
-   "title": "College football | Latest News & Updates - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-25T05:45:53+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8933,22 +8951,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "e07a5d598f0b",
-   "title": "Coinbase vs. Paypal: Two Fintech Giants, Two Very Different Price Tags. Which Stock Wins?",
-   "link": "https://www.nasdaq.com/articles/coinbase-vs-paypal-two-fintech-giants-two-very-different-price-tags-which-stock-wins",
-   "summary": "Key PointsCoinbase Global serves as a critical gateway for institutional and retail cryptocurrency infrastructure.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T09:30:02+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8963,6 +8965,7 @@
   "STX": "Seagate Technology Holdings",
   "AMC": "AMC Entertainment Holdings",
   "ICE": "Intercontinental Exchange",
+  "JEF": "Jefferies Financial Group",
   "NLY": "Annaly Capital Management",
   "REGN": "Regeneron Pharmaceuticals",
   "AFG": "American Financial Group",
@@ -8981,6 +8984,7 @@
   "VZ": "Verizon Communications",
   "WBD": "Warner Bros. Discovery",
   "COF": "Capital One Financial",
+  "MSM": "MSC Industrial Direct",
   "PLTR": "Palantir Technologies",
   "BMY": "Bristol-Myers Squibb",
   "CRS": "Carpenter Technology",
