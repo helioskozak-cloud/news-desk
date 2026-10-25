@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T06:51:30.575721+00:00",
+ "generated": "2026-10-25T06:56:09.235307+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -26,6 +26,51 @@
    "category": "markets",
    "domain": "investing.com",
    "published": "2026-10-25T06:31:17+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a5505138f9a2",
+   "title": "Soybeans Post Friday Gains",
+   "link": "https://www.nasdaq.com/articles/soybeans-post-friday-gains-0",
+   "summary": "Soybeans pushed higher into the weekend, with contracts up 1 ½ to 5 ¼ cents across the board. November was down 4 ¾ cents on the week. The cmdtyView national average Cash Bean price was up 3 3/4 cents at $11.99 1/4. Soymeal futures were mixed, down $1.20 to $1.60...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T06:30:16+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ef9876762361",
+   "title": "GM Just Announced a $20 Billion Buyback. Tesla Trades at 350 Times Earnings. Here's Which Auto Stock I'd Buy Today.",
+   "link": "https://www.nasdaq.com/articles/gm-just-announced-20-billion-buyback-tesla-trades-350-times-earnings-heres-which-auto",
+   "summary": "Key PointsGeneral Motors authorized up to $20 billion in share buybacks.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T06:25:00+00:00",
+   "tickers": [
+    "TSLA",
+    "GM"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d8e383722ab6",
+   "title": "Got $1,000? This Nuclear Fuel Stock Is the Pick-and-Shovel Play I'd Buy Right Now.",
+   "link": "https://www.nasdaq.com/articles/got-1000-nuclear-fuel-stock-pick-and-shovel-play-id-buy-right-now",
+   "summary": "Key PointsThe stock is down 52% so far this year.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T06:25:00+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -679,20 +724,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "a5505138f9a2",
-   "title": "Soybeans Post Friday Gains",
-   "link": "https://www.nasdaq.com/articles/soybeans-post-friday-gains-0",
-   "summary": "Soybeans pushed higher into the weekend, with contracts up 1 ½ to 5 ¼ cents across the board. November was down 4 ¾ cents on the week. The cmdtyView national average Cash Bean price was up 3 3/4 cents at $11.99 1/4. Soymeal futures were mixed, down $1.20 to $1.60...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-25T01:50:39+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8901,38 +8932,6 @@
    "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "99330b15a6ce",
-   "title": "Celsius vs. Colgate-Palmolive: Which Stock Should Investors Consider Before the Start of 2027?",
-   "link": "https://www.nasdaq.com/articles/celsius-vs-colgate-palmolive-which-stock-should-investors-consider-start-2027",
-   "summary": "Key PointsCelsius delivers explosive revenue growth by capturing a large share of the functional beverage market.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T00:50:02+00:00",
-   "tickers": [
-    "CL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "be18874eb272",
-   "title": "Freedom Broker Upgrades Procter & Gamble to Buy from Hold",
-   "link": "https://www.nasdaq.com/articles/freedom-broker-upgrades-procter-gamble-buy-hold",
-   "summary": "Fintel reports that on October 23, 2026, Freedom Broker upgraded their outlook for Procter &amp; Gamble (NYSE:PG) (BIT:1PG) from Hold to Buy.The Procter &amp; Gamble Company, based in the United States, is a leading entity in the consumer goods industry with a substantial global",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T00:49:41+00:00",
-   "tickers": [
-    "PG"
-   ],
-   "type": "upgrade",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8964,7 +8963,6 @@
   "PLTR": "Palantir Technologies",
   "AMPX": "Amprius Technologies",
   "OXY": "Occidental Petroleum",
-  "PG": "The Procter & Gamble",
   "VOO": "Vanguard S&P 500 ETF",
   "VOYG": "Voyager Technologies",
   "ABT": "Abbott Laboratories",
@@ -8975,7 +8973,6 @@
   "DRI": "Darden Restaurants",
   "GPI": "Group 1 Automotive",
   "AU": "AngloGold Ashanti",
-  "CL": "Colgate-Palmolive",
   "DELL": "Dell Technologies",
   "GIL": "Gildan Activewear",
   "HOOD": "Robinhood Markets",
