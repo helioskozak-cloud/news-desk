@@ -1,8 +1,26 @@
 {
- "generated": "2026-10-25T02:56:34.776747+00:00",
+ "generated": "2026-10-25T03:01:26.120052+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f9068ddf38fe",
+   "title": "Constellation, Vistra, and GE Vernova Ranked From Worst to First for the AI Power Boom",
+   "link": "https://www.nasdaq.com/articles/constellation-vistra-and-ge-vernova-ranked-worst-first-ai-power-boom",
+   "summary": "Key PointsConstellation Energy and Vistra both generate and sell electricity on the open market.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T02:35:00+00:00",
+   "tickers": [
+    "GEV",
+    "VST",
+    "GE"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "124dd8ac6a6b",
    "title": "Amazon’s highly rated brushed fleece throw blanket is on sale just $9",
@@ -844,6 +862,20 @@
    "tag_v": 2
   },
   {
+   "id": "669175687b1c",
+   "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+   "summary": "Associated Press News: Breaking News | Latest News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-24T22:47:12+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "3b8603d3991d",
    "title": "Fast-fashion giant to pay $100 million after customer complaints",
    "link": "https://www.thestreet.com/retail/fast-fashion-giant-to-pay-100-million-after-customer-complaints",
@@ -854,20 +886,6 @@
    "published": "2026-10-24T22:47:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "669175687b1c",
-   "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-   "summary": "Associated Press News: Breaking News | Latest News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-24T22:30:59+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8913,22 +8931,6 @@
    "type": "legal",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "e8bdefef9e0f",
-   "title": "Skyworks Solutions Consensus Price Target Raised 10.84% to $79.51",
-   "link": "https://www.nasdaq.com/articles/skyworks-solutions-consensus-price-target-raised-1084-7951",
-   "summary": "The average one-year price target for Skyworks Solutions (NASDAQGS:SWKS) (BMV:SWKS) has been revised to $79.51 / share. This is an increase of 10.84% from the prior estimate of $71.73 dated September 29, 2026. These figures represent aggregate analyst targets compiled by Fintel,",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T23:51:52+00:00",
-   "tickers": [
-    "SWKS"
-   ],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8969,7 +8971,6 @@
   "BRK-A": "Berkshire Hathaway",
   "DRI": "Darden Restaurants",
   "GPI": "Group 1 Automotive",
-  "SWKS": "Skyworks Solutions",
   "AU": "AngloGold Ashanti",
   "CL": "Colgate-Palmolive",
   "DELL": "Dell Technologies",
@@ -9064,6 +9065,7 @@
   "ORCL": "Oracle",
   "PFE": "Pfizer",
   "SAP": "SAP SE",
+  "VST": "Vistra",
   "AFL": "Aflac",
   "AMGN": "Amgen",
   "CHWY": "Chewy",
