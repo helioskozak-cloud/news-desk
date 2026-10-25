@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-25T22:46:42.954279+00:00",
+ "generated": "2026-10-25T22:51:57.839986+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "3009ffc2ebf6",
+   "title": "New Boeing MAX 10 with special safety upgrade approved to fly travelers",
+   "link": "https://www.thestreet.com/investing/stocks/new-boeing-max-10-with-special-safety-upgrade-approved-to-fly-travelers",
+   "summary": "Boeing's largest 737, fitted with a key safety upgrade, just cleared the FAA after a nine-year wait.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-25T22:47:00+00:00",
+   "tickers": [
+    "BA"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "f2594aa816af",
    "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates",
@@ -8922,23 +8938,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "455ff25aff37",
-   "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
-   "link": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
-   "summary": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-24T14:30:01+00:00",
-   "tickers": [
-    "AZN",
-    "AMGN"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9037,7 +9036,7 @@
   "NU": "Nu Holdings",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
-  "AZN": "AstraZeneca",
+  "BA": "The Boeing",
   "BN": "Brookfield",
   "BX": "Blackstone",
   "CBRE": "CBRE Group",
