@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-26T00:41:36.686868+00:00",
+ "generated": "2026-10-26T00:47:01.266886+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "7191eef2b446",
+   "title": "Brazil's Lula wins presidential election in runoff vote",
+   "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+   "summary": "Brazil's Lula wins record fourth term in presidential runoff with markets falling and real set to weaken.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-26T00:44:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "1d863b406d89",
    "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
@@ -18,17 +32,21 @@
    "tag_v": 2
   },
   {
-   "id": "7191eef2b446",
-   "title": "Brazil's Lula wins presidential election in runoff vote",
-   "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-   "summary": "",
-   "source": "CNBC Top",
+   "id": "b5f1da9aa17b",
+   "title": "Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days.",
+   "link": "https://www.nasdaq.com/articles/microsoft-alphabet-and-amazon-make-about-15-sp-500-all-3-report-earnings-within-2-days",
+   "summary": "Key PointsThe S&amp;P 500 is up around 12% so far in 2026.",
+   "source": "NASDAQ Markets",
    "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-26T00:28:10+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T00:27:01+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOG",
+    "AMZN"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -71,6 +89,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "2751750d49b2",
+   "title": "Arbor Realty Trust, Inc. - Preferred Stock Price Target Decreased by 48.98% to $17.27",
+   "link": "https://www.nasdaq.com/articles/arbor-realty-trust-inc-preferred-stock-price-target-decreased-4898-1727",
+   "summary": "The average one-year price target for Arbor Realty Trust, Inc. - Preferred Stock (NYSE:ABR.PRF) has been revised to $17.27 / share. This is a decrease of 48.98% from the prior estimate of $33.86 dated June 8, 2026. These figures represent aggregate analyst targe",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T00:08:07+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1384,20 +1416,6 @@
    "tag_v": 2
   },
   {
-   "id": "ae1e105022e8",
-   "title": "Blanche says Trump isn't trying to meddle with Alaska election results by suing over Senate race - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPME9ncV9CbWtldEtCMUFJM2JUNFp2blZQMk1FM1lRVkFYeXl2S0lFNlhvMWRxc2syeElsbzc4YzVGOEpPSmFCV2R5ODRKWTctaktzQ2JwdUYyNDR5YUUyV24tUDFjVkRTRUhadHhiMEZRQUFxOXFJb3NNcVFJRkI3Tnd1Mk5fMGhCalNvVWxfOWtEdnhyRFk0aHU3bE04ZWNkSExuTHpFWlp0YlBtVTVYSzZXWQ?oc=5",
-   "summary": "Blanche says Trump isn't trying to meddle with Alaska election results by suing over Senate race&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-25T19:22:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "994af9607b9d",
    "title": "Here's the Average Social Security Benefit at 62 vs. 70",
    "link": "https://www.nasdaq.com/articles/heres-average-social-security-benefit-62-vs-70-0",
@@ -1768,6 +1786,20 @@
    "tag_v": 2
   },
   {
+   "id": "7ace1c5b1bec",
+   "title": "French TV channels scramble to apologize after airing Albanian protests as Paris and Lyon - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU43dExjc3o3MkxRODFqNVFsa0ozbEJwXzRqVjlYclp4eXdWWWhNOG5BUDRUdWx6bGxEY1ZNekRsV2NmRGp6VXhQY1VuaXVzX0VFSnRTdDZvWU9nRDZ0NkpMVGdicEQ4NEd1NmM2ZHZ6OC1Fc0pXQWxudzY4eDJQSzlEN3lSZEdEUkxXV0VNOUhvVlhIODZuellwdkhvYmJOMWpWSG5qS3V1X0NJNjIw?oc=5",
+   "summary": "French TV channels scramble to apologize after airing Albanian protests as Paris and Lyon&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-25T18:14:13+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a094f5e2a8aa",
    "title": "Ohio State replaces BYU at No. 2 in AP Top 25; No. 1 Miami only team to hold its spot in poll - AP News",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSF9wUHhudWswUTBOOXg4X3lBRHhHVlJhNVpxQnBEWERPYThjaEV3dFhVRnVidXFsWE4xYi1nNlBJZWF6eENieG8zRXduNHJudDU4cXNRVDdoZW11aE4zREhDdXRoa2tNdTg4TEh2Y1lvRzRhV0h1c0ZUVDlEZndvZ2NfMVlCUU9pZWRFNjVR?oc=5",
@@ -1795,20 +1827,6 @@
     "ABNB"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7ace1c5b1bec",
-   "title": "French TV channels scramble to apologize after airing Albanian protests as Paris and Lyon - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU43dExjc3o3MkxRODFqNVFsa0ozbEJwXzRqVjlYclp4eXdWWWhNOG5BUDRUdWx6bGxEY1ZNekRsV2NmRGp6VXhQY1VuaXVzX0VFSnRTdDZvWU9nRDZ0NkpMVGdicEQ4NEd1NmM2ZHZ6OC1Fc0pXQWxudzY4eDJQSzlEN3lSZEdEUkxXV0VNOUhvVlhIODZuellwdkhvYmJOMWpWSG5qS3V1X0NJNjIw?oc=5",
-   "summary": "French TV channels scramble to apologize after airing Albanian protests as Paris and Lyon&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-25T18:06:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2105,6 +2123,20 @@
    ],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ae1e105022e8",
+   "title": "Blanche says Trump isn't trying to meddle with Alaska election results by suing over Senate race - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPME9ncV9CbWtldEtCMUFJM2JUNFp2blZQMk1FM1lRVkFYeXl2S0lFNlhvMWRxc2syeElsbzc4YzVGOEpPSmFCV2R5ODRKWTctaktzQ2JwdUYyNDR5YUUyV24tUDFjVkRTRUhadHhiMEZRQUFxOXFJb3NNcVFJRkI3Tnd1Mk5fMGhCalNvVWxfOWtEdnhyRFk0aHU3bE04ZWNkSExuTHpFWlp0YlBtVTVYSzZXWQ?oc=5",
+   "summary": "Blanche says Trump isn't trying to meddle with Alaska election results by suing over Senate race&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-25T16:52:05+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8896,37 +8928,6 @@
    "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "435f817f6d07",
-   "title": "Grayscale's New Zcash ETF Has Gathered $1 Billion in Assets in Just 30 Days. Here's Why Investors Are So Bullish on Zcash.",
-   "link": "https://www.nasdaq.com/articles/grayscales-new-zcash-etf-has-gathered-1-billion-assets-just-30-days-heres-why-investors",
-   "summary": "Key PointsZcash has been one of the best-performing cryptocurrencies in 2026, driven by growing demand for financial privacy.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T16:27:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "192343a8c0a0",
-   "title": "Booking vs. Home Depot: Is Consumer Travel or Home Improvement Benefitting One of These Stocks More?",
-   "link": "https://www.nasdaq.com/articles/booking-vs-home-depot-consumer-travel-or-home-improvement-benefitting-one-these-stocks",
-   "summary": "Key PointsBooking maintains a dominant position in the global travel market with high net margins and strong cash flow generation.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T16:21:02+00:00",
-   "tickers": [
-    "HD",
-    "BKNG"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8996,7 +8997,6 @@
   "LMT": "Lockheed Martin",
   "FLNC": "Fluence Energy",
   "GM": "General Motors",
-  "HD": "The Home Depot",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "PLNT": "Planet Fitness",
