@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-26T15:51:37.767972+00:00",
+ "generated": "2026-10-26T15:56:16.983088+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d959c54de602",
+   "title": "Anthropic IPO live updates: AI lab has $6.2B in debt, flags data center moratoriums as key risk",
+   "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+   "summary": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-26T15:54:22+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "14787a07de61",
+   "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+   "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+   "summary": "The judge ordered that Comey, the daughter of ex-FBI director James Comey, be retroactively reinstated to her job as an assistant United States attorney.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-26T15:52:36+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "a69c396d49ab",
    "title": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict",
@@ -18,23 +46,6 @@
    "tag_v": 2
   },
   {
-   "id": "3e69715909de",
-   "title": "Stocks See Support Ahead of Busy Week as Crude Oil Prices Ease",
-   "link": "https://www.nasdaq.com/articles/stocks-see-support-ahead-busy-week-crude-oil-prices-ease",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.33%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.44%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.28%. December E-mini S&amp;P futures (ESZ26 ) rose +0.42%, and December E-mini Nasdaq futures (NQZ26 )...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T15:47:33+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "e35200fefc26",
    "title": "Dollar Sees Support as T-note Yields Rise",
    "link": "https://www.nasdaq.com/articles/dollar-sees-support-t-note-yields-rise-0",
@@ -46,34 +57,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "d959c54de602",
-   "title": "Anthropic IPO live updates: AI lab has $6.2B in debt, flags data center moratoriums as key risk",
-   "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-   "summary": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-26T15:46:38+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "14787a07de61",
-   "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-   "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-   "summary": "The judge ordered that Comey, the daughter of ex-FBI director James Comey, be retroactively reinstated to her job as an assistant United States attorney.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-26T15:46:20+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -397,6 +380,23 @@
    "tag_v": 2
   },
   {
+   "id": "3e69715909de",
+   "title": "Stocks See Support Ahead of Busy Week as Crude Oil Prices Ease",
+   "link": "https://www.nasdaq.com/articles/stocks-see-support-ahead-busy-week-crude-oil-prices-ease",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.33%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.44%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.28%. December E-mini S&amp;P futures (ESZ26 ) rose +0.42%, and December E-mini Nasdaq futures (NQZ26 )...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T15:36:34+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "8947cf95a36e",
    "title": "Wawa, Sheetz, 7-Eleven face new challenge keeping shoppers coming back",
    "link": "https://www.thestreet.com/retail/wawa-sheetz-7-eleven-face-new-challenge-keeping-shoppers-coming-back",
@@ -454,6 +454,20 @@
     "MRVL"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "26842997932f",
+   "title": "Whatever the outcome of Israel's election, its policies toward the Palestinians will largely endure - AP News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlZnTHNhMml2aGxlT2lxMk1fRjc2SEx4TUFYVHdjMmdzU1dxSUk5UnhaR2FFRU42RHhDaHRJM203aDh0WGpwYkJLSzlMVGRzV0dKb3hXTHRWcFBkREdBMmd2RGZTVjhrbGhKS3BQRWxSbWhZd003bTNTSWxMZFd5dkloNnphSG5WZk1Vc3RYYUV1TkVOVG1yTXdrTmVjUWROMEpacnRYU016VUtxSDRnc0VQRDU?oc=5",
+   "summary": "Whatever the outcome of Israel's election, its policies toward the Palestinians will largely endure&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-26T15:35:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -646,6 +660,20 @@
    "tickers": [],
    "type": "ma",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "143b278975b5",
+   "title": "US stocks rise after oil prices give back some of their big gains - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGVDbFMzWWNkWEw1NzNQRUJLek52UWF2ZUh1dDVXM2FHNXhYekVEOUpNejc5djNNX0hTWDZiLVpaWUNnaGZ6b29iMS0wNHM0M0Y1eG9MdC1yVUVpTV9QbDlieDVrS3NLemIzTFdPOHFRTG1JSEpzbEc5MFR2aUhRMmFpSGJaZDJRV1d6bW1hUlVJUDdUSkFkMg?oc=5",
+   "summary": "US stocks rise after oil prices give back some of their big gains&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-26T15:29:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -942,6 +970,34 @@
    "tag_v": 2
   },
   {
+   "id": "a5505138f9a2",
+   "title": "Soybeans Post Friday Gains",
+   "link": "https://www.nasdaq.com/articles/soybeans-post-friday-gains-0",
+   "summary": "Soybeans pushed higher into the weekend, with contracts up 1 ½ to 5 ¼ cents across the board. November was down 4 ¾ cents on the week. The cmdtyView national average Cash Bean price was up 3 3/4 cents at $11.99 1/4. Soymeal futures were mixed, down $1.20 to $1.60...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T15:23:07+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "0c4029205791",
+   "title": "Cattle See Modest Buying Ahead of Bull Friendly Cattle on Feed Report",
+   "link": "https://www.nasdaq.com/articles/cattle-see-modest-buying-ahead-bull-friendly-cattle-feed-report",
+   "summary": "Live cattle futures saw some steadier trade in the front months, down a dime to 12 cents higher, with other contracts up 15 to 47 cents. December was up $2.77 for the week. Cash trade was relatively slow this week. The Friday Fed Cattle Exchange online auction showed sales one...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T15:23:07+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "f84ccb34044b",
    "title": "POLARIS SIGNS OFF-ROAD CHAMPION KYLE CHANEY TO MULTI-YEAR RACING AGREEMENT WITH RZR FACTORY RACING | PII Stock News",
    "link": "https://www.stocktitan.net/news/PII/polaris-signs-off-road-champion-kyle-chaney-to-multi-year-racing-uvwqdjj9njvf.html",
@@ -1050,6 +1106,54 @@
    "tag_v": 2
   },
   {
+   "id": "65eaccaed763",
+   "title": "Strategy Inc Reports Bitcoin Holdings of 848,517 and $204.9 million in Preferred Stock Repurchases",
+   "link": "https://www.nasdaq.com/articles/strategy-inc-reports-bitcoin-holdings-848517-and-2049-million-preferred-stock-repurchases",
+   "summary": "Strategy Inc announced updates regarding its at-the-market offering program, bitcoin holdings, and share repurchase activities for the period from October 19, 2026 to October 25, 2026. During this period, the company did not sell any shares under its at-the-market offering progra",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T15:19:41+00:00",
+   "tickers": [
+    "MSTR"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b3769d713bd7",
+   "title": "Scienjoy Holding Corporation Reports Second Quarter and First Half 2026 Unaudited Financial Results",
+   "link": "https://www.nasdaq.com/articles/scienjoy-holding-corporation-reports-second-quarter-and-first-half-2026-unaudited",
+   "summary": "Scienjoy Holding Corporation reported its unaudited financial results for the six months ended June 30, 2026. Total revenue decreased to RMB588.1 million (US$86.7 million) from RMB656.4 million in the same period of 2025. Gross profit decreased to RMB105.5 million (US$15.6 millio",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T15:19:41+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cac1ad0a8544",
+   "title": "Bitmine Immersion Technologies, Inc. Reports $15 billion in Total Holdings and Cumulative 2026 Share Repurchases of 22.9 million shares",
+   "link": "https://www.nasdaq.com/articles/bitmine-immersion-technologies-inc-reports-15-billion-total-holdings-and-cumulative-2026",
+   "summary": "Bitmine Immersion Technologies, Inc. announced that its crypto, total cash, marketable securities, and other holdings totaled $15 billion. As of October 25, 2026, the company's crypto holdings are comprised of 6,051,933 ETH at $2,356 per ETH, 215 Bitcoin (BTC), a $180 million sta",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T15:19:32+00:00",
+   "tickers": [
+    "BMNR",
+    "BTC",
+    "ETH"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "f636e983299d",
    "title": "Lilly declares fourth-quarter 2026 dividend",
    "link": "https://www.prnewswire.com/news-releases/lilly-declares-fourth-quarter-2026-dividend-302919496.html",
@@ -1112,34 +1216,6 @@
    ],
    "type": "offering",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "a5505138f9a2",
-   "title": "Soybeans Post Friday Gains",
-   "link": "https://www.nasdaq.com/articles/soybeans-post-friday-gains-0",
-   "summary": "Soybeans pushed higher into the weekend, with contracts up 1 ½ to 5 ¼ cents across the board. November was down 4 ¾ cents on the week. The cmdtyView national average Cash Bean price was up 3 3/4 cents at $11.99 1/4. Soymeal futures were mixed, down $1.20 to $1.60...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T15:16:23+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "0c4029205791",
-   "title": "Cattle See Modest Buying Ahead of Bull Friendly Cattle on Feed Report",
-   "link": "https://www.nasdaq.com/articles/cattle-see-modest-buying-ahead-bull-friendly-cattle-feed-report",
-   "summary": "Live cattle futures saw some steadier trade in the front months, down a dime to 12 cents higher, with other contracts up 15 to 47 cents. December was up $2.77 for the week. Cash trade was relatively slow this week. The Friday Fed Cattle Exchange online auction showed sales one...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T15:16:23+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2319,20 +2395,6 @@
    "published": "2026-10-26T14:49:03+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "143b278975b5",
-   "title": "US stocks climb and more than recover last week’s losses - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGVDbFMzWWNkWEw1NzNQRUJLek52UWF2ZUh1dDVXM2FHNXhYekVEOUpNejc5djNNX0hTWDZiLVpaWUNnaGZ6b29iMS0wNHM0M0Y1eG9MdC1yVUVpTV9QbDlieDVrS3NLemIzTFdPOHFRTG1JSEpzbEc5MFR2aUhRMmFpSGJaZDJRV1d6bW1hUlVJUDdUSkFkMg?oc=5",
-   "summary": "US stocks climb and more than recover last week’s losses&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-26T14:49:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3617,6 +3679,20 @@
     "OLED"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "61356760e19f",
+   "title": "Australian Parliament pays tribute to injured lawmaker as it resumes work under increased security - AP News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZklOZllOZDZSdTZlbmJSQjZMb0ZFMUlMaHJjY0hBSVhXSTF6SmwzY2RKVEpDWWIwZlk3QU1CcmVOd0E1dEZ3ZFE4RlFlNFAzUXlPMWM2eUlHTzhqWkQ0Y2NCeDNYSW4zbGRkUmRBdkNZSThUU1l5M3Y0dUQ5aTZjN1IxMTQwX3QzVENnMkdBNUY0RzRuTDFZMzdwOFhBX3FP?oc=5",
+   "summary": "Australian Parliament pays tribute to injured lawmaker as it resumes work under increased security&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-26T14:04:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8930,78 +9006,6 @@
     "ICE"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fd126daf9d9d",
-   "title": "Coffee Prices Fall Despite Decline in ICE Coffee Inventories to 5-week Low",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-despite-decline-ice-coffee-inventories-5-week-low-0",
-   "summary": "December arabica coffee (KCZ26 ) closed down -5.00 (-1.60%) on Friday, and November ICE robusta coffee (RMX26 ) closed down -60 (-1.82%). Arabica coffee prices fell on Friday due to (1) some long liquidation pressure after the rally seen in mid-October, and (2) ideas that ICE inventories may rise over...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T11:40:42+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "5d37740da611",
-   "title": "City Holding Company Q3 Sales Increase",
-   "link": "https://www.nasdaq.com/articles/city-holding-company-q3-sales-increase",
-   "summary": "(RTTNews) - City Holding Company (CHCO) reported earnings for third quarter of $34.61 million",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T11:39:22+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3c0309de8912",
-   "title": "22nd Century Expands the Pinnacle Pure Portfolio To 6 SKU’s With Addition of 100’s and Menthol Varieties | XXII Stock News",
-   "link": "https://www.stocktitan.net/news/XXII/22nd-century-expands-the-pinnacle-pure-portfolio-to-6-sku-s-with-3po56mnywt79.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-26T11:37:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "a75dc253242a",
-   "title": "TuHURA reports tumor responses in 3-patient cancer trial",
-   "link": "https://www.investing.com/news/company-news/tuhura-reports-tumor-responses-in-3patient-cancer-trial-93CH-4972287",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-26T11:36:37+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c529d1be294f",
-   "title": "Xilio doses first patient in lung cancer trial of XTX501",
-   "link": "https://www.investing.com/news/company-news/xilio-doses-first-patient-in-lung-cancer-trial-of-xtx501-93CH-4972288",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-26T11:36:37+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   }
