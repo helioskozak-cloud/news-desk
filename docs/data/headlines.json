@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-26T14:22:21.501048+00:00",
+ "generated": "2026-10-26T14:27:02.697031+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d959c54de602",
+   "title": "Anthropic IPO live updates: How the Amodei siblings, co-founders control voting shares",
+   "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+   "summary": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-26T14:25:18+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9de3dee435f6",
+   "title": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit suit before midterm",
+   "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+   "summary": "The winner of the Alaska Senate election could determine whether Republicans or Democrats have a majority in the Senate in the next Congress.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-26T14:19:30+00:00",
+   "tickers": [],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "3aad713acfea",
    "title": "Anthropic unveils public IPO filing: Here's what you need to know",
@@ -28,6 +56,23 @@
    "published": "2026-10-26T14:16:47+00:00",
    "tickers": [],
    "type": "8k",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a8b1592800a5",
+   "title": "Invesco’s RSPH or iShares’ IBB: Which Healthcare ETF Is the Better Long-Term Buy?",
+   "link": "https://www.nasdaq.com/articles/invescos-rsph-or-ishares-ibb-which-healthcare-etf-better-long-term-buy",
+   "summary": "Key PointsInvesco S&amp;P 500 Equal Weight Health Care ETF offers a lower expense ratio and a higher dividend yield than iShares Biotechnology ETF.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:13:55+00:00",
+   "tickers": [
+    "IBB",
+    "IVZ"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -195,17 +240,103 @@
    "tag_v": 2
   },
   {
-   "id": "d959c54de602",
-   "title": "Anthropic IPO live updates: How the Amodei siblings, co-founders control voting shares",
-   "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-   "summary": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
-   "source": "CNBC Top",
+   "id": "8d00fd61aac0",
+   "title": "Adobe vs. Docusign: Which Technology Stock Is a Better Buy in 2026?",
+   "link": "https://www.nasdaq.com/articles/adobe-vs-docusign-which-technology-stock-better-buy-2026",
+   "summary": "Key PointsAdobe continues to dominate the creative software market with a massive ecosystem of 1 billion monthly active users.",
+   "source": "NASDAQ Markets",
    "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-26T14:12:09+00:00",
-   "tickers": [],
-   "type": "offering",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:12:02+00:00",
+   "tickers": [
+    "ADBE"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "64d486adaabc",
+   "title": "Should You Buy Dogecoin While It's Below $1?",
+   "link": "https://www.nasdaq.com/articles/should-you-buy-dogecoin-while-its-below-1",
+   "summary": "Key PointsDogecoin Labs will unite three different products within the DOGE business ecosystem in an attempt to deliver greater utility to users.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:12:00+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "56d2263d7f4a",
+   "title": "Wheat Bulls Fail to Find Footing on Friday",
+   "link": "https://www.nasdaq.com/articles/wheat-bulls-fail-find-footing-friday",
+   "summary": "The wheat complex faded lower into the weekend across most contracts. Chicago SRW contracts were mostly fractionally to 2 ¾ cents lower. December was up a tick, but still fell 35 ½ cents this week. KC HRW futures posted losses of 1 ¼ to 3 ¾ cents on Friday, with...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:10:07+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9dc14b0c5589",
+   "title": "Corn Falling with Spillover Pressure from Soybeans",
+   "link": "https://www.nasdaq.com/articles/corn-falling-spillover-pressure-soybeans",
+   "summary": "Corn prices are down 3 to 5 cents so far on Monday. Futures failed to see buying into the weekend, with contracts down 1 ¼ to 4 ½ cents on Friday. December was down another 18 ¼ cents on the week. Open interest was down 2,464 contracts on Friday, mainly...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:10:07+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a5505138f9a2",
+   "title": "Soybeans Post Friday Gains",
+   "link": "https://www.nasdaq.com/articles/soybeans-post-friday-gains-0",
+   "summary": "Soybeans pushed higher into the weekend, with contracts up 1 ½ to 5 ¼ cents across the board. November was down 4 ¾ cents on the week. The cmdtyView national average Cash Bean price was up 3 3/4 cents at $11.99 1/4. Soymeal futures were mixed, down $1.20 to $1.60...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:10:06+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "6eb19f0cf0ba",
+   "title": "Cotton Facing Friday Weakness",
+   "link": "https://www.nasdaq.com/articles/cotton-facing-friday-weakness-0",
+   "summary": "Cotton futures are showing 48 to 52 point gains at midday. Crude oil is up $3.42 per barrel on the session, with the US dollar index $0.238 higher. USDA’s Export Sales data has cotton export commitments at 5.449 million RB, which was 15% above last year. That is 47% of...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:10:06+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6c8276be0e7f",
+   "title": "Corn Falls Lower into the Weekend, as NASS Issues Correction to September Report",
+   "link": "https://www.nasdaq.com/articles/corn-falls-lower-weekend-nass-issues-correction-september-report",
+   "summary": "Corn futures failed to see buying into the weekend, with contracts down 1 ¼ to 4 ½ cents on Friday. December was down another 18 ¼ cents on the week. The CmdtyView national average Cash Corn price was down 4 ½ cents at $4.17 ¼. USDA reported a private export...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:10:06+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -289,6 +420,93 @@
    "tag_v": 2
   },
   {
+   "id": "d048018f9acb",
+   "title": "Wheat Slipping Lower on Monday Morning Trade",
+   "link": "https://www.nasdaq.com/articles/wheat-slipping-lower-monday-morning-trade",
+   "summary": "Wheat is showing losses of 1 to 5 cents on Monday morning. The wheat complex faded lower into the weekend across most contracts. Chicago SRW contracts were mostly fractionally to 2 ¾ cents lower. December was up a tick, but still fell 35 ½ cents last week. Open interest was...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:04:48+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "056c31c34f45",
+   "title": "Soybeans Falling on Monday Following Brazil Pressure",
+   "link": "https://www.nasdaq.com/articles/soybeans-falling-monday-following-brazil-pressure",
+   "summary": "Soybeans are trading with sharp losses of 20 to 22 cents in the front months, following elections in Brazil over the weekend. Futures pushed higher into the weekend, with contracts up 1 ½ to 5 ¼ cents across the board. November was down 4 ¾ cents on the week. Open...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:04:47+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4d69938fac86",
+   "title": "Hogs Look to Monday Trade, as Pork Hits Lowest Price Since 2020",
+   "link": "https://www.nasdaq.com/articles/hogs-look-monday-trade-pork-hits-lowest-price-2020",
+   "summary": "Lean hog futures saw Friday strength, with contracts 2 to 45 cents higher on Friday, as December was still down $1.35 last week. Open interest was up 2,514 contracts on Friday. USDA’s national base hog price was reported at $67.40 in the Friday afternoon report, up 92 cents from the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:04:47+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2f73d094bfa4",
+   "title": "Cattle Traders Look to React to Bull Friendly Cattle on Feed Report",
+   "link": "https://www.nasdaq.com/articles/cattle-traders-look-react-bull-friendly-cattle-feed-report",
+   "summary": "Live cattle futures saw some steadier trade in the front months, down a dime to 12 cents higher, with other contracts up 15 to 47 cents. December was up $2.77 for the week. Open interest was down 1,488 contracts. Cash trade was relatively slow last week. The Friday Fed Cattle...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:04:47+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5fbee4d9e93c",
+   "title": "Cotton Slipping Lower on Monday",
+   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-monday",
+   "summary": "Cotton prices are down 40 to 56 points early on Monday morning. Futures closed with contracts 15 to 59 points lower, as December still managed a 20 point gain last week. Crude oil was up $3.97 per barrel on the session, with the US dollar index $0.153 higher. The large...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:04:47+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "fbf1bce23f37",
+   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
+   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&amp;P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:04:46+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "0fd22616a8cd",
    "title": "Apple Unveils All-new IPad Mini With A20 Pro",
    "link": "https://www.nasdaq.com/articles/apple-unveils-all-new-ipad-mini-a20-pro",
@@ -306,6 +524,50 @@
    "tag_v": 2
   },
   {
+   "id": "99bbee8c214a",
+   "title": "Tivic Health Systems, Inc. Subsidiary Velocity Bioworks Receives Unsolicited Acquisition Interest",
+   "link": "https://www.nasdaq.com/articles/tivic-health-systems-inc-subsidiary-velocity-bioworks-receives-unsolicited-acquisition",
+   "summary": "Tivic Health Systems, Inc., filing as Valion Bio, Inc., announced on October 26, 2026, that it has received unsolicited acquisition inquiries from independent third parties concerning its wholly owned contract development and manufacturing organization, Velocity Bioworks. The com",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:03:12+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1e71d08ce56f",
+   "title": "Xencor, Inc. Selects 400 mcg/kg as Proposed Recommended Phase 3 Dose for XmAb819 in Advanced Clear Cell Renal Cell Carcinoma",
+   "link": "https://www.nasdaq.com/articles/xencor-inc-selects-400-mcg-kg-proposed-recommended-phase-3-dose-xmab819-advanced-clear",
+   "summary": "Xencor, Inc. announced updated results from its Phase 1 study of XmAb819, an ENPP3 x CD3 T-cell engaging bispecific antibody, in patients with advanced clear cell renal cell carcinoma. Based on these results, the company selected 400 mcg/kg as the proposed intravenous recommended",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:03:12+00:00",
+   "tickers": [],
+   "type": "fda",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1b55db1248b9",
+   "title": "Unilever PLC Announces Resignation of Ruby Lu from Board of Directors Effective 24 October 2026",
+   "link": "https://www.nasdaq.com/articles/unilever-plc-announces-resignation-ruby-lu-board-directors-effective-24-october-2026",
+   "summary": "Unilever PLC announced that Ruby Lu resigned from the Board with effect from 24 October 2026. Ian Meakins, Chair of Unilever, thanked Lu for her five years of service and the perspective she brought to the Board during her tenure.View the company filing on SEC.gov",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T14:03:03+00:00",
+   "tickers": [
+    "UL"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "171ccf8f120d",
    "title": "Walmart's dark-academia-style fluted coffee table has 4 storage compartments for $70",
    "link": "https://www.thestreet.com/deals/tomnk-fluted-storage-coffee-table-mp-walmart-sale",
@@ -319,6 +581,20 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ed726da86f23",
+   "title": "Lula secures victory in Brazil’s election, but faces challenge as Bolsonaro contests results - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWDd1SUhWZmlrNUdQMU92ZFk5R19pNEJBRTI5eWJMYUpvY0x0V3dCb25TRWhIbHJYM3VQMFhkZlp2WDVzY3hmMG5Ub1IyZW5zQmVfclg1WEd0ZjVZWGcyNE1DaE40aE9mTHpKOEl3QTE1Z1NxcEVTUUx6eHkyX2hkcHAxMzBORi04OEJXWUhvMm1WeF81Tm9NZGRmT1hkR1pvZ0xSYzFOaHU5LUNzUWc0QjFCSQ?oc=5",
+   "summary": "Lula secures victory in Brazil’s election, but faces challenge as Bolsonaro contests results&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-26T14:02:18+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -544,20 +820,6 @@
    "tag_v": 2
   },
   {
-   "id": "a5505138f9a2",
-   "title": "Soybeans Post Friday Gains",
-   "link": "https://www.nasdaq.com/articles/soybeans-post-friday-gains-0",
-   "summary": "Soybeans pushed higher into the weekend, with contracts up 1 ½ to 5 ¼ cents across the board. November was down 4 ¾ cents on the week. The cmdtyView national average Cash Bean price was up 3 3/4 cents at $11.99 1/4. Soymeal futures were mixed, down $1.20 to $1.60...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T13:51:14+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "e8f028d14724",
    "title": "Soybeans Holding onto Friday Gains",
    "link": "https://www.nasdaq.com/articles/soybeans-holding-friday-gains",
@@ -569,39 +831,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "fbf1bce23f37",
-   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
-   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&amp;P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T13:51:14+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8d00fd61aac0",
-   "title": "Adobe vs. Docusign: Which Technology Stock Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/adobe-vs-docusign-which-technology-stock-better-buy-2026",
-   "summary": "Key PointsAdobe continues to dominate the creative software market with a massive ecosystem of 1 billion monthly active users.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T13:49:02+00:00",
-   "tickers": [
-    "ADBE"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -632,20 +861,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "56d2263d7f4a",
-   "title": "Wheat Bulls Fail to Find Footing on Friday",
-   "link": "https://www.nasdaq.com/articles/wheat-bulls-fail-find-footing-friday",
-   "summary": "The wheat complex faded lower into the weekend across most contracts. Chicago SRW contracts were mostly fractionally to 2 ¾ cents lower. December was up a tick, but still fell 35 ½ cents this week. KC HRW futures posted losses of 1 ¼ to 3 ¾ cents on Friday, with...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T13:46:30+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -912,20 +1127,6 @@
    "category": "stocks",
    "domain": "thestreet.com",
    "published": "2026-10-26T13:33:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6eb19f0cf0ba",
-   "title": "Cotton Facing Friday Weakness",
-   "link": "https://www.nasdaq.com/articles/cotton-facing-friday-weakness-0",
-   "summary": "Cotton futures are showing 48 to 52 point gains at midday. Crude oil is up $3.42 per barrel on the session, with the US dollar index $0.238 higher. USDA’s Export Sales data has cotton export commitments at 5.449 million RB, which was 15% above last year. That is 47% of...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T13:32:48+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -1210,20 +1411,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6c8276be0e7f",
-   "title": "Corn Falls Lower into the Weekend, as NASS Issues Correction to September Report",
-   "link": "https://www.nasdaq.com/articles/corn-falls-lower-weekend-nass-issues-correction-september-report",
-   "summary": "Corn futures failed to see buying into the weekend, with contracts down 1 ¼ to 4 ½ cents on Friday. December was down another 18 ¼ cents on the week. The CmdtyView national average Cash Corn price was down 4 ½ cents at $4.17 ¼. USDA reported a private export...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T13:22:15+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -6554,6 +6741,22 @@
    "tag_v": 2
   },
   {
+   "id": "eb7e8cf261d6",
+   "title": "Arthritis Foundation and Founding Sponsor Zimmer Biomet Announce New Community Celebrating Life After Joint Replacement and Inspiring Others to Act on Severe Joint Pain | ZBH Stock News",
+   "link": "https://www.stocktitan.net/news/ZBH/arthritis-foundation-and-founding-sponsor-zimmer-biomet-announce-new-qdmicllvnci3.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-26T11:30:00+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "792478f9a82a",
    "title": "Hikma Pharmaceuticals PLC - Depositary Receipt Price Target Decreased by 17.53% to $51.72",
    "link": "https://www.nasdaq.com/articles/hikma-pharmaceuticals-plc-depositary-receipt-price-target-decreased-1753-5172",
@@ -8695,216 +8898,6 @@
    "type": "earnings",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "c0b0b5c767f7",
-   "title": "U.S. stock futures rise after bruising tech-fueled losses",
-   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-after-bruising-tech-losses-fed-earnings-on-tap-4971325",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-26T10:36:52+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0353db97969f",
-   "title": "Euro zone firms find it harder to get credit, ECB survey shows",
-   "link": "https://www.investing.com/news/economy-news/euro-zone-firms-find-it-harder-to-get-credit-ecb-survey-shows-4971992",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-26T10:36:35+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9e12077c5207",
-   "title": "KKR appoints Brian J. Lee to board of directors",
-   "link": "https://www.investing.com/news/company-news/kkr-appoints-brian-j-lee-to-board-of-directors-93CH-4971993",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-26T10:36:35+00:00",
-   "tickers": [
-    "KKR"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "178e7d06216a",
-   "title": "Vertiv completes acquisition of King Environmental Services",
-   "link": "https://www.investing.com/news/company-news/vertiv-completes-acquisition-of-king-environmental-services-93CH-4971991",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-26T10:36:34+00:00",
-   "tickers": [
-    "VRT"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ea0c1bbd8bb9",
-   "title": "Bimergen Energy files for Texas retail electricity license",
-   "link": "https://www.investing.com/news/company-news/bimergen-energy-files-for-texas-retail-electricity-license-93CH-4971990",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-26T10:36:30+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6e2a372a1b75",
-   "title": "Why is PagSeguro Digital stock plummeting 30% today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-pagseguro-digital-stock-plummeting-30-today-93CH-4971976",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-26T10:35:28+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a0bc19f854a1",
-   "title": "Should You Buy Amazon Before Oct. 29?",
-   "link": "https://www.nasdaq.com/articles/should-you-buy-amazon-oct-29",
-   "summary": "Key PointsAmazon is a major player in the AI infrastructure build-out and recently increased its capital spending forecast.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T10:35:02+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "00e7208dd494",
-   "title": "Smart Eye Adds Cabin Monitoring to Existing DMS Program | SMTEF Stock News",
-   "link": "https://www.stocktitan.net/news/SMTEF/smart-eye-adds-cabin-monitoring-to-existing-dms-x4aoixo3fk74.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-26T10:35:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4d5174a79373",
-   "title": "MakeMyTrip Q2 27 Earnings Conference Call At 7:30 AM ET",
-   "link": "https://www.nasdaq.com/articles/makemytrip-q2-27-earnings-conference-call-7-30-am-et",
-   "summary": "(RTTNews) - MakeMyTrip Ltd. (MMYT) will host a conference call at 7:30 AM ET on October 26, 2026, to discuss Q2 27 earnings results.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T10:34:19+00:00",
-   "tickers": [
-    "MMYT"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3555651cf08c",
-   "title": "FIVN Crosses Above Average Analyst Target",
-   "link": "https://www.nasdaq.com/articles/fivn-crosses-above-average-analyst-target",
-   "summary": "In recent trading, shares of Five9, Inc (Symbol: FIVN) have crossed above the average analyst 12-month target price of $36.05, changing hands for $37.61/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on valuation",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T10:33:58+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5ccb4cff447b",
-   "title": "XLSR's Underlying Holdings Could Mean 11% Gain Potential",
-   "link": "https://www.nasdaq.com/articles/xlsrs-underlying-holdings-could-mean-11-gain-potential",
-   "summary": "Looking at the underlying holdings of the ETFs in our coverage universe at ETF Channel, we have compared the trading price of each holding against the average analyst 12-month forward target price, and computed the weighted average implied analyst target price for the ETF itself.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T10:33:56+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "75efe35c2d04",
-   "title": "NTAP Crosses Above Average Analyst Target",
-   "link": "https://www.nasdaq.com/articles/ntap-crosses-above-average-analyst-target-0",
-   "summary": "In recent trading, shares of NetApp, Inc. (Symbol: NTAP) have crossed above the average analyst 12-month target price of $215.00, changing hands for $215.40/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on valua",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T10:33:53+00:00",
-   "tickers": [
-    "NTAP"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2bf6e37b672e",
-   "title": "BP Crosses Above Average Analyst Target",
-   "link": "https://www.nasdaq.com/articles/bp-crosses-above-average-analyst-target",
-   "summary": "In recent trading, shares of BP PLC (Symbol: BP) have crossed above the average analyst 12-month target price of $51.23, changing hands for $51.32/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on valuation, or,",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T10:33:49+00:00",
-   "tickers": [
-    "BP"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "de15479e530b",
-   "title": "Transocean Reaches Analyst Target Price",
-   "link": "https://www.nasdaq.com/articles/transocean-reaches-analyst-target-price",
-   "summary": "In recent trading, shares of Transocean Ltd (Symbol: RIG) have crossed above the average analyst 12-month target price of $6.17, changing hands for $6.41/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on valuatio",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T10:33:46+00:00",
-   "tickers": [
-    "RIG"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8920,6 +8913,7 @@
   "BK": "The Bank of New York Mellon",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "ASM": "Avino Silver & Gold Mines",
+  "IBB": "iShares Biotechnology ETF",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "REGN": "Regeneron Pharmaceuticals",
@@ -8935,6 +8929,7 @@
   "CMG": "Chipotle Mexican Grill",
   "NBIX": "Neurocrine Biosciences",
   "VZ": "Verizon Communications",
+  "ZBH": "Zimmer Biomet Holdings",
   "MIRM": "Mirum Pharmaceuticals",
   "PLTR": "Palantir Technologies",
   "TAP": "Molson Coors Beverage",
@@ -9018,7 +9013,6 @@
   "BROS": "Dutch Bros",
   "CVS": "CVS Health",
   "GEV": "GE Vernova",
-  "RIG": "Transocean",
   "SN": "SharkNinja",
   "SPGI": "S&P Global",
   "STLA": "Stellantis",
@@ -9033,16 +9027,17 @@
   "AVGO": "Broadcom",
   "AZO": "AutoZone",
   "BCS": "Barclays",
-  "BP": "BP p.l.c",
   "EVR": "Evercore",
   "FTNT": "Fortinet",
   "GOOG": "Alphabet",
   "NI": "NiSource",
   "SATS": "EchoStar",
+  "UL": "Unilever",
   "BNTX": "BioNTech",
   "AVTR": "Avantor",
   "CNC": "Centene",
   "ETR": "Entergy",
+  "IVZ": "Invesco",
   "LGN": "Legence",
   "MRNA": "Moderna",
   "OVV": "Ovintiv",
@@ -9057,7 +9052,6 @@
   "ABBV": "AbbVie",
   "AYI": "Acuity",
   "INCY": "Incyte",
-  "NTAP": "NetApp",
   "NTRA": "Natera",
   "ORCL": "Oracle",
   "RDDT": "Reddit",
