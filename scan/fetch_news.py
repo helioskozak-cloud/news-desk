@@ -31,8 +31,16 @@ TICKERS_FILE = Path(__file__).parent / "universe_tickers.csv"
 NAMES_FILE   = Path(__file__).parent / "universe_names.csv"
 ALIASES_FILE = Path(__file__).parent / "universe_aliases.csv"
 HEADLINES_PATH = DATA / "headlines.json"
+TAGGED_PATH = DATA / "tagged.json"
 
 MAX_KEEP = 600
+# headlines.json keeps the newest MAX_KEEP stories, a few hours on a weekday,
+# so by morning yesterday afternoon's news on a held name is gone. tagged.json
+# keeps every TICKER-TAGGED story for TAGGED_HOURS (Friday 4 PM to Monday
+# morning is 64 h), trimmed to what finvisible's Morning tab reads
+# (owner Q109 = c, 2026-10-26).
+TAGGED_HOURS = 72
+TAGGED_FIELDS = ("id", "title", "link", "source", "published", "tickers")
 USER_AGENT = "news-desk/0.2 (https://github.com/helioskozak-cloud/news-desk)"
 
 # ── Feed list ────────────────────────────────────────────────────────────────
@@ -508,6 +516,26 @@ def load_existing() -> list[dict]:
         return []
 
 
+def tagged_archive(previous: list[dict], stories: list[dict], now: datetime,
+                   hours: int = TAGGED_HOURS) -> list[dict]:
+    """Every ticker-tagged story published in the last `hours`, newest first:
+    the previous archive plus this run's stories (this run's copy wins, so a
+    re-tag replaces the old tickers), slimmed to TAGGED_FIELDS."""
+    cut = (now - timedelta(hours=hours)).isoformat()
+    by_id: dict[str, dict] = {}
+    for h in list(previous) + list(stories):
+        if h.get("tickers") and h.get("id") and h.get("published", "") >= cut:
+            by_id[h["id"]] = {k: h.get(k) for k in TAGGED_FIELDS}
+    return sorted(by_id.values(), key=lambda h: h.get("published", ""), reverse=True)
+
+
+def _load_tagged() -> list[dict]:
+    try:
+        return json.loads(TAGGED_PATH.read_text(encoding="utf-8")).get("headlines", [])
+    except Exception:
+        return []
+
+
 def main():
     DATA.mkdir(parents=True, exist_ok=True)
     print(f"Loaded {len(TICKERS)} ticker symbols, {len(NAME_MAP)} name patterns", flush=True)
@@ -551,6 +579,8 @@ def main():
     for h in fresh:
         by_id[h["id"]] = h
     combined = sorted(by_id.values(), key=lambda h: h.get("published", ""), reverse=True)
+    now = datetime.now(timezone.utc)
+    tagged = tagged_archive(_load_tagged(), combined, now)
     combined = combined[:MAX_KEEP]
 
     tagged_pct = (sum(1 for h in combined if h["tickers"]) / max(1, len(combined))) * 100
@@ -574,6 +604,11 @@ def main():
     }
     HEADLINES_PATH.write_text(json.dumps(payload, indent=1, ensure_ascii=False), encoding="utf-8")
     print(f"Wrote {HEADLINES_PATH.relative_to(ROOT)}", flush=True)
+    TAGGED_PATH.write_text(json.dumps({"generated": now.isoformat(), "hours": TAGGED_HOURS,
+                                       "headlines": tagged}, separators=(",", ":"),
+                                      ensure_ascii=False), encoding="utf-8")
+    print(f"Wrote {TAGGED_PATH.relative_to(ROOT)}: {len(tagged)} tagged stories, "
+          f"last {TAGGED_HOURS} h", flush=True)
 
 
 if __name__ == "__main__":
