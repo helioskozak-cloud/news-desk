@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T00:06:38.916694+00:00",
+ "generated": "2026-10-26T00:11:07.008211+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,6 +13,22 @@
    "domain": "cnbc.com",
    "published": "2026-10-26T00:03:20+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e859e7ad9cf7",
+   "title": "Horizon Kinetics buys Texas Pacific Land stock for $340",
+   "link": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-texas-pacific-land-stock-for-340-93CH-4971316",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-26T00:01:10+00:00",
+   "tickers": [
+    "TPL"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -117,6 +133,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "6eb19f0cf0ba",
+   "title": "Cotton Facing Friday Weakness",
+   "link": "https://www.nasdaq.com/articles/cotton-facing-friday-weakness-0",
+   "summary": "Cotton futures are showing 48 to 52 point gains at midday. Crude oil is up $3.42 per barrel on the session, with the US dollar index $0.238 higher. USDA’s Export Sales data has cotton export commitments at 5.449 million RB, which was 15% above last year. That is 47% of...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T23:48:02+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -6941,20 +6971,6 @@
    "tag_v": 2
   },
   {
-   "id": "6eb19f0cf0ba",
-   "title": "Cotton Facing Friday Weakness",
-   "link": "https://www.nasdaq.com/articles/cotton-facing-friday-weakness-0",
-   "summary": "Cotton futures are showing 48 to 52 point gains at midday. Crude oil is up $3.42 per barrel on the session, with the US dollar index $0.238 higher. USDA’s Export Sales data has cotton export commitments at 5.449 million RB, which was 15% above last year. That is 47% of...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T23:33:59+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "f33ce63d3969",
    "title": "Walmart's top-rated mini space heater is $11 in 4 colors",
    "link": "https://www.thestreet.com/deals/mainstays-personal-electric-space-heater-review-walmart-sale",
@@ -8910,20 +8926,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "396784fa0a36",
-   "title": "MPLX Stock Pays a Hefty 7.4% Dividend Yield. Here's How Much $10,000 Generates in Passive Income Each Year.",
-   "link": "https://www.nasdaq.com/articles/mplx-stock-pays-hefty-74-dividend-yield-heres-how-much-10000-generates-passive-income-each",
-   "summary": "Key PointsMPLX is worth a closer look if you're a long-term income-seeking investor.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T15:54:00+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8967,6 +8969,7 @@
   "GPI": "Group 1 Automotive",
   "HIMS": "Hims & Hers Health",
   "SPOT": "Spotify Technology",
+  "TPL": "Texas Pacific Land",
   "DELL": "Dell Technologies",
   "GIL": "Gildan Activewear",
   "HOOD": "Robinhood Markets",
