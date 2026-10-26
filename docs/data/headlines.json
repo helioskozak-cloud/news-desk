@@ -1,8 +1,40 @@
 {
- "generated": "2026-10-26T10:46:28.987604+00:00",
+ "generated": "2026-10-26T10:51:02.840936+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "02d13009e99b",
+   "title": "Private equity pours billions into defense tech as investors debate a bubble",
+   "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
+   "summary": "Private equity growth investments in defense reached $4 billion in the first nine months of 2026, up from $500 million in 2024.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-26T10:46:33+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "751445460f3e",
+   "title": "Stock Market Today (Oct. 26, 2026): Dow climbs as markets gear up for earnings, Fed decision",
+   "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026",
+   "summary": "Microsoft, Alphabet, and Amazon are among the companies slated to report earnings this week.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-26T10:46:26+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOG",
+    "AMZN"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "8d7df4df9ab0",
    "title": "Ovintiv Announces Agreement to Acquire Montney Oil Producer, Logan Energy Corp. | OVV Stock News",
@@ -224,6 +256,20 @@
    "tag_v": 2
   },
   {
+   "id": "cb3bbbd467d7",
+   "title": "Plains All American Pipeline Reaches Analyst Target Price",
+   "link": "https://www.nasdaq.com/articles/plains-all-american-pipeline-reaches-analyst-target-price-0",
+   "summary": "In recent trading, shares of Plains All American Pipeline LP (Symbol: PAA) have crossed above the average analyst 12-month target price of $26.35, changing hands for $26.63/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: do",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T10:33:29+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "8ef22a8932ae",
    "title": "European shares edge up as markets weigh Iran diplomacy, await c.banks",
    "link": "https://www.investing.com/news/stock-market-news/european-shares-hold-as-markets-weigh-iran-diplomacy-await-cbanks-4971469",
@@ -265,6 +311,20 @@
    ],
    "type": "analyst",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "301ec0773ab9",
+   "title": "1 Popular Cryptocurrency to Buy Before It Soars by 873%, According to Cathie Wood's Ark Invest",
+   "link": "https://www.nasdaq.com/articles/1-popular-cryptocurrency-buy-it-soars-873-according-cathie-woods-ark-invest",
+   "summary": "Key PointsCathie Wood's Ark Investment Management predicts Bitcoin will amass a $16 trillion market capitalization by 2030, translating to $796,000 per coin.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T10:32:00+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1821,20 +1881,6 @@
    "tag_v": 2
   },
   {
-   "id": "662ec79b50b1",
-   "title": "College football | Latest News & Updates - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-26T09:29:34+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "0a25c3d70d35",
    "title": "Why is Petrobras stock plunging today?",
    "link": "https://www.investing.com/news/stock-market-news/why-is-petrobras-stock-plunging-today-93CH-4971737",
@@ -2746,6 +2792,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "662ec79b50b1",
+   "title": "College football | Latest News & Updates - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-26T08:30:03+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -4558,20 +4618,6 @@
    "tag_v": 2
   },
   {
-   "id": "02d13009e99b",
-   "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
-   "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
-   "summary": "Private equity growth investments in defense reached $4 billion in the first nine months of 2026, up from $500 million in 2024.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-26T06:00:01+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "654caeead5e9",
    "title": "District Reports on Geochemical Results from Nianfors Uranium Property in Sweden | DMXCF Stock News",
    "link": "https://www.stocktitan.net/news/DMXCF/district-reports-on-geochemical-results-from-nianfors-uranium-k3y1yhwfgdes.html",
@@ -5126,6 +5172,20 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f3c274416802",
+   "title": "Jaxon Smith-Njigba has 150 receiving yards and a score in the Seahawks' 20-3 win over the Chiefs - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWsxLWdVdENlNUVkZ2hKZzhkdk5HbFlseEJVa0dZbGJ1ZGRIQjlHU0czRzZFY29Pcko5OHJ4OFlIX2pVYzd3R2ZjX2tPWWdGLTJUYUxvV05wNjVBZGp3cFVtZjcxR0U5VzJMTGFZS3dqR3B0bXdYWF9Zbl85RllZT3lfM2ZVNWlN?oc=5",
+   "summary": "Jaxon Smith-Njigba has 150 receiving yards and a score in the Seahawks' 20-3 win over the Chiefs&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-26T04:13:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8777,66 +8837,6 @@
     "DB"
    ],
    "type": "upgrade",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "f370bae50aca",
-   "title": "Micron Just Revealed a New Business Strategy. That Change Makes It a Screaming Buy.",
-   "link": "https://www.nasdaq.com/articles/micron-just-revealed-new-business-strategy-change-makes-it-screaming-buy",
-   "summary": "Key PointsMicron's stock is dirt cheap because the market is still worried about a downturn.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-25T14:51:00+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e7a3d67b324c",
-   "title": "Planning to Sit Out Medicare Open Enrollment? Here’s Why You Shouldn’t",
-   "link": "https://www.nasdaq.com/articles/planning-sit-out-medicare-open-enrollment-heres-why-you-shouldnt",
-   "summary": "Key PointsMedicare's open enrollment period runs from Oct. 15 through Dec. 7 each year.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-25T14:46:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "00abcd69cfb4",
-   "title": "INVESTOR DEADLINE: Gildan Activewear Inc. Investors with Substantial Losses May Seek to Lead the Gildan Activewear Class Action Lawsuit Before December 14, 2026 Deadline - GIL",
-   "link": "https://www.prnewswire.com/news-releases/investor-deadline-gildan-activewear-inc-investors-with-substantial-losses-may-seek-to-lead-the-gildan-activewear-class-action-lawsuit-before-december-14-2026-deadline---gil-302917699.html",
-   "summary": "SAN DIEGO, Oct. 25, 2026 /PRNewswire/ -- The law firm of Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of Gildan Activewear Inc. (NYSE: GIL) publicly traded securities between February 19, 2025 and June 15, 2026, both dates inclusive (the \"Class Period\"), have...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-25T14:45:00+00:00",
-   "tickers": [
-    "GIL"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "fd04d3d9b1e1",
-   "title": "PZZA DEADLINE ALERT: ROSEN, A TOP RANKED LAW FIRM, Encourages Papa John's International, Inc. Investors to Secure Counsel Before Important November 2 Deadline in Securities Class Action - PZZA",
-   "link": "https://markets.businessinsider.com/news/stocks/pzza-deadline-alert-rosen-a-top-ranked-law-firm-encourages-papa-johns-international-inc.-investors-to-secure-counsel-before-important-november-2-deadline-in-securities-class-action-pzza-1036662600",
-   "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/320755/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px; height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - October 25, 2026) - &lt;b&gt;WHY: &lt;/b&gt;Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Papa John's International, Inc. (NASDAQ:",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-10-25T14:41:00+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
   }
