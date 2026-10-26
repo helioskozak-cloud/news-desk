@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T03:36:50.005243+00:00",
+ "generated": "2026-10-26T03:41:50.905047+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,20 @@
    "published": "2026-10-26T03:31:17+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e95f51d7ed3d",
+   "title": "Australia’s Ingenia Communities shares rise on AVID’s $1.5 bln bid",
+   "link": "https://www.investing.com/news/stock-market-news/australias-ingenia-communities-shares-rise-on-avids-15-bln-bid-4971364",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-26T03:18:40+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -626,6 +640,20 @@
    "tag_v": 2
   },
   {
+   "id": "5a5cd39ad453",
+   "title": "Attackers kill nurse, severely injure health worker responding to Ebola case in eastern Congo - AP News",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SlN6UGxrSmJNMjdIZ0R6Z0VKQk9oTXBtc0hkNHJxMm9vV0VKZHA4MzNDYnJ4cXd3RmFTSGtRVHdyRlR1WFRESWp1TWl5ODlfZlRnU1dnampZem54YlF2cW5MZXl0dF9RSko0c2hZMkJCUkxCaGNGSmV0aw?oc=5",
+   "summary": "Attackers kill nurse, severely injure health worker responding to Ebola case in eastern Congo&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-26T00:56:21+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "c292b664ee47",
    "title": "Five economic challenges facing Brazil’s re-elected President Lula",
    "link": "https://www.investing.com/news/economy-news/five-economic-challenges-facing-brazils-reelected-president-lula-4971326",
@@ -936,20 +964,6 @@
    "published": "2026-10-26T00:08:07+00:00",
    "tickers": [],
    "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5a5cd39ad453",
-   "title": "Attackers kill nurse, severely injure health worker responding to Ebola case in eastern Congo - AP News",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SlN6UGxrSmJNMjdIZ0R6Z0VKQk9oTXBtc0hkNHJxMm9vV0VKZHA4MzNDYnJ4cXd3RmFTSGtRVHdyRlR1WFRESWp1TWl5ODlfZlRnU1dnampZem54YlF2cW5MZXl0dF9RSko0c2hZMkJCUkxCaGNGSmV0aw?oc=5",
-   "summary": "Attackers kill nurse, severely injure health worker responding to Ebola case in eastern Congo&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-26T00:06:24+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8879,22 +8893,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "100d0b76a690",
-   "title": "Union Pacific Corporation: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/union-pacific-corporation-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsUnion Pacific reported record third quarter freight revenue of $6.8 billion.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T18:58:09+00:00",
-   "tickers": [
-    "UNP"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8973,7 +8971,6 @@
   "POST": "Post Holdings",
   "SMR": "NuScale Power",
   "TLRY": "Tilray Brands",
-  "UNP": "Union Pacific",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
