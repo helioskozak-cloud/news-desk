@@ -1,8 +1,39 @@
 {
- "generated": "2026-10-26T13:34:51.818435+00:00",
+ "generated": "2026-10-26T13:36:34.637831+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "200398d394e7",
+   "title": "Verizon lifts annual forecasts, signs more than $2 billion AI infrastructure deal with AWS",
+   "link": "https://www.cnbc.com/2026/10/26/verizon-lifts-annual-forecasts-signs-more-than-2-billion-ai-infrastructure-deal-with-aws.html",
+   "summary": "Verizon now expects ⁠to add between 1.1 million and 1.2 million postpaid phone subscribers this year compared with earlier projections of 750,000 to 1 million",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-26T13:35:19+00:00",
+   "tickers": [
+    "VZ",
+    "AMZN"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d959c54de602",
+   "title": "Anthropic IPO live updates: AI lab lost $80.7 billion in first half of 2026",
+   "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+   "summary": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-26T13:35:18+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "a08d1a7e1c86",
    "title": "Elon Musk's latest move brings good news for Nvidia investors",
@@ -28,20 +59,6 @@
    "published": "2026-10-26T13:32:49+00:00",
    "tickers": [],
    "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a83633324820",
-   "title": "Beyond Oil Announces First Commercial Adoption in the Industrial Frying Segment | BEOLF Stock News",
-   "link": "https://www.stocktitan.net/news/BEOLF/beyond-oil-announces-first-commercial-adoption-in-the-industrial-m2v6fhwj1e35.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-26T13:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -106,6 +123,20 @@
    "tag_v": 2
   },
   {
+   "id": "a83633324820",
+   "title": "Beyond Oil Announces First Commercial Adoption in the Industrial Frying Segment | BEOLF Stock News",
+   "link": "https://www.stocktitan.net/news/BEOLF/beyond-oil-announces-first-commercial-adoption-in-the-industrial-m2v6fhwj1e35.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-26T13:30:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a69c396d49ab",
    "title": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict",
    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
@@ -117,20 +148,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "d959c54de602",
-   "title": "Anthropic IPO live updates: AI lab lost $80.7 billion in first half of 2026",
-   "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-   "summary": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-26T13:28:53+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -6242,23 +6259,6 @@
    "tag_v": 2
   },
   {
-   "id": "200398d394e7",
-   "title": "Verizon lifts annual forecasts, signs more than $2 billion AI infrastructure deal with AWS",
-   "link": "https://www.cnbc.com/2026/10/26/verizon-lifts-annual-forecasts-signs-more-than-2-billion-ai-infrastructure-deal-with-aws.html",
-   "summary": "Verizon now expects ⁠to add between 1.1 million and 1.2 million postpaid phone subscribers this year compared with earlier projections of 750,000 to 1 million",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-26T11:09:08+00:00",
-   "tickers": [
-    "VZ",
-    "AMZN"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "9a0c580379ec",
    "title": "Thousands of observers are expected to descend on polling places to monitor the vote on Election Day - AP News",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPckNtYjZ2a3NwVk93OXV5SE1zRUU1b2VFeDAxRzBLZ2hTUk1zS3dqT09laXRvQl8xNWk4N2JhUlc3bDg4aTgtUVNaMWUtNjhkMmI2VHJPVlc5Tmw0V3hYelY2TGJ2Y255MG5rRTcyZlFrUy05QldpSGN6cXdYajFCRVZjR1RKQkNxbkE2dFBNVVpJemRSdVFJQkxoaDBTc3VicUlOaWduc2Z0RUJnVFBTamVVZ0RQTHR2NDh5dXZTSW01Ylo5OFE?oc=5",
@@ -7469,7 +7469,7 @@
   },
   {
    "id": "751445460f3e",
-   "title": "Stock Market Today (Oct. 26, 2026): Dow climbs as markets gear up for earnings, Fed decision",
+   "title": "Stock Market Today (Oct. 26, 2026): S&P 500 climbs as markets gear up for earnings, Fed decision",
    "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026",
    "summary": "Microsoft, Alphabet, and Amazon are among the companies slated to report earnings this week.",
    "source": "TheStreet",
