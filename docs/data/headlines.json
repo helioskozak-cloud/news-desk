@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-27T18:36:58.021925+00:00",
+ "generated": "2026-10-27T18:41:38.840290+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "3fb1961e3737",
+   "title": "What's behind the AI trade comeback — plus, our take on Intel's latest deal",
+   "link": "https://www.cnbc.com/investingclub/2026/10/27/the-ai-trade-comeback-plus-our-take-on-latest-intel-deal.html",
+   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T18:35:40+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "581daacd8870",
+   "title": "Watch CNBC's full interview with Energy Secretary Chris Wright",
+   "link": "https://www.cnbc.com/video/2026/10/27/watch-cnbcs-full-interview-with-energy-secretary-chris-wright.html",
+   "summary": "Chris Wright, Secretary of Energy, joins 'Power Lunch' to discuss new loan financing to help power the country's nuclear buildout, diesel price relief, and more.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T18:30:14+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "8fd8c8364a7f",
    "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
@@ -134,19 +164,92 @@
    "tag_v": 2
   },
   {
-   "id": "3fb1961e3737",
-   "title": "What's behind the AI trade comeback — plus, our take on Intel's latest deal",
-   "link": "https://www.cnbc.com/investingclub/2026/10/27/the-ai-trade-comeback-plus-our-take-on-latest-intel-deal.html",
-   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T18:13:51+00:00",
+   "id": "de2655e08d84",
+   "title": "Crude Oil Prices Fall Back As Iran’s Supreme Leader Reiterates Deal Terms",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-fall-back-irans-supreme-leader-reiterates-deal-terms",
+   "summary": "December WTI crude oil (CLZ26 ) is down -1.66 (-1.63%), and December RBOB gasoline (RBZ26 ) is down -0.0443 (-1.41%). WTI crude oil prices are trading lower after Iranian supreme leader, Mojtaba Khamenei, called for pursuing conditions that Iranian officials have set with the aim of ending the war. He...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T18:14:37+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "5c33ff505f23",
+   "title": "Wheat Ticking Lower on Tuesday Morning",
+   "link": "https://www.nasdaq.com/articles/wheat-ticking-lower-tuesday-morning",
+   "summary": "Wheat is showing early Tuesday weakness of fractionally to 3 cents. The wheat complex was lower across the three markets on Monday. Chicago SRW contracts are posting losses of 7 to 8 ½ cents on the day. Open interest was down 977 contracts on Tuesday. KC HRW futures were 5...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T18:14:37+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "1127d40a6f5b",
+   "title": "Arabica Coffee Prices Fall on Concern About Brazilian Real Weakness",
+   "link": "https://www.nasdaq.com/articles/arabica-coffee-prices-fall-concern-about-brazilian-real-weakness",
+   "summary": "December arabica coffee (KCZ26 ) today is down -8.20 (-2.72%), and November ICE robusta coffee (RMX26 ) is up +76 (+2.38%). Arabica coffee prices added to Monday’s losses on concerns that Brazilian exporters will increase sales after the Brazilian real plunged -8.8% on Monday, although it recovered today by +1.4%....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T18:14:37+00:00",
    "tickers": [
-    "INTC"
+    "ICE"
    ],
-   "type": "markets",
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "222e1d3ca889",
+   "title": "Cotton Posting Tuesday Weakness",
+   "link": "https://www.nasdaq.com/articles/cotton-posting-tuesday-weakness",
+   "summary": "Cotton prices are down 18 to 28 points on Tuesday morning. Futures posted sharp losses of 61 to 114 points across most contracts on Monday. Crude oil was down $2.02 per barrel on the session, with the US dollar index $0.212 higher. Crop Progress data tallied 89% of the US...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T18:14:36+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e32a1d16b8fa",
+   "title": "Corn Holds Lower on Monday, with Spillover Pressure",
+   "link": "https://www.nasdaq.com/articles/corn-holds-lower-monday-spillover-pressure",
+   "summary": "Corn futures held on to the weakness into the close on Monday, though nearby contracts were 4 to 5 cents off their lows to close with fractional to 1 ¾ cent losses. Sharp weakness in the beans provided pressure. The CmdtyView national average Cash Corn price was down ½ cent...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T18:14:36+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "bed156bf67f9",
+   "title": "Stocks Rally Ahead of Busy Week as Crude Oil Prices Ease",
+   "link": "https://www.nasdaq.com/articles/stocks-rally-ahead-busy-week-crude-oil-prices-ease-0",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) rose +0.67% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +1.09%. December E-mini S&amp;P futures (ESZ26 ) rose +0.70%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T18:14:36+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -235,6 +338,76 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "030812ef5c09",
+   "title": "Societe Generale Reports 9.007348 Percent Voting Rights in Vodafone Group Public Limited Company",
+   "link": "https://www.nasdaq.com/articles/societe-generale-reports-9007348-percent-voting-rights-vodafone-group-public-limited",
+   "summary": "Vodafone Group Public Limited Company has published a TR-1 notification of major holdings indicating that Societe Generale crossed a voting rights threshold on 23-Oct-2026. The issuer was subsequently notified of the transaction on 26-Oct-2026.Following the transaction, Societe G",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T18:08:32+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b0408e2a398b",
+   "title": "Banco Santander-Chile Completes Redemption of USD 700,000,000 Perpetual Bonds",
+   "link": "https://www.nasdaq.com/articles/banco-santander-chile-completes-redemption-usd-700000000-perpetual-bonds",
+   "summary": "Banco Santander-Chile announced that it has completed the full redemption of the perpetual bonds qualifying as Additional Tier 1 capital, in an aggregate principal amount of USD 700,000,000. These bonds were placed in the international markets on October 26, 2021, and are referre",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T18:08:32+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fd7d7751ce75",
+   "title": "Enerflex Ltd. Appoints David Primrose and Mary Zappone to Board of Directors",
+   "link": "https://www.nasdaq.com/articles/enerflex-ltd-appoints-david-primrose-and-mary-zappone-board-directors",
+   "summary": "Enerflex Ltd. announced the appointment of Mr. David Primrose and Ms. Mary Zappone to its Board of Directors, effective October 27, 2026. Mr. Primrose has also been appointed as a member of the Audit Committee. These appointments follow the recent retirement of Fernando Assing fr",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T18:08:32+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6849b7a90101",
+   "title": "Soybeans Getting a Tuesday Morning Bounce",
+   "link": "https://www.nasdaq.com/articles/soybeans-getting-tuesday-morning-bounce",
+   "summary": "Soybeans are trading with a Tuesday bounce of 3 to 8 ½ cents. Futures closed with contracts 7 ¼ to 16 cents lower across the board, following elections in Brazil over the weekend. Open interest was down 17,466 contracts on Monday, suggesting longs were exiting, but mainly in November (-35,330)....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T18:08:28+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c49691cbca3e",
+   "title": "Soybeans Fall on Monday with Brazil Currency Pressure",
+   "link": "https://www.nasdaq.com/articles/soybeans-fall-monday-brazil-currency-pressure",
+   "summary": "Soybeans closed with contracts 7 ¼ to 16 cents lower across the board, following elections in Brazil over the weekend. The cmdtyView national average Cash Bean price was down 15 1/2 cents at $11.84 1/2. Soymeal futures were down $4.70 to $6.50, with Soy Oil futures 11 to 27 points...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T18:08:27+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -450,62 +623,6 @@
    "tag_v": 2
   },
   {
-   "id": "6849b7a90101",
-   "title": "Soybeans Getting a Tuesday Morning Bounce",
-   "link": "https://www.nasdaq.com/articles/soybeans-getting-tuesday-morning-bounce",
-   "summary": "Soybeans are trading with a Tuesday bounce of 3 to 8 ½ cents. Futures closed with contracts 7 ¼ to 16 cents lower across the board, following elections in Brazil over the weekend. Open interest was down 17,466 contracts on Monday, suggesting longs were exiting, but mainly in November (-35,330)....",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T17:59:59+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "222e1d3ca889",
-   "title": "Cotton Posting Tuesday Weakness",
-   "link": "https://www.nasdaq.com/articles/cotton-posting-tuesday-weakness",
-   "summary": "Cotton prices are down 18 to 28 points on Tuesday morning. Futures posted sharp losses of 61 to 114 points across most contracts on Monday. Crude oil was down $2.02 per barrel on the session, with the US dollar index $0.212 higher. Crop Progress data tallied 89% of the US...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T17:59:59+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c49691cbca3e",
-   "title": "Soybeans Fall on Monday with Brazil Currency Pressure",
-   "link": "https://www.nasdaq.com/articles/soybeans-fall-monday-brazil-currency-pressure",
-   "summary": "Soybeans closed with contracts 7 ¼ to 16 cents lower across the board, following elections in Brazil over the weekend. The cmdtyView national average Cash Bean price was down 15 1/2 cents at $11.84 1/2. Soymeal futures were down $4.70 to $6.50, with Soy Oil futures 11 to 27 points...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T17:59:59+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e32a1d16b8fa",
-   "title": "Corn Holds Lower on Monday, with Spillover Pressure",
-   "link": "https://www.nasdaq.com/articles/corn-holds-lower-monday-spillover-pressure",
-   "summary": "Corn futures held on to the weakness into the close on Monday, though nearby contracts were 4 to 5 cents off their lows to close with fractional to 1 ¾ cent losses. Sharp weakness in the beans provided pressure. The CmdtyView national average Cash Corn price was down ½ cent...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T17:59:58+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "35cc9966002f",
    "title": "Wheat Pressure Continues to Monday’s Close",
    "link": "https://www.nasdaq.com/articles/wheat-pressure-continues-mondays-close",
@@ -544,6 +661,48 @@
    "published": "2026-10-27T17:59:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "580a1fea6450",
+   "title": "Trinseo PLC Adjourns 2026 Annual General Meeting to November 20, 2026",
+   "link": "https://www.nasdaq.com/articles/trinseo-plc-adjourns-2026-annual-general-meeting-november-20-2026",
+   "summary": "Trinseo PLC announced that its 2026 annual general meeting, which was convened on September 30, 2026, has been adjourned until November 20, 2026 at 9:00 a.m. EST. The adjournment was scheduled to allow for the presentation of the Company&rsquo;s audited financial statements for t",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T17:58:53+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "733bfd8ba16a",
+   "title": "Auburn National Bancorporation, Inc. Reports Third Quarter Net Earnings",
+   "link": "https://www.nasdaq.com/articles/auburn-national-bancorporation-inc-reports-third-quarter-net-earnings",
+   "summary": "Auburn National Bancorporation, Inc. reported net earnings of $2.5 million, or $0.72 per share, for the third quarter of 2026, compared to $2.3 million, or $0.66 per share, for the second quarter of 2026, and $2.2 million, or $0.64 per share, for the third quarter of 2025. Net ea",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T17:58:45+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "61a63258fe8c",
+   "title": "Draganfly Inc. Announces U.S. Defense Sales of Heavy Lift and Commander 3XL Platforms",
+   "link": "https://www.nasdaq.com/articles/draganfly-inc-announces-us-defense-sales-heavy-lift-and-commander-3xl-platforms",
+   "summary": "Draganfly Inc. announced multiple defense sales across multiple Light Infantry Divisions involving its Heavy Lift and Commander 3XL unmanned aircraft platforms. The company secured inaugural sales of its Heavy Lift platform, alongside separate follow-on purchases of its Commander",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T17:58:37+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -661,23 +820,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "bed156bf67f9",
-   "title": "Stocks Rally Ahead of Busy Week as Crude Oil Prices Ease",
-   "link": "https://www.nasdaq.com/articles/stocks-rally-ahead-busy-week-crude-oil-prices-ease-0",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) rose +0.67% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +1.09%. December E-mini S&amp;P futures (ESZ26 ) rose +0.70%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T17:53:16+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1331,20 +1473,6 @@
    "tag_v": 2
   },
   {
-   "id": "de2655e08d84",
-   "title": "Crude Oil Prices Fall Back As Iran’s Supreme Leader Reiterates Deal Terms",
-   "link": "https://www.nasdaq.com/articles/crude-oil-prices-fall-back-irans-supreme-leader-reiterates-deal-terms",
-   "summary": "December WTI crude oil (CLZ26 ) is down -1.66 (-1.63%), and December RBOB gasoline (RBZ26 ) is down -0.0443 (-1.41%). WTI crude oil prices are trading lower after Iranian supreme leader, Mojtaba Khamenei, called for pursuing conditions that Iranian officials have set with the aim of ending the war. He...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T17:32:37+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "84c6f8cbd97d",
    "title": "Avidbank (AVBH) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/avidbank-avbh-q3-2026-earnings-call-transcript",
@@ -1657,20 +1785,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5c33ff505f23",
-   "title": "Wheat Ticking Lower on Tuesday Morning",
-   "link": "https://www.nasdaq.com/articles/wheat-ticking-lower-tuesday-morning",
-   "summary": "Wheat is showing early Tuesday weakness of fractionally to 3 cents. The wheat complex was lower across the three markets on Monday. Chicago SRW contracts are posting losses of 7 to 8 ½ cents on the day. Open interest was down 977 contracts on Tuesday. KC HRW futures were 5...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T17:27:37+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -5309,6 +5423,20 @@
    "tag_v": 2
   },
   {
+   "id": "eb8600edd8bc",
+   "title": "Explosions heard over Riyadh as Saudi authorities say Houthi missiles downed, and other Mideast news - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnNFYkswVTNNR0trQlNVMmxTVFk4THIxWUpJcFZJbUsyN2ZHdzFqNXM0U2pBWU9uRzg2SkJhQkYxYjlySHRfS2cxMy1xRTRBRnB3LWhMTjk5VmxiM09mRk9JRlBTY0p1UlFhMFRYNlR1VmxGdUFCbXFnbU85THg3ZVVHUHdodEVKZmxnakVwT1ZJdw?oc=5",
+   "summary": "Explosions heard over Riyadh as Saudi authorities say Houthi missiles downed, and other Mideast news&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-27T15:40:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "24a6f240779d",
    "title": "Axcelis Technologies, Inc. Appoints Jeroen Delsman as CFO, Effective November 12, 2026",
    "link": "https://www.nasdaq.com/articles/axcelis-technologies-inc-appoints-jeroen-delsman-cfo-effective-november-12-2026",
@@ -6715,20 +6843,6 @@
    "published": "2026-10-27T15:00:40+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "eb8600edd8bc",
-   "title": "Explosions heard over Riyadh as Saudi authorities say Houthi missiles downed, and other Mideast news - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnNFYkswVTNNR0trQlNVMmxTVFk4THIxWUpJcFZJbUsyN2ZHdzFqNXM0U2pBWU9uRzg2SkJhQkYxYjlySHRfS2cxMy1xRTRBRnB3LWhMTjk5VmxiM09mRk9JRlBTY0p1UlFhMFRYNlR1VmxGdUFCbXFnbU85THg3ZVVHUHdodEVKZmxnakVwT1ZJdw?oc=5",
-   "summary": "Explosions heard over Riyadh as Saudi authorities say Houthi missiles downed, and other Mideast news&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-27T15:00:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8978,128 +9092,6 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "e736ae93c278",
-   "title": "Apple Unveils 14-inch MacBook Pro With M6",
-   "link": "https://www.nasdaq.com/articles/apple-unveils-14-inch-macbook-pro-m6",
-   "summary": "(RTTNews) - Apple (AAPL) announced the new 14-inch MacBook Pro featuring M6, macOS 27, and Siri AI. It comes with up to 24 hours of battery life, 16GB of unified memory standard, configurable up to 32GB, and higher memory bandwidth up to 170GB/s. It supports fast charging, reachi",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T14:04:44+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "562ee689441a",
-   "title": "Cincinnati Financial Q3 26 Earnings Conference Call At 11:00 AM ET",
-   "link": "https://www.nasdaq.com/articles/cincinnati-financial-q3-26-earnings-conference-call-11-00-am-et",
-   "summary": "(RTTNews) - Cincinnati Financial Corporation (CINF) will host a conference call at 11:00 AM ET on October 27, 2026, to discuss Q3 26 earnings results.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T14:04:18+00:00",
-   "tickers": [
-    "CINF"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "98475a10544b",
-   "title": "Sun Communities Q3 26 Earnings Conference Call At 11:00 AM ET",
-   "link": "https://www.nasdaq.com/articles/sun-communities-q3-26-earnings-conference-call-11-00-am-et",
-   "summary": "(RTTNews) - Sun Communities Inc. (SUI) will host a conference call at 11:00 AM ET on October 27, 2026, to discuss Q3 26 earnings results.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T14:04:18+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c851caddbbf1",
-   "title": "VeriPark achieves the 2026-2027 Microsoft AI Business Solutions Inner Circle award",
-   "link": "https://www.prnewswire.com/news-releases/veripark-achieves-the-20262027-microsoft-ai-business-solutions-inner-circle-award-302920855.html",
-   "summary": "LONDON, Oct. 27, 2026 /PRNewswire/ -- VeriPark, a global solutions provider focused exclusively on financial services, has been selected for the 2026–2027 Microsoft AI Business Solutions Inner Circle. Participation in Inner Circle is based on sales achievements that place VeriPark among...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T14:04:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8cd64b5ae419",
-   "title": "Guidewire Software, Inc. to Acquire Hyperexponential Ltd for $1.7 billion in Cash",
-   "link": "https://www.nasdaq.com/articles/guidewire-software-inc-acquire-hyperexponential-ltd-17-billion-cash",
-   "summary": "Guidewire Software, Inc. announced that it entered into a definitive agreement on October 27, 2026, to acquire Hyperexponential Ltd, a London-based agentic platform provider of AI-native underwriting and pricing software. Under the terms of the agreement, Guidewire will acquire a",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T14:02:19+00:00",
-   "tickers": [
-    "GWRE"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3c568674d290",
-   "title": "IAMGOLD Corporation Announces Drilling Results at Nelligan Mining Complex",
-   "link": "https://www.nasdaq.com/articles/iamgold-corporation-announces-drilling-results-nelligan-mining-complex",
-   "summary": "IAMGOLD Corporation announced assay results from its ongoing 2025-2026 drilling programs at its 100% owned Nelligan Mining Complex in central Quebec, Canada. The complex includes the Nelligan, Monster Lake, and Philibert deposits, which are located within a 15 km radius and appro",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T14:02:18+00:00",
-   "tickers": [
-    "IAG"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b39d4877be81",
-   "title": "The Simply Good Foods Company Reports Fourth Quarter and Full Year Fiscal 2026 Results",
-   "link": "https://www.nasdaq.com/articles/simply-good-foods-company-reports-fourth-quarter-and-full-year-fiscal-2026-results",
-   "summary": "The Simply Good Foods Company reported its financial results for the fourth quarter and full fiscal year ended August 29, 2026. For the fourth quarter, net sales decreased 9.7% to $333.3 million compared to $369.0 million in the prior year period, primarily driven by declines in",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T14:02:18+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f8d366354446",
-   "title": "LAZR ETF Increases Anthropic Holding to 10.5%, the Highest of Any ETF | LAZR Stock News",
-   "link": "https://www.stocktitan.net/news/LAZR/lazr-etf-increases-anthropic-holding-to-10-5-the-highest-of-any-20bdbx3xb211.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-27T14:02:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9131,6 +9123,7 @@
   "PRAX": "Praxis Precision Medicines",
   "ARWR": "Arrowhead Pharmaceuticals",
   "ASM": "Avino Silver & Gold Mines",
+  "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "LECO": "Lincoln Electric Holdings",
   "WFRD": "Weatherford International",
@@ -9149,7 +9142,6 @@
   "DKS": "DICK'S Sporting Goods",
   "HALO": "Halozyme Therapeutics",
   "CEG": "Constellation Energy",
-  "CINF": "Cincinnati Financial",
   "MANH": "Manhattan Associates",
   "MOD": "Modine Manufacturing",
   "ONB": "Old National Bancorp",
@@ -9163,7 +9155,6 @@
   "MIR": "Mirion Technologies",
   "ORLY": "O'Reilly Automotive",
   "CNP": "CenterPoint Energy",
-  "GWRE": "Guidewire Software",
   "MRVL": "Marvell Technology",
   "NXPI": "NXP Semiconductors",
   "SCHW": "The Charles Schwab",
@@ -9277,7 +9268,6 @@
   "GLW": "Corning",
   "HUBB": "Hubbell",
   "HUBS": "HubSpot",
-  "IAG": "IAMGOLD",
   "IVZ": "Invesco",
   "LIF": "Life360",
   "MCO": "Moody's",
