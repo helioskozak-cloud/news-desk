@@ -1,8 +1,39 @@
 {
- "generated": "2026-10-27T09:41:12.569408+00:00",
+ "generated": "2026-10-27T09:46:25.825836+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-27T09:42:06+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d2e02676d17c",
+   "title": "Bitmine Immersion Technologies (BMNR) annuncia che le partecipazioni in ETH hanno raggiunto 6,05 milioni di token e che il valore complessivo delle disponibilità in criptovalute, liquidità e titoli negoziabili ammonta a 15 miliardi di dollari",
+   "link": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-annuncia-che-le-partecipazioni-in-eth-hanno-raggiunto-6-05-milioni-di-token-e-che-il-valore-complessivo-delle-disponibilita-in-criptovalute-liquidita-e-titoli-negoziabili-ammonta-a-15-miliard-302920536.html",
+   "summary": "Bitmine ha riacquistato 2,04 milioni di azioni nella scorsa settimana Finora, nel 2026, Bitmine ha riacquistato complessivamente 22,9 milioni di azioni, realizzando il più grande riacquisto azionario mai effettuato da una società di tesoreria crypto Bitmine detiene il 4,95% dell'offerta...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-27T09:41:00+00:00",
+   "tickers": [
+    "BMNR",
+    "ETH"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "f52e68e47e3a",
    "title": "TikTok parent ByteDance's founder is China's richest person again",
@@ -938,20 +969,6 @@
     "AVGO"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-27T08:43:23+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8876,25 +8893,10 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "d6c5c5cdfab4",
-   "title": "Pimco buys $4 billion of SpaceX AI debt package led by Apollo - Bloomberg",
-   "link": "https://www.investing.com/news/stock-market-news/pimco-buys-4-billion-of-spacex-ai-debt-package-led-by-apollo--bloomberg-93CH-4973850",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-26T21:59:50+00:00",
-   "tickers": [
-    "APO"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
+  "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "FLG": "Flagstar Bank, National Association",
   "MTSI": "MACOM Technology Solutions Holdings",
   "WTW": "Willis Towers Watson Public Limited",
@@ -8902,6 +8904,7 @@
   "TSM": "Taiwan Semiconductor Manufacturing",
   "DB": "Deutsche Bank Aktiengesellschaft",
   "IBM": "International Business Machines",
+  "BMNR": "Bitmine Immersion Technologies",
   "JCI": "Johnson Controls International",
   "GBTC": "Grayscale Bitcoin Trust (BTC)",
   "BAH": "Booz Allen Hamilton Holding",
@@ -8910,7 +8913,6 @@
   "IBIT": "iShares Bitcoin Trust ETF",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
-  "APO": "Apollo Global Management",
   "LTH": "Life Time Group Holdings",
   "GS": "The Goldman Sachs Group",
   "SIG": "Signet Jewelers Limited",
