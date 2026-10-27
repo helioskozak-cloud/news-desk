@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-27T08:26:00.927071+00:00",
+ "generated": "2026-10-27T08:31:34.308285+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "78e182c7d9ff",
+   "title": "Smithfield Foods Reports Third Quarter Results | SFD Stock News",
+   "link": "https://www.stocktitan.net/news/SFD/smithfield-foods-reports-third-quarter-0rq5yjxqlken.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-27T08:30:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fcd0b4123fa8",
+   "title": "HSBC shares slump on revenue miss, lender announces share buyback of up to $1 billion",
+   "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+   "summary": "HSBC announced its third-quarter earnings on Tuesday.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T08:28:01+00:00",
+   "tickers": [
+    "HSBC"
+   ],
+   "type": "dividend",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "8fd8c8364a7f",
    "title": "Stock futures are mixed after Wall Street starts the week on a winning note: Live updates",
@@ -391,6 +421,20 @@
     "BTE",
     "JEF"
    ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8006c4d012a9",
+   "title": "Does Jensen Huang Know Something Wall Street Doesn't? Nvidia's CEO Sees No Signs of Memory Demand Fading by 2029",
+   "link": "https://www.nasdaq.com/articles/does-jensen-huang-know-something-wall-street-doesnt-nvidias-ceo-sees-no-signs-memory",
+   "summary": "Key PointsRecent news has made investors anxious about how persistent high demand for memory will be.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T07:51:00+00:00",
+   "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -2140,22 +2184,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fcd0b4123fa8",
-   "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
-   "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
-   "summary": "HSBC announced its third-quarter earnings on Tuesday.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T05:30:10+00:00",
-   "tickers": [
-    "HSBC"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8888,36 +8916,6 @@
    "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "db08bb7a6ceb",
-   "title": "Kinder Morgan: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/kinder-morgan-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsKinder Morgan added $5.4 billion in new projects to its backlog.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T21:08:54+00:00",
-   "tickers": [
-    "KMI"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "77c583753514",
-   "title": "Alexandria Real Estate Equities Q3 Loss Widens",
-   "link": "https://www.nasdaq.com/articles/alexandria-real-estate-equities-q3-loss-widens",
-   "summary": "(RTTNews) - Alexandria Real Estate Equities, Inc. (ARE) on Monday reported a wider third-quarter net loss, primarily reflecting $637.9 million in real estate impairment charges. The company narrowed its 2026 adjusted FFO guidance range without changing its midpoint.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T21:08:54+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9003,7 +9001,6 @@
   "FHN": "First Horizon",
   "HSBC": "HSBC Holdings",
   "JOBY": "Joby Aviation",
-  "KMI": "Kinder Morgan",
   "LLY": "Eli Lilly and",
   "WFC": "Wells Fargo &",
   "PINS": "Pinterest Inc",
