@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-27T15:31:31.989562+00:00",
+ "generated": "2026-10-27T15:36:50.262723+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "067ee75574b0",
+   "title": "AI chips are getting so hot, diamonds may be the answer",
+   "link": "https://www.thestreet.com/investing/ai-chip-heat-challenge-diamonds-used-for-cooling",
+   "summary": "China’s lab-grown diamond makers see a higher-margin future in chip cooling.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-27T15:34:43+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8fd8c8364a7f",
+   "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
+   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+   "summary": "The major U.S. stock averages ended Monday's session with solid gains.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T15:31:23+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "c32d9d173108",
    "title": "ChowChow Cloud International Holdings Limited Provides Further Update Regarding Previously Announced Private Placement | CHOW Stock News",
@@ -48,20 +76,6 @@
    "tag_v": 2
   },
   {
-   "id": "8fd8c8364a7f",
-   "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
-   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-   "summary": "The major U.S. stock averages ended Monday's session with solid gains.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T15:29:46+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "c08ccc9a2960",
    "title": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
    "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
@@ -74,6 +88,22 @@
     "BA"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "50fa81c31aad",
+   "title": "Costco momentum is improving heading into November, says Katie Stockton",
+   "link": "https://www.cnbc.com/2026/10/27/costco-stock-november-momentum.html",
+   "summary": "The founder of Fairlead Strategies breaks down the technicals in the stock.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T15:27:32+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -389,7 +419,7 @@
    "title": "S&P Cotality Case-Shiller Index Reports Annual Gain in August 2026",
    "link": "https://www.prnewswire.com/news-releases/sp-cotality-case-shiller-index-reports-annual-gain-in-august-2026-302920916.html",
    "summary": "The S&amp;P Cotality Case-Shiller U.S. National Home Price NSA Index posted a 2.1% annual gain for August 2026, up from a 1.9% rise in the previous month. U.S. home values fell in real terms for the 15th consecutive month, as August's 3.4% inflation ran roughly 1.3 percentage points above the...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-27T15:12:00+00:00",
@@ -9030,38 +9060,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c4fde76b7040",
-   "title": "CACI Awarded $145 Million U.S. Navy Task Order to Advance Maritime Technologies | CACI Stock News",
-   "link": "https://www.stocktitan.net/news/CACI/caci-awarded-145-million-u-s-navy-task-order-to-advance-maritime-m917inb2qeeb.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-27T12:15:00+00:00",
-   "tickers": [
-    "CACI"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a36b5d183a7a",
-   "title": "Columbia Banking System to Participate in the BancAnalysts Association of Boston Conference | COLB Stock News",
-   "link": "https://www.stocktitan.net/news/COLB/columbia-banking-system-to-participate-in-the-banc-analysts-3rld944htkhn.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-27T12:15:00+00:00",
-   "tickers": [
-    "COLB"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9144,6 +9142,7 @@
   "ALGN": "Align Technology",
   "AR": "Antero Resources",
   "BMO": "Bank of Montreal",
+  "COST": "Costco Wholesale",
   "FCX": "Freeport-McMoRan",
   "GNRC": "Generac Holdings",
   "LNC": "Lincoln National",
