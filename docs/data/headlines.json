@@ -1,8 +1,41 @@
 {
- "generated": "2026-10-27T14:46:26.275516+00:00",
+ "generated": "2026-10-27T14:51:12.385497+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "3f8487df1e55",
+   "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+   "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+   "summary": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T14:49:29+00:00",
+   "tickers": [
+    "KO"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "6e7634a8335d",
+   "title": "Pepsi vs. Coca-Cola: Which Dividend King stock will outperform in 2027?",
+   "link": "https://www.thestreet.com/investing/stocks/pepsi-vs-coca-cola-dividend-king-stock-2027",
+   "summary": "Pepsi has trailed Coke for a year. See how PEP and KO stack up for dividend investors in 2027 before you choose a side.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-27T14:47:00+00:00",
+   "tickers": [
+    "KO",
+    "PEP"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "8fd8c8364a7f",
    "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
@@ -568,22 +601,6 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3f8487df1e55",
-   "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-   "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
-   "summary": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T14:25:34+00:00",
-   "tickers": [
-    "KO"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -2278,7 +2295,7 @@
   },
   {
    "id": "0beeda83fcf5",
-   "title": "McDonald's menu adds new holiday drinks",
+   "title": "McDonald’s holiday menu goes after Starbucks’ best customers",
    "link": "https://www.thestreet.com/restaurants/mcdonalds-menu-adds-new-holiday-drinks",
    "summary": "The fast-food giant wants to beat Starbucks at its own game.",
    "source": "TheStreet",
@@ -2286,7 +2303,6 @@
    "domain": "thestreet.com",
    "published": "2026-10-27T13:42:05+00:00",
    "tickers": [
-    "MCD",
     "SBUX"
    ],
    "type": "stocks",
@@ -5536,7 +5552,7 @@
   },
   {
    "id": "ee509bd9852b",
-   "title": "KLM exits 95 million market until March 2027",
+   "title": "KLM exits entire market until March 2027",
    "link": "https://www.thestreet.com/travel/klm-exits-95-million-market-until-march-2027",
    "summary": "The Dutch flag carrier has been forced to push back its service multiple times this year.",
    "source": "TheStreet",
@@ -9008,20 +9024,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c5b84728da9d",
-   "title": "Why is CommVault stock sliding today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-commvault-stock-sliding-today-93CH-4975251",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-27T11:56:30+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9147,7 +9149,6 @@
   "FIVE": "Five Below",
   "KR": "The Kroger",
   "MA": "Mastercard",
-  "MCD": "McDonald's",
   "RKLB": "Rocket Lab",
   "SPGI": "S&P Global",
   "TRU": "TransUnion",
