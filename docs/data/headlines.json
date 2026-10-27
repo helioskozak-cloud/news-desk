@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-27T05:26:15.726719+00:00",
+ "generated": "2026-10-27T05:31:17.829116+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "fcd0b4123fa8",
+   "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+   "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+   "summary": "HSBC announced its third-quarter earnings on Tuesday.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T05:30:10+00:00",
+   "tickers": [
+    "HSBC"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "837a1e9f6a11",
    "title": "Celsius Holdings, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - CELH",
@@ -20,22 +36,6 @@
    "tag_v": 2
   },
   {
-   "id": "fcd0b4123fa8",
-   "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
-   "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
-   "summary": "HSBC announced its third-quarter earnings on Tuesday.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T05:13:02+00:00",
-   "tickers": [
-    "HSBC"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "35528ee7bb58",
    "title": "Apple says it will replace iPhone Duo units showing screen problems",
    "link": "https://www.investing.com/news/stock-market-news/apple-says-it-will-replace-iphone-duo-units-showing-screen-problems-4973703",
@@ -49,6 +49,52 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "940870eeb84b",
+   "title": "Sugar Prices Fall Sharply on Brazilian Real Decline",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-fall-sharply-brazilian-real-decline-0",
+   "summary": "March NY world sugar #11 (SBH27 ) on Monday closed down -1.14 (-5.63%), and December London ICE white sugar #5 (SWZ26 ) closed down -19.40 (-3.63%). Sugar prices fell sharply on Monday as the Brazilian real plunged -9% after President Luiz Inacio Lula da Silva surprised the markets by winning...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T05:12:21+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3eceb9a4af82",
+   "title": "Sugar Prices Fall Sharply on Brazilian Real Decline",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-fall-sharply-brazilian-real-decline",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -1.13 (-5.58%), and December London ICE white sugar #5 (SWZ26 ) is down -19.20 (-3.59%). Sugar prices are trading lower as the Brazilian real plunged -9% after President Luiz Inacio Lula da Silva surprised the markets by winning the weekend Brazilian...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T05:12:21+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ee71bf6ed353",
+   "title": "Soybeans Holding Lower on Monday Following Brazil Pressure",
+   "link": "https://www.nasdaq.com/articles/soybeans-holding-lower-monday-following-brazil-pressure",
+   "summary": "Soybeans are trading with 17 to 18 cent nearby losses on Monday, following elections in Brazil over the weekend. The cmdtyView national average Cash Bean price is down 18 cents at $11.81 1/4. Soymeal futures are down $6.40 to $6.80, with Soy Oil futures 5 to 11 points lower. Following...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T05:12:20+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -94,22 +140,6 @@
    "tag_v": 2
   },
   {
-   "id": "940870eeb84b",
-   "title": "Sugar Prices Fall Sharply on Brazilian Real Decline",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-fall-sharply-brazilian-real-decline-0",
-   "summary": "March NY world sugar #11 (SBH27 ) on Monday closed down -1.14 (-5.63%), and December London ICE white sugar #5 (SWZ26 ) closed down -19.40 (-3.63%). Sugar prices fell sharply on Monday as the Brazilian real plunged -9% after President Luiz Inacio Lula da Silva surprised the markets by winning...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T05:05:55+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "bed156bf67f9",
    "title": "Stocks Rally Ahead of Busy Week as Crude Oil Prices Ease",
    "link": "https://www.nasdaq.com/articles/stocks-rally-ahead-busy-week-crude-oil-prices-ease-0",
@@ -124,20 +154,6 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "ee71bf6ed353",
-   "title": "Soybeans Holding Lower on Monday Following Brazil Pressure",
-   "link": "https://www.nasdaq.com/articles/soybeans-holding-lower-monday-following-brazil-pressure",
-   "summary": "Soybeans are trading with 17 to 18 cent nearby losses on Monday, following elections in Brazil over the weekend. The cmdtyView national average Cash Bean price is down 18 cents at $11.81 1/4. Soymeal futures are down $6.40 to $6.80, with Soy Oil futures 5 to 11 points lower. Following...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T05:01:43+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2162,22 +2178,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3eceb9a4af82",
-   "title": "Sugar Prices Fall Sharply on Brazilian Real Decline",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-fall-sharply-brazilian-real-decline",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -1.13 (-5.58%), and December London ICE white sugar #5 (SWZ26 ) is down -19.20 (-3.59%). Sugar prices are trading lower as the Brazilian real plunged -9% after President Luiz Inacio Lula da Silva surprised the markets by winning the weekend Brazilian...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T01:18:55+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
