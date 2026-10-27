@@ -1,8 +1,71 @@
 {
- "generated": "2026-10-27T22:11:15.148532+00:00",
+ "generated": "2026-10-27T22:16:34.381172+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2e40823d73a7",
+   "title": "94-year-old grocer launches chain to undercut Costco, Walmart",
+   "link": "https://www.thestreet.com/retail/94-year-old-grocer-launches-chain-to-undercut-costco-walmart",
+   "summary": "Price Chopper is borrowing a pricing idea from Mark Cuban's Cost Plus Drugs.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-27T22:15:00+00:00",
+   "tickers": [
+    "WMT",
+    "COST"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "3dc79c04055d",
+   "title": "Church & Dwight Co., Inc. Declares 503rd Regular Quarterly Dividend | CHD Stock News",
+   "link": "https://www.stocktitan.net/news/CHD/church-dwight-co-inc-declares-503rd-regular-quarterly-bwv4hsiu14zo.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-27T22:15:00+00:00",
+   "tickers": [
+    "CHD"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "34f791908498",
+   "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+   "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
+   "summary": "Cassidy Hutchinson had testified to a House committee about Trump's conduct on the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T22:13:31+00:00",
+   "tickers": [
+    "WH"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a2e88c409950",
+   "title": "Anthropic's IPO lists 93 pages of risks. What could go wrong?",
+   "link": "https://www.cbsnews.com/news/anthropic-ipo-filing-ai-risks/",
+   "summary": "Anthropic's planned IPO requires investors to reckon with the threat posed by AI. \"This is not an ordinary technology risk,\" one expert said.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-10-27T22:13:12+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "b3dfcabae125",
    "title": "CNBC Workforce Executive Summit live updates: Can New York City lead the way in AI regulation?",
@@ -34,19 +97,83 @@
    "tag_v": 2
   },
   {
-   "id": "34f791908498",
-   "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-   "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-   "summary": "Cassidy Hutchinson had testified to a House committee about Trump's conduct on the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T22:01:58+00:00",
+   "id": "96efbdf782b0",
+   "title": "Crude Oil Prices Fall Back As Iran’s Supreme Leader Reiterates Deal Terms",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-fall-back-irans-supreme-leader-reiterates-deal-terms-0",
+   "summary": "December WTI crude oil (CLZ26 ) on Tuesday closed down -1.86 (-1.83%), and December RBOB gasoline (RBZ26 ) closed down -0.0684 (-2.18%). WTI crude oil prices fell on Tuesday after Iranian supreme leader, Mojtaba Khamenei, called for pursuing conditions that Iranian officials have set to end the war. He also...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T22:04:52+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "d941587972d2",
+   "title": "Sugar Prices Stabilize after Monday’s Sell-off",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-stabilize-after-mondays-sell-0",
+   "summary": "March NY world sugar #11 (SBH27 ) on Tuesday closed up +0.10 (+0.52), and December London ICE white sugar #5 (SWZ26 ) closed up +3.80 (+0.74%). NY sugar prices on Tuesday stabilized after Monday’s -5.6% plunge to a 1-month low. Sugar prices fell sharply on Monday as the Brazilian real...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T22:04:51+00:00",
    "tickers": [
-    "WH"
+    "ICE"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "567dde005826",
+   "title": "Stocks See Support as Crude Oil Prices Ease",
+   "link": "https://www.nasdaq.com/articles/stocks-see-support-crude-oil-prices-ease",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.30%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.60%. December E-mini S&amp;P futures (ESZ26 ) are up +0.09%, and December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T22:04:51+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "33e048444fa0",
+   "title": "Stocks See Support as Crude Oil Prices Ease and FOMC Awaited",
+   "link": "https://www.nasdaq.com/articles/stocks-see-support-crude-oil-prices-ease-and-fomc-awaited",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.42%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.92%. December E-mini S&amp;P futures (ESZ26 ) are up +0.50%, and December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T22:04:51+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a1c18d1bba88",
+   "title": "Arabica Coffee Prices Fall on Concern About Brazilian Real Weakness",
+   "link": "https://www.nasdaq.com/articles/arabica-coffee-prices-fall-concern-about-brazilian-real-weakness-0",
+   "summary": "December arabica coffee (KCZ26 ) on Tuesday closed down -7.20 (-2.39%), and November ICE robusta coffee (RMX26 ) closed up +46 (+1.44%). Arabica coffee prices on Tuesday added to Monday’s losses on concerns that Brazilian exporters will increase sales after the Brazilian real plunged -8.8% on Monday, although it recovered...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T22:04:51+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -180,6 +307,20 @@
     "AMZN"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0571f08c1636",
+   "title": "Dollar Posts 1.5-week High on Expectations for Hawkish FOMC Commentary",
+   "link": "https://www.nasdaq.com/articles/dollar-posts-15-week-high-expectations-hawkish-fomc-commentary-0",
+   "summary": "The dollar index (DXY00 ) on Tuesday rose +0.33% and posted a new 1.5-week high. The dollar saw support ahead of the 2-day FOMC meeting that ends Wednesday, amid expectations that Fed Chair Warsh will deliver somewhat hawkish commentary on future rate hikes to curb above-target inflation. The markets are...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T21:58:37+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -568,22 +709,6 @@
    "tag_v": 2
   },
   {
-   "id": "d941587972d2",
-   "title": "Sugar Prices Stabilize after Monday’s Sell-off",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-stabilize-after-mondays-sell-0",
-   "summary": "March NY world sugar #11 (SBH27 ) on Tuesday closed up +0.10 (+0.52), and December London ICE white sugar #5 (SWZ26 ) closed up +3.80 (+0.74%). NY sugar prices on Tuesday stabilized after Monday’s -5.6% plunge to a 1-month low. Sugar prices fell sharply on Monday as the Brazilian real...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T21:41:23+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "d53adce557da",
    "title": "Nvidia’s New $3 Billion AI Bet Is on One of Its Own Customers",
    "link": "https://www.nasdaq.com/articles/nvidias-new-3-billion-ai-bet-one-its-own-customers",
@@ -673,37 +798,6 @@
    ],
    "type": "dividend",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "0571f08c1636",
-   "title": "Dollar Posts 1.5-week High on Expectations for Hawkish FOMC Commentary",
-   "link": "https://www.nasdaq.com/articles/dollar-posts-15-week-high-expectations-hawkish-fomc-commentary-0",
-   "summary": "The dollar index (DXY00 ) on Tuesday rose +0.33% and posted a new 1.5-week high. The dollar saw support ahead of the 2-day FOMC meeting that ends Wednesday, amid expectations that Fed Chair Warsh will deliver somewhat hawkish commentary on future rate hikes to curb above-target inflation. The markets are...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T21:35:55+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "567dde005826",
-   "title": "Stocks See Support as Crude Oil Prices Ease",
-   "link": "https://www.nasdaq.com/articles/stocks-see-support-crude-oil-prices-ease",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.30%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.60%. December E-mini S&amp;P futures (ESZ26 ) are up +0.09%, and December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T21:35:54+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1050,37 +1144,6 @@
    ],
    "type": "earnings",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "96efbdf782b0",
-   "title": "Crude Oil Prices Fall Back As Iran’s Supreme Leader Reiterates Deal Terms",
-   "link": "https://www.nasdaq.com/articles/crude-oil-prices-fall-back-irans-supreme-leader-reiterates-deal-terms-0",
-   "summary": "December WTI crude oil (CLZ26 ) on Tuesday closed down -1.86 (-1.83%), and December RBOB gasoline (RBZ26 ) closed down -0.0684 (-2.18%). WTI crude oil prices fell on Tuesday after Iranian supreme leader, Mojtaba Khamenei, called for pursuing conditions that Iranian officials have set to end the war. He also...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T21:26:25+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "33e048444fa0",
-   "title": "Stocks See Support as Crude Oil Prices Ease and FOMC Awaited",
-   "link": "https://www.nasdaq.com/articles/stocks-see-support-crude-oil-prices-ease-and-fomc-awaited",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.42%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.92%. December E-mini S&amp;P futures (ESZ26 ) are up +0.50%, and December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T21:26:24+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1652,6 +1715,20 @@
    "published": "2026-10-27T21:12:27+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "263d7c7b4159",
+   "title": "Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9QN3kwR2JnU0lwVlhGZ0xxM0VaYVNFNWJwUk1lZlVVV0N0ZlhpLW91VGtXUGg2LUlfRDNxSy1YU1RPX3NOeElMYXJZME5odnZ0SHJfaFU3R3k3MXJ4Q19HLThBSHVTdUN2SkR3RDByWkpOSE1FRmVoNVZ3NE1xQ1JrXy0zM3NobTRGUEU0b3VvY3BUYXRGVGRrMXQ?oc=5",
+   "summary": "Trump makes last-minute push to keep Texas in Republican hands with third trip&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-27T21:12:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -5329,22 +5406,6 @@
    "tag_v": 2
   },
   {
-   "id": "a1c18d1bba88",
-   "title": "Arabica Coffee Prices Fall on Concern About Brazilian Real Weakness",
-   "link": "https://www.nasdaq.com/articles/arabica-coffee-prices-fall-concern-about-brazilian-real-weakness-0",
-   "summary": "December arabica coffee (KCZ26 ) on Tuesday closed down -7.20 (-2.39%), and November ICE robusta coffee (RMX26 ) closed up +46 (+1.44%). Arabica coffee prices on Tuesday added to Monday’s losses on concerns that Brazilian exporters will increase sales after the Brazilian real plunged -8.8% on Monday, although it recovered...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T20:12:33+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "106da02aeeda",
    "title": "Nasdaq Moves Sharply Higher As Tech Stocks Extend Recovery",
    "link": "https://www.nasdaq.com/articles/nasdaq-moves-sharply-higher-tech-stocks-extend-recovery",
@@ -7303,20 +7364,6 @@
    "tag_v": 2
   },
   {
-   "id": "a2e88c409950",
-   "title": "Anthropic's IPO lists 93 pages of risks. What could go wrong?",
-   "link": "https://www.cbsnews.com/news/anthropic-ipo-filing-ai-risks/",
-   "summary": "Anthropic's planned IPO requires investors to reckon with the threat posed by AI. \"This is not an ordinary technology risk,\" one expert said.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-10-27T19:46:24+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "56e5f6700617",
    "title": "Globe Life evp & cio Hensley sells $372,620 of stock",
    "link": "https://www.investing.com/news/insider-trading-news/globe-life-evp--cio-hensley-sells-372620-of-stock-93CH-4976679",
@@ -8991,50 +9038,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "f2d1b978528e",
-   "title": "Saint-Gobain Q3 2026 slides: pricing drives growth amid volume pressure",
-   "link": "https://www.investing.com/news/company-news/saintgobain-q3-2026-slides-pricing-drives-growth-amid-volume-pressure-93CH-4976623",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-27T18:46:09+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "c2ce82770a47",
-   "title": "CrowdStrike vs. Fastly: Which Technology Stock Is a Better Buy in 2026?",
-   "link": "https://www.nasdaq.com/articles/crowdstrike-vs-fastly-which-technology-stock-better-buy-2026",
-   "summary": "Key PointsCrowdStrike continues to lead the endpoint security market with its AI-native Falcon platform despite recent operational challenges.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T18:45:07+00:00",
-   "tickers": [
-    "CRWD"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f468d25ff588",
-   "title": "Utah authorities are connecting serial killer Ted Bundy to another 1970s homicide - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE4ybTBpY3ItMkNXQTVVZFJsMW0zYWt6aTUtdnJRVWNqVzlEMTZtLTVPTmx5REVUT2ZFWmRISV9BSFVuWjNGSDc4Y3JXbldvWnJPamdObkJqbjFTTTdaRms2YWdoX2J4YzRYUi1NUl9aeE9FNVFVcW5tcHV2NGlIU2kxd0xvTXhqSFRjQUdMWG1kdkNhRjFmV2djVQ?oc=5",
-   "summary": "Utah authorities are connecting serial killer Ted Bundy to another 1970s homicide&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-27T18:45:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9072,7 +9075,6 @@
   "AWK": "American Water Works",
   "CINF": "Cincinnati Financial",
   "CORT": "Corcept Therapeutics",
-  "CRWD": "CrowdStrike Holdings",
   "GVA": "Granite Construction",
   "MANH": "Manhattan Associates",
   "RVMD": "Revolution Medicines",
@@ -9101,6 +9103,7 @@
   "AXP": "American Express",
   "BKNG": "Booking Holdings",
   "BMO": "Bank of Montreal",
+  "COST": "Costco Wholesale",
   "EMR": "Emerson Electric",
   "ENSG": "The Ensign Group",
   "FCX": "Freeport-McMoRan",
@@ -9114,6 +9117,7 @@
   "WM": "Waste Management",
   "AGNC": "AGNC Investment",
   "BRBR": "BellRing Brands",
+  "CHD": "Church & Dwight",
   "D": "Dominion Energy",
   "DIS": "The Walt Disney",
   "JBLU": "JetBlue Airways",
