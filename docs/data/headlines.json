@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-27T21:06:07.146675+00:00",
+ "generated": "2026-10-27T21:11:02.691818+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0f7afadd03e7",
+   "title": "Robinhood shares fall 4% as crypto slump weighs on profits, offsetting gains in new businesses",
+   "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+   "summary": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T21:07:51+00:00",
+   "tickers": [
+    "HOOD"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "a9f2b27d1c0b",
    "title": "Lula’s election win leaves Brazil facing a fiscal tightrope",
@@ -11,10 +27,38 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-27T21:05:12+00:00",
+   "published": "2026-10-27T21:07:38+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "57ffd535d549",
+   "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+   "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+   "summary": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T21:07:04+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "014d7121219d",
+   "title": "Main Street Prices Public Offering of $500 Million of 6.55% Notes due 2030 | MAIN Stock News",
+   "link": "https://www.stocktitan.net/news/MAIN/main-street-prices-public-offering-of-500-million-of-6-55-notes-due-1fxd307bz7eb.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-27T21:05:00+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -246,6 +290,22 @@
     "BRBR"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "322b37b63bbe",
+   "title": "Ridgeview Partners Completes Acquisition of Pinewood Technologies Group",
+   "link": "http://www.businesswire.com/news/home/20261027051586/en/Ridgeview-Partners-Completes-Acquisition-of-Pinewood-Technologies-Group/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+   "summary": "SAN FRANCISCO--(BUSINESS WIRE)--Ridgeview Partners LLC (“Ridgeview”), a growth-oriented technology private equity firm, today announced the completion of the acquisition of Pinewood Technologies Group plc (“Pinewood.AI”), a leading cloud-based, AI-first, full-service technology provider to automotive retailers and OEMs. Pinewood.AI is redefining how automotive retailers run their businesses. Its platform unifies mission-critical software for sales, aftersales, accounting, CRM and data analytics",
+   "source": "BusinessWire",
+   "category": "press",
+   "domain": "businesswire.com",
+   "published": "2026-10-27T21:00:00+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -726,6 +786,34 @@
    "tag_v": 2
   },
   {
+   "id": "3a01f5eecb8d",
+   "title": "Nat-Gas Prices Partially Recover from Monday’s 6-Month Low",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-partially-recover-mondays-6-month-low",
+   "summary": "November Nymex natural gas (NGX26 ) on Tuesday closed up +0.095 (+3.65%). Nov nat-gas prices on Tuesday rebounded higher from Monday’s 6-month nearest futures low. Even after Tuesday’s rebound, Nov nat-gas prices are down a net -18% since October 13 on forecasts for above-average US autumn temperatures that could curb...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T20:45:34+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "96efbdf782b0",
+   "title": "Crude Oil Prices Fall Back As Iran’s Supreme Leader Reiterates Deal Terms",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-fall-back-irans-supreme-leader-reiterates-deal-terms-0",
+   "summary": "December WTI crude oil (CLZ26 ) on Tuesday closed down -1.86 (-1.83%), and December RBOB gasoline (RBZ26 ) closed down -0.0684 (-2.18%). WTI crude oil prices fell on Tuesday after Iranian supreme leader, Mojtaba Khamenei, called for pursuing conditions that Iranian officials have set to end the war. He also...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T20:45:34+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "ec5cb250690d",
    "title": "Sugar Prices Stabilize after Monday’s Sell-off",
    "link": "https://www.nasdaq.com/articles/sugar-prices-stabilize-after-mondays-sell",
@@ -1068,22 +1156,6 @@
    "tag_v": 2
   },
   {
-   "id": "0f7afadd03e7",
-   "title": "Robinhood shares fall 5% as crypto slump weighs on profits, offsetting gains in new businesses",
-   "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
-   "summary": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T20:39:49+00:00",
-   "tickers": [
-    "HOOD"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "dbf67ec3ec50",
    "title": "Why Royal Caribbean Stock Climbed Today",
    "link": "https://www.nasdaq.com/articles/why-royal-caribbean-stock-climbed-today",
@@ -1252,20 +1324,6 @@
    "tag_v": 2
   },
   {
-   "id": "3a01f5eecb8d",
-   "title": "Nat-Gas Prices Partially Recover from Monday’s 6-Month Low",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-partially-recover-mondays-6-month-low",
-   "summary": "November Nymex natural gas (NGX26 ) on Tuesday closed up +0.095 (+3.65%). Nov nat-gas prices on Tuesday rebounded higher from Monday’s 6-month nearest futures low. Even after Tuesday’s rebound, Nov nat-gas prices are down a net -18% since October 13 on forecasts for above-average US autumn temperatures that could curb...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T20:34:48+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "567dde005826",
    "title": "Stocks See Support as Crude Oil Prices Ease",
    "link": "https://www.nasdaq.com/articles/stocks-see-support-crude-oil-prices-ease",
@@ -1303,14 +1361,14 @@
    "title": "Invesco CurrencyShares Euro Trust (FXE) Enters Oversold Territory",
    "link": "https://www.nasdaq.com/articles/invesco-currencyshares-euro-trust-fxe-enters-oversold-territory",
    "summary": "In trading on Tuesday, shares of the Invesco CurrencyShares Euro Trust ETF (Symbol: FXE) entered into oversold territory, changing hands as low as $102.82 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-27T20:34:11+00:00",
    "tickers": [
     "IVZ"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1319,12 +1377,12 @@
    "title": "Patria Investments Becomes Oversold (PAX)",
    "link": "https://www.nasdaq.com/articles/patria-investments-becomes-oversold-pax",
    "summary": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-27T20:34:08+00:00",
    "tickers": [],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1365,14 +1423,14 @@
    "title": "HSBC Holdings Getting Very Oversold",
    "link": "https://www.nasdaq.com/articles/hsbc-holdings-getting-very-oversold",
    "summary": "In trading on Tuesday, shares of the HSBC Holdings plc ADRhedged ETF (Symbol: HSBH) entered into oversold territory, changing hands as low as $95.36 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used t",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-27T20:33:54+00:00",
    "tickers": [
     "HSBC"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1381,12 +1439,12 @@
    "title": "VanEck Indonesia Index Getting Very Oversold",
    "link": "https://www.nasdaq.com/articles/vaneck-indonesia-index-getting-very-oversold",
    "summary": "In trading on Tuesday, shares of the VanEck Indonesia Index ETF (Symbol: IDX) entered into oversold territory, changing hands as low as $9.18 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measu",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-27T20:33:47+00:00",
    "tickers": [],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1689,20 +1747,6 @@
    "tag_v": 2
   },
   {
-   "id": "96efbdf782b0",
-   "title": "Crude Oil Prices Fall Back As Iran’s Supreme Leader Reiterates Deal Terms",
-   "link": "https://www.nasdaq.com/articles/crude-oil-prices-fall-back-irans-supreme-leader-reiterates-deal-terms-0",
-   "summary": "December WTI crude oil (CLZ26 ) on Tuesday closed down -1.86 (-1.83%), and December RBOB gasoline (RBZ26 ) closed down -0.0684 (-2.18%). WTI crude oil prices fell on Tuesday after Iranian supreme leader, Mojtaba Khamenei, called for pursuing conditions that Iranian officials have set to end the war. He also...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T20:30:30+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "8b7597fb0a18",
    "title": "Hog Collapse Continues to Tuesday, as Cash Continues Search for a Bottom",
    "link": "https://www.nasdaq.com/articles/hog-collapse-continues-tuesday-cash-continues-search-bottom",
@@ -1751,7 +1795,7 @@
    "title": "BNY to Speak at the BMO Financials Conference",
    "link": "https://www.prnewswire.com/news-releases/bny-to-speak-at-the-bmo-financials-conference-302921141.html",
    "summary": "NEW YORK, Oct. 27, 2026 /PRNewswire/ -- The Bank of New York Mellon Corporation (\"BNY\") (NYSE: BNY), a global financial services company, today announced that Dermot McDonogh, Chief Financial Officer, will speak at the BMO Financials Conference in Boca Raton, Florida at 8:45 a.m. ET on...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-27T20:30:00+00:00",
@@ -2278,20 +2322,6 @@
     "EQT"
    ],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "57ffd535d549",
-   "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
-   "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-   "summary": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T20:28:56+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6634,6 +6664,22 @@
    "tag_v": 2
   },
   {
+   "id": "73fb34e5e3fe",
+   "title": "Broadcom and other AI stocks lift Wall Street closer to its record - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNalA1YWp3MHd0dHNjRGRDaG05a1dLczBwNjE3RjVLU1JRSU1GaGVKRVFHdFBrU2ZxaDZmckMtVVVEUGpjLTQxNkxkNzhVVmlUUVQtTUxUeE9CaUtZNVU2Y1AwWk1aY0VOcHNwclpBdUg2VkdHd2RTcVFOcllaSlRBaksxVklzWTEtYnEyZ2NQVy1KTFIx?oc=5",
+   "summary": "Broadcom and other AI stocks lift Wall Street closer to its record&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-27T19:12:00+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "02ba69931ed7",
    "title": "3 Absurdly Cheap Dividend Stocks to Buy for Under $100 Right Now",
    "link": "https://www.nasdaq.com/articles/3-absurdly-cheap-dividend-stocks-buy-under-100-right-now-0",
@@ -7131,6 +7177,20 @@
    "tickers": [],
    "type": "dividend",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "f468d25ff588",
+   "title": "Utah authorities are connecting serial killer Ted Bundy to another 1970s homicide - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE4ybTBpY3ItMkNXQTVVZFJsMW0zYWt6aTUtdnJRVWNqVzlEMTZtLTVPTmx5REVUT2ZFWmRISV9BSFVuWjNGSDc4Y3JXbldvWnJPamdObkJqbjFTTTdaRms2YWdoX2J4YzRYUi1NUl9aeE9FNVFVcW5tcHV2NGlIU2kxd0xvTXhqSFRjQUdMWG1kdkNhRjFmV2djVQ?oc=5",
+   "summary": "Utah authorities are connecting serial killer Ted Bundy to another 1970s homicide&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-27T18:45:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8962,64 +9022,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "60f35d1137d4",
-   "title": "HCA signals flat 2027 earnings as Medicaid payments drop; shares slide",
-   "link": "https://www.investing.com/news/stock-market-news/hca-signals-flat-2027-earnings-as-medicaid-payments-drop-shares-slide-4976567",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-27T17:36:30+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "59360fa3fd5b",
-   "title": "Amalgamated Financial Corp stock hits all-time high at 51.62 USD",
-   "link": "https://www.investing.com/news/company-news/amalgamated-financial-corp-stock-hits-alltime-high-at-5162-usd-93CH-4976565",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-27T17:35:43+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "abc5d4fa39b2",
-   "title": "Earnings call transcript: The Navigator Company misses Q3 2026 estimates",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-the-navigator-company-misses-q3-2026-estimates-93CH-4976564",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-27T17:35:42+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "0e2744cf04df",
-   "title": "Truist raises Zymeworks stock price target on pipeline progress",
-   "link": "https://www.investing.com/news/analyst-ratings/truist-raises-zymeworks-stock-price-target-on-pipeline-progress-93CH-4976563",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-27T17:35:12+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9145,6 +9147,7 @@
   "BA": "The Boeing",
   "BX": "Blackstone",
   "CMS": "CMS Energy",
+  "CRM": "Salesforce",
   "CVS": "CVS Health",
   "F": "Ford Motor",
   "FTI": "TechnipFMC",
