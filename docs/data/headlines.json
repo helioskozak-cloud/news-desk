@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-27T22:21:29.231824+00:00",
+ "generated": "2026-10-27T22:26:27.465428+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b3dfcabae125",
+   "title": "CNBC Workforce Executive Summit live updates: Can New York City lead the way in AI regulation?",
+   "link": "https://www.cnbc.com/2026/10/27/cnbc-workforce-summit-live-updates.html",
+   "summary": "Follow CNBC's 2026 Workforce Executive Summit for live updates on Walmart's AI strategy, changing job skills, hiring, employee benefits and the future of work.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T22:24:53+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "a2e88c409950",
    "title": "Anthropic's IPO lists 93 pages of risks. What could go wrong?",
@@ -11,8 +27,24 @@
    "source": "CBS MoneyWatch",
    "category": "macro",
    "domain": "cbsnews.com",
-   "published": "2026-10-27T22:20:14+00:00",
+   "published": "2026-10-27T22:23:54+00:00",
    "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c1cb672a44f5",
+   "title": "CBRE Group, Inc. Announces Pricing of $500 Million Senior Notes due 2032 and $500 Million Senior Notes due 2037 | CBRE Stock News",
+   "link": "https://www.stocktitan.net/news/CBRE/cbre-group-inc-announces-pricing-of-500-million-senior-notes-due-aonde2twttlg.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-27T22:21:00+00:00",
+   "tickers": [
+    "CBRE"
+   ],
    "type": "offering",
    "sentiment": "neutral",
    "tag_v": 2
@@ -180,22 +212,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "b3dfcabae125",
-   "title": "CNBC Workforce Executive Summit live updates: Can New York City lead the way in AI regulation?",
-   "link": "https://www.cnbc.com/2026/10/27/cnbc-workforce-summit-live-updates.html",
-   "summary": "Follow CNBC's 2026 Workforce Executive Summit for live updates on Walmart's AI strategy, changing job skills, hiring, employee benefits and the future of work.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T22:09:48+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -9014,22 +9030,6 @@
    "type": "earnings",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "b2484dff62a6",
-   "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
-   "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
-   "summary": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T18:57:45+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9151,6 +9151,7 @@
   "BA": "The Boeing",
   "BN": "Brookfield",
   "BX": "Blackstone",
+  "CBRE": "CBRE Group",
   "CRM": "Salesforce",
   "CVS": "CVS Health",
   "FTI": "TechnipFMC",
