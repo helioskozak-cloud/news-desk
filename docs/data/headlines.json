@@ -1,8 +1,41 @@
 {
- "generated": "2026-10-27T00:31:37.394522+00:00",
+ "generated": "2026-10-27T00:36:33.042548+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "eb047bdba8bc",
+   "title": "Walmart copies a core Costco move that also benefits customers",
+   "link": "https://www.thestreet.com/employment/walmart-improves-employee-benefits-health-insurance-copies-costco-move",
+   "summary": "The company is making a savvy investment that could pay off in more ways than one.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-27T00:33:00+00:00",
+   "tickers": [
+    "WMT",
+    "COST"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2fdc379b2ea2",
+   "title": "DUOL Investors Have Opportunity to Lead Duolingo, Inc. Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/duol-investors-have-opportunity-to-lead-duolingo-inc-securities-fraud-lawsuit-302919983.html",
+   "summary": "NEW YORK, Oct. 26, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of Class A common stock of Duolingo, Inc. (NASDAQ: DUOL) between May 2, 2025 to February 26, 2026, inclusive (the \"Class Period\"), of the important December 7, 2026 lead...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-27T00:33:00+00:00",
+   "tickers": [
+    "DUOL"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "fcaea1122185",
    "title": "Walmart is selling an 'elegant' bookshelf with 8 shelves and 4 drawers for $173",
@@ -1615,6 +1648,20 @@
    ],
    "type": "upgrade",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e08f9d855aea",
+   "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckctdmhsdjZTU1FZLThLMWZNbUtFTHlmNDB6bE9ZT2tOeU9yd2NQLTEzVExNeHBJSTZUM1lIYjZpZDhCMmRENGV0aml4ZmpDQWpIUm5YSlVxb2JEdTRaLXJlcHFOSUhLR3M1VGFIVUZNbGJaRklpbGJZWDJldjF3ZlZaN3Y3eDJmaXpMTHZOMGI4ODRHbHFqcHVJTXBQaThUTUdxbktSaFcxQQ?oc=5",
+   "summary": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-26T22:48:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8875,52 +8922,6 @@
    "type": "markets",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "cb6d010d6fc7",
-   "title": "Anthropic’s IPO: A close look at AI frontrunner’s rapid growth, spiraling costs",
-   "link": "https://www.investing.com/news/stock-market-news/anthropics-ipo-a-close-look-at-ai-frontrunners-rapid-growth-spiraling-costs-4972917",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-26T19:24:18+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fbf3aa6c7c4d",
-   "title": "SoFi Technologies stock outlook: rate sensitivity overshadows strong growth",
-   "link": "https://www.investing.com/news/stock-market-news/sofi-technologies-stock-outlook-rate-sensitivity-overshadows-strong-growth-93CH-4973460",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-26T19:24:18+00:00",
-   "tickers": [
-    "SOFI"
-   ],
-   "type": "guidance",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "3984c45f7f28",
-   "title": "Dollar General overcharged people at checkout for years, FTC says",
-   "link": "https://www.cbsnews.com/news/dollar-general-sued-ftc-overcharging-prices/",
-   "summary": "The discount retailer routinely charges customers more at checkout than the prices it displays on shelves, price tags and ads, according to federal and state authorities.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-10-26T19:24:10+00:00",
-   "tickers": [
-    "DG"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8980,6 +8981,7 @@
   "BWXT": "BWX Technologies",
   "CELH": "Celsius Holdings",
   "CLF": "Cleveland-Cliffs",
+  "COST": "Costco Wholesale",
   "EHC": "Encompass Health",
   "JPM": "JPMorgan Chase &",
   "LAC": "Lithium Americas",
@@ -8996,7 +8998,6 @@
   "TEL": "TE Connectivity",
   "VIK": "Viking Holdings",
   "VRT": "Vertiv Holdings",
-  "DG": "Dollar General",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "PSA": "Public Storage",
@@ -9052,6 +9053,7 @@
   "BCS": "Barclays",
   "DASH": "DoorDash",
   "DOCS": "Doximity",
+  "DUOL": "Duolingo",
   "EVR": "Evercore",
   "GOOG": "Alphabet",
   "NNN": "NNN REIT",
