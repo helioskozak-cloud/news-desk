@@ -1,21 +1,49 @@
 {
- "generated": "2026-10-27T19:46:37.356475+00:00",
+ "generated": "2026-10-27T19:51:07.485108+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
+   "id": "8fd8c8364a7f",
+   "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
+   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+   "summary": "The major U.S. stock averages ended Monday's session with solid gains.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T19:48:42+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "b3dfcabae125",
-   "title": "CNBC Workforce Executive Summit live updates: AI and the future of work",
+   "title": "CNBC Workforce Executive Summit live updates: How AI is reshaping work and jobs",
    "link": "https://www.cnbc.com/2026/10/27/cnbc-workforce-summit-live-updates.html",
    "summary": "Follow CNBC's 2026 Workforce Executive Summit for live updates on Walmart's AI strategy, changing job skills, hiring, employee benefits and the future of work.",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-27T19:42:26+00:00",
+   "published": "2026-10-27T19:46:29+00:00",
    "tickers": [
     "WMT"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a2e88c409950",
+   "title": "Anthropic's IPO lists 93 pages of risks. What could go wrong?",
+   "link": "https://www.cbsnews.com/news/anthropic-ipo-filing-ai-risks/",
+   "summary": "Anthropic's planned IPO requires investors to reckon with the threat posed by AI. \"This is not an ordinary technology risk,\" one expert said.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-10-27T19:46:24+00:00",
+   "tickers": [],
+   "type": "offering",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -63,20 +91,6 @@
    ],
    "type": "press",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8fd8c8364a7f",
-   "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
-   "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-   "summary": "The major U.S. stock averages ended Monday's session with solid gains.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T19:33:44+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -340,20 +354,6 @@
    "tag_v": 2
   },
   {
-   "id": "a2e88c409950",
-   "title": "Anthropic's IPO lists 93 pages of risks. What could go wrong?",
-   "link": "https://www.cbsnews.com/news/anthropic-ipo-filing-ai-risks/",
-   "summary": "Anthropic's planned IPO requires investors to reckon with the threat posed by AI. \"This is not an ordinary technology risk,\" one expert said.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-10-27T19:28:54+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "919999fbb90a",
    "title": "Diamondrock Hospitality stock hits 52-week high at 14.11 USD",
    "link": "https://www.investing.com/news/company-news/diamondrock-hospitality-stock-hits-52week-high-at-1411-usd-93CH-4976653",
@@ -485,12 +485,12 @@
    "title": "Noteworthy Tuesday Option Activity: TRMK, PKE, LITE",
    "link": "https://www.nasdaq.com/articles/noteworthy-tuesday-option-activity-trmk-pke-lite",
    "summary": "Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in Trustmark Corp (Symbol: TRMK), where a total of 3,003 contracts have traded so far, representing approximately 300,300 underlying shares. That amounts to about 80.3% of",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-27T19:24:08+00:00",
    "tickers": [],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -499,8 +499,8 @@
    "title": "Noteworthy Tuesday Option Activity: OKLO, CR, FIGR",
    "link": "https://www.nasdaq.com/articles/noteworthy-tuesday-option-activity-oklo-cr-figr",
    "summary": "Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Oklo Inc (Symbol: OKLO), where a total volume of 66,381 contracts has been traded thus far today, a contract volume which is representative of approximately 6.6",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-27T19:24:01+00:00",
    "tickers": [
@@ -508,7 +508,7 @@
     "CR",
     "FIGR"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3755,20 +3755,6 @@
    ],
    "type": "legal",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "699280e91a98",
-   "title": "US consumer confidence recovers in October as gas prices eased a bit - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkp3Y2pHeVVWMm1DT1NJUm1veTh6QWNhN0JGVHFjWElMTWw3eklNc0hUVVBhM3ZOdnpkUFRsU01wSjdsbFFjNzlfd1RYTGdXVWpJY055ZV9VczZXSTNKRzVZNktiZlFSTUJtQ3RYay1Qa1BKM3RTQmdBZHhyVVR3TnFORjI4MkpjQzcwU2dGRkZ6TENIeFZKUGlRblF0cHNRWFE0VE5DaTFidw?oc=5",
-   "summary": "US consumer confidence recovers in October as gas prices eased a bit&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-27T17:30:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -9027,6 +9013,20 @@
    "published": "2026-10-27T15:00:40+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3d6e71dcb81e",
+   "title": "CECO Environmental To Release Third Quarter 2026 Earnings and Host Conference Call on November 9",
+   "link": "https://markets.businessinsider.com/news/stocks/ceco-environmental-to-release-third-quarter-2026-earnings-and-host-conference-call-on-november-9-1036671366",
+   "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;ADDISON, Texas, Oct. 27, 2026 (GLOBE NEWSWIRE) -- CECO Environmental Corp. (TXSE: CECO) , a leading environmentally focused, diversified industrial company whose solutions protect people, the environment and industrial...",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-10-27T15:00:00+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   }
