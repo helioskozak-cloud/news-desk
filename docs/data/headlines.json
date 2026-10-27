@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-27T22:51:17.837157+00:00",
+ "generated": "2026-10-27T22:56:36.127262+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e424a81cc5ae",
+   "title": "Exit polls show a rebuke of Netanyahu but no clear winner in Israel's election",
+   "link": "https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html",
+   "summary": "Israel's election ended Tuesday with no clear winner, exit polls indicate, likely setting off weeks of jockeying before a leader is declared.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T22:54:48+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "34f791908498",
+   "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+   "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
+   "summary": "Cassidy Hutchinson had testified to a House committee about Trump's conduct on the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T22:53:55+00:00",
+   "tickers": [
+    "WH"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "26f6d9596797",
    "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
@@ -75,22 +105,6 @@
    "published": "2026-10-27T22:40:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "34f791908498",
-   "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-   "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-   "summary": "Cassidy Hutchinson had testified to a House committee about Trump's conduct on the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T22:36:13+00:00",
-   "tickers": [
-    "WH"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1355,20 +1369,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "e424a81cc5ae",
-   "title": "Exit polls show a rebuke of Netanyahu but no clear winner in Israel's election",
-   "link": "https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html",
-   "summary": "Israel's election ended Tuesday with no clear winner, exit polls indicate, likely setting off weeks of jockeying before a leader is declared.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T21:45:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2661,20 +2661,6 @@
    "tag_v": 2
   },
   {
-   "id": "48fded6a5a83",
-   "title": "Truck stolen by escaped Tennessee inmate is found abandoned in Illinois, authorities say - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSG10bVl3THRNOXZNWVpLNDhKWjFpQ0J1Qm9FeHZ2eTMzQ0Vkd29IcnZFVTM2aGpfOVB3UTZhQU1vNlV5SE5NMWhTRDdXS19kVE94eHkwNW5yck9zeV9hNmx6Z1k5MlQ2N0h6T3NLbGh3WGN5bXhSSXpFSkkxS1B3d196WkI2MnkxRFY0YjJIMkhWTXE0ODZYdTk4YUZNaWN2bmhN?oc=5",
-   "summary": "Truck stolen by escaped Tennessee inmate is found abandoned in Illinois, authorities say&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-27T21:02:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "1c3a3ac1b703",
    "title": "Why is Caesars Entertainment stock edging higher today?",
    "link": "https://www.investing.com/news/stock-market-news/why-is-caesars-entertainment-stock-edging-higher-today-93CH-4977000",
@@ -3537,6 +3523,22 @@
    ],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "73fb34e5e3fe",
+   "title": "Broadcom and other AI stocks lift Wall Street closer to its record - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNalA1YWp3MHd0dHNjRGRDaG05a1dLczBwNjE3RjVLU1JRSU1GaGVKRVFHdFBrU2ZxaDZmckMtVVVEUGpjLTQxNkxkNzhVVmlUUVQtTUxUeE9CaUtZNVU2Y1AwWk1aY0VOcHNwclpBdUg2VkdHd2RTcVFOcllaSlRBaksxVklzWTEtYnEyZ2NQVy1KTFIx?oc=5",
+   "summary": "Broadcom and other AI stocks lift Wall Street closer to its record&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-27T20:46:00+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -5310,22 +5312,6 @@
    ],
    "type": "earnings",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "73fb34e5e3fe",
-   "title": "Broadcom and other AI stocks lift Wall Street closer to its record - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNalA1YWp3MHd0dHNjRGRDaG05a1dLczBwNjE3RjVLU1JRSU1GaGVKRVFHdFBrU2ZxaDZmckMtVVVEUGpjLTQxNkxkNzhVVmlUUVQtTUxUeE9CaUtZNVU2Y1AwWk1aY0VOcHNwclpBdUg2VkdHd2RTcVFOcllaSlRBaksxVklzWTEtYnEyZ2NQVy1KTFIx?oc=5",
-   "summary": "Broadcom and other AI stocks lift Wall Street closer to its record&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-27T20:17:00+00:00",
-   "tickers": [
-    "AVGO"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -9024,6 +9010,20 @@
     "AMZN"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "df8a69dfbcdc",
+   "title": "A dinosaur fossil that looks like a mini T. rex just sold for a giant $47 million - AP News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDV4TWZfVndUbFJpUlUxRlhWVEM0Z25WZ0RJRGJBR0FqbGZLcVlwdU9KNTlVU2VHRmJLTnI4bk93QTJMd3d2bThfMkNEa2lCbDM0STFtcFBWQ3lsUHNfOWQ1WU1NTGVsd1Z2cDJlbW1icTMzZlc0STk0V0dNN0NYc1J0YUJGd3RPQ0ZxZTkzVjkyTTNzWTJKUE83S2lOOGgya2ZubXNTR01pejR4ZTJKVA?oc=5",
+   "summary": "A dinosaur fossil that looks like a mini T. rex just sold for a giant $47 million&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-27T19:15:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   }
