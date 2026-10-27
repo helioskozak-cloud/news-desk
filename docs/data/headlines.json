@@ -1,8 +1,39 @@
 {
- "generated": "2026-10-27T22:46:18.140392+00:00",
+ "generated": "2026-10-27T22:51:17.837157+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "26f6d9596797",
+   "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+   "link": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
+   "summary": "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T22:49:23+00:00",
+   "tickers": [
+    "BRK-A",
+    "GOOG"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e61fccee81b3",
+   "title": "Where Cramer stands on two beaten-down aerospace stocks — and the one to buy",
+   "link": "https://www.cnbc.com/2026/10/27/cramer-ge-aerospace-boeing-stock-selloff.html",
+   "summary": "CNBC’s Jim Cramer likes this beaten-down aerospace stock after a post-earnings pullback.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T22:49:08+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "b3dfcabae125",
    "title": "CNBC 2026 Workforce Executive Summit takeaways: How AI is transforming jobs, hiring, and employee benefits",
@@ -58,23 +89,6 @@
    "published": "2026-10-27T22:36:13+00:00",
    "tickers": [
     "WH"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "26f6d9596797",
-   "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-   "link": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-   "summary": "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T22:36:00+00:00",
-   "tickers": [
-    "BRK-A",
-    "GOOG"
    ],
    "type": "markets",
    "sentiment": "neutral",
@@ -2643,6 +2657,20 @@
     "ENPH"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "48fded6a5a83",
+   "title": "Truck stolen by escaped Tennessee inmate is found abandoned in Illinois, authorities say - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSG10bVl3THRNOXZNWVpLNDhKWjFpQ0J1Qm9FeHZ2eTMzQ0Vkd29IcnZFVTM2aGpfOVB3UTZhQU1vNlV5SE5NMWhTRDdXS19kVE94eHkwNW5yck9zeV9hNmx6Z1k5MlQ2N0h6T3NLbGh3WGN5bXhSSXpFSkkxS1B3d196WkI2MnkxRFY0YjJIMkhWTXE0ODZYdTk4YUZNaWN2bmhN?oc=5",
+   "summary": "Truck stolen by escaped Tennessee inmate is found abandoned in Illinois, authorities say&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-27T21:02:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8998,36 +9026,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "4c67a6f2bceb",
-   "title": "Tesla breaks out but overextended above Bollinger Band: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/tesla-breaks-out-above-388-range-overextended-live-levels-93CH-4973068",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-27T19:19:06+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0ad48f024fe1",
-   "title": "Nasdaq 100 tests cloud resistance with bullish MACD: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-tests-descending-triangle-support-at-29000-live-levels-93CH-4973069",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-27T19:19:05+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9135,7 +9133,6 @@
   "STT": "State Street",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
-  "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "FE": "FirstEnergy",
   "FSLR": "First Solar",
