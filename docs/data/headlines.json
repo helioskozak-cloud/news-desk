@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T23:46:12.234887+00:00",
+ "generated": "2026-10-27T23:51:35.742630+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,12 +11,26 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-27T23:43:13+00:00",
+   "published": "2026-10-27T23:50:03+00:00",
    "tickers": [
     "WH"
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "75b3c1c49581",
+   "title": "Samsung's AI boom comes with a $100 billion warning",
+   "link": "https://www.thestreet.com/investing/samsungs-ai-boom-comes-with-a-100-billion-warning",
+   "summary": "South Korea’s chip boom has made Big Tech spending a national risk.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-27T23:47:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -27,10 +41,24 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-27T23:34:59+00:00",
+   "published": "2026-10-27T23:45:49+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "3ee0fc112e38",
+   "title": "SK hynix Announces 3Q26 Financial Results | SKHY Stock News",
+   "link": "https://www.stocktitan.net/news/SKHY/sk-hynix-announces-3q26-financial-fcr2bh8ikc0x.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-27T23:45:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8965,36 +8993,6 @@
    "type": "markets",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "5a43ec28b3f2",
-   "title": "Lektra Launches EdgeStart, an AI Server that Building Owners Can Buy and Run on Their Own Solar, While Receiving 80% of the Earnings",
-   "link": "https://www.prnewswire.com/news-releases/lektra-launches-edgestart-an-ai-server-that-building-owners-can-buy-and-run-on-their-own-solar-while-receiving-80-of-the-earnings-302921209.html",
-   "summary": "EdgeStart is a self-contained, 8-GPU NVIDIA cabinet that enables building owners to earn money from their available solar power and batteries. NEW YORK, Oct. 27, 2026 /PRNewswire/ -- Lektra, Inc., a distributed energy and artificial intelligence company, today began taking orders for...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T19:51:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "eb8600edd8bc",
-   "title": "Explosions heard over Riyadh as Saudi authorities say Houthi missiles downed, and other Mideast news - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnNFYkswVTNNR0trQlNVMmxTVFk4THIxWUpJcFZJbUsyN2ZHdzFqNXM0U2pBWU9uRzg2SkJhQkYxYjlySHRfS2cxMy1xRTRBRnB3LWhMTjk5VmxiM09mRk9JRlBTY0p1UlFhMFRYNlR1VmxGdUFCbXFnbU85THg3ZVVHUHdodEVKZmxnakVwT1ZJdw?oc=5",
-   "summary": "Explosions heard over Riyadh as Saudi authorities say Houthi missiles downed, and other Mideast news&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-27T19:51:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9096,7 +9094,6 @@
   "STT": "State Street",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
-  "NVDA": "Grace Hopper",
   "FE": "FirstEnergy",
   "FSLR": "First Solar",
   "WPC": "W. P. Carey",
