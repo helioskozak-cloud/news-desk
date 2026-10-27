@@ -1,8 +1,41 @@
 {
- "generated": "2026-10-27T12:26:36.854196+00:00",
+ "generated": "2026-10-27T12:31:22.432081+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1a13d48993b7",
+   "title": "Here are Tuesday's biggest analyst calls: SpaceX, Apple, Broadcom, CoreWeave, Palantir, Intel & more",
+   "link": "https://www.cnbc.com/2026/10/27/biggest-calls-tuesday-on-wall-street-include-spacex-coreweave.html",
+   "summary": "Here are the biggest calls on Wall Street on Tuesday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T12:26:35+00:00",
+   "tickers": [
+    "CRWV",
+    "AVGO",
+    "PLTR",
+    "AAPL"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2028a1ebbbdd",
+   "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+   "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+   "summary": "World Bank President Ajay Banga came on CNBC's \"Squawk Box\" on Oct. 27, 2026.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T12:26:06+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "1fba0c848a6b",
    "title": "VNET Announces Repurchase of 30% of Its Convertible Senior Notes due 2027 | VNET Stock News",
@@ -428,20 +461,6 @@
    "published": "2026-10-27T12:15:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2028a1ebbbdd",
-   "title": "Global alarm over AI: World Bank President Banga speaks to CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
-   "summary": "World Bank President Ajay Banga came on CNBC's \"Squawk Box\" on Oct. 27, 2026.",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T12:14:07+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8951,22 +8970,6 @@
    "type": "earnings",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "bd28f533c6c7",
-   "title": "European Shares Edge Lower As French Students Vow More Protests",
-   "link": "https://www.nasdaq.com/articles/european-shares-edge-lower-french-students-vow-more-protests",
-   "summary": "(RTTNews) - European stocks were moving lower on Tuesday as British banking giant HSBC posted disappointing earnings and French student leaders vowed to carry out further protests despite government concessions on education aimed at easing mounting unrest.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T09:21:31+00:00",
-   "tickers": [
-    "HSBC"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9081,6 +9084,7 @@
   "BC": "Brunswick",
   "BLK": "BlackRock",
   "C": "Citigroup",
+  "CRWV": "CoreWeave",
   "SBUX": "Starbucks",
   "TE": "T1 Energy",
   "TEM": "Tempus AI",
