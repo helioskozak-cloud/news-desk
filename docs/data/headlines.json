@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T01:46:03.076780+00:00",
+ "generated": "2026-10-27T01:51:30.922124+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,7 +11,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-27T01:42:56+00:00",
+   "published": "2026-10-27T01:45:58+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
@@ -32,6 +32,34 @@
    "tag_v": 2
   },
   {
+   "id": "153841131be6",
+   "title": "Earnings call transcript: Stanmore Resources posts record output in Q3 2026",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-stanmore-resources-posts-record-output-in-q3-2026-93CH-4974046",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-27T01:35:58+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d6d773946e45",
+   "title": "SK Hynix shares rise to two-week high on report of $12 billion dividend",
+   "link": "https://www.investing.com/news/stock-market-news/sk-hynix-shares-rise-to-twoweek-high-on-report-of-12-billion-dividend-4974045",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-27T01:35:11+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "d0341387d914",
    "title": "F3 Announces Grant of Stock Options and Restricted Share Units | FUUFF Stock News",
    "link": "https://www.stocktitan.net/news/FUUFF/f3-announces-grant-of-stock-options-and-restricted-share-taxqowduv5g5.html",
@@ -42,6 +70,53 @@
    "published": "2026-10-27T01:33:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bd44bdcc2616",
+   "title": "JP Morgan Upgrades Roper Technologies to Neutral from Underweight",
+   "link": "https://www.nasdaq.com/articles/jp-morgan-upgrades-roper-technologies-neutral-underweight",
+   "summary": "Fintel reports that on October 26, 2026, JP Morgan upgraded their outlook for Roper Technologies (NASDAQGS:ROP) (XTRA:ROP) from Underweight to Neutral. This rating action follows a prior action by JP Morgan on July 29, 2026, when the firm maintained its Underweight rating on the",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T01:32:28+00:00",
+   "tickers": [
+    "ROP",
+    "JPM"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c581f90091a2",
+   "title": "Conifer Management buys $24.2M in Group 1 Automotive stock",
+   "link": "https://www.investing.com/news/insider-trading-news/conifer-management-buys-242m-in-group-1-automotive-stock-93CH-4974042",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-27T01:31:04+00:00",
+   "tickers": [
+    "GPI"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d85f103492d1",
+   "title": "Ryan Khouri, CTT Pharmaceutical Holdings CEO, buys $335 in CTTH stock",
+   "link": "https://www.investing.com/news/insider-trading-news/ryan-khouri-ctt-pharmaceutical-holdings-ceo-buys-335-in-ctth-stock-93CH-4974041",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-27T01:30:59+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -59,6 +134,20 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ee71bf6ed353",
+   "title": "Soybeans Holding Lower on Monday Following Brazil Pressure",
+   "link": "https://www.nasdaq.com/articles/soybeans-holding-lower-monday-following-brazil-pressure",
+   "summary": "Soybeans are trading with 17 to 18 cent nearby losses on Monday, following elections in Brazil over the weekend. The cmdtyView national average Cash Bean price is down 18 cents at $11.81 1/4. Soymeal futures are down $6.40 to $6.80, with Soy Oil futures 5 to 11 points lower. Following...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T01:24:43+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -135,20 +224,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ee71bf6ed353",
-   "title": "Soybeans Holding Lower on Monday Following Brazil Pressure",
-   "link": "https://www.nasdaq.com/articles/soybeans-holding-lower-monday-following-brazil-pressure",
-   "summary": "Soybeans are trading with 17 to 18 cent nearby losses on Monday, following elections in Brazil over the weekend. The cmdtyView national average Cash Bean price is down 18 cents at $11.81 1/4. Soymeal futures are down $6.40 to $6.80, with Soy Oil futures 5 to 11 points lower. Following...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T01:18:55+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -284,6 +359,20 @@
    "published": "2026-10-27T01:06:40+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c397fab92278",
+   "title": "Judge extends court-ordered block on Trump’s renovation plans for public golf course in Washington - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0EyQnBGR2diemlHNFhYQXNlelZIRmRZeW13MjhVZFRwX2prOUtIenZvSXdZOF9RbEtOUHZicExLUnFSd0pwX2VBRVd2YzRZZDBaSjVjc2ttVUlsTUxJbHk3c213OTdrM01XODJaSnRVenJUS2R6M2Zvbm1PX3YxNHZ0dUJPOTNud2VqSEVqdDVUOGR3?oc=5",
+   "summary": "Judge extends court-ordered block on Trump’s renovation plans for public golf course in Washington&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-27T01:06:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8832,92 +8921,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "ab44a7935ac0",
-   "title": "i-payout Simplifies Global Disbursements Through Local Payment Solutions",
-   "link": "https://www.investing.com/news/company-news/ipayout-simplifies-global-disbursements-through-local-payment-solutions-4973495",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-26T20:02:19+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "440681992d38",
-   "title": "Brazil finance minister signals more ambitious primary surplus for next year",
-   "link": "https://www.investing.com/news/economy-news/brazil-finance-minister-signals-more-ambitious-primary-surplus-for-next-year-4973475",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-26T20:01:21+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "23d925ffbdee",
-   "title": "Beacon Financial general counsel sells $19,621 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/beacon-financial-general-counsel-sells-19621-in-stock-93CH-4973491",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-26T20:01:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7903b2db9b40",
-   "title": "Air Products Appoints Kurt Lefevere and Francesco Maione as Group Presidents",
-   "link": "https://www.prnewswire.com/news-releases/air-products-appoints-kurt-lefevere-and-francesco-maione-as-group-presidents-302919719.html",
-   "summary": "LEHIGH VALLEY, Pa., Oct. 26, 2026 /PRNewswire/ -- Air Products (NYSE: APD) today announced that Kurt Lefevere and Francesco Maione have been appointed Group Presidents, effective November 1, 2026. Both executives will continue to report to Eduardo Menezes, Air Products' Chief Executive...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-26T20:01:00+00:00",
-   "tickers": [
-    "APD"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "196084d57df7",
-   "title": "6 citizens sue Trump, saying media ban deprives them of news as audience stakeholders - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTNOZnZ0aWgxWV9Bem1LbU5pVExpNDhaZ29PcHZFaERsaFA5RGtiVU1GSDh3TGZfOE8wYk96RFlpMlN4UjZjMENBeGhRUkxXSUxVdzlDeXppelBkc1BjY0RKTWEzdmpYUFdjRF9KWHZQV0ZYWnJvbjVQSWJTSmJtSFBPR0d5MlA1LThyLURvTlZob2Y5ZDhJ?oc=5",
-   "summary": "6 citizens sue Trump, saying media ban deprives them of news as audience stakeholders&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-26T20:01:00+00:00",
-   "tickers": [],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "502c1907c733",
-   "title": "Beacon Financial director Thomas Hollister buys $104,983 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/beacon-financial-director-thomas-hollister-buys-104983-in-stock-93CH-4973490",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-26T20:00:58+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8934,7 +8937,6 @@
   "BAH": "Booz Allen Hamilton Holding",
   "PNFP": "Pinnacle Financial Partners",
   "QQQ": "Invesco QQQ Trust, Series 1",
-  "APD": "Air Products and Chemicals",
   "ASM": "Avino Silver & Gold Mines",
   "ICE": "Intercontinental Exchange",
   "PFG": "Principal Financial Group",
@@ -8958,6 +8960,7 @@
   "ZETA": "Zeta Global Holdings",
   "EVTV": "Envirotech Vehicles",
   "BRK-A": "Berkshire Hathaway",
+  "GPI": "Group 1 Automotive",
   "LUV": "Southwest Airlines",
   "PPTA": "Perpetua Resources",
   "ROP": "Roper Technologies",
