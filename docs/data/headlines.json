@@ -1,19 +1,35 @@
 {
- "generated": "2026-10-27T20:36:12.775676+00:00",
+ "generated": "2026-10-27T20:41:36.598665+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
    "id": "0f7afadd03e7",
-   "title": "Robinhood quarterly revenue rises 12% as event contracts, options offset crypto slump",
+   "title": "Robinhood shares fall 5% as crypto slump weighs on profits, offsetting gains in new businesses",
    "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
    "summary": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
    "source": "CNBC Earnings",
    "category": "earnings",
    "domain": "cnbc.com",
-   "published": "2026-10-27T20:34:26+00:00",
+   "published": "2026-10-27T20:39:49+00:00",
    "tickers": [
     "HOOD"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9c29294d3200",
+   "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+   "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+   "summary": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T20:39:41+00:00",
+   "tickers": [
+    "KO"
    ],
    "type": "earnings",
    "sentiment": "neutral",
@@ -27,10 +43,131 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-27T20:33:09+00:00",
+   "published": "2026-10-27T20:38:26+00:00",
    "tickers": [
     "WMT"
    ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "906ebe965339",
+   "title": "Definity and dab Announce Strategic Partnership to Expand SAP Data Integration Solutions across LATAM",
+   "link": "https://www.prnewswire.com/news-releases/definity-and-dab-announce-strategic-partnership-to-expand-sap-data-integration-solutions-across-latam-302921274.html",
+   "summary": "MONTERREY, Mexico, Oct. 27, 2026 /PRNewswire/ -- Definity announced a strategic partnership with dab, the Germany-based company behind dab Nexus, an SAP-certified platform that connects SAP data to Microsoft Fabric. As dab's first strategic partner in Latin America, Definity will help...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-27T20:38:00+00:00",
+   "tickers": [
+    "MSFT",
+    "SAP"
+   ],
+   "type": "press",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "a5406e36e52d",
+   "title": "CoStar Group stock plungs 12% despite topping Q3 estimates",
+   "link": "https://www.investing.com/news/earnings/costar-group-stock-plungs-12-despite-topping-q3-estimates-93CH-4976887",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-27T20:34:43+00:00",
+   "tickers": [
+    "CSGP"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "532cff28c1f8",
+   "title": "Envista Announces Release of 2025 Sustainability Report",
+   "link": "https://www.prnewswire.com/news-releases/envista-announces-release-of-2025-sustainability-report-302921270.html",
+   "summary": "BREA, Calif., Oct. 27, 2026 /PRNewswire/ -- Envista Holdings Corporation (NYSE: NVST) (\"Envista\") today announced the publication of its 2025 Sustainability Report. The report provides an update on Envista's progress in expanding access to dental care, supporting employees and...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-27T20:34:00+00:00",
+   "tickers": [
+    "NVST"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "45d451b704de",
+   "title": "Envista Announces Release of 2025 Sustainability Report | NVST Stock News",
+   "link": "https://www.stocktitan.net/news/NVST/envista-announces-release-of-2025-sustainability-ornnels0hlwt.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-27T20:34:00+00:00",
+   "tickers": [
+    "NVST"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0491dfcfe38f",
+   "title": "Inventrust Properties earnings beat by $0.21, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/inventrust-properties-earnings-beat-by-021-revenue-topped-estimates-4976883",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-27T20:33:32+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "b6d2927e87f1",
+   "title": "Highwoods Properties earnings beat by $0.07, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/highwoods-properties-earnings-beat-by-007-revenue-topped-estimates-4976882",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-27T20:33:18+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "eed042fd82a3",
+   "title": "O-I Glass earnings missed by $0.26, revenue fell short of estimates",
+   "link": "https://www.investing.com/news/earnings/oi-glass-earnings-missed-by-026-revenue-fell-short-of-estimates-4976881",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-27T20:33:08+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "57436effe18a",
+   "title": "Madison Square Garden Entertainment outlines board overlaps and conflict policies",
+   "link": "https://www.investing.com/news/sec-filings/madison-square-garden-entertainment-outlines-board-overlaps-and-conflict-policies-93CH-4976879",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-27T20:33:01+00:00",
+   "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -47,6 +184,54 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e650f35e3df7",
+   "title": "Langenberg upgrades Boeing stock rating on backlog strength",
+   "link": "https://www.investing.com/news/analyst-ratings/langenberg-upgrades-boeing-stock-rating-on-backlog-strength-93CH-4976878",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-27T20:32:59+00:00",
+   "tickers": [
+    "BA"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "6a67b577d1f8",
+   "title": "FirstEnergy earnings beat by $0.07, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/firstenergy-earnings-beat-by-007-revenue-topped-estimates-4976877",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-27T20:32:50+00:00",
+   "tickers": [
+    "FE"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "f6702d6001a5",
+   "title": "Expand Energy beats third quarter estimates on strong revenue",
+   "link": "https://www.investing.com/news/earnings/expand-energy-beats-third-quarter-estimates-on-strong-revenue-4976876",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-27T20:32:32+00:00",
+   "tickers": [
+    "EXE"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -108,6 +293,36 @@
    "tag_v": 2
   },
   {
+   "id": "e43ac8f8da7a",
+   "title": "EnerSys To Acquire Ultralife, Expanding Differentiated Battery Technologies and Accelerating Growth in Defense Market",
+   "link": "http://www.businesswire.com/news/home/20261027929742/en/EnerSys-To-Acquire-Ultralife-Expanding-Differentiated-Battery-Technologies-and-Accelerating-Growth-in-Defense-Market/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+   "summary": "READING, Pa.--(BUSINESS WIRE)-- #EnerSys--EnerSys (NYSE: ENS), a global leader in stored energy solutions for industrial, infrastructure, and defense applications, today announced that it has entered into a definitive agreement to acquire Ultralife (NASDAQ:ULBI) for $16.00 per share in cash, representing a 166% premium to Ultralife’s unaffected closing share price on October 26, 2026. The transaction represents an enterprise value of approximately $320 million. EnerSys expects to realize $15 mil",
+   "source": "BusinessWire",
+   "category": "press",
+   "domain": "businesswire.com",
+   "published": "2026-10-27T20:31:00+00:00",
+   "tickers": [
+    "ENS"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "03393f0d61f5",
+   "title": "First Financial Bancorp earnings beat by $0.02, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/first-financial-bancorp-earnings-beat-by-002-revenue-topped-estimates-4976857",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-27T20:30:36+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "6e014179097b",
    "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.63%",
    "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-063-4976855",
@@ -147,6 +362,23 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "84efdd8203e1",
+   "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
+   "link": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
+   "summary": "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T20:30:01+00:00",
+   "tickers": [
+    "WMT",
+    "GOOGL"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -713,22 +945,6 @@
    "tag_v": 2
   },
   {
-   "id": "9c29294d3200",
-   "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-   "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-   "summary": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T20:25:48+00:00",
-   "tickers": [
-    "KO"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "cc26b59c3f87",
    "title": "Visa quarterly profit rises on resilient consumer spending",
    "link": "https://www.investing.com/news/stock-market-news/visa-quarterly-profit-rises-on-resilient-consumer-spending-4976822",
@@ -867,7 +1083,7 @@
    "title": "UNIVERSAL HEALTH REALTY INCOME TRUST REPORTS FINANCIAL RESULTS FOR THE THREE AND NINE-MONTH PERIODS ENDED SEPTEMBER 30, 2026",
    "link": "https://www.prnewswire.com/news-releases/universal-health-realty-income-trust-reports-financial-results-for-the-three-and-nine-month-periods-ended-september-30-2026-302921192.html",
    "summary": "Consolidated Results of Operations - Three-Month Periods Ended September 30, 2026 and 2025: KING OF PRUSSIA, Pa., Oct. 27, 2026 /PRNewswire/ -- Universal Health Realty Income Trust (NYSE:UHT) announced today that for the three-month period ended September 30, 2026, net income was $4.9...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-27T20:21:00+00:00",
@@ -3439,14 +3655,14 @@
    "title": "StoneCo Enters Oversold Territory",
    "link": "https://www.nasdaq.com/articles/stoneco-enters-oversold-territory",
    "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics &mdash; strong fundamentals and a valuation that looks inexpensive.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-27T19:58:32+00:00",
    "tickers": [
     "STNE"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3472,14 +3688,14 @@
    "title": "Kirby (KEX) Shares Cross Above 200 DMA",
    "link": "https://www.nasdaq.com/articles/kirby-kex-shares-cross-above-200-dma",
    "summary": "In trading on Tuesday, shares of Kirby Corp. (Symbol: KEX) crossed above their 200 day moving average of $136.44, changing hands as high as $137.32 per share. Kirby Corp. shares are currently trading up about 1.8% on the day. The chart below shows the one year performance of K",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-27T19:58:28+00:00",
    "tickers": [
     "KEX"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3488,14 +3704,14 @@
    "title": "Applied Industrial Technologies Breaks Below 200-Day Moving Average - Notable for AIT",
    "link": "https://www.nasdaq.com/articles/applied-industrial-technologies-breaks-below-200-day-moving-average-notable-ait",
    "summary": "In trading on Tuesday, shares of Applied Industrial Technologies, Inc. (Symbol: AIT) crossed below their 200 day moving average of $309.05, changing hands as low as $292.81 per share. Applied Industrial Technologies, Inc. shares are currently trading off about 8.5% on the day.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-27T19:58:24+00:00",
    "tickers": [
     "AIT"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7746,6 +7962,20 @@
    "tag_v": 2
   },
   {
+   "id": "699280e91a98",
+   "title": "US consumer confidence recovers in October as gas prices eased a bit - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkp3Y2pHeVVWMm1DT1NJUm1veTh6QWNhN0JGVHFjWElMTWw3eklNc0hUVVBhM3ZOdnpkUFRsU01wSjdsbFFjNzlfd1RYTGdXVWpJY055ZV9VczZXSTNKRzVZNktiZlFSTUJtQ3RYay1Qa1BKM3RTQmdBZHhyVVR3TnFORjI4MkpjQzcwU2dGRkZ6TENIeFZKUGlRblF0cHNRWFE0VE5DaTFidw?oc=5",
+   "summary": "US consumer confidence recovers in October as gas prices eased a bit&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-27T17:30:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "04f072eae97d",
    "title": "Polaris (PII) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/polaris-pii-q3-2026-earnings-call-transcript",
@@ -8770,227 +9000,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c8a5a002251c",
-   "title": "Millrose (MRP) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/millrose-mrp-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T16:58:31+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "536b3482339e",
-   "title": "Photos show Congo’s fight against Ebola as cases surpass 10,000 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORXdUeEJFLUhXSmpGb3BvVGVzX0UxSVlnWExETGVmNFNEQ29uRnFXZGJKYklWYmd5d2tCc24yX3JGeHR6NVhJR3BhQThGRjBSWWJTMzhpS0YzTkc2ZkRiRFo5a3p2aVBTRzJMSEdDb0xUS0tqbjU4M2pPVFNTeXAwbWYzemFPTTBNbm5DMXFwZTIxaGlEcnU3clpCcUNMQUQxNkNMZHliWnFxN0ktcmhEbDNNVlhsQXoxR1NDZTQ0V3pUZll4?oc=5",
-   "summary": "Photos show Congo’s fight against Ebola as cases surpass 10,000&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-27T16:58:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3a8724f649ca",
-   "title": "JetBlue shares rally after airline flags ’disconnect’ between earnings and bond rout",
-   "link": "https://www.investing.com/news/stock-market-news/jetblue-shares-rally-as-airline-seeks-to-calm-financial-concerns-4975611",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-27T16:55:04+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "d91c29ae7624",
-   "title": "Advent raises $30 billion for latest buyout, mid-market funds",
-   "link": "https://www.investing.com/news/stock-market-news/advent-raises-30-billion-for-latest-buyout-midmarket-funds-4975243",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-27T16:54:31+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "3ec4fd47c3f9",
-   "title": "Visionstate and ELi Technology Sign Strategic Collaboration Agreement to Advance Location-Aware Facility Management | VSSSF Stock News",
-   "link": "https://www.stocktitan.net/news/VSSSF/visionstate-and-e-li-technology-sign-strategic-collaboration-e30yvtgsrv3g.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-27T16:54:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "01eb7e0fc795",
-   "title": "Dutch zookeeper dies after leopard attacked her in the animal’s enclosure - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU3dCbHIwMWxOQ3hQSjNwY29KRXRqbHc2bHBiSnhlNGlPZk04Y05ubkx6TEwzdF8yeEN4bmo3WFZ0Zld0N3h0aVZRVFdzRlZ0UXoxLWxrSkZvQndJbVR3VVNHbFI0czlvWWJpaVFtbm5adkdWdkk5S2dRWVNHYi1LN2JYbGRINXduVUNxd0JHczhfSVEzUm4tZ3F3bTg?oc=5",
-   "summary": "Dutch zookeeper dies after leopard attacked her in the animal’s enclosure&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-27T16:53:20+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ea178a972743",
-   "title": "Anthropic flags insurance gaps after $1.5bn copyright settlement",
-   "link": "https://www.investing.com/news/stock-market-news/anthropic-flags-insurance-gaps-after-15bn-copyright-settlement-4976493",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-27T16:52:08+00:00",
-   "tickers": [],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "13d6205c413e",
-   "title": "3 Energy Stocks I'm Not Selling, No Matter What the Market Does",
-   "link": "https://www.nasdaq.com/articles/3-energy-stocks-im-not-selling-no-matter-what-market-does",
-   "summary": "Key PointsConstellation Energy, Vistra, and Bloom Energy are all down 36% to 38% from their all-time highs.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T16:52:00+00:00",
-   "tickers": [
-    "VST"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "bb836380a6fe",
-   "title": "Machine Tool Bids October 28 Open Auction Featuring 61 Lots of Metalworking Equipment from Across North America",
-   "link": "https://www.prnewswire.com/news-releases/machine-tool-bids-october-28-open-auction-featuring-61-lots-of-metalworking-equipment-from-across-north-america-302921060.html",
-   "summary": "CHICAGO, Oct. 27, 2026 /PRNewswire/ -- Machine Tool Bids (MTB), a leading online marketplace specializing in metalworking machinery auctions, has announced its upcoming October 28 Open CNC & Fabrication Auction, featuring 61 lots of CNC machining, fabrication, EDM, laser cutting, and...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T16:51:00+00:00",
-   "tickers": [
-    "MTB",
-    "CNC"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "139121f02843",
-   "title": "ASEE Q3 2026 slides: Payten rebounds, margins expand sharply",
-   "link": "https://www.investing.com/news/company-news/asee-q3-2026-slides-payten-rebounds-margins-expand-sharply-93CH-4976492",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-27T16:50:59+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "75f60b54834a",
-   "title": "Lincoln Electric Holdings, Inc. Reports Third Quarter 2026 Net Sales of $1,221.3 million",
-   "link": "https://www.nasdaq.com/articles/lincoln-electric-holdings-inc-reports-third-quarter-2026-net-sales-12213-million",
-   "summary": "Lincoln Electric Holdings, Inc. reported third quarter 2026 net income of $144.3 million, or diluted earnings per share (EPS) of $2.63, compared with prior year period net income of $122.6 million, or $2.21 EPS. Excluding special items, third quarter 2026 adjusted net income was",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T16:48:44+00:00",
-   "tickers": [
-    "LECO"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a90d2834f36c",
-   "title": "Community Financial System, Inc. Reports Third Quarter 2026 Net Income of $61.3 million",
-   "link": "https://www.nasdaq.com/articles/community-financial-system-inc-reports-third-quarter-2026-net-income-613-million",
-   "summary": "Community Financial System, Inc. reported net income of $61.3 million, or $1.16 per share, for the third quarter of 2026, compared to net income of $55.1 million, or $1.04 per share, for the third quarter of 2025. Operating net income for the quarter was $67.0 million, or $1.27 p",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T16:48:43+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "df06767d0dc8",
-   "title": "GeoVax Labs, Inc. Enters $1,000,000 Revolving Loan Agreement and Reconstitutes Board",
-   "link": "https://www.nasdaq.com/articles/geovax-labs-inc-enters-1000000-revolving-loan-agreement-and-reconstitutes-board",
-   "summary": "GeoVax Labs, Inc. entered into a Revolving Loan Agreement on October 25, 2026, with Bowery Consulting Group Inc. Under the agreement, the company may request loans from time to time in an aggregate principal amount outstanding at any one time not to exceed $1,000,000. Loans under",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T16:48:31+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "80c8f06e7e27",
-   "title": "Brixmor (BRX) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/brixmor-brx-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T16:48:22+00:00",
-   "tickers": [
-    "BRX"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b759159e0a99",
-   "title": "Welltower (WELL) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/welltower-well-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T16:48:21+00:00",
-   "tickers": [
-    "WELL"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9013,7 +9022,6 @@
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
   "RCL": "Royal Caribbean Cruises",
-  "BRX": "Brixmor Property Group",
   "CAKE": "The Cheesecake Factory",
   "CF": "CF Industries Holdings",
   "CHTR": "Charter Communications",
@@ -9062,6 +9070,7 @@
   "HCC": "Warrior Met Coal",
   "JPM": "JPMorgan Chase &",
   "LAC": "Lithium Americas",
+  "NVST": "Envista Holdings",
   "TFC": "Truist Financial",
   "UPST": "Upstart Holdings",
   "WM": "Waste Management",
@@ -9141,7 +9150,6 @@
   "GOOG": "Alphabet",
   "ILMN": "Illumina",
   "INOD": "Innodata",
-  "MTB": "M&T Bank",
   "TER": "Teradyne",
   "RTX": "Raytheon",
   "CNC": "Centene",
@@ -9168,7 +9176,7 @@
   "ORCL": "Oracle",
   "PCAR": "PACCAR",
   "PFE": "Pfizer",
-  "VST": "Vistra",
+  "SAP": "SAP SE",
   "VTR": "Ventas",
   "WSO": "Watsco",
   "AMGN": "Amgen",
