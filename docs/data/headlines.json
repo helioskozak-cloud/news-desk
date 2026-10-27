@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-27T23:41:01.588193+00:00",
+ "generated": "2026-10-27T23:46:12.234887+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "34f791908498",
+   "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+   "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
+   "summary": "Prosecutors aimed to charge Cassidy Hutchinson over testimony about President Trump's conduct the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T23:43:13+00:00",
+   "tickers": [
+    "WH"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "da7d098cd938",
    "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
@@ -237,22 +253,6 @@
    "published": "2026-10-27T23:25:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "34f791908498",
-   "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-   "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-   "summary": "Cassidy Hutchinson had testified to a House committee about Trump's conduct on the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T23:23:28+00:00",
-   "tickers": [
-    "WH"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3750,6 +3750,20 @@
     "ENPH"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "48fded6a5a83",
+   "title": "Truck stolen by escaped Tennessee inmate is found abandoned in Illinois, authorities say - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSG10bVl3THRNOXZNWVpLNDhKWjFpQ0J1Qm9FeHZ2eTMzQ0Vkd29IcnZFVTM2aGpfOVB3UTZhQU1vNlV5SE5NMWhTRDdXS19kVE94eHkwNW5yck9zeV9hNmx6Z1k5MlQ2N0h6T3NLbGh3WGN5bXhSSXpFSkkxS1B3d196WkI2MnkxRFY0YjJIMkhWTXE0ODZYdTk4YUZNaWN2bmhN?oc=5",
+   "summary": "Truck stolen by escaped Tennessee inmate is found abandoned in Illinois, authorities say&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-27T21:02:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8981,22 +8995,6 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "304354893520",
-   "title": "Truist cuts Corning stock price target on valuation to $175",
-   "link": "https://www.investing.com/news/analyst-ratings/truist-cuts-corning-stock-price-target-on-valuation-to-175-93CH-4976686",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-27T19:50:53+00:00",
-   "tickers": [
-    "GLW"
-   ],
-   "type": "analyst",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9131,7 +9129,6 @@
   "CMCSA": "Comcast",
   "ENS": "EnerSys",
   "GLOB": "Globant",
-  "GLW": "Corning",
   "IVZ": "Invesco",
   "PEP": "PepsiCo",
   "STNE": "StoneCo",
