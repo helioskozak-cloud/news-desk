@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-27T06:41:05.561671+00:00",
+ "generated": "2026-10-27T06:46:29.862137+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "54ed4e40ff13",
+   "title": "Bristol Myers Squibb’s Cancer Drug Just Doubled Survival Time Without Progression — Here’s Why It Matters",
+   "link": "https://www.nasdaq.com/articles/bristol-myers-squibbs-cancer-drug-just-doubled-survival-time-without-progression-heres-why",
+   "summary": "Key PointsIt also demonstrated very promising results when evaluated in other solid tumors.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T06:33:11+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "27ab4d67464f",
    "title": "Intuitive Surgical VP corporate controller Fredrik Widman sells $1.83M in shares",
@@ -48,6 +64,23 @@
    "tag_v": 2
   },
   {
+   "id": "9ecafd58351b",
+   "title": "Novartis Q3 Profit Declines; Lifts FY26 Core Income View, Backs Sales Outlook",
+   "link": "https://www.nasdaq.com/articles/novartis-q3-profit-declines-lifts-fy26-core-income-view-backs-sales-outlook",
+   "summary": "(RTTNews) - Swiss drug major Novartis AG (NVS, NOVN.SW) reported Tuesday sharply lower profit in its third quarter, mainly hurt by an impairment charge and higher expenses, despite growth in net sales.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T06:30:13+00:00",
+   "tickers": [
+    "NVS",
+    "SW"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "b0007d7bc5de",
    "title": "Publication of the Q3 2026 financial results on Tuesday, November 3, 2026, after market close | CGG Stock News",
    "link": "https://www.stocktitan.net/news/CGG/publication-of-the-q3-2026-financial-results-on-tuesday-november-3-e3fk126girj5.html",
@@ -72,6 +105,22 @@
    "published": "2026-10-27T06:30:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "affef0b6b593",
+   "title": "Reddit vs. Snap: Which Social Media Stock Is a Better Buy in 2026?",
+   "link": "https://www.nasdaq.com/articles/reddit-vs-snap-which-social-media-stock-better-buy-2026",
+   "summary": "Key PointsReddit achieved impressive profitability in FY 2025 with a net margin of 24.1% and revenue growth nearing 70%.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T06:28:39+00:00",
+   "tickers": [
+    "RDDT"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8871,48 +8920,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "d9312d0b4947",
-   "title": "BCEM Crosses Critical Technical Indicator",
-   "link": "https://www.nasdaq.com/articles/bcem-crosses-critical-technical-indicator",
-   "summary": "In trading on Monday, shares of the BCEM ETF (Symbol: BCEM) entered into oversold territory, changing hands as low as $23.72 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentum on a",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T20:32:19+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "74c562bfbf55",
-   "title": "AVEE Crosses Critical Technical Indicator",
-   "link": "https://www.nasdaq.com/articles/avee-crosses-critical-technical-indicator",
-   "summary": "In trading on Monday, shares of the Avantis Emerging Markets Small Cap Equity ETF (Symbol: AVEE) entered into oversold territory, changing hands as low as $63.65 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis ind",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T20:32:16+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3b07600a5e66",
-   "title": "BRAZ Crowded With Sellers",
-   "link": "https://www.nasdaq.com/articles/braz-crowded-sellers",
-   "summary": "In trading on Monday, shares of the Global X Brazil Active ETF (Symbol: BRAZ) entered into oversold territory, changing hands as low as $26.91 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to meas",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-26T20:32:13+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8946,6 +8953,7 @@
   "DOCN": "DigitalOcean Holdings",
   "PLTR": "Palantir Technologies",
   "AWK": "American Water Works",
+  "BMY": "Bristol-Myers Squibb",
   "CRBG": "Corebridge Financial",
   "JAZZ": "Jazz Pharmaceuticals",
   "PG": "The Procter & Gamble",
@@ -8977,6 +8985,7 @@
   "LAC": "Lithium Americas",
   "LOW": "Lowe's Companies",
   "NVO": "Novo Nordisk A/S",
+  "SW": "Smurfit Westrock",
   "WM": "Waste Management",
   "ASTS": "AST SpaceMobile",
   "DIS": "The Walt Disney",
@@ -9056,6 +9065,7 @@
   "FTS": "Fortis",
   "M": "Macy's",
   "ORCL": "Oracle",
+  "RDDT": "Reddit",
   "RMBS": "Rambus",
   "RMD": "ResMed",
   "AMGN": "Amgen",
