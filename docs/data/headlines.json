@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-28T17:56:06.069828+00:00",
+ "generated": "2026-10-28T18:01:47.280147+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "52aa4bc1dd51",
+   "title": "Federal Reserve issues FOMC statement",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "summary": "",
+   "source": "Federal Reserve",
+   "category": "macro",
+   "domain": "federalreserve.gov",
+   "published": "2026-10-28T18:00:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2c06135c0424",
+   "title": "GRUPO SIMEC ANNOUNCES RESULTS OF OPERATIONS FOR THE FIRST NINE MONTHS OF 2026. | SIM Stock News",
+   "link": "https://www.stocktitan.net/news/SIM/grupo-simec-announces-results-of-operations-for-the-first-nine-r0jj6ip423fk.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-28T17:58:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "56a2af8a1e6b",
    "title": "Watch Live: Options traders break down a massive Alphabet trade into earnings",
@@ -11,7 +39,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-28T17:54:07+00:00",
+   "published": "2026-10-28T17:56:10+00:00",
    "tickers": [
     "MSFT",
     "GOOG"
@@ -21,19 +49,35 @@
    "tag_v": 2
   },
   {
+   "id": "f18c522a5eb6",
+   "title": "History Says AGNC Can Keep Paying Through a Rate Shock: Its Dividend Held as Book Value Fell 38% in 2022",
+   "link": "https://www.nasdaq.com/articles/history-says-agnc-can-keep-paying-through-rate-shock-its-dividend-held-book-value-fell-38",
+   "summary": "Key PointsAGNC has paid continuous dividends since 2008.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T17:55:00+00:00",
+   "tickers": [
+    "AGNC"
+   ],
+   "type": "dividend",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "ffe98af924ce",
    "title": "GE Vernova shares slip despite a beat-and-raise. What the sellers are getting wrong",
    "link": "https://www.cnbc.com/investingclub/2026/10/28/ge-vernova-shares-slip-despite-a-beat-and-raise-what-the-sellers-are-getting-wrong.html",
    "summary": "We're reiterating our buy-equivalent 1 rating on the stock after another strong earnings report.",
-   "source": "CNBC Top",
-   "category": "markets",
+   "source": "CNBC Earnings",
+   "category": "earnings",
    "domain": "cnbc.com",
    "published": "2026-10-28T17:50:44+00:00",
    "tickers": [
     "GEV",
     "GE"
    ],
-   "type": "markets",
+   "type": "earnings",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -136,6 +180,101 @@
    "published": "2026-10-28T17:45:02+00:00",
    "tickers": [],
    "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "37bc0adc2efd",
+   "title": "Boston Scientific (BSX) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/boston-scientific-bsx-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T17:44:33+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bc900c337d9f",
+   "title": "Parsons (PSN) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/parsons-psn-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T17:44:33+00:00",
+   "tickers": [
+    "PSN"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "853f6241c292",
+   "title": "Aon (AON) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/aon-aon-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T17:44:33+00:00",
+   "tickers": [
+    "AON"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "22660eda06ac",
+   "title": "HF Sinclair (DINO) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/hf-sinclair-dino-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T17:44:32+00:00",
+   "tickers": [
+    "DINO"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "128b50082ae6",
+   "title": "GE HealthCare (GEHC) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/ge-healthcare-gehc-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T17:44:32+00:00",
+   "tickers": [
+    "GEHC",
+    "GE"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5da23018efe7",
+   "title": "Materialise (MTLS) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/materialise-mtls-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T17:44:32+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -370,6 +509,22 @@
    "published": "2026-10-28T17:36:30+00:00",
    "tickers": [],
    "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aeff1fc4b246",
+   "title": "Waters Corporation Starts AI-Powered Peak Integration",
+   "link": "https://www.nasdaq.com/articles/waters-corporation-starts-ai-powered-peak-integration",
+   "summary": "(RTTNews) - On Wednesday, Waters Corporation (WAT) announced AI-Powered Peak Integration, a new feature that adds AI, machine learning, and automation to its cloud-based Empower Software. The software is widely used by regulated laboratories to manage chromatography data.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T17:36:13+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2683,20 +2838,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5ede1fde5821",
-   "title": "Federal Reserve likely to skip rate hike despite elevated inflation - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
-   "summary": "Federal Reserve likely to skip rate hike despite elevated inflation&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T16:34:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -5259,6 +5400,20 @@
    "tag_v": 2
   },
   {
+   "id": "30d13d47286e",
+   "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
+   "summary": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T15:29:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "487caab22649",
    "title": "Smurfit Westrock (SW) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/smurfit-westrock-sw-q3-2026-earnings-call-transcript",
@@ -5807,20 +5962,6 @@
    "tickers": [
     "RRC"
    ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "30d13d47286e",
-   "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
-   "summary": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T15:11:00+00:00",
-   "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8869,150 +9010,11 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "210739f3166a",
-   "title": "CTO Q3 2026 slides: Kansas City expansion drives growth outlook",
-   "link": "https://www.investing.com/news/company-news/cto-q3-2026-slides-kansas-city-expansion-drives-growth-outlook-93CH-4979665",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-28T14:00:20+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "a7ecabc25974",
-   "title": "MITTI LABS & SALESFORCE PARTNER TO SCALE WATER-SAVING RICE FARMING PRACTICES THAT REDUCE METHANE EMISSIONS",
-   "link": "https://www.prnewswire.com/news-releases/mitti-labs--salesforce-partner-to-scale-water-saving-rice-farming-practices-that-reduce-methane-emissions-302919088.html",
-   "summary": "Salesforce will purchase 500,000 high-integrity, data-backed methane reduction credits from Mitti Labs by 2030, bringing water resilience to India's smallholder farmers. SAN FRANCISCO and BENGALURU, India, Oct. 28, 2026 /PRNewswire/ -- Deep-tech company Mitti Labs today announced a...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T14:00:00+00:00",
-   "tickers": [
-    "CRM"
-   ],
-   "type": "press",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "6f6c90b300c1",
-   "title": "The RealReal Appoints Alexis Hoopes as Chief Merchandising Officer",
-   "link": "https://www.prnewswire.com/news-releases/the-realreal-appoints-alexis-hoopes-as-chief-merchandising-officer-302921607.html",
-   "summary": "Former eBay executive brings deep luxury merchandising expertise and a proven track record of scaling global fashion marketplaces to accelerate The RealReal's next phase of growth SAN FRANCISCO, Oct. 28, 2026 /PRNewswire/ -- The RealReal (Nasdaq: REAL), the world's largest online...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T14:00:00+00:00",
-   "tickers": [
-    "EBAY"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6444c9c6e968",
-   "title": "BAE Systems expands commercial aviation aftermarket offerings to meet rising fleet demand",
-   "link": "https://www.prnewswire.com/news-releases/bae-systems-expands-commercial-aviation-aftermarket-offerings-to-meet-rising-fleet-demand-302922208.html",
-   "summary": "AMSTERDAM, Oct. 28, 2026 /PRNewswire/ -- BAE Systems (LON: BA) is expanding its Horizon Solutions™ Aftermarket Services and Support product line to meet the airline industry's growing need for aircraft availability and fleet support. The new offerings, announced at MRO Europe, introduce...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T14:00:00+00:00",
-   "tickers": [
-    "BA"
-   ],
-   "type": "press",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "124dd4131635",
-   "title": "The RealReal Appoints Alexis Hoopes as Chief Merchandising Officer | REAL Stock News",
-   "link": "https://www.stocktitan.net/news/REAL/the-real-real-appoints-alexis-hoopes-as-chief-merchandising-7n7gvronb9bc.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T14:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e0ee93a007bc",
-   "title": "USTA and IBM Announce Five-Year Renewal of Longstanding Partnership | IBM Stock News",
-   "link": "https://www.stocktitan.net/news/IBM/usta-and-ibm-announce-five-year-renewal-of-longstanding-mnnek1pll984.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T14:00:00+00:00",
-   "tickers": [
-    "IBM"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cd2e4a5ce636",
-   "title": "First Citizens Bank Opens New Banking Office and Branch in Downtown Santa Monica | FCNCA Stock News",
-   "link": "https://www.stocktitan.net/news/FCNCA/first-citizens-bank-opens-new-banking-office-and-branch-in-downtown-oce5zgpyblhi.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T14:00:00+00:00",
-   "tickers": [
-    "FCNCA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b84a318b63b8",
-   "title": "Standard Motor Products Expands Climate Control Portfolio with New Line of OE-Engineered A/C Condensers | SMP Stock News",
-   "link": "https://www.stocktitan.net/news/SMP/standard-motor-products-expands-climate-control-portfolio-with-new-383xitg7m4bk.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T14:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "dfed4b34a9e0",
-   "title": "Tech Crunch Feature on SMX Casts Media's Gaze on Company's Technology and Growth | SMX Stock News",
-   "link": "https://www.stocktitan.net/news/SMX/tech-crunch-feature-on-smx-casts-media-s-gaze-on-company-s-xhetps5lr515.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T14:00:00+00:00",
-   "tickers": [
-    "SMX"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
   "IGSB": "iShares 1-5 Year Investment Grade Corporate Bond ETF",
   "SRLN": "State Street Blackstone Senior Loan ETF",
-  "SMX": "SMX (Security Matters) Public Limited",
   "CP": "Canadian Pacific Kansas City Limited",
   "WTW": "Willis Towers Watson Public Limited",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
@@ -9022,7 +9024,6 @@
   "MUU": "Direxion Daily MU Bull 2X Shares",
   "PNC": "The PNC Financial Services Group",
   "EWG": "iShares MSCI Germany Index Fund",
-  "IBM": "International Business Machines",
   "TIGO": "Millicom International Cellular",
   "BTI": "British American Tobacco p.l.c",
   "AMR": "Alpha Metallurgical Resources",
@@ -9032,8 +9033,8 @@
   "STX": "Seagate Technology Holdings",
   "AMC": "AMC Entertainment Holdings",
   "ARKG": "ARK Genomic Revolution ETF",
+  "GEHC": "GE HealthCare Technologies",
   "ADP": "Automatic Data Processing",
-  "FCNCA": "First Citizens BancShares",
   "ICE": "Intercontinental Exchange",
   "UHS": "Universal Health Services",
   "WFRD": "Weatherford International",
@@ -9094,6 +9095,7 @@
   "WM": "Waste Management",
   "GE": "General Electric",
   "AER": "AerCap Holdings",
+  "AGNC": "AGNC Investment",
   "APLD": "Applied Digital",
   "BAC": "Bank of America",
   "COIN": "Coinbase Global",
@@ -9140,10 +9142,8 @@
   "WPC": "W. P. Carey",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
-  "BA": "The Boeing",
   "BX": "Blackstone",
   "CMS": "CMS Energy",
-  "CRM": "Salesforce",
   "DKNG": "DraftKings",
   "DTE": "DTE Energy",
   "F": "Ford Motor",
@@ -9183,6 +9183,7 @@
   "HUBS": "HubSpot",
   "MRK": "Merck &",
   "PEP": "PepsiCo",
+  "PSN": "Parsons",
   "SNDK": "Sandisk",
   "TXT": "Textron",
   "WDAY": "Workday",
@@ -9208,7 +9209,6 @@
   "OKE": "ONEOK",
   "TEX": "Terex",
   "AGCO": "AGCO",
-  "EBAY": "eBay",
   "ETSY": "Etsy",
   "IEX": "IDEX",
   "LYFT": "Lyft",
