@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T18:16:41.637543+00:00",
+ "generated": "2026-10-28T18:21:04.557705+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,9 +11,53 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-28T18:14:40+00:00",
+   "published": "2026-10-28T18:19:58+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8b33290492b9",
+   "title": "CNBC TEC Summit live updates: How technology executives are navigating enterprise AI adoption",
+   "link": "https://www.cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html",
+   "summary": "Follow CNBC's 2026 Technology Executive Council Summit for live updates on AI agents, cybersecurity, AI costs and the future of work.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T18:19:26+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b0a4ebb06d97",
+   "title": "S&P 500 remains higher as Fed leaves rates steady: Live updates",
+   "link": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
+   "summary": "The S&amp;P 500 rose on Wednesday as investors reacted to the Federal Reserve's latest interest rate decision.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T18:19:01+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "47c49b8c73b5",
+   "title": "Goldman Sachs sees significant shift in AI labour market",
+   "link": "https://www.thestreet.com/technology/goldman-sachs-sees-significant-shift-in-ai-labour-market",
+   "summary": "Goldman Sachs has been running the numbers on AI and jobs. What the data shows goes well beyond Silicon Valley.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-28T18:17:00+00:00",
+   "tickers": [
+    "GS"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -26,20 +70,6 @@
    "category": "macro",
    "domain": "cbsnews.com",
    "published": "2026-10-28T18:14:06+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b0a4ebb06d97",
-   "title": "S&P 500 remains higher as Fed leaves rates steady: Live updates",
-   "link": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
-   "summary": "The S&amp;P 500 rose on Wednesday as investors reacted to the Federal Reserve's latest interest rate decision.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T18:11:15+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -789,20 +819,6 @@
    "published": "2026-10-28T17:45:36+00:00",
    "tickers": [],
    "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8b33290492b9",
-   "title": "CNBC TEC Summit live updates: How technology executives are navigating enterprise AI adoption",
-   "link": "https://www.cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html",
-   "summary": "Follow CNBC's 2026 Technology Executive Council Summit for live updates on AI agents, cybersecurity, AI costs and the future of work.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T17:45:22+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8966,23 +8982,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "3c6f74acb023",
-   "title": "Innodata vs. SoundHound AI: Consistent Growth vs. Fluctuating Revenue",
-   "link": "https://www.nasdaq.com/articles/innodata-vs-soundhound-ai-consistent-growth-vs-fluctuating-revenue",
-   "summary": "Key PointsInnodata currently looks stronger on revenue, having recorded a higher total than SoundHound AI in all eight comparable quarters analyzed in this reporting period.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T14:14:02+00:00",
-   "tickers": [
-    "SOUN",
-    "INOD"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9015,6 +9014,7 @@
   "SITE": "SiteOne Landscape Supply",
   "AEP": "American Electric Power",
   "CHRW": "C.H. Robinson Worldwide",
+  "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
   "AMD": "Advanced Micro Devices",
   "AXTA": "Axalta Coating Systems",
@@ -9093,7 +9093,6 @@
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "RITM": "Rithm Capital",
-  "SOUN": "SoundHound AI",
   "UMBF": "UMB Financial",
   "WFC": "Wells Fargo &",
   "BKR": "Baker Hughes",
@@ -9143,7 +9142,6 @@
   "EVR": "Evercore",
   "FAST": "Fastenal",
   "GOOG": "Alphabet",
-  "INOD": "Innodata",
   "TER": "Teradyne",
   "WING": "Wingstop",
   "AVTR": "Avantor",
