@@ -1,22 +1,8 @@
 {
- "generated": "2026-10-28T18:11:41.557727+00:00",
+ "generated": "2026-10-28T18:16:41.637543+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
-  {
-   "id": "04c9c77d390b",
-   "title": "FOMC votes to leave interest rates unchanged",
-   "link": "https://www.cnbc.com/video/2026/10/28/fomc-votes-to-leave-interest-rates-unchanged.html",
-   "summary": "CNBC’s Steve Liesman announces the Federal Reserve’s interest rate decision to hold rates steady.",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T18:09:18+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
   {
    "id": "dd65bce0050e",
    "title": "Fed holds rates steady despite concerns over inflation",
@@ -25,7 +11,21 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-28T18:09:08+00:00",
+   "published": "2026-10-28T18:14:40+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4e7afee999b2",
+   "title": "Fed holds interest rates steady even as inflation remains high",
+   "link": "https://www.cbsnews.com/news/federal-reserve-holds-interest-rates-steady-inflation/",
+   "summary": "The U.S. central bank left borrowing costs unchanged this month after hiking rates in September for the first time in three years.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-10-28T18:14:06+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -35,11 +35,25 @@
    "id": "b0a4ebb06d97",
    "title": "S&P 500 remains higher as Fed leaves rates steady: Live updates",
    "link": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
-   "summary": "The S&amp;P 500 rose on Wednesday as investors awaited a rate policy decision from the Federal Reserve and earnings reports from mega-cap technology companies.",
+   "summary": "The S&amp;P 500 rose on Wednesday as investors reacted to the Federal Reserve's latest interest rate decision.",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-28T18:08:40+00:00",
+   "published": "2026-10-28T18:11:15+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "04c9c77d390b",
+   "title": "FOMC votes to leave interest rates unchanged",
+   "link": "https://www.cnbc.com/video/2026/10/28/fomc-votes-to-leave-interest-rates-unchanged.html",
+   "summary": "CNBC’s Steve Liesman announces the Federal Reserve’s interest rate decision to hold rates steady.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T18:09:18+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -106,6 +120,20 @@
    "tag_v": 2
   },
   {
+   "id": "c11302fd0d8c",
+   "title": "Where to put your money no matter what the Fed does",
+   "link": "https://www.cnbc.com/select/3-money-moves-to-make-no-matter-what-the-fed-does/",
+   "summary": "Just because the Fed didn't adjust its benchmark rate doesn't mean there's nothing you can do to improve your finances.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T18:03:40+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "65008c256a86",
    "title": "Boeing CEO admits 737 ramp taking longer than hoped",
    "link": "https://www.thestreet.com/investing/stocks/ba-boeing-ceo-737-ramp-taking-longer-than-expected",
@@ -144,20 +172,6 @@
    "category": "markets",
    "domain": "investing.com",
    "published": "2026-10-28T18:02:40+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4e7afee999b2",
-   "title": "Fed holds interest rates steady even as inflation remains high",
-   "link": "https://www.cbsnews.com/news/federal-reserve-holds-interest-rates-steady-inflation/",
-   "summary": "The U.S. central bank left borrowing costs unchanged this month after hiking rates in September for the first time in three years.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-10-28T18:02:13+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -928,6 +942,20 @@
    "published": "2026-10-28T17:44:27+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f2a57399bbbd",
+   "title": "Georgia's Keisha Lance Bottoms navigates the challenges of Black women battling political barriers - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmlnM21KeVpTSV8xOThURTJGelU4ZGRjXzkyUFp2V2g0THVVcU1vTmZMSTZ6NGJpZXdSMTFDY1AtMER6MHlCR1BIVnZmdVp3VGUzOUl6SEVqQTJKaTJscnFMdE5waFZ3am9uakI4UDJrMy14aUo4bXk0ZWF5LV90dmJHZ0xFaTRKeU44b2tjNUZ4SUNKeFdEXzJ3dlBqd08ySTFlZzlFMWV6NnpXeEE?oc=5",
+   "summary": "Georgia's Keisha Lance Bottoms navigates the challenges of Black women battling political barriers&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T17:44:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3116,6 +3144,20 @@
    "tag_v": 2
   },
   {
+   "id": "30d13d47286e",
+   "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
+   "summary": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T16:44:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "34f4abcd2d55",
    "title": "Robinhood earnings analysis: questions answered and next catalysts",
    "link": "https://www.investing.com/news/stock-market-news/robinhood-earnings-analysis-questions-answered-and-next-catalysts-93CH-4980285",
@@ -3533,6 +3575,20 @@
    "tag_v": 2
   },
   {
+   "id": "246dc23ca095",
+   "title": "UN condemns US economic embargo of Cuba though more nations sit out after Trump administration push - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT1AybC1RV0tHWW5xdlNoUlpHMUlnREtVMUJRQW9Sd1ZhOU1YZTlMemJkZ2ljXzRHa2pwVDFYUW9iN3RCV3VQNDk3MjJxQUUxZTRBeTd1OGlSVzBDZmN4MDZ3aV9TaEoxZWNhWGpBZlR5MmpxRU5JYTZUeGRhaFRsNG9RWjgzeXJhQTZWalhXTHhfU0hjcHJYczRGdkZUM3Q3a3ZN?oc=5",
+   "summary": "UN condemns US economic embargo of Cuba though more nations sit out after Trump administration push&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T16:31:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "54dd8034a001",
    "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 1.88%",
    "link": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-188-4980244",
@@ -3722,20 +3778,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "f2a57399bbbd",
-   "title": "Georgia's Keisha Lance Bottoms navigates the challenges of Black women battling political barriers - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmlnM21KeVpTSV8xOThURTJGelU4ZGRjXzkyUFp2V2g0THVVcU1vTmZMSTZ6NGJpZXdSMTFDY1AtMER6MHlCR1BIVnZmdVp3VGUzOUl6SEVqQTJKaTJscnFMdE5waFZ3am9uakI4UDJrMy14aUo4bXk0ZWF5LV90dmJHZ0xFaTRKeU44b2tjNUZ4SUNKeFdEXzJ3dlBqd08ySTFlZzlFMWV6NnpXeEE?oc=5",
-   "summary": "Georgia's Keisha Lance Bottoms navigates the challenges of Black women battling political barriers&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T16:24:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -5969,20 +6011,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "30d13d47286e",
-   "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
-   "summary": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T15:29:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8955,46 +8983,12 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "904743eb8765",
-   "title": "Toncoin (TON) Price Prediction 2025, 2026, 2027-2030",
-   "link": "https://www.benzinga.com/money/toncoin-ton-price-prediction",
-   "summary": "The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are saying that Toncoin (TON) could hit $26.17 by 2030. Feeling bullish about TON already? You can buy TON through Coinbase Wallet,&#160;Kraken,&#160;Gemini, and&#160;Paybis. In the cryptocurrency market, staying informed about trends is important for investors. With the Bitcoin (BTC) prices rising this year, investors are also looki",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-28T14:13:47+00:00",
-   "tickers": [
-    "BTC",
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d9576a1abcbf",
-   "title": "Myro (MYRO) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/myro-price-prediction",
-   "summary": "The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Myro (MYRO) could reach $0.050 by 2030. Feeling confident about this MYRO price prediction? You can trade Myro on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Myro (MYRO), a meme &#8230;",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-28T14:13:46+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
   "IGSB": "iShares 1-5 Year Investment Grade Corporate Bond ETF",
   "SRLN": "State Street Blackstone Senior Loan ETF",
   "CP": "Canadian Pacific Kansas City Limited",
-  "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "SHV": "iShares 0-1 Year Treasury Bond ETF",
   "TSLL": "Direxion Daily TSLA Bull 2X Shares",
   "DB": "Deutsche Bank Aktiengesellschaft",
@@ -9074,7 +9068,6 @@
   "AGNC": "AGNC Investment",
   "APLD": "Applied Digital",
   "BAC": "Bank of America",
-  "COIN": "Coinbase Global",
   "LMT": "Lockheed Martin",
   "LSTR": "Landstar System",
   "PYPL": "PayPal Holdings",
