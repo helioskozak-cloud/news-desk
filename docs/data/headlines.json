@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T09:11:38.526643+00:00",
+ "generated": "2026-10-28T09:16:11.115510+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,7 +11,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-28T09:05:22+00:00",
+   "published": "2026-10-28T09:12:02+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
@@ -2279,6 +2279,38 @@
    "published": "2026-10-28T07:00:00+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9f845a6558a3",
+   "title": "Bull of the Day: Palantir (PLTR)",
+   "link": "https://www.nasdaq.com/articles/bull-day-palantir-pltr",
+   "summary": "With robust government accreditation, accelerating revenue growth, and a low-capital application model, Palantir stands out as an AI leader.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T07:00:00+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "90ba48263d8c",
+   "title": "Bear of the Day: Yum! Brands (YUM)",
+   "link": "https://www.nasdaq.com/articles/bear-day-yum-brands-yum-0",
+   "summary": "A stretched consumer backdrop and food-safety overhang remind us how quickly brand equity can wobble. Between single-digit growth on the horizon and relative price weakness, Yum is an avoid.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T07:00:00+00:00",
+   "tickers": [
+    "YUM"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6538,7 +6570,7 @@
   },
   {
    "id": "e179b1eb5cbf",
-   "title": "Dave Ramsey has blunt warning for 401(k), Roth IRA investors",
+   "title": "Dave Ramsey sounds another alarm on 401(k)s, Roth IRAs",
    "link": "https://www.thestreet.com/retirement/dave-ramseys-crisp-strategy-for-401ks-roth-iras-with-the-math",
    "summary": "The bestselling personal finance author explains a key method for maximizing retirement savings.",
    "source": "TheStreet",
@@ -6547,7 +6579,7 @@
    "published": "2026-10-28T01:01:05+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "negative",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8795,36 +8827,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "50e934ed1775",
-   "title": "LPL Financial Q3 2026 slides: strong growth amid integration concerns",
-   "link": "https://www.investing.com/news/company-news/lpl-financial-q3-2026-slides-strong-growth-amid-integration-concerns-93CH-4977194",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-27T22:56:26+00:00",
-   "tickers": [
-    "LPLA"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "524051bd29cf",
-   "title": "EON Resources Inc. Provides FAQ Responses in Advance of Earnings Call | EONR Stock News",
-   "link": "https://www.stocktitan.net/news/EONR/eon-resources-inc-provides-faq-responses-in-advance-of-earnings-w0l8ic3oo2p2.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-27T22:55:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8852,6 +8854,7 @@
   "LPLA": "LPL Financial Holdings",
   "VZ": "Verizon Communications",
   "AJG": "Arthur J. Gallagher &",
+  "PLTR": "Palantir Technologies",
   "BIO": "Bio-Rad Laboratories",
   "CEG": "Constellation Energy",
   "CRWD": "CrowdStrike Holdings",
