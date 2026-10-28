@@ -1,8 +1,56 @@
 {
- "generated": "2026-10-28T21:36:08.287582+00:00",
+ "generated": "2026-10-28T21:41:35.072405+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "65e5bfb5747c",
+   "title": "Etsy CEO has an unexpected message for shoppers",
+   "link": "https://www.thestreet.com/retail/etsy-ceo-handmade-shopping-ai",
+   "summary": "That perfect handmade gift comes with new questions for Etsy users and stock investors",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-28T21:37:00+00:00",
+   "tickers": [
+    "ETSY"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aedecf509a8f",
+   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+   "summary": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T21:36:41+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c310f9451d23",
+   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+   "summary": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T21:36:07+00:00",
+   "tickers": [
+    "DASH"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "0bf5537ff994",
    "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
@@ -50,18 +98,16 @@
    "tag_v": 2
   },
   {
-   "id": "c310f9451d23",
-   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-   "summary": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
-   "source": "CNBC Top",
-   "category": "markets",
+   "id": "e70d093ac76c",
+   "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+   "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+   "summary": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
+   "source": "CNBC Economy",
+   "category": "macro",
    "domain": "cnbc.com",
-   "published": "2026-10-28T21:32:48+00:00",
-   "tickers": [
-    "DASH"
-   ],
-   "type": "ma",
+   "published": "2026-10-28T21:31:46+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -562,22 +608,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "aedecf509a8f",
-   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-   "summary": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T21:12:52+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1872,7 +1902,7 @@
    "title": "Markel Advances Strategic Focus on Specialty Insurance, Announces Adverse Development Cover Reinsurance Agreement with Enstar on Reinsurance Business",
    "link": "https://www.prnewswire.com/news-releases/markel-advances-strategic-focus-on-specialty-insurance-announces-adverse-development-cover-reinsurance-agreement-with-enstar-on-reinsurance-business-302922733.html",
    "summary": "Covers future adverse reserve development on Markel's Global Reinsurance and other select insurance lines of business for underwriting years 2025 and prior RICHMOND, Va., Oct. 28, 2026 /PRNewswire/ -- Markel Insurance, the insurance operations within Markel Group Inc. (NYSE: MKL) and...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-28T20:46:00+00:00",
@@ -7458,20 +7488,6 @@
    "tag_v": 2
   },
   {
-   "id": "30d13d47286e",
-   "title": "Netanyahu and top rival face postelection choices that could redefine Israeli politics - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
-   "summary": "Netanyahu and top rival face postelection choices that could redefine Israeli politics&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T19:49:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "34e0c1c42251",
    "title": "Dropbox, Inc. Announces 9% Workforce Reduction, CTO Departure, and Preliminary third quarter 2026 Financial Outlook",
    "link": "https://www.nasdaq.com/articles/dropbox-inc-announces-9-workforce-reduction-cto-departure-and-preliminary-third-quarter",
@@ -7844,20 +7860,6 @@
    "published": "2026-10-28T19:36:29+00:00",
    "tickers": [],
    "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "940d58b68d3f",
-   "title": "Report: Peltola's campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
-   "summary": "Report: Peltola's campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T19:36:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
