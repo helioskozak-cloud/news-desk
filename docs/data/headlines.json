@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-28T23:21:35.452839+00:00",
+ "generated": "2026-10-28T23:26:08.642137+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "76c881a4ac58",
+   "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
+   "link": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
+   "summary": "CNBC calculated the rolling 60-day correlation of daily returns for each of the 21 unique pairs among the Magnificent Seven.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T23:24:37+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "dd496b5f56fd",
    "title": "DXP Enterprises, Inc. Announces New Share Repurchase Program | DXPE Stock News",
@@ -34,6 +48,23 @@
    "tag_v": 2
   },
   {
+   "id": "c47b47571b29",
+   "title": "Stocks Close Higher on Dovish Tint for FOMC Results",
+   "link": "https://www.nasdaq.com/articles/stocks-close-higher-dovish-tint-fomc-results",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) rose +0.28% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +0.55%. December E-mini S&amp;P futures (ESZ26 ) rose +0.27%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:07:37+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "cc8836285c73",
    "title": "Corn Holding onto Midweek Gains as Ethanol Output Improves",
    "link": "https://www.nasdaq.com/articles/corn-holding-midweek-gains-ethanol-output-improves",
@@ -45,6 +76,22 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "076bcf9d5247",
+   "title": "Coffee Prices Continue to Fall on Concern About Brazilian Real Weakness",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-continue-fall-concern-about-brazilian-real-weakness",
+   "summary": "December arabica coffee (KCZ26 ) is down -8.25 (-2.81%), and November ICE robusta coffee (RMF27 ) is down -3 (-0.09%). Coffee prices continued to fall today on concerns that Brazilian exporters will increase sales after Monday’s -9% plunge in the Brazilian real on President Luiz Inacio Lula da Silva’s surprise...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:07:36+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -112,23 +159,6 @@
    "tag_v": 2
   },
   {
-   "id": "c47b47571b29",
-   "title": "Stocks Close Higher on Dovish Tint for FOMC Results",
-   "link": "https://www.nasdaq.com/articles/stocks-close-higher-dovish-tint-fomc-results",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) rose +0.28% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +0.55%. December E-mini S&amp;P futures (ESZ26 ) rose +0.27%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T23:02:12+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "acfb0c03b553",
    "title": "Coffee Prices Fall to 2-week Low on Brazilian Real Weakness and Arriving Brazilian Beans",
    "link": "https://www.nasdaq.com/articles/coffee-prices-fall-2-week-low-brazilian-real-weakness-and-arriving-brazilian-beans",
@@ -153,22 +183,6 @@
    "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-28T23:02:12+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "076bcf9d5247",
-   "title": "Coffee Prices Continue to Fall on Concern About Brazilian Real Weakness",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-continue-fall-concern-about-brazilian-real-weakness",
-   "summary": "December arabica coffee (KCZ26 ) is down -8.25 (-2.81%), and November ICE robusta coffee (RMF27 ) is down -3 (-0.09%). Coffee prices continued to fall today on concerns that Brazilian exporters will increase sales after Monday’s -9% plunge in the Brazilian real on President Luiz Inacio Lula da Silva’s surprise...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T23:02:11+00:00",
    "tickers": [
     "ICE"
    ],
@@ -1999,6 +2013,20 @@
     "AWK"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5ede1fde5821",
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
+   "summary": "Federal Reserve keeps rates unchanged despite elevated inflation&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T21:54:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6828,20 +6856,6 @@
    "tag_v": 2
   },
   {
-   "id": "5ede1fde5821",
-   "title": "Federal Reserve keeps rates unchanged despite elevated inflation - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
-   "summary": "Federal Reserve keeps rates unchanged despite elevated inflation&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T20:15:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "f7819cfd55da",
    "title": "Antero Midstream Announces Third Quarter 2026 Financial and Operating Results",
    "link": "https://www.prnewswire.com/news-releases/antero-midstream-announces-third-quarter-2026-financial-and-operating-results-302922627.html",
@@ -8923,22 +8937,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "ac10b90fb965",
-   "title": "Fiserv to Present at Upcoming Investor Conference | FISV Stock News",
-   "link": "https://www.stocktitan.net/news/FISV/fiserv-to-present-at-upcoming-investor-r6tzi2mbusax.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T20:05:00+00:00",
-   "tickers": [
-    "FISV"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9077,7 +9075,6 @@
   "SPY": "SPY ETF",
   "AMRZ": "Amrize",
   "DEO": "Diageo",
-  "FISV": "Fiserv",
   "GRMN": "Garmin",
   "ORCL": "Oracle",
   "PI": "Impinj",
