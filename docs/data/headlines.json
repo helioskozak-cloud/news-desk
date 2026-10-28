@@ -1,19 +1,21 @@
 {
- "generated": "2026-10-28T20:41:35.444382+00:00",
+ "generated": "2026-10-28T20:46:37.369191+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
-   "id": "39d0062eecb5",
-   "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
-   "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
-   "summary": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
-   "source": "CNBC Economy",
-   "category": "macro",
+   "id": "aedecf509a8f",
+   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+   "summary": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
    "domain": "cnbc.com",
-   "published": "2026-10-28T20:40:12+00:00",
-   "tickers": [],
-   "type": "macro",
+   "published": "2026-10-28T20:45:09+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "earnings",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -25,12 +27,102 @@
    "source": "CNBC Earnings",
    "category": "earnings",
    "domain": "cnbc.com",
-   "published": "2026-10-28T20:39:19+00:00",
+   "published": "2026-10-28T20:45:08+00:00",
    "tickers": [
     "GOOG"
    ],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "cb17f92ebf19",
+   "title": "Power REIT Adjourns 2026 Annual Meeting to November 10, 2026 to Allow Additional Time for Shareholders to Vote on Proposal 3 | PW Stock News",
+   "link": "https://www.stocktitan.net/news/PW/power-reit-adjourns-2026-annual-meeting-to-november-10-2026-to-allow-tto433lhm8h8.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-28T20:45:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "59e612795c07",
+   "title": "FCPT Announces Third Quarter 2026 Financial and Operating Results | FCPT Stock News",
+   "link": "https://www.stocktitan.net/news/FCPT/fcpt-announces-third-quarter-2026-financial-and-operating-xs6bdxxy5oyi.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-28T20:43:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "baa728f85f21",
+   "title": "XYL SHAREHOLDER INVESTIGATION: SueWallSt Notifies Investors of Potential Securities Claims Involving Xylem Inc.",
+   "link": "https://www.prnewswire.com/news-releases/xyl-shareholder-investigation-suewallst-notifies-investors-of-potential-securities-claims-involving-xylem-inc-302922637.html",
+   "summary": "Xylem raised its 2026 adjusted EPS range on July 28, 2026, then cut it on October 27 to a midpoint below where it stood before the raise. XYL shareholders who lost money have legal rights, and an investigation into potential securities law violations is reviewing those losses. NEW YORK,...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-28T20:42:00+00:00",
+   "tickers": [
+    "XYL"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "519be52c4293",
+   "title": "Markel Group reports 2026 third quarter and nine-months results",
+   "link": "https://www.prnewswire.com/news-releases/markel-group-reports-2026-third-quarter-and-nine-months-results-302922728.html",
+   "summary": "RICHMOND, Va., Oct. 28, 2026 /PRNewswire/ -- Markel Group Inc. (NYSE: MKL) today reported its financial results for the third quarter of 2026. The Company also announced today it filed its Form 10-Q for the quarter ended September 30, 2026 with the Securities and Exchange Commission. \"We...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-28T20:41:00+00:00",
+   "tickers": [
+    "MKL"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "dab3d7b4a944",
+   "title": "Markel Group reports 2026 third quarter and nine-months results | MKL Stock News",
+   "link": "https://www.stocktitan.net/news/MKL/markel-group-reports-2026-third-quarter-and-nine-months-mtg9szsne9e8.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-28T20:41:00+00:00",
+   "tickers": [
+    "MKL"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "39d0062eecb5",
+   "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+   "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+   "summary": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T20:40:33+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -161,22 +253,6 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "aedecf509a8f",
-   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-   "summary": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T20:31:40+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -4812,20 +4888,6 @@
    "tag_v": 2
   },
   {
-   "id": "30d13d47286e",
-   "title": "Netanyahu and top rival face postelection choices that could redefine Israeli politics - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
-   "summary": "Netanyahu and top rival face postelection choices that could redefine Israeli politics&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T19:49:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "34e0c1c42251",
    "title": "Dropbox, Inc. Announces 9% Workforce Reduction, CTO Departure, and Preliminary third quarter 2026 Financial Outlook",
    "link": "https://www.nasdaq.com/articles/dropbox-inc-announces-9-workforce-reduction-cto-departure-and-preliminary-third-quarter",
@@ -5184,20 +5246,6 @@
    "published": "2026-10-28T19:36:29+00:00",
    "tickers": [],
    "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "940d58b68d3f",
-   "title": "Report: Peltola's campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
-   "summary": "Report: Peltola's campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T19:36:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6685,6 +6733,20 @@
    "tag_v": 2
   },
   {
+   "id": "5ede1fde5821",
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
+   "summary": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T18:53:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "e0120e06d351",
    "title": "Wendy’s receives $7.35 per share buyout proposal from investors",
    "link": "https://www.investing.com/news/company-news/wendys-receives-735-per-share-buyout-proposal-from-investors-93CH-4980468",
@@ -6791,6 +6853,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1a5ee0031108",
+   "title": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year - AP News",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
+   "summary": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T18:49:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -7866,6 +7942,20 @@
    "tag_v": 2
   },
   {
+   "id": "32cca62b047b",
+   "title": "Justin Tucker joins the Chiefs after a 10-game suspension last year for violating NFL conduct policy - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZXhwaElITkhzMm56Z0s3cXZSRUx1MmhmMHExZ3FEbW90bXJwQWZUUWdhN2trR0FYd2wyME9aMkhUbWhpeTA0al9tUjBQRE50MHBUejRZS0EwSDVJNGF2c05LVkJyMjNIZ2lPdVNBTUdtLWZpdjNNY3JuVTBXT2dIRE9iZVFqUVdVNjZBV3dWT1RFZWJSVnNn?oc=5",
+   "summary": "Justin Tucker joins the Chiefs after a 10-game suspension last year for violating NFL conduct policy&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T18:12:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "9afe69a6c7f1",
    "title": "What to know about Brazil’s Bolsonaro’s departure to the US after his electoral defeat - AP News",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSkdsWDZWWkFFRHpvamJNaHFEQ1R5MTNqTUJnQjk2SXhaY1lqRkNlOHNDV2FfZzdPLTdkUXljbXZaUXBQWnJybXp6U1lyTmNNSWdNZ2J6OGpmUy1mZFJmZWZtNHFEQmdvRm9oeDBTeEp3ejRVM2FZVnhWOXZVNDJRb1pfZ2ZRUkhtOFctVXVOc1ZoVlFoMEE?oc=5",
@@ -8374,6 +8464,20 @@
    "tag_v": 2
   },
   {
+   "id": "940d58b68d3f",
+   "title": "Report: Peltola's campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
+   "summary": "Report: Peltola's campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T17:58:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "2c06135c0424",
    "title": "GRUPO SIMEC ANNOUNCES RESULTS OF OPERATIONS FOR THE FIRST NINE MONTHS OF 2026. | SIM Stock News",
    "link": "https://www.stocktitan.net/news/SIM/grupo-simec-announces-results-of-operations-for-the-first-nine-r0jj6ip423fk.html",
@@ -8846,106 +8950,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "5b2c036d6340",
-   "title": "Immuron Limited Announces Strategic Reset to Partner Clinical Assets and Reports FY26 Global Sales Revenue of $7.7m",
-   "link": "https://www.nasdaq.com/articles/immuron-limited-announces-strategic-reset-partner-clinical-assets-and-reports-fy26-global",
-   "summary": "Immuron Limited announced a strategic decision to partner its clinical assets IMM-124E and IMM-529 for development and commercialization. Under this partnering model, the licensee typically funds development, registration and commercialization costs. The company expects this stra",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T17:41:05+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0912e7834928",
-   "title": "Franklin Electric Reports Third Quarter 2026 Results",
-   "link": "https://www.nasdaq.com/articles/franklin-electric-reports-third-quarter-2026-results",
-   "summary": "Franklin Electric Co., Inc. reported consolidated net sales of $633.6 million for the third quarter of 2026, representing a 9% increase compared to $581.7 million in the third quarter of 2025. Operating income for the quarter was $86.5 million, up 2% from $85.1 million in the pri",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T17:41:04+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4f9a0405ac87",
-   "title": "Anthropic to offer IPO shares to UK retail investors with RetailBook",
-   "link": "https://www.investing.com/news/stock-market-news/anthropic-to-offer-ipo-shares-to-uk-retail-investors-with-retailbook-4980386",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-28T17:40:33+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ea9f761fd79c",
-   "title": "What's Next for DICK'S Sporting Goods, Inc. Shareholders After 30.68% Stock Drop? Glancy Prongay Wolke & Rotter LLP Explains Securities Fraud Class Action Lead Plaintiff Deadline",
-   "link": "https://www.prnewswire.com/news-releases/whats-next-for-dicks-sporting-goods-inc-shareholders-after-30-68-stock-drop-glancy-prongay-wolke--rotter-llp-explains-securities-fraud-class-action-lead-plaintiff-deadline-302921997.html",
-   "summary": "Complaint alleges DICK'S Sporting Goods, Inc. misled investors between September 8, 2025 and August 24, 2026; investors may seek lead plaintiff role by November 3, 2026 LOS ANGELES, Oct. 28, 2026 /PRNewswire/ -- Glancy Prongay Wolke & Rotter LLP (\"Glancy\") announced today that the class...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T17:40:00+00:00",
-   "tickers": [
-    "DKS"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "f7ae8e397054",
-   "title": "Alexander’s Declares Quarterly $4.50 Dividend on Common Shares | ALX Stock News",
-   "link": "https://www.stocktitan.net/news/ALX/alexander-s-declares-quarterly-4-50-dividend-on-common-m00l3c17jp13.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T17:40:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cd42a4a00624",
-   "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-   "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
-   "summary": "Rep. Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T17:39:43+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "76c7b532f0fa",
-   "title": "Earnings call transcript: Mersen lifts 2026 outlook after record Q3 sales",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-mersen-lifts-2026-outlook-after-record-q3-sales-93CH-4980385",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-28T17:39:21+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9038,6 +9042,7 @@
   "ACMR": "ACM Research",
   "IREN": "IREN Limited",
   "LRCX": "Lam Research",
+  "MKL": "Markel Group",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "BKH": "Black Hills",
