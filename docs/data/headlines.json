@@ -1,8 +1,26 @@
 {
- "generated": "2026-10-28T16:16:43.758637+00:00",
+ "generated": "2026-10-28T16:21:40.228647+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "696d1da25802",
+   "title": "Stocks making the biggest moves midday: Wendy's, Wingstop, F5, Enphase Energy, Labcorp & more",
+   "link": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-midday-wen-wing-ffiv-enph-lh.html",
+   "summary": "Here are some of the companies making headlines in midday trading.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T16:19:45+00:00",
+   "tickers": [
+    "ENPH",
+    "WING",
+    "LH"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "ee3d12b01f5f",
    "title": "Textron Declares Quarterly Dividend | TXT Stock News",
@@ -14,6 +32,54 @@
    "published": "2026-10-28T16:15:00+00:00",
    "tickers": [
     "TXT"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9c84c59c5ac0",
+   "title": "Saab and GA-ASI successfully flight test LoyalEye AEW capability on MQ-9B",
+   "link": "https://www.prnewswire.com/news-releases/saab-and-ga-asi-successfully-flight-test-loyaleye-aew-capability-on-mq-9b-302922418.html",
+   "summary": "STOCKHOLM, Oct. 28, 2026 /PRNewswire/ -- Saab and General Atomics Aeronautical Systems, Inc. (GA-ASI) have successfully flight tested an unmanned airborne early warning (AEW) capability, integrating Saab's LoyalEye airborne early warning radar with the MQ-9B remotely piloted aircraft...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-28T16:15:00+00:00",
+   "tickers": [
+    "SAAB"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e630e0b871c0",
+   "title": "Saab and GA-ASI successfully flight test LoyalEye AEW capability on MQ-9B | SAABY Stock News",
+   "link": "https://www.stocktitan.net/news/SAABY/saab-and-ga-asi-successfully-flight-test-loyal-eye-aew-capability-on-j7b01is0x856.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-28T16:15:00+00:00",
+   "tickers": [
+    "SAAB"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a1d695ab7136",
+   "title": "Millicom (Tigo) notice of third quarter 2026 results and video conference | TIGO Stock News",
+   "link": "https://www.stocktitan.net/news/TIGO/millicom-tigo-notice-of-third-quarter-2026-results-and-video-ol54qk2ccqd1.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-28T16:15:00+00:00",
+   "tickers": [
+    "TIGO"
    ],
    "type": "earnings",
    "sentiment": "neutral",
@@ -61,6 +127,22 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "09b6de0d0c32",
+   "title": "JLL CEO Christian Ulbrich on whether data center investment is cooling: ‘Nobody is pulling back’",
+   "link": "https://www.cnbc.com/video/2026/10/28/jll-ceo-christian-ulbrich-on-whether-data-center-investment-is-cooling-nobody-is-pulling-back.html",
+   "summary": "JLL CEO Christian Ulbrich joins 'Squawk on the Street' to discuss the company's latest earnings report, data center demand, and more.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T16:10:18+00:00",
+   "tickers": [
+    "JLL"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -155,14 +237,14 @@
    "title": "Wednesday Sector Laggards: Packaging & Containers, Education & Training Services",
    "link": "https://www.nasdaq.com/articles/wednesday-sector-laggards-packaging-containers-education-training-services",
    "summary": "In trading on Wednesday, packaging &amp; containers shares were relative laggards, down on the day by about 3.4%. Helping drag down the group were shares of O-I Glass, down about 14.4% and shares of Smurfit Westrock off about 7% on the day. Also lagging the market Wednesday ar",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-28T16:03:39+00:00",
    "tickers": [
     "SW"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -171,14 +253,14 @@
    "title": "Wednesday Sector Leaders: Music & Electronics Stores, Diagnostics",
    "link": "https://www.nasdaq.com/articles/wednesday-sector-leaders-music-electronics-stores-diagnostics",
    "summary": "In trading on Wednesday, music &amp; electronics stores shares were relative leaders, up on the day by about 2.7%. Leading the group were shares of Vertiv Holdings, up about 14.5% and shares of Global Industrial off about 0.8% on the day. Also showing relative strength are dia",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-28T16:03:28+00:00",
    "tickers": [
     "VRT"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -335,8 +417,8 @@
    "title": "Daily Dividend Report: WFC,CTAS,WMB,ETN,BKR,AMGN",
    "link": "https://www.nasdaq.com/articles/daily-dividend-report-wfcctaswmbetnbkramgn",
    "summary": "Wells Fargo announced its board of directors approved a quarterly common stock dividend of $0.50 per share, payable Dec. 1, 2026, to stockholders of record on Nov. 6, 2026. Cintas announced that the Company's Board of Directors approved a quarterly cash dividend of $0.52 per sh",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-28T16:01:53+00:00",
    "tickers": [
@@ -346,6 +428,22 @@
     "ETN"
    ],
    "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c522356151a1",
+   "title": "Why Micron Technology Stock Rallied Today",
+   "link": "https://www.nasdaq.com/articles/why-micron-technology-stock-rallied-today",
+   "summary": "Key PointsMicron stock jumped after rival SK Hynix reported record growth.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T16:01:39+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "markets",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -394,6 +492,54 @@
     "PNC"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "86fecc69f5fa",
+   "title": "Amphenol Q3 26 Earnings Conference Call At 1:00 PM ET",
+   "link": "https://www.nasdaq.com/articles/amphenol-q3-26-earnings-conference-call-1-00-pm-et",
+   "summary": "(RTTNews) - Amphenol Corp. (APH) will host a conference call at 1:00 PM ET on October 28, 2026, to discuss its Q3 26 earnings results.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T16:00:53+00:00",
+   "tickers": [
+    "APH"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d726bcb45142",
+   "title": "Essex Property Trust Q3 26 Earnings Conference Call At 1:00 PM ET",
+   "link": "https://www.nasdaq.com/articles/essex-property-trust-q3-26-earnings-conference-call-1-00-pm-et",
+   "summary": "(RTTNews) - Essex Property Trust, Inc. (ESS) will host a conference call at 1:00 PM ET on October 28, 2026, to discuss Q3 26 earnings results.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T16:00:53+00:00",
+   "tickers": [
+    "ESS"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "163cd491ae28",
+   "title": "Extra Space Storage Q3 26 Earnings Conference Call AT 1:00 PM ET",
+   "link": "https://www.nasdaq.com/articles/extra-space-storage-q3-26-earnings-conference-call-1-00-pm-et",
+   "summary": "(RTTNews) - Extra Space Storage Inc. (EXR) will host a conference call at 1:00 PM ET on October 28, 2026, to discuss Q3 26 earnings results.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T16:00:53+00:00",
+   "tickers": [
+    "EXR"
+   ],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -587,6 +733,52 @@
    "tag_v": 2
   },
   {
+   "id": "4f450e820a4a",
+   "title": "Etsy (ETSY) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/etsy-etsy-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:58:55+00:00",
+   "tickers": [
+    "ETSY"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7fc60a5b3814",
+   "title": "ADP (ADP) Q1 2027 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/adp-adp-q1-2027-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:58:55+00:00",
+   "tickers": [
+    "ADP"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7592c0ae9779",
+   "title": "Blackbaud (BLKB) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/blackbaud-blkb-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:58:55+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "4b3738223715",
    "title": "Royce Small-Cap Trust (NYSE: RVT) as of Sep 30, 2026 | RVT Stock News",
    "link": "https://www.stocktitan.net/news/RVT/royce-small-cap-trust-nyse-rvt-as-of-sep-30-2y03a10a5806.html",
@@ -703,6 +895,22 @@
    "tag_v": 2
   },
   {
+   "id": "5d610e9e25bf",
+   "title": "Prediction: Palantir Stock Will Skyrocket After Nov. 2",
+   "link": "https://www.nasdaq.com/articles/prediction-palantir-stock-will-skyrocket-after-nov-2",
+   "summary": "Key PointsPalantir Technologies can beat Wall Street's expectations once again on Nov. 2.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:54:01+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "11b033e000a5",
    "title": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - AP News",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjdOaHZoX3J6U1JBZU92Q1VkV2F0OFI0WUo5b2l0UHh5WXVNWDZHVElxNktfMUh0WEh6REdiVXZxWlNHdm1hV2RBMHE1TnZjamY4dDA5VWZlMjhDV3I0Z1I4MDh4WDJnbG9fRVBZZW1FZHZCaHVPRUhMc29Fa0ZDNVJ5X3NYVFUteDhlVXNtVzN0cHc?oc=5",
@@ -795,8 +1003,8 @@
    "title": "Commit To Buy Lucid Group At $0.50, Earn 36% Using Options",
    "link": "https://www.nasdaq.com/articles/commit-buy-lucid-group-050-earn-36-using-options",
    "summary": "Investors considering a purchase of Lucid Group Inc (Symbol: LCID) shares, but cautious about paying the going market price of $3.33/share, might benefit from considering selling puts among the alternative strategies at their disposal. One interesting put contract in particular",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-28T15:52:03+00:00",
    "tickers": [
@@ -1353,14 +1561,14 @@
    "title": "See Which Recent 13F Filers Hold INTC But Alliance Wealth Advisors and Verde Capital Management Exited",
    "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-intc-alliance-wealth-advisors-and-verde-capital",
    "summary": "At Holdings Channel, we have reviewed the latest batch of the 57 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Intel Corp (Symbol: INTC) was held by 31 of these funds. When hedge fund managers appear to be thinking alike, we find it is a good idea",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-28T15:40:53+00:00",
    "tickers": [
     "INTC"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3045,20 +3253,6 @@
     "FLUT"
    ],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1a5ee0031108",
-   "title": "At least 68 dead in Spain after one high-speed train slams into another stopped on tracks - AP News",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
-   "summary": "At least 68 dead in Spain after one high-speed train slams into another stopped on tracks&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T14:57:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6578,6 +6772,20 @@
    "tag_v": 2
   },
   {
+   "id": "1a5ee0031108",
+   "title": "At least 64 dead in high-speed train crash in central Spain - AP News",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
+   "summary": "At least 64 dead in high-speed train crash in central Spain&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T13:27:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "6d9cf3ba27ad",
    "title": "ICON Q3 2026 slides: margins expand amid record bookings",
    "link": "https://www.investing.com/news/company-news/icon-q3-2026-slides-margins-expand-amid-record-bookings-93CH-4979482",
@@ -8825,196 +9033,6 @@
    "type": "markets",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "ef3ff5606658",
-   "title": "Meta and Snap face major US legal test of youth social media addiction claims",
-   "link": "https://www.investing.com/news/stock-market-news/meta-and-snap-face-major-us-legal-test-of-youth-social-media-addiction-claims-4978233",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-28T12:55:05+00:00",
-   "tickers": [
-    "META"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e74129e4a741",
-   "title": "Ethos and Liberty Mutual Expand Relationship to Help Protect Who and What Matters Most | LIFE Stock News",
-   "link": "https://www.stocktitan.net/news/LIFE/ethos-and-liberty-mutual-expand-relationship-to-help-protect-who-and-ib460nb4hrj1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T12:55:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "b202b6760cf1",
-   "title": "KB Financial Group Inc. to Hold Extraordinary General Meeting of Shareholders on November 20, 2026",
-   "link": "https://www.nasdaq.com/articles/kb-financial-group-inc-hold-extraordinary-general-meeting-shareholders-november-20-2026",
-   "summary": "KB Financial Group Inc. has furnished a public notice regarding the convocation of its extraordinary general meeting of shareholders to be held on November 20, 2026. The agenda for the meeting is the appointment of Mr. Jae Keun Lee as an executive director.Mr. Lee is the nominee",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T12:54:29+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "53a7c33e4cad",
-   "title": "Avantor, Inc. Reports Net Sales of $1,698.3 million for Third Quarter 2026",
-   "link": "https://www.nasdaq.com/articles/avantor-inc-reports-net-sales-16983-million-third-quarter-2026",
-   "summary": "Avantor, Inc. reported net sales of $1,698.3 million for the three months ended September 30, 2026, representing a 4.6% increase compared to the third quarter of 2025. On an organic basis, net sales increased 5.2%, with foreign currency translation having a negative impact of 0.6",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T12:54:29+00:00",
-   "tickers": [
-    "AVTR"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "aa31218ec5fc",
-   "title": "Otis Worldwide Corporation Reports Third Quarter 2026 Results",
-   "link": "https://www.nasdaq.com/articles/otis-worldwide-corporation-reports-third-quarter-2026-results",
-   "summary": "Otis Worldwide Corporation reported third quarter 2026 net sales of $3.9 billion, representing an increase of 6% compared to the prior year. GAAP operating profit for the quarter was $620 million, up $34 million, while adjusted operating profit was $626 million, down $6 million.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T12:54:28+00:00",
-   "tickers": [
-    "OTIS"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2d305897112e",
-   "title": "Should you buy Enphase Energy stock after its steep post-earnings selloff?",
-   "link": "https://www.investing.com/news/stock-market-news/should-you-buy-enphase-energy-stock-after-its-steep-postearnings-selloff-93CH-4979242",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-28T12:54:06+00:00",
-   "tickers": [
-    "ENPH"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2f2ab8a9c915",
-   "title": "U.S. Stocks May See Further Upside Ahead Of Fed Announcement",
-   "link": "https://www.nasdaq.com/articles/us-stocks-may-see-further-upside-ahead-fed-announcement",
-   "summary": "(RTTNews) - After moving notably higher over the two previous sessions, stocks may see continued strength in early trading on Wednesday. The major index futures are currently pointing to a modestly higher open for the markets, with the S&amp;P 500 futures up by 0.2 percent.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T12:52:56+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b71d4f30d577",
-   "title": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
-   "link": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html",
-   "summary": "The currency has lost almost 5% against the U.S. dollar in six months.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T12:52:41+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "18cbcbc5e4e7",
-   "title": "OPKO Health to Report Third Quarter 2026 Financial Results on November 4, 2026 | OPK Stock News",
-   "link": "https://www.stocktitan.net/news/OPK/opko-health-to-report-third-quarter-2026-financial-results-on-eexcw3wmo3e5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T12:52:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "bbbd68642cac",
-   "title": "Franklin Electric Co Inc Reveals Increase In Q3 Bottom Line",
-   "link": "https://www.nasdaq.com/articles/franklin-electric-co-inc-reveals-increase-q3-bottom-line",
-   "summary": "(RTTNews) - Franklin Electric Co Inc (FELE) reported earnings for its third quarter that Increases, from the same period last year",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T12:51:18+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ebe86427483e",
-   "title": "Dune Oil Appoints Experienced International Engineering Advisors to Advance M47 Oil Well Re-Entry and Completion Programs | DUNXF Stock News",
-   "link": "https://www.stocktitan.net/news/DUNXF/dune-oil-appoints-experienced-international-engineering-advisors-to-23ix5lkntp8w.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T12:50:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4abf5311ccee",
-   "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as affordability looms over midterm",
-   "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
-   "summary": "Trump's joke comes as Americans say in polls they believe that Democrats would do a better job than Republicans at address concerns about affordability.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T12:49:09+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8e437550bd6d",
-   "title": "Rogers: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/rogers-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsRogers generated $236.1 million in third-quarter sales, up 9% year over year.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T12:49:01+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9031,6 +9049,7 @@
   "PNC": "The PNC Financial Services Group",
   "EWG": "iShares MSCI Germany Index Fund",
   "IBM": "International Business Machines",
+  "TIGO": "Millicom International Cellular",
   "NCLH": "Norwegian Cruise Line Holdings",
   "ALSN": "Allison Transmission Holdings",
   "AMR": "Alpha Metallurgical Resources",
@@ -9062,11 +9081,13 @@
   "EAT": "Brinker International",
   "FLUT": "Flutter Entertainment",
   "PB": "Prosperity Bancshares",
+  "PLTR": "Palantir Technologies",
   "LII": "Lennox International",
   "MANH": "Manhattan Associates",
   "OXY": "Occidental Petroleum",
   "SHW": "The Sherwin-Williams",
   "AXSM": "Axsome Therapeutics",
+  "EXR": "Extra Space Storage",
   "ICLR": "ICON Public Limited",
   "IP": "International Paper",
   "MIR": "Mirion Technologies",
@@ -9117,7 +9138,6 @@
   "LNT": "Alliant Energy",
   "META": "Meta Platforms",
   "NEE": "NextEra Energy",
-  "OTIS": "Otis Worldwide",
   "CB": "Chubb Limited",
   "CSCO": "Cisco Systems",
   "EXE": "Expand Energy",
@@ -9184,6 +9204,7 @@
   "NI": "NiSource",
   "PLD": "Prologis",
   "TER": "Teradyne",
+  "WING": "Wingstop",
   "RTX": "Raytheon",
   "AVTR": "Avantor",
   "CMCSA": "Comcast",
@@ -9217,9 +9238,11 @@
   "TEX": "Terex",
   "AGCO": "AGCO",
   "EBAY": "eBay",
+  "ETSY": "Etsy",
   "IEX": "IDEX",
   "LYFT": "Lyft",
   "OKTA": "Okta",
-  "ROKU": "Roku"
+  "ROKU": "Roku",
+  "SAAB": "Saab"
  }
 }
