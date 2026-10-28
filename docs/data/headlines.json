@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T03:41:34.576649+00:00",
+ "generated": "2026-10-28T03:46:37.887154+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -181,6 +181,23 @@
    "domain": "investing.com",
    "published": "2026-10-28T03:16:10+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b59f3cb96472",
+   "title": "Dutch Bros vs. Kimberly-Clark: Which Is the Smarter Buy Today?",
+   "link": "https://www.nasdaq.com/articles/dutch-bros-vs-kimberly-clark-which-smarter-buy-today",
+   "summary": "Key PointsDutch Bros continues to increase its footprint across the United States, opening 48 new shops in the second quarter of 2026.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T03:15:02+00:00",
+   "tickers": [
+    "KMB",
+    "BROS"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8895,20 +8912,6 @@
    "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "03393f0d61f5",
-   "title": "First Financial Bancorp earnings beat by $0.02, revenue topped estimates",
-   "link": "https://www.investing.com/news/earnings/first-financial-bancorp-earnings-beat-by-002-revenue-topped-estimates-4976857",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-27T20:30:36+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9012,6 +9015,7 @@
   "AMZN": "Whole Foods",
   "BA": "The Boeing",
   "BN": "Brookfield",
+  "BROS": "Dutch Bros",
   "BX": "Blackstone",
   "CBRE": "CBRE Group",
   "CRM": "Salesforce",
