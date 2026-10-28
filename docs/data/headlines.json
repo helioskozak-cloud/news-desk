@@ -1,41 +1,8 @@
 {
- "generated": "2026-10-28T23:11:14.568559+00:00",
+ "generated": "2026-10-28T23:16:36.945394+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
-  {
-   "id": "c47b47571b29",
-   "title": "Stocks Close Higher on Dovish Tint for FOMC Results",
-   "link": "https://www.nasdaq.com/articles/stocks-close-higher-dovish-tint-fomc-results",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) rose +0.28% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +0.55%. December E-mini S&amp;P futures (ESZ26 ) rose +0.27%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T23:07:37+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "076bcf9d5247",
-   "title": "Coffee Prices Continue to Fall on Concern About Brazilian Real Weakness",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-continue-fall-concern-about-brazilian-real-weakness",
-   "summary": "December arabica coffee (KCZ26 ) is down -8.25 (-2.81%), and November ICE robusta coffee (RMF27 ) is down -3 (-0.09%). Coffee prices continued to fall today on concerns that Brazilian exporters will increase sales after Monday’s -9% plunge in the Brazilian real on President Luiz Inacio Lula da Silva’s surprise...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T23:07:36+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
   {
    "id": "cc8836285c73",
    "title": "Corn Holding onto Midweek Gains as Ethanol Output Improves",
@@ -115,6 +82,23 @@
    "tag_v": 2
   },
   {
+   "id": "c47b47571b29",
+   "title": "Stocks Close Higher on Dovish Tint for FOMC Results",
+   "link": "https://www.nasdaq.com/articles/stocks-close-higher-dovish-tint-fomc-results",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) rose +0.28% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +0.55%. December E-mini S&amp;P futures (ESZ26 ) rose +0.27%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:02:12+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "acfb0c03b553",
    "title": "Coffee Prices Fall to 2-week Low on Brazilian Real Weakness and Arriving Brazilian Beans",
    "link": "https://www.nasdaq.com/articles/coffee-prices-fall-2-week-low-brazilian-real-weakness-and-arriving-brazilian-beans",
@@ -139,6 +123,22 @@
    "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-28T23:02:12+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "076bcf9d5247",
+   "title": "Coffee Prices Continue to Fall on Concern About Brazilian Real Weakness",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-continue-fall-concern-about-brazilian-real-weakness",
+   "summary": "December arabica coffee (KCZ26 ) is down -8.25 (-2.81%), and November ICE robusta coffee (RMF27 ) is down -3 (-0.09%). Coffee prices continued to fall today on concerns that Brazilian exporters will increase sales after Monday’s -9% plunge in the Brazilian real on President Luiz Inacio Lula da Silva’s surprise...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:02:11+00:00",
    "tickers": [
     "ICE"
    ],
@@ -574,6 +574,20 @@
    "published": "2026-10-28T22:43:23+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8210612f7b57",
+   "title": "McGrath RentCorp Reports Third Quarter 2026 Total Revenues of $274.6 million",
+   "link": "https://www.nasdaq.com/articles/mcgrath-rentcorp-reports-third-quarter-2026-total-revenues-2746-million",
+   "summary": "McGrath RentCorp announced its financial results for the third quarter ended September 30, 2026, reporting total revenues of $274.6 million, which represents an increase of 7% compared to the third quarter of 2025. The Company reported net income of $48.8 million, or $2.00 per di",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T22:43:14+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1915,20 +1929,6 @@
    "tag_v": 2
   },
   {
-   "id": "5ede1fde5821",
-   "title": "Federal Reserve keeps rates unchanged despite elevated inflation - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
-   "summary": "Federal Reserve keeps rates unchanged despite elevated inflation&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T21:54:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "b363251ee424",
    "title": "Delivra Health Brands Reports FY2026 Financial Results | DHBUF Stock News",
    "link": "https://www.stocktitan.net/news/DHBUF/delivra-health-brands-reports-fy2026-financial-obk0qp1u02xy.html",
@@ -2128,7 +2128,7 @@
    "title": "Updated Effective Date: Huron Consulting Group Set to Join S&P SmallCap 600",
    "link": "https://www.prnewswire.com/news-releases/updated-effective-date-huron-consulting-group-set-to-join-sp-smallcap-600-302922778.html",
    "summary": "NEW YORK, Oct. 28, 2026 /PRNewswire/ -- Huron Consulting Group Inc. (NASD: HURN) will replace Supernus Pharmaceuticals Inc. (NASD: SUPN) in the S&amp;P SmallCap 600 before the opening of trading on Tuesday, November 3, instead of Monday, November 2. S&amp;P SmallCap 600 constituent Indivior...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-28T21:43:00+00:00",
@@ -3232,6 +3232,20 @@
    "tag_v": 2
   },
   {
+   "id": "940d58b68d3f",
+   "title": "Report: Peltola's campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
+   "summary": "Report: Peltola's campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T21:13:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "4c435b71a6e1",
    "title": "RFK Jr. eases access to unproven peptides despite opposition from FDA scientists - AP News",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOanQ5LWFuekk1QTdOVThIM2R2TXYxSzdXTlZpWGdDcTFLeDdNR2U0NjRSWVpxV2hRQ3FObVdnNFFwR1BTYjNhVGNTeDl5N0VfYnYxMGVSdmlpZElVYnBUU0lORzhPZDFaZHlWTmR2aDVOV1dyTUI4WFhVazdtbENGeXZ0MEN6QnRpenM3cFVDa01zUQ?oc=5",
@@ -3837,6 +3851,20 @@
    "published": "2026-10-28T21:01:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e6336e1af009",
+   "title": "Oregon needs more youth ‘respite’ homes, but funding problems stand in the way - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0E0V2QtbldicWw4dDJqZE1lemFTWXg2a21qOVNGRGhkY3JXYncwYUNCSTNpWHRVY0s0dTl5TENaZ1pxaHJvc3F0S01xS2hla2thckt0UlZSVzZDckNzdXRVdkZyMjBtTWFxTHhWSzJYMkRQZGlOVGliSnBMMlBXc1R5YUFiMjNCTS1BLVBfWUhKWXNSY2V6aU8xdGRfSDFsQktqYmxn?oc=5",
+   "summary": "Oregon needs more youth ‘respite’ homes, but funding problems stand in the way&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T21:01:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6728,6 +6756,20 @@
    "tag_v": 2
   },
   {
+   "id": "5ede1fde5821",
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
+   "summary": "Federal Reserve keeps rates unchanged despite elevated inflation&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T20:15:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "f7819cfd55da",
    "title": "Antero Midstream Announces Third Quarter 2026 Financial and Operating Results",
    "link": "https://www.prnewswire.com/news-releases/antero-midstream-announces-third-quarter-2026-financial-and-operating-results-302922627.html",
@@ -8897,48 +8939,6 @@
     "CHDN"
    ],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d7f45227b47a",
-   "title": "Tenable Announces Third Quarter 2026 Financial Results | TENB Stock News",
-   "link": "https://www.stocktitan.net/news/TENB/tenable-announces-third-quarter-2026-financial-cvsi1u66smix.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T20:05:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5f58afe83962",
-   "title": "Landmark Bancorp, Inc. Reports Third Quarter 2026 Results | LARK Stock News",
-   "link": "https://www.stocktitan.net/news/LARK/landmark-bancorp-inc-reports-third-quarter-2026-i7ujys3t0lvk.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T20:05:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "de698271dacf",
-   "title": "Latham Group, Inc. to Participate at Conferences in November and December 2026 | SWIM Stock News",
-   "link": "https://www.stocktitan.net/news/SWIM/latham-group-inc-to-participate-at-conferences-in-november-and-z2yuvbi1ab22.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T20:05:00+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   }
