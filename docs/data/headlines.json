@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-28T15:21:14.366433+00:00",
+ "generated": "2026-10-28T15:26:05.009008+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f6f3ef4485af",
+   "title": "Another European airline cancels all US flights",
+   "link": "https://www.thestreet.com/travel/another-european-airline-cancels-all-us-flights",
+   "summary": "Romanian low-cost airline HiSky Europe is suspending all transatlantic flights.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-28T15:25:06+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "d9178db1ed63",
    "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
@@ -11,10 +25,40 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-28T15:20:09+00:00",
+   "published": "2026-10-28T15:22:43+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "a7a338dfa5ab",
+   "title": "At least 68 people dead in high-speed Spain train crash",
+   "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+   "summary": "It is the second deadly high-speed train collision in Spain this year.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T15:22:37+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "76af83343536",
+   "title": "What's in Walmart's $3.50 per person \"holiday meal basket\"?",
+   "link": "https://www.cbsnews.com/news/walmart-holiday-meal-basket-deal-what-you-get/",
+   "summary": "Walmart touts its holiday dinner kit this year as offering more food for less money. Read on to see what items are included in the meal.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-10-28T15:21:46+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -77,20 +121,6 @@
    ],
    "type": "press",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a7a338dfa5ab",
-   "title": "At least 68 people dead in high-speed Spain train crash",
-   "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-   "summary": "It is the second deadly high-speed train collision in Spain this year.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T15:12:51+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -338,23 +368,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0bd3c094d3fe",
-   "title": "Stocks Rally as Crude Oil Prices Ease and FOMC Results Awaited",
-   "link": "https://www.nasdaq.com/articles/stocks-rally-crude-oil-prices-ease-and-fomc-results-awaited",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) on Tuesday rose +0.60%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +1.29%. December E-mini S&amp;P futures (ESZ26 ) rose +0.62%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T15:04:14+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -832,6 +845,20 @@
    "tag_v": 2
   },
   {
+   "id": "e0a59467f28e",
+   "title": "Soybean Bulls Trying to Battle Back on Wednesday AM Trade",
+   "link": "https://www.nasdaq.com/articles/soybean-bulls-trying-battle-back-wednesday-am-trade",
+   "summary": "Soybeans are showing 2 to 4 cent higher trade on Wednesday morning. Futures worked lower into the close with contracts down 8 ½ to 12 cents across the board on Tuesday. Open interest was down 6,473 contracts on Tuesday mainly in November (-32,496) ahead of Friday’s first notice day. The...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T14:58:34+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "c3a2f7a1fb6a",
    "title": "Is Coca-Cola a Buy After Its Latest Earnings Report?",
    "link": "https://www.nasdaq.com/articles/coca-cola-buy-after-its-latest-earnings-report",
@@ -1004,17 +1031,33 @@
    "tag_v": 2
   },
   {
-   "id": "e0a59467f28e",
-   "title": "Soybean Bulls Trying to Battle Back on Wednesday AM Trade",
-   "link": "https://www.nasdaq.com/articles/soybean-bulls-trying-battle-back-wednesday-am-trade",
-   "summary": "Soybeans are showing 2 to 4 cent higher trade on Wednesday morning. Futures worked lower into the close with contracts down 8 ½ to 12 cents across the board on Tuesday. Open interest was down 6,473 contracts on Tuesday mainly in November (-32,496) ahead of Friday’s first notice day. The...",
+   "id": "7d652fa199ba",
+   "title": "American Electric Power Reports Third-Quarter 2026 Earnings and Announces $100 billion Capital Plan",
+   "link": "https://www.nasdaq.com/articles/american-electric-power-reports-third-quarter-2026-earnings-and-announces-100-billion",
+   "summary": "American Electric Power Company, Inc. reported third-quarter 2026 GAAP earnings of $1,187 million or $2.18 per share, compared with GAAP earnings of $972 million or $1.82 per share in third-quarter 2025. Operating earnings for third-quarter 2026 were $1,216 million or $2.23 per s",
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
-   "published": "2026-10-28T14:52:33+00:00",
-   "tickers": [],
-   "type": "stocks",
+   "published": "2026-10-28T14:52:36+00:00",
+   "tickers": [
+    "AEP"
+   ],
+   "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "afede8a272d7",
+   "title": "Urban Edge Properties Reports Third Quarter 2026 Results and Raises Full-Year Guidance",
+   "link": "https://www.nasdaq.com/articles/urban-edge-properties-reports-third-quarter-2026-results-and-raises-full-year-guidance",
+   "summary": "Urban Edge Properties reported its financial results for the quarter ended September 30, 2026. Same-property NOI grew 4.5% and new lease cash spreads were 27%. FFO as Adjusted of $0.38 per share grew 6% over the prior year. Net income increased for the three months ended Septembe",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T14:52:29+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1513,6 +1556,23 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0bd3c094d3fe",
+   "title": "Stocks Rally as Crude Oil Prices Ease and FOMC Results Awaited",
+   "link": "https://www.nasdaq.com/articles/stocks-rally-crude-oil-prices-ease-and-fomc-results-awaited",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) on Tuesday rose +0.60%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +1.29%. December E-mini S&amp;P futures (ESZ26 ) rose +0.62%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T14:40:02+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -3608,6 +3668,20 @@
    "tag_v": 2
   },
   {
+   "id": "aedbdee9c689",
+   "title": "The struggling burger chain Wendy’s gets a buyout offer from activist investor Nelson Peltz - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzloNlJFcFRGdXY5azdsVm1XVm1IV0VYem1YcU5jb2VvTl9XaUxwbEJxajZ5dDZ0SUdMblR1T2RreEFKZkdKNnQwMjRiNVRpNnJuc0xsV1dEQ0E5OFdPLW1vS1BZWEwxcXRYb3VnQlhNUlV5Nk8wSmxhWUZfOWE4XzNVbm1hbzZ3RFZGRzZB?oc=5",
+   "summary": "The struggling burger chain Wendy’s gets a buyout offer from activist investor Nelson Peltz&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T13:52:00+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b3be006e5053",
    "title": "Smartpress Data Shows Adobe Creative Suite Dominates Print Design",
    "link": "https://www.prnewswire.com/news-releases/smartpress-data-shows-adobe-creative-suite-dominates-print-design-302922247.html",
@@ -4505,6 +4579,20 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1a5ee0031108",
+   "title": "At least 64 dead in high-speed train crash in central Spain - AP News",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
+   "summary": "At least 64 dead in high-speed train crash in central Spain&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T13:27:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -7283,20 +7371,6 @@
    "tag_v": 2
   },
   {
-   "id": "1a5ee0031108",
-   "title": "At least 30 dead and 80 injured in high-speed train crash in central Spain - AP News",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
-   "summary": "At least 30 dead and 80 injured in high-speed train crash in central Spain&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T12:42:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "7697abea2b05",
    "title": "Wendy’s shares surge 15% on $1.4 billion takeover bid by Nelson Peltz’s Trian Fund",
    "link": "https://www.investing.com/news/stock-market-news/wendys-shares-surge-16-on-14-billion-takeover-bid-by-nelson-peltzs-trian-fund-4978904",
@@ -8915,82 +8989,6 @@
    "published": "2026-10-28T12:17:00+00:00",
    "tickers": [],
    "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1fc07c3a3f23",
-   "title": "Top Off-Price Retail Stocks as Freight Costs Rise: BofA",
-   "link": "https://www.investing.com/news/stock-market-news/top-offprice-retail-stocks-as-freight-costs-rise-bofa-4978961",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-28T12:16:57+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "584abdbaf4d5",
-   "title": "Garmin Raises 2026 Revenue, Pro Forma EPS Guidance",
-   "link": "https://www.nasdaq.com/articles/garmin-raises-2026-revenue-pro-forma-eps-guidance",
-   "summary": "(RTTNews) - Garmin (GRMN) said, for fiscal 2026, the company now anticipates revenue of approximately $8.15 billion and pro forma EPS of $10.80. In July, the company projected revenue of approximately $8.05 billion and pro forma EPS of $10.00.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T12:15:29+00:00",
-   "tickers": [
-    "GRMN"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "ae0f0d4cd463",
-   "title": "Why is Aon stock rallying today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-aon-stock-rallying-today-93CH-4978954",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-28T12:15:12+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "020e765da533",
-   "title": "UniUni Ranked No. 1 in Canada's Enterprise--Industry Leaders Winners in Deloitte's Technology Fast 50 Program",
-   "link": "https://www.prnewswire.com/news-releases/uniuni-ranked-no-1-in-canadas-enterpriseindustry-leaders-winners-in-deloittes-technology-fast-50-program-302921528.html",
-   "summary": "VANCOUVER, BC, Oct. 28, 2026 /PRNewswire/ -- UniUni was honoured as an Enterprise—Industry Leaders award winner as part of the 2026 Technology Fast 50™ program, ranking No. 1 in the category with growth of 2,143% over four years. UniUni CEO Peter Lu credits the company's asset-light...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T12:15:00+00:00",
-   "tickers": [
-    "BC"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "80d55e420605",
-   "title": "AGCO Names Georgia Educator Ben Brand Inaugural Ag Mechanics Teacher of the Year",
-   "link": "https://www.prnewswire.com/news-releases/agco-names-georgia-educator-ben-brand-inaugural-ag-mechanics-teacher-of-the-year-302921458.html",
-   "summary": "The new AGCO-sponsored award recognizes educators who prepare students for careers in agricultural mechanics and technology. News at a Glance Ben Brand of Social Circle High School in Georgia is the inaugural recipient of AGCO's Agricultural Mechanics Teacher of the Year award. The new...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T12:15:00+00:00",
-   "tickers": [
-    "AGCO"
-   ],
-   "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
   }
