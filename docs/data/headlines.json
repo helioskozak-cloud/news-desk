@@ -1,8 +1,82 @@
 {
- "generated": "2026-10-28T02:16:34.908198+00:00",
+ "generated": "2026-10-28T02:21:30.213364+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ee25b2f2eca8",
+   "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+   "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+   "summary": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T02:15:55+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "20f77df19b6a",
+   "title": "Nearly 90% of businesses are turning to tokenised money, DBS survey shows",
+   "link": "https://www.investing.com/news/stock-market-news/nearly-90-of-businesses-are-turning-to-tokenised-money-dbs-survey-shows-4977384",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-28T02:12:56+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c84debaa5284",
+   "title": "US closes $5.1 billion loan to Alliant Energy for new gas power generation, energy storage",
+   "link": "https://www.investing.com/news/stock-market-news/us-closes-51-billion-loan-to-alliant-energy-for-new-gas-power-generation-energy-storage-4977383",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-28T02:12:43+00:00",
+   "tickers": [
+    "LNT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b3a7cece9ecd",
+   "title": "OpenAI plans to buy Google’s AI chips, The Information reports",
+   "link": "https://www.investing.com/news/stock-market-news/openai-plans-to-buy-googles-ai-chips-the-information-reports-4977342",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-28T02:12:26+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e9e8a3498250",
+   "title": "Stifel’s surprise gaming pick leads a sector bracing for a choppy earnings season",
+   "link": "https://www.investing.com/news/stock-market-news/stifels-surprise-gaming-pick-leads-a-sector-bracing-for-a-choppy-earnings-season-4977382",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-28T02:09:18+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "0571f08c1636",
    "title": "Dollar Posts 1.5-week High on Expectations for Hawkish FOMC Commentary",
@@ -14,6 +88,54 @@
    "published": "2026-10-28T02:09:10+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d9e6270e69c3",
+   "title": "Australia Q3 inflation quickens, bolstering RBA rate hike case",
+   "link": "https://www.investing.com/news/economic-indicators/australia-q3-inflation-quickens-bolstering-rba-rate-hike-case-4977312",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-28T02:02:55+00:00",
+   "tickers": [
+    "RBA"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "8315fe12811f",
+   "title": "Maplebear CEO Chris Rogers sells $1.48M in common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/maplebear-ceo-chris-rogers-sells-148m-in-common-stock-93CH-4977379",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-28T02:01:15+00:00",
+   "tickers": [
+    "CART"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4378296daa79",
+   "title": "Symbotic CSO Boyd III sells $357,026 in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/symbotic-cso-boyd-iii-sells-357026-in-company-stock-93CH-4977378",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-28T02:01:07+00:00",
+   "tickers": [
+    "SYM"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -133,6 +255,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ad9d5b7e3208",
+   "title": "Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns",
+   "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-after-attack-on-saudi-arabian-refinery-reignites-supply-concerns-4977369",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-28T01:54:38+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -366,22 +502,6 @@
    "published": "2026-10-28T01:33:36+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b3a7cece9ecd",
-   "title": "OpenAI plans to buy Google’s AI chips, The Information reports",
-   "link": "https://www.investing.com/news/stock-market-news/openai-plans-to-buy-googles-ai-chips-the-information-reports-4977342",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-28T01:30:22+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1100,22 +1220,6 @@
    "domain": "investing.com",
    "published": "2026-10-28T00:52:56+00:00",
    "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "d9e6270e69c3",
-   "title": "Australia Q3 inflation quickens, bolstering RBA rate hike case",
-   "link": "https://www.investing.com/news/economic-indicators/australia-q3-inflation-quickens-bolstering-rba-rate-hike-case-4977312",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-28T00:51:41+00:00",
-   "tickers": [
-    "RBA"
-   ],
    "type": "earnings",
    "sentiment": "positive",
    "tag_v": 2
@@ -2224,20 +2328,6 @@
    ],
    "type": "markets",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "308f8b549ff7",
-   "title": "Israeli election has no clear winner, exit polls suggest. Here's what to know and what's likely next - AP News",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkNIdDBFN3czS0Vrc29VYkItdTdmX29IM2NIbU1aRVFsUW80Y1JsTTlEUXRqODZ6N1dEakJ3SXhja3JneWNodFFpNHV3UkV1RVNHcVhTU3ZXVU5hQ25ySXc1ZFhxcTJjRG1kdlgzdE9ldHQwQ3VqTUZ6anhuUmJ4R2JNTGlYeG1wbV9Ca3MxV18zTkNHdHRFTmRSdGZmNlJ2WUZfVVFpX2JmRlI0dGNfaXNHSUU?oc=5",
-   "summary": "Israeli election has no clear winner, exit polls suggest. Here's what to know and what's likely next&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-27T23:43:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8830,95 +8920,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "54ff6a30a015",
-   "title": "Illumina To Webcast Upcoming Investor Conference",
-   "link": "https://www.prnewswire.com/news-releases/illumina-to-webcast-upcoming-investor-conference-302921248.html",
-   "summary": "SAN DIEGO, Oct. 27, 2026 /PRNewswire/ -- Illumina, Inc. (NASDAQ: ILMN) today announced that members of its management team will participate at the following investor conference: Upcoming Investor Conference Jefferies Global Healthcare Conference on November 17, 2026 The fireside chat is...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T20:15:00+00:00",
-   "tickers": [
-    "ILMN",
-    "JEF"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "bf4d7a3de613",
-   "title": "Illumina To Webcast Upcoming Investor Conference | ILMN Stock News",
-   "link": "https://www.stocktitan.net/news/ILMN/illumina-to-webcast-upcoming-investor-wudzqk5z65ky.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-27T20:15:00+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7d8d6768a582",
-   "title": "Artisan Partners Asset Management Inc. Reports 3Q26 Results and Quarterly Dividend | APAM Stock News",
-   "link": "https://www.stocktitan.net/news/APAM/artisan-partners-asset-management-inc-reports-3q26-results-and-q3pr2j0xvpja.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-27T20:15:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4738ce086e9d",
-   "title": "First Financial Bancorp Announces Record Third Quarter Financial Results and Quarterly Dividend | FFBC Stock News",
-   "link": "https://www.stocktitan.net/news/FFBC/first-financial-bancorp-announces-record-third-quarter-financial-9mal5alz7cu4.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-27T20:15:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0b32f261b7d9",
-   "title": "Record International Drilling Margin. $75 Million in Adjusted Free Cash Flow. Nabors Reports Third Quarter 2026 Results. | NBR Stock News",
-   "link": "https://www.stocktitan.net/news/NBR/record-international-drilling-margin-75-million-in-adjusted-free-8rza7vfjc61o.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-27T20:15:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2460daebaccf",
-   "title": "Banc of California, Inc. Reports Third Quarter Diluted Earnings per Share of $0.46, Up 21% Year Over Year | BANC Stock News",
-   "link": "https://www.stocktitan.net/news/BANC/banc-of-california-inc-reports-third-quarter-diluted-earnings-per-94xhpgckgs0d.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-27T20:15:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8991,6 +8992,7 @@
   "STAG": "STAG Industrial",
   "ENPH": "Enphase Energy",
   "KMB": "Kimberly-Clark",
+  "LNT": "Alliant Energy",
   "META": "Meta Platforms",
   "PLNT": "Planet Fitness",
   "PPG": "PPG Industries",
@@ -9028,6 +9030,7 @@
   "SPGI": "S&P Global",
   "MSFT": "Office 365",
   "BAP": "Credicorp",
+  "CART": "Maplebear",
   "CLS": "Celestica",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
@@ -9038,8 +9041,8 @@
   "CCL": "Carnival",
   "DUOL": "Duolingo",
   "GOOG": "Alphabet",
-  "ILMN": "Illumina",
   "PLD": "Prologis",
+  "SYM": "Symbotic",
   "TER": "Teradyne",
   "VRSN": "VeriSign",
   "CMCSA": "Comcast",
