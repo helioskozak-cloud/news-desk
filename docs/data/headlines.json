@@ -1,8 +1,40 @@
 {
- "generated": "2026-10-28T20:56:31.920116+00:00",
+ "generated": "2026-10-28T20:59:58.657040+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c310f9451d23",
+   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+   "summary": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T20:58:31+00:00",
+   "tickers": [
+    "DASH"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aedecf509a8f",
+   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+   "summary": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T20:57:21+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "39d0062eecb5",
    "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
@@ -11,10 +43,42 @@
    "source": "CNBC Economy",
    "category": "macro",
    "domain": "cnbc.com",
-   "published": "2026-10-28T20:55:22+00:00",
+   "published": "2026-10-28T20:57:20+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "52403b145308",
+   "title": "Cenovus to hold third-quarter 2026 conference call and webcast on November 4 | CVE Stock News",
+   "link": "https://www.stocktitan.net/news/CVE/cenovus-to-hold-third-quarter-2026-conference-call-and-webcast-on-bn0e8fost3qw.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-28T20:57:00+00:00",
+   "tickers": [
+    "CVE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0bf5537ff994",
+   "title": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
+   "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+   "summary": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T20:55:46+00:00",
+   "tickers": [
+    "GOOG"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -22,7 +86,7 @@
    "title": "Markel Group reports 2026 third quarter and nine-months results",
    "link": "https://www.prnewswire.com/news-releases/markel-group-reports-2026-third-quarter-and-nine-months-results-302922739.html",
    "summary": "RICHMOND, Va., Oct. 28, 2026 /PRNewswire/ -- Markel Group Inc. (NYSE: MKL) today reported its financial results for the third quarter of 2026. The Company also announced today it filed its Form 10-Q for the quarter ended September 30, 2026 with the Securities and Exchange Commission. \"We...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-28T20:55:00+00:00",
@@ -30,22 +94,6 @@
     "MKL"
    ],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c310f9451d23",
-   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-   "summary": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T20:54:17+00:00",
-   "tickers": [
-    "DASH"
-   ],
-   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -80,22 +128,6 @@
    "tag_v": 2
   },
   {
-   "id": "0bf5537ff994",
-   "title": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
-   "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-   "summary": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T20:53:41+00:00",
-   "tickers": [
-    "GOOG"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "35b0e3dd1047",
    "title": "MISTRAS Group, Inc. Announces Expiration of “Go-Shop” Period | MG Stock News",
    "link": "https://www.stocktitan.net/news/MG/mistras-group-inc-announces-expiration-of-go-shop-q3hblq11jkbg.html",
@@ -123,22 +155,6 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "aedecf509a8f",
-   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-   "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-   "summary": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T20:48:34+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -885,6 +901,38 @@
    "tag_v": 2
   },
   {
+   "id": "acfb0c03b553",
+   "title": "Coffee Prices Fall to 2-week Low on Brazilian Real Weakness and Arriving Brazilian Beans",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-2-week-low-brazilian-real-weakness-and-arriving-brazilian-beans",
+   "summary": "December arabica coffee (KCZ26 ) closed down -7.00 (-2.38%) on Wednesday, and January ICE robusta coffee (RMF27 ) closed down -21 (-0.65%). NY arabica coffee fell to a 2-week low on Wednesday on fears that Brazilian exporters will increase sales after Monday’s -9% plunge in the Brazilian real following President...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T20:32:40+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e6d52ddb9d4b",
+   "title": "Sugar Prices Rise on Report of Reduced Brazilian Sugar Milling",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-report-reduced-brazilian-sugar-milling-0",
+   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.14 (+0.73%) on Wednesday, and December London ICE white sugar #5 (SWZ26 ) closed up +6.50 (+1.25%). Sugar prices saw support after S&amp;P Global Energy reported Wednesday that millers in Brazil’s Center-South region produced only 2 MMT of sugar in the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T20:32:40+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "0d7e976ead4b",
    "title": "Dollar Posts 2-week High on Expectations for Hawkish FOMC Commentary",
    "link": "https://www.nasdaq.com/articles/dollar-posts-2-week-high-expectations-hawkish-fomc-commentary",
@@ -896,6 +944,68 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cc8836285c73",
+   "title": "Corn Holding onto Midweek Gains as Ethanol Output Improves",
+   "link": "https://www.nasdaq.com/articles/corn-holding-midweek-gains-ethanol-output-improves",
+   "summary": "Corn futures are fractionally to 3 cents higher across the front months on Wednesday. The CmdtyView national average Cash Corn price is down 3 1/4 cents at $4.14 3/4. The average close for December corn futures in October has been $4.79, as there are just 3 days left for the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T20:32:39+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "876f9bdd68a0",
+   "title": "Sugar Prices Rise on Report of Reduced Brazilian Sugar Milling",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-report-reduced-brazilian-sugar-milling",
+   "summary": "March NY world sugar #11 (SBH27 ) is up +0.16 (+0.83%), and December London ICE white sugar #5 (SWZ26 ) is up +6.40 (+1.23%). Sugar prices saw support today after S&amp;P Global Energy reported that millers in Brazil’s Center-South region produced 2 MMT of sugar in the first half of...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T20:32:39+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "076bcf9d5247",
+   "title": "Coffee Prices Continue to Fall on Concern About Brazilian Real Weakness",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-continue-fall-concern-about-brazilian-real-weakness",
+   "summary": "December arabica coffee (KCZ26 ) is down -8.25 (-2.81%), and November ICE robusta coffee (RMF27 ) is down -3 (-0.09%). Coffee prices continued to fall today on concerns that Brazilian exporters will increase sales after Monday’s -9% plunge in the Brazilian real on President Luiz Inacio Lula da Silva’s surprise...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T20:32:39+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "58075a7576a9",
+   "title": "Hog Losses Continue, as Cash Weakness Persists",
+   "link": "https://www.nasdaq.com/articles/hog-losses-continue-cash-weakness-persists",
+   "summary": "Lean hog futures are mixed, as midday, as December is down $2.32 and chasing cash lower. February is down 35 cents with some deferreds lower. USDA’s national base hog price was reported at $55.82 in the Wednesday AM report, down $6 from the day prior. The CME Lean Hog Index...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T20:32:39+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1714,68 +1824,6 @@
    "tag_v": 2
   },
   {
-   "id": "acfb0c03b553",
-   "title": "Coffee Prices Fall to 2-week Low on Brazilian Real Weakness and Arriving Brazilian Beans",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-2-week-low-brazilian-real-weakness-and-arriving-brazilian-beans",
-   "summary": "December arabica coffee (KCZ26 ) closed down -7.00 (-2.38%) on Wednesday, and January ICE robusta coffee (RMF27 ) closed down -21 (-0.65%). NY arabica coffee fell to a 2-week low on Wednesday on fears that Brazilian exporters will increase sales after Monday’s -9% plunge in the Brazilian real following President...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T20:27:02+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e6d52ddb9d4b",
-   "title": "Sugar Prices Rise on Report of Reduced Brazilian Sugar Milling",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-report-reduced-brazilian-sugar-milling-0",
-   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.14 (+0.73%) on Wednesday, and December London ICE white sugar #5 (SWZ26 ) closed up +6.50 (+1.25%). Sugar prices saw support after S&amp;P Global Energy reported Wednesday that millers in Brazil’s Center-South region produced only 2 MMT of sugar in the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T20:27:02+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cc8836285c73",
-   "title": "Corn Holding onto Midweek Gains as Ethanol Output Improves",
-   "link": "https://www.nasdaq.com/articles/corn-holding-midweek-gains-ethanol-output-improves",
-   "summary": "Corn futures are fractionally to 3 cents higher across the front months on Wednesday. The CmdtyView national average Cash Corn price is down 3 1/4 cents at $4.14 3/4. The average close for December corn futures in October has been $4.79, as there are just 3 days left for the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T20:27:02+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "876f9bdd68a0",
-   "title": "Sugar Prices Rise on Report of Reduced Brazilian Sugar Milling",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-report-reduced-brazilian-sugar-milling",
-   "summary": "March NY world sugar #11 (SBH27 ) is up +0.16 (+0.83%), and December London ICE white sugar #5 (SWZ26 ) is up +6.40 (+1.23%). Sugar prices saw support today after S&amp;P Global Energy reported that millers in Brazil’s Center-South region produced 2 MMT of sugar in the first half of...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T20:27:02+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "c6612613db3e",
    "title": "Cocoa Falls on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
    "link": "https://www.nasdaq.com/articles/cocoa-falls-rising-ice-inventories-and-potential-brazilian-cocoa-sales-0",
@@ -1784,22 +1832,6 @@
    "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-28T20:27:02+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "076bcf9d5247",
-   "title": "Coffee Prices Continue to Fall on Concern About Brazilian Real Weakness",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-continue-fall-concern-about-brazilian-real-weakness",
-   "summary": "December arabica coffee (KCZ26 ) is down -8.25 (-2.81%), and November ICE robusta coffee (RMF27 ) is down -3 (-0.09%). Coffee prices continued to fall today on concerns that Brazilian exporters will increase sales after Monday’s -9% plunge in the Brazilian real on President Luiz Inacio Lula da Silva’s surprise...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T20:27:01+00:00",
    "tickers": [
     "ICE"
    ],
@@ -3882,22 +3914,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "58075a7576a9",
-   "title": "Hog Losses Continue, as Cash Weakness Persists",
-   "link": "https://www.nasdaq.com/articles/hog-losses-continue-cash-weakness-persists",
-   "summary": "Lean hog futures are mixed, as midday, as December is down $2.32 and chasing cash lower. February is down 35 cents with some deferreds lower. USDA’s national base hog price was reported at $55.82 in the Wednesday AM report, down $6 from the day prior. The CME Lean Hog Index...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T20:09:10+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -7882,6 +7898,20 @@
    "tag_v": 2
   },
   {
+   "id": "c3c621197c3d",
+   "title": "Dolores Huerta’s death sparks an outpouring from allies and admirers - AP News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONXlXUjd2MXdEQlV0MGJTbWVsMnRZeTBKNHJTTmlnbmZMN3FWYVlvVUI0a2x6SEZRTWtQYkljcEFwM1pianR1V1c3NGdCWmVtdFJYRjVUanNHdElmbWc4VGpiTUY1VkpTRThkNFFkZnJmMDJrMzZiazI1b0pMSkotbmpjUVBKRU9xMUN5SVNNaHRaV3Z5TnFyU3BmemEyZw?oc=5",
+   "summary": "Dolores Huerta’s death sparks an outpouring from allies and admirers&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T18:46:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "d15ae6c6502c",
    "title": "Dynacor at Planet MicroCap Showcase: Toronto 2026: growth tests and new markets",
    "link": "https://www.investing.com/news/transcripts/dynacor-at-planet-microcap-showcase-toronto-2026-growth-tests-and-new-markets-93CH-4980463",
@@ -8924,38 +8954,6 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "fdebe74f84ec",
-   "title": "Inventus Power Launches the LV-24V50, a Compact 24V Lithium-ion Battery for Next-Generation Robotics and Material Handling",
-   "link": "https://www.prnewswire.com/news-releases/inventus-power-launches-the-lv-24v50-a-compact-24v-lithium-ion-battery-for-next-generation-robotics-and-material-handling-302922426.html",
-   "summary": "The newest PROformance Li-ion Series battery delivers 1.2 kWh in a footprint sized for AMR and AGV chassis. WOODRIDGE, Ill., Oct. 28, 2026 /PRNewswire/ -- Inventus Power (inventuspower.com), a global leader in advanced battery and power systems, today announced the launch of its LV-24V50,...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T18:06:00+00:00",
-   "tickers": [
-    "AMR"
-   ],
-   "type": "press",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "000ece38c4e8",
-   "title": "Lam Research and Applied Matls among market cap stock movers on Wednesday",
-   "link": "https://www.investing.com/news/stock-market-news/lam-research-and-applied-matls-among-market-cap-stock-movers-on-wednesday-93CH-4980409",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-28T18:05:49+00:00",
-   "tickers": [
-    "LRCX"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8964,7 +8962,6 @@
   "IFF": "International Flavors & Fragrances",
   "UNG": "United States Natural Gas Fund LP",
   "IBM": "International Business Machines",
-  "AMR": "Alpha Metallurgical Resources",
   "AXS": "AXIS Capital Holdings Limited",
   "HII": "Huntington Ingalls Industries",
   "QQQ": "Invesco QQQ Trust, Series 1",
@@ -9024,6 +9021,7 @@
   "VICI": "VICI Properties",
   "VIK": "Viking Holdings",
   "VRT": "Vertiv Holdings",
+  "CVE": "Cenovus Energy",
   "ENPH": "Enphase Energy",
   "FLNC": "Fluence Energy",
   "GLXY": "Galaxy Digital",
@@ -9040,7 +9038,6 @@
   "TOL": "Toll Brothers",
   "ACMR": "ACM Research",
   "IREN": "IREN Limited",
-  "LRCX": "Lam Research",
   "MKL": "Markel Group",
   "STT": "State Street",
   "GOOGL": "Google Cloud",
