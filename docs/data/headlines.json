@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T18:21:04.557705+00:00",
+ "generated": "2026-10-28T18:26:01.702012+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,7 +11,21 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-28T18:19:58+00:00",
+   "published": "2026-10-28T18:25:11+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b0a4ebb06d97",
+   "title": "S&P 500 remains higher as Fed leaves rates steady: Live updates",
+   "link": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
+   "summary": "The S&amp;P 500 rose on Wednesday as investors reacted to the Federal Reserve's latest interest rate decision.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T18:24:34+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -25,23 +39,57 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-28T18:19:26+00:00",
+   "published": "2026-10-28T18:24:29+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
   {
-   "id": "b0a4ebb06d97",
-   "title": "S&P 500 remains higher as Fed leaves rates steady: Live updates",
-   "link": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
-   "summary": "The S&amp;P 500 rose on Wednesday as investors reacted to the Federal Reserve's latest interest rate decision.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T18:19:01+00:00",
-   "tickers": [],
-   "type": "macro",
+   "id": "3ee3bf9d38d6",
+   "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Rocklin, California | TOL Stock News",
+   "link": "https://www.stocktitan.net/news/TOL/toll-brothers-announces-new-luxury-home-community-coming-soon-to-gbsogwph9q35.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-28T18:24:00+00:00",
+   "tickers": [
+    "TOL"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f373f3347960",
+   "title": "Oracle Investor Day 2026: Accelerating Value Creation",
+   "link": "https://www.prnewswire.com/news-releases/oracle-investor-day-2026-accelerating-value-creation-302922564.html",
+   "summary": "Set long-term outlook for FY30 of $225 billion+ in total revenue, representing more than 35% CAGR from FY26, non-GAAP operating margin of 40%+ and non-GAAP EPS $21+. Defined timeline to positive free cash flow during the second half of FY28 and set free cash flow target of $30 billion+...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-28T18:21:00+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4b5cff5be4a1",
+   "title": "Oracle Investor Day 2026: Accelerating Value Creation | ORCL Stock News",
+   "link": "https://www.stocktitan.net/news/ORCL/oracle-investor-day-2026-accelerating-value-josi685spepl.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-28T18:21:00+00:00",
+   "tickers": [
+    "ORCL"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -131,6 +179,51 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "20e40e367d61",
+   "title": "Stocks Mixed as FOMC Results Are Awaited",
+   "link": "https://www.nasdaq.com/articles/stocks-mixed-fomc-results-are-awaited-0",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.11%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.07%. December E-mini S&amp;P futures (ESZ26 ) are up +0.05%, and December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T18:04:52+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9071824d53d1",
+   "title": "Cotton Bouncing Back on Wednesday Morning",
+   "link": "https://www.nasdaq.com/articles/cotton-bouncing-back-wednesday-morning",
+   "summary": "Cotton prices are back up 34 to 48 points early on Wednesday. Futures closed the Tuesday session with contracts down 79 to 112 points across the board. Crude oil is down $1.56 per barrel on the session, with the US dollar index $0.410 higher. Crop Progress data tallied 89% of...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T18:04:52+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0d7e976ead4b",
+   "title": "Dollar Posts 2-week High on Expectations for Hawkish FOMC Commentary",
+   "link": "https://www.nasdaq.com/articles/dollar-posts-2-week-high-expectations-hawkish-fomc-commentary",
+   "summary": "The dollar index (DXY00 ) is up +0.09% and posted a new 2-week high. The dollar is seeing support from today’s +2.5 bp rise in the 10-year T-note yield, which supported the dollar’s interest rate differentials. The dollar also has support ahead of this afternoon’s FOMC meeting results, amid expectations...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T18:04:52+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -240,12 +333,12 @@
    "title": "See Which Recent 13F Filers Hold PM",
    "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-pm-0",
    "summary": "At Holdings Channel, we have reviewed the latest batch of the 53 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Philip Morris International Inc (Symbol: PM) was held by 27 of these funds. When hedge fund managers appear to be thinking alike, we fin",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-28T18:01:02+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -314,8 +407,8 @@
    "title": "Reminder: North American Financial's Preferred Shares Goes Ex-Dividend Soon",
    "link": "https://www.nasdaq.com/articles/reminder-north-american-financials-preferred-shares-goes-ex-dividend-soon",
    "summary": "On 10/30/26, North American Financial 15 Split Corp's Preferred Shares (TSX: FFN-PRA.TO) will trade ex-dividend, for its monthly dividend of $0.0625, payable on 11/10/26. As a percentage of FFN.PRA's recent share price of $10.86, this dividend works out to approximately 0.58%,",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-28T17:59:53+00:00",
    "tickers": [],
@@ -324,12 +417,56 @@
    "tag_v": 2
   },
   {
+   "id": "b0dd29c09a10",
+   "title": "PolyPid Ltd. Introduces PD01B and Outlines D-PLEX₁₀₀ Milestones",
+   "link": "https://www.nasdaq.com/articles/polypid-ltd-introduces-pd01b-and-outlines-d-plex100-milestones",
+   "summary": "PolyPid Ltd. unveiled its expanded pipeline strategy, introducing PD01B, a new product candidate targeting hyper-localized, controlled-release antibiotic treatment of diabetic foot infections. Based on the Company's proprietary Kynatrix technology, PD01B combines doxycycline with",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T17:59:21+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "09d1330bfd15",
+   "title": "ProQR Therapeutics N.V. to Present Clinical and Preclinical Progress from AX-0810 and AX-0811 at Upcoming Conferences",
+   "link": "https://www.nasdaq.com/articles/proqr-therapeutics-nv-present-clinical-and-preclinical-progress-ax-0810-and-ax-0811",
+   "summary": "ProQR Therapeutics N.V. announced upcoming presentations highlighting clinical and preclinical progress with AX-0810 and AX-0811 and the broader Axiomer RNA editing platform at TIDES Europe, The Liver Meeting 2026, and Nature Conferences RNA at the Bench and Bedside V. Gerard Pla",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T17:59:13+00:00",
+   "tickers": [
+    "RNA"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3aa7a9b9ec58",
+   "title": "Benitec Biopharma Inc. Announces Positive Interim Phase 1b/2a Results for High Dose BB-301",
+   "link": "https://www.nasdaq.com/articles/benitec-biopharma-inc-announces-positive-interim-phase-1b-2a-results-high-dose-bb-301",
+   "summary": "Benitec Biopharma Inc. announced positive interim clinical results from its ongoing BB-301 Phase 1b/2a first-in-human study (NCT06185673) for patients treated with high dose BB-301 and continued durable improvements for patients treated with the low dose of BB-301. The study eval",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T17:59:12+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "471f5af50cbd",
    "title": "Notable Wednesday Option Activity: XYL, BSX, GNRC",
    "link": "https://www.nasdaq.com/articles/notable-wednesday-option-activity-xyl-bsx-gnrc",
    "summary": "Looking at options trading activity among components of the S&amp;P 500 index, there is noteworthy activity today in Xylem Inc (Symbol: XYL), where a total volume of 13,576 contracts has been traded thus far today, a contract volume which is representative of approximately 1.4 m",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-28T17:58:58+00:00",
    "tickers": [
@@ -337,7 +474,7 @@
     "BSX",
     "GNRC"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -346,14 +483,14 @@
    "title": "Ex-Div Reminder for Rithm Capital's Series D Preferred Stock",
    "link": "https://www.nasdaq.com/articles/ex-div-reminder-rithm-capitals-series-d-preferred-stock",
    "summary": "On 10/30/26, Rithm Capital Corp's Reset Rate Series D Cumulative Preferred Stock (Symbol: RITM.PRD) will trade ex-dividend, for its quarterly dividend of $0.4375, payable on 11/16/26. As a percentage of RITM.PRD's recent share price of $25.46, this dividend works out to approxi",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-28T17:58:55+00:00",
    "tickers": [
     "RITM"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -410,8 +547,8 @@
    "title": "Reminder: Commerce Split's Priority Equity Shares Goes Ex-Dividend Soon",
    "link": "https://www.nasdaq.com/articles/reminder-commerce-splits-priority-equity-shares-goes-ex-dividend-soon",
    "summary": "On 10/30/26, Commerce Split Corp Capital Shares's Priority Equity Shares (TSX: YCM-PRA.TO) will trade ex-dividend, for its monthly dividend of $0.025, payable on 11/10/26. As a percentage of YCM.PRA's recent share price of $5.25, this dividend works out to approximately 0.48%.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-28T17:58:12+00:00",
    "tickers": [],
@@ -424,8 +561,8 @@
    "title": "Reminder: First Merchants' Preferred Stock, Series B Goes Ex-Dividend Soon",
    "link": "https://www.nasdaq.com/articles/reminder-first-merchants-preferred-stock-series-b-goes-ex-dividend-soon",
    "summary": "On 10/30/26, First Merchants Corp's 7.50% Depositary Shares, Non-Cumulative Preferred Stock, Series B (Symbol: FRMEP) will trade ex-dividend, for its quarterly dividend of $0.4688, payable on 11/16/26. As a percentage of FRMEP's recent share price of $25.30, this dividend works",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-28T17:58:10+00:00",
    "tickers": [],
@@ -452,8 +589,8 @@
    "title": "Reminder: Brompton Lifeco Split's Preferred Shares Goes Ex-Dividend Soon",
    "link": "https://www.nasdaq.com/articles/reminder-brompton-lifeco-splits-preferred-shares-goes-ex-dividend-soon",
    "summary": "On 10/30/26, Brompton Lifeco Split Corp Class A's Preferred Shares (TSX: LCS-PRA.TO) will trade ex-dividend, for its quarterly dividend of $0.175, payable on 11/9/26. As a percentage of LCS.PRA's recent share price of $10.85, this dividend works out to approximately 1.61%, so l",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-28T17:57:44+00:00",
    "tickers": [],
@@ -539,37 +676,6 @@
    ],
    "type": "earnings",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "20e40e367d61",
-   "title": "Stocks Mixed as FOMC Results Are Awaited",
-   "link": "https://www.nasdaq.com/articles/stocks-mixed-fomc-results-are-awaited-0",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.11%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.07%. December E-mini S&amp;P futures (ESZ26 ) are up +0.05%, and December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T17:53:56+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9071824d53d1",
-   "title": "Cotton Bouncing Back on Wednesday Morning",
-   "link": "https://www.nasdaq.com/articles/cotton-bouncing-back-wednesday-morning",
-   "summary": "Cotton prices are back up 34 to 48 points early on Wednesday. Futures closed the Tuesday session with contracts down 79 to 112 points across the board. Crude oil is down $1.56 per barrel on the session, with the US dollar index $0.410 higher. Crop Progress data tallied 89% of...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T17:53:56+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3160,20 +3266,6 @@
    "tag_v": 2
   },
   {
-   "id": "30d13d47286e",
-   "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
-   "summary": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T16:44:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "34f4abcd2d55",
    "title": "Robinhood earnings analysis: questions answered and next catalysts",
    "link": "https://www.investing.com/news/stock-market-news/robinhood-earnings-analysis-questions-answered-and-next-catalysts-93CH-4980285",
@@ -3468,20 +3560,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5ede1fde5821",
-   "title": "Federal Reserve likely to skip rate hike despite elevated inflation - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
-   "summary": "Federal Reserve likely to skip rate hike despite elevated inflation&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T16:34:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -3941,20 +4019,6 @@
    "published": "2026-10-28T16:22:11+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0d7e976ead4b",
-   "title": "Dollar Posts 2-week High on Expectations for Hawkish FOMC Commentary",
-   "link": "https://www.nasdaq.com/articles/dollar-posts-2-week-high-expectations-hawkish-fomc-commentary",
-   "summary": "The dollar index (DXY00 ) is up +0.09% and posted a new 2-week high. The dollar is seeing support from today’s +2.5 bp rise in the 10-year T-note yield, which supported the dollar’s interest rate differentials. The dollar also has support ahead of this afternoon’s FOMC meeting results, amid expectations...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T16:21:40+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6027,6 +6091,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "30d13d47286e",
+   "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
+   "summary": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T15:29:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8904,84 +8982,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "a8d770b0ede2",
-   "title": "Hog Selling Continues at Cash and Cutout Remain Weak",
-   "link": "https://www.nasdaq.com/articles/hog-selling-continues-cash-and-cutout-remain-weak",
-   "summary": "Lean hog futures posted losses of $1.92 to $2.65 on the Tuesday session. New short interest was piling in, with open interest rising 6,721 contracts. USDA’s national base hog price was reported at $57.94 in the Tuesday afternoon report, down $1.52 from the day prior. The CME Lean Hog Index...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T14:16:52+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "5fa0d81d7d92",
-   "title": "Apple forms double top near ATH with MACD divergence: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/apple-pulls-back-in-ascending-channel-near-ath-live-levels-93CH-4973060",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-28T14:16:48+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "e0bd184e3c28",
-   "title": "Ares Capital Q3 Earnings: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/ares-capital-q3-earnings-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsAres Capital agreed to acquire MidCap Financial Investment Corporation.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T14:15:01+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a462a8bc6170",
-   "title": "Wurl's Latest CTV Trends Report Reveals Significant Gaps in Streaming TV Content Transparency | APP Stock News",
-   "link": "https://www.stocktitan.net/news/APP/wurl-s-latest-ctv-trends-report-reveals-significant-gaps-in-9462e4qt9g1f.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T14:15:00+00:00",
-   "tickers": [
-    "APP"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2f266b34a63e",
-   "title": "Advanced Drainage Systems Introduces AquaLux™, a High-Performance Stormwater Filtration System | WMS Stock News",
-   "link": "https://www.stocktitan.net/news/WMS/advanced-drainage-systems-introduces-aqua-lux-tm-a-high-performance-5m63jfwz1bge.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T14:15:00+00:00",
-   "tickers": [
-    "WMS"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9009,7 +9009,6 @@
   "ICE": "Intercontinental Exchange",
   "UHS": "Universal Health Services",
   "WFRD": "Weatherford International",
-  "WMS": "Advanced Drainage Systems",
   "FAF": "First American Financial",
   "SITE": "SiteOne Landscape Supply",
   "AEP": "American Electric Power",
@@ -9041,6 +9040,7 @@
   "IP": "International Paper",
   "MIR": "Mirion Technologies",
   "NXST": "Nexstar Media Group",
+  "RNA": "Avidity Biosciences",
   "VSNT": "Versant Media Group",
   "ARKK": "ARK Innovation ETF",
   "BRK-A": "Berkshire Hathaway",
@@ -9093,6 +9093,7 @@
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "RITM": "Rithm Capital",
+  "TOL": "Toll Brothers",
   "UMBF": "UMB Financial",
   "WFC": "Wells Fargo &",
   "BKR": "Baker Hughes",
@@ -9128,14 +9129,12 @@
   "MSFT": "Office 365",
   "QCOM": "Snapdragon",
   "CLS": "Celestica",
-  "CME": "CME Group",
   "FRO": "Frontline",
   "OS": "OneStream",
   "SNX": "TD SYNNEX",
   "TE": "T1 Energy",
   "ADSK": "Autodesk",
   "APH": "Amphenol",
-  "APP": "AppLovin",
   "COHR": "Coherent",
   "DASH": "DoorDash",
   "DOCS": "Doximity",
