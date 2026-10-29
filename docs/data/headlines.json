@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T22:31:32.837853+00:00",
+ "generated": "2026-10-29T22:36:32.648572+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,7 +11,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-29T22:30:11+00:00",
+   "published": "2026-10-29T22:31:36+00:00",
    "tickers": [
     "AMZN",
     "INTC"
@@ -41,7 +41,7 @@
    "title": "BMO Closes Sale of Transportation and Vendor Finance Businesses",
    "link": "https://www.prnewswire.com/news-releases/bmo-closes-sale-of-transportation-and-vendor-finance-businesses-302924335.html",
    "summary": "TORONTO and CHICAGO, Oct. 29, 2026 /PRNewswire/ -- BMO Financial Group (TSX: BMO) (NYSE: BMO) today announced it has closed the previously announced sale of its Transportation Finance and Vendor Finance businesses to Stonepeak. At closing, BMO transferred approximately 75% (C$11 billion)...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-29T22:30:00+00:00",
@@ -57,7 +57,7 @@
    "title": "BMO Closes Sale of Transportation and Vendor Finance Businesses",
    "link": "https://www.prnewswire.com/news-releases/bmo-closes-sale-of-transportation-and-vendor-finance-businesses-850893092.html",
    "summary": "TORONTO and CHICAGO, Oct. 29, 2026 /CNW/ -- BMO Financial Group (TSX: BMO) (NYSE: BMO) today announced it has closed the previously announced sale of its Transportation Finance and Vendor Finance businesses to Stonepeak. At closing, BMO transferred approximately 75% (C$11 billion) of the...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-29T22:30:00+00:00",
@@ -331,36 +331,6 @@
    "tag_v": 2
   },
   {
-   "id": "20a6e3875606",
-   "title": "Dollar is Undercut by Lower T-note Yields",
-   "link": "https://www.nasdaq.com/articles/dollar-undercut-lower-t-note-yields",
-   "summary": "The dollar index (DXY00 ) fell -0.16% on Thursday as the 10-year T-note yield fell -4 bp, undercutting US interest rate differentials. The 2-year T-note yield fell -5 bp on Thursday. The dollar found underlying support from a stronger-than-expected US GDP report of +3.4% and safe-haven demand as stocks fell....",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T22:20:23+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "209c33aafc08",
-   "title": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
-   "link": "https://www.nasdaq.com/articles/cocoa-remains-weak-rising-ice-inventories-and-potential-brazilian-cocoa-sales-0",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed unchanged on Thursday, and December ICE London cocoa #7 (CAZ26 ) closed down -10 (-0.24%). NY cocoa prices on Thursday consolidated just above Wednesday’s 1-month low and closed unchanged. Cocoa prices saw support Thursday after StoneX said the strong El Nino will push...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T22:20:23+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "1266061d57a8",
    "title": "Sugar Prices Rise as Brazil Reports Reduced Cane Crushing",
    "link": "https://www.nasdaq.com/articles/sugar-prices-rise-brazil-reports-reduced-cane-crushing-0",
@@ -496,6 +466,36 @@
    "tickers": [],
    "type": "dividend",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "20a6e3875606",
+   "title": "Dollar is Undercut by Lower T-note Yields",
+   "link": "https://www.nasdaq.com/articles/dollar-undercut-lower-t-note-yields",
+   "summary": "The dollar index (DXY00 ) fell -0.16% on Thursday as the 10-year T-note yield fell -4 bp, undercutting US interest rate differentials. The 2-year T-note yield fell -5 bp on Thursday. The dollar found underlying support from a stronger-than-expected US GDP report of +3.4% and safe-haven demand as stocks fell....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T22:14:47+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "209c33aafc08",
+   "title": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
+   "link": "https://www.nasdaq.com/articles/cocoa-remains-weak-rising-ice-inventories-and-potential-brazilian-cocoa-sales-0",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed unchanged on Thursday, and December ICE London cocoa #7 (CAZ26 ) closed down -10 (-0.24%). NY cocoa prices on Thursday consolidated just above Wednesday’s 1-month low and closed unchanged. Cocoa prices saw support Thursday after StoneX said the strong El Nino will push...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T22:14:47+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1786,6 +1786,20 @@
     "AMZN"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bf9503595969",
+   "title": "Justice Department issues new subpoenas over Alaska spoiler candidate controversy, AP source says - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
+   "summary": "Justice Department issues new subpoenas over Alaska spoiler candidate controversy, AP source says&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T21:36:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3878,6 +3892,20 @@
    "tag_v": 2
   },
   {
+   "id": "1a8675f9c110",
+   "title": "What to consider if a company that made AI-related job cuts wants you back - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTdOU2U4bUpXVkkzRE5WSlVibEo4N0RTTkVkUENMT2ZydXhmTEVsX0pVVTdadFYwcEtWYzZtamNwX3Y4dHZfLVdZYnhzSlFQYm9QaHBWMzVUdDMtdm0wVFhqTmotZUVTOGVXSHFSc1JvTm9ucWZHMVNmMnk4WWZEVlp1U29zTm9pMmVMY2hwUENPLUxGY25xRmd4dXBLNmR1Tmc?oc=5",
+   "summary": "What to consider if a company that made AI-related job cuts wants you back&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T20:51:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "cd920016f175",
    "title": "Gaming And Leisure Properties Inc. Reveals Retreat In Q3 Bottom Line",
    "link": "https://www.nasdaq.com/articles/gaming-and-leisure-properties-inc-reveals-retreat-q3-bottom-line",
@@ -3984,20 +4012,6 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "bf9503595969",
-   "title": "Justice Department issues new subpoenas over Alaska spoiler candidate controversy, AP source says - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
-   "summary": "Justice Department issues new subpoenas over Alaska spoiler candidate controversy, AP source says&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-29T20:48:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -9008,22 +9022,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "0fae424bf822",
-   "title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
-   "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
-   "summary": "Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on \"hedging\" to keep fuel costs down amid conflict in the Middle East.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T19:36:04+00:00",
-   "tickers": [
-    "CCL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9153,7 +9151,6 @@
   "NEU": "NewMarket",
   "SBUX": "Starbucks",
   "ADSK": "Autodesk",
-  "CCL": "Carnival",
   "DASH": "DoorDash",
   "DUOL": "Duolingo",
   "EXEL": "Exelixis",
