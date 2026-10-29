@@ -1,8 +1,91 @@
 {
- "generated": "2026-10-29T16:21:07.544055+00:00",
+ "generated": "2026-10-29T16:26:23.397352+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "9ac7db091d17",
+   "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+   "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+   "summary": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T16:25:11+00:00",
+   "tickers": [
+    "GOOG"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f8a12a2f2796",
+   "title": "Carnival crew can now see which passengers paid their tips",
+   "link": "https://www.thestreet.com/travel/carnival-cruise-line-makes-a-key-daily-gratuity-change",
+   "summary": "The change raises an uncomfortable question for Carnival passengers.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-29T16:25:05+00:00",
+   "tickers": [
+    "CCL"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6c115c66c106",
+   "title": "S&P 500 heads for first loss in four days as Alphabet, Caterpillar crack after earnings: Live updates",
+   "link": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+   "summary": "Alphabet reported a disappointing third quarter, and shares tumbled.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T16:24:33+00:00",
+   "tickers": [
+    "CAT",
+    "GOOG"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3fc19f6aa3fa",
+   "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+   "link": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+   "summary": "Nvidia disputed a New York Times report that U.S. intelligence agencies surveilled a person close to CEO Jensen Huang over concerns she could be a Chinese spy.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T16:22:19+00:00",
+   "tickers": [
+    "NYT"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a2f100bb8a85",
+   "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
+   "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+   "summary": "Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI buildout.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T16:20:51+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOG",
+    "GOOGL"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "17a59a33c1ab",
    "title": "Shell CEO Wael Sawan on oil supply disruptions: 'Too early to call' the long-term effects on demand",
@@ -97,24 +180,6 @@
    "domain": "stocktitan.net",
    "published": "2026-10-29T16:10:00+00:00",
    "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a2f100bb8a85",
-   "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
-   "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
-   "summary": "Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI buildout.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T16:06:47+00:00",
-   "tickers": [
-    "MSFT",
-    "GOOG",
-    "GOOGL"
-   ],
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
@@ -485,22 +550,6 @@
    "tag_v": 2
   },
   {
-   "id": "3fc19f6aa3fa",
-   "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
-   "link": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
-   "summary": "Nvidia disputed a New York Times report that U.S. intelligence agencies surveilled a person close to CEO Jensen Huang over concerns she could be a Chinese spy.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T15:59:26+00:00",
-   "tickers": [
-    "NYT"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "cacbf4f6ad64",
    "title": "STM (STM) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/stm-stm-q3-2026-earnings-call-transcript",
@@ -529,6 +578,23 @@
     "COHR"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3127640aa9a8",
+   "title": "GM is shifting gears to the Nasdaq, trying to draft behind Walmart’s lead",
+   "link": "https://www.cnbc.com/2026/10/29/general-motors-nasdaq-listing.html",
+   "summary": "GM plans to move its stock listing to Nasdaq on Nov. 17, opening the door to possible Nasdaq-100 inclusion and an improved valuation.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T15:57:27+00:00",
+   "tickers": [
+    "WMT",
+    "GM"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1221,23 +1287,6 @@
    ],
    "type": "press",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6c115c66c106",
-   "title": "S&P 500 heads for first loss in four days as Alphabet, Caterpillar crack after earnings: Live updates",
-   "link": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
-   "summary": "Alphabet reported a disappointing third quarter, and shares tumbled.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T15:37:00+00:00",
-   "tickers": [
-    "CAT",
-    "GOOG"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2985,6 +3034,20 @@
    "tag_v": 2
   },
   {
+   "id": "5a4a5defd433",
+   "title": "Carney hosts EU leaders as Trump pushes Canada toward Europe - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX01JdWZRb19GUU9tM1JsQkhzcGM4dFBqdENqQ3VRdWhLcjRmaTFreXFZRkFuc3VZVDc3MTFCUHlTbGltZzlmbm53M2VoUkQ4YzB4VnQ5Nl9GVTF6U2hxTkRYa2tVNlZLcHpTX2pUWjBPaTdjSldHOG9WMVV0MUlTWFY0WU45NmNjR2lzNndfdVNGWTdtdHJFUUoxd1Q?oc=5",
+   "summary": "Carney hosts EU leaders as Trump pushes Canada toward Europe&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T14:51:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "39a238a530bd",
    "title": "BKLN, SNDQ: Big ETF Outflows",
    "link": "https://www.nasdaq.com/articles/bkln-sndq-big-etf-outflows",
@@ -3609,22 +3672,6 @@
    ],
    "type": "guidance",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "9ac7db091d17",
-   "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-   "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-   "summary": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T14:34:21+00:00",
-   "tickers": [
-    "GOOG"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -5815,6 +5862,22 @@
    "tag_v": 2
   },
   {
+   "id": "db2a3f2a9a93",
+   "title": "Airbnb pledges $500M to nonprofit, scaling emergency stays and raising questions over housing relief - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0QzTHZFbXBCbzlVOG5aUGJWUzhVZHRhblIyQWZtUjNtQkg2UUt3cEMtR2FKT2l3bFZrNHlzeURnc19Gd0JwTDRLQlBka1d3Z0I3ZnFqVGVXbkhNN1dMTjhkVHJrOFNyeGVJWHBleDd2U3pyUjV3WGx5N0g0b2gzWngzbjZERVpxd0Z4TkRHTDBpMEE?oc=5",
+   "summary": "Airbnb pledges $500M to nonprofit, scaling emergency stays and raising questions over housing relief&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T13:52:00+00:00",
+   "tickers": [
+    "ABNB"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "54e2b2f96aac",
    "title": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool.",
    "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
@@ -6365,22 +6428,6 @@
    "tag_v": 2
   },
   {
-   "id": "f8a12a2f2796",
-   "title": "Carnival crew can now see which passengers paid their tips",
-   "link": "https://www.thestreet.com/travel/carnival-cruise-line-makes-a-key-daily-gratuity-change",
-   "summary": "The change raises an uncomfortable question for Carnival passengers.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-29T13:36:00+00:00",
-   "tickers": [
-    "CCL"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "b243ab5ed928",
    "title": "Appian Marks Major Milestone in Supporting US Army Ammunition Modernization | APPN Stock News",
    "link": "https://www.stocktitan.net/news/APPN/appian-marks-major-milestone-in-supporting-us-army-ammunition-xi10480kjf1v.html",
@@ -6611,6 +6658,20 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8709a382d383",
+   "title": "Trump lends support for Darline Graham in South Carolina as Republican anxiety rises in Senate race - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjFUTkJXRlZDN0E1bEFRZS1lNkZLVzNtQThKbEZIRFVjS21PYTVFUG1RaFp5b01CZUJOTi1IVnd2cWVjNlZOdnI3QTJwcUQ4YUN6OUhOSmNGeDMyaVM5WFVJNUhueWd3VU1UVmI2cncxanJGeHZEUDdJRFdaTURUOUtOMEt0UFhWb1V0YTYtX3JiZFo2ZE1mUUlWLUZHa2RZTlEyM1VTMk1EVWl4c0E?oc=5",
+   "summary": "Trump lends support for Darline Graham in South Carolina as Republican anxiety rises in Senate race&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T13:31:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -9029,64 +9090,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "b3b4a9c7a020",
-   "title": "CASIO UNLEASHES THE CMK100 SERIES - A TITANIUM AUTOMATIC BUILT TO GO THE DISTANCE | CSIOY Stock News",
-   "link": "https://www.stocktitan.net/news/CSIOY/casio-unleashes-the-cmk100-series-a-titanium-automatic-built-to-go-a5ulqhzwuyfj.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-29T13:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ae4e678a475e",
-   "title": "Appleton, Wis., Claims No. 1 Spot in Fall 2026 Wall Street Journal and Realtor.com® Housing Market Ranking | NWS Stock News",
-   "link": "https://www.stocktitan.net/news/NWS/appleton-wis-claims-no-1-spot-in-fall-2026-wall-street-journal-and-8iurawczfzsj.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-29T13:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "dd10b07c474c",
-   "title": "Where Passion for Cars Meets Passion for Design: Stellantis Chief Design Officer Ralph Gilles Launches Podcast | STLA Stock News",
-   "link": "https://www.stocktitan.net/news/STLA/where-passion-for-cars-meets-passion-for-design-stellantis-chief-xny24le4dcrn.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-29T13:00:00+00:00",
-   "tickers": [
-    "STLA"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "ced4f927247a",
-   "title": "Unisys and Cushman & Wakefield Named Paragon Champions for Excellence at 2026 ISG Paragon Awards™ | UIS Stock News",
-   "link": "https://www.stocktitan.net/news/UIS/unisys-and-cushman-wakefield-named-paragon-champions-for-excellence-nap04fdwctwh.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-29T13:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9203,6 +9206,7 @@
   "VICI": "VICI Properties",
   "AVY": "Avery Dennison",
   "FLNC": "Fluence Energy",
+  "GM": "General Motors",
   "KMB": "Kimberly-Clark",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
@@ -9283,6 +9287,7 @@
   "MRNA": "Moderna",
   "PII": "Polaris",
   "TXT": "Textron",
+  "WMT": "Walmart",
   "NFLX": "Netflix",
   "SPY": "SPY ETF",
   "ABNB": "Airbnb",
