@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-29T19:01:18.073152+00:00",
+ "generated": "2026-10-29T19:06:26.544312+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2ff98420596b",
+   "title": "Linde delivers a good quarter and puts in a fix for an overhang on the stock",
+   "link": "https://www.cnbc.com/investingclub/2026/10/29/linde-delivers-a-good-quarter-and-puts-in-a-fix-for-an-overhang-on-the-stock.html",
+   "summary": "Slicing and dicing by end market for Linde's gases also looked solid.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T19:02:00+00:00",
+   "tickers": [
+    "LIN"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "72a3e8f49722",
    "title": "Barracuda Appoints Dan Fletcher as Chief Financial Officer | LSPN Stock News",
@@ -7168,22 +7184,6 @@
    "tag_v": 2
   },
   {
-   "id": "cfb57b4ddaf3",
-   "title": "DoorDash gobbles up Instacart in $17 billion deal",
-   "link": "https://www.cbsnews.com/news/doordash-buys-instacart-in-17-billion-deal/",
-   "summary": "DoorDash's purchase of Instacart for $65 per share will unite two of the country's largest grocery and food-delivery companies.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-10-29T14:58:39+00:00",
-   "tickers": [
-    "DASH"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "3551b3fce7f7",
    "title": "Before the Midterms, a Debate Over Where Data Centers Belong and Who Pays for Their Power",
    "link": "https://markets.businessinsider.com/news/stocks/before-the-midterms-a-debate-over-where-data-centers-belong-and-who-pays-for-their-power-1036685547",
@@ -7194,6 +7194,22 @@
    "published": "2026-10-29T14:58:38+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cfb57b4ddaf3",
+   "title": "DoorDash gobbles up Instacart in $17 billion deal",
+   "link": "https://www.cbsnews.com/news/doordash-buys-instacart-in-17-billion-deal/",
+   "summary": "DoorDash's purchase of Instacart for $65 per share will unite two of the country's largest grocery and food-delivery companies.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-10-29T14:58:00+00:00",
+   "tickers": [
+    "DASH"
+   ],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -9020,20 +9036,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "d9f3c6a8e185",
-   "title": "Jim Cramer raises a red flag to stock market investors",
-   "link": "https://www.thestreet.com/investing/stocks/jim-cramer-raises-a-red-flag-to-stock-market-investors",
-   "summary": "Jim Cramer has watched this market closely all year. What he is seeing now has him worried.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-29T14:17:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9239,6 +9241,7 @@
   "CROX": "Crocs",
   "CX": "CEMEX",
   "FDX": "FedEx",
+  "LIN": "Linde",
   "RHHBY": "Roche",
   "AGCO": "AGCO",
   "EBAY": "eBay",
