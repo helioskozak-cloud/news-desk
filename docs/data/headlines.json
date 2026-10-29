@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-29T00:31:44.914967+00:00",
+ "generated": "2026-10-29T00:36:37.418310+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "96197c03a6e9",
+   "title": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
+   "link": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
+   "summary": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T00:32:02+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "ea8ba7858b55",
    "title": "BHAV Acquisition Corp II Announces Pricing of $100 Million Initial Public Offering | BHAIU Stock News",
@@ -15,22 +31,6 @@
    "tickers": [],
    "type": "ma",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "96197c03a6e9",
-   "title": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
-   "link": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
-   "summary": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T00:29:45+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "analyst",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -171,6 +171,24 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "31c1fb76d0d7",
+   "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+   "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+   "summary": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T00:16:39+00:00",
+   "tickers": [
+    "CRWV",
+    "MSFT",
+    "IREN"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -418,6 +436,20 @@
    "published": "2026-10-29T00:01:50+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7af0da025197",
+   "title": "Justice Department makes a splash with politically sensitive cases and actions during midterm blitz - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa19mUnpKZ2FBQnJ5NG0tc2IyTGJSeVVwUlFJVnZpU1ctT0JrSFVLYXhZVExPQXVKNFFoR1RlQi1DR0pUVUFfajJSMTZ3NkpzSG55TkVIb1htVFRrMHZJX0h6UGR4N2E3djA5VG5RTXBla1Nyb2JOUllORklBZXFLTXFvLXJ1aGtESG5EUzU3eEw2YVp0SDdMUHc0UUpxc1VJazZN?oc=5",
+   "summary": "Justice Department makes a splash with politically sensitive cases and actions during midterm blitz&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T00:01:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2982,20 +3014,6 @@
    "tag_v": 2
   },
   {
-   "id": "7af0da025197",
-   "title": "Justice Department makes a splash with politically sensitive cases and actions during midterm blitz - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa19mUnpKZ2FBQnJ5NG0tc2IyTGJSeVVwUlFJVnZpU1ctT0JrSFVLYXhZVExPQXVKNFFoR1RlQi1DR0pUVUFfajJSMTZ3NkpzSG55TkVIb1htVFRrMHZJX0h6UGR4N2E3djA5VG5RTXBla1Nyb2JOUllORklBZXFLTXFvLXJ1aGtESG5EUzU3eEw2YVp0SDdMUHc0UUpxc1VJazZN?oc=5",
-   "summary": "Justice Department makes a splash with politically sensitive cases and actions during midterm blitz&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-28T22:05:55+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "30713ed395d1",
    "title": "Earnings call transcript: Nextpower tops Q2 2026 estimates and raises outlook",
    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-nextpower-tops-q2-2026-estimates-and-raises-outlook-93CH-4981088",
@@ -3040,6 +3058,20 @@
     "AAPL"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c1413d41dcf2",
+   "title": "Inmate’s escape is just the latest problem for Tennessee’s troubled prison system - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVU53eEx5TUF6V0V3OEowOTNFYmlVV2R6dEw4U0FqaE5EZ1ZPY2pVWDFFUEFiWHFrUDVQbmJySHhETC1kRlo0UkxDRmpwd19DYXhzOEFJZzREMnpRaUhwTWVXclZYVkFKcHlsXzB5MXZUMHBWcjNjLWtmdzZhcTNqRzkxN3dFdW1mVDBIbUlqT1dYRFR6T2hTZ3FmMWs?oc=5",
+   "summary": "Inmate’s escape is just the latest problem for Tennessee’s troubled prison system&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-28T22:04:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8885,36 +8917,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "e9fecde0644e",
-   "title": "MILLER INDUSTRIES TO ANNOUNCE THIRD QUARTER 2026 RESULTS ON WEDNESDAY NOVEMBER 4, 2026 | MLR Stock News",
-   "link": "https://www.stocktitan.net/news/MLR/miller-industries-to-announce-third-quarter-2026-results-on-mzfgvdodbeb1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T20:15:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c21400b22dc4",
-   "title": "MGM RESORTS INTERNATIONAL REPORTS THIRD QUARTER 2026 FINANCIAL AND OPERATING RESULTS | MGM Stock News",
-   "link": "https://www.stocktitan.net/news/MGM/mgm-resorts-international-reports-third-quarter-2026-financial-and-61xqvry48h4u.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-28T20:15:00+00:00",
-   "tickers": [
-    "MGM"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9002,6 +9004,7 @@
   "EXPE": "Expedia Group",
   "MT": "ArcelorMittal",
   "FER": "Ferrovial SE",
+  "IREN": "IREN Limited",
   "KGC": "Kinross Gold",
   "KIM": "Kimco Realty",
   "MKL": "Markel Group",
