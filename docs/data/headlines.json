@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-29T11:51:27.345181+00:00",
+ "generated": "2026-10-29T11:56:11.254378+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c310f9451d23",
+   "title": "DoorDash to acquire Instacart for $17 billion",
+   "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+   "summary": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T11:54:29+00:00",
+   "tickers": [
+    "DASH"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "582e07cad6ff",
+   "title": "Anthropic CEO Dario Amodei charts a new direction for tech philanthropy",
+   "link": "https://www.cnbc.com/2026/10/29/anthropic-ceo-dario-amodei-charts-new-direction-for-tech-philanthropy.html",
+   "summary": "Anthropic CEO Dario Amodei has pledged a portion of his company shares to charity with unusual conditions, according to an SEC filing.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T11:52:14+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "c2ea64e6fba9",
    "title": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
@@ -14,6 +44,23 @@
    "published": "2026-10-29T11:50:16+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6cef2a15fef1",
+   "title": "VeriSilicon stellt das GLTiny™-3D-GPU-Programmiermodell für extrem stromsparende und speichereffiziente Wearables vor",
+   "link": "https://www.prnewswire.com/news-releases/verisilicon-stellt-das-gltiny-3d-gpu-programmiermodell-fur-extrem-stromsparende-und-speichereffiziente-wearables-vor-302923627.html",
+   "summary": "Das optimierte GLTiny-Modell ermöglicht anspruchsvolle 3D-Grafiken auf ressourcenbeschränkten Wearables mit OpenGL ES-GPUs SHANGHAI, 29. Oktober 2026 /PRNewswire/ -- VeriSilicon (688521.SH) hat GLTiny vorgestellt, ein innovatives Programmiermodell für 3D-Grafikprozessoren (GPUs), das...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-29T11:48:00+00:00",
+   "tickers": [
+    "ES",
+    "SH"
+   ],
+   "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -737,20 +784,6 @@
     "XEL"
    ],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "582e07cad6ff",
-   "title": "Anthropic CEO Dario Amodei charts a new direction for tech philanthropy",
-   "link": "https://www.cnbc.com/2026/10/29/anthropic-ceo-dario-amodei-charts-new-direction-for-tech-philanthropy.html",
-   "summary": "Anthropic CEO Dario Amodei has pledged a portion of his company shares to charity with unusual conditions, according to an SEC filing.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T11:31:44+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -9011,38 +9044,6 @@
    "type": "earnings",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "be9d61dbaea9",
-   "title": "Canaccord reiterates Alphabet stock rating on cloud strength",
-   "link": "https://www.investing.com/news/analyst-ratings/canaccord-reiterates-alphabet-stock-rating-on-cloud-strength-93CH-4981947",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-29T09:01:03+00:00",
-   "tickers": [
-    "GOOG"
-   ],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "bdd730f9b6c0",
-   "title": "Verizon evp Kyle Malady sells $47,300 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-47300-in-stock-93CH-4981946",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-29T09:01:02+00:00",
-   "tickers": [
-    "VZ"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9072,8 +9073,8 @@
   "CHTR": "Charter Communications",
   "CMG": "Chipotle Mexican Grill",
   "SFM": "Sprouts Farmers Market",
+  "SH": "ProShares Short S&P500",
   "SWK": "Stanley Black & Decker",
-  "VZ": "Verizon Communications",
   "ZBH": "Zimmer Biomet Holdings",
   "LHX": "L3Harris Technologies",
   "OPEN": "Opendoor Technologies",
@@ -9101,6 +9102,7 @@
   "SIRI": "Sirius XM Holdings",
   "STM": "STMicroelectronics",
   "TT": "Trane Technologies",
+  "ES": "Eversource Energy",
   "GFL": "GFL Environmental",
   "GIL": "Gildan Activewear",
   "LITE": "Lumentum Holdings",
