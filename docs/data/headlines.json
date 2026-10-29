@@ -1,8 +1,83 @@
 {
- "generated": "2026-10-29T20:36:35.058117+00:00",
+ "generated": "2026-10-29T20:41:40.340363+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2b0324b95f56",
+   "title": "Bristow Group Declares Cash Dividend | VTOL Stock News",
+   "link": "https://www.stocktitan.net/news/VTOL/bristow-group-declares-cash-1c535uvsrjyy.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-29T20:39:00+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "5650c65af504",
+   "title": "Smithfield Foods Declares Quarterly Dividend | SFD Stock News",
+   "link": "https://www.stocktitan.net/news/SFD/smithfield-foods-declares-quarterly-ydst5trzjc2d.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-29T20:39:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "83dc541f011a",
+   "title": "Nvidia's $12.9 billion deal could shape the AI apps you use",
+   "link": "https://www.thestreet.com/investing/nvidias-12-9-billion-deal-could-shape-the-ai-apps-you-use",
+   "summary": "Nvidia may have too much control over an AI gateway, according to the Justice Department.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-29T20:37:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d19a72b15b86",
+   "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+   "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+   "summary": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T20:35:59+00:00",
+   "tickers": [
+    "RDDT",
+    "GOOGL"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "df49b3ac1c35",
+   "title": "Amazon misses on earnings and holds capex steady, adding to AI spending jitters",
+   "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+   "summary": "Amazon reported third-quarter earnings on Thursday after the bell.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T20:35:26+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "685a8ac92302",
    "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
@@ -17,22 +92,6 @@
    ],
    "type": "earnings",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "df49b3ac1c35",
-   "title": "Amazon misses on earnings and holds capex steady, adding to AI spending jitters",
-   "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-   "summary": "Amazon reported third-quarter earnings on Thursday after the bell.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T20:32:44+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -675,40 +734,6 @@
    "tag_v": 2
   },
   {
-   "id": "6485638b0b11",
-   "title": "Stocks Trade Lower as Alphabet Disappoints and Chip Stocks Fall",
-   "link": "https://www.nasdaq.com/articles/stocks-trade-lower-alphabet-disappoints-and-chip-stocks-fall-0",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.27%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.26%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.20%. December E-mini S&amp;P futures (ESZ26 ) are down -0.34%, and December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:29:29+00:00",
-   "tickers": [
-    "GOOG",
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "c8ede076918e",
-   "title": "Coffee Prices Fall to 1-Month as Concerns Continue About Brazilian Sales",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-1-month-concerns-continue-about-brazilian-sales",
-   "summary": "December arabica coffee (KCZ26 ) is down -0.65 (-0.23%), and January ICE robusta coffee (RMF27 ) is up +4 (+0.13). NY arabica coffee today fell to a new 1-month low, extending this week’s sharp sell-off. Coffee prices have fallen this week on fears that Brazilian exporters will increase sales after...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:29:29+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "c11ed7ebabb1",
    "title": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
    "link": "https://www.nasdaq.com/articles/cocoa-remains-weak-rising-ice-inventories-and-potential-brazilian-cocoa-sales",
@@ -752,23 +777,6 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d19a72b15b86",
-   "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-   "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-   "summary": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T20:28:13+00:00",
-   "tickers": [
-    "RDDT",
-    "GOOGL"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1163,54 +1171,6 @@
    "tag_v": 2
   },
   {
-   "id": "4c7da06ae9cd",
-   "title": "Coffee Prices Fall to 1-Month as Concerns Continue About Brazilian Sales",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-1-month-concerns-continue-about-brazilian-sales-0",
-   "summary": "December arabica coffee (KCZ26 ) closed down -1.30 (-0.45%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -23 (-0.72%). NY arabica coffee fell to a new 1-month low on Thursday, extending this week’s sharp sell-off. Coffee prices have fallen this week on fears that Brazilian exporters will...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:21:42+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "209c33aafc08",
-   "title": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
-   "link": "https://www.nasdaq.com/articles/cocoa-remains-weak-rising-ice-inventories-and-potential-brazilian-cocoa-sales-0",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed unchanged on Thursday, and December ICE London cocoa #7 (CAZ26 ) closed down -10 (-0.24%). NY cocoa prices on Thursday consolidated just above Wednesday’s 1-month low and closed unchanged. Cocoa prices saw support Thursday after StoneX said the strong El Nino will push...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:21:42+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "1266061d57a8",
-   "title": "Sugar Prices Rise as Brazil Reports Reduced Cane Crushing",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-brazil-reports-reduced-cane-crushing-0",
-   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.13 (+0.67%) on Thursday, and December London ICE white sugar #5 (SWZ26 ) closed up +1.90 (+0.36%). Sugar prices closed higher on Thursday after Brazil’s agricultural ministry reported late Wednesday that Brazilian mills crushed 32 MMT of sugarcane in the first...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:21:42+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "ff67de652bd5",
    "title": "First Business earnings beat by $0.28, revenue topped estimates",
    "link": "https://www.investing.com/news/earnings/first-business-earnings-beat-by-028-revenue-topped-estimates-4985065",
@@ -1419,6 +1379,102 @@
    "tag_v": 2
   },
   {
+   "id": "4c7da06ae9cd",
+   "title": "Coffee Prices Fall to 1-Month as Concerns Continue About Brazilian Sales",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-1-month-concerns-continue-about-brazilian-sales-0",
+   "summary": "December arabica coffee (KCZ26 ) closed down -1.30 (-0.45%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -23 (-0.72%). NY arabica coffee fell to a new 1-month low on Thursday, extending this week’s sharp sell-off. Coffee prices have fallen this week on fears that Brazilian exporters will...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T20:19:12+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "209c33aafc08",
+   "title": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
+   "link": "https://www.nasdaq.com/articles/cocoa-remains-weak-rising-ice-inventories-and-potential-brazilian-cocoa-sales-0",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed unchanged on Thursday, and December ICE London cocoa #7 (CAZ26 ) closed down -10 (-0.24%). NY cocoa prices on Thursday consolidated just above Wednesday’s 1-month low and closed unchanged. Cocoa prices saw support Thursday after StoneX said the strong El Nino will push...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T20:19:12+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "1266061d57a8",
+   "title": "Sugar Prices Rise as Brazil Reports Reduced Cane Crushing",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-brazil-reports-reduced-cane-crushing-0",
+   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.13 (+0.67%) on Thursday, and December London ICE white sugar #5 (SWZ26 ) closed up +1.90 (+0.36%). Sugar prices closed higher on Thursday after Brazil’s agricultural ministry reported late Wednesday that Brazilian mills crushed 32 MMT of sugarcane in the first...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T20:19:12+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cbf649002c67",
+   "title": "Cotton Bulls Powering Through on Thursday",
+   "link": "https://www.nasdaq.com/articles/cotton-bulls-powering-through-thursday",
+   "summary": "Cotton futures are trading with 35 to 40 point gains on Thursday. Crude oil is down $1.71 per barrel on the session, with the US dollar index $0.146 lower. USDA’s Export Sales report showed 216,488 RB of cotton sales in the week ending in October 22, which was up 8.45%...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T20:19:12+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6485638b0b11",
+   "title": "Stocks Trade Lower as Alphabet Disappoints and Chip Stocks Fall",
+   "link": "https://www.nasdaq.com/articles/stocks-trade-lower-alphabet-disappoints-and-chip-stocks-fall-0",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.27%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.26%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.20%. December E-mini S&amp;P futures (ESZ26 ) are down -0.34%, and December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T20:19:11+00:00",
+   "tickers": [
+    "GOOG",
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "c8ede076918e",
+   "title": "Coffee Prices Fall to 1-Month as Concerns Continue About Brazilian Sales",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-1-month-concerns-continue-about-brazilian-sales",
+   "summary": "December arabica coffee (KCZ26 ) is down -0.65 (-0.23%), and January ICE robusta coffee (RMF27 ) is up +4 (+0.13). NY arabica coffee today fell to a new 1-month low, extending this week’s sharp sell-off. Coffee prices have fallen this week on fears that Brazilian exporters will increase sales after...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T20:19:11+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "5ef2af5e5560",
    "title": "Corn Ticking Higher at Thursday’s Midday",
    "link": "https://www.nasdaq.com/articles/corn-ticking-higher-thursdays-midday",
@@ -1433,6 +1489,24 @@
    "tag_v": 2
   },
   {
+   "id": "cfdccec16768",
+   "title": "Stocks Trade Lower as Alphabet Disappoints and Chip Stocks Fall",
+   "link": "https://www.nasdaq.com/articles/stocks-trade-lower-alphabet-disappoints-and-chip-stocks-fall",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.43%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.45%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.47%. December E-mini S&amp;P futures (ESZ26 ) are down -0.41%, and December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T20:19:11+00:00",
+   "tickers": [
+    "GOOG",
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "ac1c11e99846",
    "title": "Cotton Starting Thursday with Modest Gains",
    "link": "https://www.nasdaq.com/articles/cotton-starting-thursday-modest-gains",
@@ -1444,6 +1518,34 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "8fedf9f6c6c8",
+   "title": "Soybeans Falling Early on Thursday",
+   "link": "https://www.nasdaq.com/articles/soybeans-falling-early-thursday",
+   "summary": "Soybeans are down 5 to 8 cents across the front months to start Thursday trade. Futures faded lower into the midweek close on Wednesday, as contracts were down 4 ¾ to 7 ¼ cents and a couple cents off the lows. Open interest suggested longs continued to exit, with a...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T20:19:10+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "958aa782f622",
+   "title": "Corn Slipping Back with Fractional Losses on Thursday Morning",
+   "link": "https://www.nasdaq.com/articles/corn-slipping-back-fractional-losses-thursday-morning",
+   "summary": "Corn prices are fractionally lower to start Thursday. Futures saw steady to 3 cent higher trade across most contracts on Wednesday, as futures got a midweek bounce. Open interest was up 29,205 contracts on Wednesday, suggesting modest new open interest. The CmdtyView national average Cash Corn price was up 2...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T20:19:10+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -3973,34 +4075,6 @@
    "tag_v": 2
   },
   {
-   "id": "8fedf9f6c6c8",
-   "title": "Soybeans Falling Early on Thursday",
-   "link": "https://www.nasdaq.com/articles/soybeans-falling-early-thursday",
-   "summary": "Soybeans are down 5 to 8 cents across the front months to start Thursday trade. Futures faded lower into the midweek close on Wednesday, as contracts were down 4 ¾ to 7 ¼ cents and a couple cents off the lows. Open interest suggested longs continued to exit, with a...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T19:59:33+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "958aa782f622",
-   "title": "Corn Slipping Back with Fractional Losses on Thursday Morning",
-   "link": "https://www.nasdaq.com/articles/corn-slipping-back-fractional-losses-thursday-morning",
-   "summary": "Corn prices are fractionally lower to start Thursday. Futures saw steady to 3 cent higher trade across most contracts on Wednesday, as futures got a midweek bounce. Open interest was up 29,205 contracts on Wednesday, suggesting modest new open interest. The CmdtyView national average Cash Corn price was up 2...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T19:59:33+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "53ae6bdc94f9",
    "title": "Crude Oil Prices Fall on Vance Outreach to Iran",
    "link": "https://www.nasdaq.com/articles/crude-oil-prices-fall-vance-outreach-iran",
@@ -4192,38 +4266,6 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "cbf649002c67",
-   "title": "Cotton Bulls Powering Through on Thursday",
-   "link": "https://www.nasdaq.com/articles/cotton-bulls-powering-through-thursday",
-   "summary": "Cotton futures are trading with 35 to 40 point gains on Thursday. Crude oil is down $1.71 per barrel on the session, with the US dollar index $0.146 lower. USDA’s Export Sales report showed 216,488 RB of cotton sales in the week ending in October 22, which was up 8.45%...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T19:53:51+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cfdccec16768",
-   "title": "Stocks Trade Lower as Alphabet Disappoints and Chip Stocks Fall",
-   "link": "https://www.nasdaq.com/articles/stocks-trade-lower-alphabet-disappoints-and-chip-stocks-fall",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.43%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.45%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.47%. December E-mini S&amp;P futures (ESZ26 ) are down -0.41%, and December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T19:53:51+00:00",
-   "tickers": [
-    "GOOG",
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -6271,6 +6313,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "b90646ffa33f",
+   "title": "Elke Sommer, German-born star of ‘A Shot in the Dark’ and ‘The Prize,’ dies at 85 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMktuaUtqbjBHazJVZlA1ejR0dkpSTENTcnEtNnplOVpqbGhxUTI1MnR1R3RjUUlsZ0pwNVRKMVdnekUtRTdUZkF3ckNBbjhocW1UUzdkTlpCTlZrNEJPR1pmNFJfV0hNQzhWVjV5UUREeVR4U2ZpVzBDaGZ6ZHdGQ1p3?oc=5",
+   "summary": "Elke Sommer, German-born star of ‘A Shot in the Dark’ and ‘The Prize,’ dies at 85&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T18:47:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8941,64 +8997,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "2aba406ddf16",
-   "title": "Atlassian Introduces Context Quality Score™ to Sharpen AI Performance | TEAM Stock News",
-   "link": "https://www.stocktitan.net/news/TEAM/atlassian-introduces-context-quality-score-tm-to-sharpen-ai-10uqc184374m.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-29T17:06:00+00:00",
-   "tickers": [
-    "TEAM"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9685f0feade2",
-   "title": "France stocks higher at close of trade; CAC 40 up 1.05%",
-   "link": "https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-105-4984796",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-29T17:05:34+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "75e05f6faf9b",
-   "title": "Belgium stocks higher at close of trade; BEL 20 up 0.42%",
-   "link": "https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-042-4984795",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-29T17:05:04+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6079bff5502a",
-   "title": "Pulse Biosciences to Present at Stifel 2026 Healthcare Conference | PLSE Stock News",
-   "link": "https://www.stocktitan.net/news/PLSE/pulse-biosciences-to-present-at-stifel-2026-healthcare-t3qcjlw9qern.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-29T17:05:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9142,7 +9140,6 @@
   "FLS": "Flowserve",
   "OS": "OneStream",
   "SBUX": "Starbucks",
-  "TEAM": "Atlassian",
   "WELL": "Welltower",
   "AVGO": "Broadcom",
   "CCL": "Carnival",
