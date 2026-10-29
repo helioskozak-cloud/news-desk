@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T22:21:16.654762+00:00",
+ "generated": "2026-10-29T22:26:38.558048+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,13 +11,45 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-29T22:20:06+00:00",
+   "published": "2026-10-29T22:24:58+00:00",
    "tickers": [
     "AMZN",
     "INTC"
    ],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "df49b3ac1c35",
+   "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+   "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+   "summary": "Amazon's negative free cash flow ballooned during the third quarter, while its earnings and revenue fell short of Wall Street's expectations.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T22:24:49+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1266061d57a8",
+   "title": "Sugar Prices Rise as Brazil Reports Reduced Cane Crushing",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-brazil-reports-reduced-cane-crushing-0",
+   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.13 (+0.67%) on Thursday, and December London ICE white sugar #5 (SWZ26 ) closed up +1.90 (+0.36%). Sugar prices closed higher on Thursday after Brazil’s agricultural ministry reported late Wednesday that Brazilian mills crushed 32 MMT of sugarcane in the first...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T22:20:22+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -65,22 +97,6 @@
    "tag_v": 2
   },
   {
-   "id": "df49b3ac1c35",
-   "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
-   "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-   "summary": "Amazon's negative free cash flow ballooned during the third quarter, while its earnings and revenue fell short of Wall Street's expectations.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T22:16:48+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "f60f1f632ad4",
    "title": "Business First Bancshares, Inc. Announces Stock Repurchase Program | BFST Stock News",
    "link": "https://www.stocktitan.net/news/BFST/business-first-bancshares-inc-announces-stock-repurchase-qf5o4pmohet0.html",
@@ -122,22 +138,6 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "1266061d57a8",
-   "title": "Sugar Prices Rise as Brazil Reports Reduced Cane Crushing",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-brazil-reports-reduced-cane-crushing-0",
-   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.13 (+0.67%) on Thursday, and December London ICE white sugar #5 (SWZ26 ) closed up +1.90 (+0.36%). Sugar prices closed higher on Thursday after Brazil’s agricultural ministry reported late Wednesday that Brazilian mills crushed 32 MMT of sugarcane in the first...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T22:14:46+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3545,20 +3545,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1a8675f9c110",
-   "title": "What to consider if a company that made AI-related job cuts wants you back - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTdOU2U4bUpXVkkzRE5WSlVibEo4N0RTTkVkUENMT2ZydXhmTEVsX0pVVTdadFYwcEtWYzZtamNwX3Y4dHZfLVdZYnhzSlFQYm9QaHBWMzVUdDMtdm0wVFhqTmotZUVTOGVXSHFSc1JvTm9ucWZHMVNmMnk4WWZEVlp1U29zTm9pMmVMY2hwUENPLUxGY25xRmd4dXBLNmR1Tmc?oc=5",
-   "summary": "What to consider if a company that made AI-related job cuts wants you back&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-29T20:51:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -9025,6 +9011,20 @@
     "KBR"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cce9ea1a82be",
+   "title": "Netanyahu’s party amplifies unproven claims that Arab-led parties have ‘stolen’ Israel’s election - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlRWdElCT21MdGllQ29QbmxreHhfeTJvaUQ5Rjd2VndKSFRqSmJVMEhKY1VpOTNYWm1zZklsVWVjY0FHbDZxenZUa2NFaWQ0NEluY1ZXV1lqSWNPOWVyMXZ4eGhuQnkxLWVha01PVlhLb2l4Y2RzdENjSTQ0c3UweG5qTFZiOWE1MHFoVllsQjdqeURjUUxfSHpCWnlwNFdnR0N1Y2h1dUw5VElo?oc=5",
+   "summary": "Netanyahu’s party amplifies unproven claims that Arab-led parties have ‘stolen’ Israel’s election&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T19:26:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   }
