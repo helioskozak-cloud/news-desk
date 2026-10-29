@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-29T19:36:34.189219+00:00",
+ "generated": "2026-10-29T19:41:13.385330+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "14053dc04bca",
+   "title": "Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. authorities",
+   "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+   "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T19:40:13+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0fae424bf822",
+   "title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
+   "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
+   "summary": "Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on \"hedging\" to keep fuel costs down amid conflict in the Middle East.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T19:36:04+00:00",
+   "tickers": [
+    "CCL"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "06d78a35adf9",
    "title": "Could a bond fund warn investors about the next tech selloff?",
@@ -47,6 +77,22 @@
    ],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a3baf2ca8de7",
+   "title": "Starbucks is about to report earnings. Here's what to expect",
+   "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+   "summary": "Starbucks stock has climbed about 24% this year, raising its market cap to roughly $119 billion.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T19:30:01+00:00",
+   "tickers": [
+    "SBUX"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -106,6 +152,22 @@
    "tag_v": 2
   },
   {
+   "id": "c11ed7ebabb1",
+   "title": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
+   "link": "https://www.nasdaq.com/articles/cocoa-remains-weak-rising-ice-inventories-and-potential-brazilian-cocoa-sales",
+   "summary": "December ICE NY cocoa (CCZ26 ) is down -45 (-0.82%), and December ICE London cocoa #7 (CAZ26 ) is down -32 (-0.77%). NY cocoa prices are trading lower today and are consolidating just above Wednesday’s 1-month low. Cocoa prices are trading lower despite a StoneX report today saying that the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T19:27:15+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "db341408d604",
    "title": "Transforming Data Into Actionable Insights in the Lab | QDEL Stock News",
    "link": "https://www.stocktitan.net/news/QDEL/transforming-data-into-actionable-insights-in-the-40jz1fftk09w.html",
@@ -116,20 +178,6 @@
    "published": "2026-10-29T19:27:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "14053dc04bca",
-   "title": "Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. authorities",
-   "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-   "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T19:26:14+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -242,6 +290,50 @@
    ],
    "type": "analyst",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5ef2af5e5560",
+   "title": "Corn Ticking Higher at Thursday’s Midday",
+   "link": "https://www.nasdaq.com/articles/corn-ticking-higher-thursdays-midday",
+   "summary": "Corn futures are trading with fractional gains across most front months at midday on Thursday. The CmdtyView national average Cash Corn price is up 3/4 cents at $4.14 1/2. The average close for December corn futures in October has been $4.78, as there are just 2 days left for the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T19:22:44+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c8ede076918e",
+   "title": "Coffee Prices Fall to 1-Month as Concerns Continue About Brazilian Sales",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-1-month-concerns-continue-about-brazilian-sales",
+   "summary": "December arabica coffee (KCZ26 ) is down -0.65 (-0.23%), and January ICE robusta coffee (RMF27 ) is up +4 (+0.13). NY arabica coffee today fell to a new 1-month low, extending this week’s sharp sell-off. Coffee prices have fallen this week on fears that Brazilian exporters will increase sales after...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T19:22:43+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "638e803ad690",
+   "title": "Wheat Starting Thursday with Slight Losses",
+   "link": "https://www.nasdaq.com/articles/wheat-starting-thursday-slight-losses-0",
+   "summary": "Wheat is showing fractional to 2 cent losses at midday. The wheat complex extended the weakness to the Wednesday session. Chicago SRW contracts were a penny to 11 1/4 cents in the red at the close. Open interest was up 4,933 contracts on Wednesday. KC HRW futures posted losses of...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T19:22:43+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -798,20 +890,6 @@
    "tag_v": 2
   },
   {
-   "id": "5ef2af5e5560",
-   "title": "Corn Ticking Higher at Thursday’s Midday",
-   "link": "https://www.nasdaq.com/articles/corn-ticking-higher-thursdays-midday",
-   "summary": "Corn futures are trading with fractional gains across most front months at midday on Thursday. The CmdtyView national average Cash Corn price is up 3/4 cents at $4.14 1/2. The average close for December corn futures in October has been $4.78, as there are just 2 days left for the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T19:09:28+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "adae8a1ebbdb",
    "title": "Hogs Getting a Thursday Bounce",
    "link": "https://www.nasdaq.com/articles/hogs-getting-thursday-bounce",
@@ -855,52 +933,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c11ed7ebabb1",
-   "title": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
-   "link": "https://www.nasdaq.com/articles/cocoa-remains-weak-rising-ice-inventories-and-potential-brazilian-cocoa-sales",
-   "summary": "December ICE NY cocoa (CCZ26 ) is down -45 (-0.82%), and December ICE London cocoa #7 (CAZ26 ) is down -32 (-0.77%). NY cocoa prices are trading lower today and are consolidating just above Wednesday’s 1-month low. Cocoa prices are trading lower despite a StoneX report today saying that the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T19:09:27+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "c8ede076918e",
-   "title": "Coffee Prices Fall to 1-Month as Concerns Continue About Brazilian Sales",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-1-month-concerns-continue-about-brazilian-sales",
-   "summary": "December arabica coffee (KCZ26 ) is down -0.65 (-0.23%), and January ICE robusta coffee (RMF27 ) is up +4 (+0.13). NY arabica coffee today fell to a new 1-month low, extending this week’s sharp sell-off. Coffee prices have fallen this week on fears that Brazilian exporters will increase sales after...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T19:09:27+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "638e803ad690",
-   "title": "Wheat Starting Thursday with Slight Losses",
-   "link": "https://www.nasdaq.com/articles/wheat-starting-thursday-slight-losses-0",
-   "summary": "Wheat is showing fractional to 2 cent losses at midday. The wheat complex extended the weakness to the Wednesday session. Chicago SRW contracts were a penny to 11 1/4 cents in the red at the close. Open interest was up 4,933 contracts on Wednesday. KC HRW futures posted losses of...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T19:09:27+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1320,6 +1352,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a0e9eb0ea767",
+   "title": "Man pleads guilty to federal hate crimes in deadly firebomb attack on Colorado demonstrators - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVy1lNExhanJRLWpzZDJiNjc4M204T1RoaThkMVhnbkk0Y2lXbzA3UGZRZHZNaUhfcmFxcS1MaFlXTE9adUNiV1B2cEF6bmVhTVp6WnByWUVJdDNERzlHdzdMVExBOGF2eFVwRjdjMzR3UlJyNTJwcXhCU0dOay1zbk50OXJpUTBCZ3JSMVdZY2RFQ3JvTW9FSzRZNTU5MHhCZkpzVVU0WHBFTXZh?oc=5",
+   "summary": "Man pleads guilty to federal hate crimes in deadly firebomb attack on Colorado demonstrators&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T18:56:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2864,6 +2910,22 @@
    "tag_v": 2
   },
   {
+   "id": "d6457aad83dc",
+   "title": "A potentially historic drop for Alphabet’s stock drags the US market lower - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWE2NlZVNmVDNUoyd0IzVGhKeDFtWFV0VEYwdU0xeWNGdk1mdGdCZFI1OTM2aE5fbTh1Rk55S3lubUdIMkc1UVY3d2xsUm9IOHZJdFNFSmlKSkVZdFNOTERLbzlTN2VjSEUxZnZleElyQ1Z5WHRQNl9KY25xZjVhQ0s3YWtyTDNUQWFQQWlB?oc=5",
+   "summary": "A potentially historic drop for Alphabet’s stock drags the US market lower&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T17:56:00+00:00",
+   "tickers": [
+    "GOOG"
+   ],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "50ea6fd2ac31",
    "title": "Exxon and Chevron cancel UAE oil show trips amid safety concerns - report",
    "link": "https://www.investing.com/news/stock-market-news/exxon-and-chevron-cancel-uae-oil-show-trips-amid-safety-concerns--report-4984846",
@@ -3126,22 +3188,6 @@
    "published": "2026-10-29T17:45:46+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0fae424bf822",
-   "title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
-   "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
-   "summary": "Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on \"hedging\" to keep fuel costs down amid conflict in the Middle East.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T17:45:01+00:00",
-   "tickers": [
-    "CCL"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3700,6 +3746,20 @@
    "published": "2026-10-29T17:22:13+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "1a8675f9c110",
+   "title": "What to consider if a company that made AI-related job cuts wants you back - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTdOU2U4bUpXVkkzRE5WSlVibEo4N0RTTkVkUENMT2ZydXhmTEVsX0pVVTdadFYwcEtWYzZtamNwX3Y4dHZfLVdZYnhzSlFQYm9QaHBWMzVUdDMtdm0wVFhqTmotZUVTOGVXSHFSc1JvTm9ucWZHMVNmMnk4WWZEVlp1U29zTm9pMmVMY2hwUENPLUxGY25xRmd4dXBLNmR1Tmc?oc=5",
+   "summary": "What to consider if a company that made AI-related job cuts wants you back&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T17:22:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -4931,22 +4991,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d6457aad83dc",
-   "title": "A potentially historic drop for Alphabet’s stock drags the US market lower - AP News",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWE2NlZVNmVDNUoyd0IzVGhKeDFtWFV0VEYwdU0xeWNGdk1mdGdCZFI1OTM2aE5fbTh1Rk55S3lubUdIMkc1UVY3d2xsUm9IOHZJdFNFSmlKSkVZdFNOTERLbzlTN2VjSEUxZnZleElyQ1Z5WHRQNl9KY25xZjVhQ0s3YWtyTDNUQWFQQWlB?oc=5",
-   "summary": "A potentially historic drop for Alphabet’s stock drags the US market lower&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-29T16:45:00+00:00",
-   "tickers": [
-    "GOOG"
-   ],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -6653,6 +6697,20 @@
    "tag_v": 2
   },
   {
+   "id": "af2e91512401",
+   "title": "A rock formation collapse in Turkey’s touristic Cappadocia region kills at least 3 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeVd0WUFPRXZnOFQ2OHBOUTNhYUdmcjg1MUpPbDY3WHVNRnRhZTdIUkVWWllRNkQ0SDBqa0lnbEk5Wm8wcm1xdnQ5R3p6RG93U19vLWkzMWFDVFV1RnRpajlwdm05cS03UmcwOUQycW11SURuckZoQUdJUjY5ZjVTNnlMVmNhYTJVRlc3WE5EbVV6SlBmdlBvMjFVWE4tQmpSeE9VWmlvUmlOSVFYamtJWGFiMFNvTGtHR3c?oc=5",
+   "summary": "A rock formation collapse in Turkey’s touristic Cappadocia region kills at least 3&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T15:49:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "f4f53f21c036",
    "title": "Family offices can save millions with this tax strategy — but it can create bad blood",
    "link": "https://www.cnbc.com/2026/10/29/family-offices-can-save-big-with-this-tax-strategy-but-theres-a-catch.html",
@@ -6974,6 +7032,20 @@
    ],
    "type": "press",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2da01a942bd7",
+   "title": "September 2027 trial date set for man charged with attacking White House correspondents’ dinner - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQlRWdWJOaU9Udk9WUnAtREtWYzFsRjVlU0V0amdrME1FUWtaYm1kbTdveHdKa2hycTEyNEhaNll5M0ZlWmg3NF9sQmdNN2tURTRZZm85QkR0Uy0wRm9kS0N4RU1PekY3U3JUZTJDRzFTYU14cTNBazdWdEpCVEpoX0VHUE5lM2ppS0h5MzFZY1lGdFd5Vk9KMlQwVkUyQ0EwOXY3SHVENjc3SHA1OG9N?oc=5",
+   "summary": "September 2027 trial date set for man charged with attacking White House correspondents’ dinner&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T15:38:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8937,82 +9009,6 @@
    "type": "analyst",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "c36367ef752d",
-   "title": "BMO raises Icon shares price target to $235 on strong bookings",
-   "link": "https://www.investing.com/news/analyst-ratings/bmo-raises-icon-shares-price-target-to-235-on-strong-bookings-93CH-4984422",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-29T14:42:51+00:00",
-   "tickers": [
-    "BMO"
-   ],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "452f4a962dbd",
-   "title": "Why is Visa stock rallying today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-visa-stock-rallying-today-93CH-4984416",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-29T14:42:27+00:00",
-   "tickers": [
-    "V"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "158bb7ce24d2",
-   "title": "Yelich pays tribute to Uecker after finally leading Brewers to their first World Series title - AP News",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUJkQ3ZzTGpvczdtcjY4ZFZTOWdXX0RGUzVLLTVna2VyZU9BY3lmdVR1ZnBaTlE1eV9KRmYyMklCSnJmRmkwWGN6dE82NEZseEhJNEZkVWZUVWExRkQ5VGswOUdrSUhtY293RjE2MHZHVHlyc3lySmhKdHg3Z0k4N0JXb3ZIOGs?oc=5",
-   "summary": "Yelich pays tribute to Uecker after finally leading Brewers to their first World Series title&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-29T14:42:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "91557e0bf69e",
-   "title": "Guardant Health options signal 14% stock move on earnings",
-   "link": "https://www.investing.com/news/stock-market-news/guardant-health-options-signal-14-stock-move-on-earnings-93CH-4984412",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-29T14:41:21+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d80763e532df",
-   "title": "Stolen election rhetoric from Trump isn’t new. His ability to act on those claims is - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWNadjQwUkZmWTB2UXh1dmFJaE45enJZWnhzeko4VE9HM3lYNlpQUFdYNHpwdlhYTVl3alphNGlzOTgxYnlNZW9iX3JuSDVZR2lNbHdFbWYyVjFvQWlYVEY3b2tzRjltdnBhUndZTXJBM0o2UVBfdnBGSUVBTFJSY2ViandJdHRWNEcxNDJBZ1NaWVVvODlualNRVTd6NnFBazlfNEJR?oc=5",
-   "summary": "Stolen election rhetoric from Trump isn’t new. His ability to act on those claims is&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-29T14:41:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9103,7 +9099,6 @@
   "ASTS": "AST SpaceMobile",
   "BAC": "Bank of America",
   "CI": "The Cigna Group",
-  "GH": "Guardant Health",
   "GILD": "Gilead Sciences",
   "HOG": "Harley-Davidson",
   "LMT": "Lockheed Martin",
@@ -9176,6 +9171,7 @@
   "DT": "Dynatrace",
   "FLS": "Flowserve",
   "OS": "OneStream",
+  "SBUX": "Starbucks",
   "TEAM": "Atlassian",
   "WELL": "Welltower",
   "WHR": "Whirlpool",
@@ -9219,7 +9215,6 @@
   "LIN": "Linde",
   "RHHBY": "Roche",
   "AGCO": "AGCO",
-  "EBAY": "eBay",
-  "V": "Visa"
+  "EBAY": "eBay"
  }
 }
