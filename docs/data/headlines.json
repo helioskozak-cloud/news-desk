@@ -1,19 +1,81 @@
 {
- "generated": "2026-10-29T20:26:12.374478+00:00",
+ "generated": "2026-10-29T20:31:17.081582+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
    "id": "14053dc04bca",
-   "title": "Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. authorities",
+   "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
    "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
    "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-29T20:25:10+00:00",
+   "published": "2026-10-29T20:30:24+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ea5cac73e3c8",
+   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+   "summary": "",
+   "source": "Federal Reserve",
+   "category": "macro",
+   "domain": "federalreserve.gov",
+   "published": "2026-10-29T20:30:00+00:00",
+   "tickers": [],
+   "type": "fda",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9c8196c0ca5f",
+   "title": "Jack Henry Announces Fiscal 2027 First Quarter Deconversion Revenue Results",
+   "link": "https://www.prnewswire.com/news-releases/jack-henry-announces-fiscal-2027-first-quarter-deconversion-revenue-results-302924222.html",
+   "summary": "MONETT, Mo., Oct. 29, 2026 /PRNewswire/ -- Jack Henry & Associates, Inc.® (Nasdaq: JKHY) announced today that deconversion revenue for the fiscal first quarter, ended September 30, 2026, was $17.9 million. Based on these results, the deconversion revenue estimate for fiscal year 2027 is...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-29T20:30:00+00:00",
+   "tickers": [
+    "JKHY"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "df49b3ac1c35",
+   "title": "Amazon misses on earnings and holds capex steady, adding to AI spending jitters",
+   "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+   "summary": "Amazon reported third-quarter earnings on Thursday after the bell.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T20:29:31+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a3baf2ca8de7",
+   "title": "Starbucks sales fall short of expectations, but its U.S. turnaround continues to gain steam",
+   "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+   "summary": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T20:29:10+00:00",
+   "tickers": [
+    "SBUX"
+   ],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -25,7 +87,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-29T20:23:14+00:00",
+   "published": "2026-10-29T20:28:13+00:00",
    "tickers": [
     "RDDT",
     "GOOGL"
@@ -35,19 +97,140 @@
    "tag_v": 2
   },
   {
-   "id": "a3baf2ca8de7",
-   "title": "Starbucks international business disappoints but U.S. stores outperform",
-   "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-   "summary": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T20:23:13+00:00",
+   "id": "cf445e7869fe",
+   "title": "Coinbase snaps losing streak with third-quarter profit on crypto trading rebound",
+   "link": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:25:17+00:00",
    "tickers": [
-    "SBUX"
+    "COIN"
    ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ef2dbe97de20",
+   "title": "Cohen & Steers, Inc. Declares Quarterly Dividend | CNS Stock News",
+   "link": "https://www.stocktitan.net/news/CNS/cohen-steers-inc-declares-quarterly-c5nbeuxd9bwe.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-29T20:25:00+00:00",
+   "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ac7d22a04177",
+   "title": "Rhinebeck Bancorp, Inc. Reports Results for the Quarter Ended September 30, 2026 | RBKB Stock News",
+   "link": "https://www.stocktitan.net/news/RBKB/rhinebeck-bancorp-inc-reports-results-for-the-quarter-ended-3f4373s4m95e.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-29T20:25:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4874e041acc4",
+   "title": "CubeSmart earnings matched, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/cubesmart-earnings-matched-revenue-topped-estimates-4985072",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:24:49+00:00",
+   "tickers": [
+    "CUBE"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "2e1378d1efa2",
+   "title": "Walmart commits $6 billion to expand Symbotic deal",
+   "link": "https://www.investing.com/news/stock-market-news/walmart-commits-6-billion-to-expand-symbotic-deal-4985071",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:24:48+00:00",
+   "tickers": [
+    "SYM",
+    "WMT"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "833e3c185a5a",
+   "title": "Amazon shares slide over 6% after hours on quarterly results miss",
+   "link": "https://www.investing.com/news/earnings/amazon-shares-slide-almost-7-after-hours-on-quarterly-results-miss-4984953",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:24:35+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3687bcd348e7",
+   "title": "Covista earnings beat by $0.35, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/covista-earnings-beat-by-035-revenue-topped-estimates-4985070",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:24:03+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "503c9dfcc53a",
+   "title": "ePlus Announces Second Quarter and Six Months Fiscal Year 2027 Earnings Release Date and Conference Call | PLUS Stock News",
+   "link": "https://www.stocktitan.net/news/PLUS/e-plus-announces-second-quarter-and-six-months-fiscal-year-2027-l6gjwklenlfl.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-29T20:24:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d2ce06eb2633",
+   "title": "Amazon misses on Q3 earnings and revenue",
+   "link": "https://www.cnbc.com/video/2026/10/29/amazon-misses-on-q3-earnings-and-revenue.html",
+   "summary": "CNBC's Kate Rooney joins 'Closing Bell Overtime' with Amazon Q3 results.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T20:23:28+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -83,19 +266,49 @@
    "tag_v": 2
   },
   {
-   "id": "df49b3ac1c35",
-   "title": "Amazon misses on earnings and holds capex steady, adding to AI spending jitters",
-   "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-   "summary": "Amazon reported third-quarter earnings on Thursday after the bell.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T20:22:32+00:00",
+   "id": "4d8d21193588",
+   "title": "Roblox shares fall as user growth and guidance miss expectations",
+   "link": "https://www.investing.com/news/earnings/roblox-shares-fall-as-user-growth-and-guidance-miss-expectations-4985068",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:22:49+00:00",
    "tickers": [
-    "AMZN"
+    "RBLX"
    ],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "cefb6d777b37",
+   "title": "InPoint Commercial Real Estate Income sets distribution for common stockholders",
+   "link": "https://www.investing.com/news/sec-filings/inpoint-commercial-real-estate-income-sets-distribution-for-common-stockholders-93CH-4985067",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:22:47+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "58a7a3401487",
+   "title": "Intel shares plummet on lighter-than-expected Q4 guidance",
+   "link": "https://www.cnbc.com/video/2026/10/29/intel-shares-plummet-on-lighter-than-expected-q4-guidance.html",
+   "summary": "CNBC's Seema Mody joins 'Closing Bell Overtime' with Intel Q3 results.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-29T20:22:36+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -111,6 +324,34 @@
     "VOYA"
    ],
    "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ff67de652bd5",
+   "title": "First Business earnings beat by $0.28, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/first-business-earnings-beat-by-028-revenue-topped-estimates-4985065",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:21:38+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "b30af49c27ce",
+   "title": "Axos Financial earnings beat by $0.08, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/axos-financial-earnings-beat-by-008-revenue-topped-estimates-4985064",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:21:34+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -140,6 +381,36 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0b737491e7c4",
+   "title": "Rivian tops Q3 estimates and raises guidance as R2 drives growth",
+   "link": "https://www.investing.com/news/earnings/rivian-tops-q3-estimates-and-raises-guidance-as-r2-drives-growth-93CH-4985062",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:20:51+00:00",
+   "tickers": [
+    "RIVN"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "2155175dda13",
+   "title": "BranchOut Food raises $750,000 from overallotment option",
+   "link": "https://www.investing.com/news/company-news/branchout-food-raises-750000-from-overallotment-option-93CH-4985059",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:20:43+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -217,17 +488,19 @@
    "tag_v": 2
   },
   {
-   "id": "cbf649002c67",
-   "title": "Cotton Bulls Powering Through on Thursday",
-   "link": "https://www.nasdaq.com/articles/cotton-bulls-powering-through-thursday",
-   "summary": "Cotton futures are trading with 35 to 40 point gains on Thursday. Crude oil is down $1.71 per barrel on the session, with the US dollar index $0.146 lower. USDA’s Export Sales report showed 216,488 RB of cotton sales in the week ending in October 22, which was up 8.45%...",
-   "source": "NASDAQ Stocks",
+   "id": "d6eda51f2240",
+   "title": "Starbucks forecasts annual profit above estimates",
+   "link": "https://www.investing.com/news/stock-market-news/starbucks-beats-quarterly-sales-and-profit-expectations-4984998",
+   "summary": "",
+   "source": "Investing Stock",
    "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:19:12+00:00",
-   "tickers": [],
+   "domain": "investing.com",
+   "published": "2026-10-29T20:19:17+00:00",
+   "tickers": [
+    "SBUX"
+   ],
    "type": "stocks",
-   "sentiment": "neutral",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -279,40 +552,6 @@
    "tag_v": 2
   },
   {
-   "id": "c8ede076918e",
-   "title": "Coffee Prices Fall to 1-Month as Concerns Continue About Brazilian Sales",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-1-month-concerns-continue-about-brazilian-sales",
-   "summary": "December arabica coffee (KCZ26 ) is down -0.65 (-0.23%), and January ICE robusta coffee (RMF27 ) is up +4 (+0.13). NY arabica coffee today fell to a new 1-month low, extending this week’s sharp sell-off. Coffee prices have fallen this week on fears that Brazilian exporters will increase sales after...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:19:11+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "cfdccec16768",
-   "title": "Stocks Trade Lower as Alphabet Disappoints and Chip Stocks Fall",
-   "link": "https://www.nasdaq.com/articles/stocks-trade-lower-alphabet-disappoints-and-chip-stocks-fall",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.43%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.45%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.47%. December E-mini S&amp;P futures (ESZ26 ) are down -0.41%, and December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:19:11+00:00",
-   "tickers": [
-    "GOOG",
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "6485638b0b11",
    "title": "Stocks Trade Lower as Alphabet Disappoints and Chip Stocks Fall",
    "link": "https://www.nasdaq.com/articles/stocks-trade-lower-alphabet-disappoints-and-chip-stocks-fall-0",
@@ -345,34 +584,6 @@
    "tag_v": 2
   },
   {
-   "id": "8fedf9f6c6c8",
-   "title": "Soybeans Falling Early on Thursday",
-   "link": "https://www.nasdaq.com/articles/soybeans-falling-early-thursday",
-   "summary": "Soybeans are down 5 to 8 cents across the front months to start Thursday trade. Futures faded lower into the midweek close on Wednesday, as contracts were down 4 ¾ to 7 ¼ cents and a couple cents off the lows. Open interest suggested longs continued to exit, with a...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:19:10+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "958aa782f622",
-   "title": "Corn Slipping Back with Fractional Losses on Thursday Morning",
-   "link": "https://www.nasdaq.com/articles/corn-slipping-back-fractional-losses-thursday-morning",
-   "summary": "Corn prices are fractionally lower to start Thursday. Futures saw steady to 3 cent higher trade across most contracts on Wednesday, as futures got a midweek bounce. Open interest was up 29,205 contracts on Wednesday, suggesting modest new open interest. The CmdtyView national average Cash Corn price was up 2...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:19:10+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "ac1c11e99846",
    "title": "Cotton Starting Thursday with Modest Gains",
    "link": "https://www.nasdaq.com/articles/cotton-starting-thursday-modest-gains",
@@ -384,6 +595,38 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "7bbe1029209d",
+   "title": "Mondelez misses third-quarter sales estimates",
+   "link": "https://www.investing.com/news/stock-market-news/mondelez-misses-thirdquarter-sales-estimates-4985036",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:18:46+00:00",
+   "tickers": [
+    "MDLZ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3d925101c700",
+   "title": "Intel forecast disappoints as Israel fab blast, PC weakness weigh",
+   "link": "https://www.investing.com/news/stock-market-news/intel-signals-slower-growth-as-pc-market-remains-under-pressure-4984967",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:18:28+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "type": "guidance",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -515,7 +758,7 @@
    "title": "Invesco Mortgage Capital Inc. Reports Third Quarter 2026 Financial Results",
    "link": "https://www.prnewswire.com/news-releases/invesco-mortgage-capital-inc-reports-third-quarter-2026-financial-results-302924159.html",
    "summary": "ATLANTA, Oct. 29, 2026 /PRNewswire/ -- Invesco Mortgage Capital Inc. (NYSE: IVR) (the \"Company\") today announced financial results for the quarter ended September 30, 2026. Net loss per common share of $0.92 compared to net income of $0.34 in Q2 2026 Earnings available for distribution...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-29T20:15:00+00:00",
@@ -531,7 +774,7 @@
    "title": "Arthur J. Gallagher & Co. Announces Third Quarter 2026 Financial Results",
    "link": "https://www.prnewswire.com/news-releases/arthur-j-gallagher--co-announces-third-quarter-2026-financial-results-302924163.html",
    "summary": "ROLLING MEADOWS, Ill., Oct. 29, 2026 /PRNewswire/ -- Arthur J. Gallagher & Co. (NYSE: AJG) today reported its financial results for the quarter ended September 30, 2026. Management will host a webcast conference call to discuss these results on Thursday, October 29, 2026 at 5:15 p.m....",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-10-29T20:15:00+00:00",
@@ -1205,6 +1448,22 @@
    "tag_v": 2
   },
   {
+   "id": "a5fed52c08ab",
+   "title": "Intel plunges 20% as weak Q4 forecast overshadows earnings beat",
+   "link": "https://www.investing.com/news/stock-market-news/intel-plunges-20-as-weak-q4-forecast-overshadows-earnings-beat-4984988",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:13:56+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "1abd6119a233",
    "title": "Aon CEO warns AI data center insurance risks could threaten financing",
    "link": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
@@ -1436,6 +1695,22 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2afe7c06891c",
+   "title": "Nasdaq closes over 1% lower as post-earnings slide in Alphabet weighs on AI trade",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-29T20:09:31+00:00",
+   "tickers": [
+    "GOOG"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2787,6 +3062,50 @@
    "tag_v": 2
   },
   {
+   "id": "c8ede076918e",
+   "title": "Coffee Prices Fall to 1-Month as Concerns Continue About Brazilian Sales",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-1-month-concerns-continue-about-brazilian-sales",
+   "summary": "December arabica coffee (KCZ26 ) is down -0.65 (-0.23%), and January ICE robusta coffee (RMF27 ) is up +4 (+0.13). NY arabica coffee today fell to a new 1-month low, extending this week’s sharp sell-off. Coffee prices have fallen this week on fears that Brazilian exporters will increase sales after...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T19:59:33+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "8fedf9f6c6c8",
+   "title": "Soybeans Falling Early on Thursday",
+   "link": "https://www.nasdaq.com/articles/soybeans-falling-early-thursday",
+   "summary": "Soybeans are down 5 to 8 cents across the front months to start Thursday trade. Futures faded lower into the midweek close on Wednesday, as contracts were down 4 ¾ to 7 ¼ cents and a couple cents off the lows. Open interest suggested longs continued to exit, with a...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T19:59:33+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "958aa782f622",
+   "title": "Corn Slipping Back with Fractional Losses on Thursday Morning",
+   "link": "https://www.nasdaq.com/articles/corn-slipping-back-fractional-losses-thursday-morning",
+   "summary": "Corn prices are fractionally lower to start Thursday. Futures saw steady to 3 cent higher trade across most contracts on Wednesday, as futures got a midweek bounce. Open interest was up 29,205 contracts on Wednesday, suggesting modest new open interest. The CmdtyView national average Cash Corn price was up 2...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T19:59:33+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "53ae6bdc94f9",
    "title": "Crude Oil Prices Fall on Vance Outreach to Iran",
    "link": "https://www.nasdaq.com/articles/crude-oil-prices-fall-vance-outreach-iran",
@@ -2798,6 +3117,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "1195355ebc0f",
+   "title": "Wheat Getting Some Gains on Export News",
+   "link": "https://www.nasdaq.com/articles/wheat-getting-some-gains-export-news",
+   "summary": "The wheat complex is finding some strength on Thursday with China rumors and a marketing year high in export business. Chicago SRW contracts are up 4 to 5 cents in the front months. KC HRW futures are up 1 to 2 cents at midday. MPLS spring wheat is up 5...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T19:59:33+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -2935,6 +3268,22 @@
    "tag_v": 2
   },
   {
+   "id": "99b5d74447e5",
+   "title": "HEICO (HEI) Shares Cross Above 200 DMA",
+   "link": "https://www.nasdaq.com/articles/heico-hei-shares-cross-above-200-dma",
+   "summary": "In trading on Thursday, shares of HEICO Corp (Symbol: HEI) crossed above their 200 day moving average of $319.39, changing hands as high as $327.47 per share. HEICO Corp shares are currently trading up about 4.6% on the day. The chart below shows the one year performance of HE",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T19:54:36+00:00",
+   "tickers": [
+    "HEI"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "03e2edf838c6",
    "title": "Microsoft expects to raise $25 billion in US bond sale, source says",
    "link": "https://www.investing.com/news/stock-market-news/microsoft-expects-to-raise-25-billion-in-us-bond-sale-source-says-4984856",
@@ -2951,17 +3300,35 @@
    "tag_v": 2
   },
   {
-   "id": "1195355ebc0f",
-   "title": "Wheat Getting Some Gains on Export News",
-   "link": "https://www.nasdaq.com/articles/wheat-getting-some-gains-export-news",
-   "summary": "The wheat complex is finding some strength on Thursday with China rumors and a marketing year high in export business. Chicago SRW contracts are up 4 to 5 cents in the front months. KC HRW futures are up 1 to 2 cents at midday. MPLS spring wheat is up 5...",
+   "id": "cbf649002c67",
+   "title": "Cotton Bulls Powering Through on Thursday",
+   "link": "https://www.nasdaq.com/articles/cotton-bulls-powering-through-thursday",
+   "summary": "Cotton futures are trading with 35 to 40 point gains on Thursday. Crude oil is down $1.71 per barrel on the session, with the US dollar index $0.146 lower. USDA’s Export Sales report showed 216,488 RB of cotton sales in the week ending in October 22, which was up 8.45%...",
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
-   "published": "2026-10-29T19:53:52+00:00",
+   "published": "2026-10-29T19:53:51+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "positive",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cfdccec16768",
+   "title": "Stocks Trade Lower as Alphabet Disappoints and Chip Stocks Fall",
+   "link": "https://www.nasdaq.com/articles/stocks-trade-lower-alphabet-disappoints-and-chip-stocks-fall",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.43%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.45%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.47%. December E-mini S&amp;P futures (ESZ26 ) are down -0.41%, and December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T19:53:51+00:00",
+   "tickers": [
+    "GOOG",
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -5608,20 +5975,6 @@
    "tag_v": 2
   },
   {
-   "id": "bf9503595969",
-   "title": "Alaska's governor orders a probe into Peltola's Senate campaign over the second Sullivan candidate - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFMwOVMxQVRwVnBFam0waFlKVG8tQ1poNGdDUmhPaXlHX1A0bVRscWFGSmwtMnNtUzFMQnAtbkt4WmtJbWRFUnNnYWhPVGFHOHRsTkdsTzducml1dVlhR25LQTFaeC1Ld0V6amhGS0doakg2dFZ0ckhDeVhqVndUTmliLW8zWDNZV1NvT3pxbk1zdkN2ZFBNaWxnS2FyeldUeFM5YmJmQ1o1QnMyeXJ5YzVjMA?oc=5",
-   "summary": "Alaska's governor orders a probe into Peltola's Senate campaign over the second Sullivan candidate&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-29T18:22:00+00:00",
-   "tickers": [],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "499f35c57e07",
    "title": "Toast faces FTC lawsuit over business contract practices",
    "link": "https://www.investing.com/news/company-news/toast-faces-ftc-lawsuit-over-business-contract-practices-93CH-4984864",
@@ -7979,22 +8332,6 @@
    "tag_v": 2
   },
   {
-   "id": "2afe7c06891c",
-   "title": "Nasdaq falls over 1% as post-earnings slide in Alphabet weighs on AI trade",
-   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-alphabet-slides-on-soft-earnings-microsoft-firms-4981271",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-29T16:58:02+00:00",
-   "tickers": [
-    "GOOG"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "f6875cef1287",
    "title": "Nvidia Is Getting Dangerously Close to Getting Surpassed by Apple in Market Cap. Here's the Better Growth Stock to Buy Now.",
    "link": "https://www.nasdaq.com/articles/nvidia-getting-dangerously-close-getting-surpassed-apple-market-cap-heres-better-growth",
@@ -8323,6 +8660,20 @@
     "UBER"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9e734a1e9d1d",
+   "title": "Charming, cantankerous Pat Murphy at age 67 leads Brewers to first World Series title - AP News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ2NHVHlBM0VYMkFmbnRONUQ0M0x4SE83VWRYRGpjRVN0bGNGR3pBUlhvcnBHLUJveVh6aHdGaUpSLWc4TWhhWEJWM3VYYWpMQldtSUxnQ1NjbGxXNS13c2VTTTdIcWFBdFFpcGowS3NwTDNfemJBV1BONGJaX3RyekNSZGJOaTB1enNGYmpITlZtc3hSTFQ3aXBCRDhhUQ?oc=5",
+   "summary": "Charming, cantankerous Pat Murphy at age 67 leads Brewers to first World Series title&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-29T16:46:36+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8657,347 +9008,6 @@
    "type": "dividend",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "1052bd8064cc",
-   "title": "Lilly’s obesity drug strength fuels record rally, Wall Street optimism",
-   "link": "https://www.investing.com/news/stock-market-news/lillys-obesity-drug-strength-fuels-record-rally-wall-street-optimism-4984761",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-29T16:31:30+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "aec455966212",
-   "title": "Why Textron Stock Popped on Thursday",
-   "link": "https://www.nasdaq.com/articles/why-textron-stock-popped-thursday",
-   "summary": "Key PointsTextron beat earnings this morning.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T16:30:58+00:00",
-   "tickers": [
-    "TXT"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "76b412f054b3",
-   "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.62%",
-   "link": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-062-4984753",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-29T16:30:04+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e2a1348410c1",
-   "title": "What Should D-Wave Quantum, Inc. Investors Know After 9.51% Stock Drop? The Law Offices of Frank R. Cruz Outlines Securities Fraud Class Action Lead Plaintiff Deadline",
-   "link": "https://www.prnewswire.com/news-releases/what-should-d-wave-quantum-inc-investors-know-after-9-51-stock-drop-the-law-offices-of-frank-r-cruz-outlines-securities-fraud-class-action-lead-plaintiff-deadline-302923767.html",
-   "summary": "Lawsuit alleges D-Wave Quantum, Inc. made misleading statements to investors from February 26, 2026 to August 25, 2026; lead plaintiff motions are due December 15, 2026 LOS ANGELES, Oct. 29, 2026 /PRNewswire/ -- The Law Offices of Frank R. Cruz today announced a class action lawsuit...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-29T16:30:00+00:00",
-   "tickers": [
-    "QBTS"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "2038f82d4725",
-   "title": "Perrigo Announces Quarterly Dividend | PRGO Stock News",
-   "link": "https://www.stocktitan.net/news/PRGO/perrigo-announces-quarterly-x88vqbr13ic8.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-29T16:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a52f2e22a581",
-   "title": "Werner® Chairman and CEO Derek Leathers Elected Chairman of the American Trucking Associations | WERN Stock News",
-   "link": "https://www.stocktitan.net/news/WERN/werner-chairman-and-ceo-derek-leathers-elected-chairman-of-the-010l67hu3weu.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-29T16:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "29f32c407de3",
-   "title": "Republic Airways (RJET) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/republic-airways-rjet-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T16:28:23+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "446d5447384e",
-   "title": "LKQ (LKQ) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/lkq-lkq-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T16:28:23+00:00",
-   "tickers": [
-    "LKQ"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f02b9ed1f864",
-   "title": "DT Midstream (DTM) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/dt-midstream-dtm-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T16:28:23+00:00",
-   "tickers": [
-    "DTM",
-    "DT"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cdb1a113936a",
-   "title": "Thursday's ETF with Unusual Volume: CAPE",
-   "link": "https://www.nasdaq.com/articles/thursdays-etf-unusual-volume-cape",
-   "summary": "The DoubleLine Shiller CAPE U.S. Equities ETF is seeing unusually high volume in afternoon trading Thursday, with over 397,000 shares traded versus three month average volume of about 34,000. Shares of CAPE were up about 0.7% on the day. Components of that ETF with the highest",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T16:28:04+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "365961b7f81e",
-   "title": "See Which Recent 13F Filers Hold NVDA",
-   "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-nvda",
-   "summary": "At Holdings Channel, we have reviewed the latest batch of the 53 most recent 13F filings for the 09/30/2026 reporting period, and noticed that NVIDIA Corp (Symbol: NVDA) was held by 40 of these funds. When hedge fund managers appear to be thinking alike, we find it is a good ide",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T16:27:08+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9ac7db091d17",
-   "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-   "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-   "summary": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T16:25:40+00:00",
-   "tickers": [
-    "GOOG"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "650ff85785f2",
-   "title": "IMF says Federal Reserve is ’appropriately’ keeping close eye on data",
-   "link": "https://www.investing.com/news/economy-news/imf-says-federal-reserve-is-appropriately-keeping-close-eye-on-data-4984746",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-29T16:25:06+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f8a12a2f2796",
-   "title": "Carnival crew can now see which passengers paid their tips",
-   "link": "https://www.thestreet.com/travel/carnival-cruise-line-makes-a-key-daily-gratuity-change",
-   "summary": "The change raises an uncomfortable question for Carnival passengers.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-29T16:25:05+00:00",
-   "tickers": [
-    "CCL"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fd28c72e3fb1",
-   "title": "San Lorenzo Files Second Amended and Restated Offering Document",
-   "link": "https://markets.businessinsider.com/news/stocks/san-lorenzo-files-second-amended-and-restated-offering-document-1036686143",
-   "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot;&gt;NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES&lt;p align=&quot;justify&quot;&gt;CALGARY, Alberta, Oct. 29, 2026 (GLOBE NEWSWIRE) -- San Lorenzo Gold Corp. (&quot;San Lorenzo &quot; or the &quot;Company &quot;) (TSXV:",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-10-29T16:24:30+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "496e36dc63fe",
-   "title": "Air China Swings To Loss In First 9 Months Of 2026",
-   "link": "https://www.nasdaq.com/articles/air-china-swings-loss-first-9-months-2026",
-   "summary": "(RTTNews) - Air China Limited (AIRYY.PK) on Thursday reported a net loss for the first nine months of 2026, reversing a profit in the same period a year earlier, despite higher operating revenue.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T16:23:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "817512b4361b",
-   "title": "Earnings call transcript: Tenet Healthcare beats Q3 2026 estimates, shares slip",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-tenet-healthcare-beats-q3-2026-estimates-shares-slip-93CH-4984741",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-29T16:22:41+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "432a46f4f197",
-   "title": "Earnings call transcript: Sonic Automotive misses Q3 2026 EPS forecast as shares fall",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-sonic-automotive-misses-q3-2026-eps-forecast-as-shares-fall-93CH-4984740",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-29T16:22:21+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "9684642dea71",
-   "title": "WPP plc Reports Third Quarter 2026 Trading Update and Reiterates Full Year Guidance",
-   "link": "https://www.nasdaq.com/articles/wpp-plc-reports-third-quarter-2026-trading-update-and-reiterates-full-year-guidance",
-   "summary": "WPP plc reported its third quarter 2026 trading update, with revenue of &pound;3,274m, up 0.5% on both a reported basis and like-for-like (LFL). Revenue less pass-through costs for the quarter was &pound;2,411m, representing a decline of 2.0% on a reported basis and 2.1% LFL. For",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T16:22:21+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5c2261a6b7a9",
-   "title": "Kiora Pharmaceuticals, Inc. Enters Exclusive License Agreement with Senju Pharmaceutical Co., Ltd. for KIO-401",
-   "link": "https://www.nasdaq.com/articles/kiora-pharmaceuticals-inc-enters-exclusive-license-agreement-senju-pharmaceutical-co-ltd",
-   "summary": "On October 23, 2026, Kiora Pharmaceuticals, Inc. entered into an Exclusive License Agreement with Senju Pharmaceutical Co., Ltd. to license a late-stage neuroprotective, oral small-molecule calpain inhibitor, KIO-401. Under the agreement, which has an effective date of October 5,",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T16:22:12+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ab587ad27754",
-   "title": "Earnings call transcript: Mechanics Bancorp posts Q3 2026 revenue beat, EPS miss",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-mechanics-bancorp-posts-q3-2026-revenue-beat-eps-miss-93CH-4984739",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-29T16:21:36+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "6f432d2bf448",
-   "title": "Earnings call transcript: MAA posts mixed Q3 2026 results as guidance dips",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-maa-posts-mixed-q3-2026-results-as-guidance-dips-93CH-4984738",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-29T16:21:29+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1862480a47c7",
-   "title": "Earnings call transcript: Deutsche Bank tops Q3 2026 estimates as shares rise 4%",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-deutsche-bank-tops-q3-2026-estimates-as-shares-rise-4-93CH-4984737",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-29T16:21:03+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9028,6 +9038,7 @@
   "BFH": "Bread Financial Holdings",
   "ALNY": "Alnylam Pharmaceuticals",
   "ARR": "ARMOUR Residential REIT",
+  "JKHY": "Jack Henry & Associates",
   "RYAN": "Ryan Specialty Holdings",
   "ADM": "Archer-Daniels-Midland",
   "AMD": "Advanced Micro Devices",
@@ -9056,6 +9067,7 @@
   "SIRI": "Sirius XM Holdings",
   "TT": "Trane Technologies",
   "TYL": "Tyler Technologies",
+  "RBLX": "Roblox Corporation",
   "ATEC": "Alphatec Holdings",
   "BSX": "Boston Scientific",
   "GFL": "GFL Environmental",
@@ -9077,7 +9089,6 @@
   "NSC": "Norfolk Southern",
   "PTCT": "PTC Therapeutics",
   "RKT": "Rocket Companies",
-  "THC": "Tenet Healthcare",
   "TTMI": "TTM Technologies",
   "VMC": "Vulcan Materials",
   "WEC": "WEC Energy Group",
@@ -9103,7 +9114,6 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "OTIS": "Otis Worldwide",
-  "QBTS": "D-Wave Quantum",
   "VOYA": "Voya Financial",
   "CNX": "CNX Resources",
   "EG": "Everest Group",
@@ -9137,6 +9147,7 @@
   "APG": "APi Group",
   "BLK": "BlackRock",
   "CME": "CME Group",
+  "CUBE": "CubeSmart",
   "DT": "Dynatrace",
   "FLS": "Flowserve",
   "OS": "OneStream",
@@ -9154,6 +9165,7 @@
   "INOD": "Innodata",
   "PEN": "Penumbra",
   "SNPS": "Synopsys",
+  "SYM": "Symbotic",
   "WING": "Wingstop",
   "WWD": "Woodward",
   "RTX": "Raytheon",
@@ -9182,6 +9194,7 @@
   "VST": "Vistra",
   "CROX": "Crocs",
   "FDX": "FedEx",
+  "HEI": "HEICO",
   "INTC": "Intel",
   "LIN": "Linde",
   "EBAY": "eBay",
