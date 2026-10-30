@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-30T11:21:19.531954+00:00",
+ "generated": "2026-10-30T11:26:24.378560+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e76b98b9ac2f",
+   "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+   "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+   "summary": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T11:24:42+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "d881ca2ca93c",
    "title": "Silver X Files NI 43-101 Technical Report for the Updated Nueva Recuperada Mineral Resource: 10.4 Mt Measured and Indicated at 202 g/t AgEq (67.3 Moz AgEq) and 21.6 Mt Inferred at 260 g/t AgEq (184.3 Moz AgEq) | AGXPF Stock News",
@@ -5595,20 +5609,6 @@
    "tag_v": 2
   },
   {
-   "id": "e76b98b9ac2f",
-   "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
-   "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-   "summary": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-30T08:09:28+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "fdc6a500235d",
    "title": "Acerinox posts Q3 beat on US strength despite Europe weakness",
    "link": "https://www.investing.com/news/stock-market-news/acerinox-posts-q3-beat-on-us-strength-despite-europe-weakness-93CH-4985975",
@@ -7249,6 +7249,25 @@
    ],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "48b28e6d83eb",
+   "title": "5 Stocks to Buy in November: Bargains Worth Giving Thanks For",
+   "link": "https://www.marketbeat.com/articles/5-stocks-to-buy-in-november-bargains-worth-giving-thanks-for/",
+   "summary": "Oracle, Salesforce, Zscaler, Applied Digital, and Amprius Technologies trade near long-term lows despite improving AI monetization, backlog growth, and cash flow, positioning them for potential rebounds.",
+   "source": "MarketBeat",
+   "category": "stocks",
+   "domain": "marketbeat.com",
+   "published": "2026-10-30T06:25:00+00:00",
+   "tickers": [
+    "AMPX",
+    "APLD",
+    "CRM",
+    "ZS"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8910,20 +8929,6 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "3a6b1d3322a5",
-   "title": "Australian court orders Erin Patterson never to be released from prison for mushroom poisonings - AP News",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOEtoVUVuU2k5ZXNxQUlhR1Yzc2lGR29TT3ZKTjBIRzdYTTZDZUFPbzJOM1kzRmhtY0VhSTVXZ0JFZ3R4SHhXakNsd3E1N0Z0U0JqUmpTU2oyZW5qaktGOWdyRlVMMHpqdHd5ZWEyMlRRRlNWbW9qYndSUm9XQkQ4bFoxZXNuem5hMU4wN1V0bjNSeHhaS0ZmNkVuNjR4ajdPeDJaMFcwUVhQcUNUVFozTQ?oc=5",
-   "summary": "Australian court orders Erin Patterson never to be released from prison for mushroom poisonings&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-30T04:11:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8950,6 +8955,7 @@
   "VZ": "Verizon Communications",
   "AJG": "Arthur J. Gallagher &",
   "PLTR": "Palantir Technologies",
+  "AMPX": "Amprius Technologies",
   "BMY": "Bristol-Myers Squibb",
   "CFR": "Cullen/Frost Bankers",
   "IP": "International Paper",
@@ -8983,6 +8989,7 @@
   "SPXC": "SPX Technologies",
   "SW": "Smurfit Westrock",
   "TTE": "TotalEnergies SE",
+  "APLD": "Applied Digital",
   "ARES": "Ares Management",
   "BAC": "Bank of America",
   "CHD": "Church & Dwight",
@@ -9015,6 +9022,7 @@
   "AMZN": "Whole Foods",
   "AZN": "AstraZeneca",
   "BA": "The Boeing",
+  "CRM": "Salesforce",
   "RKLB": "Rocket Lab",
   "WT": "WisdomTree",
   "MSFT": "Office 365",
@@ -9052,6 +9060,7 @@
   "SYK": "Stryker",
   "VLTO": "Veralto",
   "WMT": "Walmart",
+  "ZS": "Zscaler",
   "SPY": "SPY ETF",
   "BULL": "Webull",
   "CCJ": "Cameco",
