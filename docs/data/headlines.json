@@ -1,8 +1,41 @@
 {
- "generated": "2026-10-30T15:11:47.286927+00:00",
+ "generated": "2026-10-30T15:16:35.244035+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "687ece35c4fc",
+   "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+   "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+   "summary": "Meta's Mark Zuckerberg and Elon Musk of Tesla and SpaceX adopted President Trump's preferred \"super intelligence\" term on their third-quarter earnings calls.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T15:14:27+00:00",
+   "tickers": [
+    "TSLA",
+    "META"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "59dde556765d",
+   "title": "Attilio Unveils the Dr. Verdin Baseline Assessment, a Nine Part Study of Biological Age",
+   "link": "https://www.prnewswire.com/news-releases/attilio-unveils-the-dr-verdin-baseline-assessment-a-nine-part-study-of-biological-age-302925056.html",
+   "summary": "The assessment measures six core functions of aging, with every component selected for clinical value over novelty. ST. PETERSBURG, Fla., Oct. 30, 2026 /PRNewswire/ -- Attilio today detailed the Dr. Verdin Baseline Assessment(TM), a nine part study of biological age designed with Dr. Eric...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-30T15:09:00+00:00",
+   "tickers": [
+    "TM"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "4f3099806082",
    "title": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
@@ -32,6 +65,20 @@
    ],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "03f5cbb559f0",
+   "title": "Here are the stocks reporting next week that have a history of earnings beats and big share gains",
+   "link": "https://www.cnbc.com/2026/10/30/here-are-stocks-reporting-next-week-that-usually-beats-and-see-big-share-gains.html",
+   "summary": "These stocks reporting next week typically beat Wall Street numbers and see their stocks rally afterward.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T15:04:26+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -343,15 +390,15 @@
    "title": "ILF, ITUB, PBR.A, PBR: Large Outflows Detected at ETF",
    "link": "https://www.nasdaq.com/articles/ilf-itub-pbra-pbr-large-outflows-detected-etf",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares Latin America 40 ETF (Symbol: ILF) where we have detected an approximate $130.7 million dollar outflow -- that's a 3.7% decrease week over w",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-30T14:53:43+00:00",
    "tickers": [
     "ILF",
     "PBR"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -404,8 +451,8 @@
    "title": "IWM, BTSG, UMBF, SM: Large Outflows Detected at ETF",
    "link": "https://www.nasdaq.com/articles/iwm-btsg-umbf-sm-large-outflows-detected-etf",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares Russell 2000 ETF (Symbol: IWM) where we have detected an approximate $468.6 million dollar outflow -- that's a 0.6% decrease week over week",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-30T14:52:26+00:00",
    "tickers": [
@@ -413,7 +460,7 @@
     "UMBF",
     "SM"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -422,8 +469,8 @@
    "title": "QQQM, TSLA, MRVL, ADI: Large Inflows Detected at ETF",
    "link": "https://www.nasdaq.com/articles/qqqm-tsla-mrvl-adi-large-inflows-detected-etf",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Invesco NASDAQ 100 ETF (Symbol: QQQM) where we have detected an approximate $1.4 billion dollar inflow -- that's a 1.3% increase week over week in ou",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-30T14:52:24+00:00",
    "tickers": [
@@ -432,7 +479,7 @@
     "TSLA",
     "MRVL"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2210,6 +2257,20 @@
    "published": "2026-10-30T14:12:23+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "4fb67776385b",
+   "title": "Spain’s latest deadly train crash puts human error and systemic failure under scrutiny - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGkwSHI5NE1aaU1SekdVcF93SDdITGRHeEYxa1N6OC1oU2RpVXBuM2JiZWdpbUg2VDFBNW0tWGFfYW10ZnZjY0E5YlppQnpBbGtOd3ZSeVRfLWc0aTVRWGF4UTFldk9NSXp1Qk5lckdJa05abGJkYzF4a1FQVTd5UGoxTUVqUFJFQlVQc0htR1hHOTRWWVhyWGdXdFF3aU0?oc=5",
+   "summary": "Spain’s latest deadly train crash puts human error and systemic failure under scrutiny&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-30T14:12:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -7994,23 +8055,6 @@
    "tag_v": 2
   },
   {
-   "id": "687ece35c4fc",
-   "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not",
-   "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
-   "summary": "Meta's Mark Zuckerberg and Elon Musk of Tesla and SpaceX adopted President Trump's preferred \"super intelligence\" term on their third-quarter earnings calls.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-30T11:30:01+00:00",
-   "tickers": [
-    "TSLA",
-    "META"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "ca3e04cc5702",
    "title": "Federal Realty Investment Trust Reports Strong Third Quarter 2026 Results and Guidance Raise",
    "link": "https://www.prnewswire.com/news-releases/federal-realty-investment-trust-reports-strong-third-quarter-2026-results-and-guidance-raise-302924526.html",
@@ -9013,50 +9057,6 @@
    "type": "earnings",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "04979a2404fc",
-   "title": "CVNA Q3 Earnings Miss on Higher Costs Despite Record Sales",
-   "link": "https://www.nasdaq.com/articles/cvna-q3-earnings-miss-higher-costs-despite-record-sales",
-   "summary": "Carvana's Q3 2026 revenues surge 42.4% on record retail sales, but earnings miss estimates as higher logistics costs and interest rates pressure unit economics.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T11:08:00+00:00",
-   "tickers": [
-    "CVNA"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f3d308e7a674",
-   "title": "Lear earnings beat by $0.39, revenue fell short of estimates",
-   "link": "https://www.investing.com/news/earnings/lear-earnings-beat-by-039-revenue-fell-short-of-estimates-4986966",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T11:07:30+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3c04e7203536",
-   "title": "AutoNation earnings missed by $0.06, revenue topped estimates",
-   "link": "https://www.investing.com/news/earnings/autonation-earnings-missed-by-006-revenue-topped-estimates-4986965",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T11:07:16+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9174,6 +9174,7 @@
   "NBIS": "Nebius Group",
   "RBC": "RBC Bearings",
   "STT": "State Street",
+  "TM": "Toyota Motor",
   "UBS": "UBS Group AG",
   "USB": "U.S. Bancorp",
   "WY": "Weyerhaeuser",
@@ -9217,7 +9218,6 @@
   "NI": "NiSource",
   "SYM": "Symbotic",
   "CNC": "Centene",
-  "CVNA": "Carvana",
   "CVX": "Chevron",
   "EFX": "Equifax",
   "EMBJ": "Embraer",
