@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-30T15:41:33.276184+00:00",
+ "generated": "2026-10-30T15:46:37.633998+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "40b3caecb230",
+   "title": "Intel heads for worst day on Wall Street in more than 50 years on weak guidance",
+   "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+   "summary": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T15:43:48+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e76b98b9ac2f",
+   "title": "$6.3 billion Binance hack is largest crypto theft on record",
+   "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+   "summary": "Binance says a security breach impacted about $6.3 billion in assets. The exchange says roughly $3 billion has been frozen and losses will be covered.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T15:43:21+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "5c8963fa18b3",
    "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
@@ -351,20 +381,6 @@
    ],
    "type": "earnings",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e76b98b9ac2f",
-   "title": "$6.3 billion Binance hack is largest crypto theft on record",
-   "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-   "summary": "Binance says a security breach impacted about $6.3 billion in assets. The exchange says roughly $3 billion has been frozen and losses will be covered.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-30T15:24:44+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -940,19 +956,33 @@
    "tag_v": 2
   },
   {
+   "id": "a9c25dc310cf",
+   "title": "Three tankers strike mines and catch fire in Strait of Hormuz, Iran claims, and other Mideast news - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
+   "summary": "Three tankers strike mines and catch fire in Strait of Hormuz, Iran claims, and other Mideast news&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-30T15:12:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b3aafbd24bd5",
    "title": "XLF, UMAY: Big ETF Outflows",
    "link": "https://www.nasdaq.com/articles/xlf-umay-big-etf-outflows",
    "summary": "Looking at units outstanding versus one week prior within the universe of ETFs covered at ETF Channel, the biggest outflow was seen in the State Street Financial Select Sector SPDR ETF, where 16,250,000 units were destroyed, or a 1.7% decrease week over week. Among the largest",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:11:15+00:00",
    "tickers": [
     "XLF",
     "STT"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -977,14 +1007,14 @@
    "title": "See Which Recent 13F Filers Hold CRM",
    "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-crm",
    "summary": "At Holdings Channel, we have reviewed the latest batch of the 51 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Salesforce Inc (Symbol: CRM) was held by 24 of these funds. When hedge fund managers appear to be thinking alike, we find it is a good i",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:11:00+00:00",
    "tickers": [
     "CRM"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -993,15 +1023,15 @@
    "title": "SCHP, DRAI: Big ETF Inflows",
    "link": "https://www.nasdaq.com/articles/schp-drai-big-etf-inflows",
    "summary": "Comparing units outstanding versus one week ago at the coverage universe of ETFs at ETF Channel, the biggest inflow was seen in the Schwab U.S. TIPs ETF, which added 39,300,000 units, or a 6.1% increase week over week. And on a percentage change basis, the ETF with the bigges",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:10:56+00:00",
    "tickers": [
     "SCHW",
     "SCHP"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1040,15 +1070,15 @@
    "title": "Friday 10/30 Insider Buying Report: DINO, PNFP",
    "link": "https://www.nasdaq.com/articles/friday-10-30-insider-buying-report-dino-pnfp",
    "summary": "Bargain hunters are wise to pay careful attention to insider buying, because although there are many various reasons for an insider to sell a stock, presumably the only reason they would use their hard-earned cash to make a purchase, is that they expect to make money. Today we",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:09:13+00:00",
    "tickers": [
     "DINO",
     "PNFP"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1087,15 +1117,15 @@
    "title": "Nasdaq 100 Movers: INTC, REGN",
    "link": "https://www.nasdaq.com/articles/nasdaq-100-movers-intc-regn",
    "summary": "In early trading on Friday, shares of Regeneron Pharmaceuticals topped the list of the day's best performing components of the Nasdaq 100 index, trading up 13.9%. Year to date, Regeneron Pharmaceuticals registers a 20.8% gain. And the worst performing Nasdaq 100 component thus",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:08:00+00:00",
    "tickers": [
     "REGN",
     "INTC"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1132,15 +1162,15 @@
    "title": "S&P 500 Movers: INTC, REGN",
    "link": "https://www.nasdaq.com/articles/sp-500-movers-intc-regn",
    "summary": "In early trading on Friday, shares of Regeneron Pharmaceuticals topped the list of the day's best performing components of the S&amp;P 500 index, trading up 13.9%. Year to date, Regeneron Pharmaceuticals registers a 20.8% gain. And the worst performing S&amp;P 500 component th",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:06:43+00:00",
    "tickers": [
     "REGN",
     "INTC"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1165,15 +1195,15 @@
    "title": "Dow Movers: NVDA, HONIV",
    "link": "https://www.nasdaq.com/articles/dow-movers-nvda-honiv",
    "summary": "In early trading on Friday, shares of Honeywell International topped the list of the day's best performing Dow Jones Industrial Average components, trading up 7.5%. Year to date, Honeywell International registers a 42.2% gain. And the worst performing Dow component thus far on",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:05:56+00:00",
    "tickers": [
     "HON",
     "NVDA"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3827,23 +3857,6 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "40b3caecb230",
-   "title": "Amazon falls 2%, Intel dives 29%, as tech stocks sell off in post-earnings rout",
-   "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-   "summary": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-30T14:03:21+00:00",
-   "tickers": [
-    "AMZN",
-    "INTC"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -7630,20 +7643,6 @@
    "published": "2026-10-30T12:13:46+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a9c25dc310cf",
-   "title": "Saudi Arabia says drone intercepted near Islam’s holiest city, and other Mideast news - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
-   "summary": "Saudi Arabia says drone intercepted near Islam’s holiest city, and other Mideast news&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-30T12:10:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
