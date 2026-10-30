@@ -1,8 +1,25 @@
 {
- "generated": "2026-10-30T08:31:37.096132+00:00",
+ "generated": "2026-10-30T08:36:34.053732+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4779c9d17c01",
+   "title": "Nasdaq-100 futures fall 2% as Amazon and Intel tumble after earnings: Live updates",
+   "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+   "summary": "Amazon and Intel shares tumbled after the companies posted their latest earnings reports.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T08:33:25+00:00",
+   "tickers": [
+    "AMZN",
+    "INTC"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "363d76691537",
    "title": "European shares dip as Amazon, Intel stoke AI cash-burn fears",
@@ -675,23 +692,6 @@
    "domain": "investing.com",
    "published": "2026-10-30T07:45:02+00:00",
    "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "4779c9d17c01",
-   "title": "Nasdaq-100 futures fall 2% as Amazon and Intel tumble after earnings: Live updates",
-   "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
-   "summary": "Amazon and Intel shares tumbled after the companies posted their latest earnings reports.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-30T07:44:26+00:00",
-   "tickers": [
-    "AMZN",
-    "INTC"
-   ],
    "type": "earnings",
    "sentiment": "negative",
    "tag_v": 2
@@ -6258,6 +6258,20 @@
    "tag_v": 2
   },
   {
+   "id": "8f2132d2c417",
+   "title": "Patrick Stewart, legendary actor of ‘Star Trek’ and ‘X-Men’ fame, dies at 86 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3cxRGJjSXBXVU1QdWZQa0tFZnJiR1pvRW1WLXZJSmRBZlpsV180RVNPdEZBUzJFazlsS1lfZ1VNM212VzFCTEo2ajlMcm9TLU8tVktRTnYzazJpWWxmcV9TS01xWW1jdTh6ZGVQRGZuYV8zUnJ6V2R6WnhoYjdrcnFhYmxWS1E?oc=5",
+   "summary": "Patrick Stewart, legendary actor of ‘Star Trek’ and ‘X-Men’ fame, dies at 86&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-30T00:49:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "412e878b4f33",
    "title": "Bayer wins US trial in which it was alleged that Roundup caused cancer in three women",
    "link": "https://www.investing.com/news/stock-market-news/bayer-wins-us-trial-in-which-it-was-alleged-that-roundup-caused-cancer-in-threewomen-4985665",
@@ -8827,22 +8841,6 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "6fc1d441c61f",
-   "title": "Amazon's $17 2-pack of rechargeable wall sconces stays lit for 8+ hours",
-   "link": "https://www.thestreet.com/deals/ametheus-2-pack-rechargeable-wall-sconces-amazon-sale",
-   "summary": "\"They mount really well, and charge up great.\"",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-29T22:30:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   }
  ],
