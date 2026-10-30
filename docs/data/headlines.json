@@ -1,8 +1,25 @@
 {
- "generated": "2026-10-30T19:36:35.655916+00:00",
+ "generated": "2026-10-30T19:41:39.081658+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4779c9d17c01",
+   "title": "Stock market rocked as investors dump tech shares, Nasdaq drops 3%: Live updates",
+   "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+   "summary": "Amazon and Intel shares tumbled after the companies posted their latest earnings reports.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T19:35:26+00:00",
+   "tickers": [
+    "AMZN",
+    "INTC"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "5bf82d94acb7",
    "title": "Nvidia has a stake in SpaceX that came from an unexpected place",
@@ -15,23 +32,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4779c9d17c01",
-   "title": "Stock market rocked as investors dump tech shares, Nasdaq drops 3%: Live updates",
-   "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
-   "summary": "Amazon and Intel shares tumbled after the companies posted their latest earnings reports.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-30T19:28:54+00:00",
-   "tickers": [
-    "AMZN",
-    "INTC"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -107,20 +107,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e670061c31c0",
-   "title": "Soybeans Starting the Final Trade Day of October with Losses",
-   "link": "https://www.nasdaq.com/articles/soybeans-starting-final-trade-day-october-losses",
-   "summary": "Soybeans are showing slight losses of fractionally to 2 cents on Friday morning. Future were down ½ to 4 ¾ cents in the front months on Thursday with some deferreds fractionally to 3 ents higher. Open interest was down 9,096 contracts on Thursday. There was just 1 soybean delivery against...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:23:11+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -339,6 +325,168 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "23be4595fb54",
+   "title": "Soybeans Pushing Higher on Friday, Following Export Business",
+   "link": "https://www.nasdaq.com/articles/soybeans-pushing-higher-friday-following-export-business",
+   "summary": "Soybeans are showing Friday gains of 5 to 7 ¼ cents across the front months at midday. There was just 1 soybean delivery against November soybeans overnight on first notice day. The cmdtyView national average Cash Bean price is up 1/4 cents at $11.63. Soymeal futures are $2.80 cents to...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:16:47+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9b7fbb61f1b1",
+   "title": "Hogs Falling to Close October",
+   "link": "https://www.nasdaq.com/articles/hogs-falling-close-october",
+   "summary": "Lean hog futures are down 97 cents to $1.12 so far at midday. USDA’s national base hog price was reported at $61.40 in the Friday AM report, down $1.66 from the day prior. The CME Lean Hog Index was down $1.00 on October 28 at $67.30. USDA’s pork carcass cutout...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:16:47+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a0cba9a64203",
+   "title": "Cotton Slipping Lower on Friday",
+   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-friday-2",
+   "summary": "Cotton futures are trading with losses of 30 to 35 points across most contracts on Friday. Crude oil is up $2.70 per barrel on the session, with the US dollar index $0.096 lower. USDA’s Export Sales data showed 5.665 million RB of cotton sold as of 10/22 for the 2026/27...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:16:46+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "6fe9227ee5fe",
+   "title": "Sugar Prices Resume Weakness on Concern About Brazilian Exporters Selling",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-resume-weakness-concern-about-brazilian-exporters-selling",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.11 (-0.56%), and December London ICE white sugar #5 (SWZ26 ) is down -10.40 (-1.97%). Sugar prices on Friday fell back from Thursday’s 4-session high, which was due to the Brazilian agricultural ministry’s report late Wednesday that Brazilian mills crushed 32...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:16:46+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "be3a7ab62933",
+   "title": "Corn Holding Lower on Friday",
+   "link": "https://www.nasdaq.com/articles/corn-holding-lower-friday",
+   "summary": "Corn futures are slipping 1 to 2 cents in the front months on Friday as the market heads into month-end. The CmdtyView national average Cash Corn price is up ¼ cent at $4.14 3/4. Acres left to be harvested may be slowed after the weekend, with the NOAA 7-day QPF...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:16:46+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3ddff68cedf6",
+   "title": "Cattle Falling on Friday",
+   "link": "https://www.nasdaq.com/articles/cattle-falling-friday-0",
+   "summary": "Live cattle futures are down $3.27 to $5.10 in the nearbys, with pressure coming from month end and a sharply lower equity market. Cash trade has been quiet this week with a few sales reported by USDA at $223-226 live in the north and $350-365 dressed. The Friday morning Fed...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:16:46+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c6d77b635123",
+   "title": "Wheat Posting Midday Gains Heading into Month End",
+   "link": "https://www.nasdaq.com/articles/wheat-posting-midday-gains-heading-month-end",
+   "summary": "The wheat complex is higher across the three markets on Friday. Chicago SRW contracts are up 2 to 3 cents. KC HRW futures are 2 to 3 cents higher in the front months. MPLS spring wheat is steady to fractionally higher on the session. There were wire reports on Thursday...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:16:46+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e670061c31c0",
+   "title": "Soybeans Starting the Final Trade Day of October with Losses",
+   "link": "https://www.nasdaq.com/articles/soybeans-starting-final-trade-day-october-losses",
+   "summary": "Soybeans are showing slight losses of fractionally to 2 cents on Friday morning. Future were down ½ to 4 ¾ cents in the front months on Thursday with some deferreds fractionally to 3 ents higher. Open interest was down 9,096 contracts on Thursday. There was just 1 soybean delivery against...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:16:45+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "efe85f6ce3c4",
+   "title": "Cotton Fading Lower on Friday",
+   "link": "https://www.nasdaq.com/articles/cotton-fading-lower-friday-1",
+   "summary": "Cotton prices are down 29 to 36 points on Friday morning. Futures closed with gains of 21 to 43 points across the board on Thursday. Crude oil was up 8 cents per barrel on the session, with the US dollar index $0.271 lower. USDA’s Export Sales report showed 216,488 RB...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:16:45+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3da3f5dbd207",
+   "title": "Coffee Prices Rebound Mildly Higher But Are Still Down for the Week",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-rebound-mildly-higher-are-still-down-week",
+   "summary": "December arabica coffee (KCZ26 ) is up +2.00 (+0.70%), and January ICE robusta coffee (RMF27 ) is up +30 (+0.94). NY arabica coffee rebounded mildly higher today from Thursday’s 1-month low, retracing a small part of the sharp sell-off seen over the past two weeks. Coffee prices have fallen this...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:16:45+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c95b19763572",
+   "title": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
+   "link": "https://www.nasdaq.com/articles/cocoa-remains-weak-rising-ice-inventories-and-potential-brazilian-cocoa-sales-1",
+   "summary": "December ICE NY cocoa (CCZ26 ) is down -22 (-0.40%), and ICE London cocoa #7 (CAZ26 ) is down -30 (-0.72%). NY cocoa prices on Friday edged to a new 1-month low, extending the 2-week sell-off. Cocoa prices have trended lower this week on concerns that Brazilian exporters may increase...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:16:45+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -601,50 +749,6 @@
    "tag_v": 2
   },
   {
-   "id": "a0cba9a64203",
-   "title": "Cotton Slipping Lower on Friday",
-   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-friday-2",
-   "summary": "Cotton futures are trading with losses of 30 to 35 points across most contracts on Friday. Crude oil is up $2.70 per barrel on the session, with the US dollar index $0.096 lower. USDA’s Export Sales data showed 5.665 million RB of cotton sold as of 10/22 for the 2026/27...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:04:57+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "6fe9227ee5fe",
-   "title": "Sugar Prices Resume Weakness on Concern About Brazilian Exporters Selling",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-resume-weakness-concern-about-brazilian-exporters-selling",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.11 (-0.56%), and December London ICE white sugar #5 (SWZ26 ) is down -10.40 (-1.97%). Sugar prices on Friday fell back from Thursday’s 4-session high, which was due to the Brazilian agricultural ministry’s report late Wednesday that Brazilian mills crushed 32...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:04:56+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "efe85f6ce3c4",
-   "title": "Cotton Fading Lower on Friday",
-   "link": "https://www.nasdaq.com/articles/cotton-fading-lower-friday-1",
-   "summary": "Cotton prices are down 29 to 36 points on Friday morning. Futures closed with gains of 21 to 43 points across the board on Thursday. Crude oil was up 8 cents per barrel on the session, with the US dollar index $0.271 lower. USDA’s Export Sales report showed 216,488 RB...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:04:56+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "0223d6a152df",
    "title": "Corn Fading Lower on Friday AM Trade",
    "link": "https://www.nasdaq.com/articles/corn-fading-lower-friday-am-trade",
@@ -758,64 +862,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "be3a7ab62933",
-   "title": "Corn Holding Lower on Friday",
-   "link": "https://www.nasdaq.com/articles/corn-holding-lower-friday",
-   "summary": "Corn futures are slipping 1 to 2 cents in the front months on Friday as the market heads into month-end. The CmdtyView national average Cash Corn price is up ¼ cent at $4.14 3/4. Acres left to be harvested may be slowed after the weekend, with the NOAA 7-day QPF...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T18:59:39+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "23be4595fb54",
-   "title": "Soybeans Pushing Higher on Friday, Following Export Business",
-   "link": "https://www.nasdaq.com/articles/soybeans-pushing-higher-friday-following-export-business",
-   "summary": "Soybeans are showing Friday gains of 5 to 7 ¼ cents across the front months at midday. There was just 1 soybean delivery against November soybeans overnight on first notice day. The cmdtyView national average Cash Bean price is up 1/4 cents at $11.63. Soymeal futures are $2.80 cents to...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T18:59:39+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3ddff68cedf6",
-   "title": "Cattle Falling on Friday",
-   "link": "https://www.nasdaq.com/articles/cattle-falling-friday-0",
-   "summary": "Live cattle futures are down $3.27 to $5.10 in the nearbys, with pressure coming from month end and a sharply lower equity market. Cash trade has been quiet this week with a few sales reported by USDA at $223-226 live in the north and $350-365 dressed. The Friday morning Fed...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T18:59:39+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9b7fbb61f1b1",
-   "title": "Hogs Falling to Close October",
-   "link": "https://www.nasdaq.com/articles/hogs-falling-close-october",
-   "summary": "Lean hog futures are down 97 cents to $1.12 so far at midday. USDA’s national base hog price was reported at $61.40 in the Friday AM report, down $1.66 from the day prior. The CME Lean Hog Index was down $1.00 on October 28 at $67.30. USDA’s pork carcass cutout...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T18:59:38+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -972,20 +1018,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c6d77b635123",
-   "title": "Wheat Posting Midday Gains Heading into Month End",
-   "link": "https://www.nasdaq.com/articles/wheat-posting-midday-gains-heading-month-end",
-   "summary": "The wheat complex is higher across the three markets on Friday. Chicago SRW contracts are up 2 to 3 cents. KC HRW futures are 2 to 3 cents higher in the front months. MPLS spring wheat is steady to fractionally higher on the session. There were wire reports on Thursday...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T18:50:44+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1425,38 +1457,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3da3f5dbd207",
-   "title": "Coffee Prices Rebound Mildly Higher But Are Still Down for the Week",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-rebound-mildly-higher-are-still-down-week",
-   "summary": "December arabica coffee (KCZ26 ) is up +2.00 (+0.70%), and January ICE robusta coffee (RMF27 ) is up +30 (+0.94). NY arabica coffee rebounded mildly higher today from Thursday’s 1-month low, retracing a small part of the sharp sell-off seen over the past two weeks. Coffee prices have fallen this...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T18:27:43+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c95b19763572",
-   "title": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
-   "link": "https://www.nasdaq.com/articles/cocoa-remains-weak-rising-ice-inventories-and-potential-brazilian-cocoa-sales-1",
-   "summary": "December ICE NY cocoa (CCZ26 ) is down -22 (-0.40%), and ICE London cocoa #7 (CAZ26 ) is down -30 (-0.72%). NY cocoa prices on Friday edged to a new 1-month low, extending the 2-week sell-off. Cocoa prices have trended lower this week on concerns that Brazilian exporters may increase...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T18:27:43+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -3866,20 +3866,6 @@
    "tag_v": 2
   },
   {
-   "id": "be91c955c220",
-   "title": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE50dDNzNWRrQWd1b0g3RHBwMHBNREZ2UUtBQjBGQ0VSSHB5ZkxrTV9aa1VoU1ZWVXJMcHpNSVh4T1lWT2lDeHBVa2hCY0o1eXhTR1F6b0d4UWsySUFsbXI5YXFVdVN0UzY3U2o3QjNSSld5TmJEeDh2dlFkc0JLeDB0WndsaWFvaC16eFg2dmpaTko2OHNj?oc=5",
-   "summary": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-30T16:53:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "ce08755756c6",
    "title": "Donaldson Company to Present at the Gabelli Funds 50th Annual Automotive Symposium | DCI Stock News",
    "link": "https://www.stocktitan.net/news/DCI/donaldson-company-to-present-at-the-gabelli-funds-50th-annual-x3sh2x3ytouk.html",
@@ -4193,6 +4179,20 @@
    "published": "2026-10-30T16:41:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "618378674769",
+   "title": "A longtime Oregon drug treatment center is shuttering as similar programs for moms face trouble - AP News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUNNdE1VaVA2bnJueVpoWVYxdzZmS1VUQ2xFeXVmbGNmVmdPT2FMa1dTbG9idUFMQVJPWUZuQkU3b0ItSVFubVdXa3pBX3BNeVBBOUJ2U0I3VWtjWjJpNS13M1JjazYzSDBRbFpLVjUzYUFTaXRmTllxYVBPNHJZUnBuUnFIRHhxYzhiMGxxcUxxc3VxNlhrczJ6X0o2UVZHaW9QOERMYW55V2M1TnJMTw?oc=5",
+   "summary": "A longtime Oregon drug treatment center is shuttering as similar programs for moms face trouble&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-30T16:39:47+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -4923,20 +4923,6 @@
     "META"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "618378674769",
-   "title": "A longtime Oregon drug treatment center is shuttering as similar programs for moms face trouble - AP News",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUNNdE1VaVA2bnJueVpoWVYxdzZmS1VUQ2xFeXVmbGNmVmdPT2FMa1dTbG9idUFMQVJPWUZuQkU3b0ItSVFubVdXa3pBX3BNeVBBOUJ2U0I3VWtjWjJpNS13M1JjazYzSDBRbFpLVjUzYUFTaXRmTllxYVBPNHJZUnBuUnFIRHhxYzhiMGxxcUxxc3VxNlhrczJ6X0o2UVZHaW9QOERMYW55V2M1TnJMTw?oc=5",
-   "summary": "A longtime Oregon drug treatment center is shuttering as similar programs for moms face trouble&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-30T16:08:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7942,6 +7928,20 @@
     "AVGO"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "be91c955c220",
+   "title": "Ukrainian lawmaker says some residents have been evacuated from the war-ravaged city of Oleshky - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE50dDNzNWRrQWd1b0g3RHBwMHBNREZ2UUtBQjBGQ0VSSHB5ZkxrTV9aa1VoU1ZWVXJMcHpNSVh4T1lWT2lDeHBVa2hCY0o1eXhTR1F6b0d4UWsySUFsbXI5YXFVdVN0UzY3U2o3QjNSSld5TmJEeDh2dlFkc0JLeDB0WndsaWFvaC16eFg2dmpaTko2OHNj?oc=5",
+   "summary": "Ukrainian lawmaker says some residents have been evacuated from the war-ravaged city of Oleshky&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-30T14:50:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
