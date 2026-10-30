@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T23:01:56.093183+00:00",
+ "generated": "2026-10-30T23:06:50.397344+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -27,6 +27,38 @@
    "domain": "cnbc.com",
    "published": "2026-10-30T22:52:04+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b2b61e937674",
+   "title": "3 Dividend-Paying Value Stocks That Let You Rest Easy Even if the Stock Market Sell-Off Worsens in November.",
+   "link": "https://www.nasdaq.com/articles/3-dividend-paying-value-stocks-let-you-rest-easy-even-if-stock-market-sell-worsens",
+   "summary": "Key PointsKroger, J.M. Smucker, and Conagra Brands are all dividend-paying consumer stocks priced mainly on current earnings rather than future growth hopes.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T22:50:00+00:00",
+   "tickers": [
+    "CAG"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "673782ab0b9c",
+   "title": "Arista Networks vs. Monday.com: Which Technology Stock Is a Better Buy in 2026?",
+   "link": "https://www.nasdaq.com/articles/arista-networks-vs-mondaycom-which-technology-stock-better-buy-2026",
+   "summary": "Key PointsArista Networks is a dominant provider of high-speed networking equipment for the world's largest cloud and AI data centers.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T22:47:02+00:00",
+   "tickers": [
+    "ANET"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -357,6 +389,20 @@
     "PCG"
    ],
    "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ea630e30bb3f",
+   "title": "Why Bright Horizons Family Solutions Stock Swooned on Friday",
+   "link": "https://www.nasdaq.com/articles/why-bright-horizons-family-solutions-stock-swooned-friday",
+   "summary": "Key PointsIt beat on revenue but missed on earnings.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T22:40:24+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8933,54 +8979,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "37294027af30",
-   "title": "Kraft Heinz vs. Coca-Cola: Stagnant Versus Growing Revenue Trends in Consumer Goods",
-   "link": "https://www.nasdaq.com/articles/kraft-heinz-vs-coca-cola-stagnant-versus-growing-revenue-trends-consumer-goods",
-   "summary": "Key PointsCoca-Cola currently presents a stronger revenue profile than Kraft Heinz, as it consistently records higher overall sales totals, including its peak for the quarter ended July 2026, while maintaining year-over-year gains.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T16:53:01+00:00",
-   "tickers": [
-    "KO"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "28e77f8169da",
-   "title": "Amazon sets up $80 billion supplier financing for AI hardware",
-   "link": "https://www.investing.com/news/stock-market-news/amazon-sets-up-80-billion-supplier-financing-for-ai-hardware-4988386",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-30T16:53:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ce08755756c6",
-   "title": "Donaldson Company to Present at the Gabelli Funds 50th Annual Automotive Symposium | DCI Stock News",
-   "link": "https://www.stocktitan.net/news/DCI/donaldson-company-to-present-at-the-gabelli-funds-50th-annual-x3sh2x3ytouk.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-30T16:52:00+00:00",
-   "tickers": [
-    "DCI"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9076,6 +9074,7 @@
   "GPN": "Global Payments",
   "LDOS": "Leidos Holdings",
   "WDC": "Western Digital",
+  "CAG": "Conagra Brands",
   "FLNC": "Fluence Energy",
   "GM": "General Motors",
   "KMB": "Kimberly-Clark",
@@ -9086,7 +9085,6 @@
   "SKY": "Champion Homes",
   "EG": "Everest Group",
   "JOBY": "Joby Aviation",
-  "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "TLRY": "Tilray Brands",
   "UNH": "United Health",
@@ -9124,7 +9122,6 @@
   "CART": "Maplebear",
   "CME": "CME Group",
   "CUBE": "CubeSmart",
-  "DCI": "Donaldson",
   "DDS": "Dillard's",
   "TE": "T1 Energy",
   "ADBE": "Photoshop",
