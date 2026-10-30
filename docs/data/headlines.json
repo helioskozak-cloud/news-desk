@@ -1,8 +1,88 @@
 {
- "generated": "2026-10-30T15:46:37.633998+00:00",
+ "generated": "2026-10-30T15:51:10.916246+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "56954f464732",
+   "title": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
+   "link": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
+   "summary": "Disappointing earnings reports from Alphabet, Amazon and Intel are renewing fears that the AI trade could unravel.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-10-30T15:50:14+00:00",
+   "tickers": [
+    "GOOG",
+    "AMZN",
+    "INTC"
+   ],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e76b98b9ac2f",
+   "title": "$6.3 billion Binance hack is largest crypto theft on record",
+   "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+   "summary": "Binance says a security breach impacted about $6.3 billion in assets. The exchange says roughly $3 billion has been frozen and losses will be covered.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T15:47:07+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6d16984e6e06",
+   "title": "Googling for Reddit answers is about to get harder",
+   "link": "https://www.thestreet.com/latest-news/reddit-google-ai-search-traffic",
+   "summary": "Reddit will try its new approach outside the U.S. first, but the change could reshape how millions of people find real-world advice.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-30T15:47:00+00:00",
+   "tickers": [
+    "RDDT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ef0885aec155",
+   "title": "GoDaddy Reveals America's Most Entrepreneurial College Towns",
+   "link": "https://www.prnewswire.com/news-releases/godaddy-reveals-americas-most-entrepreneurial-college-towns-302925092.html",
+   "summary": "Inaugural ranking finds 80% of the Most Entrepreneurial College Towns lie beyond traditional startup hubs, highlighting a wider geography of entrepreneurial opportunity TEMPE, Ariz., Oct. 30, 2026 /PRNewswire/ -- College towns are not just places to prepare for a career; they can also be...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-30T15:46:00+00:00",
+   "tickers": [
+    "GDDY"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9a8b5eb62090",
+   "title": "Toll Brothers Announces New Luxury Home Collection Coming Soon to Toll Brothers at Mapleton near Provo, Utah | TOL Stock News",
+   "link": "https://www.stocktitan.net/news/TOL/toll-brothers-announces-new-luxury-home-collection-coming-soon-to-mowidan1fcqm.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-10-30T15:46:00+00:00",
+   "tickers": [
+    "TOL"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "40b3caecb230",
    "title": "Intel heads for worst day on Wall Street in more than 50 years on weak guidance",
@@ -17,20 +97,6 @@
    ],
    "type": "earnings",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e76b98b9ac2f",
-   "title": "$6.3 billion Binance hack is largest crypto theft on record",
-   "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-   "summary": "Binance says a security breach impacted about $6.3 billion in assets. The exchange says roughly $3 billion has been frozen and losses will be covered.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-30T15:43:21+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -974,15 +1040,15 @@
    "title": "XLF, UMAY: Big ETF Outflows",
    "link": "https://www.nasdaq.com/articles/xlf-umay-big-etf-outflows",
    "summary": "Looking at units outstanding versus one week prior within the universe of ETFs covered at ETF Channel, the biggest outflow was seen in the State Street Financial Select Sector SPDR ETF, where 16,250,000 units were destroyed, or a 1.7% decrease week over week. Among the largest",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:11:15+00:00",
    "tickers": [
     "XLF",
     "STT"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1007,14 +1073,14 @@
    "title": "See Which Recent 13F Filers Hold CRM",
    "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-crm",
    "summary": "At Holdings Channel, we have reviewed the latest batch of the 51 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Salesforce Inc (Symbol: CRM) was held by 24 of these funds. When hedge fund managers appear to be thinking alike, we find it is a good i",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:11:00+00:00",
    "tickers": [
     "CRM"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1023,15 +1089,15 @@
    "title": "SCHP, DRAI: Big ETF Inflows",
    "link": "https://www.nasdaq.com/articles/schp-drai-big-etf-inflows",
    "summary": "Comparing units outstanding versus one week ago at the coverage universe of ETFs at ETF Channel, the biggest inflow was seen in the Schwab U.S. TIPs ETF, which added 39,300,000 units, or a 6.1% increase week over week. And on a percentage change basis, the ETF with the bigges",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:10:56+00:00",
    "tickers": [
     "SCHW",
     "SCHP"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1070,15 +1136,15 @@
    "title": "Friday 10/30 Insider Buying Report: DINO, PNFP",
    "link": "https://www.nasdaq.com/articles/friday-10-30-insider-buying-report-dino-pnfp",
    "summary": "Bargain hunters are wise to pay careful attention to insider buying, because although there are many various reasons for an insider to sell a stock, presumably the only reason they would use their hard-earned cash to make a purchase, is that they expect to make money. Today we",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:09:13+00:00",
    "tickers": [
     "DINO",
     "PNFP"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1117,15 +1183,15 @@
    "title": "Nasdaq 100 Movers: INTC, REGN",
    "link": "https://www.nasdaq.com/articles/nasdaq-100-movers-intc-regn",
    "summary": "In early trading on Friday, shares of Regeneron Pharmaceuticals topped the list of the day's best performing components of the Nasdaq 100 index, trading up 13.9%. Year to date, Regeneron Pharmaceuticals registers a 20.8% gain. And the worst performing Nasdaq 100 component thus",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:08:00+00:00",
    "tickers": [
     "REGN",
     "INTC"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1162,15 +1228,15 @@
    "title": "S&P 500 Movers: INTC, REGN",
    "link": "https://www.nasdaq.com/articles/sp-500-movers-intc-regn",
    "summary": "In early trading on Friday, shares of Regeneron Pharmaceuticals topped the list of the day's best performing components of the S&amp;P 500 index, trading up 13.9%. Year to date, Regeneron Pharmaceuticals registers a 20.8% gain. And the worst performing S&amp;P 500 component th",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:06:43+00:00",
    "tickers": [
     "REGN",
     "INTC"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1195,15 +1261,15 @@
    "title": "Dow Movers: NVDA, HONIV",
    "link": "https://www.nasdaq.com/articles/dow-movers-nvda-honiv",
    "summary": "In early trading on Friday, shares of Honeywell International topped the list of the day's best performing Dow Jones Industrial Average components, trading up 7.5%. Year to date, Honeywell International registers a 42.2% gain. And the worst performing Dow component thus far on",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-10-30T15:05:56+00:00",
    "tickers": [
     "HON",
     "NVDA"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2400,24 +2466,6 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "56954f464732",
-   "title": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
-   "link": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
-   "summary": "Disappointing earnings reports from Alphabet, Amazon and Intel are renewing fears that the AI trade could unravel.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-10-30T14:43:03+00:00",
-   "tickers": [
-    "GOOG",
-    "AMZN",
-    "INTC"
-   ],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -4792,6 +4840,20 @@
    "tag_v": 2
   },
   {
+   "id": "a30191b2d55e",
+   "title": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXdZcE80bTFBOFMwWVd2bFdSWHVNNVlUbWRqNG9LcnFpVlM3ZmhYT0dGT1pHZURaUld6Nnp0YVhmV2ZObWJyMmpVMENHUXlEbnh3R1dJRFE5N1lDREhoT2tadnViQ2VGUldxNGRKSm5kdXh4V2dwZU44bFVtZTV3OE9DMzBLYXFubmpYNTJmd2xfYVBx?oc=5",
+   "summary": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-30T13:22:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "bf5adf051c09",
    "title": "Alphabet Shares Plunge. Why Now Is a Great Time to Buy the Dip.",
    "link": "https://www.nasdaq.com/articles/alphabet-shares-plunge-why-now-great-time-buy-dip",
@@ -6004,20 +6066,6 @@
    "published": "2026-10-30T12:56:53+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "be91c955c220",
-   "title": "Brief truce agreed by Russia and Ukraine allows aid operation and evacuations in Oleshky - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE50dDNzNWRrQWd1b0g3RHBwMHBNREZ2UUtBQjBGQ0VSSHB5ZkxrTV9aa1VoU1ZWVXJMcHpNSVh4T1lWT2lDeHBVa2hCY0o1eXhTR1F6b0d4UWsySUFsbXI5YXFVdVN0UzY3U2o3QjNSSld5TmJEeDh2dlFkc0JLeDB0WndsaWFvaC16eFg2dmpaTko2OHNj?oc=5",
-   "summary": "Brief truce agreed by Russia and Ukraine allows aid operation and evacuations in Oleshky&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-30T12:55:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -9043,50 +9091,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c5ddb6c83075",
-   "title": "B.Riley lowers Adamas Trust stock price target to $7.50 on book value",
-   "link": "https://www.investing.com/news/analyst-ratings/briley-lowers-adamas-trust-stock-price-target-to-750-on-book-value-93CH-4987147",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T11:33:02+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2f497bfe2b55",
-   "title": "H.C. Wainwright reiterates Buy on Phathom stock, $26 target",
-   "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-phathom-stock-26-target-93CH-4987135",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T11:32:57+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "77fd1f005541",
-   "title": "Rosenblatt cuts Intel stock price target to $70 on weak outlook",
-   "link": "https://www.investing.com/news/analyst-ratings/rosenblatt-cuts-intel-stock-price-target-to-70-on-weak-outlook-93CH-4987134",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T11:32:56+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "type": "analyst",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9201,6 +9205,7 @@
   "HRI": "Herc Holdings",
   "SMR": "NuScale Power",
   "SOUN": "SoundHound AI",
+  "TOL": "Toll Brothers",
   "UMBF": "UMB Financial",
   "PINS": "Pinterest Inc",
   "ASML": "ASML Holding",
