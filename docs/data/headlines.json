@@ -1,8 +1,53 @@
 {
- "generated": "2026-10-30T17:31:40.487830+00:00",
+ "generated": "2026-10-30T17:36:10.475322+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4779c9d17c01",
+   "title": "Nasdaq plunges 3%, heads for worst day since June as tech stocks lead sell-off: Live updates",
+   "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+   "summary": "Amazon and Intel shares tumbled after the companies posted their latest earnings reports.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T17:35:09+00:00",
+   "tickers": [
+    "AMZN",
+    "INTC"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "b553937a5d59",
+   "title": "Fed officials are already saying they’ll need to get back to hiking rates",
+   "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+   "summary": "Musalem's comments offer the first morsels of insight into what leaders at the Fed see next following this week's decision to hold interst rates steady.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T17:33:55+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ebe222be95ee",
+   "title": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
+   "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+   "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate, or if Democrats take control of the chamber.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T17:31:46+00:00",
+   "tickers": [],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "453a3c31097e",
    "title": "Aven Closes Oversubscribed $304 Million HELOC-Backed Securities Offering",
@@ -31,20 +76,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ebe222be95ee",
-   "title": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
-   "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-   "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate, or if Democrats take control of the chamber.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-30T17:28:55+00:00",
-   "tickers": [],
-   "type": "legal",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -166,42 +197,6 @@
    "tag_v": 2
   },
   {
-   "id": "e114bd49fbaa",
-   "title": "Stocks Fall Sharply on Intel and Amazon Sell-offs and Crypto Heist",
-   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-intel-and-amazon-sell-offs-and-crypto-heist-0",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.26%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.52%. December E-mini S&amp;P futures (ESZ26 ) are down -1.33%, and December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T17:14:51+00:00",
-   "tickers": [
-    "AMZN",
-    "INTC",
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "4779c9d17c01",
-   "title": "Nasdaq plunges 3%, heads for worst day since June as tech stocks lead sell-off: Live updates",
-   "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
-   "summary": "Amazon and Intel shares tumbled after the companies posted their latest earnings reports.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-30T17:14:33+00:00",
-   "tickers": [
-    "AMZN",
-    "INTC"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "2b0835c6ba18",
    "title": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
    "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
@@ -306,6 +301,25 @@
    "published": "2026-10-30T17:12:47+00:00",
    "tickers": [],
    "type": "analyst",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e114bd49fbaa",
+   "title": "Stocks Fall Sharply on Intel and Amazon Sell-offs and Crypto Heist",
+   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-intel-and-amazon-sell-offs-and-crypto-heist-0",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.26%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.52%. December E-mini S&amp;P futures (ESZ26 ) are down -1.33%, and December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T17:12:42+00:00",
+   "tickers": [
+    "AMZN",
+    "INTC",
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -857,20 +871,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b553937a5d59",
-   "title": "St. Louis Fed's Musalem: Another rate hike needed 'soon'",
-   "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
-   "summary": "Musalem's comments offer the first morsels of insight into what leaders at the Fed see next following this week's decision to hold interst rates steady.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-30T16:54:37+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -2435,6 +2435,20 @@
    "published": "2026-10-30T16:00:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ce02adfb5a4c",
+   "title": "Generations of anglers have made the pilgrimage to Montauk to catch striped bass - AP News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGMtaWwxUHVuVFNwdWhSWHpLRnlGcjJONWI5TC1oT3l1cDR0WDJSQnhmWEtNbEdaS1hRRHBNWmcxMjRlLVMwblctc01saGd4NG1yV3ZZOUR3RENiLXJDbXhZTDJKakp5NDMyVWRUcFRGZi1POTUyYjEwX2J2SmF3Q2JhX0ZZQktSbWd1bnk0dWM4cWtWcnYzR0lVakRuUk9aekVTSE9LcHdNSXBVR25XXw?oc=5",
+   "summary": "Generations of anglers have made the pilgrimage to Montauk to catch striped bass&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-30T16:00:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -9096,22 +9110,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "d29a4234dd4d",
-   "title": "Anthropic's $224 Billion Cloud Bill Reveals the Real Winner of the AI Boom",
-   "link": "https://www.nasdaq.com/articles/anthropics-224-billion-cloud-bill-reveals-real-winner-ai-boom",
-   "summary": "Key PointsAlphabet's Google Cloud has the most to gain from Anthropic's success.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T12:50:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   }
  ],
