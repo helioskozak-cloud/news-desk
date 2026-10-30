@@ -1,8 +1,39 @@
 {
- "generated": "2026-10-30T19:26:21.541923+00:00",
+ "generated": "2026-10-30T19:31:10.182418+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4779c9d17c01",
+   "title": "Stock market rocked as investors dump tech shares, Nasdaq drops 3%: Live updates",
+   "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+   "summary": "Amazon and Intel shares tumbled after the companies posted their latest earnings reports.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T19:28:54+00:00",
+   "tickers": [
+    "AMZN",
+    "INTC"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "fac47b9da0e1",
+   "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+   "link": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+   "summary": "More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T19:27:03+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "966a97f9c706",
    "title": "Veteran fund manager revamps Alphabet stock price target after brutal selloff",
@@ -37,79 +68,17 @@
    "tag_v": 2
   },
   {
-   "id": "a0cba9a64203",
-   "title": "Cotton Slipping Lower on Friday",
-   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-friday-2",
-   "summary": "Cotton futures are trading with losses of 30 to 35 points across most contracts on Friday. Crude oil is up $2.70 per barrel on the session, with the US dollar index $0.096 lower. USDA’s Export Sales data showed 5.665 million RB of cotton sold as of 10/22 for the 2026/27...",
-   "source": "NASDAQ Stocks",
+   "id": "e5f4e6e2919c",
+   "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
+   "link": "https://www.investing.com/news/stock-market-news/us-approves-21-billion-patriot-missile-sale-to-ukraine-4988538",
+   "summary": "",
+   "source": "Investing Stock",
    "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:23:13+00:00",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:24:22+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "be3a7ab62933",
-   "title": "Corn Holding Lower on Friday",
-   "link": "https://www.nasdaq.com/articles/corn-holding-lower-friday",
-   "summary": "Corn futures are slipping 1 to 2 cents in the front months on Friday as the market heads into month-end. The CmdtyView national average Cash Corn price is up ¼ cent at $4.14 3/4. Acres left to be harvested may be slowed after the weekend, with the NOAA 7-day QPF...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:23:12+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "6fe9227ee5fe",
-   "title": "Sugar Prices Resume Weakness on Concern About Brazilian Exporters Selling",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-resume-weakness-concern-about-brazilian-exporters-selling",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.11 (-0.56%), and December London ICE white sugar #5 (SWZ26 ) is down -10.40 (-1.97%). Sugar prices on Friday fell back from Thursday’s 4-session high, which was due to the Brazilian agricultural ministry’s report late Wednesday that Brazilian mills crushed 32...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:23:12+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3da3f5dbd207",
-   "title": "Coffee Prices Rebound Mildly Higher But Are Still Down for the Week",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-rebound-mildly-higher-are-still-down-week",
-   "summary": "December arabica coffee (KCZ26 ) is up +2.00 (+0.70%), and January ICE robusta coffee (RMF27 ) is up +30 (+0.94). NY arabica coffee rebounded mildly higher today from Thursday’s 1-month low, retracing a small part of the sharp sell-off seen over the past two weeks. Coffee prices have fallen this...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:23:12+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c95b19763572",
-   "title": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
-   "link": "https://www.nasdaq.com/articles/cocoa-remains-weak-rising-ice-inventories-and-potential-brazilian-cocoa-sales-1",
-   "summary": "December ICE NY cocoa (CCZ26 ) is down -22 (-0.40%), and ICE London cocoa #7 (CAZ26 ) is down -30 (-0.72%). NY cocoa prices on Friday edged to a new 1-month low, extending the 2-week sell-off. Cocoa prices have trended lower this week on concerns that Brazilian exporters may increase...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:23:12+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -127,20 +96,6 @@
    "tag_v": 2
   },
   {
-   "id": "efe85f6ce3c4",
-   "title": "Cotton Fading Lower on Friday",
-   "link": "https://www.nasdaq.com/articles/cotton-fading-lower-friday-1",
-   "summary": "Cotton prices are down 29 to 36 points on Friday morning. Futures closed with gains of 21 to 43 points across the board on Thursday. Crude oil was up 8 cents per barrel on the session, with the US dollar index $0.271 lower. USDA’s Export Sales report showed 216,488 RB...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:23:11+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "e670061c31c0",
    "title": "Soybeans Starting the Final Trade Day of October with Losses",
    "link": "https://www.nasdaq.com/articles/soybeans-starting-final-trade-day-october-losses",
@@ -155,72 +110,218 @@
    "tag_v": 2
   },
   {
-   "id": "0223d6a152df",
-   "title": "Corn Fading Lower on Friday AM Trade",
-   "link": "https://www.nasdaq.com/articles/corn-fading-lower-friday-am-trade",
-   "summary": "Corn prices are down 2 cents early on Friday morning. Futures posted mixed trade at the close on Thursday, with contracts anywhere from down a penny to 1 ¼ cents higher across the board. Open interest was up 9,092 contracts on Thursday. The CmdtyView national average Cash Corn price was...",
-   "source": "NASDAQ Stocks",
+   "id": "427d6bdc23df",
+   "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
+   "link": "https://www.investing.com/news/stock-market-news/us-approves-21-billion-patriot-missile-sale-to-ukraine-93CH-4988537",
+   "summary": "",
+   "source": "Investing Stock",
    "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:23:11+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "23be4595fb54",
-   "title": "Soybeans Pushing Higher on Friday, Following Export Business",
-   "link": "https://www.nasdaq.com/articles/soybeans-pushing-higher-friday-following-export-business",
-   "summary": "Soybeans are showing Friday gains of 5 to 7 ¼ cents across the front months at midday. There was just 1 soybean delivery against November soybeans overnight on first notice day. The cmdtyView national average Cash Bean price is up 1/4 cents at $11.63. Soymeal futures are $2.80 cents to...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:16:47+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9b7fbb61f1b1",
-   "title": "Hogs Falling to Close October",
-   "link": "https://www.nasdaq.com/articles/hogs-falling-close-october",
-   "summary": "Lean hog futures are down 97 cents to $1.12 so far at midday. USDA’s national base hog price was reported at $61.40 in the Friday AM report, down $1.66 from the day prior. The CME Lean Hog Index was down $1.00 on October 28 at $67.30. USDA’s pork carcass cutout...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:16:47+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c6d77b635123",
-   "title": "Wheat Posting Midday Gains Heading into Month End",
-   "link": "https://www.nasdaq.com/articles/wheat-posting-midday-gains-heading-month-end",
-   "summary": "The wheat complex is higher across the three markets on Friday. Chicago SRW contracts are up 2 to 3 cents. KC HRW futures are 2 to 3 cents higher in the front months. MPLS spring wheat is steady to fractionally higher on the session. There were wire reports on Thursday...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T19:16:46+00:00",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:23:03+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
   },
   {
-   "id": "3ddff68cedf6",
-   "title": "Cattle Falling on Friday",
-   "link": "https://www.nasdaq.com/articles/cattle-falling-friday-0",
-   "summary": "Live cattle futures are down $3.27 to $5.10 in the nearbys, with pressure coming from month end and a sharply lower equity market. Cash trade has been quiet this week with a few sales reported by USDA at $223-226 live in the north and $350-365 dressed. The Friday morning Fed...",
-   "source": "NASDAQ Stocks",
+   "id": "5ce007efa514",
+   "title": "Reddit stock plunges 30% after weak outlook, heads for worst day ever",
+   "link": "https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html",
+   "summary": "Reddit shares sank on Friday after the company issued weak Q4 sales guidance and announced it will test requiring users to log in to see content.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T19:20:31+00:00",
+   "tickers": [
+    "RDDT"
+   ],
+   "type": "guidance",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "7dfb2dfdacd9",
+   "title": "Bitcoin tests critical $76,500 neckline support: Live levels",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:19:12+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fcbed056b4ea",
+   "title": "Gold breaks all supports in bearish impulse: Live levels",
+   "link": "https://www.investing.com/news/commodities-news/gold-breaks-below-4000-in-descending-channel-live-levels-93CH-4971505",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:19:11+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0ad48f024fe1",
+   "title": "Nasdaq 100 in freefall below all MAs after Bear Flag: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-tests-descending-triangle-support-at-29000-live-levels-93CH-4973069",
+   "summary": "",
+   "source": "Investing Stock",
    "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:19:03+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ced4269da19d",
+   "title": "Alphabet C in freefall after gap-down: Live bear levels",
+   "link": "https://www.investing.com/news/stock-market-news/alphabet-c-deeply-oversold-after-bear-flag-breakdown-live-levels-93CH-4973070",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:19:02+00:00",
+   "tickers": [
+    "GOOG"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cb588ea24dcc",
+   "title": "Canopy Growth vs. Tilray Brands: Quarterly Revenue Scale and Consistency in Cannabis",
+   "link": "https://www.nasdaq.com/articles/canopy-growth-vs-tilray-brands-quarterly-revenue-scale-and-consistency-cannabis",
+   "summary": "Key PointsTilray Brands currently generates a higher total revenue base than Canopy Growth, maintaining a consistently larger top-line financial footprint across its various reported operating segments and international geographic regions during this specific tracking period.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
-   "published": "2026-10-30T19:16:46+00:00",
+   "published": "2026-10-30T19:19:01+00:00",
+   "tickers": [
+    "TLRY"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4c67a6f2bceb",
+   "title": "Tesla cools from $410 highs with momentum fading: Hourly",
+   "link": "https://www.investing.com/news/stock-market-news/tesla-breaks-out-above-388-range-overextended-live-levels-93CH-4973068",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:18:59+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ed5a3bc53817",
+   "title": "Brent Oil compresses below SuperTrend resistance: Live levels",
+   "link": "https://www.investing.com/news/commodities-news/brent-oil-tests-cloud-support-after-parabolic-top-live-levels-93CH-4971503",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:18:57+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0b4c294910f0",
+   "title": "Natural Gas bear flag 80% complete near resistance: Live levels",
+   "link": "https://www.investing.com/news/commodities-news/natural-gas-rebounds-from-oversold-into-sma-resistance-live-levels-93CH-4971506",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:18:57+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4f0b89df43ee",
+   "title": "Dow Jones breaks below key MAs: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/dow-jones-pulls-back-to-ma-cluster-near-52400-live-levels-93CH-4973066",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:18:55+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "243f763396ba",
+   "title": "S&P 500 breaks 200-day MA with bearish Marubozu: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/sp-500-tests-382-fib-after-double-top-rejection-live-levels-93CH-4973067",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:18:52+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "851a33c6623d",
+   "title": "Dollar Index trapped in range with bearish MACD: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/dollar-index-trapped-in-ichimoku-cloud-at-10186-live-levels-93CH-4973064",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:18:41+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3474058d7c3f",
+   "title": "Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling",
+   "link": "https://www.investing.com/news/stock-market-news/bayer-wins-roundup-weedkiller-cancer-trial-while-awaiting-settlement-ruling-4985676",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:18:41+00:00",
+   "tickers": [],
+   "type": "legal",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e16b8a1e8d22",
+   "title": "SanDisk breaks down in bear flag: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/sandisk-in-steep-downtrend-doji-signals-indecision-live-levels-93CH-4973059",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-30T19:18:27+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -255,6 +356,36 @@
    "tag_v": 2
   },
   {
+   "id": "cd20e137b8c8",
+   "title": "Bloom Energy Just Joined the S&P 500. Here's What History Says Happens Next.",
+   "link": "https://www.nasdaq.com/articles/bloom-energy-just-joined-sp-500-heres-what-history-says-happens-next",
+   "summary": "Key PointsBloom was added to the S&amp;P 500 in September.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:15:00+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3e4f88d06c0c",
+   "title": "Buenaventura (BVN) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/buenaventura-bvn-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:14:48+00:00",
+   "tickers": [
+    "BVN"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "caa5ec2ff5eb",
    "title": "Meta settles with teen during trial testing claims social media caused depression, eating disorders",
    "link": "https://www.cnbc.com/2026/10/30/meta-settles-with-teen-during-trial-testing-claims-social-media-caused-depression-eating-disorders.html",
@@ -267,6 +398,22 @@
     "META"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fdbf5172a628",
+   "title": "RBC Bearings (RBC) Q2 2027 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/rbc-bearings-rbc-q2-2027-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:13:00+00:00",
+   "tickers": [
+    "RBC"
+   ],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -440,6 +587,64 @@
    "tag_v": 2
   },
   {
+   "id": "a0cba9a64203",
+   "title": "Cotton Slipping Lower on Friday",
+   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-friday-2",
+   "summary": "Cotton futures are trading with losses of 30 to 35 points across most contracts on Friday. Crude oil is up $2.70 per barrel on the session, with the US dollar index $0.096 lower. USDA’s Export Sales data showed 5.665 million RB of cotton sold as of 10/22 for the 2026/27...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:04:57+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "6fe9227ee5fe",
+   "title": "Sugar Prices Resume Weakness on Concern About Brazilian Exporters Selling",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-resume-weakness-concern-about-brazilian-exporters-selling",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.11 (-0.56%), and December London ICE white sugar #5 (SWZ26 ) is down -10.40 (-1.97%). Sugar prices on Friday fell back from Thursday’s 4-session high, which was due to the Brazilian agricultural ministry’s report late Wednesday that Brazilian mills crushed 32...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:04:56+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "efe85f6ce3c4",
+   "title": "Cotton Fading Lower on Friday",
+   "link": "https://www.nasdaq.com/articles/cotton-fading-lower-friday-1",
+   "summary": "Cotton prices are down 29 to 36 points on Friday morning. Futures closed with gains of 21 to 43 points across the board on Thursday. Crude oil was up 8 cents per barrel on the session, with the US dollar index $0.271 lower. USDA’s Export Sales report showed 216,488 RB...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:04:56+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "0223d6a152df",
+   "title": "Corn Fading Lower on Friday AM Trade",
+   "link": "https://www.nasdaq.com/articles/corn-fading-lower-friday-am-trade",
+   "summary": "Corn prices are down 2 cents early on Friday morning. Futures posted mixed trade at the close on Thursday, with contracts anywhere from down a penny to 1 ¼ cents higher across the board. Open interest was up 9,092 contracts on Thursday. The CmdtyView national average Cash Corn price was...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T19:04:56+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "5ee1dbf0b713",
    "title": "Hilton Grand Vacations Starts Accelerated Share Buyback",
    "link": "https://www.nasdaq.com/articles/hilton-grand-vacations-starts-accelerated-share-buyback",
@@ -496,23 +701,6 @@
    "tag_v": 2
   },
   {
-   "id": "4779c9d17c01",
-   "title": "Nasdaq plunges 3%, heads for worst day since June as tech stocks lead sell-off: Live updates",
-   "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
-   "summary": "Amazon and Intel shares tumbled after the companies posted their latest earnings reports.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-30T19:00:13+00:00",
-   "tickers": [
-    "AMZN",
-    "INTC"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "eb7e482a760e",
    "title": "Royal Princess Emerges from Drydock with New Sanctuary Collection | CCL Stock News",
    "link": "https://www.stocktitan.net/news/CCL/royal-princess-emerges-from-drydock-with-new-sanctuary-pibn2mzgfadd.html",
@@ -556,6 +744,64 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "be3a7ab62933",
+   "title": "Corn Holding Lower on Friday",
+   "link": "https://www.nasdaq.com/articles/corn-holding-lower-friday",
+   "summary": "Corn futures are slipping 1 to 2 cents in the front months on Friday as the market heads into month-end. The CmdtyView national average Cash Corn price is up ¼ cent at $4.14 3/4. Acres left to be harvested may be slowed after the weekend, with the NOAA 7-day QPF...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T18:59:39+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "23be4595fb54",
+   "title": "Soybeans Pushing Higher on Friday, Following Export Business",
+   "link": "https://www.nasdaq.com/articles/soybeans-pushing-higher-friday-following-export-business",
+   "summary": "Soybeans are showing Friday gains of 5 to 7 ¼ cents across the front months at midday. There was just 1 soybean delivery against November soybeans overnight on first notice day. The cmdtyView national average Cash Bean price is up 1/4 cents at $11.63. Soymeal futures are $2.80 cents to...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T18:59:39+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3ddff68cedf6",
+   "title": "Cattle Falling on Friday",
+   "link": "https://www.nasdaq.com/articles/cattle-falling-friday-0",
+   "summary": "Live cattle futures are down $3.27 to $5.10 in the nearbys, with pressure coming from month end and a sharply lower equity market. Cash trade has been quiet this week with a few sales reported by USDA at $223-226 live in the north and $350-365 dressed. The Friday morning Fed...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T18:59:39+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9b7fbb61f1b1",
+   "title": "Hogs Falling to Close October",
+   "link": "https://www.nasdaq.com/articles/hogs-falling-close-october",
+   "summary": "Lean hog futures are down 97 cents to $1.12 so far at midday. USDA’s national base hog price was reported at $61.40 in the Friday AM report, down $1.66 from the day prior. The CME Lean Hog Index was down $1.00 on October 28 at $67.30. USDA’s pork carcass cutout...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T18:59:38+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -712,6 +958,20 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c6d77b635123",
+   "title": "Wheat Posting Midday Gains Heading into Month End",
+   "link": "https://www.nasdaq.com/articles/wheat-posting-midday-gains-heading-month-end",
+   "summary": "The wheat complex is higher across the three markets on Friday. Chicago SRW contracts are up 2 to 3 cents. KC HRW futures are 2 to 3 cents higher in the front months. MPLS spring wheat is steady to fractionally higher on the session. There were wire reports on Thursday...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T18:50:44+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1151,6 +1411,38 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3da3f5dbd207",
+   "title": "Coffee Prices Rebound Mildly Higher But Are Still Down for the Week",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-rebound-mildly-higher-are-still-down-week",
+   "summary": "December arabica coffee (KCZ26 ) is up +2.00 (+0.70%), and January ICE robusta coffee (RMF27 ) is up +30 (+0.94). NY arabica coffee rebounded mildly higher today from Thursday’s 1-month low, retracing a small part of the sharp sell-off seen over the past two weeks. Coffee prices have fallen this...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T18:27:43+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c95b19763572",
+   "title": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
+   "link": "https://www.nasdaq.com/articles/cocoa-remains-weak-rising-ice-inventories-and-potential-brazilian-cocoa-sales-1",
+   "summary": "December ICE NY cocoa (CCZ26 ) is down -22 (-0.40%), and ICE London cocoa #7 (CAZ26 ) is down -30 (-0.72%). NY cocoa prices on Friday edged to a new 1-month low, extending the 2-week sell-off. Cocoa prices have trended lower this week on concerns that Brazilian exporters may increase...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T18:27:43+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1698,20 +1990,6 @@
    ],
    "type": "analyst",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "fac47b9da0e1",
-   "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
-   "link": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
-   "summary": "More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-30T18:08:07+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3570,20 +3848,6 @@
     "AMZN"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "be91c955c220",
-   "title": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE50dDNzNWRrQWd1b0g3RHBwMHBNREZ2UUtBQjBGQ0VSSHB5ZkxrTV9aa1VoU1ZWVXJMcHpNSVh4T1lWT2lDeHBVa2hCY0o1eXhTR1F6b0d4UWsySUFsbXI5YXFVdVN0UzY3U2o3QjNSSld5TmJEeDh2dlFkc0JLeDB0WndsaWFvaC16eFg2dmpaTko2OHNj?oc=5",
-   "summary": "Evacuated Oleshky residents begin the long journey out of the war-ravaged region&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-30T16:53:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7640,6 +7904,20 @@
    "tag_v": 2
   },
   {
+   "id": "be91c955c220",
+   "title": "Ukrainian lawmaker says some residents have been evacuated from the war-ravaged city of Oleshky - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE50dDNzNWRrQWd1b0g3RHBwMHBNREZ2UUtBQjBGQ0VSSHB5ZkxrTV9aa1VoU1ZWVXJMcHpNSVh4T1lWT2lDeHBVa2hCY0o1eXhTR1F6b0d4UWsySUFsbXI5YXFVdVN0UzY3U2o3QjNSSld5TmJEeDh2dlFkc0JLeDB0WndsaWFvaC16eFg2dmpaTko2OHNj?oc=5",
+   "summary": "Ukrainian lawmaker says some residents have been evacuated from the war-ravaged city of Oleshky&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-30T14:50:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "5dbdf25682fa",
    "title": "Why is Netflix stock gaining today?",
    "link": "https://www.investing.com/news/stock-market-news/why-is-netflix-stock-gaining-today-93CH-4988164",
@@ -8818,305 +9096,6 @@
    "type": "analyst",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "14e67ad4ab7f",
-   "title": "Fiverr (FVRR) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/fiverr-fvrr-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T14:14:52+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8f042c68a043",
-   "title": "New England Honda Group Continues Support of the Jimmy Fund Through Boston Marathon Partnership",
-   "link": "https://www.prnewswire.com/news-releases/new-england-honda-group-continues-support-of-the-jimmy-fund-through-boston-marathon-partnership-302924455.html",
-   "summary": "DANVERS, Mass., Oct. 30, 2026 /PRNewswire/ -- During the 130th running of the Boston Marathon presented by Bank of America, the New England Honda Group continued its longstanding commitment to supporting cancer research and patient care by sponsoring a team of 15 runners who raised funds...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-30T14:14:00+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "904743eb8765",
-   "title": "Toncoin (TON) Price Prediction 2025, 2026, 2027-2030",
-   "link": "https://www.benzinga.com/money/toncoin-ton-price-prediction",
-   "summary": "The post Toncoin (TON) Price Prediction 2025, 2026, 2027-2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are saying that Toncoin (TON) could hit $26.17 by 2030. Feeling bullish about TON already? You can buy TON through Coinbase Wallet,&#160;Kraken,&#160;Gemini, and&#160;Paybis. In the cryptocurrency market, staying informed about trends is important for investors. With the Bitcoin (BTC) prices rising this year, investors are also looki",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-30T14:13:20+00:00",
-   "tickers": [
-    "BTC",
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d9576a1abcbf",
-   "title": "Myro (MYRO) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/myro-price-prediction",
-   "summary": "The post Myro (MYRO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Myro (MYRO) could reach $0.050 by 2030. Feeling confident about this MYRO price prediction? You can trade Myro on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Myro (MYRO), a meme &#8230;",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-30T14:13:19+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d63400c168ca",
-   "title": "PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/pancakeswap-cake-price-prediction",
-   "summary": "The post PancakeSwap (CAKE) Price Prediction: 2025, 2026, 2030 by Gianluca Miller appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that PancakeSwap (CAKE) could reach $7.70 by 2030. Feeling confident about this CAKE price prediction? You can trade PancakeSwap on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. PancakeS",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-30T14:13:17+00:00",
-   "tickers": [
-    "CAKE",
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "313f4c49c99c",
-   "title": "Algorand (ALGO) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/algorand-price-prediction",
-   "summary": "The post Algorand (ALGO) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Algorand (ALGO) could reach $0.812 by 2030. Feeling confident about this ALGO price prediction? You can trade Algorand on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Algorand (ALGO)",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-30T14:13:16+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6d145a9e8b42",
-   "title": "Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/hedera-hashgraph-hbar-price-prediction",
-   "summary": "The post Hedera Hashgraph (HBAR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Hedera Hashgraph (HBAR) could reach $0.873 by 2030. Feeling confident about this HBAR price prediction? You can trade Hedera Hashgraph on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying t",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-30T14:13:16+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4e00eff9296e",
-   "title": "Arweave (AR) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/arweave-ar-price-prediction",
-   "summary": "The post Arweave (AR) Price Prediction: 2025, 2026, 2030 by Ryan Peterson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Arweave (AR) could reach $44.30 by 2030. Feeling confident about this AR price prediction? You can trade Arweave on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Arweave (AR) is betting &#8",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-30T14:13:15+00:00",
-   "tickers": [
-    "AR",
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7db7b4e782ab",
-   "title": "Bittensor (TAO) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/bittensor-tao-price-prediction",
-   "summary": "The post Bittensor (TAO) Price Prediction: 2025, 2026, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Bittensor (TAO) could reach $1,338.94 by 2030. Feeling confident about this TAO price prediction? You can trade Bittensor on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Bittensor (TAO) is",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-30T14:13:14+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "97c188cecb00",
-   "title": "Uniswap (UNI) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/uniswap-uni-price-prediction",
-   "summary": "The post Uniswap (UNI) Price Prediction: 2025, 2026, 2030 by Margaret Jackson appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Uniswap (UNI) could reach $22.82 by 2030. Feeling confident about this UNI price prediction? You can trade Uniswap on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Uniswap (UNI) is a &#",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-30T14:13:13+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cf7a4a7bf01d",
-   "title": "Filecoin (FIL) Price Prediction: 2025, 2025, 2030",
-   "link": "https://www.benzinga.com/money/filecoin-price-prediction",
-   "summary": "The post Filecoin (FIL) Price Prediction: 2025, 2025, 2030 by Ishan Jain appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Filecoin (FIL) could reach $3.11 by 2030. Feeling confident about this FIL price prediction? You can trade Filecoin on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Filecoin (FIL) has been &",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-30T14:13:12+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "25faaf51b639",
-   "title": "Polkadot (DOT) Price Prediction: 2025, 2026, 2030",
-   "link": "https://www.benzinga.com/money/polkadot-price-prediction",
-   "summary": "The post Polkadot (DOT) Price Prediction: 2025, 2026, 2030 by James Wells appeared first on Benzinga. Visit Benzinga to get more great content like this. Analysts are forecasting that Polkadot (DOT) could reach $4.40 by 2030. Feeling confident about this DOT price prediction? You can trade Polkadot on Coinbase—and if you&#8217;re new to the platform, you could earn up to $400 in rewards by completing a few quick educational lessons and making your first qualifying trade. Polkadot (DOT) is a &#82",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-10-30T14:13:12+00:00",
-   "tickers": [
-    "COIN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4fb67776385b",
-   "title": "Spain’s latest deadly train crash puts human error and systemic failure under scrutiny - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGkwSHI5NE1aaU1SekdVcF93SDdITGRHeEYxa1N6OC1oU2RpVXBuM2JiZWdpbUg2VDFBNW0tWGFfYW10ZnZjY0E5YlppQnpBbGtOd3ZSeVRfLWc0aTVRWGF4UTFldk9NSXp1Qk5lckdJa05abGJkYzF4a1FQVTd5UGoxTUVqUFJFQlVQc0htR1hHOTRWWVhyWGdXdFF3aU0?oc=5",
-   "summary": "Spain’s latest deadly train crash puts human error and systemic failure under scrutiny&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-30T14:12:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e900c2c0d459",
-   "title": "Gentex Corporation (GNTX) Securities Investigation Notice - Levi & Korsinsky",
-   "link": "https://www.prnewswire.com/news-releases/gentex-corporation-gntx-securities-investigation-notice---levi--korsinsky-302924451.html",
-   "summary": "Gentex shares opened down more than 7% on October 23, 2026, after sales and earnings for the third-quarter came in below Wall Street estimates. Levi & Korsinsky is investigating on behalf of shareholders who suffered losses. NEW YORK, Oct. 30, 2026 /PRNewswire/ -- Gentex Corporation...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-30T14:11:00+00:00",
-   "tickers": [
-    "GNTX"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "f29d935bed46",
-   "title": "SLM Corporation (SLM) Securities Investigation Notice - Levi & Korsinsky",
-   "link": "https://www.prnewswire.com/news-releases/slm-corporation-slm-securities-investigation-notice---levi--korsinsky-302924443.html",
-   "summary": "SLM Corporation posted a $32.3 million third-quarter loss and cut its full-year outlook by more than a third, citing higher expected charge-offs. Levi & Korsinsky is investigating potential securities law violations tied to the Company's credit loss exposure. NEW YORK, Oct. 30, 2026...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-30T14:11:00+00:00",
-   "tickers": [
-    "SLM"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "52c0ce90bccd",
-   "title": "Freedom Broker upgrades Paccar stock rating to buy on truck profitability",
-   "link": "https://www.investing.com/news/analyst-ratings/freedom-broker-upgrades-paccar-stock-rating-to-buy-on-truck-profitability-93CH-4988087",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T14:10:52+00:00",
-   "tickers": [],
-   "type": "upgrade",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "11672e6a8710",
-   "title": "Freedom Broker upgrades Baker Hughes stock rating on Q3 beat",
-   "link": "https://www.investing.com/news/analyst-ratings/freedom-broker-upgrades-baker-hughes-stock-rating-on-q3-beat-93CH-4988086",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T14:10:50+00:00",
-   "tickers": [
-    "BKR"
-   ],
-   "type": "upgrade",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "900bf94d3121",
-   "title": "Freedom Broker downgrades Luxfer stock rating on weaker outlook",
-   "link": "https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-luxfer-stock-rating-on-weaker-outlook-93CH-4988085",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T14:10:45+00:00",
-   "tickers": [],
-   "type": "downgrade",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "a226b43f0c8c",
-   "title": "CBRS SHAREHOLDER INVESTIGATION: SueWallSt Notifies Investors of Potential Securities Claims Involving Cerebras Systems",
-   "link": "https://www.prnewswire.com/news-releases/cbrs-shareholder-investigation-suewallst-notifies-investors-of-potential-securities-claims-involving-cerebras-systems-302924330.html",
-   "summary": "Culper Research alleges Cerebras Systems' wafer-scale AI processors could fail within roughly 1.5 to 2.5 years. Shareholders who bought during the Oracle-driven rally absorbed the roughly 5.7% decline that followed. NEW YORK, Oct. 30, 2026 /PRNewswire/ -- Cerebras Systems (CBRS)...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-30T14:09:00+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9133,7 +9112,6 @@
   "VGIT": "Vanguard Intermediate-Term Treasury ETF",
   "VCSH": "Vanguard Short-Term Corporate Bond ETF",
   "SMX": "SMX (Security Matters) Public Limited",
-  "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "IWY": "iShares Russell Top 200 Growth ETF",
   "TECL": "Direxion Technology Bull 3X Shares",
   "VWO": "Vanguard FTSE Emerging Markets ETF",
@@ -9167,7 +9145,6 @@
   "VLY": "Valley National Bancorp",
   "ADM": "Archer-Daniels-Midland",
   "AMD": "Advanced Micro Devices",
-  "CAKE": "The Cheesecake Factory",
   "CPRI": "Capri Holdings Limited",
   "FND": "Floor & Decor Holdings",
   "MDLZ": "Mondelez International",
@@ -9239,15 +9216,16 @@
   "JOBY": "Joby Aviation",
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
+  "TLRY": "Tilray Brands",
   "TOL": "Toll Brothers",
   "UMBF": "UMB Financial",
   "UNH": "United Health",
   "MSTR": "MicroStrategy",
   "PINS": "Pinterest Inc",
   "ASML": "ASML Holding",
-  "BKR": "Baker Hughes",
   "LRCX": "Lam Research",
   "MO": "Altria Group",
+  "RBC": "RBC Bearings",
   "STT": "State Street",
   "TM": "Toyota Motor",
   "TTAN": "ServiceTitan",
@@ -9314,7 +9292,6 @@
   "BIIB": "Biogen",
   "CCJ": "Cameco",
   "DXCM": "DexCom",
-  "GNTX": "Gentex",
   "HXL": "Hexcel",
   "INTU": "Intuit",
   "ORCL": "Oracle",
