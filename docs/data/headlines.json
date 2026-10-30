@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T00:52:41.385018+00:00",
+ "generated": "2026-10-30T00:56:29.465806+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -77,6 +77,25 @@
    ],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "eaebf21b0959",
+   "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+   "link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+   "summary": "Microsoft boasts a strong credit rating and has managed to maintain positive free cash flow, unlike Meta, Alphabet and Amazon.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T00:38:13+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOG",
+    "AMZN",
+    "META"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8672,22 +8691,6 @@
    ],
    "type": "dividend",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "9ac7db091d17",
-   "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-   "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-   "summary": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T20:16:03+00:00",
-   "tickers": [
-    "GOOG"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
