@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T03:06:10.341382+00:00",
+ "generated": "2026-10-30T03:11:01.901652+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -58,6 +58,50 @@
    "published": "2026-10-30T02:55:52+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "616274516faa",
+   "title": "Stocks slump, bonds leap as AI giants’ spending spooks investors",
+   "link": "https://www.investing.com/news/economy-news/stocks-slump-bonds-leap-as-ai-giants-spending-spooks-investors-4985741",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-30T02:54:20+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "d7ae4fbb69e3",
+   "title": "Nippon Life, Corebridge Financial 10% owner, buys $6.26M stock",
+   "link": "https://www.investing.com/news/insider-trading-news/nippon-life-corebridge-financial-10-owner-buys-626m-stock-93CH-4985740",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-30T02:46:03+00:00",
+   "tickers": [
+    "CRBG"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "82bd183f981d",
+   "title": "Eos Energy CCO Michelle Buczkowski sells $100,000 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/eos-energy-cco-michelle-buczkowski-sells-100000-in-shares-93CH-4985739",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-30T02:45:57+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8914,50 +8958,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "625c35b3a13d",
-   "title": "Novo Has Big Plans for 2030. Should You Buy the Stock Now?",
-   "link": "https://www.nasdaq.com/articles/novo-has-big-plans-2030-should-you-buy-stock-now",
-   "summary": "Key PointsNovo plans to expand its lineup and pipeline by 2030, while serving far more patients.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:36:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2a3701c73dc5",
-   "title": "GoDaddy Inc. Profit Climbs In Q3",
-   "link": "https://www.nasdaq.com/articles/godaddy-inc-profit-climbs-q3",
-   "summary": "(RTTNews) - GoDaddy Inc. (GDDY) announced earnings for its third quarter that Increased, from the same period last year",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:33:36+00:00",
-   "tickers": [
-    "GDDY"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "a07d71261189",
-   "title": "Coherus Oncology, Inc. Reports 75% Confirmed ORR in First-Line ESCC Patients from Tagmokitug Interim Clinical Data",
-   "link": "https://www.nasdaq.com/articles/coherus-oncology-inc-reports-75-confirmed-orr-first-line-escc-patients-tagmokitug-interim",
-   "summary": "On October 28, 2026, Coherus Oncology, Inc. (the &ldquo;Company&rdquo;) issued a press release announcing the interim clinical data from the TREGCHECK&trade; development program evaluating tagmokitug, its investigational cytolytic CCR8 antibody, in combination with toripalimab, w",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:32:28+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8993,6 +8993,7 @@
   "AMP": "Ameriprise Financial",
   "BMY": "Bristol-Myers Squibb",
   "CFR": "Cullen/Frost Bankers",
+  "CRBG": "Corebridge Financial",
   "CRWD": "CrowdStrike Holdings",
   "EIX": "Edison International",
   "EW": "Edwards Lifesciences",
@@ -9100,7 +9101,6 @@
   "NI": "NiSource",
   "SYM": "Symbotic",
   "CPNG": "Coupang",
-  "GDDY": "GoDaddy",
   "IDA": "IDACORP",
   "IOT": "Samsara",
   "MRK": "Merck &",
