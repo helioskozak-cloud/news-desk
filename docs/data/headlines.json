@@ -1,8 +1,25 @@
 {
- "generated": "2026-10-30T15:26:04.354720+00:00",
+ "generated": "2026-10-30T15:31:16.059594+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5c8963fa18b3",
+   "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+   "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+   "summary": "Global diesel prices surged as Ukraine and Iran struck refineries in Russia and the Middle East.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T15:29:56+00:00",
+   "tickers": [
+    "CVX",
+    "XOM"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "4779c9d17c01",
    "title": "Nasdaq falls more than 2% as investors rotate out of tech after Amazon, Intel earnings: Live updates",
@@ -11,12 +28,28 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-10-30T15:24:50+00:00",
+   "published": "2026-10-30T15:26:04+00:00",
    "tickers": [
     "AMZN",
     "INTC"
    ],
    "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "d0ac6d547209",
+   "title": "Medline electric beds pose fire hazard after 2 deaths, FDA warns",
+   "link": "https://www.cbsnews.com/news/medline-hospital-bed-fire-hazard-fda-warning/",
+   "summary": "The medical equipment supplier's motorized beds can overheat and cause fires, regulators said in an urgent alert to consumers.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-10-30T15:25:21+00:00",
+   "tickers": [
+    "MDLN"
+   ],
+   "type": "fda",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -32,6 +65,92 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "49ab86cb8a0a",
+   "title": "Wheat Showing Mixed Trade on Friday Morning",
+   "link": "https://www.nasdaq.com/articles/wheat-showing-mixed-trade-friday-morning",
+   "summary": "Wheat is mixed, with KC the weakest and down 2 cents and MPLS the firmest. The wheat complex found strength midway through the Thursday session following China rumors and a marketing year high in export business. Chicago SRW contracts were up 1 to 4 ¾ cents. Open interest was up...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:24:26+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7ffb8e74f4f7",
+   "title": "Cattle Look to Close Out the Month on Friday",
+   "link": "https://www.nasdaq.com/articles/cattle-look-close-out-month-friday",
+   "summary": "Live cattle futures were lower on Thursday, with contracts down a dime to $1.02. Open interest was up 557 contracts on Thursday. Cash trade has been quiet this week with a few sales reported by USDA at $223-226 live in the north and $350-365 dressed. The Thursday morning Fed Cattle...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:24:26+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b664187c02a4",
+   "title": "Hogs Look to Close Out October",
+   "link": "https://www.nasdaq.com/articles/hogs-look-close-out-october",
+   "summary": "Lean hog futures posted steady to $1.22 gains on Thursday. Open interest was 3,142 contracts on Thursday. USDA’s national base hog price was reported at $63.78 in the Thursday PM report, up $7.22 from the day prior. The CME Lean Hog Index was down $1.06 on October 27 at $68.30....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:24:26+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "efe85f6ce3c4",
+   "title": "Cotton Fading Lower on Friday",
+   "link": "https://www.nasdaq.com/articles/cotton-fading-lower-friday-1",
+   "summary": "Cotton prices are down 29 to 36 points on Friday morning. Futures closed with gains of 21 to 43 points across the board on Thursday. Crude oil was up 8 cents per barrel on the session, with the US dollar index $0.271 lower. USDA’s Export Sales report showed 216,488 RB...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:24:25+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "0223d6a152df",
+   "title": "Corn Fading Lower on Friday AM Trade",
+   "link": "https://www.nasdaq.com/articles/corn-fading-lower-friday-am-trade",
+   "summary": "Corn prices are down 2 cents early on Friday morning. Futures posted mixed trade at the close on Thursday, with contracts anywhere from down a penny to 1 ¼ cents higher across the board. Open interest was up 9,092 contracts on Thursday. The CmdtyView national average Cash Corn price was...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:24:25+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e670061c31c0",
+   "title": "Soybeans Starting the Final Trade Day of October with Losses",
+   "link": "https://www.nasdaq.com/articles/soybeans-starting-final-trade-day-october-losses",
+   "summary": "Soybeans are showing slight losses of fractionally to 2 cents on Friday morning. Future were down ½ to 4 ¾ cents in the front months on Thursday with some deferreds fractionally to 3 ents higher. Open interest was down 9,096 contracts on Thursday. There was just 1 soybean delivery against...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:24:25+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -62,6 +181,38 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a86926cd99d9",
+   "title": "Stocks Close Lower as Alphabet Disappoints and Chip Stocks Fall",
+   "link": "https://www.nasdaq.com/articles/stocks-close-lower-alphabet-disappoints-and-chip-stocks-fall",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -0.30%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -1.38%. December E-mini S&amp;P futures (ESZ26 ) fell -0.87%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.67%. US...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:18:58+00:00",
+   "tickers": [
+    "GOOG",
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "20a6e3875606",
+   "title": "Dollar is Undercut by Lower T-note Yields",
+   "link": "https://www.nasdaq.com/articles/dollar-undercut-lower-t-note-yields",
+   "summary": "The dollar index (DXY00 ) fell -0.16% on Thursday as the 10-year T-note yield fell -4 bp, undercutting US interest rate differentials. The 2-year T-note yield fell -5 bp on Thursday. The dollar found underlying support from a stronger-than-expected US GDP report of +3.4% and safe-haven demand as stocks fell....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:18:58+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -249,6 +400,23 @@
    "tag_v": 2
   },
   {
+   "id": "b3aafbd24bd5",
+   "title": "XLF, UMAY: Big ETF Outflows",
+   "link": "https://www.nasdaq.com/articles/xlf-umay-big-etf-outflows",
+   "summary": "Looking at units outstanding versus one week prior within the universe of ETFs covered at ETF Channel, the biggest outflow was seen in the State Street Financial Select Sector SPDR ETF, where 16,250,000 units were destroyed, or a 1.7% decrease week over week. Among the largest",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:11:15+00:00",
+   "tickers": [
+    "XLF",
+    "STT"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a7fa10431aed",
    "title": "INTC next support level after a 28% drop",
    "link": "https://www.investing.com/news/stock-market-news/intc-next-support-level-after-a-28-drop-93CH-4988209",
@@ -265,6 +433,55 @@
    "tag_v": 2
   },
   {
+   "id": "2255b15e6181",
+   "title": "See Which Recent 13F Filers Hold CRM",
+   "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-crm",
+   "summary": "At Holdings Channel, we have reviewed the latest batch of the 51 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Salesforce Inc (Symbol: CRM) was held by 24 of these funds. When hedge fund managers appear to be thinking alike, we find it is a good i",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:11:00+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "35f871bdc6ad",
+   "title": "SCHP, DRAI: Big ETF Inflows",
+   "link": "https://www.nasdaq.com/articles/schp-drai-big-etf-inflows",
+   "summary": "Comparing units outstanding versus one week ago at the coverage universe of ETFs at ETF Channel, the biggest inflow was seen in the Schwab U.S. TIPs ETF, which added 39,300,000 units, or a 6.1% increase week over week. And on a percentage change basis, the ETF with the bigges",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:10:56+00:00",
+   "tickers": [
+    "SCHW",
+    "SCHP"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "feff11daa980",
+   "title": "SK Hynix Just Delivered Fantastic News for Micron",
+   "link": "https://www.nasdaq.com/articles/sk-hynix-just-delivered-fantastic-news-micron",
+   "summary": "Key PointsMemory company SK Hynix said it's essentially sold out of its available memory through 2029.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:10:16+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "38ff523ca9b2",
    "title": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.98%",
    "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-098-4988208",
@@ -276,6 +493,23 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "376b30faee15",
+   "title": "Friday 10/30 Insider Buying Report: DINO, PNFP",
+   "link": "https://www.nasdaq.com/articles/friday-10-30-insider-buying-report-dino-pnfp",
+   "summary": "Bargain hunters are wise to pay careful attention to insider buying, because although there are many various reasons for an insider to sell a stock, presumably the only reason they would use their hard-earned cash to make a purchase, is that they expect to make money. Today we",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:09:13+00:00",
+   "tickers": [
+    "DINO",
+    "PNFP"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -306,6 +540,23 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "64ca2b123568",
+   "title": "Nasdaq 100 Movers: INTC, REGN",
+   "link": "https://www.nasdaq.com/articles/nasdaq-100-movers-intc-regn",
+   "summary": "In early trading on Friday, shares of Regeneron Pharmaceuticals topped the list of the day's best performing components of the Nasdaq 100 index, trading up 13.9%. Year to date, Regeneron Pharmaceuticals registers a 20.8% gain. And the worst performing Nasdaq 100 component thus",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T15:08:00+00:00",
+   "tickers": [
+    "REGN",
+    "INTC"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -418,17 +669,17 @@
    "tag_v": 2
   },
   {
-   "id": "49ab86cb8a0a",
-   "title": "Wheat Showing Mixed Trade on Friday Morning",
-   "link": "https://www.nasdaq.com/articles/wheat-showing-mixed-trade-friday-morning",
-   "summary": "Wheat is mixed, with KC the weakest and down 2 cents and MPLS the firmest. The wheat complex found strength midway through the Thursday session following China rumors and a marketing year high in export business. Chicago SRW contracts were up 1 to 4 ¾ cents. Open interest was up...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T15:03:15+00:00",
+   "id": "17728a55d3fd",
+   "title": "Trump will rally in Iowa and Kansas after initially canceling weekend trips before midterms - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdl9DbU9vMnRKcW9KazR5ODFUbWlYVkVjcFUtNTFhNUxaMGZyZnM3SjNRZUFDZUN3OGd4TTQ1YkluZjEzcldSRHhVTU1PNmItVmFIMG0ycFNDQVNVcjdDMFczai1WR2Nmd2VrS2V4ZWlILVVJc0E0eHhBdnhpSnp5UC03VEM3Z0REQkFicmlTbmxjc0lBLTRObDFB?oc=5",
+   "summary": "Trump will rally in Iowa and Kansas after initially canceling weekend trips before midterms&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-30T15:04:00+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
+   "type": "macro",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1193,62 +1444,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "efe85f6ce3c4",
-   "title": "Cotton Fading Lower on Friday",
-   "link": "https://www.nasdaq.com/articles/cotton-fading-lower-friday-1",
-   "summary": "Cotton prices are down 29 to 36 points on Friday morning. Futures closed with gains of 21 to 43 points across the board on Thursday. Crude oil was up 8 cents per barrel on the session, with the US dollar index $0.271 lower. USDA’s Export Sales report showed 216,488 RB...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T14:50:31+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "7ffb8e74f4f7",
-   "title": "Cattle Look to Close Out the Month on Friday",
-   "link": "https://www.nasdaq.com/articles/cattle-look-close-out-month-friday",
-   "summary": "Live cattle futures were lower on Thursday, with contracts down a dime to $1.02. Open interest was up 557 contracts on Thursday. Cash trade has been quiet this week with a few sales reported by USDA at $223-226 live in the north and $350-365 dressed. The Thursday morning Fed Cattle...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T14:50:31+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0223d6a152df",
-   "title": "Corn Fading Lower on Friday AM Trade",
-   "link": "https://www.nasdaq.com/articles/corn-fading-lower-friday-am-trade",
-   "summary": "Corn prices are down 2 cents early on Friday morning. Futures posted mixed trade at the close on Thursday, with contracts anywhere from down a penny to 1 ¼ cents higher across the board. Open interest was up 9,092 contracts on Thursday. The CmdtyView national average Cash Corn price was...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T14:50:31+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e670061c31c0",
-   "title": "Soybeans Starting the Final Trade Day of October with Losses",
-   "link": "https://www.nasdaq.com/articles/soybeans-starting-final-trade-day-october-losses",
-   "summary": "Soybeans are showing slight losses of fractionally to 2 cents on Friday morning. Future were down ½ to 4 ¾ cents in the front months on Thursday with some deferreds fractionally to 3 ents higher. Open interest was down 9,096 contracts on Thursday. There was just 1 soybean delivery against...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T14:50:31+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2404,40 +2599,6 @@
    "tag_v": 2
   },
   {
-   "id": "b664187c02a4",
-   "title": "Hogs Look to Close Out October",
-   "link": "https://www.nasdaq.com/articles/hogs-look-close-out-october",
-   "summary": "Lean hog futures posted steady to $1.22 gains on Thursday. Open interest was 3,142 contracts on Thursday. USDA’s national base hog price was reported at $63.78 in the Thursday PM report, up $7.22 from the day prior. The CME Lean Hog Index was down $1.06 on October 27 at $68.30....",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T14:26:20+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a86926cd99d9",
-   "title": "Stocks Close Lower as Alphabet Disappoints and Chip Stocks Fall",
-   "link": "https://www.nasdaq.com/articles/stocks-close-lower-alphabet-disappoints-and-chip-stocks-fall",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -0.30%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -1.38%. December E-mini S&amp;P futures (ESZ26 ) fell -0.87%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.67%. US...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T14:26:20+00:00",
-   "tickers": [
-    "GOOG",
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "b32f4f53c751",
    "title": "2026 Los Angeles Auto Show 融合汽車與娛樂，帶來全新合作、明星體驗活動及更多精彩內容",
    "link": "https://www.prnewswire.com/news-releases/2026-los-angeles-auto-show-rong-he-qi-che-yu-yu-le-dai-lai-quan-xin-he-zuo-ming-xing-ti-yan-huo-dong-ji-geng-duo-jing-cai-nei-rong--880806207.html",
@@ -2451,20 +2612,6 @@
    ],
    "type": "press",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "17728a55d3fd",
-   "title": "Trump will rally in Kansas and Iowa after initially canceling weekend trips before midterms - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdl9DbU9vMnRKcW9KazR5ODFUbWlYVkVjcFUtNTFhNUxaMGZyZnM3SjNRZUFDZUN3OGd4TTQ1YkluZjEzcldSRHhVTU1PNmItVmFIMG0ycFNDQVNVcjdDMFczai1WR2Nmd2VrS2V4ZWlILVVJc0E0eHhBdnhpSnp5UC03VEM3Z0REQkFicmlTbmxjc0lBLTRObDFB?oc=5",
-   "summary": "Trump will rally in Kansas and Iowa after initially canceling weekend trips before midterms&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-30T14:23:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -3154,6 +3301,23 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "40b3caecb230",
+   "title": "Amazon falls 2%, Intel dives 29%, as tech stocks sell off in post-earnings rout",
+   "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+   "summary": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-10-30T14:03:21+00:00",
+   "tickers": [
+    "AMZN",
+    "INTC"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8264,23 +8428,6 @@
    "tag_v": 2
   },
   {
-   "id": "5c8963fa18b3",
-   "title": "Chevron and Exxon beat earnings expectations as refining profits soar on high diesel fuel prices",
-   "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-   "summary": "Diesel prices have surged globally as Ukraine and Iran have bombed refineries in Russia and the Middle East.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-10-30T11:35:51+00:00",
-   "tickers": [
-    "CVX",
-    "XOM"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "62385ce5970c",
    "title": "If a Stock Market Crash Is Coming, History Suggests These Are 2 Crucial Moves to Make.",
    "link": "https://www.nasdaq.com/articles/if-stock-market-crash-coming-history-suggests-these-are-2-crucial-moves-make",
@@ -8940,143 +9087,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "ca264ec3533c",
-   "title": "Howmet: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/howmet-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsIndustrial gas turbine revenue grew 45% in the third quarter.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T11:22:13+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ff089190a10e",
-   "title": "1,000 Units of Enterprise Products Partners Pay $2,240 a Year. Here’s What the Latest Earnings Say About Whether That’s a Safe Passive Income Stream.",
-   "link": "https://www.nasdaq.com/articles/1000-units-enterprise-products-partners-pay-2240-year-heres-what-latest-earnings-say-about",
-   "summary": "Key PointsEnterprise&rsquo;s operating cash flow covered its distribution by 1.9 times, leaving $1.1 billion to reinvest, buy back units, or pay down debt.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T11:21:02+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cecd7f971854",
-   "title": "Eastman Chemical Q3 Earnings Miss Estimates Despite Higher Pricing",
-   "link": "https://www.nasdaq.com/articles/eastman-chemical-q3-earnings-miss-estimates-despite-higher-pricing",
-   "summary": "EMN's Q3 earnings missed estimates despite higher pricing, as improved margins and asset utilization boosted profitability across key segments.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T11:21:00+00:00",
-   "tickers": [
-    "EMN"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b3e22530500f",
-   "title": "Should Investors Buy, Hold or Sell AVO Stock at Its Current Valuation?",
-   "link": "https://www.nasdaq.com/articles/should-investors-buy-hold-or-sell-avo-stock-its-current-valuation",
-   "summary": "Mission Produce trades at an industry valuation discount, but avocado pricing pressure, rising debt and Calavo integration risks cloud its recovery prospects.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T11:21:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d881ca2ca93c",
-   "title": "Silver X Files NI 43-101 Technical Report for the Updated Nueva Recuperada Mineral Resource: 10.4 Mt Measured and Indicated at 202 g/t AgEq (67.3 Moz AgEq) and 21.6 Mt Inferred at 260 g/t AgEq (184.3 Moz AgEq) | AGXPF Stock News",
-   "link": "https://www.stocktitan.net/news/AGXPF/silver-x-files-ni-43-101-technical-report-for-the-updated-nueva-u6198ozevp0k.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-10-30T11:20:00+00:00",
-   "tickers": [
-    "NI"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "47b014a7b189",
-   "title": "Meta, TikTok, X lose legal challenge against UK watchdog over online safety data demands",
-   "link": "https://www.investing.com/news/stock-market-news/meta-tiktok-x-lose-legal-challenge-against-uk-watchdog-over-online-safety-data-demands-4987036",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-30T11:19:15+00:00",
-   "tickers": [
-    "META"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4b7a81534321",
-   "title": "Church & Dwight Maintains FY26 Outlook Within Prior Range; Authorizes $1 Bln Share Buyback- Update",
-   "link": "https://www.nasdaq.com/articles/church-dwight-maintains-fy26-outlook-within-prior-range-authorizes-1-bln-share-buyback",
-   "summary": "(RTTNews) - While reporting financial results for the third quarter on Friday, Church & Dwight Co., Inc. (CHD) provided its adjusted earnings and net sales growth guidance for the fourth quarter and maintains its outlook for the full-year 2026 within the prior forecast range.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T11:17:28+00:00",
-   "tickers": [
-    "CHD"
-   ],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e8633d2e5293",
-   "title": "Instagram wants 90-minute videos but isn't sharing ad money",
-   "link": "https://www.thestreet.com/entertainment/instagram-wants-90-minute-videos-but-isnt-sharing-ad-money",
-   "summary": "Instagram is testing YouTube-style long videos called Features, but its boss says paying creators loses money.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-30T11:17:00+00:00",
-   "tickers": [
-    "META",
-    "GOOGL"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "890edd9bd94b",
-   "title": "Lawyers for ex-FBI Director James Comey will ask a judge to block Justice Department prosecution - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOUpkYjZwZTAwOXFhRnEta2JDaUE0azE2WndxcEdLN2NQaktHcHdwQXlrSS1YLUFfT0phcTNQTjk1dkNmcThZcXpLckhUMjc4M3JFMGQ2UmE3XzVPZllIVXQ5WkczbWJxZUZDTjRKa09lTHlTeG5oRTYtNDFlQkVBeVJ1UWxIMXJpcGdraHd5VXVIVTNfTmpGNjZn?oc=5",
-   "summary": "Lawyers for ex-FBI Director James Comey will ask a judge to block Justice Department prosecution&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-30T11:17:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9084,6 +9094,7 @@
   "XLP": "State Street Consumer Staples Select Sector SPDR ETF",
   "SPAB": "State Street SPDR Portfolio Aggregate Bond ETF",
   "HYG": "iShares iBoxx $ High Yield Corporate Bond ETF",
+  "XLF": "State Street Financial Select Sector SPDR ETF",
   "SOXS": "Direxion Daily Semiconductor Bear 3X Shares",
   "EMXC": "iShares MSCI Emerging Markets ex China ETF",
   "SPYM": "State Street SPDR Portfolio S&P 500 ETF",
@@ -9099,6 +9110,7 @@
   "AIG": "American International Group",
   "ILF": "iShares Latin America 40 ETF",
   "PFSI": "PennyMac Financial Services",
+  "PNFP": "Pinnacle Financial Partners",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "STX": "Seagate Technology Holdings",
   "ARKG": "ARK Genomic Revolution ETF",
@@ -9133,6 +9145,7 @@
   "CEG": "Constellation Energy",
   "EIX": "Edison International",
   "IMO": "Imperial Oil Limited",
+  "SCHP": "Schwab U.S. TIPS ETF",
   "SPG": "Simon Property Group",
   "SPHR": "Sphere Entertainment",
   "ANF": "Abercrombie & Fitch",
@@ -9145,6 +9158,7 @@
   "MRVL": "Marvell Technology",
   "MSI": "Motorola Solutions",
   "PANW": "Palo Alto Networks",
+  "SCHW": "The Charles Schwab",
   "SIRI": "Sirius XM Holdings",
   "TPL": "Texas Pacific Land",
   "TT": "Trane Technologies",
@@ -9161,7 +9175,6 @@
   "AMTM": "Amentum Holdings",
   "AR": "Antero Resources",
   "BBIO": "BridgeBio Pharma",
-  "EMN": "Eastman Chemical",
   "GD": "General Dynamics",
   "INVH": "Invitation Homes",
   "LNC": "Lincoln National",
@@ -9206,6 +9219,7 @@
   "NVDA": "Grace Hopper",
   "RACE": "Ferrari N.V.",
   "DHI": "D.R. Horton",
+  "DINO": "HF Sinclair",
   "FE": "FirstEnergy",
   "FSLR": "First Solar",
   "LCID": "Lucid Group",
@@ -9238,7 +9252,6 @@
   "EXEL": "Exelixis",
   "GOOG": "Alphabet",
   "ILMN": "Illumina",
-  "NI": "NiSource",
   "SYM": "Symbotic",
   "CNC": "Centene",
   "CVX": "Chevron",
@@ -9248,6 +9261,7 @@
   "GDDY": "GoDaddy",
   "HUBB": "Hubbell",
   "IVZ": "Invesco",
+  "MDLN": "Medline",
   "MRK": "Merck &",
   "SNDK": "Sandisk",
   "SYK": "Stryker",
