@@ -1,8 +1,42 @@
 {
- "generated": "2026-10-30T13:51:43.177844+00:00",
+ "generated": "2026-10-30T13:56:37.193983+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "56954f464732",
+   "title": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
+   "link": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
+   "summary": "Disappointing earnings reports from Alphabet, Amazon and Intel are renewing fears that the AI trade could unravel.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-10-30T13:50:25+00:00",
+   "tickers": [
+    "GOOG",
+    "AMZN",
+    "INTC"
+   ],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ac76d9227445",
+   "title": "WHI Solutions Launches Nexus AI Suite for Nexpart, Starting With AI-Assisted Phone Ordering",
+   "link": "https://www.prnewswire.com/news-releases/whi-solutions-launches-nexus-ai-suite-for-nexpart-starting-with-ai-assisted-phone-ordering-302924965.html",
+   "summary": "Already in use with major parts distributors, Nexus offers 24/7, no-hold, multilingual phone ordering built on WHI catalog data. See it at AAPEX 2026, WHI Solutions Booth V838. SAN JOSE, Calif., Oct. 30, 2026 /PRNewswire/ -- WHI Solutions, an eBay company, today launched Nexus, the AI...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-10-30T13:50:00+00:00",
+   "tickers": [
+    "EBAY"
+   ],
+   "type": "press",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "d3f144bdac1e",
    "title": "TPM Holdings Accelerates Investment in AI and Salesforce CRM for the Built World",
@@ -376,6 +410,24 @@
    "tag_v": 2
   },
   {
+   "id": "a86926cd99d9",
+   "title": "Stocks Close Lower as Alphabet Disappoints and Chip Stocks Fall",
+   "link": "https://www.nasdaq.com/articles/stocks-close-lower-alphabet-disappoints-and-chip-stocks-fall",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -0.30%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -1.38%. December E-mini S&amp;P futures (ESZ26 ) fell -0.87%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.67%. US...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-30T13:29:16+00:00",
+   "tickers": [
+    "GOOG",
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "0dc5849a9ae7",
    "title": "Why is Arbor Realty Trust stock plunging today?",
    "link": "https://www.investing.com/news/stock-market-news/why-is-arbor-realty-trust-stock-plunging-today-93CH-4987911",
@@ -387,24 +439,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "56954f464732",
-   "title": "Tech stocks crushed as Nasdaq futures tumble nearly 800 points",
-   "link": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
-   "summary": "Disappointing earnings reports from Alphabet, Amazon and Intel are renewing fears that the AI trade could unravel.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-10-30T13:25:30+00:00",
-   "tickers": [
-    "GOOG",
-    "AMZN",
-    "INTC"
-   ],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2888,24 +2922,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a86926cd99d9",
-   "title": "Stocks Close Lower as Alphabet Disappoints and Chip Stocks Fall",
-   "link": "https://www.nasdaq.com/articles/stocks-close-lower-alphabet-disappoints-and-chip-stocks-fall",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -0.30%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -1.38%. December E-mini S&amp;P futures (ESZ26 ) fell -0.87%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.67%. US...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T12:29:38+00:00",
-   "tickers": [
-    "GOOG",
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8894,6 +8910,20 @@
    "tag_v": 2
   },
   {
+   "id": "be91c955c220",
+   "title": "A rare Russia-Ukraine truce allows a humanitarian mission to reach the stricken city of Oleshky - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNE50dDNzNWRrQWd1b0g3RHBwMHBNREZ2UUtBQjBGQ0VSSHB5ZkxrTV9aa1VoU1ZWVXJMcHpNSVh4T1lWT2lDeHBVa2hCY0o1eXhTR1F6b0d4UWsySUFsbXI5YXFVdVN0UzY3U2o3QjNSSld5TmJEeDh2dlFkc0JLeDB0WndsaWFvaC16eFg2dmpaTko2OHNj?oc=5",
+   "summary": "A rare Russia-Ukraine truce allows a humanitarian mission to reach the stricken city of Oleshky&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-30T10:05:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "443fd9002985",
    "title": "Crypto stocks drop after record $6.3bn Binance hack",
    "link": "https://www.investing.com/news/stock-market-news/crypto-stocks-drop-after-record-63bn-binance-hack-4986444",
@@ -8934,38 +8964,6 @@
    "published": "2026-10-30T10:04:12+00:00",
    "tickers": [
     "EXC"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b92e3b59e313",
-   "title": "General Dynamics Q3 26 Earnings Conference Call At 9:00 AM ET",
-   "link": "https://www.nasdaq.com/articles/general-dynamics-q3-26-earnings-conference-call-9-00-am-et",
-   "summary": "(RTTNews) - General Dynamics Corp. (GD) will host a conference call at 9:00 AM ET on October 30, 2026, to discuss Q3 26 earnings results.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T10:04:12+00:00",
-   "tickers": [
-    "GD"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d2884402b052",
-   "title": "Chevron Q3 26 Earnings Conference Call At 11:00 AM ET",
-   "link": "https://www.nasdaq.com/articles/chevron-q3-26-earnings-conference-call-11-00-am-et",
-   "summary": "(RTTNews) - Chevron Corp. (CVX) will host a conference call at 11:00 AM ET on October 30, 2026, to discuss Q3 26 earnings results.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T10:04:12+00:00",
-   "tickers": [
-    "CVX"
    ],
    "type": "earnings",
    "sentiment": "neutral",
