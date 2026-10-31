@@ -1,19 +1,36 @@
 {
- "generated": "2026-10-31T11:06:05.276796+00:00",
+ "generated": "2026-10-31T11:11:01.665990+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "87968a9c7f04",
+   "title": "Reddit stock plunges 28% as Google AI cuts US traffic",
+   "link": "https://www.thestreet.com/technology/reddit-stock-plunges-28-as-google-ai-cuts-us-traffic",
+   "summary": "Google changes hit Reddit traffic, particularly among logged-out users.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-31T11:07:00+00:00",
+   "tickers": [
+    "RDDT",
+    "GOOGL"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "9c0943f43f76",
    "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
    "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
    "summary": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March.",
-   "source": "CNBC Top",
-   "category": "markets",
+   "source": "CNBC Earnings",
+   "category": "earnings",
    "domain": "cnbc.com",
    "published": "2026-10-31T11:00:01+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8890,20 +8907,6 @@
    "published": "2026-10-30T19:19:11+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0ad48f024fe1",
-   "title": "Nasdaq 100 in freefall below all MAs after Bear Flag: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-tests-descending-triangle-support-at-29000-live-levels-93CH-4973069",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-30T19:19:03+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   }
