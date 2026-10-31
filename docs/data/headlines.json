@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T19:56:35.951616+00:00",
+ "generated": "2026-10-31T20:01:42.349882+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -12,6 +12,36 @@
    "category": "markets",
    "domain": "investing.com",
    "published": "2026-10-31T19:42:19+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a39186c2dfdf",
+   "title": "FedEx: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/fedex-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsFedEx raised its calendar 2026 adjusted earnings per share guidance.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T19:39:00+00:00",
+   "tickers": [
+    "FDX"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ce50e6a5cb49",
+   "title": "UPS: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/ups-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsUPS' full-year 2026 revenue is expected to reach $92.6 billion.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T19:38:44+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -43,6 +73,22 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "dfa10ef3fc01",
+   "title": "Boeing Stock Slumps Again; Time to Buy or Throw in the Towel?",
+   "link": "https://www.nasdaq.com/articles/boeing-stock-slumps-again-time-buy-or-throw-towel",
+   "summary": "Key PointsAchieving management's targets could yield strong returns by 2029.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T19:35:00+00:00",
+   "tickers": [
+    "BA"
+   ],
+   "type": "ma",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8912,48 +8958,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "460539a1cea2",
-   "title": "LiveOne interim CFO Craig Christensen to depart Friday",
-   "link": "https://www.investing.com/news/sec-filings/liveone-interim-cfo-craig-christensen-to-depart-friday-93CH-4988745",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T21:12:42+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f235a8bcf1b3",
-   "title": "Taitron Components declares $0.04 quarterly dividend",
-   "link": "https://www.investing.com/news/company-news/taitron-components-declares-004-quarterly-dividend-93CH-4988744",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T21:12:28+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ebd312a70a6d",
-   "title": "Gold slides in October, spot prices dip under $4k, hit their lowest in over a year",
-   "link": "https://www.investing.com/news/commodities-news/gold-hovers-near-4000-as-pce-inflation-oil-risks-revive-fed-hike-concerns-4985685",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T21:11:20+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9065,6 +9069,7 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "AZN": "AstraZeneca",
+  "BA": "The Boeing",
   "BN": "Brookfield",
   "BROS": "Dutch Bros",
   "F": "Ford Motor",
