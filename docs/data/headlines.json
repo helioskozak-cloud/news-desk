@@ -1,8 +1,41 @@
 {
- "generated": "2026-10-31T01:41:36.206989+00:00",
+ "generated": "2026-10-31T01:46:28.820502+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8b64b0a10aec",
+   "title": "Alaska Air to cut about 200 jobs as fuel shock squeezes earnings",
+   "link": "https://www.investing.com/news/stock-market-news/alaska-air-to-cut-200-jobs-as-fuel-costs-threaten-700-million-annual-loss-4988943",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-31T01:30:39+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "4cac8990474b",
+   "title": "Okta To Replace Kenvue In S&P 500",
+   "link": "https://www.nasdaq.com/articles/okta-replace-kenvue-sp-500",
+   "summary": "(RTTNews) - S&amp;P Dow Jones Indices, a division of S&amp;P Global (SPGI), announced that S&amp;P MidCap 400 constituent Okta Inc. (OKTA) will replace Kenvue Inc. (KVUE) in the S&amp;P 500, S&amp;P SmallCap 600 constituent Glaukos Corp. (GKOS) will replace Okta in the S&amp;P MidCap 400, and McGrath Re",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T01:30:36+00:00",
+   "tickers": [
+    "OKTA",
+    "KVUE",
+    "GKOS",
+    "SPGI"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "0537dfe30713",
    "title": "Amazon has a $40 3-tier metal storage shelf that 'fits perfectly in a small closet'",
@@ -512,20 +545,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8b64b0a10aec",
-   "title": "Alaska Air to cut 200 jobs, warns of potential $700 million annual loss",
-   "link": "https://www.investing.com/news/stock-market-news/alaska-air-to-cut-200-jobs-as-fuel-costs-threaten-700-million-annual-loss-4988943",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-10-31T00:19:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -5164,20 +5183,6 @@
    "tag_v": 2
   },
   {
-   "id": "4e878232485a",
-   "title": "AP Decision Notes: What to expect in Texas on Election Day - AP News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUlsbFVZTnVzNi1ZVVdsVG95NUJOXzdESG5jdkkwczhKdlBaZC10TzlRbEt2NjQ4eVBvVGRQS2drcGJ0RU9CcHl0aTIzZkN4enF6d1NlaUkzM2xOQWIzUVZlMFRSbGFHWTcwOEVSaGFPRWx6NURkd1ZQZndNbXlfTzNYYkR0em9SZ0Q1UFh0YjdqaUlGVlIzdEthTG9nQQ?oc=5",
-   "summary": "AP Decision Notes: What to expect in Texas on Election Day&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-30T20:16:30+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "dd5b1a47b2bd",
    "title": "Leidos Holdings, Inc. Increases Quarterly Cash Dividend by 4.7% | LDOS Stock News",
    "link": "https://www.stocktitan.net/news/LDOS/leidos-holdings-inc-increases-quarterly-cash-dividend-by-4-jcr00wkdbhz8.html",
@@ -9104,6 +9109,7 @@
   "RAL": "Ralliant",
   "CVX": "Chevron",
   "ETR": "Entergy",
+  "GKOS": "Glaukos",
   "IVZ": "Invesco",
   "MDB": "MongoDB",
   "MRK": "Merck &",
