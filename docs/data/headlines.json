@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-31T23:26:06.143852+00:00",
+ "generated": "2026-10-31T23:31:34.757645+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "3b284888ebb4",
+   "title": "Macy’s is selling an $850 cultured freshwater pearl necklace for 65% off",
+   "link": "https://www.thestreet.com/deals/effy-cultured-freshwater-pearl-station-necklace-macys-sale",
+   "summary": "\"A timeless, elegant pearl necklace that accentuates the neckline.\"",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-31T23:30:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "a1eec1950741",
    "title": "$6.3 billion Binance hack likely work of North Korea, experts say",
@@ -15,6 +29,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "26fae60952c2",
+   "title": "Virginia and DC sue over Trump's arch, adding to legal challenges as government wants work to begin - AP News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWdIdnZjbU5ESzhYMXdsdHlpbWVNbC1GRFdmSGN1UUwxbUluTk5SQzF4VktaaV9JQ1dGN1VyY0IwWmg1QUtXNVFFSy1mRkkwWTFtODdoWWNoeHZWUU9ZLUNKT29EUFpIN3NsYjRWdFcybFlZeU9ZS0ZpeTh0U1ZFR2o4OElGVjN6LUtCQjVYbWhYUlNMX1oydVpPNkVNSi1qNFNjNlNiczJvM3BNNFZCeEpkUEVJQQ?oc=5",
+   "summary": "Virginia and DC sue over Trump's arch, adding to legal challenges as government wants work to begin&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-31T23:19:00+00:00",
+   "tickers": [],
+   "type": "legal",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -729,20 +757,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "26fae60952c2",
-   "title": "Virginia and DC sue over Trump's arch, adding to legal challenges as government wants work to begin - AP News",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWdIdnZjbU5ESzhYMXdsdHlpbWVNbC1GRFdmSGN1UUwxbUluTk5SQzF4VktaaV9JQ1dGN1VyY0IwWmg1QUtXNVFFSy1mRkkwWTFtODdoWWNoeHZWUU9ZLUNKT29EUFpIN3NsYjRWdFcybFlZeU9ZS0ZpeTh0U1ZFR2o4OElGVjN6LUtCQjVYbWhYUlNMX1oydVpPNkVNSi1qNFNjNlNiczJvM3BNNFZCeEpkUEVJQQ?oc=5",
-   "summary": "Virginia and DC sue over Trump's arch, adding to legal challenges as government wants work to begin&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-31T19:42:00+00:00",
-   "tickers": [],
-   "type": "legal",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8933,35 +8947,15 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "7e73410a8ec5",
-   "title": "SPDW vs VWO: Two International ETFs Face Off, but One Offers a Better Mix of Income and Growth for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/spdw-vs-vwo-two-international-etfs-face-one-offers-better-mix-income-and-growth-long-term",
-   "summary": "Key PointsThe State Street ETF offers developed-market exposure at a lower 0.03% expense ratio, compared with 0.06% for Vanguard.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T21:35:02+00:00",
-   "tickers": [
-    "STT",
-    "SPDW",
-    "VWO"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
   "SOXX": "iShares PHLX SOX Semiconductor Sector Index Fund",
   "XLU": "State Street Utilities Select Sector SPDR ETF",
   "NOBL": "ProShares S&P 500 Dividend Aristocrats ETF",
-  "SPDW": "SPDR Portfolio Developed World ex-US ETF",
   "IEMG": "iShares Core MSCI Emerging Markets ETF",
   "VXUS": "Vanguard Total International Stock ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
-  "VWO": "Vanguard FTSE Emerging Markets ETF",
   "EEM": "iShares MSCI Emerging Index Fund",
   "SCHF": "Schwab International Equity ETF",
   "CTSH": "Cognizant Technology Solutions",
