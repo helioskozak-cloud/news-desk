@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T16:46:11.599829+00:00",
+ "generated": "2026-10-31T16:51:46.860395+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -17,6 +17,22 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "206f2a7ad64d",
+   "title": "Freedom Broker Upgrades PACCAR to Buy from Hold",
+   "link": "https://www.nasdaq.com/articles/freedom-broker-upgrades-paccar-buy-hold",
+   "summary": "Fintel reports that on October 30, 2026, Freedom Broker upgraded their outlook for PACCAR (NASDAQGS:PCAR) (LSE:0KET) from Hold to Buy.This action follows a prior move by the same firm on March 26, 2026, when Freedom Broker downgraded the stock from Buy to Hold. Prior to the curre",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T16:34:36+00:00",
+   "tickers": [
+    "PCAR"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1817,20 +1833,6 @@
    ],
    "type": "markets",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "98bf5dec5d4c",
-   "title": "Meet the democratic socialists likely on their way to Congress - AP News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbmdJTVZyUzBrOC10dFBTM1BDNkZkYjN3Yl9USDRFLTJ4ZlRfc1FXRDNSYlVYd2xWT0NaNi1FemJ4ZF9wMjNtelFpMlo4ZEI4ZldoM0JOTmg1dTFYd0dyM1hZMHdRQnRvZTRtRWN1bWRuOVY1QmhMTlBCNVowakZQMkdmMk85VTZQTnV3TTZOQXVCMFZUZVZSWkRNczYxZw?oc=5",
-   "summary": "Meet the democratic socialists likely on their way to Congress&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-31T12:26:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -4174,6 +4176,20 @@
    "published": "2026-10-31T04:31:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "98bf5dec5d4c",
+   "title": "Meet the democratic socialists likely on their way to Congress - AP News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbmdJTVZyUzBrOC10dFBTM1BDNkZkYjN3Yl9USDRFLTJ4ZlRfc1FXRDNSYlVYd2xWT0NaNi1FemJ4ZF9wMjNtelFpMlo4ZEI4ZldoM0JOTmg1dTFYd0dyM1hZMHdRQnRvZTRtRWN1bWRuOVY1QmhMTlBCNVowakZQMkdmMk85VTZQTnV3TTZOQXVCMFZUZVZSWkRNczYxZw?oc=5",
+   "summary": "Meet the democratic socialists likely on their way to Congress&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-31T04:29:11+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8921,22 +8937,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "ae3a599578b8",
-   "title": "Champion Homes (SKY) Shares Cross Above 200 DMA",
-   "link": "https://www.nasdaq.com/articles/champion-homes-sky-shares-cross-above-200-dma",
-   "summary": "In trading on Friday, shares of Champion Homes Inc (Symbol: SKY) crossed above their 200 day moving average of $82.41, changing hands as high as $85.97 per share. Champion Homes Inc shares are currently trading up about 4.5% on the day. The chart below shows the one year perfo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T20:39:53+00:00",
-   "tickers": [
-    "SKY"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9025,7 +9025,6 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "QBTS": "D-Wave Quantum",
-  "SKY": "Champion Homes",
   "EG": "Everest Group",
   "JOBY": "Joby Aviation",
   "KO": "The Coca-Cola",
@@ -9098,6 +9097,7 @@
   "MTZ": "MasTec",
   "NTRA": "Natera",
   "ORCL": "Oracle",
+  "PCAR": "PACCAR",
   "PFE": "Pfizer",
   "PI": "Impinj",
   "RDDT": "Reddit",
