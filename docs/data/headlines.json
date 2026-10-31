@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T12:36:34.645715+00:00",
+ "generated": "2026-10-31T12:41:35.445076+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -46,6 +46,36 @@
     "BN"
    ],
    "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "02b4d6620c78",
+   "title": "GS flags interest rates and AI disruption as risks to long-term equity demand",
+   "link": "https://www.investing.com/news/stock-market-news/gs-flags-interest-rates-and-ai-disruption-as-risks-to-longterm-equity-demand-4989261",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-10-31T12:27:33+00:00",
+   "tickers": [
+    "GS"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c6b275de0ae2",
+   "title": "NTPC Q2 FY27 slides show capacity growth, profit gains",
+   "link": "https://www.investing.com/news/company-news/ntpc-q2-fy27-slides-show-capacity-growth-profit-gains-93CH-4989260",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-10-31T12:26:37+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1487,20 +1517,6 @@
    "tag_v": 2
   },
   {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-31T08:35:15+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "a422a38a3d48",
    "title": "Amazon Plans to Spend More on AI. Here’s Why the Stock is a Once-in-a-Decade Buy Hiding in Plain Sight.",
    "link": "https://www.nasdaq.com/articles/amazon-plans-spend-more-ai-heres-why-stock-once-decade-buy-hiding-plain-sight",
@@ -1541,6 +1557,20 @@
    "published": "2026-10-31T08:21:00+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-31T08:19:57+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8898,34 +8928,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "056f59832dbb",
-   "title": "Harley Davidson stock hits 52-week high at 31.13 USD",
-   "link": "https://www.investing.com/news/company-news/harley-davidson-stock-hits-52week-high-at-3113-usd-93CH-4988576",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T20:03:13+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2f2f514ac025",
-   "title": "Suspect in killings of Oberlin professor, wife held on $3 million bond - AP News",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXpEa2psVkZtRkhnZ092b1c4aUMwaVRtbVAxc3lYVThqNEFiU29Xem5wUlVmV2wwX0J6UzZ4bjZua1d1SDA3b09MSkk1LUVHc3doUDJDckVwV05Za3pTd3lsdFQ5OG1GLXgxRjlDeVgyXzk5VmVNWGRyT1BlZXJVN2V1MEVWNzkzU1VMalRndEdGZHBoV0JESU56cmV5ZG9YSmtfUjZ6ZFRUZlc2Z0tGZw?oc=5",
-   "summary": "Suspect in killings of Oberlin professor, wife held on $3 million bond&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-30T20:03:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8957,6 +8959,7 @@
   "IWM": "iShares Russell 2000 ETF",
   "TMO": "Thermo Fisher Scientific",
   "CHRW": "C.H. Robinson Worldwide",
+  "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
   "WPM": "Wheaton Precious Metals",
   "AMD": "Advanced Micro Devices",
