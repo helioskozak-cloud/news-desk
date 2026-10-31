@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T04:41:28.692193+00:00",
+ "generated": "2026-10-31T04:46:05.237430+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -42,6 +42,20 @@
    "published": "2026-10-31T04:31:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b09da8b294d8",
+   "title": "Is SpaceX Stock a Buy After Plummeting 28%?",
+   "link": "https://www.nasdaq.com/articles/spacex-stock-buy-after-plummeting-28",
+   "summary": "Key PointsSpaceX has cooled after its historic IPO.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T04:20:00+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -284,6 +298,20 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e00af4e26067",
+   "title": "Vanguard's Tech ETF Is About 10% Below Its Record. History Says What Usually Comes Next.",
+   "link": "https://www.nasdaq.com/articles/vanguards-tech-etf-about-10-below-its-record-history-says-what-usually-comes-next",
+   "summary": "Key PointsThe Vanguard Information Technology ETF's record close was $129.80, on Oct. 6.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T03:46:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8933,36 +8961,6 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "ac95d5b2b047",
-   "title": "Mobileye stock hits 52-week low at $5.76",
-   "link": "https://www.investing.com/news/company-news/mobileye-stock-hits-52week-low-at-576-93CH-4988487",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T18:12:15+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7f67c25b27bf",
-   "title": "American Express issues $3 billion in new notes with varying maturities",
-   "link": "https://www.investing.com/news/sec-filings/american-express-issues-3-billion-in-new-notes-with-varying-maturities-93CH-4988486",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T18:10:48+00:00",
-   "tickers": [
-    "AXP"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9036,7 +9034,6 @@
   "TAN": "Invesco Solar ETF",
   "TMDX": "TransMedics Group",
   "ALGN": "Align Technology",
-  "AXP": "American Express",
   "BWXT": "BWX Technologies",
   "CVCO": "Cavco Industries",
   "EMN": "Eastman Chemical",
