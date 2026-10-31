@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-31T17:43:09.737466+00:00",
+ "generated": "2026-10-31T17:46:36.107434+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4a24c3467681",
+   "title": "Amazon's $38 nightstand has 2 cubbies and a hidden drawer",
+   "link": "https://www.thestreet.com/shopping/yatiney-nightstand-with-hidden-compartment-amazon-sale",
+   "summary": "Keep your valuables secure and away from prying eyes.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-10-31T17:45:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "048fb4e31acb",
    "title": "Isolated clashes in France, as tensions erupt after peaceful marches",
@@ -2309,20 +2325,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-31T12:13:28+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -5163,6 +5165,20 @@
    "published": "2026-10-31T02:19:26+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5979e146401a",
+   "title": "Appeals court rejects Justice Department request for California to set aside disputed ballots - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHdmbjhFMWw1UUJfQ1ZYZTAxYXNtMnVBSE5YTTZOb0Z2THlxZ3FCSzczdzFqUnJyR1MzNDNDaDBQLWpaa0xUNVFvMkVEVmhwOXRqUUh2dl90azU0Zmk0cVNGZXhPM3FwX05KSGNDSEdzd2d1bDFrbXdTRXpzZG1UREVWSGR2YnZ0MXluTGZBR3hYUWJ4TkE3X1BUcHlTZmNyVDNTcVI2bldVdmlyZ0lZ?oc=5",
+   "summary": "Appeals court rejects Justice Department request for California to set aside disputed ballots&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-31T02:09:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8933,39 +8949,6 @@
    "type": "legal",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "8e197aa23713",
-   "title": "Alliant Energy (LNT) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/alliant-energy-lnt-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T20:47:39+00:00",
-   "tickers": [
-    "LNT"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f63d5209da1b",
-   "title": "International Paper Takes Over #409 Spot From Revvity",
-   "link": "https://www.nasdaq.com/articles/international-paper-takes-over-409-spot-revvity",
-   "summary": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, International Paper Co (Symbol: IP) has taken over the #409 spot from Revvity Inc (Symbol: RVTY), according to The Online Investor. Market capitalization is an import",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T20:46:37+00:00",
-   "tickers": [
-    "IP",
-    "RVTY"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9005,7 +8988,6 @@
   "EIX": "Edison International",
   "PG": "The Procter & Gamble",
   "RVMD": "Revolution Medicines",
-  "IP": "International Paper",
   "VUG": "Vanguard Growth ETF",
   "ZM": "Zoom Communications",
   "ACGL": "Arch Capital Group",
@@ -9052,7 +9034,6 @@
   "GM": "General Motors",
   "HD": "The Home Depot",
   "KMB": "Kimberly-Clark",
-  "LNT": "Alliant Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "QBTS": "D-Wave Quantum",
@@ -9114,7 +9095,6 @@
   "MDB": "MongoDB",
   "MRK": "Merck &",
   "PEP": "PepsiCo",
-  "RVTY": "Revvity",
   "SMTC": "Semtech",
   "SNDK": "Sandisk",
   "WMT": "Walmart",
