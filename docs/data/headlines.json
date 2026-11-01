@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T14:21:17.238660+00:00",
+ "generated": "2026-11-01T14:26:41.579497+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -3072,20 +3072,6 @@
    "tag_v": 2
   },
   {
-   "id": "b2ba57cfb189",
-   "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2lBQVM2dU1OS3Nvb21jTmphSEdXdGhfdGp4Z2pIT1RwSWRybmJSZC1neV9WQ0pqMTNsUmRPd2hJdmd6NUREV3o0akVCODUxQ2lvaThjMjUxcGJNRUw0RjlBTmFGS1hRN3Rjd3Vha19lRlR3X3U4VS1fWmIzYjZFNnBhbGNMY3p2eGdiNEVPNTRKRzlrRmFnYm53?oc=5",
-   "summary": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T09:12:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "56ebdd191ec5",
    "title": "Macy's has an 8-piece farmhouse comforter set that comes with sheets for $40",
    "link": "https://www.thestreet.com/deals/emmett-plaid-8-piece-comforter-set-macys-sale",
@@ -3171,6 +3157,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "b2ba57cfb189",
+   "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2lBQVM2dU1OS3Nvb21jTmphSEdXdGhfdGp4Z2pIT1RwSWRybmJSZC1neV9WQ0pqMTNsUmRPd2hJdmd6NUREV3o0akVCODUxQ2lvaThjMjUxcGJNRUw0RjlBTmFGS1hRN3Rjd3Vha19lRlR3X3U4VS1fWmIzYjZFNnBhbGNMY3p2eGdiNEVPNTRKRzlrRmFnYm53?oc=5",
+   "summary": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T08:12:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8076,6 +8076,22 @@
    "tag_v": 2
   },
   {
+   "id": "308e296d06d7",
+   "title": "Why JFrog Could Be the Software Infrastructure Company to Beat in the AI Boom",
+   "link": "https://www.nasdaq.com/articles/why-jfrog-could-be-software-infrastructure-company-beat-ai-boom",
+   "summary": "Software infrastructure is one of the major beneficiaries of the AI boom, with coding assistants and autonomous agents making it easier all the time to create software. At the same time, firms must store, manage, and distribute an increasing volume of software components as they",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T12:35:00+00:00",
+   "tickers": [
+    "FROG"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "a72ca0b4f62e",
    "title": "Cheesecake Factory found the diners every chain is chasing",
    "link": "https://www.thestreet.com/restaurants/cheesecake-factory-found-the-diners-every-chain-is-chasing",
@@ -8874,22 +8890,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "dd6d83ed02cb",
-   "title": "Amazon has a 'surprisingly roomy' space-saving cabinet with 7 compartments for $90",
-   "link": "https://www.thestreet.com/deals/vasagle-tall-narrow-bathroom-cabinet-amazon-sale",
-   "summary": "\"It's good quality, sturdy, and has plenty of storage.\"",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-31T10:30:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9043,6 +9043,7 @@
   "TWLO": "Twilio",
   "CROX": "Crocs",
   "FDX": "FedEx",
+  "FROG": "JFrog",
   "INTC": "Intel",
   "XPEV": "XPeng",
   "AGCO": "AGCO",
