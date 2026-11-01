@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T02:31:39.369943+00:00",
+ "generated": "2026-11-01T02:36:07.543360+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -12,6 +12,52 @@
    "category": "markets",
    "domain": "investing.com",
    "published": "2026-11-01T02:24:17+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "534fff33c9e3",
+   "title": "Vertiv: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/vertiv-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsOrganic orders increased by over 100% year over year in the third quarter.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-01T02:21:57+00:00",
+   "tickers": [
+    "VRT"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0e24a3ec2a8b",
+   "title": "Prediction: This Will Be Intel's Stock Price by Year-End 2027",
+   "link": "https://www.nasdaq.com/articles/prediction-will-be-intels-stock-price-year-end-2027",
+   "summary": "Key PointsIntel's 18A manufacturing process is finally shipping in real products.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-01T02:20:00+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3ee9e467842d",
+   "title": "Bandwidth: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/bandwidth-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsBandwidth signed 11 customer deals over $1 million in contract value.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-01T02:16:11+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -8905,50 +8951,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "55b15d63021e",
-   "title": "Saba Capital Management buys $70,923 in Ellsworth Growth & Income Fund",
-   "link": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-70923-in-ellsworth-growth--income-fund-93CH-4988839",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T22:16:09+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "326f9af13e99",
-   "title": "Carnival director Helen Deeble sells $693,750 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/carnival-director-helen-deeble-sells-693750-in-shares-93CH-4988838",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T22:15:52+00:00",
-   "tickers": [
-    "CCL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ad6b95135bcb",
-   "title": "Trump touted a record Venezuela oil deal. Now reality is setting in",
-   "link": "https://www.investing.com/news/commodities-news/trump-touted-a-record-venezuela-oil-deal-now-reality-is-setting-in-4986582",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T22:13:05+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9027,6 +9029,7 @@
   "HBM": "Hudbay Minerals",
   "PYPL": "PayPal Holdings",
   "SCCO": "Southern Copper",
+  "VRT": "Vertiv Holdings",
   "WDC": "Western Digital",
   "AMT": "American Tower",
   "CAG": "Conagra Brands",
@@ -9082,7 +9085,6 @@
   "TEM": "Tempus AI",
   "ADBE": "Photoshop",
   "APP": "AppLovin",
-  "CCL": "Carnival",
   "DUOL": "Duolingo",
   "ENB": "Enbridge",
   "FTNT": "Fortinet",
