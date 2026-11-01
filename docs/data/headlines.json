@@ -1,8 +1,39 @@
 {
- "generated": "2026-11-01T23:01:15.059258+00:00",
+ "generated": "2026-11-01T23:05:59.965034+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a1fa0ce14b5a",
+   "title": "Stock futures tick higher ahead of busy week of earnings, jobs data and the midterm elections: Live updates",
+   "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+   "summary": "Investors geared up for another batch of earnings results and the upcoming midterm elections.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-01T23:03:12+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8dd1c72d28ae",
+   "title": "What DoorDash and Instacart members get if the companies merge",
+   "link": "https://www.thestreet.com/retail/what-doordash-and-instacart-members-get-if-the-companies-merge",
+   "summary": "The company is promising better benefits than rival Uber Eats.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-01T23:03:00+00:00",
+   "tickers": [
+    "DASH",
+    "UBER"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "8776a85746b6",
    "title": "Iran offers 48-hour Hormuz reopening plan as Trump signals progress in talks",
@@ -125,6 +156,34 @@
    "tag_v": 2
   },
   {
+   "id": "5c6e892f28ee",
+   "title": "Trump administration promises US farmers $15 billion in the weeks before the midterms - AP News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX21fbnppaU1pbGRQVjktZThscnBoeEhRbzNTQV9oRm51ckxqazM0RGc0NVJuU2N6SXVvTVFSbUtQQ09QZGNTaTdKYWJ5a21ZRGtQeUhjYy1tdUFXeDBYQl9mbk5rRVVVTGR6VU5jSmV1Yjl0RVlCV0YtYkFvb2hiU2J6cW1XQWJSQ3NlTVF0eXNQeGpxNEhZYzZkbHUzdFJJUm1XTklnN1M0MWFoTlQzd05B?oc=5",
+   "summary": "Trump administration promises US farmers $15 billion in the weeks before the midterms&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T21:55:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "662ec79b50b1",
+   "title": "College football | Latest News & Updates - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T21:53:09+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "097ac1f6da59",
    "title": "Westpac’s full-year profit ticks higher, flags slowing loan demand",
    "link": "https://www.investing.com/news/stock-market-news/australian-lender-westpacs-fullyear-profit-ticks-higher-4989776",
@@ -208,6 +267,20 @@
    "tickers": [],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "fc4007a2e04c",
+   "title": "Canada’s Carney reports progress in trade talks with US. Trump talks up ‘concept’ of a deal - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMjB2S2lsdl9NVjBZT3VncEd6dW5ZcERBNkh2MC1FVUZzUUlxZU9lVHp4eFAxUlZLeldNcElJMDNPLU9RTnkwZ2NCbkNud3V4ekZtdndIcFZ1REFPSU9qdEZyTHFaU3hnWVpVVThGN2htTDFJWnhrTFhhZWR0Q0R2cUNvZlFTSVJiTk1ybzdRcHVydw?oc=5",
+   "summary": "Canada’s Carney reports progress in trade talks with US. Trump talks up ‘concept’ of a deal&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T21:24:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -388,20 +461,6 @@
    "published": "2026-11-01T21:02:00+00:00",
    "tickers": [],
    "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "662ec79b50b1",
-   "title": "College football | Latest News & Updates - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T20:57:41+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -671,6 +730,20 @@
    "tag_v": 2
   },
   {
+   "id": "20fd2ed27f20",
+   "title": "Sheila Chepkirui wins matchup of past champions in NYC Marathon, Andreas Almgren makes winning debut - AP News",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Tc1JoaUlacXFSWFBuOW52aS16U0tJOVFiOEhaaWhySTFRYjBKZ3hraGFKeExRR21qN0RCTzNNN3pKal9vQlJINEFfRTByOEg5SDBfdzFCbHFUWmZNRDhBeXBCMFFZRmlmV0xmWnd4QlpJWmNwbUVrNEFsWkI?oc=5",
+   "summary": "Sheila Chepkirui wins matchup of past champions in NYC Marathon, Andreas Almgren makes winning debut&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T19:40:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "f30d3ed4fcac",
    "title": "Is Nebius Stock a Buy After Its 36% Pullback?",
    "link": "https://www.nasdaq.com/articles/nebius-stock-buy-after-its-36-pullback",
@@ -787,6 +860,20 @@
    "tag_v": 2
   },
   {
+   "id": "aa17ff0afb43",
+   "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+   "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+   "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-01T19:10:12+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "9774f188b855",
    "title": "Nu Stock Just Cratered, and It's 36% off Its High. Is This a Buying Opportunity?",
    "link": "https://www.nasdaq.com/articles/nu-stock-just-cratered-and-its-36-its-high-buying-opportunity",
@@ -831,20 +918,6 @@
    "tag_v": 2
   },
   {
-   "id": "56b620a622a3",
-   "title": "Ohio State falls out of top 10, UCLA cracks top 5 and New Mexico earns its first-ever AP ranking - AP News",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UZjgxQ05mNWE2aEpubW0zVE5oZnlkLXV0SjBab05UUGZHc3dMcHlvNzlGV0ZpNnJhLURJZ3FQZTB3aDRud1NBUndCVlpCM2VXSk9wTFNxTlVmMTRvSjhienVta2d1UXg3UXl1d2JTOHp5a01rSk9UNQ?oc=5",
-   "summary": "Ohio State falls out of top 10, UCLA cracks top 5 and New Mexico earns its first-ever AP ranking&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T19:00:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "3a9c82ff0d4c",
    "title": "Why Netflix Stock Could Double From This Dip",
    "link": "https://www.nasdaq.com/articles/why-netflix-stock-could-double-dip",
@@ -886,20 +959,6 @@
    "tickers": [],
    "type": "legal",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "20fd2ed27f20",
-   "title": "Sheila Chepkirui wins matchup of past champions in NYC Marathon, Andreas Almgren makes winning debut - AP News",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Tc1JoaUlacXFSWFBuOW52aS16U0tJOVFiOEhaaWhySTFRYjBKZ3hraGFKeExRR21qN0RCTzNNN3pKal9vQlJINEFfRTByOEg5SDBfdzFCbHFUWmZNRDhBeXBCMFFZRmlmV0xmWnd4QlpJWmNwbUVrNEFsWkI?oc=5",
-   "summary": "Sheila Chepkirui wins matchup of past champions in NYC Marathon, Andreas Almgren makes winning debut&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T18:40:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1031,20 +1090,6 @@
    "tag_v": 2
   },
   {
-   "id": "aa17ff0afb43",
-   "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-   "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-   "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-01T18:08:33+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "7f5bc7084ed6",
    "title": "You Won't Believe My Shocking Update for Rivian Stock Investors",
    "link": "https://www.nasdaq.com/articles/you-wont-believe-my-shocking-update-rivian-stock-investors",
@@ -1073,6 +1118,20 @@
     "MSFT"
    ],
    "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "56b620a622a3",
+   "title": "Ohio State falls out of top 10, UCLA cracks top 5 and New Mexico earns its first-ever AP ranking - AP News",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UZjgxQ05mNWE2aEpubW0zVE5oZnlkLXV0SjBab05UUGZHc3dMcHlvNzlGV0ZpNnJhLURJZ3FQZTB3aDRud1NBUndCVlpCM2VXSk9wTFNxTlVmMTRvSjhienVta2d1UXg3UXl1d2JTOHp5a01rSk9UNQ?oc=5",
+   "summary": "Ohio State falls out of top 10, UCLA cracks top 5 and New Mexico earns its first-ever AP ranking&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T18:00:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1133,20 +1192,6 @@
     "FCX"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fc4007a2e04c",
-   "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before US midterms - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMjB2S2lsdl9NVjBZT3VncEd6dW5ZcERBNkh2MC1FVUZzUUlxZU9lVHp4eFAxUlZLeldNcElJMDNPLU9RTnkwZ2NCbkNud3V4ekZtdndIcFZ1REFPSU9qdEZyTHFaU3hnWVpVVThGN2htTDFJWnhrTFhhZWR0Q0R2cUNvZlFTSVJiTk1ybzdRcHVydw?oc=5",
-   "summary": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before US midterms&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T17:39:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2771,20 +2816,6 @@
    "tag_v": 2
   },
   {
-   "id": "5c6e892f28ee",
-   "title": "Trump administration promises US farmers $15 billion in weeks before the midterms - AP News",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX21fbnppaU1pbGRQVjktZThscnBoeEhRbzNTQV9oRm51ckxqazM0RGc0NVJuU2N6SXVvTVFSbUtQQ09QZGNTaTdKYWJ5a21ZRGtQeUhjYy1tdUFXeDBYQl9mbk5rRVVVTGR6VU5jSmV1Yjl0RVlCV0YtYkFvb2hiU2J6cW1XQWJSQ3NlTVF0eXNQeGpxNEhZYzZkbHUzdFJJUm1XTklnN1M0MWFoTlQzd05B?oc=5",
-   "summary": "Trump administration promises US farmers $15 billion in weeks before the midterms&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T13:13:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "a6ffb21ad7a9",
    "title": "Cathie Wood buys $11.2 million of popular AI stock",
    "link": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-11-2-million-of-popular-ai-stock-tempus-ai-tem",
@@ -2867,20 +2898,6 @@
     "JNJ"
    ],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a9a9ea7c0dab",
-   "title": "Analysis: Republicans face a midterm reckoning of Trump’s making - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEhuaWV6VlhRbkVoRWNyY3ktZVZ1ZEhvWFlMMkljaFE2TFlTS1JtMndHQ0ZFZzJIYWNwWS1zTEk1YVJzOTEtRE83Y0lOblB0b1FpeVpaVlNRYjNoMUs4UXAyVzNxeE5vOGJfaTVkNjkzdWNLem5yX3JGdmdPd21hQWFJLVV6TWNNVURxeEc2RGdORjFMUC1senMtSkk4TEtjN2FzYkpWVUp4WEh4?oc=5",
-   "summary": "Analysis: Republicans face a midterm reckoning of Trump’s making&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T12:59:09+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3726,6 +3743,20 @@
    "published": "2026-11-01T11:49:21+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a9a9ea7c0dab",
+   "title": "Analysis: Republicans face a midterm reckoning of Trump’s making - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEhuaWV6VlhRbkVoRWNyY3ktZVZ1ZEhvWFlMMkljaFE2TFlTS1JtMndHQ0ZFZzJIYWNwWS1zTEk1YVJzOTEtRE83Y0lOblB0b1FpeVpaVlNRYjNoMUs4UXAyVzNxeE5vOGJfaTVkNjkzdWNLem5yX3JGdmdPd21hQWFJLVV6TWNNVURxeEc2RGdORjFMUC1senMtSkk4TEtjN2FzYkpWVUp4WEh4?oc=5",
+   "summary": "Analysis: Republicans face a midterm reckoning of Trump’s making&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T11:46:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6372,20 +6403,6 @@
    "tag_v": 2
   },
   {
-   "id": "edfbda53e03e",
-   "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2dXRjY0R0EzUzFSNXBrYmRsZGJFdXEzTEtvZHFJYmFwUEVoNndYRzVGWkRyTVlOcHN6LUZFYThjRFFkVDVjZTFYdlRfekxWTE13VTZYRnF4RXlvdmJtQkMzOFViVElDWVdqdW5tXzlCZ0tCSjBZR2dReVlCbVVWZ3NxMGFaNUJydXpoYUFRZVZqRjV2QkJhZE5YeExkZ1AzYUdaUnJ3bmtJRVRmRFE?oc=5",
-   "summary": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T02:56:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "da56f5afcc66",
    "title": "5 Undervalued Growth Stocks to Buy Now in November (2026)",
    "link": "https://www.nasdaq.com/articles/5-undervalued-growth-stocks-buy-now-november-2026",
@@ -6588,6 +6605,20 @@
    "published": "2026-11-01T01:56:11+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "edfbda53e03e",
+   "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2dXRjY0R0EzUzFSNXBrYmRsZGJFdXEzTEtvZHFJYmFwUEVoNndYRzVGWkRyTVlOcHN6LUZFYThjRFFkVDVjZTFYdlRfekxWTE13VTZYRnF4RXlvdmJtQkMzOFViVElDWVdqdW5tXzlCZ0tCSjBZR2dReVlCbVVWZ3NxMGFaNUJydXpoYUFRZVZqRjV2QkJhZE5YeExkZ1AzYUdaUnJ3bmtJRVRmRFE?oc=5",
+   "summary": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T01:56:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8839,34 +8870,6 @@
    "type": "upgrade",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "f826ee296977",
-   "title": "MainStreet Bancshares (MNSB) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/mainstreet-bancshares-mnsb-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T16:30:35+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4db194a7d185",
-   "title": "W&T Offshore (WTI) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/wt-offshore-wti-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T16:28:21+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8917,6 +8920,7 @@
   "QUBT": "Quantum Computing",
   "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
+  "UBER": "Uber Technologies",
   "AR": "Antero Resources",
   "AXP": "American Express",
   "BWXT": "BWX Technologies",
@@ -8991,6 +8995,7 @@
   "APP": "AppLovin",
   "BCS": "Barclays",
   "BP": "BP p.l.c",
+  "DASH": "DoorDash",
   "FTNT": "Fortinet",
   "GOOG": "Alphabet",
   "CVX": "Chevron",
