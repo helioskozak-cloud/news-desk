@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-01T20:21:27.550127+00:00",
+ "generated": "2026-11-01T20:26:01.609926+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "52f2d094642f",
+   "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
+   "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+   "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-01T20:21:39+00:00",
+   "tickers": [],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "5749c883417b",
    "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
@@ -28,6 +42,22 @@
    "published": "2026-11-01T20:06:01+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8eb4a3450184",
+   "title": "SpaceX Stock Is Nearly 30% Below Its Post-IPO High. Here's What Facebook's Stock Did From the Same Spot.",
+   "link": "https://www.nasdaq.com/articles/spacex-stock-nearly-30-below-its-post-ipo-high-heres-what-facebooks-stock-did-same-spot",
+   "summary": "Key PointsSpaceX stock's record close of $201.80 was on June 16, its third day of trading.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-01T20:03:01+00:00",
+   "tickers": [
+    "META"
+   ],
+   "type": "offering",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -60,17 +90,36 @@
    "tag_v": 2
   },
   {
-   "id": "52f2d094642f",
-   "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-   "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
-   "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-01T19:55:32+00:00",
-   "tickers": [],
-   "type": "legal",
+   "id": "c7b4490929d6",
+   "title": "Stocks Fall Sharply on Intel and Amazon Sell-offs and Crypto Heist",
+   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-intel-and-amazon-sell-offs-and-crypto-heist-1",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -1.82% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell -1.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -3.46%. December E-mini S&amp;P futures (ESZ26 ) fell -1.76%, and December E-mini Nasdaq futures (NQZ26 ) fell...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-01T19:55:31+00:00",
+   "tickers": [
+    "AMZN",
+    "INTC",
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "131ed47bee03",
+   "title": "Investors Are Growing Fearful About the Market. Warren Buffett Says This Is the Best Time to Buy More.",
+   "link": "https://www.nasdaq.com/articles/investors-are-growing-fearful-about-market-warren-buffett-says-best-time-buy-more",
+   "summary": "Key PointsA recent survey found that 74% of Americans are concerned about a market correction.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-01T19:50:00+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -248,20 +297,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "662ec79b50b1",
-   "title": "College football | Latest News & Updates - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T18:55:55+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -849,22 +884,17 @@
    "tag_v": 2
   },
   {
-   "id": "c7b4490929d6",
-   "title": "Stocks Fall Sharply on Intel and Amazon Sell-offs and Crypto Heist",
-   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-intel-and-amazon-sell-offs-and-crypto-heist-1",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -1.82% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell -1.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -3.46%. December E-mini S&amp;P futures (ESZ26 ) fell -1.76%, and December E-mini Nasdaq futures (NQZ26 ) fell...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-01T16:46:56+00:00",
-   "tickers": [
-    "AMZN",
-    "INTC",
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
+   "id": "662ec79b50b1",
+   "title": "College football | Latest News & Updates - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T16:46:46+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2310,20 +2340,6 @@
    "tag_v": 2
   },
   {
-   "id": "a9a9ea7c0dab",
-   "title": "Analysis: Republicans face a midterm reckoning of Trump’s making - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEhuaWV6VlhRbkVoRWNyY3ktZVZ1ZEhvWFlMMkljaFE2TFlTS1JtMndHQ0ZFZzJIYWNwWS1zTEk1YVJzOTEtRE83Y0lOblB0b1FpeVpaVlNRYjNoMUs4UXAyVzNxeE5vOGJfaTVkNjkzdWNLem5yX3JGdmdPd21hQWFJLVV6TWNNVURxeEc2RGdORjFMUC1senMtSkk4TEtjN2FzYkpWVUp4WEh4?oc=5",
-   "summary": "Analysis: Republicans face a midterm reckoning of Trump’s making&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T12:59:09+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "b338208bb3d6",
    "title": "Dutch Bros® Unwraps Its Most Festive Holiday Lineup Yet",
    "link": "https://www.prnewswire.com/news-releases/dutch-bros-unwraps-its-most-festive-holiday-lineup-yet-302923714.html",
@@ -3193,6 +3209,20 @@
    "published": "2026-11-01T11:49:21+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a9a9ea7c0dab",
+   "title": "Analysis: Republicans face a midterm reckoning of Trump’s making - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEhuaWV6VlhRbkVoRWNyY3ktZVZ1ZEhvWFlMMkljaFE2TFlTS1JtMndHQ0ZFZzJIYWNwWS1zTEk1YVJzOTEtRE83Y0lOblB0b1FpeVpaVlNRYjNoMUs4UXAyVzNxeE5vOGJfaTVkNjkzdWNLem5yX3JGdmdPd21hQWFJLVV6TWNNVURxeEc2RGdORjFMUC1senMtSkk4TEtjN2FzYkpWVUp4WEh4?oc=5",
+   "summary": "Analysis: Republicans face a midterm reckoning of Trump’s making&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T11:46:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -5851,20 +5881,6 @@
    "tag_v": 2
   },
   {
-   "id": "edfbda53e03e",
-   "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2dXRjY0R0EzUzFSNXBrYmRsZGJFdXEzTEtvZHFJYmFwUEVoNndYRzVGWkRyTVlOcHN6LUZFYThjRFFkVDVjZTFYdlRfekxWTE13VTZYRnF4RXlvdmJtQkMzOFViVElDWVdqdW5tXzlCZ0tCSjBZR2dReVlCbVVWZ3NxMGFaNUJydXpoYUFRZVZqRjV2QkJhZE5YeExkZ1AzYUdaUnJ3bmtJRVRmRFE?oc=5",
-   "summary": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T02:56:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "da56f5afcc66",
    "title": "5 Undervalued Growth Stocks to Buy Now in November (2026)",
    "link": "https://www.nasdaq.com/articles/5-undervalued-growth-stocks-buy-now-november-2026",
@@ -6053,6 +6069,20 @@
    "published": "2026-11-01T01:56:11+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "edfbda53e03e",
+   "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2dXRjY0R0EzUzFSNXBrYmRsZGJFdXEzTEtvZHFJYmFwUEVoNndYRzVGWkRyTVlOcHN6LUZFYThjRFFkVDVjZTFYdlRfekxWTE13VTZYRnF4RXlvdmJtQkMzOFViVElDWVdqdW5tXzlCZ0tCSjBZR2dReVlCbVVWZ3NxMGFaNUJydXpoYUFRZVZqRjV2QkJhZE5YeExkZ1AzYUdaUnJ3bmtJRVRmRFE?oc=5",
+   "summary": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T01:56:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6720,20 +6750,6 @@
    "tag_v": 2
   },
   {
-   "id": "54ef03927b4a",
-   "title": "Pope Leo tells Villanova and Notre Dame basketball teams he is neutral. Prevost has other ideas - AP News",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGw3Zm1VdjB6bGlhTElQR3huQmFMdG5YMG0tUHhuanV2UFFZTndBVno2TmhFTWpySWdianloRF9CSXdWVXRzcTZsSWpWbHVWQ0pxX2haLW1Jdi1MNmJYeWszaTZSd3RLZGFwYmtNN0pOQ1E5NGdnblphTThOZGpkeHBmWUV2bU5SNllVa2VyTTJyM3NvNkt4WUlab2E2eVhqRmZ6R1FSRTV0eXRsSnhPQVpNMUREX28?oc=5",
-   "summary": "Pope Leo tells Villanova and Notre Dame basketball teams he is neutral. Prevost has other ideas&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-31T22:37:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "c67fea2fecdc",
    "title": "Shooting at Spirit Halloween store in California leaves pregnant woman dead and 6 wounded - AP News",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW5kTnNwaXhRRlJ3UjMxc0NMRk1zdVEyWXlqT3hIUmNEZWFVbzk2SzBwSlUyNXBKMzdrNlROUHFmV0dDcEJGUEcyWkZpcGoxQm1hMFdfWWRHcWxfNWE4Wld3bnNXdEFEbnVNbzUyQmdnS2JzLTU3OU04X1h6am4xdUdxX2pjbEZKbE9Lc0ZqSVN2T013TWdSeEo2bzk0NUdXN3RBOWZfWE43MW1t?oc=5",
@@ -6911,6 +6927,20 @@
    ],
    "type": "dividend",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "54ef03927b4a",
+   "title": "Pope Leo tells Villanova and Notre Dame basketball teams he is neutral. Prevost has other ideas - AP News",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGw3Zm1VdjB6bGlhTElQR3huQmFMdG5YMG0tUHhuanV2UFFZTndBVno2TmhFTWpySWdianloRF9CSXdWVXRzcTZsSWpWbHVWQ0pxX2haLW1Jdi1MNmJYeWszaTZSd3RLZGFwYmtNN0pOQ1E5NGdnblphTThOZGpkeHBmWUV2bU5SNllVa2VyTTJyM3NvNkt4WUlab2E2eVhqRmZ6R1FSRTV0eXRsSnhPQVpNMUREX28?oc=5",
+   "summary": "Pope Leo tells Villanova and Notre Dame basketball teams he is neutral. Prevost has other ideas&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-31T21:37:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8836,34 +8866,6 @@
     "ORCL"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1d16734cd440",
-   "title": "IRA heirs can lower tax bill with 3 planning moves",
-   "link": "https://www.thestreet.com/retirement/inherited-ira-10-year-rule-tax-strategies-secure-act-rmd",
-   "summary": "Skipping one could cost you six figures.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-10-31T15:17:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "94e033703a64",
-   "title": "Under the Stars: A Coastal Escape for Glamping and Outdoor Adventure in La Paz, Mexico",
-   "link": "https://markets.businessinsider.com/news/stocks/under-the-stars-a-coastal-escape-for-glamping-and-outdoor-adventure-in-la-paz-mexico-1036695270",
-   "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot; style=&quot;text-align:justify;&quot;&gt;La Paz, Baja California Sur, Mexico, Oct. 31, 2026 (GLOBE NEWSWIRE) -- On the southern end of Mexico’s Baja California peninsula, La Paz offers a distinctive mix of coastal landscapes, desert...",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-10-31T15:15:54+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   }
