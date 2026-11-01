@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T04:56:07.483451+00:00",
+ "generated": "2026-11-01T05:01:41.071514+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,22 @@
    "published": "2026-11-01T05:15:00+00:00",
    "tickers": [
     "NIO"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e7521edc4e32",
+   "title": "Amazon has a 3-drawer mini dresser with a built-in charging station for just $40",
+   "link": "https://www.thestreet.com/deals/furnulem-3-drawer-mini-dresser-charging-station-amazon-sale-november-2026",
+   "summary": "It's \"sturdy, stylish, and super convenient.\"",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-01T05:00:00+00:00",
+   "tickers": [
+    "AMZN"
    ],
    "type": "stocks",
    "sentiment": "neutral",
@@ -1792,6 +1808,20 @@
    "published": "2026-10-31T19:24:18+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7f95483c53d9",
+   "title": "Ghouls, scary clowns and Barbie: The world dresses up for Halloween, in photos - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWFBnM2IzLVJjX3JJUFBZa2k1WENTRXV3RDEzbU1INVFBamV5YWV6TmJSWVJPdGVUMFhJQlB2bHZ2ak1BVHN2b3ZSRTlodEpmQ3VaajMyc0xKSVZVc1JIanVVWjUtbnV5aWdQSFZPRk9zMExhZ3M0UDI1TFFJZWVyUGNidlhreHdxS2N6MUpIZ2JTRnFiNFhzaDBtY1FCNERSWUpXU0hvenN3N3RSLU1yRWtxVERiWXhLOC1MeGJMeEM?oc=5",
+   "summary": "Ghouls, scary clowns and Barbie: The world dresses up for Halloween, in photos&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-31T19:22:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8914,36 +8944,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "60308a8fceb8",
-   "title": "/C O R R E C T I O N - PG&E Corporation/",
-   "link": "https://www.prnewswire.com/news-releases/five-california-nonprofits-receive-500-000-to-restore-habitats-expand-environmental-education-and-strengthen-local-food-systems-302924612.html",
-   "summary": "In the news release, Five California Nonprofits Receive $500,000 to Restore Habitats, Expand Environmental Education and Strengthen Local Food Systems, issued 30-Oct-2026 by PG&amp;E Corporation over PR Newswire, we are advised by the company that changes have been made. The complete,...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-10-30T22:41:00+00:00",
-   "tickers": [
-    "PCG"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ea630e30bb3f",
-   "title": "Why Bright Horizons Family Solutions Stock Swooned on Friday",
-   "link": "https://www.nasdaq.com/articles/why-bright-horizons-family-solutions-stock-swooned-friday",
-   "summary": "Key PointsIt beat on revenue but missed on earnings.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T22:40:24+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9115,7 +9115,6 @@
   "AGCO": "AGCO",
   "MSCI": "MSCI",
   "OKLO": "Oklo",
-  "OKTA": "Okta",
-  "PCG": "PG&E"
+  "OKTA": "Okta"
  }
 }
