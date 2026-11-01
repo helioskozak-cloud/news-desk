@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T04:51:33.548101+00:00",
+ "generated": "2026-11-01T04:56:07.483451+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -31,6 +31,22 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c4f090e202e4",
+   "title": "Medtronic Just Retired 55 Million Shares Without Spending Cash. Is the Stock a Buy?",
+   "link": "https://www.nasdaq.com/articles/medtronic-just-retired-55-million-shares-without-spending-cash-stock-buy",
+   "summary": "Key PointsMedtronic recently completed a key spinoff of its diabetes segment.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-01T04:41:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -89,6 +105,22 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "90a349feac22",
+   "title": "XPeng October Vehicle Deliveries Rise 20% As Overseas Sales Surge And Robotaxi Ambitions Advance",
+   "link": "https://www.nasdaq.com/articles/xpeng-october-vehicle-deliveries-rise-20-overseas-sales-surge-and-robotaxi-ambitions",
+   "summary": "(RTTNews) - Chinese electric vehicle maker XPeng Inc. (XPEV, 9868.HK) reported strong delivery growth in October 2026, delivering 50,237 vehicles, a 20% increase year-over-year, supported by robust domestic demand and rapidly expanding overseas sales.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-01T03:50:20+00:00",
+   "tickers": [
+    "XPEV"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8912,36 +8944,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "e754ad2133b2",
-   "title": "Brewers fans flood Milwaukee streets for a long-awaited World Series victory celebration - AP News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUEx2ZUJQWFlSa2RQUVVHVG9OQXJzTHctZzdmbGEwYlh6ckx0M2EybGJfTm1sLXdEalhZRWdMc3drY3hmWXFsQ0RGUEN4eFBRNkVONk9aQ2FtaUlTSW9MejRqSkhxVFoyVmpQOXREM2RFelZidXRCVG9tbW5MeHpCYUxiekZrenBQblZKUVdGZDBxYmMxZ0JlN3RiM1lfZw?oc=5",
-   "summary": "Brewers fans flood Milwaukee streets for a long-awaited World Series victory celebration&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-30T22:39:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3eb569cb7382",
-   "title": "Xcel Energy announces $6 billion at-the-market equity offering program",
-   "link": "https://www.investing.com/news/sec-filings/xcel-energy-announces-6-billion-atthemarket-equity-offering-program-93CH-4988866",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T22:36:48+00:00",
-   "tickers": [
-    "XEL"
-   ],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9043,7 +9045,6 @@
   "AGI": "Alamos Gold",
   "LCID": "Lucid Group",
   "MORN": "Morningstar",
-  "XEL": "Xcel Energy",
   "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
@@ -9067,6 +9068,7 @@
   "CLS": "Celestica",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
+  "MDT": "Medtronic",
   "SBUX": "Starbucks",
   "TEAM": "Atlassian",
   "TEM": "Tempus AI",
