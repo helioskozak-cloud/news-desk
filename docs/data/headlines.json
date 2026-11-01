@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-01T17:11:18.560077+00:00",
+ "generated": "2026-11-01T17:16:31.679011+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4596d31ea491",
+   "title": "Macy's is selling a $300 12-piece ceramic cookware set for 58% off",
+   "link": "https://www.thestreet.com/deals/macys-greenpan-dover-12-piece-ceramic-cookware-set-macys-sale",
+   "summary": "\"Best set of cookware that I have used in years,\" one shopper said.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-01T17:15:00+00:00",
+   "tickers": [
+    "M"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "27ca9bbdeac8",
+   "title": "Fidelity highlights a strategy to eliminate capital gains tax",
+   "link": "https://www.thestreet.com/taxes/fidelity-donate-appreciated-stock-capital-gains-tax-charitable-deduction",
+   "summary": "The firm calls it a double benefit most investors overlook.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-01T17:13:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "1a6eab902304",
    "title": "Alaska Sen. Sullivan says he'll accept election results, slams Peltola campaign’s reported recruitment of 2nd Sullivan",
@@ -11,7 +41,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-01T17:03:35+00:00",
+   "published": "2026-11-01T17:12:59+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
@@ -89,6 +119,25 @@
    "tickers": [],
    "type": "ma",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c7b4490929d6",
+   "title": "Stocks Fall Sharply on Intel and Amazon Sell-offs and Crypto Heist",
+   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-intel-and-amazon-sell-offs-and-crypto-heist-1",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -1.82% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell -1.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -3.46%. December E-mini S&amp;P futures (ESZ26 ) fell -1.76%, and December E-mini Nasdaq futures (NQZ26 ) fell...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-01T16:46:56+00:00",
+   "tickers": [
+    "AMZN",
+    "INTC",
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -241,20 +290,6 @@
    "tag_v": 2
   },
   {
-   "id": "adab769eb05c",
-   "title": "Serbia marks the second anniversary of a train station tragedy that fueled student protests - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWnR5T2VHbWZ3QUUwOWotTmROM0tHUUwxT203XzFnLWtJcDFDN2VvRElwSkV0YnZidE1fVW55UENfdHdiOFNfNDJYMzJFVzNLRkRvSzNpUjNIVWpSbWgxT05JWXJXU2dsb1hPSlJHYlNnSHJDUGl4Q1hkbTdVNVRlaW9vWFZKWnlsSUtCQVdEZGxkUVk1ZzRnbGZaUW9hNzhjTk5yZzFTYXQ?oc=5",
-   "summary": "Serbia marks the second anniversary of a train station tragedy that fueled student protests&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T15:59:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "4f591ad0454d",
    "title": "Everything changed for the oil, AI and bond trades over the past month",
    "link": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
@@ -293,6 +328,20 @@
    "published": "2026-11-01T15:50:00+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6e7c9f2f6656",
+   "title": "Dozens injured, at least 6 dead in Halloween weekend gun violence at nightlife districts across US - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3RKZGYwcUhNeFYteE1MaHpGTHlUTUpneGg5Q2lqdU9JMmNWeldVb1pRZ28zU0tLUFJHamJlUmRya1RrUnFic3N2bG5MbEc4aHdxd3k5dGVJQmozVmItY3k4S0ZBbGZQSEFaOUxWZjY1eTBkRU1ZX3pyVTQzaldFeUxCOURQRVkyOFd5QmRyVWw?oc=5",
+   "summary": "Dozens injured, at least 6 dead in Halloween weekend gun violence at nightlife districts across US&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T15:48:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -733,14 +782,14 @@
    "tag_v": 2
   },
   {
-   "id": "6e7c9f2f6656",
-   "title": "Police say 4 dead, 15 injured in separate shootings in Dallas on Halloween night - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3RKZGYwcUhNeFYteE1MaHpGTHlUTUpneGg5Q2lqdU9JMmNWeldVb1pRZ28zU0tLUFJHamJlUmRya1RrUnFic3N2bG5MbEc4aHdxd3k5dGVJQmozVmItY3k4S0ZBbGZQSEFaOUxWZjY1eTBkRU1ZX3pyVTQzaldFeUxCOURQRVkyOFd5QmRyVWw?oc=5",
-   "summary": "Police say 4 dead, 15 injured in separate shootings in Dallas on Halloween night&nbsp;&nbsp;AP News",
+   "id": "adab769eb05c",
+   "title": "Serbia marks the second anniversary of a train station tragedy that fueled student protests - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWnR5T2VHbWZ3QUUwOWotTmROM0tHUUwxT203XzFnLWtJcDFDN2VvRElwSkV0YnZidE1fVW55UENfdHdiOFNfNDJYMzJFVzNLRkRvSzNpUjNIVWpSbWgxT05JWXJXU2dsb1hPSlJHYlNnSHJDUGl4Q1hkbTdVNVRlaW9vWFZKWnlsSUtCQVdEZGxkUVk1ZzRnbGZaUW9hNzhjTk5yZzFTYXQ?oc=5",
+   "summary": "Serbia marks the second anniversary of a train station tragedy that fueled student protests&nbsp;&nbsp;AP News",
    "source": "AP Business",
    "category": "macro",
    "domain": "news.google.com",
-   "published": "2026-11-01T14:57:00+00:00",
+   "published": "2026-11-01T14:59:00+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -1380,6 +1429,20 @@
    "tag_v": 2
   },
   {
+   "id": "1dd71be18c60",
+   "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
+   "summary": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T13:06:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "1f7a466d1913",
    "title": "1 Unstoppable ETF I'm Buying Hand Over Fist During the Next Bear Market",
    "link": "https://www.nasdaq.com/articles/1-unstoppable-etf-im-buying-hand-over-fist-during-next-bear-market",
@@ -1452,20 +1515,6 @@
    "tag_v": 2
   },
   {
-   "id": "a9a9ea7c0dab",
-   "title": "Analysis: Republicans face a midterm reckoning of Trump’s making - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEhuaWV6VlhRbkVoRWNyY3ktZVZ1ZEhvWFlMMkljaFE2TFlTS1JtMndHQ0ZFZzJIYWNwWS1zTEk1YVJzOTEtRE83Y0lOblB0b1FpeVpaVlNRYjNoMUs4UXAyVzNxeE5vOGJfaTVkNjkzdWNLem5yX3JGdmdPd21hQWFJLVV6TWNNVURxeEc2RGdORjFMUC1senMtSkk4TEtjN2FzYkpWVUp4WEh4?oc=5",
-   "summary": "Analysis: Republicans face a midterm reckoning of Trump’s making&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T12:59:09+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "b338208bb3d6",
    "title": "Dutch Bros® Unwraps Its Most Festive Holiday Lineup Yet",
    "link": "https://www.prnewswire.com/news-releases/dutch-bros-unwraps-its-most-festive-holiday-lineup-yet-302923714.html",
@@ -1510,6 +1559,20 @@
     "MP"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a9a9ea7c0dab",
+   "title": "Analysis: Republicans face a midterm reckoning of Trump’s making - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeEhuaWV6VlhRbkVoRWNyY3ktZVZ1ZEhvWFlMMkljaFE2TFlTS1JtMndHQ0ZFZzJIYWNwWS1zTEk1YVJzOTEtRE83Y0lOblB0b1FpeVpaVlNRYjNoMUs4UXAyVzNxeE5vOGJfaTVkNjkzdWNLem5yX3JGdmdPd21hQWFJLVV6TWNNVURxeEc2RGdORjFMUC1senMtSkk4TEtjN2FzYkpWVUp4WEh4?oc=5",
+   "summary": "Analysis: Republicans face a midterm reckoning of Trump’s making&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T12:46:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -5020,20 +5083,6 @@
    "tag_v": 2
   },
   {
-   "id": "7c890e8e1869",
-   "title": "FBI visits Dan J. Sullivan donor in candidate’s hometown as Alaska Senate inquiry widens - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRV9KLUhEZ0cwNXhZaFZjbnNSVFdwZW5WdHp0NFZhYUtSNnpaNUVwd3h3TVd5eVBMNHIyNlBoRjFpeUMtaEtVTEYzcU5WMl9VTTZLY0xrYW5PRkNoc05sdU5QRHBCVUVXb0YyQ1ZUangwTHZLUWloaWRuOVVOLWVxbjh5UHhWZk5JTUtsRFY2MEFEV1pmT0J6UDNFWHNDQ3V2WVplcjA1UUo5S2NYalE?oc=5",
-   "summary": "FBI visits Dan J. Sullivan donor in candidate’s hometown as Alaska Senate inquiry widens&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T02:40:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "15db5ff7ec80",
    "title": "Federal officials investigate arson at beleaguered police department in Mississippi - AP News",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbU5MbXRmeFNhTFoxNmNDeGVHeWQyX08tREttblVoMDg2ZjB5dU90dC1XNXdDaGh6MGE1TXdGVnNlQ1NZMzZDZXAzWDFnbDVLeVRHeDZvR3AyakN5aXBvZjNpd21YT0pKSkVCQ3ZqTVdDN1Zsb0dGekRqZXhVVzhNbGxFR0lJeTBhbDVPSUp3cmFqdVVMeTY1SEZ5Q09qTUZ5dlFERFBOR3c?oc=5",
@@ -5323,6 +5372,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "7c890e8e1869",
+   "title": "FBI visits Dan J. Sullivan donor in candidate’s hometown as Alaska Senate inquiry widens - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRV9KLUhEZ0cwNXhZaFZjbnNSVFdwZW5WdHp0NFZhYUtSNnpaNUVwd3h3TVd5eVBMNHIyNlBoRjFpeUMtaEtVTEYzcU5WMl9VTTZLY0xrYW5PRkNoc05sdU5QRHBCVUVXb0YyQ1ZUangwTHZLUWloaWRuOVVOLWVxbjh5UHhWZk5JTUtsRFY2MEFEV1pmT0J6UDNFWHNDQ3V2WVplcjA1UUo5S2NYalE?oc=5",
+   "summary": "FBI visits Dan J. Sullivan donor in candidate’s hometown as Alaska Senate inquiry widens&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T01:40:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -5675,20 +5738,6 @@
    "tag_v": 2
   },
   {
-   "id": "c67fea2fecdc",
-   "title": "Shooting at Spirit Halloween store in California leaves pregnant woman dead and 6 wounded - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW5kTnNwaXhRRlJ3UjMxc0NMRk1zdVEyWXlqT3hIUmNEZWFVbzk2SzBwSlUyNXBKMzdrNlROUHFmV0dDcEJGUEcyWkZpcGoxQm1hMFdfWWRHcWxfNWE4Wld3bnNXdEFEbnVNbzUyQmdnS2JzLTU3OU04X1h6am4xdUdxX2pjbEZKbE9Lc0ZqSVN2T013TWdSeEo2bzk0NUdXN3RBOWZfWE43MW1t?oc=5",
-   "summary": "Shooting at Spirit Halloween store in California leaves pregnant woman dead and 6 wounded&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-31T23:34:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "e52dcdaff2d5",
    "title": "Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds - AP News",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjUwTHRGWWVLSHotdzBTellKb2pwRHFtcjRYb2pFaUlHcmN4WXdYaDVhVHAxQ3lyOUt4eG1yYzBfX2NGOUozNEpPUkd3Znk5eUhvR2xhMGlrRDJfNndOWFNuczhXRS1uTjdmcXltRVQweEpJQUJKWE9lRDlseFlMdFVPTVpsYVdNeUVlU3FJcU53OEhKb2U1SW5Vb0g4b1FXZTdpelNHYWxCXzBOMWI0bl82eWtqZkU?oc=5",
@@ -5884,6 +5933,20 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c67fea2fecdc",
+   "title": "Shooting at Spirit Halloween store in California leaves pregnant woman dead and 6 wounded - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW5kTnNwaXhRRlJ3UjMxc0NMRk1zdVEyWXlqT3hIUmNEZWFVbzk2SzBwSlUyNXBKMzdrNlROUHFmV0dDcEJGUEcyWkZpcGoxQm1hMFdfWWRHcWxfNWE4Wld3bnNXdEFEbnVNbzUyQmdnS2JzLTU3OU04X1h6am4xdUdxX2pjbEZKbE9Lc0ZqSVN2T013TWdSeEo2bzk0NUdXN3RBOWZfWE43MW1t?oc=5",
+   "summary": "Shooting at Spirit Halloween store in California leaves pregnant woman dead and 6 wounded&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-10-31T22:34:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -6522,25 +6585,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c7b4490929d6",
-   "title": "Stocks Fall Sharply on Intel and Amazon Sell-offs and Crypto Heist",
-   "link": "https://www.nasdaq.com/articles/stocks-fall-sharply-intel-and-amazon-sell-offs-and-crypto-heist-1",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) fell -1.82% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell -1.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -3.46%. December E-mini S&amp;P futures (ESZ26 ) fell -1.76%, and December E-mini Nasdaq futures (NQZ26 ) fell...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T19:25:32+00:00",
-   "tickers": [
-    "AMZN",
-    "INTC",
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8814,50 +8858,6 @@
     "SNDK"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "aa5365c1b160",
-   "title": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdjc5eFNBTWNCTTRVd2lMeHZ2a2pfN0k0dE1xMnN0WUpLT19jUTBOLU1pNGliTTJXQTRtaWpMMm9Kdk5UU09tbjdqeU1YNGVDLW9fWVAyVlFKUTZteFBOVHVqdXRqZ0lCUUY2VENQOHpjRmFBLVFWNjlQTXRORFdQVmJucGVrR3BJVWswZ1dHcWVmSnBXbzVR?oc=5",
-   "summary": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-10-31T13:03:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4301f75f555b",
-   "title": "Intel stock plunges 29%. Analysts urge caution on buying the dip",
-   "link": "https://www.cnbc.com/2026/10/31/intel-not-a-buy-after-drop.html",
-   "summary": "Intel's sell-off could be a chance to buy the dip, but you need a long investing horizon.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-31T13:02:22+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "3c56151e4d17",
-   "title": "How to start an art collection on any budget",
-   "link": "https://www.cnbc.com/2026/10/31/how-to-invest-in-art-collecting.html",
-   "summary": "A guide to beginning an art collection, including how to research artists, what to buy, and where to connect, from galleries to fairs to auction houses.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-10-31T12:58:43+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   }
