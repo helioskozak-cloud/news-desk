@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T03:11:32.767680+00:00",
+ "generated": "2026-11-01T03:16:12.715383+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -13,6 +13,22 @@
    "domain": "stocktitan.net",
    "published": "2026-11-01T03:10:00+00:00",
    "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "506a2c70645c",
+   "title": "XPENG Announces Vehicle Delivery Results for October 2026",
+   "link": "https://www.prnewswire.com/news-releases/xpeng-announces-vehicle-delivery-results-for-october-2026-302925668.html",
+   "summary": "GUANGZHOU, China, Oct. 31, 2026 /PRNewswire/ -- XPeng Inc. (\"XPENG\" or the \"Company,\" NYSE: XPEV and HKEX: 9868), a leading global Physical AI company, today announced its vehicle delivery results for October 2026. XPENG achieved a new monthly record with total deliveries of 50,237...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-01T03:10:00+00:00",
+   "tickers": [
+    "XPEV"
+   ],
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8928,20 +8944,6 @@
    "type": "macro",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "7e3b2768dbf4",
-   "title": "CIM Group expands board, appoints three new directors following resignation",
-   "link": "https://www.investing.com/news/sec-filings/cim-group-expands-board-appoints-three-new-directors-following-resignation-93CH-4988845",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-10-30T22:20:50+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9111,6 +9113,7 @@
   "FROG": "JFrog",
   "INTC": "Intel",
   "JBL": "Jabil",
+  "XPEV": "XPeng",
   "AGCO": "AGCO",
   "MSCI": "MSCI",
   "OKLO": "Oklo",
