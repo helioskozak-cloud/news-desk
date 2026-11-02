@@ -1,8 +1,39 @@
 {
- "generated": "2026-11-02T19:41:37.307887+00:00",
+ "generated": "2026-11-02T19:46:07.514718+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e1d6e763ef6a",
+   "title": "Snap settles social media addiction lawsuit, averting trial",
+   "link": "https://www.cbsnews.com/news/slug-snap-settles-social-media-addiction-lawsuit/",
+   "summary": "Snap joins Alphabet, Meta and TikTok in resolving allegations that its social media platform was designed to encourage addictive behavior.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-02T19:45:02+00:00",
+   "tickers": [
+    "GOOG",
+    "META"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a1fa0ce14b5a",
+   "title": "S&P 500 pulls back as tech stock losses outweigh cooler oil prices ahead of midterms: Live updates",
+   "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+   "summary": "Investors braced for a packed week of earnings results, jobs reports and the upcoming midterm elections.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-02T19:43:40+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "f5d1bde3a2a0",
    "title": "With Colder Weather Approaching, PG&E Offering Free Gas Appliance Safety Checks and Pilot Re-Lights",
@@ -47,20 +78,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a1fa0ce14b5a",
-   "title": "S&P 500 is little changed as tech stock losses outweigh cooler oil prices ahead of midterms: Live updates",
-   "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-   "summary": "Investors braced for a packed week of earnings results, jobs reports and the upcoming midterm elections.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-02T19:38:31+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -155,23 +172,6 @@
    "tag_v": 2
   },
   {
-   "id": "e1d6e763ef6a",
-   "title": "Snap settles social media addiction lawsuit, averting trial",
-   "link": "https://www.cbsnews.com/news/slug-snap-settles-social-media-addiction-lawsuit/",
-   "summary": "Snap joins Alphabet, Meta and TikTok in resolving allegations that its social media platform was designed to encourage addictive behavior.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-02T19:26:13+00:00",
-   "tickers": [
-    "GOOG",
-    "META"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "e28fa3ed23e3",
    "title": "Pampa Energia stock hits 52-week low at 69.32 USD",
    "link": "https://www.investing.com/news/company-news/pampa-energia-stock-hits-52week-low-at-6932-usd-93CH-4992615",
@@ -253,20 +253,6 @@
    "title": "Soybeans Close Friday with Mixed Trade, Falling from Early Highs",
    "link": "https://www.nasdaq.com/articles/soybeans-close-friday-mixed-trade-falling-early-highs",
    "summary": "Soybeans were mixed on Friday with contracts anywhere from 2 ½ cents higher to fractionally lower. November was down 34 ¼ cents this week, with the monthly loss at 70 ¾ cents. The cmdtyView national average Cash Bean price was up 1/2 cents at $11.63 1/2. Soymeal futures were 70...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T19:24:10+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "975551931390",
-   "title": "Soybeans Starting November with Steady Trade",
-   "link": "https://www.nasdaq.com/articles/soybeans-starting-november-steady-trade",
-   "summary": "Soybeans are showing fractionally lower trade to start the Monday session. Futures were mixed on Friday with contracts anywhere from 2 ½ cents higher to fractionally lower. November was down 34 ¼ cents last week, with the monthly loss at 70 ¾ cents. Open interest was up 2,321 contracts. There...",
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
@@ -608,6 +594,20 @@
    "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-02T19:17:49+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "975551931390",
+   "title": "Soybeans Starting November with Steady Trade",
+   "link": "https://www.nasdaq.com/articles/soybeans-starting-november-steady-trade",
+   "summary": "Soybeans are showing fractionally lower trade to start the Monday session. Futures were mixed on Friday with contracts anywhere from 2 ½ cents higher to fractionally lower. November was down 34 ¼ cents last week, with the monthly loss at 70 ¾ cents. Open interest was up 2,321 contracts. There...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T19:17:48+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -3116,6 +3116,20 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a3cd8b770b83",
+   "title": "Victims of Florida plane crash include a 20-year-old who got her pilot’s license as a teen - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbThMQW1IZnBRT0dBUlZ6dmRaZTFMY1hkWE5nUlZhdzNZd2hvQmFhSTRpd1VIaThyTGVPUnVpbGplbDhjM1U5SE1peUt5SEQ0eEFnU0ViV1djMVF5V1J3SjJKcnBjRndRQ3pmdTV4dkpLZFVsRFhmTWpiNEh6SFh3WndlUm9qOTEtZzFSa0x5U3Y?oc=5",
+   "summary": "Victims of Florida plane crash include a 20-year-old who got her pilot’s license as a teen&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-02T17:44:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -6090,6 +6104,20 @@
    "tag_v": 2
   },
   {
+   "id": "5957f829618f",
+   "title": "Iran has a 2-day plan to reopen strait, resume nuclear talks with US, and other Mideast news - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXJ0RGVaUDJtb3ktRXNHZG40Slp3eTVjblNKRWwyOXdHR1MwaUthTzR2ZEZ0UFM5MmVzOHFwa3JoSlBDNjJmdW9NU2NLYVpOV3VKRk5iUXpCYnhNUU9XS2FVY2NrSHRBdnY0cDhWNzJucDQ5YlRQNGJZTnJkNC1kVmRJZ2MtdkIxV01Cb0U3dFVtZw?oc=5",
+   "summary": "Iran has a 2-day plan to reopen strait, resume nuclear talks with US, and other Mideast news&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-02T16:10:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "5c835112f244",
    "title": "Binance customers withdraw $4.6 billion after crypto heist",
    "link": "https://www.cbsnews.com/news/binance-customers-withdraw-billions-crypto-hack/",
@@ -8597,20 +8625,6 @@
    "tag_v": 2
   },
   {
-   "id": "5957f829618f",
-   "title": "Iran has a 2-day plan to reopen strait, resume nuclear talks with US, and other Mideast news - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXJ0RGVaUDJtb3ktRXNHZG40Slp3eTVjblNKRWwyOXdHR1MwaUthTzR2ZEZ0UFM5MmVzOHFwa3JoSlBDNjJmdW9NU2NLYVpOV3VKRk5iUXpCYnhNUU9XS2FVY2NrSHRBdnY0cDhWNzJucDQ5YlRQNGJZTnJkNC1kVmRJZ2MtdkIxV01Cb0U3dFVtZw?oc=5",
-   "summary": "Iran has a 2-day plan to reopen strait, resume nuclear talks with US, and other Mideast news&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-02T14:36:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "774dbeefdcb0",
    "title": "3 Reasons to Buy Alphabet Stock Right Now",
    "link": "https://www.nasdaq.com/articles/3-reasons-buy-alphabet-stock-right-now",
@@ -9054,20 +9068,6 @@
     "INDV"
    ],
    "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5bcca895db3b",
-   "title": "The Midterms Are Tomorrow. Here's What History Says Defense Stocks Do in the 6 Months After a Midterm -- and the 2 I'd Buy First",
-   "link": "https://www.nasdaq.com/articles/midterms-are-tomorrow-heres-what-history-says-defense-stocks-do-6-months-after-midterm-and",
-   "summary": "Key PointsRTX may be less vulnerable to a shift in congressional power due to its diverse product portfolio.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T14:18:00+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   }
