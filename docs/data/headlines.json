@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T05:16:11.890341+00:00",
+ "generated": "2026-11-02T05:21:27.074594+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -30,6 +30,55 @@
    "domain": "cnbc.com",
    "published": "2026-11-02T05:09:45+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "843fa5427269",
+   "title": "Average Analyst Price Target for Chegg Raised 21.21% to $1.02",
+   "link": "https://www.nasdaq.com/articles/average-analyst-price-target-chegg-raised-2121-102",
+   "summary": "The average one-year price target for Chegg (NYSE:CHGG) (DB:0CG) has been revised to $1.02 / share. This is an increase of 21.21% from the prior estimate of $0.84 dated May 31, 2025. These figures represent aggregate analyst targets compiled from multiple sources and do not const",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T05:08:37+00:00",
+   "tickers": [
+    "DB"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "38bff177b681",
+   "title": "UWM Holdings Consensus Price Target Cut by 30.41% to $1.72",
+   "link": "https://www.nasdaq.com/articles/uwm-holdings-consensus-price-target-cut-3041-172",
+   "summary": "The average one-year price target for UWM Holdings (NYSE:UWMC) has been revised to $1.72 / share. This is a decrease of 30.41% from the prior estimate of $2.47 dated October 20, 2026. These figures represent aggregate analyst targets compiled from various sources, not a recommen",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T05:08:12+00:00",
+   "tickers": [
+    "UWMC"
+   ],
+   "type": "analyst",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e67ab8e2b647",
+   "title": "Comcast vs. Walt Disney: Which Entertainment Stock Is a Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/comcast-vs-walt-disney-which-entertainment-stock-better-buy-2027",
+   "summary": "Key PointsComcast leverages its dominant position in domestic broadband and a growing global theme park footprint.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T05:05:04+00:00",
+   "tickers": [
+    "CMCSA",
+    "DIS"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -195,6 +244,23 @@
    "published": "2026-11-02T04:58:51+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f67deb3147a0",
+   "title": "Robert Half Consensus Price Target Increased by 13.38% to $40.06",
+   "link": "https://www.nasdaq.com/articles/robert-half-consensus-price-target-increased-1338-4006",
+   "summary": "The average one-year price target for Robert Half (NYSE:RHI) (DB:RHJ) has been revised to $40.06 / share. This is an increase of 13.38% from the prior estimate of $35.34 dated October 20, 2026. These figures represent aggregate analyst targets compiled by Fintel and do not consti",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T04:57:32+00:00",
+   "tickers": [
+    "RHI",
+    "DB"
+   ],
+   "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8222,6 +8288,20 @@
    "tag_v": 2
   },
   {
+   "id": "a82f2fc27c17",
+   "title": "Charlotte 49ers open season at home against the Richmond Spiders - AP News",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUDVDa3hwbV9oaEt6cG12Tnoza0pHNHZtX0dtVmVNQkN0ODdScmNTMUt5M2pTUGlBdkxnTnBnUF9yRWFvMU5iUDlURmpscUwwS0xralBIZmJkaGlmRUk2blAyZjJ4TkxRS2cxLW1CT25SRmdHcmJBalIwVW56S01sV3JXYzdjYWZkcWE4MkUtd01XeF9QcGtUaFRPXzZEbkRtX1dzZE5LMkVfOVZva3oyZTBQTTdzWGpSd2hiZE11dW9OMEhlMGhJaV9aYkFhUlpCaWwtOW1XR2FHTlc3azRv?oc=5",
+   "summary": "Charlotte 49ers open season at home against the Richmond Spiders&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T09:16:49+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b2ba57cfb189",
    "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 - AP News",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2lBQVM2dU1OS3Nvb21jTmphSEdXdGhfdGp4Z2pIT1RwSWRybmJSZC1neV9WQ0pqMTNsUmRPd2hJdmd6NUREV3o0akVCODUxQ2lvaThjMjUxcGJNRUw0RjlBTmFGS1hRN3Rjd3Vha19lRlR3X3U4VS1fWmIzYjZFNnBhbGNMY3p2eGdiNEVPNTRKRzlrRmFnYm53?oc=5",
@@ -8323,6 +8403,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "a737055a3787",
+   "title": "No. 5 Arizona squares off against No. 22 UCLA in Las Vegas, Nevada - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0xrT2VncFk1cnI1M2g5MzYxbGJZb2t1NXhFZnQxU1B4Qnl3a01fNnl0MEJKdFNuRUtjU282SW5MQTg0amRXdjlIdzFnQmFGdVl6cFlaQ2ZKTGVDNGJLa3h1eVJKLWc4MDNSUk8zY2k4YTIxWmQtaW9FZTdqZGV1YWs4T25hNEowcDVqTkNmMXNIUTVXNjFHTThudkdvSm1nVmtNLURyTktXamJiSUUwamFsU1BnZW1kajRuVVBhc0NCTTJ0ZFZBLW5B?oc=5",
+   "summary": "No. 5 Arizona squares off against No. 22 UCLA in Las Vegas, Nevada&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-01T08:42:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8776,96 +8870,6 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "e7521edc4e32",
-   "title": "Amazon has a 3-drawer mini dresser with a built-in charging station for just $40",
-   "link": "https://www.thestreet.com/deals/furnulem-3-drawer-mini-dresser-charging-station-amazon-sale-november-2026",
-   "summary": "It's \"sturdy, stylish, and super convenient.\"",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-01T05:00:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e6f8e671210f",
-   "title": "No. 2 Ohio State continues season of chaos with 38-10 loss to Southern California - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWhHamZGTmZIZzllNWZGUWNDVW15eVQ5enBZTEF2bkpFNXViNnpWMzR0aU1xbDJvcndobEhJZFluVV9nVzhERzBjZUJ4T2ozaXlRckFTYUZqTWNRNEtMb0NYb0hUZmhaSmZuSUluRjdNR210OWFfMFQwQjhKX3dSR1F3?oc=5",
-   "summary": "No. 2 Ohio State continues season of chaos with 38-10 loss to Southern California&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T04:59:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "09dc61e7b28d",
-   "title": "NIO October Vehicle Deliveries Down 15.2%",
-   "link": "https://www.nasdaq.com/articles/nio-october-vehicle-deliveries-down-152",
-   "summary": "(RTTNews) - Chinese electric vehicle maker NIO Inc. (NIO, 9866.HK) reported 34,246 vehicle deliveries in October 2026, down from 40,397 vehicles delivered in October 2025, representing a year-over-year decline of approximately 15.2%.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-01T04:47:55+00:00",
-   "tickers": [
-    "NIO"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ecd6ab5cf50e",
-   "title": "LeBron James is 41 and feeling young in Philly. He had his best game yet with the 76ers - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWU9OSmxFSjk0SFRMSC1VSXNBT1NTUGNWRTNQanlGeUxua3NTY2NxbXpOcHVNbmtWcGtrVVQ5TmhGMFlEUFpWejBNUllYcTBKQTFfTUJIcFY1cmpKdFJMVHBWOVVnTWE0TXhJa0Y0RU9pV2cxWDNvWThGZGM1Yl9UZFFqWTg4SmZ4d3UtUEEzb1d6MW1CVnc?oc=5",
-   "summary": "LeBron James is 41 and feeling young in Philly. He had his best game yet with the 76ers&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T04:45:23+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ae078a6e398d",
-   "title": "Hanwha secures $269 million U.S. Navy shipbuilding contract, eyes more orders",
-   "link": "https://www.investing.com/news/company-news/hanwha-secures-269-million-us-navy-shipbuilding-contract-eyes-more-orders-4989385",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-01T04:41:50+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "c4f090e202e4",
-   "title": "Medtronic Just Retired 55 Million Shares Without Spending Cash. Is the Stock a Buy?",
-   "link": "https://www.nasdaq.com/articles/medtronic-just-retired-55-million-shares-without-spending-cash-stock-buy",
-   "summary": "Key PointsMedtronic recently completed a key spinoff of its diabetes segment.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-01T04:41:00+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8932,6 +8936,7 @@
   "COIN": "Coinbase Global",
   "D": "Dominion Energy",
   "DECK": "Deckers Outdoor",
+  "DIS": "The Walt Disney",
   "LMT": "Lockheed Martin",
   "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
@@ -8957,6 +8962,7 @@
   "MP": "MP Materials",
   "QS": "QuantumScape",
   "STT": "State Street",
+  "UWMC": "UWM Holdings",
   "WY": "Weyerhaeuser",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
@@ -8964,6 +8970,7 @@
   "CAT": "Caterpillar",
   "FSLR": "First Solar",
   "NVS": "Novartis AG",
+  "RHI": "Robert Half",
   "XEL": "Xcel Energy",
   "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
@@ -8981,13 +8988,13 @@
   "PARA": "Paramount+",
   "AMBA": "Ambarella",
   "BC": "Brunswick",
-  "MDT": "Medtronic",
   "RBA": "RB Global",
   "APP": "AppLovin",
   "BCS": "Barclays",
   "BP": "BP p.l.c",
   "DASH": "DoorDash",
   "GOOG": "Alphabet",
+  "CMCSA": "Comcast",
   "CVX": "Chevron",
   "MET": "MetLife",
   "MRK": "Merck &",
