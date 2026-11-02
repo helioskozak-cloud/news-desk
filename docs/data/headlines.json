@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-02T23:36:41.865660+00:00",
+ "generated": "2026-11-02T23:41:46.277556+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f5dc1c23fddb",
+   "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+   "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+   "summary": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-02T23:38:45+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7ee9afe69910",
+   "title": "Beloved Disney ride to close after 33 years",
+   "link": "https://www.thestreet.com/retail/disneyland-paris-ride-to-close-after-33-years",
+   "summary": "One of Disneyland Paris's most popular attractions with long lines will close in January 2027 with no scheduled reopening date.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-02T23:37:00+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "1dc519be7aef",
    "title": "Bentley Systems تعلن عن استحواذ Seequent على شركة Eliis المتخصصة في برامج تفسير البيانات الزلزالية",
@@ -60,20 +90,6 @@
    "published": "2026-11-02T23:24:54+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f5dc1c23fddb",
-   "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
-   "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-   "summary": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-02T23:23:56+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -141,6 +157,20 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3b91df3ac072",
+   "title": "Parts of a Learjet may have broken off midair before Florida crash that killed 9, investigators say - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNWplWXJyaW1GUjY2TkpCVXpWaEhTWjBFZFQtckh3UzlxNVN5SlAwS1JOR0xWTk9WWnJxeTRKRjZYTGtkdFhzWTVidmlzZnhUQ2VEMXl4dmU5cmtaSmdOSkNjN3kyMGVOSUs1YktTbTF3Z2I5Qkd6UEJhdHpwLU1FYkFVdDE1U1NvNWc5ZUVsZGh0Z29aSGkyOS1kYw?oc=5",
+   "summary": "Parts of a Learjet may have broken off midair before Florida crash that killed 9, investigators say&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-02T23:19:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1234,6 +1264,20 @@
     "KIM"
    ],
    "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0152ff9161a9",
+   "title": "Parents of 1-year-old fatally shot by police protest at Mississippi Attorney General’s Office - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjBIYXd5RWhpRnM3VndiNEZMM2J0dGNYMXpwLTc3cnA4clVpQzRYOXZTR01KdkhrdE52VGVVMGp3b1hJQUhlaUpjWlR5WThLLTNVNnQtZlZZRGllcVpITFFDTHdmVGxESWsxUEFtY3lDSjE0U01uRkR1aEE3N0YyUkh3NV9Jc2doR2tEeVNXV01jeGQ3bDNwRjRZX3BlT0dEOVUxVFg0Y2s?oc=5",
+   "summary": "Parents of 1-year-old fatally shot by police protest at Mississippi Attorney General’s Office&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-02T22:48:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6746,7 +6790,7 @@
   },
   {
    "id": "773107224c21",
-   "title": "Amazon Prime Video beats Apple TV in one key way",
+   "title": "Amazon Prime Video beats Apple TV",
    "link": "https://www.thestreet.com/retail/amazon-makes-money-in-an-area-where-apple-loses-billions",
    "summary": "What seemed like a pricey vanity project has actually turned into a revenue driver.",
    "source": "TheStreet",
@@ -8884,50 +8928,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "2aacceeb2d97",
-   "title": "Selective Insurance Group stock hits 52-week high at 101.28 USD",
-   "link": "https://www.investing.com/news/company-news/selective-insurance-group-stock-hits-52week-high-at-10128-usd-93CH-4992660",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-02T20:27:25+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ab35e390e89f",
-   "title": "Why McGrath RentCorp Stock Was Bumping Higher Today",
-   "link": "https://www.nasdaq.com/articles/why-mcgrath-rentcorp-stock-was-bumping-higher-today",
-   "summary": "Key PointsIt will join this lineup on Wednesday before the start of trading.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T20:27:18+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "11ec191af402",
-   "title": "Meta delays new business terms after outcry over potential web scraping of news sites - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQal96aHYtRlVIOHVoRThhTHpjZ1RqekxZYnpmQ1kxZE9lcFBIVE9wVFFGazVjd0V2dTAzU0tXa3dZbm4yaFV4SVNfWU9qYUp5N2xyOHk2MTRGcTZuX0xiSDVvaHUyZTdZb3BHak1Tc3lCQ243Z05xeG42MnJfcU55bHg2MFg0N3Fzb2lCMWdLbFlCSDdVejhXWmU0XzR6VWUxaGx2ZUpQN3A2Zjd2ZTRhNFB3Y3FudHRGdHJV?oc=5",
-   "summary": "Meta delays new business terms after outcry over potential web scraping of news sites&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-02T20:27:18+00:00",
-   "tickers": [
-    "META"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9007,6 +9007,7 @@
   "BAC": "Bank of America",
   "BSY": "Bentley Systems",
   "CORZ": "Core Scientific",
+  "DIS": "The Walt Disney",
   "LDOS": "Leidos Holdings",
   "LNG": "Cheniere Energy",
   "PAYC": "Paycom Software",
@@ -9017,7 +9018,6 @@
   "FSM": "Fortuna Mining",
   "KMB": "Kimberly-Clark",
   "LBRT": "Liberty Energy",
-  "META": "Meta Platforms",
   "TMC": "TMC the metals",
   "USAR": "USA Rare Earth",
   "VOYA": "Voya Financial",
