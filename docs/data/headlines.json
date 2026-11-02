@@ -1,8 +1,83 @@
 {
- "generated": "2026-11-02T10:26:57.488341+00:00",
+ "generated": "2026-11-02T10:31:43.179255+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "aa17ff0afb43",
+   "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+   "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+   "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-02T10:29:11+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a6818b715c0c",
+   "title": "BofA raises Capgemini stock price target on AI momentum",
+   "link": "https://www.investing.com/news/analyst-ratings/bofa-raises-capgemini-stock-price-target-on-ai-momentum-93CH-4990649",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-02T10:20:55+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "70959422fb86",
+   "title": "BofA raises Wolters Kluwer stock price target on valuation",
+   "link": "https://www.investing.com/news/analyst-ratings/bofa-raises-wolters-kluwer-stock-price-target-on-valuation-93CH-4990648",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-02T10:20:49+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e1994d681e5f",
+   "title": "KeyBanc lowers Pinterest stock price target to $25 on Europe woes",
+   "link": "https://www.investing.com/news/analyst-ratings/keybanc-lowers-pinterest-stock-price-target-to-25-on-europe-woes-93CH-4990647",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-02T10:20:48+00:00",
+   "tickers": [
+    "PINS"
+   ],
+   "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "43ed3201842f",
+   "title": "Amphenol stock added to Goldman Sachs conviction list",
+   "link": "https://www.investing.com/news/analyst-ratings/amphenol-stock-added-to-goldman-sachs-conviction-list-93CH-4990646",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-02T10:20:44+00:00",
+   "tickers": [
+    "GS",
+    "APH"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "346c5738be48",
    "title": "Jet nosedives and erupts into fireball near busy roadway in South Florida. All 9 on board died",
@@ -28,6 +103,97 @@
    "published": "2026-11-02T10:19:08+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3f2315c97eea",
+   "title": "China’s slow buying of US farm goods tests $17 billion trade pledge",
+   "link": "https://www.investing.com/news/commodities-news/chinas-slow-buying-of-us-farm-goods-tests-17-billion-trade-pledge-4990156",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-02T10:18:20+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "68ac53f6d110",
+   "title": "Bitcoin pinned at $78k after October losses; Binance resumes withdrawals",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-78k-after-october-losses-binance-resumes-withdrawals-4989972",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-02T10:17:42+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "b20ed326801d",
+   "title": "Still-negative Japanese real rates should continue to support USD/JPY: UBS",
+   "link": "https://www.investing.com/news/forex-news/stillnegative-japanese-real-rates-should-continue-to-support-usdjpy-ubs-93CH-4990645",
+   "summary": "",
+   "source": "Investing Forex",
+   "category": "fx",
+   "domain": "investing.com",
+   "published": "2026-11-02T10:17:41+00:00",
+   "tickers": [
+    "UBS"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "709323f6ab4c",
+   "title": "Earnings call transcript: Nucleus Software falls as Q2 FY2027 profit slips",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-nucleus-software-falls-as-q2-fy2027-profit-slips-93CH-4990644",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-02T10:16:42+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9f603bc0ca57",
+   "title": "Why is Check Point Software stock tumbling today?",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-check-point-software-stock-tumbling-today-93CH-4990642",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-02T10:15:28+00:00",
+   "tickers": [
+    "CHKP"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9d03dba7e3c3",
+   "title": "Jefferies initiates FMC stock coverage with hold on pricing headwinds",
+   "link": "https://www.investing.com/news/analyst-ratings/jefferies-initiates-fmc-stock-coverage-with-hold-on-pricing-headwinds-93CH-4990636",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-02T10:14:50+00:00",
+   "tickers": [
+    "JEF",
+    "FMC"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -58,6 +224,20 @@
     "DB"
    ],
    "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "192a4027beb7",
+   "title": "Explainer-Could hackers get inside my fridge?",
+   "link": "https://www.investing.com/news/stock-market-news/explainercould-hackers-get-inside-my-fridge-4990628",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-02T10:12:36+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -122,20 +302,6 @@
    "tag_v": 2
   },
   {
-   "id": "aa17ff0afb43",
-   "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-   "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-   "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-02T10:09:37+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "78979263330b",
    "title": "BigBear.ai Holdings, Inc. - Equity Warrant Price Target Decreased by 33.04% to $0.04",
    "link": "https://www.nasdaq.com/articles/bigbearai-holdings-inc-equity-warrant-price-target-decreased-3304-004",
@@ -165,6 +331,36 @@
    ],
    "type": "analyst",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0cb28b282683",
+   "title": "Analysis-October dive for AI-related shares tests broader US stock market’s resilience",
+   "link": "https://www.investing.com/news/stock-market-news/analysisoctober-dive-for-airelated-shares-tests-broader-us-stock-markets-resilience-4990604",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-02T10:06:41+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7e6057769de5",
+   "title": "Cembra shares slide 8% as UBS flags limited scope for further returns growth",
+   "link": "https://www.investing.com/news/stock-market-news/cembra-shares-slide-8-as-ubs-flags-limited-scope-for-further-returns-growth-4990602",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-02T10:05:58+00:00",
+   "tickers": [
+    "UBS"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2344,20 +2540,6 @@
    "tag_v": 2
   },
   {
-   "id": "3f2315c97eea",
-   "title": "China’s slow buying of US farm goods tests $17 billion trade pledge",
-   "link": "https://www.investing.com/news/commodities-news/chinas-slow-buying-of-us-farm-goods-tests-17-billion-trade-pledge-4990156",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-02T08:18:17+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "ceffd5817a9f",
    "title": "Alstom shares sink 28% after outlook cut on Coradia Max execution issues",
    "link": "https://www.investing.com/news/earnings/alstom-shares-tumble-18-after-another-outlook-cut-4990045",
@@ -2468,6 +2650,20 @@
    "published": "2026-11-02T08:06:37+00:00",
    "tickers": [],
    "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-02T08:05:45+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3404,20 +3600,6 @@
     "BMO"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-02T07:05:18+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6347,6 +6529,20 @@
    "tag_v": 2
   },
   {
+   "id": "76fee07afed3",
+   "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5",
+   "summary": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-02T03:04:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "d401b4c70449",
    "title": "The UK’s stance on its role in the slave trade is shifting, but reparations remain off the table - AP News",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlE4dXBSNXNIRlR3U1ZfS2hXam11aWp1cWpLUzgxVUVxemRoeUczdnZuU21BaGFkaWtMa1BfYWRNZ0JDeGNFQkg3am5yaVQ2VEljZlduRGhlT3pBVUpESDNWcW05OU5BVXhBTW5BU3VxdjRHS0NjdW1MY1FFc0ZKV3BkUTNOYkd0NHE5d3V0R2FvcXA4NWJ2U0tQN0o4bnhaNGc?oc=5",
@@ -6907,6 +7103,20 @@
    "tag_v": 2
   },
   {
+   "id": "7e7717191526",
+   "title": "Jet nosedives and erupts into fireball near busy roadway in South Florida. All 9 on board died - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3VPQVE0dmE3bnM0TVptc2lUeHFmSHNfc1pEdHJPdG01UTRZMW1NaWVZXzRQbWRBcmN3WlJqTTA5YWpOZURQQlUwNTJSNXY2azVQWmVFbmpRWldybndPMzNlWGFnQk5Na0dTdlFmeWRzbW56ZkpOV091MEdmWHViUW1IWFRqOEEzN3c?oc=5",
+   "summary": "Jet nosedives and erupts into fireball near busy roadway in South Florida. All 9 on board died&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-02T01:39:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "56342958c1ed",
    "title": "Japanese Market Slightly Lower",
    "link": "https://www.nasdaq.com/articles/japanese-market-slightly-lower",
@@ -7174,6 +7384,20 @@
    "title": "Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20 - AP News",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSDRjbm1UVmlEekhIWkxOX1NLSGNsSUVnRW5SSlF2VDg3d0NTOEI1YllqZWJrc1V0dmRzRGluTlpPYjlvcnNJWkNpa2JsN3YtQTNjeU44Zzdock9VRGMzR2pjSElfQm12UzRiaW5DMkg4TGdzbWY1Mm9odjVvVzVwWVZjWXhIU0x5UXNFMU44VkFVT1BZNnhrNWluOGxzZWJKRkJiQw?oc=5",
    "summary": "Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-02T01:03:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "28e26536896b",
+   "title": "South Africans to vote in key local elections seen as a tough test for ruling ANC - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2FMSHFUcVU4ZnluY2pBcEs2LTFqbDhjRnpxbkpnUHJNV3hBWDVLTGprbUdfenM3TUsyX043SXZRTmJ1MXVIUmpmZWNhN3k2bU12WTEtcG5QakV5d1ZwbW9fdWxtd3R4RmY0XzU2c19uMnhwZ2RjcUQxTXRWNHNwV3YyaEJ4eUNEZk9oWGg2dzhvbnZJdEVnSXkyR2FGbzg?oc=5",
+   "summary": "South Africans to vote in key local elections seen as a tough test for ruling ANC&nbsp;&nbsp;AP News",
    "source": "AP Business",
    "category": "macro",
    "domain": "news.google.com",
@@ -8288,20 +8512,6 @@
    "tag_v": 2
   },
   {
-   "id": "7e7717191526",
-   "title": "Jet nosedives and erupts into fireball near busy roadway in South Florida. All 9 on board died - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3VPQVE0dmE3bnM0TVptc2lUeHFmSHNfc1pEdHJPdG01UTRZMW1NaWVZXzRQbWRBcmN3WlJqTTA5YWpOZURQQlUwNTJSNXY2azVQWmVFbmpRWldybndPMzNlWGFnQk5Na0dTdlFmeWRzbW56ZkpOV091MEdmWHViUW1IWFRqOEEzN3c?oc=5",
-   "summary": "Jet nosedives and erupts into fireball near busy roadway in South Florida. All 9 on board died&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T21:02:05+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "227cadcffeda",
    "title": "1 Dividend-Paying Biotech Stock to Buy Hand Over Fist in November",
    "link": "https://www.nasdaq.com/articles/1-dividend-paying-biotech-stock-buy-hand-over-fist-november",
@@ -8681,206 +8891,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "098053f00316",
-   "title": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years - AP News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHFUY0puMk0zTDE1Z3BZc2Y0UklsUmNTT3FEUTFTcWFTU21hQ3o3eC04dHdGcUJPeFhsNGxpdE1RR2pCa2g4Umc2UmpjTGR2eUxwQ291RmE2cndyV0xrSjd3MGloNEtuWlRoSjB4dXRBNHdCaG5uSTJCOVNHZW5TRTRfckZwZEtZd0xXaUUwbjQtWmYzcGdUYWg2cUdYRWpt?oc=5",
-   "summary": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T19:14:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9774f188b855",
-   "title": "Nu Stock Just Cratered, and It's 36% off Its High. Is This a Buying Opportunity?",
-   "link": "https://www.nasdaq.com/articles/nu-stock-just-cratered-and-its-36-its-high-buying-opportunity",
-   "summary": "Key PointsNu has expanded to several new markets, including the U.S., opening new revenue streams.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-01T19:07:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2e8727c3f92d",
-   "title": "QuantumScape Stock: Buy or Sell?",
-   "link": "https://www.nasdaq.com/articles/quantumscape-stock-buy-or-sell",
-   "summary": "Should you buy stock in QuantumScape right now? Before you buy stock in QuantumScape, consider this:Missed AI&rsquo;s \"Act 1\"? Act 2 Could Be 15x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we&rsquo;re only at th",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-01T19:06:02+00:00",
-   "tickers": [
-    "QS"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "db8bd3b0946a",
-   "title": "Mexico comes alive during annual Day of the Dead celebrations - AP News",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzBQTDZUakxvUmladWlway1jeFNxLWVDRk5hNW1SN3JYbDRGZ0QzaUpwTDFKX1c0ZGM4RUxESHN4czJWaThQcWItNzI3ODl5RzRhWVdwZ0pXd0VXeW01Z2JJd1YteWFjcHJ4WXV0LTNaOUtBSlczSEV2WHRGQkhCNGRsbFk?oc=5",
-   "summary": "Mexico comes alive during annual Day of the Dead celebrations&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T19:06:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "18d24744cf2f",
-   "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-01T19:04:09+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "56b620a622a3",
-   "title": "Ohio State falls out of top 10, UCLA cracks top 5 and New Mexico earns its first-ever AP ranking - AP News",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UZjgxQ05mNWE2aEpubW0zVE5oZnlkLXV0SjBab05UUGZHc3dMcHlvNzlGV0ZpNnJhLURJZ3FQZTB3aDRud1NBUndCVlpCM2VXSk9wTFNxTlVmMTRvSjhienVta2d1UXg3UXl1d2JTOHp5a01rSk9UNQ?oc=5",
-   "summary": "Ohio State falls out of top 10, UCLA cracks top 5 and New Mexico earns its first-ever AP ranking&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T19:00:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3a9c82ff0d4c",
-   "title": "Why Netflix Stock Could Double From This Dip",
-   "link": "https://www.nasdaq.com/articles/why-netflix-stock-could-double-dip",
-   "summary": "Key PointsNetflix stock fell as revenue growth slowed and its U.S. business lagged.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-01T18:53:00+00:00",
-   "tickers": [
-    "NFLX"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c926742fa8ef",
-   "title": "TCT 2026: CT-guided PCI Matches IVUS Outcomes in Randomized P4 Trial; Heartflow PCI Navigator Changes PCI Plans in Approximately 70% of Patients | HTFL Stock News",
-   "link": "https://www.stocktitan.net/news/HTFL/tct-2026-ct-guided-pci-matches-ivus-outcomes-in-randomized-p4-trial-zqp19uqfxg9u.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-01T18:45:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dc7036a7ba20",
-   "title": "Box Office: ‘You Can See Everything,’ ‘Clayface’ lead sleepy Halloween weekend - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41czliMTNSUzdCX25ERlZIb0MwRkdKS0hhdjhESWtla2dRSmRNTzVoRWlpYWdGWDBSZUo4Ukl0QVBaTDA4QVJwTXBkcnJtUDI5V2kwX3JYd0FSelZEdDV5cnhTM0lqZ01VMnI4WnNfeFRvMWxYZUZHX0h3?oc=5",
-   "summary": "Box Office: ‘You Can See Everything,’ ‘Clayface’ lead sleepy Halloween weekend&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T18:36:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "273aac57e177",
-   "title": "10 Tips for Harvesting Investment Losses",
-   "link": "https://www.nasdaq.com/articles/10-tips-harvesting-investment-losses",
-   "summary": "In this episode of Motley Fool Hidden Gems Investing, Motley Fool personal finance expert Robert Brokamp discusses what to keep in mind when using tax-loss harvesting:",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-01T18:35:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "4efedb3def4c",
-   "title": "Should You Sell Your Stocks Right Now? Here's What a Century's Worth of History Suggests.",
-   "link": "https://www.nasdaq.com/articles/should-you-sell-your-stocks-right-now-heres-what-centurys-worth-history-suggests",
-   "summary": "Key PointsThe S&amp;P 500 is at its second-most-expensive level ever; when it hit its previous record, the market crashed.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-01T18:35:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6ccc566bd0e8",
-   "title": "UN’s peacekeeping mission in Western Sahara ends after 35 years following US-Russia standoff - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVjMzNTMwSWprQVp3aTBMUThUbmFLcldfYVE1LTdxTE8wRWpuXzU0YkNod2o5T09pSWxpSG9RcHpPVGNvdmpCZ2Y3WUVaWjYyNjNUemZ6M1FBb0IxWkRid3lrRk16VnBPa0FMWTh1QTU4NUh1X1RoZlF5THpLYjk5bTQ1R3d5T2NUOTF5MEl2Vk9VVTJRcnlTVzRXQ0tXekxLUDJWM2FTdXRsZw?oc=5",
-   "summary": "UN’s peacekeeping mission in Western Sahara ends after 35 years following US-Russia standoff&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-01T18:34:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3b7d993ef22c",
-   "title": "Ardagh: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/ardagh-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsEuropean beverage container shipments grew 6% year over year in the third quarter.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-01T18:20:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9bc7c82c2400",
-   "title": "Packaging Corporation of America: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/packaging-corporation-america-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsGreif integration run-rate synergies reached $40 million to $50 million.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-01T18:20:01+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8947,9 +8957,9 @@
   "TLRY": "Tilray Brands",
   "WFC": "Wells Fargo &",
   "MSTR": "MicroStrategy",
+  "PINS": "Pinterest Inc",
   "BKR": "Baker Hughes",
   "KLAR": "Klarna Group",
-  "QS": "QuantumScape",
   "STT": "State Street",
   "UBS": "UBS Group AG",
   "UWMC": "UWM Holdings",
@@ -8973,6 +8983,7 @@
   "C": "Citigroup",
   "RBA": "RB Global",
   "WHR": "Whirlpool",
+  "APH": "Amphenol",
   "APP": "AppLovin",
   "BBY": "Best Buy",
   "BCS": "Barclays",
