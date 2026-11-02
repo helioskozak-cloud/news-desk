@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T18:16:16.770692+00:00",
+ "generated": "2026-11-02T18:21:03.719429+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -138,6 +138,22 @@
    "published": "2026-11-02T18:03:18+00:00",
    "tickers": [
     "MDLZ"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ce20177f0eb2",
+   "title": "History Says Berkshire Hathaway Stock Rewards Patience: It Rose in 50 of the Last 61 Years",
+   "link": "https://www.nasdaq.com/articles/history-says-berkshire-hathaway-stock-rewards-patience-it-rose-50-last-61-years",
+   "summary": "Key PointsWarren Buffett built Berkshire into one of the largest conglomerates in the world.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T18:03:00+00:00",
+   "tickers": [
+    "BRK-A"
    ],
    "type": "markets",
    "sentiment": "positive",
@@ -299,6 +315,22 @@
    "tag_v": 2
   },
   {
+   "id": "9128f299c9f2",
+   "title": "Fox (FOXA) Q1 2027 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/fox-foxa-q1-2027-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T17:58:23+00:00",
+   "tickers": [
+    "FOXA"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "1dcf07dd97a8",
    "title": "Stock market after midterm elections: What S&P 500 history shows",
    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
@@ -309,23 +341,6 @@
    "published": "2026-11-02T17:57:35+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "80817edcf616",
-   "title": "Stocks Rally as Crude Oil Sinks on US-Iran Hopes",
-   "link": "https://www.nasdaq.com/articles/stocks-rally-crude-oil-sinks-us-iran-hopes",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.74% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.74%. December E-mini S&amp;P futures (ESZ26 ) are up +0.72%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T17:55:47+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -467,6 +482,54 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "80817edcf616",
+   "title": "Stocks Rally as Crude Oil Sinks on US-Iran Hopes",
+   "link": "https://www.nasdaq.com/articles/stocks-rally-crude-oil-sinks-us-iran-hopes",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.74% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.74%. December E-mini S&amp;P futures (ESZ26 ) are up +0.72%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T17:51:17+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5fc95d432725",
+   "title": "Stocks Rebound as Chipmakers Recover and Crude Oil Plunges",
+   "link": "https://www.nasdaq.com/articles/stocks-rebound-chipmakers-recover-and-crude-oil-plunges",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.62% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.01%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.69%. December E-mini S&amp;P futures (ESZ26 ) are up +0.58%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T17:51:17+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ab9faebeef08",
+   "title": "Dollar Slides with Crude Oil Prices and Bond Yields",
+   "link": "https://www.nasdaq.com/articles/dollar-slides-crude-oil-prices-and-bond-yields",
+   "summary": "The dollar index (DXY00 ) tumbled to a 1-month low today and is down by -0.22%. Today’s -6% plunge in crude oil prices has eased inflation expectations, which could persuade the Fed to ease monetary policy, a bearish factor for the dollar. Also, today’s stock recovery has reduced demand for...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T17:51:17+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -666,23 +729,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5fc95d432725",
-   "title": "Stocks Rebound as Chipmakers Recover and Crude Oil Plunges",
-   "link": "https://www.nasdaq.com/articles/stocks-rebound-chipmakers-recover-and-crude-oil-plunges",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.62% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.01%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.69%. December E-mini S&amp;P futures (ESZ26 ) are up +0.58%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T17:39:48+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1325,20 +1371,6 @@
    ],
    "type": "earnings",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "ab9faebeef08",
-   "title": "Dollar Slides with Crude Oil Prices and Bond Yields",
-   "link": "https://www.nasdaq.com/articles/dollar-slides-crude-oil-prices-and-bond-yields",
-   "summary": "The dollar index (DXY00 ) tumbled to a 1-month low today and is down by -0.22%. Today’s -6% plunge in crude oil prices has eased inflation expectations, which could persuade the Fed to ease monetary policy, a bearish factor for the dollar. Also, today’s stock recovery has reduced demand for...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T17:15:08+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -3654,20 +3686,6 @@
    "tag_v": 2
   },
   {
-   "id": "49f93930be9e",
-   "title": "US stocks recover some of last week’s sell-off after oil prices drop - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdndJTkZzZVB3bUs3SWZPMjZXZ3JzbnlHbWJoak5WWlJWTnQwZFpJNWZpd0tQb3RYanMyckQxMmVjWm5nQnk2Tzl6QjVCOVFmN21RNks4Q2tsM2tUODBSMldsdVQ3eDBoX3UyZDZMM3JybmZVRVhxT2lReGVMMEJuMTNvLTNUbmR0TmVqeXRXV1FZSVdUV1ZtcWVhQQ?oc=5",
-   "summary": "US stocks recover some of last week’s sell-off after oil prices drop&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-02T16:13:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "1e0f5812deb0",
    "title": "Anthropic posts $17B third-quarter revenue as landmark AI debut nears",
    "link": "https://www.investing.com/news/stock-market-news/anthropic-posts-17b-thirdquarter-revenue-as-landmark-ai-debut-nears-4992371",
@@ -4397,20 +4415,6 @@
    "tag_v": 2
   },
   {
-   "id": "0212a332ff6d",
-   "title": "Karl Bushby completes 28-year, 31,000-mile walk around world and returns to mother’s house - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZG8yWEUtOVpibGVzRGlfaFRDMnFuaXNka0NOck91MXhHS1huenFKSFpRM0pMZnFoZkpGZlYta0JDNW14VGJCQ0Rmc3VkZmt0bGZfYldXdU9nazZrUDN5bXpnQUg4bExFb281NHBlYWtBNjJaYmcycUUxMkpzWjVtaUFWTnVzNG45UHR2YjdVZVZwRnNnUURjM1Vqdw?oc=5",
-   "summary": "Karl Bushby completes 28-year, 31,000-mile walk around world and returns to mother’s house&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-02T15:49:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "359019c2b797",
    "title": "Bausch + Lomb Consensus Price Target Raised 10.44% to $21.92",
    "link": "https://www.nasdaq.com/articles/bausch-lomb-consensus-price-target-raised-1044-2192",
@@ -4984,6 +4988,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "49f93930be9e",
+   "title": "US stocks recover some of last week’s sell-off after oil prices drop - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdndJTkZzZVB3bUs3SWZPMjZXZ3JzbnlHbWJoak5WWlJWTnQwZFpJNWZpd0tQb3RYanMyckQxMmVjWm5nQnk2Tzl6QjVCOVFmN21RNks4Q2tsM2tUODBSMldsdVQ3eDBoX3UyZDZMM3JybmZVRVhxT2lReGVMMEJuMTNvLTNUbmR0TmVqeXRXV1FZSVdUV1ZtcWVhQQ?oc=5",
+   "summary": "US stocks recover some of last week’s sell-off after oil prices drop&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-02T15:24:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -7442,6 +7460,20 @@
    "tag_v": 2
   },
   {
+   "id": "045a28324652",
+   "title": "A medley of 12 holiday gifts for the music lover in your life - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGNZQmlFSWlPc01STU4zMk9OZVlHS1MtMEJCM3NZaXBpTS1oSWl5SVc2R3ZXOTB5WERRQnlobHI5bkxYQ1p2VUFFRjk3MHZIUVFFWnlybHlrdHF4UVF6NldNY3FpRnlISkVuQ1I0bUw1LXBMTHd4ZXVnZW5xYzE2ZVZVbjVidXdkblQw?oc=5",
+   "summary": "A medley of 12 holiday gifts for the music lover in your life&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-02T14:04:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "99f6604594a4",
    "title": "Apple's iPhone faces a $190 memory problem",
    "link": "https://www.thestreet.com/technology/apples-iphone-faces-a-190-memory-problem",
@@ -8198,6 +8230,20 @@
    "tag_v": 2
   },
   {
+   "id": "99bf98a8cf7a",
+   "title": "Greenland opens new international airport to lure tourists as it eyes future independence - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcHFlakl4RnlHMFp5N2pkSFQ5MGw5UER0SUp0emlQMzdkOU5ITlhQMTNUYmFJUnREQTBSZWxNRUJQZngyclFxaFlNZHV2UHNRa2M1SVFXMERCcmFxSzhNQmF6NWtza0wzUGthVEN1ZUY2TGJlcjY0M1ZlZURJT0ZWQXFWY0dSVDQydlZxMlpQTFAtUFVPSVd2LWZMVQ?oc=5",
+   "summary": "Greenland opens new international airport to lure tourists as it eyes future independence&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-02T13:57:28+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "e45eb99f617a",
    "title": "Medical Care Technologies Inc. (OTCID:MDCE) Delivers Stronger Melanoma Scan Beta Readout on Expanded Human-Submitted Dataset | MDCE Stock News",
    "link": "https://www.stocktitan.net/news/MDCE/medical-care-technologies-inc-otcid-mdce-delivers-stronger-melanoma-gack5tzzlgn2.html",
@@ -8566,6 +8612,20 @@
    "published": "2026-11-02T13:48:41+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0212a332ff6d",
+   "title": "Karl Bushby completes 28-year, 31,000-mile walk around world and returns to mother’s house - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZG8yWEUtOVpibGVzRGlfaFRDMnFuaXNka0NOck91MXhHS1huenFKSFpRM0pMZnFoZkpGZlYta0JDNW14VGJCQ0Rmc3VkZmt0bGZfYldXdU9nazZrUDN5bXpnQUg4bExFb281NHBlYWtBNjJaYmcycUUxMkpzWjVtaUFWTnVzNG45UHR2YjdVZVZwRnNnUURjM1Vqdw?oc=5",
+   "summary": "Karl Bushby completes 28-year, 31,000-mile walk around world and returns to mother’s house&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-02T13:48:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8976,68 +9036,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "8da993d15e56",
-   "title": "Genmab A Consensus Price Target Raised 32.78% to $56.10",
-   "link": "https://www.nasdaq.com/articles/genmab-consensus-price-target-raised-3278-5610",
-   "summary": "The average one-year price target for Genmab A (NASDAQGS:GMAB) (DB:GE91) has been revised to $56.10 / share. This is an increase of 32.78% from the prior estimate of $42.25 dated October 22, 2026. These figures represent aggregate analyst targets compiled from multiple institutio",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T13:35:34+00:00",
-   "tickers": [
-    "DB"
-   ],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "21458dd0ff4f",
-   "title": "Karyn Polito, Clean Harbors director, buys $39,353 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/karyn-polito-clean-harbors-director-buys-39353-in-stock-93CH-4991737",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-02T13:35:14+00:00",
-   "tickers": [
-    "CLH"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6cf500d6fa35",
-   "title": "EQB to announce fourth quarter and fiscal 2026 results and host earnings call",
-   "link": "https://www.prnewswire.com/news-releases/eqb-to-announce-fourth-quarter-and-fiscal-2026-results-and-host-earnings-call-302905721.html",
-   "summary": "TORONTO, Nov. 2, 2026 /PRNewswire/ -- EQB Inc. (TSX: EQB) will report its fourth quarter and fiscal 2026 financial results after market close on December 2, 2026, and will host an earnings conference call on December 3, 2026, at 10:30 a.m. ET. EQB's Chadwick Westlake, President and Chief...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-02T13:35:00+00:00",
-   "tickers": [
-    "WLK"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "57a2a5fdac0f",
-   "title": "Beta Technologies Beat Archer and Joby to an FAA First. Here's Why I'd Still Rather Own Archer.",
-   "link": "https://www.nasdaq.com/articles/beta-technologies-beat-archer-and-joby-faa-first-heres-why-id-still-rather-own-archer",
-   "summary": "Key PointsBeta is the first eVTOL maker in the U.S. to get an airworthiness certificate for market surveys from the FAA.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T13:35:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9140,7 +9138,6 @@
   "AVAV": "AeroVironment",
   "BRO": "Brown & Brown",
   "CB": "Chubb Limited",
-  "CLH": "Clean Harbors",
   "EG": "Everest Group",
   "GIS": "General Mills",
   "HLNE": "Hamilton Lane",
@@ -9199,7 +9196,6 @@
   "GME": "GameStop",
   "GOOG": "Alphabet",
   "INDV": "Indivior",
-  "WLK": "Westlake",
   "SNAP": "Snapchat",
   "FOX": "Fox Corp",
   "CMI": "Cummins",
