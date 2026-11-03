@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-03T01:31:44.295391+00:00",
+ "generated": "2026-11-03T01:36:36.328241+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e332361ea486",
+   "title": "Morgan Stanley issues a fresh warning about AI stocks",
+   "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-issues-warning-about-ai-stocks",
+   "summary": "Silicon Valley faces a massive spending reckoning.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-03T01:33:00+00:00",
+   "tickers": [
+    "MS"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "f5dc1c23fddb",
+   "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+   "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+   "summary": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-03T01:32:13+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "b9cde748b538",
    "title": "SRT Unleashes the Jeep® Wrangler Scrambler Concept, Reimagining an American Off-road Icon | STLA Stock News",
@@ -32,6 +62,22 @@
     "STLA"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9130c49a79d2",
+   "title": "The Brotherhood of Muscle Returns to NASCAR Cup Racing",
+   "link": "https://www.prnewswire.com/news-releases/the-brotherhood-of-muscle-returns-to-nascar-cup-racing-302926984.html",
+   "summary": "LAS VEGAS, Nov. 2, 2026 /PRNewswire/ -- It's official. Dodge doubles down on American performance, returning to NASCAR Cup Series racing. Tim Kuniskis, head of American Brands, SRT Performance and Direct Connection division, Stellantis North America, shared the news during a sneak preview...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-03T01:30:00+00:00",
+   "tickers": [
+    "STLA"
+   ],
+   "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2189,20 +2235,6 @@
    "published": "2026-11-02T23:49:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f5dc1c23fddb",
-   "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
-   "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-   "summary": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-02T23:48:28+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8894,38 +8926,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "6906e5517cda",
-   "title": "TRP Crosses Below Key Moving Average Level",
-   "link": "https://www.nasdaq.com/articles/trp-crosses-below-key-moving-average-level-0",
-   "summary": "In trading on Monday, shares of TC Energy Corp (Symbol: TRP) crossed below their 200 day moving average of $63.75, changing hands as low as $63.39 per share. TC Energy Corp shares are currently trading down about 1.2% on the day. The chart below shows the one year performance",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T21:10:18+00:00",
-   "tickers": [
-    "TRP"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e5e979c099a8",
-   "title": "Clorox Reports Q1 Fiscal Year 2027 Results, Updates Outlook",
-   "link": "https://www.prnewswire.com/news-releases/clorox-reports-q1-fiscal-year-2027-results-updates-outlook-302926739.html",
-   "summary": "OAKLAND, Calif., Nov. 2, 2026 /PRNewswire/ -- The Clorox Company (NYSE: CLX) today reported results for the first quarter of fiscal year 2027, which ended Sept. 30, 2026. \"We entered this fiscal year focused on steadily improving performance while navigating continued input cost pressures....",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-02T21:10:00+00:00",
-   "tickers": [
-    "CLX"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9051,7 +9051,6 @@
   "CUBE": "CubeSmart",
   "DCI": "Donaldson",
   "HRB": "H&R Block",
-  "TRP": "TC Energy",
   "BCS": "Barclays",
   "CE": "Celanese",
   "DOCS": "Doximity",
