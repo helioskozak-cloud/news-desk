@@ -1,8 +1,112 @@
 {
- "generated": "2026-11-03T01:46:39.922548+00:00",
+ "generated": "2026-11-03T01:51:39.959944+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1a5db7823ec8",
+   "title": "Apple's stock drops on weak margin forecast in Ternus’ first earnings report",
+   "link": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
+   "summary": "Follow Apple Q4 2026 earnings live for revenue, EPS, iPhone sales, China performance, AI updates, holiday guidance and AAPL stock reaction.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-11-03T01:50:18+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "19af9293484a",
+   "title": "LG Energy Solution Releases 2026 Third-Quarter Financial Results",
+   "link": "https://www.prnewswire.com/news-releases/lg-energy-solution-releases-2026-third-quarter-financial-results-302927133.html",
+   "summary": "LG Energy Solution posts KRW 9.6 trillion in consolidated revenue and KRW 756 billion in operating profit in Q3 2026 Secures new BTM BESS project and high-voltage mid-nickel Gen2 volumes, expanding opportunities across ESS and EV markets Targets over 70 GWh of ESS battery capacity and...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-03T01:45:00+00:00",
+   "tickers": [
+    "ESS"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "261c8b73f8b2",
+   "title": "Disney eyes thousands of layoffs, asks managers to target 20% savings, Bloomberg News reports",
+   "link": "https://www.investing.com/news/stock-market-news/disney-eyes-thousands-of-layoffs-managers-asked-to-cut-20-in-costs-bloomberg-news-reports-4993288",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-03T01:42:19+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "afd6f06ef0ee",
+   "title": "Soybeans Fall on Monday",
+   "link": "https://www.nasdaq.com/articles/soybeans-fall-monday",
+   "summary": "Soybeans were under pressure for much of Monday, with contracts down 6 ¾ to 17 ½ cents at the close. The cmdtyView national average Cash Bean price was down 12 3/4 cents at $11.51 3/4. Soymeal futures fell 50 cents to $5.40 at the close, with Soy Oil futures down...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T01:39:50+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a2c27b44f26a",
+   "title": "Corn Closes Higher on Monday",
+   "link": "https://www.nasdaq.com/articles/corn-closes-higher-monday",
+   "summary": "Corn futures firmed into the close, as contracts were up ½ to 2 cents across the board. The CmdtyView national average Cash Corn price was down 2 3/4 cents at $4.11 1/2. USDA reported a private export sale of 1.73 MMT of corn to Mexico, with 1.135 MMT for the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T01:39:50+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aac26b94908e",
+   "title": "Wheat Fading Early Gains for Mixed Midday Trade",
+   "link": "https://www.nasdaq.com/articles/wheat-fading-early-gains-mixed-midday-trade",
+   "summary": "The wheat complex is showing mixed midday trade, with contracts fading early gains. Chicago SRW contracts are up 2 cents in the front months. KC HRW futures are fractionally lower in the nearby contracts. MPLS spring wheat is within a penny on either side of unchanged. Monday morning’s Export Inspections...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T01:39:50+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "a1f9b46e461e",
+   "title": "Grab Q3 2026 slides: all segments profitable, guidance raised",
+   "link": "https://www.investing.com/news/company-news/grab-q3-2026-slides-all-segments-profitable-guidance-raised-93CH-4993352",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-03T01:39:34+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "09efb5baa86c",
    "title": "Soybeans Kicking Off November with Losses",
@@ -18,17 +122,31 @@
    "tag_v": 2
   },
   {
-   "id": "afd6f06ef0ee",
-   "title": "Soybeans Fall on Monday",
-   "link": "https://www.nasdaq.com/articles/soybeans-fall-monday",
-   "summary": "Soybeans were under pressure for much of Monday, with contracts down 6 ¾ to 17 ½ cents at the close. The cmdtyView national average Cash Bean price was down 12 3/4 cents at $11.51 3/4. Soymeal futures fell 50 cents to $5.40 at the close, with Soy Oil futures down...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "id": "1e4d70cc098d",
+   "title": "Indonesia Stock Market May Remain Rangebound On Tuesday",
+   "link": "https://www.nasdaq.com/articles/indonesia-stock-market-may-remain-rangebound-tuesday",
+   "summary": "(RTTNews) - The Indonesia stock market on Monday ended the two-day losing streak in which it had dropped more than 225 points or 4 percent. The Jakarta Composite Index now sits just beneath the 5,100-point plateau and it's expected to see little movement on Tuesday.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
-   "published": "2026-11-03T01:34:29+00:00",
+   "published": "2026-11-03T01:33:46+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bc5704fc99c8",
+   "title": "Oil rises after reported U.S. strike on Iran’s Qeshm Island",
+   "link": "https://www.investing.com/news/commodities-news/oil-rises-after-reported-us-strike-on-irans-qeshm-island-4993349",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-03T01:33:13+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -59,6 +177,52 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b953a0656739",
+   "title": "CrowdStrike CEO George Kurtz sells $52,320 in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-52320-in-company-stock-93CH-4993348",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-03T01:30:56+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fb6a3a37f58a",
+   "title": "CrowdStrike president & CEO George Kurtz sells $5.05M in CRWD stock",
+   "link": "https://www.investing.com/news/insider-trading-news/crowdstrike-president--ceo-george-kurtz-sells-505m-in-crwd-stock-93CH-4993347",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-03T01:30:54+00:00",
+   "tickers": [
+    "CRWD"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "79cb4d983770",
+   "title": "Oil rises after report of US strike on Iran’s Qeshm Island",
+   "link": "https://www.investing.com/news/commodities-news/oil-rises-after-report-of-us-strike-on-irans-qeshm-island-4993342",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-03T01:30:23+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -240,17 +404,17 @@
    "tag_v": 2
   },
   {
-   "id": "a2c27b44f26a",
-   "title": "Corn Closes Higher on Monday",
-   "link": "https://www.nasdaq.com/articles/corn-closes-higher-monday",
-   "summary": "Corn futures firmed into the close, as contracts were up ½ to 2 cents across the board. The CmdtyView national average Cash Corn price was down 2 3/4 cents at $4.11 1/2. USDA reported a private export sale of 1.73 MMT of corn to Mexico, with 1.135 MMT for the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T01:28:21+00:00",
+   "id": "9d0dca7d818e",
+   "title": "China hikes forex deposit reserve ratio to 6%",
+   "link": "https://www.investing.com/news/economy-news/china-hikes-forex-deposit-reserve-ratio-to-6-4993337",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-03T01:26:47+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -265,6 +429,20 @@
    "tickers": [],
    "type": "analyst",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d73ef48a2df6",
+   "title": "Earnings call transcript: Grab posts first all-segment profit in Q3 2026",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-grab-posts-first-allsegment-profit-in-q3-2026-93CH-4993336",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-03T01:26:39+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -321,6 +499,20 @@
    "tickers": [],
    "type": "analyst",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "aa61881302ac",
+   "title": "Rally May Stall For Hong Kong Stock Market",
+   "link": "https://www.nasdaq.com/articles/rally-may-stall-hong-kong-stock-market-2",
+   "summary": "(RTTNews) - The Hong Kong stock market has moved higher in two straight sessions, collecting more than 430 points or 1.9 percent along the way. The Hang Seng now sits just beneath the 23,400-point plateau although it may run out of steam on Tuesday.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T01:18:46+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -393,20 +585,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "aac26b94908e",
-   "title": "Wheat Fading Early Gains for Mixed Midday Trade",
-   "link": "https://www.nasdaq.com/articles/wheat-fading-early-gains-mixed-midday-trade",
-   "summary": "The wheat complex is showing mixed midday trade, with contracts fading early gains. Chicago SRW contracts are up 2 cents in the front months. KC HRW futures are fractionally lower in the nearby contracts. MPLS spring wheat is within a penny on either side of unchanged. Monday morning’s Export Inspections...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T01:14:48+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -630,6 +808,20 @@
    "tag_v": 2
   },
   {
+   "id": "b2f11dd547b9",
+   "title": "China Stock Market May Hand Back Monday's Gains",
+   "link": "https://www.nasdaq.com/articles/china-stock-market-may-hand-back-mondays-gains",
+   "summary": "(RTTNews) - The China stock market on Monday snapped the two-day losing streak in which it had dropped more than 80 points or 2.2 percent. The Shanghai Composite Index now sits just beneath the 3,640-point plateau although it may remain stuck in neutral on Tuesday.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T01:03:46+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "92daf3450c2d",
    "title": "Why is Apple stock falling afterhours today?",
    "link": "https://www.investing.com/news/stock-market-news/why-is-apple-stock-falling-afterhours-today-93CH-4993315",
@@ -658,6 +850,20 @@
     "AAPL"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4304cba77926",
+   "title": "Australian Markets Modestly Higher",
+   "link": "https://www.nasdaq.com/articles/australian-markets-modestly-higher-1",
+   "summary": "(RTTNews) - The Australian stock market is modestly higher on Tuesday, reversing the losses in the previous session, following the mixed cues from Wall Street overnight. The benchmark S&amp;P/ASX 200 index is moving well above the 8,850 level, with gains across most sectors led by mi",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T01:00:25+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1148,22 +1354,6 @@
    "tag_v": 2
   },
   {
-   "id": "261c8b73f8b2",
-   "title": "Disney eyes thousands of layoffs, managers asked to cut 20% in costs, Bloomberg News reports",
-   "link": "https://www.investing.com/news/stock-market-news/disney-eyes-thousands-of-layoffs-managers-asked-to-cut-20-in-costs-bloomberg-news-reports-4993288",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-03T00:42:35+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "34a1ee60679d",
    "title": "Broader Market Settles Lower on Weakness in Chipmakers and AI Stocks",
    "link": "https://www.nasdaq.com/articles/broader-market-settles-lower-weakness-chipmakers-and-ai-stocks",
@@ -1267,22 +1457,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1a5db7823ec8",
-   "title": "Apple's stock drops on weak margin forecast in Ternus’ first earnings report: Live updates",
-   "link": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
-   "summary": "Follow Apple Q4 2026 earnings live for revenue, EPS, iPhone sales, China performance, AI updates, holiday guidance and AAPL stock reaction.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-11-03T00:38:35+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1406,6 +1580,20 @@
    ],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "0d8357bdb41f",
+   "title": "Tech Shares May Weigh On Taiwan Stock Market",
+   "link": "https://www.nasdaq.com/articles/tech-shares-may-weigh-taiwan-stock-market-1",
+   "summary": "(RTTNews) - The Taiwan stock market has finished lower in three straight sessions, tumbling more than 2,100 points or 4.6 percent along the way. The Taiwan Stock Exchange now sits just above the 45,200-point plateau and it may take further damage on Tuesday.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T00:33:46+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8726,192 +8914,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "2e990a43e3d0",
-   "title": "Michael Koch Joins Lindsay as Senior Vice President and Chief Financial Officer | LNN Stock News",
-   "link": "https://www.stocktitan.net/news/LNN/michael-koch-joins-lindsay-as-senior-vice-president-and-chief-0s9fh0uztj7t.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a1ba2c20edc6",
-   "title": "Crescent Energy Announces Confidential Submission of Draft Registration Statement for Proposed Initial Public Offering of Crescent Royalties | CRGY Stock News",
-   "link": "https://www.stocktitan.net/news/CRGY/crescent-energy-announces-confidential-submission-of-draft-pos8klixrnnz.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "afad920c1e67",
-   "title": "Angel Oak Financial Strategies Income Term Trust Declares November 2026 Distribution | FINS Stock News",
-   "link": "https://www.stocktitan.net/news/FINS/angel-oak-financial-strategies-income-term-trust-declares-november-96qqxx7gyocz.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ea27fbb10f5f",
-   "title": "Diversified Healthcare Trust Announces Third Quarter 2026 Results | DHC Stock News",
-   "link": "https://www.stocktitan.net/news/DHC/diversified-healthcare-trust-announces-third-quarter-2026-t9pgctiqtq5i.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "194ac1e8cc52",
-   "title": "FranklinCovey Signs Agreement to Transition its China Operations to Local Ownership | FC Stock News",
-   "link": "https://www.stocktitan.net/news/FC/franklin-covey-signs-agreement-to-transition-its-china-operations-to-0xd5x58x8tn5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "450af092b237",
-   "title": "Rare Element Resources Appoints Josef Bilant as Chief Operating Officer, Produces First Total Rare Earth Oxide and Advances Bear Lodge Permitting | REEMF Stock News",
-   "link": "https://www.stocktitan.net/news/REEMF/rare-element-resources-appoints-josef-bilant-as-chief-operating-gc2hpwr6jjs8.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b118aa3d8db3",
-   "title": "First American Chief Technology Officer Jody Mulkey Named a HousingWire 2026 Tech Trendsetter | FAF Stock News",
-   "link": "https://www.stocktitan.net/news/FAF/first-american-chief-technology-officer-jody-mulkey-named-a-housing-xhp02mtjbqr2.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [
-    "FAF"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6362e0e96c4d",
-   "title": "Accelerant Announces Date of Third Quarter 2026 Financial Results | ARX Stock News",
-   "link": "https://www.stocktitan.net/news/ARX/accelerant-announces-date-of-third-quarter-2026-financial-p7qos2u7j81q.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7e6687f51f60",
-   "title": "Isabella Bank Corporation Announces Completion of Merger with Grand River Commerce, Inc. and the Results of Merger Consideration Elections | ISBA Stock News",
-   "link": "https://www.stocktitan.net/news/ISBA/isabella-bank-corporation-announces-completion-of-merger-with-grand-7tlrf3k90ajh.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ba537c408047",
-   "title": "Ryman Hospitality Properties, Inc. Reports Third Quarter 2026 Results | RHP Stock News",
-   "link": "https://www.stocktitan.net/news/RHP/ryman-hospitality-properties-inc-reports-third-quarter-2026-1kp56jpe5btz.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4d2c3f8ff8db",
-   "title": "Archrock Reports Third Quarter 2026 Results | AROC Stock News",
-   "link": "https://www.stocktitan.net/news/AROC/archrock-reports-third-quarter-2026-qot3aqpmaq1d.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7953471ebbfa",
-   "title": "Fabrinet Announces First Quarter Fiscal Year 2027 Financial Results | FN Stock News",
-   "link": "https://www.stocktitan.net/news/FN/fabrinet-announces-first-quarter-fiscal-year-2027-financial-r6i6ns0vxk75.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [
-    "FN"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9561d8673bee",
-   "title": "XAI Madison Equity Premium Income Fund Declares its Monthly Distribution of $0.060 per Share | MCN Stock News",
-   "link": "https://www.stocktitan.net/news/MCN/xai-madison-equity-premium-income-fund-declares-its-monthly-o9f3xi9b39xo.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8933,7 +8935,6 @@
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "RXRX": "Recursion Pharmaceuticals",
-  "FAF": "First American Financial",
   "BMRN": "BioMarin Pharmaceutical",
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
