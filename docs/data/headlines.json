@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T06:41:40.540068+00:00",
+ "generated": "2026-11-03T06:46:23.570747+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -143,6 +143,40 @@
    "published": "2026-11-03T06:20:53+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "3a4cc4f69078",
+   "title": "Kimberly-Clark Acquires Kenvue. Here’s What Investors Need to Know Ahead of Its Nov. 5 Earnings Report.",
+   "link": "https://www.nasdaq.com/articles/kimberly-clark-acquires-kenvue-heres-what-investors-need-know-ahead-its-nov-5-earnings",
+   "summary": "Key PointsThat's expensive, but the tie-up is complementary in several ways.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T06:20:29+00:00",
+   "tickers": [
+    "KMB",
+    "KVUE"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "478e6d8e30ad",
+   "title": "2 Unstoppable Quantum Computing Stocks to Buy Hand Over Fist Before the Next Rally",
+   "link": "https://www.nasdaq.com/articles/2-unstoppable-quantum-computing-stocks-buy-hand-over-fist-next-rally",
+   "summary": "Key PointsIonQ reported second-quarter revenue growth of 287% and completed its acquisition of SkyWater Technology, which gives it greater control over chip manufacturing.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T06:20:00+00:00",
+   "tickers": [
+    "SKYT",
+    "QUBT"
+   ],
+   "type": "ma",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -2999,6 +3033,20 @@
    "tag_v": 2
   },
   {
+   "id": "662ec79b50b1",
+   "title": "College football | Latest News & Updates - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-03T02:56:43+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "85e92d6260ae",
    "title": "Doubleview Announces $3.2 Million Flow-Through Private Placement | DBLVF Stock News",
    "link": "https://www.stocktitan.net/news/DBLVF/doubleview-announces-3-2-million-flow-through-private-mcf87pna9tu0.html",
@@ -4935,20 +4983,6 @@
    "published": "2026-11-03T00:56:54+00:00",
    "tickers": [],
    "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "662ec79b50b1",
-   "title": "College football | Latest News & Updates - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-03T00:56:31+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8841,36 +8875,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "ebbc956c2490",
-   "title": "Lattice Semiconductor Q3 Profit Rises",
-   "link": "https://www.nasdaq.com/articles/lattice-semiconductor-q3-profit-rises",
-   "summary": "(RTTNews) - Lattice Semiconductor Corporation (LSCC), a provider of low-power programmable semiconductor solutions, on Monday reported a sharp increase in third-quarter profit, driven largely by strong revenue growth and improved operating performance.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T22:14:05+00:00",
-   "tickers": [
-    "LSCC"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1e8a0e292d56",
-   "title": "Giga Metals Clarifies Time for Annual General Meeting | GIGGF Stock News",
-   "link": "https://www.stocktitan.net/news/GIGGF/giga-metals-clarifies-time-for-annual-general-m71w8j0ql51k.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-02T22:14:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8912,6 +8916,7 @@
   "TVTX": "Travere Therapeutics",
   "VOYG": "Voyager Technologies",
   "ICLR": "ICON Public Limited",
+  "SKYT": "SkyWater Technology",
   "HIMS": "Hims & Hers Health",
   "MPC": "Marathon Petroleum",
   "MRVL": "Marvell Technology",
@@ -8920,6 +8925,7 @@
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
   "POWL": "Powell Industries",
+  "QUBT": "Quantum Computing",
   "RIVN": "Rivian Automotive",
   "RSG": "Republic Services",
   "BWXT": "BWX Technologies",
@@ -8940,6 +8946,7 @@
   "LNG": "Cheniere Energy",
   "SCCO": "Southern Copper",
   "VAL": "Valaris Limited",
+  "KMB": "Kimberly-Clark",
   "LBRT": "Liberty Energy",
   "MS": "Morgan Stanley",
   "QBTS": "D-Wave Quantum",
@@ -8997,6 +9004,7 @@
   "NFLX": "Netflix",
   "SPY": "SPY ETF",
   "BULL": "Webull",
+  "KVUE": "Kenvue",
   "M": "Macy's",
   "NTAP": "NetApp",
   "ORCL": "Oracle",
