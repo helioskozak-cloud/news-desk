@@ -1,8 +1,25 @@
 {
- "generated": "2026-11-03T09:21:39.519217+00:00",
+ "generated": "2026-11-03T09:26:28.399985+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "9a9292feeb17",
+   "title": "Apple and Palantir shares slide in premarket trading following post-bell earnings",
+   "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+   "summary": "The iPhone-maker and software giant fell after earnings failed to impress investors.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-03T09:21:40+00:00",
+   "tickers": [
+    "AAPL",
+    "PLTR"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "8ce3d1858bc9",
    "title": "Stock futures are mixed as investors weigh Apple earnings; U.S. midterm elections loom: Live updates",
@@ -47,6 +64,20 @@
    "tickers": [
     "PLTR"
    ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a2c27b44f26a",
+   "title": "Corn Closes Higher on Monday",
+   "link": "https://www.nasdaq.com/articles/corn-closes-higher-monday",
+   "summary": "Corn futures firmed into the close, as contracts were up ½ to 2 cents across the board. The CmdtyView national average Cash Corn price was down 2 3/4 cents at $4.11 1/2. USDA reported a private export sale of 1.73 MMT of corn to Mexico, with 1.135 MMT for the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T09:13:33+00:00",
+   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -229,6 +260,23 @@
    "published": "2026-11-03T09:06:42+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2dfdd72413cc",
+   "title": "Consensus Price Target for BYD Company Limited - Depositary Receipt Lowered 11.33% to $12.25",
+   "link": "https://www.nasdaq.com/articles/consensus-price-target-byd-company-limited-depositary-receipt-lowered-1133-1225",
+   "summary": "The average one-year price target for BYD Company Limited - Depositary Receipt (OTCPK:BYDDY) (DB:BY6A) has been revised to $12.25 per share. This represents an 11.33% decrease from the prior estimate of $13.81 dated October 22, 2026. These figures represent aggregate analyst targ",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T09:04:53+00:00",
+   "tickers": [
+    "BYD",
+    "DB"
+   ],
+   "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -625,20 +673,6 @@
    "tickers": [
     "ICE"
    ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a2c27b44f26a",
-   "title": "Corn Closes Higher on Monday",
-   "link": "https://www.nasdaq.com/articles/corn-closes-higher-monday",
-   "summary": "Corn futures firmed into the close, as contracts were up ½ to 2 cents across the board. The CmdtyView national average Cash Corn price was down 2 3/4 cents at $4.11 1/2. USDA reported a private export sale of 1.73 MMT of corn to Mexico, with 1.135 MMT for the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T08:44:25+00:00",
-   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -3735,20 +3769,6 @@
    "tag_v": 2
   },
   {
-   "id": "662ec79b50b1",
-   "title": "College football | Latest News & Updates - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-03T04:50:44+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "63932e51e996",
    "title": "Rithm Capital - Preferred Stock Price Target Decreased by 11.83% to $34.71",
    "link": "https://www.nasdaq.com/articles/rithm-capital-preferred-stock-price-target-decreased-1183-3471",
@@ -4454,6 +4474,20 @@
    "published": "2026-11-03T03:58:23+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "662ec79b50b1",
+   "title": "College football | Latest News & Updates - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-03T03:55:26+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8815,34 +8849,6 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "77f5d2a3d076",
-   "title": "Oruka Therapeutics CEO Lawrence Klein sells $2.39M in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-ceo-lawrence-klein-sells-239m-in-stock-93CH-4993228",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-02T23:51:23+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dbf7427d8d9d",
-   "title": "Saba Capital Management acquires $136,120 of ECF common stock",
-   "link": "https://www.investing.com/news/insider-trading-news/saba-capital-management-acquires-136120-of-ecf-common-stock-93CH-4993227",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-02T23:51:12+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8928,6 +8934,7 @@
   "VNOM": "Viper Energy",
   "NVDA": "Grace Hopper",
   "ARM": "Arm Holdings",
+  "BYD": "Boyd Gaming",
   "EQNR": "Equinor ASA",
   "HAL": "Halliburton",
   "MTCH": "Match Group",
