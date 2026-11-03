@@ -1,8 +1,40 @@
 {
- "generated": "2026-11-03T23:46:40.041621+00:00",
+ "generated": "2026-11-03T23:51:39.454643+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "eb1d37f58b16",
+   "title": "PATEO fait progresser l'IA embarquée avec NVIDIA Nemotron et ByteDance Doubao sur son AI Box conçue sur NVIDIA DRIVE AGX Thor",
+   "link": "https://www.prnewswire.com/news-releases/pateo-fait-progresser-lia-embarquee-avec-nvidia-nemotron-et-bytedance-doubao-sur-son-ai-box-concue-sur-nvidia-drive-agx-thor-302928571.html",
+   "summary": "SHANGHAI,/PRNewswire/ -- PATEO fait progresser l'IA embarquée en déployant NVIDIA Nemotron et le modèle de langage ByteDance Doubao de 35 milliards de paramètres dans son AI Box, conçue sur NVIDIA DRIVE AGX Thor. La solution combine l'inférence IA locale avec la plateforme AI Agent de...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-03T23:49:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "dde03e5997ea",
+   "title": "S&P 500 futures gain slightly on AMD's strong earnings as traders await election results: Live updates",
+   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+   "summary": "Investors braced for the results of the 2026 U.S. midterm elections.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-03T23:48:04+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "29c8a1224dd3",
    "title": "Midterm elections 2026 live updates: First polls close as House, Senate control hang in balance",
@@ -31,22 +63,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dde03e5997ea",
-   "title": "S&P 500 futures gain slightly on AMD's strong earnings as traders await election results: Live updates",
-   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-   "summary": "Investors braced for the results of the 2026 U.S. midterm elections.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-03T23:32:08+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8935,20 +8951,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "9c51de28c155",
-   "title": "Priveterra Acquisition Corp. II Amends Milestone Warrants to Reduce Exercise Price",
-   "link": "https://www.nasdaq.com/articles/priveterra-acquisition-corp-ii-amends-milestone-warrants-reduce-exercise-price",
-   "summary": "Priveterra Acquisition Corp. II, filing as AEON Biopharma, Inc., entered into an Amendment to Two-Year Milestone Warrant to Purchase Common Stock or Pre-Funded Warrants on November 2, 2026. The amendment was executed with holders representing at least 67% of the shares of Common",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T20:38:24+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9062,6 +9064,7 @@
   "UBS": "UBS Group AG",
   "WY": "Weyerhaeuser",
   "GOOGL": "Google Cloud",
+  "NVDA": "Grace Hopper",
   "RACE": "Ferrari N.V.",
   "HAL": "Halliburton",
   "RHI": "Robert Half",
