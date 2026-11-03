@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T14:51:12.528384+00:00",
+ "generated": "2026-11-03T14:56:08.618210+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,40 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-03T14:50:06+00:00",
+   "published": "2026-11-03T14:51:50+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "6009f9337c5a",
+   "title": "Novo Nordisk A/S - share repurchase programme | NVO Stock News",
+   "link": "https://www.stocktitan.net/news/NVO/novo-nordisk-a-s-share-repurchase-lmhjp87mf9mr.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-03T14:50:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c5af8e66c250",
+   "title": "Waste Energy Sets November 17 Investor Call as Company Targets First Full Operational Quarter in Q1 2027 | WAST Stock News",
+   "link": "https://www.stocktitan.net/news/WAST/waste-energy-sets-november-17-investor-call-as-company-targets-first-v3vbsu05plp0.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-03T14:50:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -577,6 +607,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "a2c27b44f26a",
+   "title": "Corn Closes Higher on Monday",
+   "link": "https://www.nasdaq.com/articles/corn-closes-higher-monday",
+   "summary": "Corn futures firmed into the close, as contracts were up ½ to 2 cents across the board. The CmdtyView national average Cash Corn price was down 2 3/4 cents at $4.11 1/2. USDA reported a private export sale of 1.73 MMT of corn to Mexico, with 1.135 MMT for the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T14:28:29+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3232,20 +3276,6 @@
    "published": "2026-11-03T13:52:23+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a2c27b44f26a",
-   "title": "Corn Closes Higher on Monday",
-   "link": "https://www.nasdaq.com/articles/corn-closes-higher-monday",
-   "summary": "Corn futures firmed into the close, as contracts were up ½ to 2 cents across the board. The CmdtyView national average Cash Corn price was down 2 3/4 cents at $4.11 1/2. USDA reported a private export sale of 1.73 MMT of corn to Mexico, with 1.135 MMT for the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T13:52:05+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8938,36 +8968,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "ccc16d8a5501",
-   "title": "Invivyd Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) | IVVD Stock News",
-   "link": "https://www.stocktitan.net/news/IVVD/invivyd-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-rbm0kqfipn16.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-03T12:01:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dd354faa6584",
-   "title": "Dynatrace Trims FY26 Adj. EPS Outlook, While Trimming Revenue; Stock Tumbles 16% - Update",
-   "link": "https://www.nasdaq.com/articles/dynatrace-trims-fy26-adj-eps-outlook-while-trimming-revenue-stock-tumbles-16-update",
-   "summary": "(RTTNews) - While reporting financial results for the third quarter on Tuesday, software intelligence provider Dynatrace, Inc. (DT) provided its adjusted earnings and revenue guidance for the third quarter. The company also trimmed its adjusted earnings guidance for the full-year",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T12:00:08+00:00",
-   "tickers": [
-    "DT"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9039,6 +9039,7 @@
   "COST": "Costco Wholesale",
   "KDP": "Keurig Dr Pepper",
   "METC": "Ramaco Resources",
+  "NVO": "Novo Nordisk A/S",
   "PTCT": "PTC Therapeutics",
   "TFC": "Truist Financial",
   "TTE": "TotalEnergies SE",
