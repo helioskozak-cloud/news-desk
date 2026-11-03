@@ -1,17 +1,17 @@
 {
- "generated": "2026-11-03T19:21:25.187886+00:00",
+ "generated": "2026-11-03T19:26:37.460036+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
-   "id": "e6b71a037d13",
-   "title": "How Trump contesting midterm election results might disrupt the market",
-   "link": "https://www.cnbc.com/2026/11/03/how-trump-contesting-midterm-election-results-could-disrupt-the-market.html",
-   "summary": "One scenario may not be getting enough attention from investors: a contested election.",
+   "id": "ad7bd16c2636",
+   "title": "Options traders are betting heavily on these stocks ahead of election results",
+   "link": "https://www.cnbc.com/2026/11/03/options-traders-are-betting-heavily-on-these-stocks-ahead-of-election-results.html",
+   "summary": "Solar stocks see heavy call activity as voting gets underway",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-03T19:20:24+00:00",
+   "published": "2026-11-03T19:22:30+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
@@ -25,9 +25,23 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-03T19:18:53+00:00",
+   "published": "2026-11-03T19:22:12+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e6b71a037d13",
+   "title": "How Trump contesting midterm election results might disrupt the market",
+   "link": "https://www.cnbc.com/2026/11/03/how-trump-contesting-midterm-election-results-could-disrupt-the-market.html",
+   "summary": "One scenario may not be getting enough attention from investors: a contested election.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-03T19:20:24+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -44,83 +58,6 @@
     "CRWD"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9dd515dbfe46",
-   "title": "Stronger Indian Sugar Output Hammers Prices",
-   "link": "https://www.nasdaq.com/articles/stronger-indian-sugar-output-hammers-prices",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.67 (-3.52%) today, and December London ICE white sugar #5 (SWZ26 ) is down -8.90 (-1.75%). Sugar prices are slumping today, with NY sugar falling to a 5-week low and London sugar sliding to a 3-month low. Strong Indian sugar production...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:15:40+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "502db067a75d",
-   "title": "Stocks Supported by Strength in Chipmakers",
-   "link": "https://www.nasdaq.com/articles/stocks-supported-strength-chipmakers",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.53% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.95%. December E-mini S&amp;P futures (ESZ26 ) are up +0.52%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:15:40+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8d1fea175d5c",
-   "title": "Cocoa Prices Fall on Signs of Abundant Supplies",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-signs-abundant-supplies",
-   "summary": "December ICE NY cocoa (CCZ26 ) is down -33 (-0.61%) today, and ICE London cocoa #7 (CAZ26 ) is down -30 (-0.72%). Cocoa prices extended their 2-week slide today and fell to 5-week lows as rising ICE cocoa inventories weigh on prices. ICE cocoa inventories have steadily increased since the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:15:40+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "62ce6254ef88",
-   "title": "Corn Falling to Kick Off Tuesday",
-   "link": "https://www.nasdaq.com/articles/corn-falling-kick-tuesday",
-   "summary": "Corn prices are down 3 to 4 cents to start the Tuesday session. Futures firmed into the Monday close, as contracts were up ½ to 2 cents across the board. Open interest was down 4,756 contracts on Monday, mainly in the front three contracts. The CmdtyView national average Cash Corn...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:15:39+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5740d2935c6a",
-   "title": "Wheat Falling Back on Tuesday Morning",
-   "link": "https://www.nasdaq.com/articles/wheat-falling-back-tuesday-morning",
-   "summary": "Wheat is facing weakness in early Tuesday trade. The wheat complex was higher across most contracts on Monday. Chicago SRW contracts were 1 ¼ to 3 cents higher at the close. Open interest suggested a rotation of ownership, up 572 contracts. KC HRW futures saw fractional to 1 ¾ cent...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:15:39+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -221,66 +158,6 @@
    "published": "2026-11-03T19:12:46+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8c136b017211",
-   "title": "Cotton Falling Lower Early on Tuesday",
-   "link": "https://www.nasdaq.com/articles/cotton-falling-lower-early-tuesday",
-   "summary": "Cotton price action is down 50 to 54 points early on election day. Futures climbed back closer to unchanged at the close, but were still down 10 to 17 points at the close. Crude oil fell $7.86 per barrel on the session, with the US dollar index $0.075 lower. USDA’s...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:10:25+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "375b4f292059",
-   "title": "Brazilian Real Weakness Weighs on Coffee Prices",
-   "link": "https://www.nasdaq.com/articles/brazilian-real-weakness-weighs-coffee-prices",
-   "summary": "December arabica coffee (KCZ26 ) is down -8.45 (-2.89) today, and January ICE robusta coffee (RMF27 ) is down -30 (-0.93%). Coffee prices are sliding today amid weakness in the Brazilian real. The real (^USDBRL ) is down more than -1% today and is just above last Monday’s 10.25-month low...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:10:25+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2f6c98633ed4",
-   "title": "Cattle Diverge on Monday, with Feeders Finding Strength and Live Cattle Weaker",
-   "link": "https://www.nasdaq.com/articles/cattle-diverge-monday-feeders-finding-strength-and-live-cattle-weaker",
-   "summary": "Live cattle futures fell anywhere from a nickel to $1.25 across most contracts on Monday. Open interest suggested some long’s exiting, down 2,039 contracts, heavily in the December (-3,882). Cash trade was reported by USDA at $224-225 live last week, with a few leaking towards $220. Feeder cattle futures were...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:10:24+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "be266539d19a",
-   "title": "Cattle Close Mixed on Monday as Feeders Find Strength",
-   "link": "https://www.nasdaq.com/articles/cattle-close-mixed-monday-feeders-find-strength",
-   "summary": "Live cattle futures fell anywhere from a nickel to $1.25 across most contracts on Monday. Cash trade was reported by USDA at $224-225 live last week, with a few leaking towards $220. Feeder cattle futures were up 65 cents to $1.42 at the close. The CME Feeder Cattle Index was...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:10:24+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -487,6 +364,22 @@
    "tag_v": 2
   },
   {
+   "id": "9dd515dbfe46",
+   "title": "Stronger Indian Sugar Output Hammers Prices",
+   "link": "https://www.nasdaq.com/articles/stronger-indian-sugar-output-hammers-prices",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.67 (-3.52%) today, and December London ICE white sugar #5 (SWZ26 ) is down -8.90 (-1.75%). Sugar prices are slumping today, with NY sugar falling to a 5-week low and London sugar sliding to a 3-month low. Strong Indian sugar production...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T18:59:01+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "626ee8728d07",
    "title": "European wheat futures near multi-month lows on peace talks",
    "link": "https://www.investing.com/news/commodities-news/european-wheat-futures-near-multimonth-lows-on-peace-talks-93CH-4996233",
@@ -678,6 +571,111 @@
    "published": "2026-11-03T18:48:02+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "502db067a75d",
+   "title": "Stocks Supported by Strength in Chipmakers",
+   "link": "https://www.nasdaq.com/articles/stocks-supported-strength-chipmakers",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.53% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.95%. December E-mini S&amp;P futures (ESZ26 ) are up +0.52%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T18:46:17+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8d1fea175d5c",
+   "title": "Cocoa Prices Fall on Signs of Abundant Supplies",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-signs-abundant-supplies",
+   "summary": "December ICE NY cocoa (CCZ26 ) is down -33 (-0.61%) today, and ICE London cocoa #7 (CAZ26 ) is down -30 (-0.72%). Cocoa prices extended their 2-week slide today and fell to 5-week lows as rising ICE cocoa inventories weigh on prices. ICE cocoa inventories have steadily increased since the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T18:46:17+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "62ce6254ef88",
+   "title": "Corn Falling to Kick Off Tuesday",
+   "link": "https://www.nasdaq.com/articles/corn-falling-kick-tuesday",
+   "summary": "Corn prices are down 3 to 4 cents to start the Tuesday session. Futures firmed into the Monday close, as contracts were up ½ to 2 cents across the board. Open interest was down 4,756 contracts on Monday, mainly in the front three contracts. The CmdtyView national average Cash Corn...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T18:46:17+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8c136b017211",
+   "title": "Cotton Falling Lower Early on Tuesday",
+   "link": "https://www.nasdaq.com/articles/cotton-falling-lower-early-tuesday",
+   "summary": "Cotton price action is down 50 to 54 points early on election day. Futures climbed back closer to unchanged at the close, but were still down 10 to 17 points at the close. Crude oil fell $7.86 per barrel on the session, with the US dollar index $0.075 lower. USDA’s...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T18:46:17+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "5740d2935c6a",
+   "title": "Wheat Falling Back on Tuesday Morning",
+   "link": "https://www.nasdaq.com/articles/wheat-falling-back-tuesday-morning",
+   "summary": "Wheat is facing weakness in early Tuesday trade. The wheat complex was higher across most contracts on Monday. Chicago SRW contracts were 1 ¼ to 3 cents higher at the close. Open interest suggested a rotation of ownership, up 572 contracts. KC HRW futures saw fractional to 1 ¾ cent...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T18:46:16+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2f6c98633ed4",
+   "title": "Cattle Diverge on Monday, with Feeders Finding Strength and Live Cattle Weaker",
+   "link": "https://www.nasdaq.com/articles/cattle-diverge-monday-feeders-finding-strength-and-live-cattle-weaker",
+   "summary": "Live cattle futures fell anywhere from a nickel to $1.25 across most contracts on Monday. Open interest suggested some long’s exiting, down 2,039 contracts, heavily in the December (-3,882). Cash trade was reported by USDA at $224-225 live last week, with a few leaking towards $220. Feeder cattle futures were...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T18:46:16+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "be266539d19a",
+   "title": "Cattle Close Mixed on Monday as Feeders Find Strength",
+   "link": "https://www.nasdaq.com/articles/cattle-close-mixed-monday-feeders-find-strength",
+   "summary": "Live cattle futures fell anywhere from a nickel to $1.25 across most contracts on Monday. Cash trade was reported by USDA at $224-225 live last week, with a few leaking towards $220. Feeder cattle futures were up 65 cents to $1.42 at the close. The CME Feeder Cattle Index was...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T18:46:16+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -889,6 +887,22 @@
    "published": "2026-11-03T18:40:08+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "375b4f292059",
+   "title": "Brazilian Real Weakness Weighs on Coffee Prices",
+   "link": "https://www.nasdaq.com/articles/brazilian-real-weakness-weighs-coffee-prices",
+   "summary": "December arabica coffee (KCZ26 ) is down -8.45 (-2.89) today, and January ICE robusta coffee (RMF27 ) is down -30 (-0.93%). Coffee prices are sliding today amid weakness in the Brazilian real. The real (^USDBRL ) is down more than -1% today and is just above last Monday’s 10.25-month low...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T18:39:56+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3429,6 +3443,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "4d1e807b7499",
+   "title": "Voting begins on last day to cast ballots in US midterms with observers keeping close watch at polls - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0VlcDd4VEtEWWtPYUNnck5rekRyWlBCQmc5ZW9odGVWVDlLdDN3NlZzZHRuMXk5TDZ5YjY4QmpKc3RZc2RaTkVGc3hEbEIxb2c4aFRhNGhPM0gtSlRsaDM1Y2V3RWYwbXBVTjVBYlU5TnhLU0hiLVpfTldKbXg3UDZxbzEwMEppSEN0YzM1SDlrb0xETjMzWEtqSnNlMUhUSFE?oc=5",
+   "summary": "Voting begins on last day to cast ballots in US midterms with observers keeping close watch at polls&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-03T17:06:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -6065,20 +6093,6 @@
    "published": "2026-11-03T15:47:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4d1e807b7499",
-   "title": "Voting begins on last day to cast ballots in US midterms with observers keeping close watch at polls - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0VlcDd4VEtEWWtPYUNnck5rekRyWlBCQmc5ZW9odGVWVDlLdDN3NlZzZHRuMXk5TDZ5YjY4QmpKc3RZc2RaTkVGc3hEbEIxb2c4aFRhNGhPM0gtSlRsaDM1Y2V3RWYwbXBVTjVBYlU5TnhLU0hiLVpfTldKbXg3UDZxbzEwMEppSEN0YzM1SDlrb0xETjMzWEtqSnNlMUhUSFE?oc=5",
-   "summary": "Voting begins on last day to cast ballots in US midterms with observers keeping close watch at polls&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-03T15:46:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -9054,20 +9068,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "441caa06f92b",
-   "title": "The Marzetti Company Reports Decline In Q1 Bottom Line",
-   "link": "https://www.nasdaq.com/articles/marzetti-company-reports-decline-q1-bottom-line",
-   "summary": "(RTTNews) - The Marzetti Company (MZTI) revealed earnings for first quarter that Drops, from last year",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T14:23:11+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
    "tag_v": 2
   }
  ],
