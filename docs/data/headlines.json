@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-04T08:01:43.467821+00:00",
+ "generated": "2026-11-04T08:06:34.801155+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "dde03e5997ea",
+   "title": "Stock futures mixed as Democrats win big in midterms, traders bet they will slow data center buildout: Live updates",
+   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+   "summary": "Investors braced for the results of the 2026 U.S. midterm elections.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-04T08:01:37+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "8961ec3a09f1",
+   "title": "Argo Graphene Reports Significant Independent Test Results, Advancing Commercialization Strategy | ARLSF Stock News",
+   "link": "https://www.stocktitan.net/news/ARLSF/argo-graphene-reports-significant-independent-test-results-advancing-cux42xi0e3hl.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-04T08:01:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "d1d6f53068f9",
    "title": "Nokia Global Network Traffic Report forecasts AI will drive nearly half of global traffic in 2035 | NOK Stock News",
@@ -14,6 +42,22 @@
    "published": "2026-11-04T08:00:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e614ab862602",
+   "title": "FlowForma brings process automation to Claude, ChatGPT and Microsoft Copilot, turning conversations into governed processes",
+   "link": "https://www.prnewswire.com/news-releases/flowforma-brings-process-automation-to-claude-chatgpt-and-microsoft-copilot-turning-conversations-into-governed-processes-302928168.html",
+   "summary": "AI thinks. FlowForma executes. Now available for Claude, ChatGPT and Microsoft Copilot. Teams can map, deploy and optimize governed business processes simply by describing them DUBLIN, Nov. 4, 2026 /PRNewswire/ -- FlowForma, the AI and process automation company, today announced new...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-04T08:00:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -173,20 +217,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "dde03e5997ea",
-   "title": "Stock futures mixed as Democrats win big in midterms, traders bet they will slow data center buildout: Live updates",
-   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-   "summary": "Investors braced for the results of the 2026 U.S. midterm elections.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-04T07:46:05+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8813,38 +8843,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "a4d4c4209c36",
-   "title": "T-Mobile US chief accounting officer Drobac sells $17,422 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/tmobile-us-chief-accounting-officer-drobac-sells-17422-in-shares-93CH-4996913",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-03T23:15:52+00:00",
-   "tickers": [
-    "TMUS"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ee8a80bc0656",
-   "title": "Earnings call transcript: Duolingo Q3 2026 revenue beats as users accelerate",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-duolingo-q3-2026-revenue-beats-as-users-accelerate-93CH-4996909",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-03T23:15:16+00:00",
-   "tickers": [
-    "DUOL"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8955,7 +8953,6 @@
   "MTCH": "Match Group",
   "NVS": "Novartis AG",
   "SHAK": "Shake Shack",
-  "TMUS": "T-Mobile US",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
@@ -8969,6 +8966,7 @@
   "SSRM": "SSR Mining",
   "TECH": "Bio-Techne",
   "TRU": "TransUnion",
+  "MSFT": "Office 365",
   "DE": "John Deere",
   "BC": "Brunswick",
   "CME": "CME Group",
