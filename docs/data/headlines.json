@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T14:21:05.353114+00:00",
+ "generated": "2026-11-04T14:26:38.309223+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,9 +11,25 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-04T14:18:42+00:00",
+   "published": "2026-11-04T14:25:02+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "903244061d1c",
+   "title": "Planet Releases First Light from Pelican-12 | PL Stock News",
+   "link": "https://www.stocktitan.net/news/PL/planet-releases-first-light-from-pelican-zfbu3m2l0bc0.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-04T14:24:00+00:00",
+   "tickers": [
+    "PL"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -25,11 +41,67 @@
    "source": "CNBC Earnings",
    "category": "earnings",
    "domain": "cnbc.com",
-   "published": "2026-11-04T14:17:01+00:00",
+   "published": "2026-11-04T14:23:01+00:00",
    "tickers": [
     "AMD"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9a23a7665717",
+   "title": "SKYX Announces That, Based on Growing Winter Demand, It Will Launch 4 New Plug & Play Turbo Heater Fan Models in 5 Different Colors | SKYX Stock News",
+   "link": "https://www.stocktitan.net/news/SKYX/skyx-announces-that-based-on-growing-winter-demand-it-will-launch-4-sjdsykjb6144.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-04T14:21:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fc7d78aa241a",
+   "title": "Xenetic Biosciences Announces Oral Presentation at 68th ASH Annual Meeting Highlighting DNase I as a Potential Strategy to Overcome CAR T-Cell Resistance | XBIO Stock News",
+   "link": "https://www.stocktitan.net/news/XBIO/xenetic-biosciences-announces-oral-presentation-at-68th-ash-annual-atd1t5ukhz6o.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-04T14:20:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e808ccf37199",
+   "title": "MEGL Secures US$100 Million Dedicated Credit Facility to Accelerate Cross-Border Timber Trading | MEGL Stock News",
+   "link": "https://www.stocktitan.net/news/MEGL/megl-secures-us-100-million-dedicated-credit-facility-to-accelerate-4r7asya7wh20.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-04T14:20:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "fc81ea5f7879",
+   "title": "Clarivate Commences Offers to Purchase for Cash Certain of its Outstanding Debt Securities | CLVT Stock News",
+   "link": "https://www.stocktitan.net/news/CLVT/clarivate-commences-offers-to-purchase-for-cash-certain-of-its-hfnueq6qdl58.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-04T14:19:00+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -314,6 +386,50 @@
    "tag_v": 2
   },
   {
+   "id": "8237102ead50",
+   "title": "FTC Solar, Inc. Reports Third Quarter 2026 Revenue of $32.8 million and Backlog of $640 million",
+   "link": "https://www.nasdaq.com/articles/ftc-solar-inc-reports-third-quarter-2026-revenue-328-million-and-backlog-640-million",
+   "summary": "FTC Solar, Inc. reported its financial results for the third quarter ended September 30, 2026, with total revenue of $32.8 million, representing an increase of 25.4% compared to the prior quarter. The company achieved a GAAP gross profit of $1.9 million, or 5.8% of revenue, and a",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T14:12:54+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7ddd7162eaab",
+   "title": "CVS Health Corporation Announces Intent to Separate into Two Independent, Publicly Traded Companies",
+   "link": "https://www.nasdaq.com/articles/cvs-health-corporation-announces-intent-separate-two-independent-publicly-traded-companies",
+   "summary": "CVS Health Corporation announced its intention to separate into two independent, publicly traded companies in a transaction that is intended to be tax-free to CVS Health and its shareholders for U.S. federal income tax purposes. The decision follows a comprehensive strategic revi",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T14:12:54+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "97d933174a7a",
+   "title": "Vishay Precision Group, Inc. Reports Third Quarter Fiscal 2026 Results With Orders Exceeding $100 million",
+   "link": "https://www.nasdaq.com/articles/vishay-precision-group-inc-reports-third-quarter-fiscal-2026-results-orders-exceeding-100",
+   "summary": "Vishay Precision Group, Inc. reported its results for the fiscal 2026 third quarter ended October 3, 2026. The company announced GAAP net revenues of $85.1 million and adjusted net revenues of $87.4 million. GAAP net revenues were reduced by $2.3 million of tariff refunds passed",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T14:12:53+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "018776e134af",
    "title": "Piper Sandler cuts Booking Holdings stock price target on cautious outlook",
    "link": "https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-booking-holdings-stock-price-target-on-cautious-outlook-93CH-4999770",
@@ -543,6 +659,69 @@
    "domain": "investing.com",
    "published": "2026-11-04T14:05:51+00:00",
    "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "93f374656084",
+   "title": "Stocks Finished Mostly Higher on Chipmaker Strength",
+   "link": "https://www.nasdaq.com/articles/stocks-finished-mostly-higher-chipmaker-strength",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +0.36% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.38%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.68%. December E-mini S&amp;P futures (ESZ26 ) rose +0.36%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T14:05:21+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6d8359bad1f5",
+   "title": "Evaxion A/S Raises $775,068 in Net Proceeds via ATM Offering of 201,198 ADSs",
+   "link": "https://www.nasdaq.com/articles/evaxion-s-raises-775068-net-proceeds-atm-offering-201198-adss",
+   "summary": "Evaxion A/S announced that during the period between October 19, 2026 and October 21, 2026, the Company sold an aggregate of 201,198 American Depositary Shares (the &ldquo;ADSs&rdquo;), representing the Company&rsquo;s ordinary shares, DKK 0.25 nominal value with each ADS represe",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T14:05:12+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "2dea3488fda6",
+   "title": "Zimmer Biomet Holdings, Inc. Reports Third Quarter 2026 Financial Results and Updates Full-Year Guidance",
+   "link": "https://www.nasdaq.com/articles/zimmer-biomet-holdings-inc-reports-third-quarter-2026-financial-results-and-updates-full",
+   "summary": "Zimmer Biomet Holdings, Inc. reported its financial results for the third quarter ended September 30, 2026. The company reported third quarter net sales of $2.063 billion, representing an increase of 3.1% over the prior year period and an increase of 3.7% on a constant currency b",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T14:05:12+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8deae2e4dab3",
+   "title": "Trex Company, Inc. Reports Third Quarter 2026 Net Sales of $360 Million",
+   "link": "https://www.nasdaq.com/articles/trex-company-inc-reports-third-quarter-2026-net-sales-360-million",
+   "summary": "Trex Company, Inc. reported its financial results for the third quarter of 2026, with net sales increasing 26.0% to $360 million from $285 million in the prior-year period. The company attributed the growth to broad-based volume growth led by the Trex Enhance&reg; product line, s",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T14:05:03+00:00",
+   "tickers": [
+    "TREX"
+   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -1294,23 +1473,6 @@
    "domain": "stocktitan.net",
    "published": "2026-11-04T13:57:00+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "93f374656084",
-   "title": "Stocks Finished Mostly Higher on Chipmaker Strength",
-   "link": "https://www.nasdaq.com/articles/stocks-finished-mostly-higher-chipmaker-strength",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +0.36% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.38%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.68%. December E-mini S&amp;P futures (ESZ26 ) rose +0.36%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T13:56:00+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -5302,6 +5464,20 @@
    "tag_v": 2
   },
   {
+   "id": "86181ab9987c",
+   "title": "US futures sharply higher after Democratic route in midterm elections - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEtETVdDVnpDVFhqVmpJNTdBUURHcFg0YkhsOVdwcFo2YzNqSTl5Q18zUXVZV1Vrck8tLTFtcEYtOEFOX2hMMUo1UXJyMDRPQWp2Qld4Yk9iSWszUEtuMkc0dUo4d003eTN5V0VnRmEwVG9VUjBiMGVxVlc3SWg2TC1YdGFmb0FMMlFuVlVJOE1BalE?oc=5",
+   "summary": "US futures sharply higher after Democratic route in midterm elections&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-04T12:56:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "31770eba762b",
    "title": "Wall Street Targets To Open Significantly Up",
    "link": "https://www.nasdaq.com/articles/wall-street-targets-open-significantly",
@@ -5590,6 +5766,20 @@
    "published": "2026-11-04T12:50:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9ebde55cc956",
+   "title": "Russian strikes disrupt water and power in Kyiv as rescuers still search for survivors in the south - AP News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamVyNmRLVmZvMjhIVURTTEVhWlVBUGJfT216ZUlQU24zT1cyMWwzRXpqR0Y0OWRtdmYzNHB0N1NkZmVOTEV3TUgtUEdUS2FsZVVSYkxON2lRa1hwcTYwTV9JZXVJQlVFMUpqRVk2S1F4a0FLbjBWTWo4LVhWMy1IMTJFT2Q3NmRwZFBqR3ZvV3lsN2VjZlVyeE5OY01Na0to?oc=5",
+   "summary": "Russian strikes disrupt water and power in Kyiv as rescuers still search for survivors in the south&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-04T12:50:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8778,202 +8968,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "73639270315c",
-   "title": "Treasury's Refunding Details Are Up Next as Five Large Companies Report Higher Revenue | MA Stock News",
-   "link": "https://www.stocktitan.net/news/MA/treasury-s-refunding-details-are-up-next-as-five-large-companies-aioensep4fbv.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-04T12:00:00+00:00",
-   "tickers": [
-    "MA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ac8c9a2a78af",
-   "title": "Genprex Announces New Research Identifying TROP2 as a Potential Predictive Biomarker to Reqorsa® Gene Therapy in Lung Cancer | GNPX Stock News",
-   "link": "https://www.stocktitan.net/news/GNPX/genprex-announces-new-research-identifying-trop2-as-a-potential-zc9hvw7468d8.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-04T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "77b51332adc6",
-   "title": "Kraft Heinz Reports Third Quarter 2026 Results; Updates 2026 Full Year Outlook | KHC Stock News",
-   "link": "https://www.stocktitan.net/news/KHC/kraft-heinz-reports-third-quarter-2026-results-updates-2026-full-jx7nawh61ixp.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-04T12:00:00+00:00",
-   "tickers": [
-    "KHC"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c6855cd62df0",
-   "title": "CSD's Underlying Holdings Imply 20% Gain Potential",
-   "link": "https://www.nasdaq.com/articles/csds-underlying-holdings-imply-20-gain-potential",
-   "summary": "Looking at the underlying holdings of the ETFs in our coverage universe at ETF Channel, we have compared the trading price of each holding against the average analyst 12-month forward target price, and computed the weighted average implied analyst target price for the ETF itself.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T11:59:11+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "e99436d5ce47",
-   "title": "Upwork Reaches Analyst Target Price",
-   "link": "https://www.nasdaq.com/articles/upwork-reaches-analyst-target-price",
-   "summary": "In recent trading, shares of Upwork Inc (Symbol: UPWK) have crossed above the average analyst 12-month target price of $9.88, changing hands for $9.93/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: downgrade on valuation,",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T11:59:09+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "72f9830d1169",
-   "title": "XHR Crosses Above Average Analyst Target",
-   "link": "https://www.nasdaq.com/articles/xhr-crosses-above-average-analyst-target",
-   "summary": "In recent trading, shares of Xenia Hotels &amp; Resorts Inc (Symbol: XHR) have crossed above the average analyst 12-month target price of $21.10, changing hands for $21.41/share. When a stock reaches the target an analyst has set, the analyst logically has two ways to react: dow",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T11:59:06+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1e0d24c99d8d",
-   "title": "B.Riley cuts Intuitive Machines stock price target on valuation",
-   "link": "https://www.investing.com/news/analyst-ratings/briley-cuts-intuitive-machines-stock-price-target-on-valuation-93CH-4998712",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-04T11:59:01+00:00",
-   "tickers": [
-    "LUNR"
-   ],
-   "type": "analyst",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "7e25399aa079",
-   "title": "Q32 Bio Reports Third Quarter 2026 Financial Results and Provides Corporate Update",
-   "link": "https://www.prnewswire.com/news-releases/q32-bio-reports-third-quarter-2026-financial-results-and-provides-corporate-update-302928475.html",
-   "summary": "-- Presented additional 36-week results and 16-week off-drug findings from Part B of the SIGNAL-AA clinical trial of bempikibart in late-breaking oral and poster presentations at EADV Congress 2026; data supports further development of bempikibart as a chronic treatment in AA -- -- Robust...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T11:59:00+00:00",
-   "tickers": [
-    "AA"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "16959d92276e",
-   "title": "Viatris Announces Quarterly Dividend",
-   "link": "https://www.prnewswire.com/news-releases/viatris-announces-quarterly-dividend-302928508.html",
-   "summary": "PITTSBURGH, Nov. 4, 2026 /PRNewswire/ -- Viatris Inc. (Nasdaq: VTRS), a global healthcare company, today announced that on November 2, 2026, its Board of Directors declared a quarterly dividend of $0.12 per share for each issued and outstanding share of the Company's common stock. The...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T11:59:00+00:00",
-   "tickers": [
-    "VTRS"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9ca5f5b88590",
-   "title": "Q32 Bio Reports Third Quarter 2026 Financial Results and Provides Corporate Update | QTTB Stock News",
-   "link": "https://www.stocktitan.net/news/QTTB/q32-bio-reports-third-quarter-2026-financial-results-and-provides-lmt8jdjnur4t.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-04T11:59:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1698c5e3ba64",
-   "title": "Viatris Announces Quarterly Dividend | VTRS Stock News",
-   "link": "https://www.stocktitan.net/news/VTRS/viatris-announces-quarterly-nm5oix1qbsmw.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-04T11:59:00+00:00",
-   "tickers": [
-    "VTRS"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6bb65063e104",
-   "title": "Changshin and Palantir Partner to Connect Footwear Development and Factory Operations with Data and AI | PLTR Stock News",
-   "link": "https://www.stocktitan.net/news/PLTR/changshin-and-palantir-partner-to-connect-footwear-development-and-3ha4y5m5fnuh.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-04T11:59:00+00:00",
-   "tickers": [
-    "PLTR"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4195c03ada2d",
-   "title": "Truist reiterates Buy on Community Healthcare Trust stock after earnings beat",
-   "link": "https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-community-healthcare-trust-stock-after-earnings-beat-93CH-4998711",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-04T11:58:59+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9012,6 +9006,7 @@
   "SEDG": "SolarEdge Technologies",
   "SH": "ProShares Short S&P500",
   "SWK": "Stanley Black & Decker",
+  "ZBH": "Zimmer Biomet Holdings",
   "COF": "Capital One Financial",
   "FLUT": "Flutter Entertainment",
   "NTLA": "Intellia Therapeutics",
@@ -9027,7 +9022,6 @@
   "VKTX": "Viking Therapeutics",
   "ARRY": "Array Technologies",
   "JLL": "Jones Lang LaSalle",
-  "LUNR": "Intuitive Machines",
   "NYT": "The New York Times",
   "OPCH": "Option Care Health",
   "TYL": "Tyler Technologies",
@@ -9050,6 +9044,7 @@
   "KHC": "The Kraft Heinz",
   "LDOS": "Leidos Holdings",
   "LNG": "Cheniere Energy",
+  "PL": "Planet Labs PBC",
   "PYPL": "PayPal Holdings",
   "TEL": "TE Connectivity",
   "VRT": "Vertiv Holdings",
@@ -9118,7 +9113,6 @@
   "PODD": "Insulet",
   "ROL": "Rollins",
   "TRMB": "Trimble",
-  "VTRS": "Viatris",
   "W": "Wayfair",
   "WMT": "Walmart",
   "SPY": "SPY ETF",
@@ -9129,7 +9123,6 @@
   "INCY": "Incyte",
   "INSM": "Insmed",
   "ORCL": "Oracle",
-  "AA": "Alcoa",
   "AMGN": "Amgen",
   "CX": "CEMEX",
   "FLR": "Fluor",
@@ -9138,6 +9131,7 @@
   "ONDS": "Ondas",
   "IONQ": "IonQ",
   "OKTA": "Okta",
-  "ROKU": "Roku"
+  "ROKU": "Roku",
+  "TREX": "Trex"
  }
 }
