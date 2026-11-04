@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T02:31:43.079702+00:00",
+ "generated": "2026-11-04T02:36:37.957282+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,8 +11,24 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-04T02:27:43+00:00",
+   "published": "2026-11-04T02:33:02+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9c420003aa6f",
+   "title": "Nike vs. Procter & Gamble: Which Consumer Stock Is a Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/nike-vs-procter-gamble-which-consumer-stock-better-buy-2027",
+   "summary": "Key PointsNike maintains a powerful brand identity through high-performance footwear and a direct-to-consumer digital ecosystem.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T02:20:01+00:00",
+   "tickers": [
+    "PG"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -2175,20 +2191,6 @@
    "tag_v": 2
   },
   {
-   "id": "cf8c107afba5",
-   "title": "Polls are closing in midterm elections as voters pass judgment on Trump’s second term - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
-   "summary": "Polls are closing in midterm elections as voters pass judgment on Trump’s second term&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-04T00:16:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "e4c80e8b879b",
    "title": "Block lifts profit outlook on Cash App strength, reaches preliminary DOJ settlement",
    "link": "https://www.investing.com/news/economy-news/block-lifts-profit-outlook-on-cash-app-strength-reaches-preliminary-doj-settlement-4996965",
@@ -2734,6 +2736,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "cf8c107afba5",
+   "title": "Polls begin to close in midterm elections as voters pass judgment on Trump’s second term - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
+   "summary": "Polls begin to close in midterm elections as voters pass judgment on Trump’s second term&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-03T23:45:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8917,22 +8933,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "5839eda4e8e6",
-   "title": "C.H. Robinson to Participate in Upcoming Investor Conferences | CHRW Stock News",
-   "link": "https://www.stocktitan.net/news/CHRW/c-h-robinson-to-participate-in-upcoming-investor-vitc0y49nvgo.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-03T21:15:00+00:00",
-   "tickers": [
-    "CHRW"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8955,7 +8955,6 @@
   "BFH": "Bread Financial Holdings",
   "FAF": "First American Financial",
   "ARR": "ARMOUR Residential REIT",
-  "CHRW": "C.H. Robinson Worldwide",
   "JKHY": "Jack Henry & Associates",
   "AMD": "Advanced Micro Devices",
   "VZ": "Verizon Communications",
@@ -8970,6 +8969,7 @@
   "JAZZ": "Jazz Pharmaceuticals",
   "MOD": "Modine Manufacturing",
   "PCOR": "Procore Technologies",
+  "PG": "The Procter & Gamble",
   "PRU": "Prudential Financial",
   "SMCI": "Super Micro Computer",
   "TVTX": "Travere Therapeutics",
