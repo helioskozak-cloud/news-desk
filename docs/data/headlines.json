@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T02:26:38.814176+00:00",
+ "generated": "2026-11-04T02:31:43.079702+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,7 +11,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-04T02:20:40+00:00",
+   "published": "2026-11-04T02:27:43+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -90,69 +90,6 @@
    "tag_v": 2
   },
   {
-   "id": "93f374656084",
-   "title": "Stocks Finished Mostly Higher on Chipmaker Strength",
-   "link": "https://www.nasdaq.com/articles/stocks-finished-mostly-higher-chipmaker-strength",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +0.36% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.38%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.68%. December E-mini S&amp;P futures (ESZ26 ) rose +0.36%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T02:13:02+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9eb555eb086a",
-   "title": "Corn Falls Lower on Tuesday with Traders Taking Risk Off",
-   "link": "https://www.nasdaq.com/articles/corn-falls-lower-tuesday-traders-taking-risk",
-   "summary": "Corn futures faded another round of export business, with traders taking a risk off approach across the commodities. Contracts were down 3 ¼ to 5 ¾ cents across the board. The CmdtyView national average Cash Corn price was down 5 1/2 cents at $4.06 3/4. USDA reported a private export...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T02:13:02+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "6a2239718adf",
-   "title": "Abundant Cocoa Supplies Weigh on Prices",
-   "link": "https://www.nasdaq.com/articles/abundant-cocoa-supplies-weigh-prices",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed down -21 (-0.39%) on Tuesday, and ICE London cocoa #7 (CAZ26 ) closed down -26 (-0.63%). Cocoa prices extended their 2-week slide on Tuesday and posted 5-week lows as rising ICE cocoa inventories weigh on prices. ICE cocoa inventories have steadily increased since...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T02:13:01+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "bdeca4077696",
-   "title": "Coffee Prices Retreat on Brazilian Real Strength",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-retreat-brazilian-real-strength",
-   "summary": "December arabica coffee (KCZ26 ) closed down -8.15 (-2.79) on Tuesday, and January ICE robusta coffee (RMF27 ) closed down -31 (-0.96%). Coffee prices retreated on Tuesday amid weakness in the Brazilian real. The real (^USDBRL ) fell -1% on Tuesday and is just above last Monday’s 10.25-month low against...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T02:13:01+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "87a8dda6eac1",
    "title": "Sugar Prices Tumble as India Ramps Up Sugar Production",
    "link": "https://www.nasdaq.com/articles/sugar-prices-tumble-india-ramps-sugar-production",
@@ -225,6 +162,23 @@
     "PCOR"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "93f374656084",
+   "title": "Stocks Finished Mostly Higher on Chipmaker Strength",
+   "link": "https://www.nasdaq.com/articles/stocks-finished-mostly-higher-chipmaker-strength",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +0.36% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.38%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.68%. December E-mini S&amp;P futures (ESZ26 ) rose +0.36%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T02:07:36+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -469,6 +423,38 @@
    "tag_v": 2
   },
   {
+   "id": "6a2239718adf",
+   "title": "Abundant Cocoa Supplies Weigh on Prices",
+   "link": "https://www.nasdaq.com/articles/abundant-cocoa-supplies-weigh-prices",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed down -21 (-0.39%) on Tuesday, and ICE London cocoa #7 (CAZ26 ) closed down -26 (-0.63%). Cocoa prices extended their 2-week slide on Tuesday and posted 5-week lows as rising ICE cocoa inventories weigh on prices. ICE cocoa inventories have steadily increased since...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T01:49:26+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bdeca4077696",
+   "title": "Coffee Prices Retreat on Brazilian Real Strength",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-retreat-brazilian-real-strength",
+   "summary": "December arabica coffee (KCZ26 ) closed down -8.15 (-2.79) on Tuesday, and January ICE robusta coffee (RMF27 ) closed down -31 (-0.96%). Coffee prices retreated on Tuesday amid weakness in the Brazilian real. The real (^USDBRL ) fell -1% on Tuesday and is just above last Monday’s 10.25-month low against...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T01:49:26+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "cafa5d279d66",
    "title": "THE KOREA INDUSTRY DAILY: ROBOTWORLD 2026 to Spotlight Physical AI and AI-Driven Manufacturing With 402 Exhibitors From 17 Countries",
    "link": "https://www.prnewswire.com/news-releases/the-korea-industry-daily-robotworld-2026-to-spotlight-physical-ai-and-ai-driven-manufacturing-with-402-exhibitors-from-17-countries-302928643.html",
@@ -709,6 +695,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9eb555eb086a",
+   "title": "Corn Falls Lower on Tuesday with Traders Taking Risk Off",
+   "link": "https://www.nasdaq.com/articles/corn-falls-lower-tuesday-traders-taking-risk",
+   "summary": "Corn futures faded another round of export business, with traders taking a risk off approach across the commodities. Contracts were down 3 ¼ to 5 ¾ cents across the board. The CmdtyView national average Cash Corn price was down 5 1/2 cents at $4.06 3/4. USDA reported a private export...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T01:37:04+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
