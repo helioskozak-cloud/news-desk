@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T17:41:39.947859+00:00",
+ "generated": "2026-11-04T17:46:33.914546+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -29,6 +29,23 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "789a14b8e7b3",
+   "title": "Stocks Surge as Democrats Sweep Congress",
+   "link": "https://www.nasdaq.com/articles/stocks-surge-democrats-sweep-congress",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +1.56% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +2.28%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +1.41%. December E-mini S&amp;P futures (ESZ26 ) are up +1.73%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T17:38:06+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -179,6 +196,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "389ee8023a14",
+   "title": "Dollar Slumps as Democrats Retake Congress",
+   "link": "https://www.nasdaq.com/articles/dollar-slumps-democrats-retake-congress",
+   "summary": "The dollar index (DXY00 ) tumbled to a 5-week low today and is down by -0.40%. The dollar sank today after Democrats swept Congress in the US midterm elections, fueling concerns about political gridlock and tougher tech regulation that could curtail foreign demand for US assets. Today’s slide in WTI...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T17:32:29+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -336,37 +367,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "389ee8023a14",
-   "title": "Dollar Slumps as Democrats Retake Congress",
-   "link": "https://www.nasdaq.com/articles/dollar-slumps-democrats-retake-congress",
-   "summary": "The dollar index (DXY00 ) tumbled to a 5-week low today and is down by -0.40%. The dollar sank today after Democrats swept Congress in the US midterm elections, fueling concerns about political gridlock and tougher tech regulation that could curtail foreign demand for US assets. Today’s slide in WTI...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T17:27:12+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "789a14b8e7b3",
-   "title": "Stocks Surge as Democrats Sweep Congress",
-   "link": "https://www.nasdaq.com/articles/stocks-surge-democrats-sweep-congress",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +1.56% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +2.28%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +1.41%. December E-mini S&amp;P futures (ESZ26 ) are up +1.73%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T17:27:12+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -2262,6 +2262,20 @@
    "published": "2026-11-04T16:34:49+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2c006d7283da",
+   "title": "Canva to restructure operations, affecting 22% of workforce as growth slows",
+   "link": "https://www.foxbusiness.com/economy/canva-restructuring-affect-22-workforce-growth-slows",
+   "summary": "Canva CEO Melanie Perkins announced a major restructuring affecting 22% of employees, including layoffs, team consolidation, relocation requests and office changes.",
+   "source": "Fox Business Econ",
+   "category": "macro",
+   "domain": "foxbusiness.com",
+   "published": "2026-11-04T16:34:44+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8996,20 +9010,6 @@
     "MRSH"
    ],
    "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fa3b437f1369",
-   "title": "Medical Care Technologies Inc. (OTCID:MDCE) Moves $250,000 Software Agreement Into Active Development | MDCE Stock News",
-   "link": "https://www.stocktitan.net/news/MDCE/medical-care-technologies-inc-otcid-mdce-moves-250-000-software-43hjv81reviq.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-04T13:57:00+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   }
