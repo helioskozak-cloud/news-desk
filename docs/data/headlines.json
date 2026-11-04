@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T00:11:11.973534+00:00",
+ "generated": "2026-11-04T00:16:26.885402+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,7 +11,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-04T00:09:30+00:00",
+   "published": "2026-11-04T00:15:04+00:00",
    "tickers": [
     "AMD"
    ],
@@ -27,9 +27,43 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-04T00:06:15+00:00",
+   "published": "2026-11-04T00:10:37+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "72fc1e8cdf4f",
+   "title": "Halper Sadeh LLC is Investigating Whether LITE, RRC, SGRY are Obtaining Fair Deals for their Shareholders",
+   "link": "https://www.prnewswire.com/news-releases/halper-sadeh-llc-is-investigating-whether-lite-rrc-sgry-are-obtaining-fair-deals-for-their-shareholders-302928452.html",
+   "summary": "Insiders may stand to receive substantial financial benefits not available to ordinary shareholders. The proposed transactions may contain terms that could limit superior competing offers. Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-04T00:10:00+00:00",
+   "tickers": [
+    "LITE",
+    "RRC"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ad9c9289ff96",
+   "title": "Are OPCH, PTC, RXO Obtaining Fair Deals for their Shareholders?",
+   "link": "https://www.prnewswire.com/news-releases/are-opch-ptc-rxo-obtaining-fair-deals-for-their-shareholders-302928442.html",
+   "summary": "Insiders may stand to receive substantial financial benefits not available to ordinary shareholders. The proposed transactions may contain terms that could limit superior competing offers. Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-04T00:06:00+00:00",
+   "tickers": [
+    "OPCH",
+    "PTC"
+   ],
+   "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -76,6 +110,23 @@
    "tag_v": 2
   },
   {
+   "id": "93f374656084",
+   "title": "Stocks Finished Mostly Higher on Chipmaker Strength",
+   "link": "https://www.nasdaq.com/articles/stocks-finished-mostly-higher-chipmaker-strength",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +0.36% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.38%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.68%. December E-mini S&amp;P futures (ESZ26 ) rose +0.36%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T23:58:41+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "261dfc1c871c",
    "title": "Corn Holding Midday Losses Following Export Business",
    "link": "https://www.nasdaq.com/articles/corn-holding-midday-losses-following-export-business",
@@ -86,6 +137,40 @@
    "published": "2026-11-03T23:58:40+00:00",
    "tickers": [
     "MT"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "502db067a75d",
+   "title": "Stocks Supported by Strength in Chipmakers",
+   "link": "https://www.nasdaq.com/articles/stocks-supported-strength-chipmakers",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.53% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.95%. December E-mini S&amp;P futures (ESZ26 ) are up +0.52%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T23:58:40+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9b61ac0c85ee",
+   "title": "Stocks Rebound as Crude Oil Prices Fall and Chipmakers Recover",
+   "link": "https://www.nasdaq.com/articles/stocks-rebound-crude-oil-prices-fall-and-chipmakers-recover",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.32% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.59%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.91%. December E-mini S&amp;P futures (ESZ26 ) are up +0.24%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T23:58:40+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
    ],
    "type": "stocks",
    "sentiment": "negative",
@@ -292,23 +377,6 @@
    "tag_v": 2
   },
   {
-   "id": "93f374656084",
-   "title": "Stocks Finished Mostly Higher on Chipmaker Strength",
-   "link": "https://www.nasdaq.com/articles/stocks-finished-mostly-higher-chipmaker-strength",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +0.36% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.38%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.68%. December E-mini S&amp;P futures (ESZ26 ) rose +0.36%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T23:36:49+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "87a8dda6eac1",
    "title": "Sugar Prices Tumble as India Ramps Up Sugar Production",
    "link": "https://www.nasdaq.com/articles/sugar-prices-tumble-india-ramps-sugar-production",
@@ -373,23 +441,6 @@
    "tag_v": 2
   },
   {
-   "id": "502db067a75d",
-   "title": "Stocks Supported by Strength in Chipmakers",
-   "link": "https://www.nasdaq.com/articles/stocks-supported-strength-chipmakers",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.53% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.95%. December E-mini S&amp;P futures (ESZ26 ) are up +0.52%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T23:31:45+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "bdeca4077696",
    "title": "Coffee Prices Retreat on Brazilian Real Strength",
    "link": "https://www.nasdaq.com/articles/coffee-prices-retreat-brazilian-real-strength",
@@ -430,23 +481,6 @@
    "published": "2026-11-03T23:31:45+00:00",
    "tickers": [
     "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "9b61ac0c85ee",
-   "title": "Stocks Rebound as Crude Oil Prices Fall and Chipmakers Recover",
-   "link": "https://www.nasdaq.com/articles/stocks-rebound-crude-oil-prices-fall-and-chipmakers-recover",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.32% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.59%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.91%. December E-mini S&amp;P futures (ESZ26 ) are up +0.24%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T23:31:44+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
    ],
    "type": "stocks",
    "sentiment": "negative",
@@ -8920,34 +8954,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "0586297851cb",
-   "title": "Alamo Group (ALG) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/alamo-group-alg-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T20:41:02+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b370bb5c3bec",
-   "title": "Ryman Hospitality (RHP) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/ryman-hospitality-rhp-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T20:41:02+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8999,6 +9005,7 @@
   "VKTX": "Viking Therapeutics",
   "WTRG": "Essential Utilities",
   "MRVL": "Marvell Technology",
+  "OPCH": "Option Care Health",
   "SCHW": "The Charles Schwab",
   "SWKS": "Skyworks Solutions",
   "TKO": "TKO Group Holdings",
@@ -9026,6 +9033,7 @@
   "EXP": "Eagle Materials",
   "GH": "Guardant Health",
   "MRCY": "Mercury Systems",
+  "RRC": "Range Resources",
   "VIK": "Viking Holdings",
   "ADI": "Analog Devices",
   "DOX": "Amdocs Limited",
