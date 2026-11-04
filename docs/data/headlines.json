@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-04T23:51:35.482993+00:00",
+ "generated": "2026-11-04T23:56:00.122874+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8fa03e69fd69",
+   "title": "Stoneridge Reports Third Quarter 2026 Results | SRI Stock News",
+   "link": "https://www.stocktitan.net/news/SRI/stoneridge-reports-third-quarter-2026-pooy6h3rpery.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-04T23:53:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "925304a76733",
+   "title": "Sysco Investigation Notice: SueWallSt Notifies Investors of Pending Investigation Into Sysco (SYY)",
+   "link": "https://www.prnewswire.com/news-releases/sysco-investigation-notice-suewallst-notifies-investors-of-pending-investigation-into-sysco-syy-302929815.html",
+   "summary": "A $29.1 billion acquisition still awaiting FTC clearance weighed on Sysco's first-quarter operating income as SYY shares lost 9.3% in one session. The investigation centers on the regulatory and cost exposure tied to the pending Jetro Restaurant Depot deal. NEW YORK, Nov. 4, 2026...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-04T23:52:00+00:00",
+   "tickers": [
+    "SYY"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "8043f6e6221a",
    "title": "Georgia U.S. Senate Election Live Results 2026 - AP News",
@@ -3165,7 +3195,7 @@
    "title": "Manulife Reports Third Quarter 2026 Results",
    "link": "https://www.prnewswire.com/news-releases/manulife-reports-third-quarter-2026-results-302929840.html",
    "summary": "TSX/NYSE/PSE: MFC SEHK: 945 C$ unless otherwise stated TORONTO, Nov. 4, 2026 /PRNewswire/ -- Manulife Financial Corporation (\"Manulife\" or the \"Company\") reported its third quarter results for the period ended September 30, 2026, delivering record core earnings1 and continued strong...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-11-04T22:05:00+00:00",
@@ -8863,38 +8893,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "729217230308",
-   "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-   "link": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
-   "summary": "Wayfair said its sales jumped 10% in the third quarter as the retailer posted its strongest quarter since the pandemic.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-11-04T21:04:47+00:00",
-   "tickers": [
-    "W"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "b8f7c10a41c5",
-   "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-   "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-   "summary": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-04T21:04:13+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9048,6 +9046,7 @@
   "FLR": "Fluor",
   "HUT": "Hut 8",
   "INTC": "Intel",
+  "SYY": "Sysco",
   "MSCI": "MSCI",
   "OLN": "Olin"
  }
