@@ -1,8 +1,40 @@
 {
- "generated": "2026-11-04T16:26:11.770451+00:00",
+ "generated": "2026-11-04T16:31:42.905658+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "04d9730120f6",
+   "title": "Walmart is selling a $460 8-person inflatable hot tent safe for wood-burning stoves for 48% off",
+   "link": "https://www.thestreet.com/deals/lilypelle-inflatable-camping-hot-tent-walmart-flash-sale-mp",
+   "summary": "It \"was up for an entire year through a NY winter and it held up fabulously.\"",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-04T16:30:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1e6e63b87e8c",
+   "title": "SMX Announces Effective Date of Reverse Stock Split | SMX Stock News",
+   "link": "https://www.stocktitan.net/news/SMX/smx-announces-effective-date-of-reverse-stock-n55nlphwsntc.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-04T16:30:00+00:00",
+   "tickers": [
+    "SMX"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "8043f6e6221a",
    "title": "Georgia U.S. Senate Election Live Results 2026 - AP News",
@@ -11,10 +43,26 @@
    "source": "AP Business",
    "category": "macro",
    "domain": "news.google.com",
-   "published": "2026-11-04T16:25:13+00:00",
+   "published": "2026-11-04T16:29:33+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f124a09b1a6c",
+   "title": "RDI® Railing Expands Distribution Footprint with 34 New Locations Across the U.S.",
+   "link": "https://www.prnewswire.com/news-releases/rdi-railing-expands-distribution-footprint-with-34-new-locations-across-the-us-302929498.html",
+   "summary": "Expanded distributor relationships strengthen product availability in key markets nationwide ATLANTA, Nov. 4, 2026 /PRNewswire/ -- RDI® Railing, the premium railing brand from Oldcastle APG, today announced the expansion of its strong existing distribution network with 34 new locations...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-04T16:27:00+00:00",
+   "tickers": [
+    "APG"
+   ],
+   "type": "press",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8971,54 +9019,13 @@
    "type": "fx",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "0694b50de95f",
-   "title": "Aptus Value Housing Q2 FY27 slides: 20% AUM growth amid NBFC stress",
-   "link": "https://www.investing.com/news/company-news/aptus-value-housing-q2-fy27-slides-20-aum-growth-amid-nbfc-stress-93CH-4999307",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-04T13:13:08+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "b92b987dde2f",
-   "title": "Prosegur Q3 2026 slides: 7.5% sales growth masks margin pressure",
-   "link": "https://www.investing.com/news/company-news/prosegur-q3-2026-slides-75-sales-growth-masks-margin-pressure-93CH-4999306",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-04T13:12:51+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "996eef9f6c0c",
-   "title": "William Blair downgrades Stevanato Group stock rating on 2027 outlook",
-   "link": "https://www.investing.com/news/analyst-ratings/william-blair-downgrades-stevanato-group-stock-rating-on-2027-outlook-93CH-4999305",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-04T13:12:48+00:00",
-   "tickers": [],
-   "type": "downgrade",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
   "BIL": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
   "XLI": "State Street Industrial Select Sector SPDR ETF",
   "FIS": "Fidelity National Information Services",
+  "SMX": "SMX (Security Matters) Public Limited",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "IBM": "International Business Machines",
@@ -9168,6 +9175,7 @@
   "TKR": "The Timken",
   "MSFT": "Office 365",
   "DE": "John Deere",
+  "APG": "APi Group",
   "BC": "Brunswick",
   "C": "Citigroup",
   "CME": "CME Group",
