@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T01:06:16.108170+00:00",
+ "generated": "2026-11-04T01:11:39.189234+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,42 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-04T01:04:08+00:00",
+   "published": "2026-11-04T01:08:04+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "8bbb14411a87",
+   "title": "Google responds to political backlash over removing search from schools that ban AI",
+   "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+   "summary": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-04T01:07:01+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "45842031461b",
+   "title": "Amazon cuts more jobs as CEO touts record margins, retail gains",
+   "link": "https://www.thestreet.com/employment/amazon-cuts-more-jobs-as-jassy-touts-record-margins-retail-gains",
+   "summary": "The e-commerce giant eliminated more positions in October, even as its overall workforce and sales grow.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-04T01:07:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -605,20 +637,6 @@
    "tag_v": 2
   },
   {
-   "id": "27abc072983b",
-   "title": "Democrat Debbie Wasserman Schultz wins reelection to U.S. House in Florida’s 20th District - AP News",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kZ0x1bXhfVmF3OWloTFhpRkl0RER0SExQOW9VRl9pS2V0elVEVkhva1JYdENmVmRtNGRyZ3o0c1c2TzgyOFJDOC1XbHV2R0lBdHVMWS04MWdmWnltVU1jeEJBWlk4dE5qZnZiSmpHeHBCX2pWbTgw?oc=5",
-   "summary": "Democrat Debbie Wasserman Schultz wins reelection to U.S. House in Florida’s 20th District&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-04T00:28:10+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "807c9ea541d0",
    "title": "The S&P 500 Fell in Both September and October for Only the 17th Time Since 1950. Here's What Usually Followed.",
    "link": "https://www.nasdaq.com/articles/sp-500-fell-both-september-and-october-only-17th-time-1950-heres-what-usually-followed",
@@ -762,6 +780,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "27abc072983b",
+   "title": "Democrat Debbie Wasserman Schultz wins reelection to U.S. House in Florida’s 20th District - AP News",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kZ0x1bXhfVmF3OWloTFhpRkl0RER0SExQOW9VRl9pS2V0elVEVkhva1JYdENmVmRtNGRyZ3o0c1c2TzgyOFJDOC1XbHV2R0lBdHVMWS04MWdmWnltVU1jeEJBWlk4dE5qZnZiSmpHeHBCX2pWbTgw?oc=5",
+   "summary": "Democrat Debbie Wasserman Schultz wins reelection to U.S. House in Florida’s 20th District&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-04T00:24:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1039,22 +1071,6 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "8bbb14411a87",
-   "title": "Google responds to political backlash over removing search from schools that ban AI",
-   "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
-   "summary": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-04T00:10:07+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -4404,6 +4420,22 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "75d9310d3d64",
+   "title": "Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOekRxNGUzaWpTRy1SLXpVUmlsbkNPVWMyQ3Q4WWx2eHFvRjhvUzViNUtXcGlxLVlmdlphQUc2bk5CX2ZwVmp5RnJQNTJxaVdjd0dra051ZUJNaVpQcVFVQjBPa1MtY0tEZ0N3MG9VMGJWWXZ4cXoyRzhKSm02NHJLbDdlYUpVbE4tbnhuOEZodFlmX0k?oc=5",
+   "summary": "Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-03T22:01:00+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8916,36 +8948,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "7d89111f5a94",
-   "title": "Cotton Slipping Lower on Tuesday",
-   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-tuesday",
-   "summary": "Cotton futures are facing losses of 50 to 55 points at midday on Tuesday. Crude oil is down 41 cents per barrel on the session, with the US dollar index $0.066 lower. USDA’s weekly Crop Progress report showed 92% of the US cotton crop with bolls open, behind the 95%...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T21:01:28+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "0f7afd05f52d",
-   "title": "RAMACO RESOURCES REPORTS THIRD QUARTER 2026 RESULTS",
-   "link": "https://www.prnewswire.com/news-releases/ramaco-resources-reports-third-quarter-2026-results-302928377.html",
-   "summary": "LEXINGTON, Ky., Nov. 3, 2026 /PRNewswire/ -- Ramaco Resources, Inc. (NASDAQ: METC, METCB, \"Ramaco\" or the \"Company\") is a leading operator and developer of high-quality, low-cost metallurgical coal in Central Appalachia and is exploring a coal, rare earth, and other critical minerals...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-03T21:01:00+00:00",
-   "tickers": [
-    "METC"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9057,6 +9059,7 @@
   "TMUS": "T-Mobile US",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
+  "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
   "CMS": "CMS Energy",
   "CVS": "CVS Health",
