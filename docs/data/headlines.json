@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-04T05:06:17.778611+00:00",
+ "generated": "2026-11-04T05:11:03.419444+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "29c8a1224dd3",
+   "title": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
+   "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+   "summary": "Follow 2026 midterm elections live updates, including House and Senate races in Texas, Georgia, Ohio and Minnesota, and key results.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-04T05:09:21+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "dde03e5997ea",
    "title": "Stock futures fall as Democrats win big in midterms with traders betting they slow data center buildout: Live updates",
@@ -11,9 +25,25 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-04T05:04:50+00:00",
+   "published": "2026-11-04T05:08:17+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "af69bf5828e3",
+   "title": "McDonald's is about to report earnings. Here's what to expect",
+   "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+   "summary": "McDonald's stock has fallen about 11% over the last year.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-11-04T05:01:01+00:00",
+   "tickers": [
+    "MCD"
+   ],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -30,20 +60,6 @@
     "EL"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "29c8a1224dd3",
-   "title": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
-   "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
-   "summary": "Follow 2026 midterm elections live updates, including House and Senate races in Texas, Georgia, Ohio and Minnesota, and key results.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-04T04:59:25+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8886,22 +8902,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "375a354ecf1e",
-   "title": "ILF Crowded With Sellers",
-   "link": "https://www.nasdaq.com/articles/ilf-crowded-sellers",
-   "summary": "In trading on Tuesday, shares of the iShares Latin America 40 ETF (Symbol: ILF) entered into oversold territory, changing hands as low as $31.735 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to m",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T21:40:02+00:00",
-   "tickers": [
-    "ILF"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8913,7 +8913,6 @@
   "EWA": "iShares MSCI Australia Index Fund",
   "IHI": "iShares U.S. Medical Devices ETF",
   "AIG": "American International Group",
-  "ILF": "iShares Latin America 40 ETF",
   "JBHT": "J.B. Hunt Transport Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "EL": "The Est?e Lauder Companies",
@@ -9014,6 +9013,7 @@
   "BA": "The Boeing",
   "CMS": "CMS Energy",
   "CVS": "CVS Health",
+  "MCD": "McDonald's",
   "MOS": "The Mosaic",
   "RKLB": "Rocket Lab",
   "SSRM": "SSR Mining",
