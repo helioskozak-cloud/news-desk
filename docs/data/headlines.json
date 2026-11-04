@@ -1,17 +1,33 @@
 {
- "generated": "2026-11-04T00:06:46.757585+00:00",
+ "generated": "2026-11-04T00:11:11.973534+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
+   "id": "dde03e5997ea",
+   "title": "S&P 500 futures gain slightly on AMD's strong earnings as traders await election results: Live updates",
+   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+   "summary": "Investors braced for the results of the 2026 U.S. midterm elections.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-04T00:09:30+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "29c8a1224dd3",
-   "title": "Midterm elections 2026 live updates: First polls close as House, Senate control hang in balance",
+   "title": "Midterm elections 2026 live updates: Polls are closing as House, Senate control hang in balance",
    "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
    "summary": "Follow 2026 midterm elections live updates, including House and Senate races, Texas, Georgia, Ohio and Minnesota, and key results as polls close.",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-04T00:05:14+00:00",
+   "published": "2026-11-04T00:06:15+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -103,22 +119,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dde03e5997ea",
-   "title": "S&P 500 futures gain slightly on AMD's strong earnings as traders await election results: Live updates",
-   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-   "summary": "Investors braced for the results of the 2026 U.S. midterm elections.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-03T23:54:26+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -357,6 +357,22 @@
    "tag_v": 2
   },
   {
+   "id": "cecd3433f1c3",
+   "title": "Suncor Energy Q3 Profit Surges",
+   "link": "https://www.nasdaq.com/articles/suncor-energy-q3-profit-surges",
+   "summary": "(RTTNews) - Suncor Energy Inc. (SU) on Tuesday said its profit for the third quarter more than doubled, driven largely by higher upstream price realizations, stronger downstream margins and increased high-value global export sales.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T23:32:53+00:00",
+   "tickers": [
+    "SU"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "502db067a75d",
    "title": "Stocks Supported by Strength in Chipmakers",
    "link": "https://www.nasdaq.com/articles/stocks-supported-strength-chipmakers",
@@ -434,6 +450,20 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ec5489d9db25",
+   "title": "Malaysia Stock Market May Be Stuck In Neutral",
+   "link": "https://www.nasdaq.com/articles/malaysia-stock-market-may-be-stuck-neutral",
+   "summary": "(RTTNews) - The Malaysia stock market has finished higher in three straight sessions, gathering almost a dozen points or 0.7 percent along the way. The Kuala Lumpur Composite Index now sits just above the 1,620-point plateau and it figures to remain in that neighborhood again on",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T23:31:37+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -586,6 +616,22 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "dc14c3de3580",
+   "title": "Essential Utilities Q3 Profit Rises 13%",
+   "link": "https://www.nasdaq.com/articles/essential-utilities-q3-profit-rises-13",
+   "summary": "(RTTNews) - Essential Utilities Inc. (WTRG), a provider of regulated water, wastewater and natural gas services, on Tuesday reported a 13% increase in third-quarter profit, largely driven by higher revenues and improved operating performance across its businesses.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T23:27:30+00:00",
+   "tickers": [
+    "WTRG"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1431,6 +1477,20 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3a1366027b51",
+   "title": "‘Very important’ evidence found miles from Learjet crash site in Florida, investigator says - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORThjRU0zLWFzbHFOZ3RYemJ4V2xDWnF5LW1ua1RiakJ3dUcyMnhPaWxacV9pdkFzWDVhYnJuTXQwTXdOLWtsTVQyUllFcmJMaFhtOVdRMEZrUVlObUlZNmdfdkV3UktJdjd4RUJ4OV85WW1PTEZHcVBYNlE2M2ZwQkhIOUhtYjAyUldMb1V0VTBLRTBGNmhOcWYxRXUxN3NuNF90S0RIQm0xM2lCYW1j?oc=5",
+   "summary": "‘Very important’ evidence found miles from Learjet crash site in Florida, investigator says&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-03T22:56:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2493,6 +2553,20 @@
    "category": "macro",
    "domain": "news.google.com",
    "published": "2026-11-03T22:19:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f3d41985c8b0",
+   "title": "After Election Day, Trump stares down the specter of Democratic probes and the race to succeed him - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekd4UWJndllyRDU5WTZ0c0ZDVlk4cEk2X3ZxcWhBUmVySWtTVGtvZk9HRTdzUWtuczQxTlEtNWFQTExrb296SzFwQkoxZnJpT0hndjFnMzhlb1oxN09IUmV2YjFMX2J4UUUwVk1QR1J6T2dRQjFjWG0weWViWTcxZWJ5QW52RUxja3Z3bXV0Q3lVd3AxUHc?oc=5",
+   "summary": "After Election Day, Trump stares down the specter of Democratic probes and the race to succeed him&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-03T22:18:00+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -8874,78 +8948,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "9d4f25b3d623",
-   "title": "Diamondback (FANG) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/diamondback-fang-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T20:41:02+00:00",
-   "tickers": [
-    "FANG"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d844e520d2f9",
-   "title": "Ardmore (ASC) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/ardmore-asc-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T20:41:01+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8e2c2b67b7b9",
-   "title": "Otter Tail (OTTR) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/otter-tail-ottr-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T20:40:52+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fd6d27b8f7a7",
-   "title": "Core Molding (CMT) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/core-molding-cmt-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T20:40:52+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f3f49806cff5",
-   "title": "MSA Safety (MSA) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/msa-safety-msa-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T20:40:52+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8996,7 +8998,6 @@
   "CBSH": "Commerce Bancshares",
   "VKTX": "Viking Therapeutics",
   "WTRG": "Essential Utilities",
-  "FANG": "Diamondback Energy",
   "MRVL": "Marvell Technology",
   "SCHW": "The Charles Schwab",
   "SWKS": "Skyworks Solutions",
