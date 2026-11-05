@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-05T19:36:36.949862+00:00",
+ "generated": "2026-11-05T19:41:19.085622+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5f55a8b49f05",
+   "title": "Dow tumbles 1,700 points, erasing its postelection rally; Nasdaq plummets 5%: Live updates",
+   "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+   "summary": "Investors continued to rotate away from technology stocks and into more defensive areas of the market.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-05T19:38:34+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "723358549caf",
    "title": "Stocks crater as midterms spur investor exodus from tech and AI",
@@ -32,15 +46,31 @@
    "tag_v": 2
   },
   {
-   "id": "5f55a8b49f05",
-   "title": "Dow tumbles 1,700 points, erasing its postelection rally; Nasdaq plummets 5%: Live updates",
-   "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-   "summary": "Investors continued to rotate away from technology stocks and into more defensive areas of the market.",
-   "source": "CNBC Top",
+   "id": "796917a3446a",
+   "title": "Prime Finance, Hines acquire Chicago office tower for $115M",
+   "link": "https://www.investing.com/news/company-news/prime-finance-hines-acquire-chicago-office-tower-for-115m-93CH-5005425",
+   "summary": "",
+   "source": "Investing.com",
    "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-05T19:31:28+00:00",
+   "domain": "investing.com",
+   "published": "2026-11-05T19:32:46+00:00",
    "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "95ffeb01bd52",
+   "title": "McKesson EVP, CIO and CTO Francisco Fraga sells $630,000 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/mckesson-evp-cio-and-cto-francisco-fraga-sells-630000-in-stock-93CH-5005423",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-05T19:31:25+00:00",
+   "tickers": [
+    "MCK"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -118,6 +148,36 @@
    "tag_v": 2
   },
   {
+   "id": "2379f236b161",
+   "title": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook",
+   "link": "https://www.investing.com/news/stock-market-news/spacex-tesla-extend-losses-as-midterm-results-cloud-data-center-merger-outlook-5005412",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-05T19:25:14+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e783596fa6a3",
+   "title": "Musk has little to show for his record spending on Republican campaigns in US midterms",
+   "link": "https://www.investing.com/news/stock-market-news/musk-has-little-to-show-for-his-record-spending-on-republican-campaigns-in-us-midterms-5003186",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-05T19:24:40+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "430a3e3d5da8",
    "title": "IRS announces bigger estate and gift tax exemption for 2027",
    "link": "https://www.cnbc.com/2026/11/05/2027-estate-and-gift-tax-exemption-irs-raises-limit.html",
@@ -164,6 +224,20 @@
    "tag_v": 2
   },
   {
+   "id": "bdc1b8c6c77a",
+   "title": "US issues determination enabling Cuba sanctions on key sectors",
+   "link": "https://www.investing.com/news/economy-news/us-issues-determination-enabling-cuba-sanctions-on-key-sectors-93CH-5005411",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-05T19:20:38+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "34ee5bf75217",
    "title": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
    "link": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
@@ -191,6 +265,70 @@
    ],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "b9de2fea377e",
+   "title": "US tariffs squeeze Canadian cabinet makers facing doubling of Trump duty",
+   "link": "https://www.investing.com/news/economy-news/us-tariffs-squeeze-canadian-cabinet-makers-facing-doubling-of-trump-duty-5003154",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-05T19:19:00+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f63cf3f004e7",
+   "title": "Dollar Weakness and Higher Crude Prices Spur Short Covering in Sugar",
+   "link": "https://www.nasdaq.com/articles/dollar-weakness-and-higher-crude-prices-spur-short-covering-sugar",
+   "summary": "March NY world sugar #11 (SBH27 ) is up +0.22 (+1.19%) today, and December London ICE white sugar #5 (SWZ26 ) is up +6.80 (+1.37%). Sugar prices are edging higher today as weakness in the dollar ($DXY ) has spurred short covering in sugar futures. Today’s 2% jump in WTI...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T19:17:56+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e3cd4757e1f4",
+   "title": "Stock Indexes Plummet on Mass Exodus from Chipmakers and AI Stocks",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-plummet-mass-exodus-chipmakers-and-ai-stocks",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -3.46% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -2.38%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -5.82%. December E-mini S&amp;P futures (ESZ26 ) are down -3.09%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T19:17:56+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3ebd811ceacb",
+   "title": "Stocks Surge on Midterm Election Optimism",
+   "link": "https://www.nasdaq.com/articles/stocks-surge-midterm-election-optimism",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +1.58% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +3.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.91%. December E-mini S&amp;P futures (ESZ26 ) rose +1.60%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T19:17:56+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -232,6 +370,20 @@
    "category": "markets",
    "domain": "cnbc.com",
    "published": "2026-11-05T19:16:31+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a1651b9e1a43",
+   "title": "Parke Bancorp CFO Jonathan Hill sells $14,986 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/parke-bancorp-cfo-jonathan-hill-sells-14986-in-shares-93CH-5005409",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-05T19:15:58+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -437,20 +589,6 @@
    "tag_v": 2
   },
   {
-   "id": "e783596fa6a3",
-   "title": "Musk has little to show for his record spending on Republican campaigns in US midterms",
-   "link": "https://www.investing.com/news/stock-market-news/musk-has-little-to-show-for-his-record-spending-on-republican-campaigns-in-us-midterms-5003186",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-05T19:07:11+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "2f222ba38b3b",
    "title": "Why Intel Stock Is Down Today",
    "link": "https://www.nasdaq.com/articles/why-intel-stock-down-today-0",
@@ -509,22 +647,6 @@
    "tag_v": 2
   },
   {
-   "id": "f63cf3f004e7",
-   "title": "Dollar Weakness and Higher Crude Prices Spur Short Covering in Sugar",
-   "link": "https://www.nasdaq.com/articles/dollar-weakness-and-higher-crude-prices-spur-short-covering-sugar",
-   "summary": "March NY world sugar #11 (SBH27 ) is up +0.22 (+1.19%) today, and December London ICE white sugar #5 (SWZ26 ) is up +6.80 (+1.37%). Sugar prices are edging higher today as weakness in the dollar ($DXY ) has spurred short covering in sugar futures. Today’s 2% jump in WTI...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T19:06:04+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "0477a7604025",
    "title": "Ascent Industries (ACNT) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/ascent-industries-acnt-q3-2026-earnings-call-transcript",
@@ -578,23 +700,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "e3cd4757e1f4",
-   "title": "Stock Indexes Plummet on Mass Exodus from Chipmakers and AI Stocks",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-plummet-mass-exodus-chipmakers-and-ai-stocks",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -3.46% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -2.38%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -5.82%. December E-mini S&amp;P futures (ESZ26 ) are down -3.09%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T19:06:03+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1298,23 +1403,6 @@
    "published": "2026-11-05T18:44:47+00:00",
    "tickers": [],
    "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "3ebd811ceacb",
-   "title": "Stocks Surge on Midterm Election Optimism",
-   "link": "https://www.nasdaq.com/articles/stocks-surge-midterm-election-optimism",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +1.58% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +3.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.91%. December E-mini S&amp;P futures (ESZ26 ) rose +1.60%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T18:43:18+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -4509,6 +4597,20 @@
    "tag_v": 2
   },
   {
+   "id": "7fabc2c73248",
+   "title": "The average US 30-year mortgage rate falls to 7.18% this week, its third straight decline. - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFhMZkpKRDgyRjlZTHhUR1BMV3dFdFRPMkNCdWk1WEczQXEzdlZPS1UzNXJzMUR2ZEhjb1pPSEpsdkhBc09iYU93cW9kR18zdkM0MDQ1U2NDUW1MMUpaaEZ3TEstZFVmRGRnekpzQnBFcVNldXc0YzhGVDVjNExtcVgtVlBqS09Gd2U0U0U2Vm1vMi1RWmY2elM1bVlZRWJ5d29UOGVLaVY?oc=5",
+   "summary": "The average US 30-year mortgage rate falls to 7.18% this week, its third straight decline.&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-05T17:01:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "5a3d161ca1c8",
    "title": "Lincoln National (LNC) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/lincoln-national-lnc-q3-2026-earnings-call-transcript",
@@ -7252,20 +7354,6 @@
    "tag_v": 2
   },
   {
-   "id": "da8b462aef06",
-   "title": "Unemployment claims drop to 189,000, the fewest since mid-July - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFpqQlVnUGpUMjYwb25WNThoV0FWZEhBdmlNUjFtU1B0XzROdllSQXkyVFk0R2lMbTdHbzFCejFqQXg0ZE9uVTFRME9XLVAzSEhtWk5PWVVMVFUxLWdSanZqWjJ2MC14QzIxQ0tVY2ZfTDZsamJETThsdV9makdLY1JfY2p5bUZnelJzYkMxc2RtQQ?oc=5",
-   "summary": "Unemployment claims drop to 189,000, the fewest since mid-July&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-05T15:48:11+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "cc3d1b7e20a6",
    "title": "Houston's Heim, Payne & Chorush Earns 2027 Best Law Firms Rankings for IP, Patent Litigation",
    "link": "https://www.prnewswire.com/news-releases/houstons-heim-payne--chorush-earns-2027-best-law-firms-rankings-for-ip-patent-litigation-302929183.html",
@@ -8929,96 +9017,6 @@
    "type": "legal",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "8cd699e56919",
-   "title": "GOOGL/GOOG UPCOMING DEADLINE: SueWallSt Alerts Alphabet Inc. Stockholders of Securities Class Action",
-   "link": "https://www.prnewswire.com/news-releases/googlgoog-upcoming-deadline-suewallst-alerts-alphabet-inc-stockholders-of-securities-class-action-302930332.html",
-   "summary": "A July 16, 2026 Bloomberg report that Gemini 3.5 Pro was months behind schedule preceded a $16.46 drop in Alphabet Class A shares on unusually heavy volume. A securities action alleges the Company's June launch representations lacked a reasonable basis. NEW YORK, Nov. 5, 2026 /PRNewswire/...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-05T15:13:00+00:00",
-   "tickers": [
-    "GOOG"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9814c4b4242a",
-   "title": "HONA DEADLINE: SueWallSt Reminds Honeywell Aerospace Inc. Investors of Upcoming Securities Class Action Deadline",
-   "link": "https://www.prnewswire.com/news-releases/hona-deadline-suewallst-reminds-honeywell-aerospace-inc-investors-of-upcoming-securities-class-action-deadline-302930303.html",
-   "summary": "Key dates and disclosure events HONA shareholders need to know. A securities class action alleges that between the June 29, 2026 spin-off and September 1, 2026, investors were not told that a small group of constrained suppliers gated hundreds of millions of dollars in revenue output, or...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-05T15:13:00+00:00",
-   "tickers": [
-    "HON"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dfbdfaf27889",
-   "title": "Benton and Metals Creek Option Bay of Islands Hydrogen Property to Brutus Mining Inc | BNTRF Stock News",
-   "link": "https://www.stocktitan.net/news/BNTRF/benton-and-metals-creek-option-bay-of-islands-hydrogen-property-to-h3qt1yx81jva.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-05T15:13:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f7c5b49f5ad3",
-   "title": "ARLP Ex-Dividend Reminder - 11/6/26",
-   "link": "https://www.nasdaq.com/articles/arlp-ex-dividend-reminder-11-6-26",
-   "summary": "Looking at the universe of stocks we cover at Dividend Channel, on 11/6/26, Alliance Resource Partners LP (Symbol: ARLP) will trade ex-dividend, for its quarterly dividend of $0.60, payable on 11/13/26. As a percentage of ARLP's recent stock price of $25.10, this dividend works",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T15:12:37+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "eedffae69fa7",
-   "title": "Advanced Energy Industries stock hits 52-week low at $187.70",
-   "link": "https://www.investing.com/news/company-news/advanced-energy-industries-stock-hits-52week-low-at-18770-93CH-5005032",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-05T15:12:17+00:00",
-   "tickers": [
-    "AEIS"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c4d5a9521a37",
-   "title": "Bgc Group earnings beat by $0.01, revenue topped estimates",
-   "link": "https://www.investing.com/news/earnings/bgc-group-earnings-beat-by-001-revenue-topped-estimates-5005031",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-05T15:12:11+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9049,7 +9047,6 @@
   "VTEB": "Vanguard Tax-Exempt Bond ETF",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "STX": "Seagate Technology Holdings",
-  "AEIS": "Advanced Energy Industries",
   "AMC": "AMC Entertainment Holdings",
   "CNI": "Canadian National Railway",
   "ICE": "Intercontinental Exchange",
