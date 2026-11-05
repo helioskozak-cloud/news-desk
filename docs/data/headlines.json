@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T18:21:06.384529+00:00",
+ "generated": "2026-11-05T18:26:08.127530+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,9 +11,39 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-05T18:19:43+00:00",
+   "published": "2026-11-05T18:22:40+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a5e59beb9995",
+   "title": "ABCmouse Launches New Mobile Learning Game, Expanding Access for Families Worldwide",
+   "link": "https://www.prnewswire.com/news-releases/abcmouse-launches-new-mobile-learning-game-expanding-access-for-families-worldwide-302931176.html",
+   "summary": "The standalone game brings ABCmouse's research-backed early learning content to children through the Netflix mobile experience LOS ANGELES, Nov. 5, 2026 /PRNewswire/ -- Age of Learning, the company behind ABCmouse, the most downloaded kids' education app trusted by families and educators...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-05T18:22:00+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "type": "press",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "35cac9ea01da",
+   "title": "2026 California Proposition 40 Election Live Results - AP News",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSEJZZUk2dUlPbXRtZGxoQVdhZlBuTzMwYmZRamNvU0hLWFd6Z3k0eUtvRTBYWFU1RDVjU2dBNHdYS240T0p4MjZnNXNVSmNjNmVCS2wzQkw2MjBUMGNfSWU3aDZlUHN0cGhXSVpqM2doRTVLMUdpdkV5WlRvSEZ0M05OVQ?oc=5",
+   "summary": "2026 California Proposition 40 Election Live Results&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-05T18:21:10+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -268,6 +298,40 @@
     "TSLA"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c95bdf32f40d",
+   "title": "Stock Indexes Pressured as Chipmakers and AI Stocks Plunge",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-pressured-chipmakers-and-ai-stocks-plunge",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.70% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.76%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -3.60%. December E-mini S&amp;P futures (ESZ26 ) are down -1.76%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T18:09:35+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e3cd4757e1f4",
+   "title": "Stock Indexes Plummet on Mass Exodus from Chipmakers and AI Stocks",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-plummet-mass-exodus-chipmakers-and-ai-stocks",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -3.46% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -2.38%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -5.82%. December E-mini S&amp;P futures (ESZ26 ) are down -3.09%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T18:09:35+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -818,23 +882,6 @@
     "JPM"
    ],
    "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "c95bdf32f40d",
-   "title": "Stock Indexes Pressured as Chipmakers and AI Stocks Plunge",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-pressured-chipmakers-and-ai-stocks-plunge",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.70% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.76%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -3.60%. December E-mini S&amp;P futures (ESZ26 ) are down -1.76%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T17:54:02+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -4482,6 +4529,20 @@
    "tag_v": 2
   },
   {
+   "id": "8a53cf9674f7",
+   "title": "A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3% - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
+   "summary": "A wipeout for AI stocks sends Wall Street reeling, and the S&amp;P 500 tumbles more than 3%&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-05T16:12:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "23b6b0792c8b",
    "title": "Reynolds Wrap® and the Dallas Cowboys Launch the First Ever Cowboys Fan Foil™ | REYN Stock News",
    "link": "https://www.stocktitan.net/news/REYN/reynolds-wrap-and-the-dallas-cowboys-launch-the-first-ever-cowboys-g3pks1vdoeww.html",
@@ -5402,20 +5463,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "da8b462aef06",
-   "title": "Unemployment claims drop to 189,000, the fewest since mid-July - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFpqQlVnUGpUMjYwb25WNThoV0FWZEhBdmlNUjFtU1B0XzROdllSQXkyVFk0R2lMbTdHbzFCejFqQXg0ZE9uVTFRME9XLVAzSEhtWk5PWVVMVFUxLWdSanZqWjJ2MC14QzIxQ0tVY2ZfTDZsamJETThsdV9makdLY1JfY2p5bUZnelJzYkMxc2RtQQ?oc=5",
-   "summary": "Unemployment claims drop to 189,000, the fewest since mid-July&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-05T15:48:11+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -7503,20 +7550,6 @@
    "tag_v": 2
   },
   {
-   "id": "8a53cf9674f7",
-   "title": "More drops for Nvidia and other AI chip stocks erase Wall Street’s rally from the day before - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
-   "summary": "More drops for Nvidia and other AI chip stocks erase Wall Street’s rally from the day before&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-05T15:02:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "e34a68e4d882",
    "title": "Novo Nordisk A/S: Trading in Novo Nordisk shares by board members, executives and associated persons | NVO Stock News",
    "link": "https://www.stocktitan.net/news/NVO/novo-nordisk-a-s-trading-in-novo-nordisk-shares-by-board-members-lpe1ztyxp0ja.html",
@@ -8707,20 +8740,6 @@
    "tag_v": 2
   },
   {
-   "id": "c299518741f8",
-   "title": "Tanker struck by projectiles in the Persian Gulf off Qatar, and other Mideast news - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZERHQ3lTWV93OWtyU0o4cHdZYU1naWRZbjZ6c3JhMDcyUlN0TVdvb040bkpPZVE1Vmd6VlNnVGFKNVZqbnFUX2tjNmoza2lYOXU3eUR0M08xT3ROenpRcmRUNno5TUdndEwydEI4TmQ5T1RhZzdSTWl1US1leVc1VnFlbUs1eFJZdzh1WWZYUC1LejZOZlE?oc=5",
-   "summary": "Tanker struck by projectiles in the Persian Gulf off Qatar, and other Mideast news&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-05T14:28:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "149f5cfd1872",
    "title": "Hong Kong activist Joshua Wong sentenced to 10 more years in prison - AP News",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVJKOWdMTUYyUUxqRVNtLXBGc2hjTTYwa3NQa0FNVXpKb3dnQzFySkJIY2I1MkhmZ0pscjE5SlFaQjEwZUROUjA2TlJlT1RVSjdYVkVycHZXcndMdW5Ic2Jtc1R3VW8wbWdvMm9BR2haOGZQblF6MjloYVFkU0t0ZU1tUTFkb1lVdm1QTl8tY3FFN2tBdGRMN3p6RUlLQ2NyZ184ejJJelYzVzdiNVVV?oc=5",
@@ -8975,22 +8994,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "693f38065854",
-   "title": "Global Payments Named Commerce Technology Provider for University of Memphis Tigers | GPN Stock News",
-   "link": "https://www.stocktitan.net/news/GPN/global-payments-named-commerce-technology-provider-for-university-of-dkd1tkcfyhir.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-05T14:20:00+00:00",
-   "tickers": [
-    "GPN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9108,7 +9111,6 @@
   "DAL": "Delta Air Lines",
   "DIS": "The Walt Disney",
   "GILD": "Gilead Sciences",
-  "GPN": "Global Payments",
   "LNG": "Cheniere Energy",
   "MRCY": "Mercury Systems",
   "PH": "Parker-Hannifin",
