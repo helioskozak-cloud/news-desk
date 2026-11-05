@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T04:46:46.712129+00:00",
+ "generated": "2026-11-05T04:51:01.972284+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -12,6 +12,64 @@
    "category": "macro",
    "domain": "news.google.com",
    "published": "2026-11-05T04:43:26+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "def1d5bbf715",
+   "title": "Soybeans Facing Midweek Weakness",
+   "link": "https://www.nasdaq.com/articles/soybeans-facing-midweek-weakness",
+   "summary": "Soybeans are pulling off the early session lows, with contracts down 1 to 7 cents at midday. The cmdtyView national average Cash Bean price is down 7 1/4 cents at $11.42 1/4. Soymeal futures are showing $1.50 to $2 gains, with Soy Oil futures down 120 to 125 points. Heating...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T04:42:32+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ef01ab160bf7",
+   "title": "Dollar Weakness Lifts NY Cocoa Prices",
+   "link": "https://www.nasdaq.com/articles/dollar-weakness-lifts-ny-cocoa-prices",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed up +42 (+0.78%) on Wednesday, and ICE London cocoa #7 (CAZ26 ) closed down -27 (-0.66%). Cocoa prices fell to fresh 5-week lows on Wednesday but rebounded and settled mixed. Rising ICE cocoa inventories are easing supply concerns and weighing on prices. ICE...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T04:42:32+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b3056a75416e",
+   "title": "Mineralys Therapeutics Reports Third Quarter 2026 Financial Results and Provides Corporate Update",
+   "link": "https://www.nasdaq.com/articles/mineralys-therapeutics-reports-third-quarter-2026-financial-results-and-provides-corporate",
+   "summary": "Mineralys Therapeutics, Inc. announced its financial results for the third quarter ended September 30, 2026, and provided a corporate update. The company reported cash, cash equivalents and investments of $624.7 million as of September 30, 2026, compared to $656.6 million as of D",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T04:38:29+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f1fed5cb15b0",
+   "title": "Rapid7, Inc. Reports Third Quarter 2026 Financial Results",
+   "link": "https://www.nasdaq.com/articles/rapid7-inc-reports-third-quarter-2026-financial-results",
+   "summary": "On November 4, 2026, Rapid7, Inc. announced its financial results for the third quarter ended September 30, 2026. The company reported total revenue of $212.4 million, representing a decrease of 2.5% year-over-year. Product revenue was $206.1 million, which is a decrease of 1.9%",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T04:38:29+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
@@ -59,6 +117,68 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ab4437b98780",
+   "title": "AppLovin Corporation Reports 72% Net Income Growth to $1.44 billion and Plans Nevada Reincorporation",
+   "link": "https://www.nasdaq.com/articles/applovin-corporation-reports-72-net-income-growth-144-billion-and-plans-nevada",
+   "summary": "AppLovin Corporation announced its financial results for the third quarter ended September 30, 2026, reporting that net income grew 72% year-over-year to $1.44 billion on record revenue of $2.18 billion, up 55% year-over-year. Net cash from operating activities and Free Cash Flow",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T04:28:28+00:00",
+   "tickers": [
+    "APP"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "da9860c42eae",
+   "title": "TKO Group Holdings, Inc. Reports Third Quarter 2026 Results and Raises Full Year 2026 Guidance",
+   "link": "https://www.nasdaq.com/articles/tko-group-holdings-inc-reports-third-quarter-2026-results-and-raises-full-year-2026",
+   "summary": "TKO Group Holdings, Inc. reported its financial results for the third quarter ended September 30, 2026, with revenue increasing 21%, or $240.2 million, to $1.360 billion. Net income for the quarter was $277.9 million, representing an increase of $171.1 million from $106.8 million",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T04:28:27+00:00",
+   "tickers": [
+    "TKO"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "261421ffb4b1",
+   "title": "Arcus Biosciences, Inc. Reports Third-Quarter 2026 Financial Results",
+   "link": "https://www.nasdaq.com/articles/arcus-biosciences-inc-reports-third-quarter-2026-financial-results",
+   "summary": "Arcus Biosciences, Inc. reported its financial results for the third quarter ended September 30, 2026. Revenues were $9 million for the third-quarter 2026, compared to $26 million for the same period in 2025. The decrease in revenues was primarily driven by lower revenues related",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T04:28:27+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6cee3d87c683",
+   "title": "Coupang: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/coupang-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsConsolidated constant currency revenue grew 11% year over year.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T04:28:23+00:00",
+   "tickers": [
+    "CPNG"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -223,6 +343,50 @@
    "tag_v": 2
   },
   {
+   "id": "7bb8ad7a6919",
+   "title": "The Western Union Company Reports Third Quarter 2026 Results",
+   "link": "https://www.nasdaq.com/articles/western-union-company-reports-third-quarter-2026-results",
+   "summary": "The Western Union Company reported its third quarter 2026 financial results, with GAAP revenue of $1.0 billion, representing a 2% decrease compared to the prior year period, and adjusted revenue down 1%. GAAP diluted earnings per share (EPS) was $0.25, down from $0.43 in the prio",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T04:18:29+00:00",
+   "tickers": [
+    "WU"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fe6f0cc85562",
+   "title": "Design Therapeutics, Inc. Reports Third Quarter 2026 Financial Results",
+   "link": "https://www.nasdaq.com/articles/design-therapeutics-inc-reports-third-quarter-2026-financial-results",
+   "summary": "Design Therapeutics, Inc. reported its financial results for the third quarter ended September 30, 2026, and provided updates on its clinical programs. The company reported cash, cash equivalents and investment securities of $208.6 million as of September 30, 2026. For the quarte",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T04:18:29+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6f1533a2f7d7",
+   "title": "Fastly, Inc. Announces Planned 2027 Retirement of President, Go to Market Scott R. Lovett",
+   "link": "https://www.nasdaq.com/articles/fastly-inc-announces-planned-2027-retirement-president-go-market-scott-r-lovett",
+   "summary": "On October 30, 2026, Scott R. Lovett notified Fastly, Inc. of his planned retirement as the Company's President, Go to Market, on a date to be determined during 2027. In connection with his planned retirement, the Company entered into a transition and separation agreement with Mr",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T04:18:19+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "cae0d8a0360d",
    "title": "Stoneridge earnings missed by $0.01, revenue topped estimates",
    "link": "https://www.investing.com/news/earnings/stoneridge-earnings-missed-by-001-revenue-topped-estimates-5002167",
@@ -233,20 +397,6 @@
    "published": "2026-11-05T04:17:47+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "def1d5bbf715",
-   "title": "Soybeans Facing Midweek Weakness",
-   "link": "https://www.nasdaq.com/articles/soybeans-facing-midweek-weakness",
-   "summary": "Soybeans are pulling off the early session lows, with contracts down 1 to 7 cents at midday. The cmdtyView national average Cash Bean price is down 7 1/4 cents at $11.42 1/4. Soymeal futures are showing $1.50 to $2 gains, with Soy Oil futures down 120 to 125 points. Heating...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T04:17:33+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -352,6 +502,22 @@
    ],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "6a750ce33588",
+   "title": "Vaxcyte, Inc. Reports Third Quarter 2026 Financial Results and VAX-31 Clinical Progress",
+   "link": "https://www.nasdaq.com/articles/vaxcyte-inc-reports-third-quarter-2026-financial-results-and-vax-31-clinical-progress",
+   "summary": "Vaxcyte, Inc. reported its financial results for the third quarter ended September 30, 2026, and provided updates on its clinical pipeline. The company reported a net loss of $297.1 million for the three months ended September 30, 2026, compared to $212.8 million for the same per",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T04:09:00+00:00",
+   "tickers": [
+    "PCVX"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -725,22 +891,6 @@
    "title": "NY Sugar Rebounds on Dollar Weakness",
    "link": "https://www.nasdaq.com/articles/ny-sugar-rebounds-dollar-weakness",
    "summary": "March NY world sugar #11 (SBH27 ) closed up +0.14 (+0.76%) on Wednesday, and December London ICE white sugar #5 (SWZ26 ) closed down -2.70 (-0.54%). Sugar prices settled mixed on Wednesday, with London sugar falling to a 3-month low. Wednesday’s -8% plunge in WTI crude oil (CLZ26 ) to...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T03:46:46+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ef01ab160bf7",
-   "title": "Dollar Weakness Lifts NY Cocoa Prices",
-   "link": "https://www.nasdaq.com/articles/dollar-weakness-lifts-ny-cocoa-prices",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +42 (+0.78%) on Wednesday, and ICE London cocoa #7 (CAZ26 ) closed down -27 (-0.66%). Cocoa prices fell to fresh 5-week lows on Wednesday but rebounded and settled mixed. Rising ICE cocoa inventories are easing supply concerns and weighing on prices. ICE...",
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
@@ -6338,6 +6488,20 @@
    "tag_v": 2
   },
   {
+   "id": "3c4a625060b0",
+   "title": "3 executions scheduled for the same day in Indiana, Florida and Alabama - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR05iQkwwZlY2Q2c4WVdwMjFHV0l1UzlUdWZiMUtZU1Y0VzdRb2JmMkhUV3JUWGdFRFlGTnkydkF5bkpsLTE2RFRkUGtTSEh3bmhvd19ienVFZHlVQmphdEN0a3FiZWQ3OENpSjE3X29qZlpCVlBOWjZZREtZTkRmNHplMDdtblNySjBENHlJS2piXy0xeDR6M09n?oc=5",
+   "summary": "3 executions scheduled for the same day in Indiana, Florida and Alabama&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-04T23:09:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "6b0ea99e5381",
    "title": "STERIS Plc Profit Rises In Q2",
    "link": "https://www.nasdaq.com/articles/steris-plc-profit-rises-q2",
@@ -8677,168 +8841,6 @@
    "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "684f01e3ca4d",
-   "title": "Clarivate Plc Announces Cash Tender Offers for Up to $500,000,000 of Debt Securities",
-   "link": "https://www.nasdaq.com/articles/clarivate-plc-announces-cash-tender-offers-500000000-debt-securities",
-   "summary": "Clarivate Plc announced that its wholly-owned subsidiary, Clarivate Science Holdings Corporation, has commenced cash tender offers to purchase its outstanding 3.875% Senior Secured Notes due 2028 and its 4.875% Senior Notes due 2029. The offers are subject to a $500,000,000 cap o",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T22:02:32+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "978b821f7718",
-   "title": "Cullinan Therapeutics Reports Phase 1 Trial Data for CLN-049 with 19% and 21% CRc Rates in AML and MDS Patients",
-   "link": "https://www.nasdaq.com/articles/cullinan-therapeutics-reports-phase-1-trial-data-cln-049-19-and-21-crc-rates-aml-and-mds",
-   "summary": "Cullinan Therapeutics, Inc. shared updated data from its Phase 1 dose escalation clinical trial for CLN-049 in patients with relapsed or refractory AML or MDS. As of the data cutoff, 87 patients (76 AML, 11 MDS) were enrolled across 13 cohorts (target dose range, 1.5-24 &micro;g/",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T22:02:31+00:00",
-   "tickers": [],
-   "type": "fda",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5955c2796e90",
-   "title": "Sezzle Profit Jumps 79% as Credit Costs Ease: Rapid Earnings Reaction",
-   "link": "https://www.nasdaq.com/articles/sezzle-profit-jumps-79-credit-costs-ease-rapid-earnings-reaction",
-   "summary": "Key PointsSezzle's third-quarter profit grew more than twice as fast as the money moving through its platform.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T22:02:17+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "ba5aad17b929",
-   "title": "Sunlife increases Common Share dividend and declares dividends on Preferred Shares payable in Q4 2026 | SLF Stock News",
-   "link": "https://www.stocktitan.net/news/SLF/sunlife-increases-common-share-dividend-and-declares-dividends-on-g25vcfq4knaq.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-04T22:02:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a8096e8ae115",
-   "title": "Evommune Enters into Agreement to In-License EVO570, a Potential Best-in-Class Oral VAV1 Molecular Glue Degrader, from Hinova Pharmaceuticals | EVMN Stock News",
-   "link": "https://www.stocktitan.net/news/EVMN/evommune-enters-into-agreement-to-in-license-evo570-a-potential-best-euu5np22wfuk.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-04T22:02:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "eecce0fdabfe",
-   "title": "Manulife declares common share dividend",
-   "link": "https://www.prnewswire.com/news-releases/manulife-declares-common-share-dividend-851345633.html",
-   "summary": "C$ unless otherwise stated TSX/NYSE/PSE: MFC SEHK: 945 TORONTO, Nov. 4, 2026 /CNW/ -- Manulife's Board of Directors today announced a quarterly common shareholders' dividend of $0.485 per share on the common shares of Manulife, payable on and after December 21, 2026, to shareholders of...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T22:01:00+00:00",
-   "tickers": [
-    "MFC"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "bd84f7856ab6",
-   "title": "Manulife declares common share dividend",
-   "link": "https://www.prnewswire.com/news-releases/manulife-declares-common-share-dividend-302929811.html",
-   "summary": "C$ unless otherwise stated TSX/NYSE/PSE: MFC SEHK: 945 TORONTO, Nov. 4, 2026 /PRNewswire/ -- Manulife's Board of Directors today announced a quarterly common shareholders' dividend of $0.485 per share on the common shares of Manulife, payable on and after December 21, 2026, to...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T22:01:00+00:00",
-   "tickers": [
-    "MFC"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "60e697afb30d",
-   "title": "Homeland Appoints Heida Mani as Chair of Advisory Board | SRCGF Stock News",
-   "link": "https://www.stocktitan.net/news/SRCGF/homeland-appoints-heida-mani-as-chair-of-advisory-wng9zhbwwp51.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-04T22:01:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "32842804ef38",
-   "title": "Sunlife Reports Third Quarter 2026 Results | SLF Stock News",
-   "link": "https://www.stocktitan.net/news/SLF/sunlife-reports-third-quarter-2026-86ljyhf3b4t1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-04T22:01:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "72d0173b1507",
-   "title": "Manulife declares common share dividend | MFC Stock News",
-   "link": "https://www.stocktitan.net/news/MFC/manulife-declares-common-share-ui3rmtltrmx2.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-04T22:01:00+00:00",
-   "tickers": [
-    "MFC"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "d4d50c3d73a8",
-   "title": "Here’s What Democrats Taking Back the House and Senate Could Mean for Housing Stocks Like Home Depot and Lowe’s",
-   "link": "https://www.nasdaq.com/articles/heres-what-democrats-taking-back-house-and-senate-could-mean-housing-stocks-home-depot-and",
-   "summary": "Key PointsHousing stocks soared in response to the Democratic victory in the midterm election.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T22:00:29+00:00",
-   "tickers": [
-    "HD"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8892,6 +8894,7 @@
   "MSI": "Motorola Solutions",
   "NYT": "The New York Times",
   "SCHW": "The Charles Schwab",
+  "TKO": "TKO Group Holdings",
   "TPL": "Texas Pacific Land",
   "TYL": "Tyler Technologies",
   "AEVA": "Aeva Technologies",
@@ -8975,6 +8978,7 @@
   "IOT": "Samsara",
   "LIF": "Life360",
   "NTR": "Nutrien",
+  "PCVX": "Vaxcyte",
   "TXT": "Textron",
   "W": "Wayfair",
   "WMT": "Walmart",
