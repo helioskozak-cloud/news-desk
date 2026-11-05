@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T17:46:15.365362+00:00",
+ "generated": "2026-11-05T17:51:13.975554+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,7 +11,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-05T17:42:59+00:00",
+   "published": "2026-11-05T17:50:00+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -48,6 +48,20 @@
    "tag_v": 2
   },
   {
+   "id": "cfac97611b35",
+   "title": "HSA-eligible health plans in 2027: What to know about tax savings vs. higher deductibles",
+   "link": "https://www.cnbc.com/2026/11/05/hsa-health-plan-2027.html",
+   "summary": "Many employees are eligible to choose an HSA-eligible high-deductible health plan during open enrollment. Here's what to know before enrolling.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-05T17:41:16+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "5f55a8b49f05",
    "title": "Nasdaq plummets 4% into correction territory, Dow drops more than 1,000 points as traders dump tech stocks: Live updates",
    "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
@@ -59,6 +73,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "6809dde56109",
+   "title": "Dollar Supported by US Economic Strength and Hawkish Fed Comments",
+   "link": "https://www.nasdaq.com/articles/dollar-supported-us-economic-strength-and-hawkish-fed-comments",
+   "summary": "The dollar index (DXY00 ) is up by +0.02% today. The dollar is slightly higher today, supported by better-than-expected US economic news. Weekly jobless claims unexpectedly fell to a 3.5-month low, a sign of labor market strength, while Q3 nonfarm productivity rose more than expected and Q3 unit labor costs...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T17:38:18+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -451,6 +479,51 @@
    "tag_v": 2
   },
   {
+   "id": "c95bdf32f40d",
+   "title": "Stock Indexes Pressured as Chipmakers and AI Stocks Plunge",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-pressured-chipmakers-and-ai-stocks-plunge",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.70% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.76%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -3.60%. December E-mini S&amp;P futures (ESZ26 ) are down -1.76%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T17:25:51+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "74792ddc00c6",
+   "title": "Wheat Bouncing to Start Thursday",
+   "link": "https://www.nasdaq.com/articles/wheat-bouncing-start-thursday",
+   "summary": "Wheat is showing 4 to 6 cent higher trade on Thursday morning. The wheat complex faded lower on Wednesday, with buyers failing to hold midday gains. Open interest was up 2,694 contracts. Chicago SRW contracts were steady to 2 cents lower. KC HRW futures were 3 ¼ to 5 ½...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T17:25:51+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9af592386363",
+   "title": "Cotton Posting Thursday Morning Gains",
+   "link": "https://www.nasdaq.com/articles/cotton-posting-thursday-morning-gains",
+   "summary": "Cotton price action is up 29 to 33 points on Thursday morning. Futures rallied on Wednesday, with contracts 52 to 107 points higher at the close. Crude oil was down $8.05 per barrel on the session, with the US dollar index $0.326 higher. Cotton exports in September totaled 641,476 bales...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T17:25:50+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "46a4830e2a96",
    "title": "Nasdaq 100 eyes $1.8 trillion loss as Democratic win sparks AI delay fears",
    "link": "https://www.investing.com/news/stock-market-news/ai-datacenter-stocks-slip-as-democratic-sweep-clouds-expansion-plans-5003196",
@@ -624,34 +697,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6809dde56109",
-   "title": "Dollar Supported by US Economic Strength and Hawkish Fed Comments",
-   "link": "https://www.nasdaq.com/articles/dollar-supported-us-economic-strength-and-hawkish-fed-comments",
-   "summary": "The dollar index (DXY00 ) is up by +0.02% today. The dollar is slightly higher today, supported by better-than-expected US economic news. Weekly jobless claims unexpectedly fell to a 3.5-month low, a sign of labor market strength, while Q3 nonfarm productivity rose more than expected and Q3 unit labor costs...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T17:18:57+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9af592386363",
-   "title": "Cotton Posting Thursday Morning Gains",
-   "link": "https://www.nasdaq.com/articles/cotton-posting-thursday-morning-gains",
-   "summary": "Cotton price action is up 29 to 33 points on Thursday morning. Futures rallied on Wednesday, with contracts 52 to 107 points higher at the close. Crude oil was down $8.05 per barrel on the session, with the US dollar index $0.326 higher. Cotton exports in September totaled 641,476 bales...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T17:18:56+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1022,23 +1067,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c95bdf32f40d",
-   "title": "Stock Indexes Pressured as Chipmakers and AI Stocks Plunge",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-pressured-chipmakers-and-ai-stocks-plunge",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.70% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.76%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -3.60%. December E-mini S&amp;P futures (ESZ26 ) are down -1.76%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T17:10:19+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2274,20 +2302,6 @@
    "tag_v": 2
   },
   {
-   "id": "74792ddc00c6",
-   "title": "Wheat Bouncing to Start Thursday",
-   "link": "https://www.nasdaq.com/articles/wheat-bouncing-start-thursday",
-   "summary": "Wheat is showing 4 to 6 cent higher trade on Thursday morning. The wheat complex faded lower on Wednesday, with buyers failing to hold midday gains. Open interest was up 2,694 contracts. Chicago SRW contracts were steady to 2 cents lower. KC HRW futures were 3 ¼ to 5 ½...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T16:40:08+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "872911c571cf",
    "title": "Newsmax stock may move 3.9% on Nov. 12 earnings report",
    "link": "https://www.investing.com/news/stock-market-news/newsmax-stock-may-move-39-on-nov-12-earnings-report-93CH-5005199",
@@ -2676,6 +2690,20 @@
    "published": "2026-11-05T16:25:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a1ee4702a2f7",
+   "title": "Putin special envoy speaks at White House event on Oleshky ceasefire brokered by Melania Trump - AP News",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSjNMN3IzWmgzdHJtQzktSjczNDY4QmFyWF9rT21VTnlON0ZCNHpOOXc4b290WDdndUpGR3BGY0pyQndnN3dwdENPM3ZWb3B4UUx4aVE2ZWhjcGtHV1d1clUwNXJsd243QnpJUmh1UHlCV2d6RURIQzdXNGlNMmxSMldaZUpqR1hEcDhBZ014dWhHUHBIUE40U09TUElSNk1oWE05VjhYLUViZzRUVl83bw?oc=5",
+   "summary": "Putin special envoy speaks at White House event on Oleshky ceasefire brokered by Melania Trump&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-05T16:25:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3315,20 +3343,6 @@
    "published": "2026-11-05T16:12:18+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "8a53cf9674f7",
-   "title": "A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3% - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
-   "summary": "A wipeout for AI stocks sends Wall Street reeling, and the S&amp;P 500 tumbles more than 3%&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-05T16:12:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -6340,6 +6354,20 @@
    "tag_v": 2
   },
   {
+   "id": "8a53cf9674f7",
+   "title": "More drops for Nvidia and other AI chip stocks erase Wall Street’s rally from the day before - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
+   "summary": "More drops for Nvidia and other AI chip stocks erase Wall Street’s rally from the day before&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-05T15:02:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "e34a68e4d882",
    "title": "Novo Nordisk A/S: Trading in Novo Nordisk shares by board members, executives and associated persons | NVO Stock News",
    "link": "https://www.stocktitan.net/news/NVO/novo-nordisk-a-s-trading-in-novo-nordisk-shares-by-board-members-lpe1ztyxp0ja.html",
@@ -8984,39 +9012,6 @@
    "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "721d6420443a",
-   "title": "SupportNinja Brings AI-Native CX Solutions to Ecommerce Through Aventus Acquisition",
-   "link": "http://www.businesswire.com/news/home/20261105613032/en/SupportNinja-Brings-AI-Native-CX-Solutions-to-Ecommerce-Through-Aventus-Acquisition/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-   "summary": "AUSTIN, Texas--(BUSINESS WIRE)--SupportNinja, a leading strategic outsourcing and CX transformation partner, today announced its acquisition of Aventus, bringing AI-native, human-led customer experience (CX) solutions to ecommerce and direct-to-consumer (DTC) brands through the newly launched Aventus by SupportNinja.The acquisition combines Aventus’ deep ecommerce specialization and expertise in platforms like Shopify, Gorgias, Kustomer, Redo, and Zendesk with SupportNinja’s proprietary NinjaAI",
-   "source": "BusinessWire",
-   "category": "press",
-   "domain": "businesswire.com",
-   "published": "2026-11-05T14:00:00+00:00",
-   "tickers": [
-    "CX",
-    "SHOP"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9496a2883a0c",
-   "title": "Dropbox Announces Plans to Acquire Tigris Data Inc. and Unveils DBX Agent Cloud as Part of AI-Powered Product Evolution",
-   "link": "http://www.businesswire.com/news/home/20261105637007/en/Dropbox-Announces-Plans-to-Acquire-Tigris-Data-Inc.-and-Unveils-DBX-Agent-Cloud-as-Part-of-AI-Powered-Product-Evolution/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-   "summary": "SAN FRANCISCO--(BUSINESS WIRE)--Dropbox, Inc. (NASDAQ: DBX) today announced plans to acquire Tigris Data Inc., a globally distributed object storage platform built for AI workloads, to accelerate its expansion into AI infrastructure for companies and developers. The company also unveiled DBX Agent Cloud, a storage and data infrastructure offering beginning with object storage, alongside a major evolution of its core product that brings AI-powered capabilities directly to customers’ existing file",
-   "source": "BusinessWire",
-   "category": "press",
-   "domain": "businesswire.com",
-   "published": "2026-11-05T14:00:00+00:00",
-   "tickers": [
-    "DBX"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9202,7 +9197,6 @@
   "SNAP": "Snapchat",
   "CMCSA": "Comcast",
   "CMI": "Cummins",
-  "DBX": "Dropbox",
   "DHR": "Danaher",
   "EFX": "Equifax",
   "GLW": "Corning",
