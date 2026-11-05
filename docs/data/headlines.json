@@ -1,20 +1,48 @@
 {
- "generated": "2026-11-05T16:21:40.211089+00:00",
+ "generated": "2026-11-05T16:26:03.742969+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
+   "id": "e569b4ed1cf7",
+   "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
+   "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
+   "summary": "Democrats are certain to scrutinize the U.S. intervention in Venezuela, administration mineral deals and the cancellation of previously funded energy projects.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-05T16:23:48+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "5f55a8b49f05",
-   "title": "Nasdaq plummets into correction territory, Dow drops more than 1,000 points as traders dump tech stocks: Live updates",
+   "title": "Nasdaq plummets 4% into correction territory, Dow drops more than 1,000 points as traders dump tech stocks: Live updates",
    "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
    "summary": "Investors continued to rotate away from technology stocks and into more defensive areas of the market.",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-05T16:19:32+00:00",
+   "published": "2026-11-05T16:21:25+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "74792ddc00c6",
+   "title": "Wheat Bouncing to Start Thursday",
+   "link": "https://www.nasdaq.com/articles/wheat-bouncing-start-thursday",
+   "summary": "Wheat is showing 4 to 6 cent higher trade on Thursday morning. The wheat complex faded lower on Wednesday, with buyers failing to hold midday gains. Open interest was up 2,694 contracts. Chicago SRW contracts were steady to 2 cents lower. KC HRW futures were 3 ¼ to 5 ½...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T16:17:15+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -96,15 +124,15 @@
    "title": "NVDL, ULTI: Big ETF Outflows",
    "link": "https://www.nasdaq.com/articles/nvdl-ulti-big-etf-outflows",
    "summary": "Looking at units outstanding versus one week prior within the universe of ETFs covered at ETF Channel, the biggest outflow was seen in the GraniteShares 2x Long NVDA Daily ETF, where 18,200,000 units were destroyed, or a 15.6% decrease week over week. And on a percentage chan",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-05T16:13:53+00:00",
    "tickers": [
     "NVDL",
     "NVDA"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -143,14 +171,14 @@
    "title": "VTEB, XXX: Big ETF Inflows",
    "link": "https://www.nasdaq.com/articles/vteb-xxx-big-etf-inflows",
    "summary": "Comparing units outstanding versus one week ago at the coverage universe of ETFs at ETF Channel, the biggest inflow was seen in the Vanguard Tax-Exempt Bond ETF, which added 46,479,389 units, or a 4.4% increase week over week. And on a percentage change basis, the ETF with th",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-05T16:13:31+00:00",
    "tickers": [
     "VTEB"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -292,12 +320,29 @@
    "tag_v": 2
   },
   {
+   "id": "3ebd811ceacb",
+   "title": "Stocks Surge on Midterm Election Optimism",
+   "link": "https://www.nasdaq.com/articles/stocks-surge-midterm-election-optimism",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +1.58% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +3.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.91%. December E-mini S&amp;P futures (ESZ26 ) rose +1.60%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-05T16:10:54+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "60a84c5c3ef9",
    "title": "Notable ETF Inflow Detected - VGT, DELL, WDC, GLW",
    "link": "https://www.nasdaq.com/articles/notable-etf-inflow-detected-vgt-dell-wdc-glw",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Vanguard Information Technology ETF (Symbol: VGT) where we have detected an approximate $1.2 billion dollar inflow -- that's a 0.9% increase week ove",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-05T16:10:15+00:00",
    "tickers": [
@@ -306,7 +351,7 @@
     "WDC",
     "GLW"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -315,12 +360,12 @@
    "title": "SFGV: ETF Outflow Alert",
    "link": "https://www.nasdaq.com/articles/sfgv-etf-outflow-alert",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Sequoia Global Value ETF (Symbol: SFGV) where we have detected an approximate $280.1 million dollar outflow -- that's a 18.9% decrease week over wee",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-05T16:10:14+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -329,8 +374,8 @@
    "title": "Noteworthy ETF Outflows: VAW, NEM, FCX, ECL",
    "link": "https://www.nasdaq.com/articles/noteworthy-etf-outflows-vaw-nem-fcx-ecl",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Vanguard Materials ETF (Symbol: VAW) where we have detected an approximate $328.6 million dollar outflow -- that's a 9.7% decrease week over week (f",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-05T16:10:12+00:00",
    "tickers": [
@@ -338,7 +383,7 @@
     "FCX",
     "ECL"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -347,8 +392,8 @@
    "title": "Notable ETF Outflow Detected - DIA, TRV, SHW, MMM",
    "link": "https://www.nasdaq.com/articles/notable-etf-outflow-detected-dia-trv-shw-mmm",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the SPDR Dow Jones Industrial Average ETF Trust (Symbol: DIA) where we have detected an approximate $346.5 million dollar outflow -- that's a 0.7% decre",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-05T16:10:10+00:00",
    "tickers": [
@@ -357,7 +402,7 @@
     "SHW",
     "MMM"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -366,8 +411,8 @@
    "title": "VTV, PEP, DE, ABT: ETF Inflow Alert",
    "link": "https://www.nasdaq.com/articles/vtv-pep-de-abt-etf-inflow-alert",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Vanguard Value ETF (Symbol: VTV) where we have detected an approximate $1.5 billion dollar inflow -- that's a 0.8% increase week over week in outstan",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-05T16:10:09+00:00",
    "tickers": [
@@ -376,7 +421,7 @@
     "DE",
     "ABT"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -385,15 +430,15 @@
    "title": "EWT: ETF Outflow Alert",
    "link": "https://www.nasdaq.com/articles/ewt-etf-outflow-alert",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares MSCI Taiwan ETF (Symbol: EWT) where we have detected an approximate $330.1 million dollar outflow -- that's a 3.1% decrease week over week (",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-05T16:10:07+00:00",
    "tickers": [
     "EWT",
     "MSCI"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -402,14 +447,14 @@
    "title": "VBIL: ETF Inflow Alert",
    "link": "https://www.nasdaq.com/articles/vbil-etf-inflow-alert",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Vanguard 0-3 Month Treasury Bill ETF (Symbol: VBIL) where we have detected an approximate $1.6 billion dollar inflow -- that's a 12.9% increase week",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-05T16:10:05+00:00",
    "tickers": [
     "VBIL"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -454,20 +499,6 @@
    "published": "2026-11-05T16:08:44+00:00",
    "tickers": [],
    "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e569b4ed1cf7",
-   "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
-   "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
-   "summary": "Democrats are certain to scrutinize the U.S. intervention in Venezuela, administration mineral deals and the cancellation of previously fund energy projects.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-05T16:08:30+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1245,20 +1276,6 @@
    "tag_v": 2
   },
   {
-   "id": "74792ddc00c6",
-   "title": "Wheat Bouncing to Start Thursday",
-   "link": "https://www.nasdaq.com/articles/wheat-bouncing-start-thursday",
-   "summary": "Wheat is showing 4 to 6 cent higher trade on Thursday morning. The wheat complex faded lower on Wednesday, with buyers failing to hold midday gains. Open interest was up 2,694 contracts. Chicago SRW contracts were steady to 2 cents lower. KC HRW futures were 3 ¼ to 5 ½...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T15:45:51+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "5248d191353f",
    "title": "Cattle Look to Thursday, Following Weakness",
    "link": "https://www.nasdaq.com/articles/cattle-look-thursday-following-weakness",
@@ -1504,15 +1521,15 @@
    "title": "Thursday 11/5 Insider Buying Report: CACC, LSCC",
    "link": "https://www.nasdaq.com/articles/thursday-11-5-insider-buying-report-cacc-lscc",
    "summary": "As the saying goes, there are many possible reasons for an insider to sell a stock, but only one reason to buy -- they expect to make money. So let's look at two noteworthy recent insider buys. On Monday, Credit Acceptance's Director, Thomas N. Tryforos, made a $1.46M buy of C",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-05T15:39:45+00:00",
    "tickers": [
     "CACC",
     "LSCC"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1569,15 +1586,15 @@
    "title": "December 24th Options Now Available For Select Sector SPDR Trust - State Street Financial Select Sector SPDR ETF (XLF)",
    "link": "https://www.nasdaq.com/articles/december-24th-options-now-available-select-sector-spdr-trust-state-street-financial-select",
    "summary": "Investors in Select Sector SPDR Trust - State Street Financial Select Sector SPDR ETF (Symbol: XLF) saw new options begin trading today, for the December 24th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the XLF options chain for the new",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-05T15:35:10+00:00",
    "tickers": [
     "XLF",
     "STT"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1631,14 +1648,14 @@
    "title": "December 24th Options Now Available For STMicroelectronics (STM)",
    "link": "https://www.nasdaq.com/articles/december-24th-options-now-available-stmicroelectronics-stm",
    "summary": "Investors in STMicroelectronics NV (Symbol: STM) saw new options begin trading today, for the December 24th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the STM options chain for the new December 24th contracts and identified one put and",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-05T15:34:41+00:00",
    "tickers": [
     "STM"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1647,14 +1664,14 @@
    "title": "SU December 24th Options Begin Trading",
    "link": "https://www.nasdaq.com/articles/su-december-24th-options-begin-trading",
    "summary": "Investors in Suncor Energy Inc (Symbol: SU) saw new options become available today, for the December 24th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the SU options chain for the new December 24th contracts and identified one put and one",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-05T15:34:35+00:00",
    "tickers": [
     "SU"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1663,14 +1680,14 @@
    "title": "December 24th Options Now Available For Kinross Gold (KGC)",
    "link": "https://www.nasdaq.com/articles/december-24th-options-now-available-kinross-gold-kgc",
    "summary": "Investors in Kinross Gold Corp. (Symbol: KGC) saw new options begin trading today, for the December 24th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the KGC options chain for the new December 24th contracts and identified one put and one",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-05T15:34:33+00:00",
    "tickers": [
     "KGC"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1679,14 +1696,14 @@
    "title": "December 24th Options Now Available For Jabil (JBL)",
    "link": "https://www.nasdaq.com/articles/december-24th-options-now-available-jabil-jbl",
    "summary": "Investors in Jabil Inc (Symbol: JBL) saw new options become available today, for the December 24th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the JBL options chain for the new December 24th contracts and identified one put and one call",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-05T15:34:28+00:00",
    "tickers": [
     "JBL"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2106,23 +2123,6 @@
    "published": "2026-11-05T15:27:57+00:00",
    "tickers": [],
    "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "3ebd811ceacb",
-   "title": "Stocks Surge on Midterm Election Optimism",
-   "link": "https://www.nasdaq.com/articles/stocks-surge-midterm-election-optimism",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +1.58% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +3.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.91%. December E-mini S&amp;P futures (ESZ26 ) rose +1.60%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T15:27:43+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -3804,6 +3804,20 @@
    "tag_v": 2
   },
   {
+   "id": "6a34c21afd4f",
+   "title": "Lady Gaga, Shakira, Jack White and Boy George lead the 2027 Songwriters Hall of Fame nominees - AP News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmVKZUx0R3o5NU4xZ1JWZ3lhVDVBOE9BZnJzM28zNnlTU2paXzkyWmo1Y3huOTM2Ty11Y3NuNFp1YjlaTWYtWlVKLVVjX1ZqcmJJNWxLVkNxRmZfektSb3V0MWdrYTBwMGVEaDF4N2s3eVhPWE1NZzgzR2RBSWU1Mjl3RHpQYWJQWFFZbE13ajhmMVRxb2FLS2U4SkxRUWsz?oc=5",
+   "summary": "Lady Gaga, Shakira, Jack White and Boy George lead the 2027 Songwriters Hall of Fame nominees&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-05T15:00:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "fb05bb2b96f0",
    "title": "a.k.a. Brands (AKA) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/aka-brands-aka-q3-2026-earnings-call-transcript",
@@ -4818,6 +4832,20 @@
     "MMSI"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f507ffba045c",
+   "title": "FIFA council member Tashima to run against Infantino in election, Japanese media report - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQU9hTy1VZnNwZFVzRXRieC1rekxUcUJBSlBSeUtCdEZQanZwQ0V1V0RHcDR0bklhOVdJQ20zcVVTSzZTUlZBN1o2clJJblk5SnM1Szcxclp1RFpuNFJhUmxMbkRDVWh6bEE3WkJma1lVb3pheUN2bHFPRVRMUmJGMUxnajA2ZmFWRDh6a2pQOVAweUVNZ01MR2NXeGlvbGwyR01iRUVLbGU3dUk?oc=5",
+   "summary": "FIFA council member Tashima to run against Infantino in election, Japanese media report&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-05T14:25:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -9021,36 +9049,6 @@
     "XOM"
    ],
    "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "81e5b82df772",
-   "title": "The RealReal Appoints Shar Dubey to Board of Directors",
-   "link": "https://www.prnewswire.com/news-releases/the-realreal-appoints-shar-dubey-to-board-of-directors-302928504.html",
-   "summary": "Former Match Group CEO Brings Deep Expertise in Technology, Digital Consumer Platforms and Scaling Global Businesses SAN FRANCISCO, Nov. 5, 2026 /PRNewswire/ -- The RealReal (Nasdaq: REAL), the world's largest online marketplace for authenticated resale luxury goods, today announced the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-05T13:15:00+00:00",
-   "tickers": [
-    "MTCH"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "37e3202498d1",
-   "title": "NREF Announces Third Quarter 2026 Results, Provides Fourth Quarter 2026 Guidance | NREF Stock News",
-   "link": "https://www.stocktitan.net/news/NREF/nref-announces-third-quarter-2026-results-provides-fourth-quarter-5s2wwakbfjlb.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-05T13:15:00+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   }
