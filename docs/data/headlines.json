@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T07:46:35.022296+00:00",
+ "generated": "2026-11-06T07:51:14.031043+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,42 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-06T07:44:20+00:00",
+   "published": "2026-11-06T07:48:48+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bd4533898e72",
+   "title": "Shimadzu H1 Profit Climbs, Lifts FY Outlook; Shares Drop",
+   "link": "https://www.nasdaq.com/articles/shimadzu-h1-profit-climbs-lifts-fy-outlook-shares-drop",
+   "summary": "(RTTNews) - Shimadzu Corp. (SHMZF, 7701.T), a Japanese manufacturer of analytical instrumentation, reported Friday higher profit and net sales in its first half. Further, the company lifted outlook for fiscal year ending March 31, 2027.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:39:21+00:00",
+   "tickers": [],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aa7768b87a96",
+   "title": "IAG Q3 Profit Declines, Revenue Up 4.5%; Affirms Full Year Operating Margin Guidance",
+   "link": "https://www.nasdaq.com/articles/iag-q3-profit-declines-revenue-45-affirms-full-year-operating-margin-guidance",
+   "summary": "(RTTNews) - IAG (BAY.L, IAG.L, INR.DE, IAG.MC) reported third quarter profit after tax of 1.23 billion euros, a decline of 12.2% from a year ago. Operating profit before exceptional items decreased to 1.73 billion euros from 2.05 billion euros, prior year. The company said its op",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:36:11+00:00",
+   "tickers": [
+    "IAG",
+    "DE",
+    "MC"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -60,6 +92,98 @@
    "tag_v": 2
   },
   {
+   "id": "14faba60871e",
+   "title": "Globus Medical (GMED) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/globus-medical-gmed-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:31:25+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2d4043648b79",
+   "title": "NMI Holdings (NMIH) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/nmi-holdings-nmih-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:31:25+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "94e75d81200e",
+   "title": "Corsair Gaming (CRSR) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/corsair-gaming-crsr-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:31:25+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3024d261ee17",
+   "title": "Texas Roadhouse (TXRH) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/texas-roadhouse-txrh-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:31:25+00:00",
+   "tickers": [
+    "TXRH"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8ea711ba1b47",
+   "title": "Akamai (AKAM) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/akamai-akam-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:31:25+00:00",
+   "tickers": [
+    "AKAM"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6c89c6e568e3",
+   "title": "Solventum (SOLV) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/solventum-solv-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:31:24+00:00",
+   "tickers": [
+    "SOLV"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "fcf3ccaa3d43",
    "title": "Civista Bancshares director Macioce buys $6,056 in stock",
    "link": "https://www.investing.com/news/insider-trading-news/civista-bancshares-director-macioce-buys-6056-in-stock-93CH-5006653",
@@ -70,6 +194,22 @@
    "published": "2026-11-06T07:31:15+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0356355b8c48",
+   "title": "Axon Enterprise (AXON) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/axon-enterprise-axon-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:31:14+00:00",
+   "tickers": [
+    "AXON"
+   ],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -90,6 +230,20 @@
    "tag_v": 2
   },
   {
+   "id": "6e5e025ee413",
+   "title": "PDF Solutions (PDFS) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/pdf-solutions-pdfs-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:31:04+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b368cc90d8c4",
    "title": "TTM Technologies director Wajid Ali buys $631,541 in common stock",
    "link": "https://www.investing.com/news/insider-trading-news/ttm-technologies-director-wajid-ali-buys-631541-in-common-stock-93CH-5006651",
@@ -102,6 +256,52 @@
     "TTMI"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4efa5e8c5ca9",
+   "title": "Guardant Health (GH) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/guardant-health-gh-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:30:54+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "28e39cdbb4d7",
+   "title": "JFrog (FROG) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/jfrog-frog-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:30:44+00:00",
+   "tickers": [
+    "FROG"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aef8ca4f7c6a",
+   "title": "Savers (SVV) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/savers-svv-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:30:44+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -132,6 +332,36 @@
     "WMT"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "363340c11024",
+   "title": "Castle Bio (CSTL) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/castle-bio-cstl-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:29:14+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b2404f3ee407",
+   "title": "Innodata (INOD) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/innodata-inod-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T07:29:04+00:00",
+   "tickers": [
+    "INOD"
+   ],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -451,6 +681,20 @@
    "tickers": [],
    "type": "offering",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "027cbe5bc73e",
+   "title": "2026 U.S. House Election Results - AP News",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+   "summary": "2026 U.S. House Election Results&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-06T07:02:50+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1448,20 +1692,6 @@
    "tag_v": 2
   },
   {
-   "id": "1ad1998691f2",
-   "title": "Mississippi U.S. Senate Election Live Results 2026 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40QzF6VWVSbVp6Zkx1Q0I1OGU4aG5UVTdmMDM5UTdIVTNDd0t5RmJ1RHUxVW9DMmVialI4TWxCMERpUy1pTk1la01IS1ZVdFJJUnJGNmdBX29GU2M5ZlVqaDJ5VFctbUZtRXpLbVlpNGlYNDdkdkM0UEhod0Jmdw?oc=5",
-   "summary": "Mississippi U.S. Senate Election Live Results 2026&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-06T06:15:21+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "f4791205c5c8",
    "title": "Karman Holdings (KRMN) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/karman-holdings-krmn-q3-2026-earnings-call-transcript",
@@ -1547,6 +1777,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "1ad1998691f2",
+   "title": "Mississippi U.S. Senate Election Live Results 2026 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40QzF6VWVSbVp6Zkx1Q0I1OGU4aG5UVTdmMDM5UTdIVTNDd0t5RmJ1RHUxVW9DMmVialI4TWxCMERpUy1pTk1la01IS1ZVdFJJUnJGNmdBX29GU2M5ZlVqaDJ5VFctbUZtRXpLbVlpNGlYNDdkdkM0UEhod0Jmdw?oc=5",
+   "summary": "Mississippi U.S. Senate Election Live Results 2026&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-06T06:11:20+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2328,6 +2572,20 @@
    "tag_v": 2
   },
   {
+   "id": "fa826e972a5b",
+   "title": "North Carolina U.S. Senate Election Live Results 2026 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONGhhWm5kU2ZMdFhyeExSUmZkWEp5Z3RmWmRPVWtTNGFCdXBfM0pSdHJmR1A3VW1rQkJjay1POE5zSXpEQldmVDJsNUpIRmhQcllEbmpVdUpDOV9VSjhRRlBwUGdzMlYxU0djNjROOGRTOElILXdvYkFidTBCMF9qazBR?oc=5",
+   "summary": "North Carolina U.S. Senate Election Live Results 2026&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-06T05:25:12+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "58405e822b36",
    "title": "Lam Research Authorized To Repurchase $25 Bln Of Shares",
    "link": "https://www.nasdaq.com/articles/lam-research-authorized-repurchase-25-bln-shares",
@@ -2382,20 +2640,6 @@
    "published": "2026-11-06T05:21:46+00:00",
    "tickers": [],
    "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fa826e972a5b",
-   "title": "North Carolina U.S. Senate Election Live Results 2026 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONGhhWm5kU2ZMdFhyeExSUmZkWEp5Z3RmWmRPVWtTNGFCdXBfM0pSdHJmR1A3VW1rQkJjay1POE5zSXpEQldmVDJsNUpIRmhQcllEbmpVdUpDOV9VSjhRRlBwUGdzMlYxU0djNjROOGRTOElILXdvYkFidTBCMF9qazBR?oc=5",
-   "summary": "North Carolina U.S. Senate Election Live Results 2026&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-06T05:21:13+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2486,20 +2730,6 @@
     "AEE"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "027cbe5bc73e",
-   "title": "2026 U.S. House Election Results - AP News",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-   "summary": "2026 U.S. House Election Results&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-06T05:15:05+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -4463,6 +4693,20 @@
    "tag_v": 2
   },
   {
+   "id": "de285ebacbba",
+   "title": "Dolly Parton's manager moves to drop complaint accusing late singer's nephew of threatening estate - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYzhYRHlzd29Ta3QzUlBLVzlmZHc0c0hTa2ZocTVYektJS0xmNXI4X2hlX1FrUHFMd214ZG1BS3FYSU9YVFdsV1dONW5WZ05YemhfeG5wemJreGxrd3A4T19XeEVraEk0MGNSSjk4TC1qTEpDQ1NlRE9raGt4bElUYi0xMjk5NXVhSTd4OVoyWTdkRThRSGh3WHp0dEg?oc=5",
+   "summary": "Dolly Parton's manager moves to drop complaint accusing late singer's nephew of threatening estate&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-06T02:59:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "bc66fc43c93a",
    "title": "Asian Markets A Sea Of Red Amid Wall Street Sell-off",
    "link": "https://www.nasdaq.com/articles/asian-markets-sea-red-amid-wall-street-sell",
@@ -6290,20 +6534,6 @@
    ],
    "type": "press",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "de285ebacbba",
-   "title": "Dolly Parton's manager moves to drop complaint accusing late singer's nephew of threatening estate - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYzhYRHlzd29Ta3QzUlBLVzlmZHc0c0hTa2ZocTVYektJS0xmNXI4X2hlX1FrUHFMd214ZG1BS3FYSU9YVFdsV1dONW5WZ05YemhfeG5wemJreGxrd3A4T19XeEVraEk0MGNSSjk4TC1qTEpDQ1NlRE9raGt4bElUYi0xMjk5NXVhSTd4OVoyWTdkRThRSGh3WHp0dEg?oc=5",
-   "summary": "Dolly Parton's manager moves to drop complaint accusing late singer's nephew of threatening estate&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-06T01:29:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8604,224 +8834,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "573edbdd8716",
-   "title": "Curtiss-Wright Corporation Reports Third Quarter 2026 Financial Results and Raises Full-Year 2026 Guidance",
-   "link": "https://www.nasdaq.com/articles/curtiss-wright-corporation-reports-third-quarter-2026-financial-results-and-raises-full",
-   "summary": "Curtiss-Wright Corporation reported its financial results for the third quarter ended September 30, 2026, with sales of $953 million, up 10% compared with the prior year. Operating income was $188 million, up 13%, and diluted earnings per share (EPS) was $3.77. Adjusted diluted E",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T23:21:09+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "ddc9867f2006",
-   "title": "The Middleby Corporation Announces Chief Executive Officer Transition",
-   "link": "https://www.nasdaq.com/articles/middleby-corporation-announces-chief-executive-officer-transition",
-   "summary": "The Middleby Corporation announced that Timothy J. FitzGerald will transition out of his position as Chief Executive Officer and step down from the Company's board of directors, effective March 31, 2027. During the transition period, Mr. FitzGerald will assist his successor with",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T23:21:09+00:00",
-   "tickers": [
-    "MIDD"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f79957e88348",
-   "title": "Cathie Wood Just Sold AMD Stock and Bought This AI Chip Stock Instead",
-   "link": "https://www.nasdaq.com/articles/cathie-wood-just-sold-amd-stock-and-bought-ai-chip-stock-instead",
-   "summary": "Key PointsCathie Wood's Ark Invest recently sold shares of AMD and purchased shares of Nvidia.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T23:20:00+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "248a622580f3",
-   "title": "Graham Corp (GHM) Q2 2027 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/graham-corp-ghm-q2-2027-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T23:19:23+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "977191433a25",
-   "title": "GEO Group (GEO) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/geo-group-geo-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T23:19:23+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f5329ef4875a",
-   "title": "Strategic Education (STRA) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/strategic-education-stra-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T23:19:23+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "bd126483bccf",
-   "title": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
-   "link": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
-   "summary": "Cramer warned that the sell-off in AI stocks likely has further to run.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-05T23:17:51+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "79ee13bb1c77",
-   "title": "ArcelorMittal (MT) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/arcelormittal-mt-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T23:16:34+00:00",
-   "tickers": [
-    "MT"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d7a22141e587",
-   "title": "Ex-Cleveland Guardians catcher Bo Naylor testifies he didn't know gamblers bet on individual pitches - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnJ4b1F6NEJHTDY5MjVpS1lDdkZ0TmRZU3UtbkRWY2tWUUhUbEF2c2c5UlpJRXJoTlhKNDhXVDF5cHlvUHJjY0N3Qkw1MXRfbjhWbG04YUxrSS1fMjF1U1VYSUlodGtqVXp2Vms4UkRLc1VQQkU1eWpINGlLT1FVNzhrZklYWGRXczdfRFR6Sm0wVUxjUDZZRg?oc=5",
-   "summary": "Ex-Cleveland Guardians catcher Bo Naylor testifies he didn't know gamblers bet on individual pitches&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-05T23:16:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a53113759744",
-   "title": "Losing Streak May Continue For Japan Stock Market",
-   "link": "https://www.nasdaq.com/articles/losing-streak-may-continue-japan-stock-market-1",
-   "summary": "(RTTNews) - The Japan stock market has tracked lower in four straight sessions, sinking almost 3,600 points or 5.6 percent in that span. The Nikkei now sits just beneath the 61,080-point plateau and it's got another awful lead for Friday's trade.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T23:15:49+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "22e57869b3be",
-   "title": "Motorsport Excellence: Discover Premier Mercedes-AMG® Vehicles for Sale in Scottsdale",
-   "link": "https://www.prnewswire.com/news-releases/motorsport-excellence-discover-premier-mercedes-amg-vehicles-for-sale-in-scottsdale-302931331.html",
-   "summary": "Mercedes-Benz of Scottsdale expands access to high-performance coupes, sedans, and SUVs with custom inventory digital tools. SCOTTSDALE, Ariz., Nov. 5, 2026 /PRNewswire/ -- Driving enthusiasts seeking hand-built performance and executive luxury can now explore an exceptional selection of...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-05T23:15:00+00:00",
-   "tickers": [
-    "AMG"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "60f94a5dfe8f",
-   "title": "NorthWestern Energy (NWE) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/northwestern-energy-nwe-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T23:13:43+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "41e934cc14d7",
-   "title": "Cabaletta Bio, Inc. Reports Third Quarter 2026 Financial Results and $299.4 million Cash Position",
-   "link": "https://www.nasdaq.com/articles/cabaletta-bio-inc-reports-third-quarter-2026-financial-results-and-2994-million-cash",
-   "summary": "Cabaletta Bio, Inc. reported its financial results for the third quarter ended September 30, 2026, and provided a business update. As of September 30, 2026, the company had cash and cash equivalents of approximately $299.4 million, which includes approximately $115.0 million from",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T23:13:09+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "99106b0655be",
-   "title": "Cronos Group Inc. Reports Q3 2026 Net Revenue of $63.5 million and Completes CanAdelaar Acquisition",
-   "link": "https://www.nasdaq.com/articles/cronos-group-inc-reports-q3-2026-net-revenue-635-million-and-completes-canadelaar",
-   "summary": "Cronos Group Inc. reported its financial results for the third quarter ended September 30, 2026. Net revenue of $63.5 million in Q3 2026 increased by $27.1 million from Q3 2025, while gross profit of $32.3 million in Q3 2026 increased by $14.0 million from Q3 2025. Net income was",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T23:13:08+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ee9d3abb83c2",
-   "title": "AI Concerns May Continue To Drag KOSPI Lower",
-   "link": "https://www.nasdaq.com/articles/ai-concerns-may-continue-drag-kospi-lower",
-   "summary": "(RTTNews) - The South Korea stock market has alternated between positive and negative finishes through the last four trading days since the end of the two-day slide in which it had given up more than 280 points or 4.6 percent. The KOSPI now sits just above the 5,380-point plateau",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T23:10:34+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8833,13 +8845,11 @@
   "MTD": "Mettler-Toledo International",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "GEHC": "GE HealthCare Technologies",
-  "AMG": "Affiliated Managers Group",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
   "JHX": "James Hardie Industries",
-  "AMD": "Advanced Micro Devices",
   "CMG": "Chipotle Mexican Grill",
   "TECK": "Teck Resources Limited",
   "LHX": "L3Harris Technologies",
@@ -8847,6 +8857,7 @@
   "OPEN": "Opendoor Technologies",
   "PLTR": "Palantir Technologies",
   "SPHR": "Sphere Entertainment",
+  "AKAM": "Akamai Technologies",
   "LULU": "lululemon athletica",
   "WTRG": "Essential Utilities",
   "COGT": "Cogent Biosciences",
@@ -8880,9 +8891,12 @@
   "TW": "Tradeweb Markets",
   "GE": "General Electric",
   "ASTS": "AST SpaceMobile",
+  "AXON": "Axon Enterprise",
   "BAC": "Bank of America",
+  "GH": "Guardant Health",
   "KRMN": "Karman Holdings",
   "REG": "Regency Centers",
+  "TXRH": "Texas Roadhouse",
   "WDC": "Western Digital",
   "DOX": "Amdocs Limited",
   "FLNC": "Fluence Energy",
@@ -8914,7 +8928,6 @@
   "H": "Hyatt Hotels",
   "IREN": "IREN Limited",
   "LRCX": "Lam Research",
-  "MIDD": "The Middleby",
   "OSCR": "Oscar Health",
   "RL": "Ralph Lauren",
   "STT": "State Street",
@@ -8938,6 +8951,7 @@
   "CME": "CME Group",
   "SM": "SM Energy",
   "SNOW": "Snowflake",
+  "SOLV": "Solventum",
   "APP": "AppLovin",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
@@ -8945,6 +8959,7 @@
   "DOCS": "Doximity",
   "DUOL": "Duolingo",
   "GOOG": "Alphabet",
+  "INOD": "Innodata",
   "LMND": "Lemonade",
   "MC": "Moelis &",
   "NI": "NiSource",
@@ -8982,6 +8997,7 @@
   "ACM": "AECOM",
   "CHWY": "Chewy",
   "CROX": "Crocs",
-  "FRMI": "Fermi"
+  "FRMI": "Fermi",
+  "FROG": "JFrog"
  }
 }
