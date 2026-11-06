@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-06T06:01:41.768700+00:00",
+ "generated": "2026-11-06T06:06:35.774276+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "3a7f20c51280",
+   "title": "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank",
+   "link": "https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html",
+   "summary": "Over the last month, India's Nifty 50 has gained nearly 9%, while markets with heavy AI exposure, including the U.S., Japan, South Korea and Taiwan are deep in the red.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-06T06:02:36+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "83e5a6479561",
    "title": "Amazon is selling a waterproof solar light curtain with 8 lighting modes for just $22",
@@ -43,6 +57,22 @@
    "domain": "stocktitan.net",
    "published": "2026-11-06T06:00:00+00:00",
    "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f0e71d9048c9",
+   "title": "Sugar Prices Edge Higher on Short Covering",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-edge-higher-short-covering",
+   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.09 (+0.49%) on Thursday, and December London ICE white sugar #5 (SWZ26 ) closed up +2.40 (+0.48%). Sugar prices settled higher on Thursday as a weaker dollar ($DXY ) and a +2% jump in WTI crude oil (CLZ26 ) prices fueled...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T05:55:08+00:00",
+   "tickers": [
+    "ICE"
+   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -166,6 +196,50 @@
    "tag_v": 2
   },
   {
+   "id": "f2e3d0e3718b",
+   "title": "ArcelorMittal S.A. Reports Third Quarter 2026 Results",
+   "link": "https://www.nasdaq.com/articles/arcelormittal-sa-reports-third-quarter-2026-results",
+   "summary": "ArcelorMittal S.A. announced its results for the three-month period ended September 30, 2026. Sales decreased by 1.8% to $16.5 billion in 3Q 2026 as compared to $16.8 billion in 2Q 2026, primarily reflecting a 2.1% decrease in steel shipments. The company reported a 3Q 2026 repor",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T05:48:36+00:00",
+   "tickers": [
+    "MT"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "349ef516c2b1",
+   "title": "MediWound Ltd. Enters Underwriting Agreement for $17.25 million Public Offering",
+   "link": "https://www.nasdaq.com/articles/mediwound-ltd-enters-underwriting-agreement-1725-million-public-offering",
+   "summary": "On November 3, 2026, MediWound Ltd. entered into an underwriting agreement with H.C. Wainwright &amp; Co., LLC relating to the public offering of 1,200,000 ordinary shares, par value NIS 0.07 per share, at a public offering price of $12.50 per share. The underwriter agreed to pur",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T05:48:36+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "831cbfaec161",
+   "title": "Lottery.com Inc. Regains Compliance with Nasdaq Listing Rule 5250(c)(1)",
+   "link": "https://www.nasdaq.com/articles/lotterycom-inc-regains-compliance-nasdaq-listing-rule-5250c1",
+   "summary": "On November 4, 2026, Lottery.com Inc., which filed under the name Sports Entertainment Gaming Global Corporation, received a letter from the Office of the General Counsel of The Nasdaq Stock Market LLC. The letter stated that the company has regained compliance with Listing Rule",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T05:48:23+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "98e5f662b597",
    "title": "William Blair downgrades CVRx stock rating on reimbursement headwinds",
    "link": "https://www.investing.com/news/analyst-ratings/william-blair-downgrades-cvrx-stock-rating-on-reimbursement-headwinds-93CH-5006531",
@@ -210,20 +284,6 @@
    "tag_v": 2
   },
   {
-   "id": "3a7f20c51280",
-   "title": "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank",
-   "link": "https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html",
-   "summary": "Over the last month, India's benchmark Nifty 50 has gained nearly 8%, outperforming global tech-heavy markets such as South Korea, Taiwan and the U.S.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-06T05:41:51+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "fec7289bb7e6",
    "title": "Ramsay Santé Posts Narrower Loss In Q1",
    "link": "https://www.nasdaq.com/articles/ramsay-sante-posts-narrower-loss-q1",
@@ -249,6 +309,52 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e9eefd059af1",
+   "title": "Sempra Reports Third-Quarter 2026 Results",
+   "link": "https://www.nasdaq.com/articles/sempra-reports-third-quarter-2026-results",
+   "summary": "Sempra reported third-quarter 2026 earnings, prepared in accordance with Generally Accepted Accounting Principles (GAAP), of $877 million or $1.34 per diluted share, compared to third-quarter 2025 GAAP earnings of $77 million or $0.12 per diluted share. On an adjusted basis, thir",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T05:38:28+00:00",
+   "tickers": [
+    "SRE"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "545088f1a0f2",
+   "title": "L3Harris Technologies, Inc. Closes $1.0 billion Notes Offering",
+   "link": "https://www.nasdaq.com/articles/l3harris-technologies-inc-closes-10-billion-notes-offering",
+   "summary": "On November 5, 2026, L3Harris Technologies, Inc. closed the issuance and sale of notes in the aggregate amount of $1.0 billion, comprised of $500 million aggregate principal amount of 5.200% Notes due 2029 and $500 million aggregate principal amount of 5.400% Notes due 2032. The",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T05:38:28+00:00",
+   "tickers": [
+    "LHX"
+   ],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b106eadfe9e0",
+   "title": "Sony Group Corporation Announces Status of Share Repurchase Program for October 2026",
+   "link": "https://www.nasdaq.com/articles/sony-group-corporation-announces-status-share-repurchase-program-october-2026",
+   "summary": "Sony Group Corporation has announced the status of the repurchase of shares of its own common stock pursuant to Article 459, Paragraph 1 of the Companies Act of Japan and Article 34 of Sony&rsquo;s Articles of Incorporation. During the period from October 1, 2026 to October 31, 2",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T05:38:27+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -579,22 +685,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-06T05:18:28+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f0e71d9048c9",
-   "title": "Sugar Prices Edge Higher on Short Covering",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-edge-higher-short-covering",
-   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.09 (+0.49%) on Thursday, and December London ICE white sugar #5 (SWZ26 ) closed up +2.40 (+0.48%). Sugar prices settled higher on Thursday as a weaker dollar ($DXY ) and a +2% jump in WTI crude oil (CLZ26 ) prices fueled...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T05:16:06+00:00",
-   "tickers": [
-    "ICE"
-   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -3490,7 +3580,7 @@
    "title": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in Alphabet Inc. of Class Action Lawsuit and Upcoming Deadlines - GOOG",
    "link": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-alphabet-inc-of-class-action-lawsuit-and-upcoming-deadlines--goog-302931516.html",
    "summary": "NEW YORK, Nov. 5, 2026 /PRNewswire/ -- Pomerantz LLP announces that a class action lawsuit has been filed against Alphabet Inc. (\"Alphabet\" or the \"Company\") (NASDAQ: GOOG). Such investors are advised to contact Danielle Peyton at newaction@pomlaw.com or 646-581-9980, (or 888.4-POMLAW),...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-11-06T02:27:00+00:00",
@@ -3714,6 +3804,20 @@
     "QBTS"
    ],
    "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "748c52cf3c72",
+   "title": "Gina Hinojosa begins work to take office as Texas’ first Democratic governor in decades - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2hsekFhbE45ZGQ2cVAzNXVwX0dkZE83UWpTYktBWWY0WEZqLU45dGtfdjVwMnJLR1V6NWZLbUNHeHp3NHl2YTRwelc0eklNU2hQVVJpNmpiLTEyWkI5UC16M0xRZDQ2R3pLdnJnd2lDOUZDVWxLeFp0UW1VWFRNaURZX1VFc051eUZOeWNnZEdfWS1ReEdoTEhhZ296VVhUSTZybTNqTXgtd2FKQzBrX3ZMOFA0UFRhc3d2M0pfVXE?oc=5",
+   "summary": "Gina Hinojosa begins work to take office as Texas’ first Democratic governor in decades&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-06T02:21:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -4528,20 +4632,6 @@
    "tickers": [],
    "type": "legal",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "748c52cf3c72",
-   "title": "Gina Hinojosa begins work to take office as Texas’ 1st Democratic governor in decades - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2hsekFhbE45ZGQ2cVAzNXVwX0dkZE83UWpTYktBWWY0WEZqLU45dGtfdjVwMnJLR1V6NWZLbUNHeHp3NHl2YTRwelc0eklNU2hQVVJpNmpiLTEyWkI5UC16M0xRZDQ2R3pLdnJnd2lDOUZDVWxLeFp0UW1VWFRNaURZX1VFc051eUZOeWNnZEdfWS1ReEdoTEhhZ296VVhUSTZybTNqTXgtd2FKQzBrX3ZMOFA0UFRhc3d2M0pfVXE?oc=5",
-   "summary": "Gina Hinojosa begins work to take office as Texas’ 1st Democratic governor in decades&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-06T01:24:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8724,96 +8814,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c68fbed7123b",
-   "title": "Ingevity (NGVT) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/ingevity-ngvt-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T22:22:54+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "37999309fad5",
-   "title": "Nutrien (NTR) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/nutrien-ntr-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T22:22:44+00:00",
-   "tickers": [
-    "NTR"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2411e7005b1d",
-   "title": "Solaris (SEI) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/solaris-sei-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T22:22:39+00:00",
-   "tickers": [
-    "SEI"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "566ab01f91ca",
-   "title": "Kinetik Holdings (KNTK) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/kinetik-holdings-kntk-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T22:22:38+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "04e1d46ddd98",
-   "title": "Outset Medical (OM) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/outset-medical-om-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T22:22:38+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8252c746b59f",
-   "title": "Stock Market Today, Nov. 5: Intel Falls on Weak Fourth-Quarter Sales Outlook Amid Chip Selloff",
-   "link": "https://www.nasdaq.com/articles/stock-market-today-nov-5-intel-falls-weak-fourth-quarter-sales-outlook-amid-chip-selloff",
-   "summary": "Intel (NASDAQ:INTC), an x86 CPUs, data center chips, and contract chip manufacturing provider, closed at $52.25, down 10.33%. Intel fell after a broader semiconductor sell-off and weak fourth-quarter guidance, while investors are watching data-center spending and server demand ne",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T22:22:16+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "type": "guidance",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8822,7 +8822,6 @@
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "CNQ": "Canadian Natural Resources Limited",
   "TSM": "Taiwan Semiconductor Manufacturing",
-  "SEI": "Solaris Energy Infrastructure",
   "MTD": "Mettler-Toledo International",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "GEHC": "GE HealthCare Technologies",
@@ -8835,6 +8834,7 @@
   "JHX": "James Hardie Industries",
   "AMD": "Advanced Micro Devices",
   "CMG": "Chipotle Mexican Grill",
+  "LHX": "L3Harris Technologies",
   "NTLA": "Intellia Therapeutics",
   "OPEN": "Opendoor Technologies",
   "PLTR": "Palantir Technologies",
@@ -8940,7 +8940,6 @@
   "GKOS": "Glaukos",
   "HUBS": "HubSpot",
   "IAG": "IAMGOLD",
-  "NTR": "Nutrien",
   "PII": "Polaris",
   "VLTO": "Veralto",
   "VTRS": "Viatris",
@@ -8969,7 +8968,6 @@
   "CHWY": "Chewy",
   "CROX": "Crocs",
   "FRMI": "Fermi",
-  "INTC": "Intel",
   "IONQ": "IonQ",
   "LYFT": "Lyft"
  }
