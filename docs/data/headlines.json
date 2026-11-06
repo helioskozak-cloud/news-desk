@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-06T16:11:28.549771+00:00",
+ "generated": "2026-11-06T16:16:34.292003+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "925f3b2196a5",
+   "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
+   "link": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
+   "summary": "Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which he continues despite the midterm results.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-06T16:12:33+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "2ec3542a676a",
    "title": "NEC Director Kevin Hassett: Any locality that doesn't want a data center doesn't have to allow it",
@@ -11,7 +25,7 @@
    "source": "CNBC Investing",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-06T16:08:28+00:00",
+   "published": "2026-11-06T16:10:44+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -154,20 +168,6 @@
    "tag_v": 2
   },
   {
-   "id": "925f3b2196a5",
-   "title": "Data center double-down: Hassett says Blue Wave won't stop AI build-out",
-   "link": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-   "summary": "Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which continues despite the midterm results.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-06T15:55:48+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "8c17ad56c0f4",
    "title": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
    "link": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
@@ -258,14 +258,14 @@
    "title": "Interesting SOXX Put And Call Options For December 24th",
    "link": "https://www.nasdaq.com/articles/interesting-soxx-put-and-call-options-december-24th",
    "summary": "Investors in iShares Trust - iShares Semiconductor ETF (Symbol: SOXX) saw new options become available today, for the December 24th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the SOXX options chain for the new December 24th contracts an",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-06T15:50:57+00:00",
    "tickers": [
     "SOXX"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -274,14 +274,14 @@
    "title": "VCLT: ETF Inflow Alert",
    "link": "https://www.nasdaq.com/articles/vclt-etf-inflow-alert",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Vanguard Long-Term Corporate Bond ETF (Symbol: VCLT) where we have detected an approximate $808.1 million dollar inflow -- that's a 10.4% increase we",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-06T15:50:52+00:00",
    "tickers": [
     "VCLT"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -290,14 +290,14 @@
    "title": "SMH February 2029 Options Begin Trading",
    "link": "https://www.nasdaq.com/articles/smh-february-2029-options-begin-trading",
    "summary": "Investors in VanEck ETF Trust - Semiconductor ETF (Symbol: SMH) saw new options begin trading today, for the February 2029 expiration. One of the key data points that goes into the price an option buyer is willing to pay, is the time value, so with 833 days until expiration the",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-06T15:50:49+00:00",
    "tickers": [
     "SMH"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -306,14 +306,14 @@
    "title": "SSO, AXTQ: Big ETF Outflows",
    "link": "https://www.nasdaq.com/articles/sso-axtq-big-etf-outflows",
    "summary": "Looking at units outstanding versus one week prior within the universe of ETFs covered at ETF Channel, the biggest outflow was seen in the ProShares Ultra S&amp;P500, where 16,700,000 units were destroyed, or a 13.4% decrease week over week. Among the largest underlying compone",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-06T15:50:47+00:00",
    "tickers": [
     "SSO"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -322,15 +322,15 @@
    "title": "SCHP, ZNOV: Big ETF Inflows",
    "link": "https://www.nasdaq.com/articles/schp-znov-big-etf-inflows",
    "summary": "Comparing units outstanding versus one week ago at the coverage universe of ETFs at ETF Channel, the biggest inflow was seen in the Schwab U.S. TIPs ETF, which added 40,600,000 units, or a 6.3% increase week over week. And on a percentage change basis, the ETF with the bigges",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-06T15:50:31+00:00",
    "tickers": [
     "SCHW",
     "SCHP"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -339,14 +339,14 @@
    "title": "Notable ETF Outflow Detected - MINT",
    "link": "https://www.nasdaq.com/articles/notable-etf-outflow-detected-mint",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the PIMCO Enhanced Short Maturity Active Exchange-Traded Fund (Symbol: MINT) where we have detected an approximate $604.6 million dollar outflow -- that",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-06T15:50:06+00:00",
    "tickers": [
     "MINT"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -355,8 +355,8 @@
    "title": "ITB, DHI, PHM, LEN: Large Outflows Detected at ETF",
    "link": "https://www.nasdaq.com/articles/itb-dhi-phm-len-large-outflows-detected-etf-0",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares U.S. Home Construction ETF (Symbol: ITB) where we have detected an approximate $157.8 million dollar outflow -- that's a 6.3% decrease week",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-06T15:50:04+00:00",
    "tickers": [
@@ -365,7 +365,7 @@
     "PHM",
     "LEN"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -388,14 +388,14 @@
    "title": "Notable ETF Outflow Detected - BBAG",
    "link": "https://www.nasdaq.com/articles/notable-etf-outflow-detected-bbag",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the JPMorgan BetaBuilders U.S. Aggregate Bond ETF (Symbol: BBAG) where we have detected an approximate $191.2 million dollar outflow -- that's a 19.3% d",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-06T15:50:01+00:00",
    "tickers": [
     "JPM"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -404,8 +404,8 @@
    "title": "XLU, CEG, AEP, D: ETF Outflow Alert",
    "link": "https://www.nasdaq.com/articles/xlu-ceg-aep-d-etf-outflow-alert",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the State Street Utilities Select Sector SPDR ETF (Symbol: XLU) where we have detected an approximate $342.2 million dollar outflow -- that's a 1.4% dec",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-06T15:49:53+00:00",
    "tickers": [
@@ -414,7 +414,7 @@
     "CEG",
     "AEP"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -423,14 +423,14 @@
    "title": "Noteworthy ETF Inflows: IWM, BTSG, FROG, TWST",
    "link": "https://www.nasdaq.com/articles/noteworthy-etf-inflows-iwm-btsg-frog-twst",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares Russell 2000 ETF (Symbol: IWM) where we have detected an approximate $867.2 million dollar inflow -- that's a 1.2% increase week over week in",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-06T15:49:49+00:00",
    "tickers": [
     "IWM"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -439,14 +439,14 @@
    "title": "VCIT: Large Inflows Detected at ETF",
    "link": "https://www.nasdaq.com/articles/vcit-large-inflows-detected-etf",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Vanguard Intermediate-Term Corporate Bond ETF (Symbol: VCIT) where we have detected an approximate $822.9 million dollar inflow -- that's a 1.2% incr",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-06T15:49:47+00:00",
    "tickers": [
     "VCIT"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
