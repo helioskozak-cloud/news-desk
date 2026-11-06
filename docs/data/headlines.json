@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-06T09:46:29.598299+00:00",
+ "generated": "2026-11-06T09:51:41.425168+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "723358549caf",
+   "title": "Stocks crater as midterms spur investor exodus from tech and AI",
+   "link": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/",
+   "summary": "The tech-heavy Nasdaq is now in a \"correction\" as Wall Street weighs the impact of the Democrats' wins on the critical AI sector.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-06T09:48:16+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "13f7f38f5e1d",
+   "title": "TCL CSOT Begins Equipment Move-In at Its t8 Production Line",
+   "link": "https://www.prnewswire.com/news-releases/tcl-csot-begins-equipment-move-in-at-its-t8-production-line-302931951.html",
+   "summary": "GUANGZHOU, China, Nov. 6, 2026 /PRNewswire/ -- TCL CSOT's t8 8.6-generation Inkjet Printing OLED (IJP OLED) production line in Guangzhou had entered the equipment move-in phase on October 31. With core production equipment now moving into the facility, the world's first 8.6-generation IJP...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-06T09:46:00+00:00",
+   "tickers": [
+    "OLED"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "b6d897e50209",
    "title": "Baird cuts Sarepta Therapeutics stock price target on growth concerns",
@@ -400,20 +430,6 @@
     "NET"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "723358549caf",
-   "title": "Stocks crater as midterms spur investor exodus from tech and AI",
-   "link": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/",
-   "summary": "The tech-heavy Nasdaq is now in a \"correction\" as Wall Street weighs the impact of the Democrats' wins on the critical AI sector.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-06T09:17:16+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8814,20 +8830,6 @@
    "type": "legal",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "5f559b6d8fe2",
-   "title": "UN climate talks start in the year of disasters, energy price shocks and fast rising temperatures - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUZrSkdKLTY2TXFCSG9hYlJQRmtJQk9nMkVzS3FNcHhBNm91UVpid1B0dFctRS1ETzlRamJ2Z2ZPcm9CNmdJTnBQbGlWc29CZ2JDaTdaNTc2emNFaUNHcnZHZWZxQ3lZOUJHNXdqNkhCT2FwMWNwSE5zbTNZWW5yd0ZQcTh0QXZaMVZ1cXpIc3k2WDRCclZucDlYc3AxdmdpX1E?oc=5",
-   "summary": "UN climate talks start in the year of disasters, energy price shocks and fast rising temperatures&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-06T02:06:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8874,6 +8876,7 @@
   "JNJ": "Johnson & Johnson",
   "MU": "Micron Technology",
   "NFG": "National Fuel Gas",
+  "OLED": "Universal Display",
   "TMDX": "TransMedics Group",
   "VERA": "Vera Therapeutics",
   "CVCO": "Cavco Industries",
