@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T22:51:00.931334+00:00",
+ "generated": "2026-11-06T22:56:13.358357+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -41,6 +41,69 @@
    "domain": "stocktitan.net",
    "published": "2026-11-06T22:46:00+00:00",
    "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "850dcb827992",
+   "title": "Cocoa Prices Pressured by Soaring ICE Inventories",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-pressured-soaring-ice-inventories",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed down -26 (-0.50%) on Friday, and ICE London cocoa #7 (CAZ26 ) closed up +19 (+0.49%). Cocoa prices fell to fresh 5-week lows on Friday but recovered from their worst levels and settled mixed. ICE cocoa inventories are easing supply concerns and weighing...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T22:41:47+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bf22cf0ebd92",
+   "title": "Nat-Gas Prices Rise on Cool US Temps and Record LNG Exports",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-rise-cool-us-temps-and-record-lng-exports",
+   "summary": "December Nymex natural gas (NGZ26 ) closed up +0.051 (+1.73%) on Friday. Dec nat-gas prices climbed to a 1-week high on Friday and settled higher on prospects of colder US temperatures, which could boost heating demand for nat-gas. The Commodity Weather Group said Friday that forecasts shifted cooler across the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T22:41:47+00:00",
+   "tickers": [
+    "LNG"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c6aaa1938706",
+   "title": "Dollar Gains on US Economic Strength and Hawkish Fed",
+   "link": "https://www.nasdaq.com/articles/dollar-gains-us-economic-strength-and-hawkish-fed",
+   "summary": "The dollar index (DXY00 ) rallied to a 1-week high today and finished up by +0.71%. The dollar jumped Friday on the stronger-than-expected US Oct payroll report, which showed payrolls and hourly earnings rose more than expected and the unemployment rate unexpectedly declined, hawkish factors for Fed policy. Also, the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T22:41:47+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "5de821d5fa1b",
+   "title": "Stocks Supported by Chipmaker Strength and a Blowout US Payroll Report",
+   "link": "https://www.nasdaq.com/articles/stocks-supported-chipmaker-strength-and-blowout-us-payroll-report",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.89% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.42%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.12%. December E-mini S&amp;P futures (ESZ26 ) are up +0.90%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T22:41:46+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -162,6 +225,38 @@
    "tag_v": 2
   },
   {
+   "id": "5d83ce112aca",
+   "title": "Sugar Prices Retreat on Stronger India Sugar Output",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-retreat-stronger-india-sugar-output",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.36 (-1.94%) today, and December London ICE white sugar #5 (SWZ26 ) is down -2.00 (-0.40%). Sugar prices extended their three-week-long slide today, with NY sugar falling to a 5-week low and London sugar dropping to a 3-month low. Signs of...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T22:35:03+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b885c04ed02f",
+   "title": "Stronger India Sugar Output Weighs on Prices",
+   "link": "https://www.nasdaq.com/articles/stronger-india-sugar-output-weighs-prices",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.32 (-1.72%) on Friday, and December London ICE white sugar #5 (SWZ26 ) closed up +2.30 (+0.46%). Sugar prices extended their three-week-long slide on Friday, with NY sugar falling to a 5-week low and London sugar dropping to a 3-month low....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T22:35:03+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "1484f15ac245",
    "title": "Plains (PAA) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/plains-paa-q3-2026-earnings-call-transcript",
@@ -204,6 +299,48 @@
    "tag_v": 2
   },
   {
+   "id": "3dac2b4ebba3",
+   "title": "DarioHealth Corp. Appoints John R. Palumbo as Chairman of the Board",
+   "link": "https://www.nasdaq.com/articles/dariohealth-corp-appoints-john-r-palumbo-chairman-board",
+   "summary": "On November 3, 2026, the Board of Directors of DarioHealth Corp. appointed John R. Palumbo as Chairman of the Board, effective immediately. The appointment was made on the recommendation of the Nominating Committee of the Board of Directors. Mr. Palumbo succeeds Yoav Shaked, who",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T22:31:45+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9cd51a6a8e88",
+   "title": "Hawaiian Electric Industries, Inc. Reports Third Quarter 2026 Results",
+   "link": "https://www.nasdaq.com/articles/hawaiian-electric-industries-inc-reports-third-quarter-2026-results",
+   "summary": "Hawaiian Electric Industries, Inc. reported consolidated GAAP net income of $35 million, or $0.20 per share, for the third quarter of 2026, compared to net income of $31 million, or $0.18 per share, in the third quarter of 2025. Core net income was $23 million, or $0.13 per share",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T22:31:45+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6c41c0fb0134",
+   "title": "Central Puerto S.A. Announces Capital Reduction Following Cancellation of 2,299,993 Common Shares",
+   "link": "https://www.nasdaq.com/articles/central-puerto-sa-announces-capital-reduction-following-cancellation-2299993-common-shares",
+   "summary": "Central Puerto S.A. has announced that the cancellation by operation of law of 2,299,993 common shares, each carrying one vote per share, has taken place. This cancellation occurred because, upon the lapse of three years from their acquisition made between September 8, 2023 and O",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T22:31:44+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "73841e35d667",
    "title": "Nvidia CEO Jensen Huang seen as target of Chinese spy plot, according to the New York Times",
    "link": "https://www.cnbc.com/video/2026/11/06/nvidia-ceo-jensen-huang-seen-as-target-of-chinese-spy-plot-according-to-the-new-york-times.html",
@@ -216,6 +353,22 @@
     "NYT"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "69b2fad031b6",
+   "title": "Coffee Prices Rebound as ICE Inventories Remain Tight",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-rebound-ice-inventories-remain-tight",
+   "summary": "December arabica coffee (KCZ26 ) is up +1.70 (+0.61%) today, and January ICE robusta coffee (RMF27 ) is up +26 (+0.60%). Coffee prices recovered from early losses today and are moving higher, with arabica rebounding from a 5-week low. Tight coffee inventories support coffee prices. ICE arabica inventories fell to...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T22:30:03+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -528,22 +681,6 @@
    "tag_v": 2
   },
   {
-   "id": "5d83ce112aca",
-   "title": "Sugar Prices Retreat on Stronger India Sugar Output",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-retreat-stronger-india-sugar-output",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.36 (-1.94%) today, and December London ICE white sugar #5 (SWZ26 ) is down -2.00 (-0.40%). Sugar prices extended their three-week-long slide today, with NY sugar falling to a 5-week low and London sugar dropping to a 3-month low. Signs of...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T22:11:50+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "effc896bff32",
    "title": "Stock Indexes Push Higher as Chipmakers Roar Back",
    "link": "https://www.nasdaq.com/articles/stock-indexes-push-higher-chipmakers-roar-back",
@@ -600,22 +737,6 @@
    "tickers": [],
    "type": "dividend",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "850dcb827992",
-   "title": "Cocoa Prices Pressured by Soaring ICE Inventories",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-pressured-soaring-ice-inventories",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed down -26 (-0.50%) on Friday, and ICE London cocoa #7 (CAZ26 ) closed up +19 (+0.49%). Cocoa prices fell to fresh 5-week lows on Friday but recovered from their worst levels and settled mixed. ICE cocoa inventories are easing supply concerns and weighing...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T22:05:29+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -945,22 +1066,6 @@
    "tag_v": 2
   },
   {
-   "id": "bf22cf0ebd92",
-   "title": "Nat-Gas Prices Rise on Cool US Temps and Record LNG Exports",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-rise-cool-us-temps-and-record-lng-exports",
-   "summary": "December Nymex natural gas (NGZ26 ) closed up +0.051 (+1.73%) on Friday. Dec nat-gas prices climbed to a 1-week high on Friday and settled higher on prospects of colder US temperatures, which could boost heating demand for nat-gas. The Commodity Weather Group said Friday that forecasts shifted cooler across the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T21:51:42+00:00",
-   "tickers": [
-    "LNG"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "7b06e8f20664",
    "title": "Coffee Prices Settle Higher on Tight ICE Inventories",
    "link": "https://www.nasdaq.com/articles/coffee-prices-settle-higher-tight-ice-inventories",
@@ -1088,23 +1193,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-06T21:47:21+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5de821d5fa1b",
-   "title": "Stocks Supported by Chipmaker Strength and a Blowout US Payroll Report",
-   "link": "https://www.nasdaq.com/articles/stocks-supported-chipmaker-strength-and-blowout-us-payroll-report",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.89% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.42%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.12%. December E-mini S&amp;P futures (ESZ26 ) are up +0.90%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T21:47:20+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -2562,22 +2650,6 @@
    "tag_v": 2
   },
   {
-   "id": "b885c04ed02f",
-   "title": "Stronger India Sugar Output Weighs on Prices",
-   "link": "https://www.nasdaq.com/articles/stronger-india-sugar-output-weighs-prices",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.32 (-1.72%) on Friday, and December London ICE white sugar #5 (SWZ26 ) closed up +2.30 (+0.46%). Sugar prices extended their three-week-long slide on Friday, with NY sugar falling to a 5-week low and London sugar dropping to a 3-month low....",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T21:10:01+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "c06f4d4eb1da",
    "title": "Havertys Furniture Fourth Quarter 2026 Cash Dividend | HVT Stock News",
    "link": "https://www.stocktitan.net/news/HVT/havertys-furniture-fourth-quarter-2026-cash-m8vxhfy21ey2.html",
@@ -2616,20 +2688,6 @@
    "published": "2026-11-06T21:09:04+00:00",
    "tickers": [],
    "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "277d214c3155",
-   "title": "Virginia U.S. House Election Live Results 2026 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tZ2xlckM5X3BORGkzSWhxODEtOS1TTEZjNUhCN3hkN2JISTVsUF9Hd1cwc2daNkJhSVJPVk1vZUVHVmpGWHhMOWUzNjdtUmt3dk9CRWFSWkl4aTRXOTVKOXc5Tnp4YWRZcE00WU5GX1docU9fc3RUUg?oc=5",
-   "summary": "Virginia U.S. House Election Live Results 2026&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-06T21:09:04+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3522,22 +3580,6 @@
    "published": "2026-11-06T20:59:00+00:00",
    "tickers": [],
    "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "69b2fad031b6",
-   "title": "Coffee Prices Rebound as ICE Inventories Remain Tight",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-rebound-ice-inventories-remain-tight",
-   "summary": "December arabica coffee (KCZ26 ) is up +1.70 (+0.61%) today, and January ICE robusta coffee (RMF27 ) is up +26 (+0.60%). Coffee prices recovered from early losses today and are moving higher, with arabica rebounding from a 5-week low. Tight coffee inventories support coffee prices. ICE arabica inventories fell to...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T20:58:24+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7413,6 +7455,20 @@
    "tag_v": 2
   },
   {
+   "id": "277d214c3155",
+   "title": "Virginia U.S. House Election Live Results 2026 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tZ2xlckM5X3BORGkzSWhxODEtOS1TTEZjNUhCN3hkN2JISTVsUF9Hd1cwc2daNkJhSVJPVk1vZUVHVmpGWHhMOWUzNjdtUmt3dk9CRWFSWkl4aTRXOTVKOXc5Tnp4YWRZcE00WU5GX1docU9fc3RUUg?oc=5",
+   "summary": "Virginia U.S. House Election Live Results 2026&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-06T18:04:26+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b68780d59d4b",
    "title": "Monster earnings analysis: questions answered and next catalysts",
    "link": "https://www.investing.com/news/stock-market-news/monster-earnings-analysis-questions-answered-and-next-catalysts-93CH-5008963",
@@ -8840,62 +8896,6 @@
    "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-06T17:17:19+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b67bd9b1e86b",
-   "title": "Mobia Medical (MOBI) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/mobia-medical-mobi-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T17:17:19+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6d94c44f5c8f",
-   "title": "UEI (UEIC) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/uei-ueic-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T17:17:18+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d607ca867032",
-   "title": "NerdWallet (NRDS) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/nerdwallet-nrds-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T17:17:18+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c281802cc6de",
-   "title": "Full House (FLL) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/full-house-fll-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T17:17:18+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
