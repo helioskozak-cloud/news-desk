@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T07:51:14.031043+00:00",
+ "generated": "2026-11-06T07:56:14.490973+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -412,6 +412,22 @@
    ],
    "type": "downgrade",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "23b75641529c",
+   "title": "Equinix points to smaller facilities as scrutiny of U.S. data center construction grows",
+   "link": "https://www.cnbc.com/2026/11/06/equinix-us-data-center-growth-asia.html",
+   "summary": "Equinix says smaller data centers may be less exposed to U.S. restrictions as scrutiny of AI infrastructure grows.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-06T07:23:02+00:00",
+   "tickers": [
+    "EQIX"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1305,20 +1321,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "a9d03d54123d",
-   "title": "South Carolina U.S. Senate Election Live Results 2026 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUExDWTZsajA0RFd3MEFVLUVkUEpBeksyNXhieURxS0NxR3EtbW1vU08teHBqc1BDTXVpY0pYZEhDMGVQbG1qQ1IzZko1dGJZbTFjNnNiRTNyeVhNTkRDRzg3VUZsbERVVkpWdTNvYU45NUpIdFJWM2lqQ1ExTHpVbUZn?oc=5",
-   "summary": "South Carolina U.S. Senate Election Live Results 2026&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-06T06:38:32+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2498,6 +2500,20 @@
    "published": "2026-11-06T05:30:19+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a9d03d54123d",
+   "title": "South Carolina U.S. Senate Election Live Results 2026 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUExDWTZsajA0RFd3MEFVLUVkUEpBeksyNXhieURxS0NxR3EtbW1vU08teHBqc1BDTXVpY0pYZEhDMGVQbG1qQ1IzZko1dGJZbTFjNnNiRTNyeVhNTkRDRzg3VUZsbERVVkpWdTNvYU45NUpIdFJWM2lqQ1ExTHpVbUZn?oc=5",
+   "summary": "South Carolina U.S. Senate Election Live Results 2026&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-06T05:29:10+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8818,22 +8834,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "0ea61dbb4a72",
-   "title": "Sphere Entertainment Co. Reports Third Quarter 2026 Financial Results",
-   "link": "https://www.nasdaq.com/articles/sphere-entertainment-co-reports-third-quarter-2026-financial-results",
-   "summary": "Sphere Entertainment Co. reported its financial results for the third quarter ended September 30, 2026. The Company reported total revenues of $274.3 million, representing an increase of $11.7 million, or 4%, compared to the prior year quarter. The Company also reported an operat",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-05T23:21:10+00:00",
-   "tickers": [
-    "SPHR"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8856,7 +8856,6 @@
   "NTLA": "Intellia Therapeutics",
   "OPEN": "Opendoor Technologies",
   "PLTR": "Palantir Technologies",
-  "SPHR": "Sphere Entertainment",
   "AKAM": "Akamai Technologies",
   "LULU": "lululemon athletica",
   "WTRG": "Essential Utilities",
@@ -8967,6 +8966,7 @@
   "CPNG": "Coupang",
   "CVNA": "Carvana",
   "DBX": "Dropbox",
+  "EQIX": "Equinix",
   "GKOS": "Glaukos",
   "HUBS": "HubSpot",
   "IAG": "IAMGOLD",
