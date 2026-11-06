@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-06T20:16:38.703750+00:00",
+ "generated": "2026-11-06T20:21:38.928096+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2cf9e62446d2",
+   "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+   "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+   "summary": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-06T20:17:12+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6b5d8c4f120e",
+   "title": "Arm leans on cloud giants as a memory shortage hits phones",
+   "link": "https://www.thestreet.com/technology/arm-stock-fall-ai-memory-shortage",
+   "summary": "The same data center boom lifting Arm Holdings is part of why memory got so expensive, and the chip designer is feeling both sides of it.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-06T20:17:00+00:00",
+   "tickers": [
+    "ARM"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "8cd55fa33a73",
    "title": "Amazon is selling $15 touchscreen-friendly gloves that make the perfect stocking stuffer",
@@ -46,6 +76,22 @@
     "IBM"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b9cf5b98cb76",
+   "title": "IBM Unveils Its Most Advanced Quantum Computer in Chicago, Marking a Milestone for Illinois's Quantum Future",
+   "link": "https://www.prnewswire.com/news-releases/ibm-unveils-its-most-advanced-quantum-computer-in-chicago-marking-a-milestone-for-illinoiss-quantum-future-302932368.html",
+   "summary": "Hosted by the University of Chicago, IBM Quantum System Two is now operational at Hyde Park Labs and will be a prominent fixture of Illinois Quantum and Microelectronics Park (IQMP) upon the site's completion. IBM's first quantum computer in Illinois extends the company's industry and...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-06T20:14:00+00:00",
+   "tickers": [
+    "IBM"
+   ],
+   "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -264,20 +310,6 @@
    "category": "markets",
    "domain": "cnbc.com",
    "published": "2026-11-06T19:58:29+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2cf9e62446d2",
-   "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-   "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-   "summary": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-06T19:58:28+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -2503,7 +2535,7 @@
   },
   {
    "id": "69ac1f4e4177",
-   "title": "Breaking News: Wendy's makes a major breakfast change",
+   "title": "Wendy’s dropping breakfast at hundreds of restaurants",
    "link": "https://www.thestreet.com/restaurants/breaking-news-wendys-makes-a-major-breakfast-change",
    "summary": "The struggling chain rolled out breakfast in the U.S. in 2020, and it hasn't been the success the company had hoped for.",
    "source": "TheStreet",
@@ -8945,36 +8977,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c86eb3d03103",
-   "title": "Fidelity National Financial Q3 26 Earnings Conference Call At 11:00 AM ET",
-   "link": "https://www.nasdaq.com/articles/fidelity-national-financial-q3-26-earnings-conference-call-11-00-am-et",
-   "summary": "(RTTNews) - Fidelity National Financial Inc (FNF) will host a conference call at 11:00 AM ET on November 6, 2026, to discuss Q3 26 earnings results.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T15:01:06+00:00",
-   "tickers": [
-    "FNF"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2c152d79d56c",
-   "title": "Exclusive-Networking firm Extreme Networks explores sale, sources say",
-   "link": "https://www.investing.com/news/stock-market-news/exclusivenetworking-firm-extreme-networks-explores-sale-sources-say-5008457",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-06T15:00:41+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9107,6 +9109,7 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
+  "ARM": "Arm Holdings",
   "AOS": "A. O. Smith",
   "CAT": "Caterpillar",
   "CGON": "CG Oncology",
