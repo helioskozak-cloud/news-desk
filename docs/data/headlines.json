@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-07T12:46:26.149703+00:00",
+ "generated": "2026-11-07T12:51:50.192531+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0e3170f18684",
+   "title": "Berkshire shares surge as Wall Street swoons amid AI fears",
+   "link": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
+   "summary": "Berkshire Hathaway shares roared past the S&amp;P 500 index this week and are outperforming the benchmark for the year-to-date.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-07T12:49:19+00:00",
+   "tickers": [
+    "BRK-A"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "48da956bf7fa",
    "title": "Bank of America warns oil could force a Fed interest-rate rethink",
@@ -8770,22 +8786,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c8e015a26a30",
-   "title": "Dover Declares Regular Quarterly Cash Dividend | DOV Stock News",
-   "link": "https://www.stocktitan.net/news/DOV/dover-declares-regular-quarterly-cash-73fj07nu56lq.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-06T21:09:00+00:00",
-   "tickers": [
-    "DOV"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8822,6 +8822,7 @@
   "WTRG": "Essential Utilities",
   "ARRY": "Array Technologies",
   "BEN": "Franklin Resources",
+  "BRK-A": "Berkshire Hathaway",
   "CNP": "CenterPoint Energy",
   "HIMS": "Hims & Hers Health",
   "ISRG": "Intuitive Surgical",
