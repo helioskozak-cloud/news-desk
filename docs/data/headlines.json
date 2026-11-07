@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-07T07:16:17.382016+00:00",
+ "generated": "2026-11-07T07:21:30.764904+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "332484bcb017",
+   "title": "UK PM Burnham seeks closer EU ties as Brexit tensions threaten growth push",
+   "link": "https://www.investing.com/news/economy-news/uk-pm-burnham-seeks-closer-eu-ties-as-brexit-tensions-threaten-growth-push-5009734",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-07T07:01:55+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b0f00b7dd0d6",
+   "title": "Bristol Myers Squibb director Julia Haller sells $240,578 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/bristol-myers-squibb-director-julia-haller-sells-240578-in-stock-93CH-5009733",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-07T07:01:11+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "b7e75f659811",
    "title": "Trump administration drops California mail-in ballot lawsuit after midterms",
@@ -15,6 +45,20 @@
    "tickers": [],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "90198aeb78a6",
+   "title": "Ohio Governor Election Live Results 2026 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JdV9udFVVU0Z2UENEMWhuMjF3TlI1MVpua2hxbS1tNFZQV3VTUVpIcWNZZ21BdVd3bEpzR1VwYWhJeWY5QUo3NlJYSUxveDFvdExWa0g2SV84N05Gbm15WUlsRjVVZU9PVjB5MzlWaTJ4VTA?oc=5",
+   "summary": "Ohio Governor Election Live Results 2026&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-07T06:27:20+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -892,20 +936,6 @@
     "SN"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "90198aeb78a6",
-   "title": "Ohio Governor Election Live Results 2026 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JdV9udFVVU0Z2UENEMWhuMjF3TlI1MVpua2hxbS1tNFZQV3VTUVpIcWNZZ21BdVd3bEpzR1VwYWhJeWY5QUo3NlJYSUxveDFvdExWa0g2SV84N05Gbm15WUlsRjVVZU9PVjB5MzlWaTJ4VTA?oc=5",
-   "summary": "Ohio Governor Election Live Results 2026&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-07T03:14:23+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8803,36 +8833,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "6b5d8c4f120e",
-   "title": "Arm leans on cloud giants as a memory shortage hits phones",
-   "link": "https://www.thestreet.com/technology/arm-stock-fall-ai-memory-shortage",
-   "summary": "The same data center boom lifting Arm Holdings is part of why memory got so expensive, and the chip designer is feeling both sides of it.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-06T20:17:00+00:00",
-   "tickers": [
-    "ARM"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "eb392a998da8",
-   "title": "Colorado ends flat tax with new graduated income tax rate of 8.4%",
-   "link": "https://www.investing.com/news/economy-news/colorado-ends-flat-tax-with-new-graduated-income-tax-rate-of-84-93CH-5009092",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-06T20:16:24+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8934,7 +8934,6 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
-  "ARM": "Arm Holdings",
   "CGON": "CG Oncology",
   "DUK": "Duke Energy",
   "MORN": "Morningstar",
