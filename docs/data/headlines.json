@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T03:21:37.481539+00:00",
+ "generated": "2026-11-07T03:26:04.361789+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,66 @@
    "published": "2026-11-07T03:16:50+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5d83ce112aca",
+   "title": "Sugar Prices Retreat on Stronger India Sugar Output",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-retreat-stronger-india-sugar-output",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.36 (-1.94%) today, and December London ICE white sugar #5 (SWZ26 ) is down -2.00 (-0.40%). Sugar prices extended their three-week-long slide today, with NY sugar falling to a 5-week low and London sugar dropping to a 3-month low. Signs of...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T03:16:34+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7b06e8f20664",
+   "title": "Coffee Prices Settle Higher on Tight ICE Inventories",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-settle-higher-tight-ice-inventories",
+   "summary": "December arabica coffee (KCZ26 ) closed up +2.85 (+1.03%) on Friday, and January ICE robusta coffee (RMF27 ) closed up +29 (+0.89%). Coffee prices recovered from early losses on Friday and settled higher, with arabica rebounding from a 5-week low. Tight coffee inventories support coffee prices. ICE arabica inventories fell...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T03:16:34+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "749d76aab847",
+   "title": "Wheat Falls into the Weekend",
+   "link": "https://www.nasdaq.com/articles/wheat-falls-weekend-1",
+   "summary": "The wheat complex fell lower on Friday. Chicago SRW contracts were down 1 to 8 cents on the session in most contracts, as December fell back 12 ¼ cents. KC HRW futures closed the day with contracts down 2 to 3 ¼ cents, as December was 11 ¾ cents lower...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T03:10:14+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "97d177d83778",
+   "title": "Soybeans Come Back to Close Mixed on Friday",
+   "link": "https://www.nasdaq.com/articles/soybeans-come-back-close-mixed-friday",
+   "summary": "Soybeans found strength on Friday, with front months up a penny to 8 cents and deferreds down 3 to 4 cents. January was down 40 ½ cents on the week. The cmdtyView national average Cash Bean price was up 6 cents at $11.30 1/4. Soymeal futures were up a dime...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T03:10:13+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -719,20 +779,6 @@
    "tag_v": 2
   },
   {
-   "id": "749d76aab847",
-   "title": "Wheat Falls into the Weekend",
-   "link": "https://www.nasdaq.com/articles/wheat-falls-weekend-1",
-   "summary": "The wheat complex fell lower on Friday. Chicago SRW contracts were down 1 to 8 cents on the session in most contracts, as December fell back 12 ¼ cents. KC HRW futures closed the day with contracts down 2 to 3 ¼ cents, as December was 11 ¾ cents lower...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T01:59:06+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "7e93d5486a2e",
    "title": "Hogs Extend Losses into the Weekend",
    "link": "https://www.nasdaq.com/articles/hogs-extend-losses-weekend-0",
@@ -746,22 +792,6 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "5d83ce112aca",
-   "title": "Sugar Prices Retreat on Stronger India Sugar Output",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-retreat-stronger-india-sugar-output",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.36 (-1.94%) today, and December London ICE white sugar #5 (SWZ26 ) is down -2.00 (-0.40%). Sugar prices extended their three-week-long slide today, with NY sugar falling to a 5-week low and London sugar dropping to a 3-month low. Signs of...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T01:59:05+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -822,20 +852,6 @@
    ],
    "type": "upgrade",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "97d177d83778",
-   "title": "Soybeans Come Back to Close Mixed on Friday",
-   "link": "https://www.nasdaq.com/articles/soybeans-come-back-close-mixed-friday",
-   "summary": "Soybeans found strength on Friday, with front months up a penny to 8 cents and deferreds down 3 to 4 cents. January was down 40 ½ cents on the week. The cmdtyView national average Cash Bean price was up 6 cents at $11.30 1/4. Soymeal futures were up a dime...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T01:53:18+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1156,6 +1172,20 @@
    "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-07T01:29:54+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "15bdaad3a023",
+   "title": "Montana U.S. House Election Live Results 2026 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43clo2ZTVKX2dpVkltUnlmZ1R6dnlfQzdtdlNsVWJiTnVuZXV1RjBDLWF0emNtYW1yRzcwdmZlQkN1VVNmQkxOOTFWc1BiWS13WUM4WUNiNDB4MXpacldvZmpjNVkxSTF3T05vMVVRSkY4UG8wMHlF?oc=5",
+   "summary": "Montana U.S. House Election Live Results 2026&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-07T01:23:21+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
@@ -3264,22 +3294,6 @@
    "tag_v": 2
   },
   {
-   "id": "7b06e8f20664",
-   "title": "Coffee Prices Settle Higher on Tight ICE Inventories",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-settle-higher-tight-ice-inventories",
-   "summary": "December arabica coffee (KCZ26 ) closed up +2.85 (+1.03%) on Friday, and January ICE robusta coffee (RMF27 ) closed up +29 (+0.89%). Coffee prices recovered from early losses on Friday and settled higher, with arabica rebounding from a 5-week low. Tight coffee inventories support coffee prices. ICE arabica inventories fell...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T23:01:27+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "f43fb2aa2ac7",
    "title": "AngioDynamics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) | ANGO Stock News",
    "link": "https://www.stocktitan.net/news/ANGO/angio-dynamics-announces-inducement-grants-under-nasdaq-listing-rule-gp4j3k9fhvi8.html",
@@ -4030,20 +4044,6 @@
     "BROS"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "15bdaad3a023",
-   "title": "Montana U.S. House Election Live Results 2026 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43clo2ZTVKX2dpVkltUnlmZ1R6dnlfQzdtdlNsVWJiTnVuZXV1RjBDLWF0emNtYW1yRzcwdmZlQkN1VVNmQkxOOTFWc1BiWS13WUM4WUNiNDB4MXpacldvZmpjNVkxSTF3T05vMVVRSkY4UG8wMHlF?oc=5",
-   "summary": "Montana U.S. House Election Live Results 2026&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-06T22:21:48+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
