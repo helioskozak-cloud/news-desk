@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T13:41:15.567303+00:00",
+ "generated": "2026-11-07T13:46:15.875279+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -30,6 +30,20 @@
     "WHR"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "29526749f868",
+   "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
+   "link": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
+   "summary": "Rep. Josh Gottheimer disclosed new AI-linked stock purchases months after voting for a congressional trading ban, as Democrats prepare to regulate the industry.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-07T13:30:01+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -603,6 +617,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "cecd0ff2de67",
+   "title": "An airstrike has killed 22 people near Yemen’s capital, Houthi official says - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5",
+   "summary": "An airstrike has killed 22 people near Yemen’s capital, Houthi official says&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-07T12:22:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8774,36 +8802,6 @@
    "type": "markets",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "5fc16b4e0788",
-   "title": "BIGLARI HOLDINGS INC. NEWS RELEASE | BH Stock News",
-   "link": "https://www.stocktitan.net/news/BH/biglari-holdings-inc-news-p4927ke4qrwo.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-06T21:26:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a751d59b037e",
-   "title": "BlackRock Municipal Target Term Trust (BTT) Shares Cross Above 200 DMA",
-   "link": "https://www.nasdaq.com/articles/blackrock-municipal-target-term-trust-btt-shares-cross-above-200-dma",
-   "summary": "In trading on Friday, shares of BlackRock Municipal Target Term Trust (Symbol: BTT) crossed above their 200 day moving average of $22.57, changing hands as high as $22.75 per share. BlackRock Municipal Target Term Trust shares are currently trading up about 0.8% on the day. Th",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T21:25:24+00:00",
-   "tickers": [
-    "BLK"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8913,7 +8911,6 @@
   "SN": "SharkNinja",
   "MSFT": "Office 365",
   "PARA": "Paramount+",
-  "BLK": "BlackRock",
   "C": "Citigroup",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
