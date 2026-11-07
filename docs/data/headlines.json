@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T12:01:43.746859+00:00",
+ "generated": "2026-11-07T12:06:38.056892+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,23 @@
    "published": "2026-11-07T12:00:41+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3a560f725a59",
+   "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+   "link": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+   "summary": "Lawsuits against Snap, Meta and Google are creating headwinds for tech companies just as artificial intelligence tools expand into classrooms.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-07T12:00:01+00:00",
+   "tickers": [
+    "GOOGL",
+    "META"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -944,6 +961,20 @@
    "tag_v": 2
   },
   {
+   "id": "669175687b1c",
+   "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+   "summary": "Associated Press News: Breaking News | Latest News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-07T08:56:34+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "01f498ca5ac3",
    "title": "CEO Ternus says Apple is the ’best company on earth’, but is it the best stock?",
    "link": "https://www.investing.com/news/company-news/ceo-ternus-says-apple-is-the-best-company-on-earth-but-is-it-the-best-stock-5009773",
@@ -973,20 +1004,6 @@
    ],
    "type": "markets",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "669175687b1c",
-   "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-   "summary": "Associated Press News: Breaking News | Latest News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-07T08:48:27+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -4358,20 +4375,6 @@
    "tag_v": 2
   },
   {
-   "id": "a8e62201c4f6",
-   "title": "Secret Service arrests man near White House after he said he heard voices telling him to kill Trump - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFgxR3hUSzNpemxZMDZ0LVJXSHZyODJMSjk4RmVXOHptWTJOLXZlWkdfUnBqUFJmOGFKeUFSS0kwb1lsRDhGU3AtUzIwNlJGLVd6Q3oxNHIwTFpnMVFHN2dsV3JacDdPaFJPRlBJTWsyZk1zNTRCOTQ0Q2N6VFN1VU5JMHF3RlZueEc5bjNSaklTamxUYzZxcHROYWtaRF9velFodktLdGRjQQ?oc=5",
-   "summary": "Secret Service arrests man near White House after he said he heard voices telling him to kill Trump&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-07T00:11:40+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "18ad5f135e54",
    "title": "Goldman raises global data center capacity forecast to 273 GW by 2030",
    "link": "https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439",
@@ -4562,6 +4565,20 @@
     "ORCL"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a8e62201c4f6",
+   "title": "Secret Service arrests man near White House after he said he heard voices telling him to kill Trump - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFgxR3hUSzNpemxZMDZ0LVJXSHZyODJMSjk4RmVXOHptWTJOLXZlWkdfUnBqUFJmOGFKeUFSS0kwb1lsRDhGU3AtUzIwNlJGLVd6Q3oxNHIwTFpnMVFHN2dsV3JacDdPaFJPRlBJTWsyZk1zNTRCOTQ0Q2N6VFN1VU5JMHF3RlZueEc5bjNSaklTamxUYzZxcHROYWtaRF9velFodktLdGRjQQ?oc=5",
+   "summary": "Secret Service arrests man near White House after he said he heard voices telling him to kill Trump&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-07T00:00:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8768,22 +8785,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "2c6b69082d32",
-   "title": "Vera Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) | VERA Stock News",
-   "link": "https://www.stocktitan.net/news/VERA/vera-therapeutics-announces-inducement-grants-under-nasdaq-listing-sp2fvroh6jp4.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-06T21:05:00+00:00",
-   "tickers": [
-    "VERA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8833,7 +8834,6 @@
   "GIL": "Gildan Activewear",
   "MU": "Micron Technology",
   "RPM": "RPM International",
-  "VERA": "Vera Therapeutics",
   "ENSG": "The Ensign Group",
   "GNRC": "Generac Holdings",
   "IRTC": "iRhythm Holdings",
