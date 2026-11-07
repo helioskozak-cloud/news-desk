@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-07T12:36:12.106891+00:00",
+ "generated": "2026-11-07T12:41:53.102785+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "48da956bf7fa",
+   "title": "Bank of America warns oil could force a Fed interest-rate rethink",
+   "link": "https://www.thestreet.com/fed/bank-of-america-oil-fed-rates",
+   "summary": "Another costly twist could be coming for borrowers.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-07T12:37:00+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "2f181a9062ab",
    "title": "Costco’s longtime shoppers may not love what comes next",
@@ -8770,22 +8786,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "150fdf70c735",
-   "title": "Sandisk Stock Has Lost About 64% Since June. Here's the Price at Which I'd Buy It.",
-   "link": "https://www.nasdaq.com/articles/sandisk-stock-has-lost-about-64-june-heres-price-which-id-buy-it",
-   "summary": "Key PointsManagement forecasts fiscal second-quarter adjusted earnings of $55 to $57 a share on a pre-split basis.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T21:07:19+00:00",
-   "tickers": [
-    "SNDK"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8844,6 +8844,7 @@
   "WEC": "WEC Energy Group",
   "GE": "General Electric",
   "AXON": "Axon Enterprise",
+  "BAC": "Bank of America",
   "CHYM": "Chime Financial",
   "D": "Dominion Energy",
   "DIS": "The Walt Disney",
