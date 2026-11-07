@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-07T21:51:30.420251+00:00",
+ "generated": "2026-11-07T21:55:59.575398+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "49a9dd623b48",
+   "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, minister says",
+   "link": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html",
+   "summary": "The gunman aimed at random people as he drove into the Main Square, a major tourist destination in the center of the city, Krakow police said.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-07T21:53:27+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "39beab997149",
    "title": "Walmart is selling a $500 cloud sofa with a built-in side pocket for $256",
@@ -20,16 +34,36 @@
    "tag_v": 2
   },
   {
-   "id": "49a9dd623b48",
-   "title": "2 women and man found dead in the Krakow suspect's home were likely his family, prime minister says",
-   "link": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html",
-   "summary": "The gunman aimed at random people as he drove into the Main Square, a major tourist destination in the center of the city, Krakow police said.",
-   "source": "CNBC Top",
+   "id": "fbc75d2bb25f",
+   "title": "Consumer Staples Showdown: Weighing the Differences Between VDC and RSPS",
+   "link": "https://www.nasdaq.com/articles/consumer-staples-showdown-weighing-differences-between-vdc-and-rsps",
+   "summary": "Key PointsVanguard Consumer Staples ETF provides a significantly lower expense ratio than Invesco S&amp;P 500 Equal Weight Consumer Staples ETF.",
+   "source": "NASDAQ Markets",
    "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-07T21:35:39+00:00",
-   "tickers": [],
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T21:35:02+00:00",
+   "tickers": [
+    "IVZ"
+   ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4b1f05a69918",
+   "title": "Forget Lilly and Novo: Pfizer Is Planning a Wave of Phase 3 Obesity Trials",
+   "link": "https://www.nasdaq.com/articles/forget-lilly-and-novo-pfizer-planning-wave-phase-3-obesity-trials",
+   "summary": "Key PointsEli Lilly is the leader in the GLP-1 weight-loss space, with Novo Nordisk working hard to regain lost market share.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T21:35:00+00:00",
+   "tickers": [
+    "NVO",
+    "PFE",
+    "LLY"
+   ],
+   "type": "fda",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -47,6 +81,64 @@
    ],
    "type": "macro",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "11ef3f115833",
+   "title": "DraftKings: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/draftkings-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsPredictions investment increased to $650 million to $700 million in 2026.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T21:32:32+00:00",
+   "tickers": [
+    "DKNG"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "88f930c116e9",
+   "title": "Wheat Facing Friday Weakness on Black Sea Pressure",
+   "link": "https://www.nasdaq.com/articles/wheat-facing-friday-weakness-black-sea-pressure",
+   "summary": "The wheat complex is showing losses across the three markets on Friday. Chicago SRW contracts are falling back 4 to 6 cents so far on the session. KC HRW futures were fare trading with 1 to 2 cent losses on Friday. MPLS spring wheat is back down 4 to 6...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T21:31:30+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "761fcb89eb88",
+   "title": "Cattle Weakness Pushing to Friday",
+   "link": "https://www.nasdaq.com/articles/cattle-weakness-pushing-friday",
+   "summary": "Live cattle futures are down $1.55 to $1.80 across the fr0nt months on Friday. Cash trade has been active at $218 in the South, and $214-216 in the North. The Friday Fed Cattle Exchange online auction showed sales of $215 on 199 of the 1,854 head offered. Feeder cattle futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T21:31:30+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "44ffdb723901",
+   "title": "Soybeans Holding onto Friday Losses",
+   "link": "https://www.nasdaq.com/articles/soybeans-holding-friday-losses",
+   "summary": "Soybeans are trading with fractional to 6 cent losses at midday. There were 2 more deliveries against November soybeans overnight. The cmdtyView national average Cash Bean price is down 1 1/4 cents at $11.24. Soymeal futures are down 20 cents, with Soy Oil futures falling another 25 to 30 points....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T21:31:30+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8459,20 +8551,6 @@
    "tag_v": 2
   },
   {
-   "id": "88f930c116e9",
-   "title": "Wheat Facing Friday Weakness on Black Sea Pressure",
-   "link": "https://www.nasdaq.com/articles/wheat-facing-friday-weakness-black-sea-pressure",
-   "summary": "The wheat complex is showing losses across the three markets on Friday. Chicago SRW contracts are falling back 4 to 6 cents so far on the session. KC HRW futures were fare trading with 1 to 2 cent losses on Friday. MPLS spring wheat is back down 4 to 6...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T00:49:32+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "8a7f8759ec92",
    "title": "Mount Logan (MLCI) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/mount-logan-mlci-q3-2026-earnings-call-transcript",
@@ -8778,80 +8856,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "11a9545568c8",
-   "title": "Pope Leo begins South America ’homecoming’ tour with appeal for regional unity",
-   "link": "https://www.investing.com/news/world-news/pope-leo-starts-south-america-homecoming-tour-a-month-after-lung-surgery-5006436",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-07T00:24:28+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c803c074e182",
-   "title": "Islamist militants force Ebola patients to flee in deadly Congo raid",
-   "link": "https://www.investing.com/news/world-news/islamist-militants-force-ebola-patients-to-flee-in-deadly-congo-raid-5008840",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-07T00:24:11+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fc2f0cfd129d",
-   "title": "SPACCircle Acquisition Corp. Announces the Separate Trading of its Class A Ordinary Shares, Warrants and Rights, Commencing November 10, 2026 | SCQC Stock News",
-   "link": "https://www.stocktitan.net/news/SCQC/spac-circle-acquisition-corp-announces-the-separate-trading-of-its-cmlo5e4ft9td.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-07T00:23:00+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d1fcb778ab83",
-   "title": "PPL Corporation (PPL) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/ppl-corporation-ppl-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T00:18:36+00:00",
-   "tickers": [
-    "PPL"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f9f952f0bc28",
-   "title": "Ameren (AEE) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/ameren-aee-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T00:17:30+00:00",
-   "tickers": [
-    "AEE"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8918,6 +8922,7 @@
   "COST": "Costco Wholesale",
   "ENSG": "The Ensign Group",
   "GNRC": "Generac Holdings",
+  "NVO": "Novo Nordisk A/S",
   "OWL": "Blue Owl Capital",
   "UMAC": "Unusual Machines",
   "GE": "General Electric",
@@ -8994,11 +8999,11 @@
   "SPY": "SPY ETF",
   "ABBV": "AbbVie",
   "ABNB": "Airbnb",
-  "AEE": "Ameren",
   "BULL": "Webull",
   "CCJ": "Cameco",
   "M": "Macy's",
   "NTRA": "Natera",
+  "PFE": "Pfizer",
   "SITM": "SiTime",
   "VST": "Vistra",
   "CHWY": "Chewy",
