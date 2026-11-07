@@ -1,8 +1,64 @@
 {
- "generated": "2026-11-07T00:16:37.997524+00:00",
+ "generated": "2026-11-07T00:21:04.080950+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4ef65ae74fc6",
+   "title": "Albertsons, Safeway forced to make major pharmacy changes after $900 million ruling",
+   "link": "https://www.thestreet.com/retail/albertsons-safeway-forced-pharmacy-changes-after-opioid-court-ruling-lawsuit-washington",
+   "summary": "Albertsons’ pharmacies failed to heed warning signs of problematic prescriptions, the judge found.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-07T00:17:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "18ad5f135e54",
+   "title": "Goldman raises global data center capacity forecast to 273 GW by 2030",
+   "link": "https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-07T00:10:19+00:00",
+   "tickers": [],
+   "type": "guidance",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "9081054bfd6a",
+   "title": "Wall Street stocks rally after heavy AI-related selloff",
+   "link": "https://www.investing.com/news/economy-news/asia-stocks-to-drop-after-ai-rout-rocks-us-markets-5006125",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-07T00:06:39+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e57d6553b58a",
+   "title": "As tech swoon roils market, US inflation data on tap",
+   "link": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5007256",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-07T00:06:20+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "77e81d242693",
    "title": "Datavault AI Founder Nathaniel Bradley Sues Board",
@@ -94,6 +150,22 @@
    "tag_v": 2
   },
   {
+   "id": "21e32343da67",
+   "title": "Sprouts Farmers Market CEO Jack Sinclair sells $1.14M shares",
+   "link": "https://www.investing.com/news/insider-trading-news/sprouts-farmers-market-ceo-jack-sinclair-sells-114m-shares-93CH-5009437",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-07T00:01:09+00:00",
+   "tickers": [
+    "SFM"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "8f2e6d109d6c",
    "title": "Oracle Just Sold $10 Billion of Stock at $116 a Share. Is the Stock a Buy at That Price?",
    "link": "https://www.nasdaq.com/articles/oracle-just-sold-10-billion-stock-116-share-stock-buy-price",
@@ -120,6 +192,22 @@
    "published": "2026-11-06T23:58:05+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "972da34a273b",
+   "title": "Corn Firming on Friday",
+   "link": "https://www.nasdaq.com/articles/corn-firming-friday",
+   "summary": "Corn futures are trading with contracts steady to 1 ¼ cents higher at midday. The CmdtyView national average Cash Corn price is down 3 3/4 cents at $4.04. USDA reported a private export sale of 101,000 MT of corn to unknown destinations this morning, all for 2026/27. USDA’s Export Sales...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-06T23:56:46+00:00",
+   "tickers": [
+    "MT"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -195,22 +283,6 @@
     "C"
    ],
    "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "972da34a273b",
-   "title": "Corn Firming on Friday",
-   "link": "https://www.nasdaq.com/articles/corn-firming-friday",
-   "summary": "Corn futures are trading with contracts steady to 1 ¼ cents higher at midday. The CmdtyView national average Cash Corn price is down 3 3/4 cents at $4.04. USDA reported a private export sale of 101,000 MT of corn to unknown destinations this morning, all for 2026/27. USDA’s Export Sales...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T23:50:24+00:00",
-   "tickers": [
-    "MT"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1416,20 +1488,6 @@
    "tag_v": 2
   },
   {
-   "id": "9081054bfd6a",
-   "title": "Wall Street stocks rally after heavy AI-related selloff",
-   "link": "https://www.investing.com/news/economy-news/asia-stocks-to-drop-after-ai-rout-rocks-us-markets-5006125",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-06T22:42:42+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "5de821d5fa1b",
    "title": "Stocks Supported by Chipmaker Strength and a Blowout US Payroll Report",
    "link": "https://www.nasdaq.com/articles/stocks-supported-chipmaker-strength-and-blowout-us-payroll-report",
@@ -2257,20 +2315,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "e57d6553b58a",
-   "title": "As tech swoon roils market, US inflation data on tap",
-   "link": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5007256",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-06T22:00:52+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8827,55 +8871,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "a6877a3f67e2",
-   "title": "Zylox-Tonbridge and GL Capital Announce Strategic Investment in LifeTech Scientific to Build a Leading Vascular and Structural Heart Intervention Platform",
-   "link": "https://www.prnewswire.com/news-releases/zylox-tonbridge-and-gl-capital-announce-strategic-investment-in-lifetech-scientific-to-build-a-leading-vascular-and-structural-heart-intervention-platform-302932258.html",
-   "summary": "HANGZHOU, China, Nov. 6, 2026 /PRNewswire/ -- Zylox-Tonbridge Medical Technology Co., Ltd. (HKEX: 2190) (\"Zylox-Tonbridge\") today announced a strategic investment in LifeTech Scientific Corporation (HKEX: 1302) (\"LifeTech\"), in partnership with GL Capital, marking a significant step...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-06T18:03:00+00:00",
-   "tickers": [
-    "GL"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "20f25dbd4092",
-   "title": "Not Oklo. Not X-Energy. This SMR Stock Just Signed a Contract to Start Building Reactor Components.",
-   "link": "https://www.nasdaq.com/articles/not-oklo-not-x-energy-smr-stock-just-signed-contract-start-building-reactor-components",
-   "summary": "Key PointsNuScale Power signed a deal with Doosan Enerbility to start making key reactor components.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T18:03:00+00:00",
-   "tickers": [
-    "OKLO",
-    "SMR"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "796893533f2c",
-   "title": "Airbnb earnings analysis: questions answered and next catalysts",
-   "link": "https://www.investing.com/news/stock-market-news/airbnb-earnings-analysis-questions-answered-and-next-catalysts-93CH-5008962",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-06T18:02:45+00:00",
-   "tickers": [
-    "ABNB"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8906,6 +8901,7 @@
   "CHTR": "Charter Communications",
   "LPLA": "LPL Financial Holdings",
   "MDLZ": "Mondelez International",
+  "SFM": "Sprouts Farmers Market",
   "BDX": "Becton, Dickinson and",
   "HBAN": "Huntington Bancshares",
   "NTLA": "Intellia Therapeutics",
@@ -8991,7 +8987,6 @@
   "CRM": "Salesforce",
   "DKNG": "DraftKings",
   "DTE": "DTE Energy",
-  "GL": "Globe Life",
   "KR": "The Kroger",
   "STLA": "Stellantis",
   "MSFT": "Office 365",
