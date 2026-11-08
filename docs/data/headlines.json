@@ -1,8 +1,39 @@
 {
- "generated": "2026-11-08T14:31:13.091012+00:00",
+ "generated": "2026-11-08T14:36:04.357621+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "99cbf605b350",
+   "title": "Warren Buffett, 96, credits Coke and McDonald's for his long life",
+   "link": "https://www.thestreet.com/personalities/warren-buffett-96-credits-coke-and-mcdonalds-for-his-long-life",
+   "summary": "He drinks five Cokes a day, lets the market pick his McDonald's order, and told Bill Ackman he skips water.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-08T14:33:00+00:00",
+   "tickers": [
+    "MCD",
+    "KO"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d4420e761027",
+   "title": "Iran suggests blasts are not U.S. attacks as both sides report ships hit",
+   "link": "https://www.cnbc.com/2026/11/08/saudi-aramco-riyadh-building-attack.html",
+   "summary": "Iran officials have not confirmed any missile strikes on Iranian territory following blasts heard in several areas, including on Qeshm Island in the strait.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-08T14:30:30+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "8e5770da76cd",
    "title": "D-Wave Quantum Inc. (QBTS) Investors: December 15, 2026, Deadline in Securities Fraud Class Action Lawsuit - Kessler Topaz Meltzer & Check, LLP",
@@ -698,6 +729,20 @@
     "WMT"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "61ad929756f1",
+   "title": "Native American women made history in tribal, state and federal elections - AP News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON0c3ZW5uYTBTWEtTWm5jNDM2TzVQQUtKR1IzaEF1THp4NEZOeUw5dXJWUUJVLU95V0F2RDRCTmV4b0g0S2txblhRQjhya2NKZEhRXzZIZTkyUUNpeUtfWWg1Y1BTREZmWDlaWkMwTDlnWmFPVGEwU2lsekFGRm01WlR1RlVzczZtMkxLX3FzRXJEOGNvaGJuNy1yclVnb1VYZzNpSTIzX0trNEZIYjlKU3Vn?oc=5",
+   "summary": "Native American women made history in tribal, state and federal elections&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-08T12:15:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1669,20 +1714,6 @@
     "WMT"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d4420e761027",
-   "title": "Saudi Aramco building in Riyadh damaged after attempted attack",
-   "link": "https://www.cnbc.com/2026/11/08/saudi-aramco-riyadh-building-attack.html",
-   "summary": "A Saudi Aramco building in Riyadh was damaged by falling debris after an attempted attack, Saudi Arabia's Energy Ministry said.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-08T09:56:23+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8856,36 +8887,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "a75e794f7a94",
-   "title": "Here's What a $10,000 Investment in Micron Stock Could Be Worth in 2028 (Hint: Big Gains Ahead)",
-   "link": "https://www.nasdaq.com/articles/heres-what-10000-investment-micron-stock-could-be-worth-2028-hint-big-gains-ahead",
-   "summary": "Key PointsMicron could derive gains from three places.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T08:50:00+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "669175687b1c",
-   "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-   "summary": "Associated Press News: Breaking News | Latest News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-07T08:48:27+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8991,6 +8992,7 @@
   "BROS": "Dutch Bros",
   "DKNG": "DraftKings",
   "FIVE": "Five Below",
+  "MCD": "McDonald's",
   "MNDY": "monday.com",
   "RKLB": "Rocket Lab",
   "MSFT": "Office 365",
