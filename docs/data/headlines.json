@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-08T13:31:26.004281+00:00",
+ "generated": "2026-11-08T13:36:32.949428+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "349d80999fe9",
+   "title": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on",
+   "link": "https://www.cnbc.com/2026/11/08/scott-colom-and-blacks-on-cusp-of-history-as-mississippi-votes-are-counted.html",
+   "summary": "The state is still tallying ballots that could make Colom the first Black senator from this Deep South state since post-Civil War Reconstruction.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-08T13:30:48+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "88f930c116e9",
    "title": "Wheat Facing Friday Weakness on Black Sea Pressure",
@@ -1846,6 +1860,24 @@
    "published": "2026-11-08T07:35:38+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9d97b2dbc4f7",
+   "title": "After the Midterms, Which of These 3 Defense ETFs Looks Strongest?",
+   "link": "https://www.marketbeat.com/articles/after-the-midterms-which-of-these-3-defense-etfs-looks-strongest/",
+   "summary": "Defense ETFs SHLD, ITA, and PPA offer distinct exposure to global military spending as midterm election results and the Iran war shape the sector's outlook despite recent declines.",
+   "source": "MarketBeat",
+   "category": "stocks",
+   "domain": "marketbeat.com",
+   "published": "2026-11-08T07:35:00+00:00",
+   "tickers": [
+    "SHLD",
+    "ITA",
+    "PPA"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8850,42 +8882,16 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "b0650e33842d",
-   "title": "Environmental groups turn to AI despite concerns over data center emissions",
-   "link": "https://www.investing.com/news/economy-news/environmental-groups-turn-to-ai-despite-concerns-over-data-center-emissions-5009743",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-07T07:38:27+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2b9300ec82ac",
-   "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-   "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-   "summary": "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-07T07:37:36+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
   "SPSM": "State Street SPDR Portfolio S&P 600 Small Cap ETF",
   "DUST": "Direxion Daily Gold Miners Index Bear 2X Shares",
+  "ITA": "iShares U.S. Aerospace & Defense ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "XBI": "State Street SPDR S&P Biotech ETF",
   "DB": "Deutsche Bank Aktiengesellschaft",
+  "PPA": "Invesco Aerospace & Defense ETF",
   "HDV": "iShares Core High Dividend ETF",
   "SCHD": "Schwab US Dividend Equity ETF",
   "VIG": "Vanguard Div Appreciation ETF",
@@ -8896,6 +8902,7 @@
   "IBB": "iShares Biotechnology ETF",
   "ICE": "Intercontinental Exchange",
   "SCHA": "Schwab U.S. Small-Cap ETF",
+  "SHLD": "Global X Defense Tech ETF",
   "AHR": "American Healthcare REIT",
   "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
