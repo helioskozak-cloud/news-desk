@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T09:21:31.261119+00:00",
+ "generated": "2026-11-08T09:26:03.064108+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -59,6 +59,23 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "99ebbec5b68f",
+   "title": "Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now.",
+   "link": "https://www.nasdaq.com/articles/intel-arm-and-marvell-have-each-been-cut-half-june-only-1-stock-id-buy-now",
+   "summary": "Key PointsIntel sees fourth-quarter adjusted earnings per share of $0.25, under half its third-quarter figure.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T08:58:02+00:00",
+   "tickers": [
+    "MRVL",
+    "INTC"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8838,22 +8855,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "ea6c1ba99ac9",
-   "title": "The Ensign Group, Inc. Notice of December 7, 2026 Application Deadline for Class Action Lawsuit - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline",
-   "link": "https://www.prnewswire.com/news-releases/the-ensign-group-inc-notice-of-december-7-2026-application-deadline-for-class-action-lawsuit---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302932490.html",
-   "summary": "NEW YORK and NEW ORLEANS, Nov. 6, 2026 /PRNewswire/ -- Kahn Swick & Foti, LLC (\"KSF\") and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., notifies investors in The Ensign Group, Inc. (NasdaqGS: ENSG) of a class action securities lawsuit. CLASS DEFINITION: The...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-07T03:00:00+00:00",
-   "tickers": [
-    "ENSG"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8917,7 +8918,6 @@
   "BKNG": "Booking Holdings",
   "BWXT": "BWX Technologies",
   "COST": "Costco Wholesale",
-  "ENSG": "The Ensign Group",
   "GNRC": "Generac Holdings",
   "NVO": "Novo Nordisk A/S",
   "UMAC": "Unusual Machines",
