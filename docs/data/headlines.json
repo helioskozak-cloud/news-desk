@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T07:16:32.234862+00:00",
+ "generated": "2026-11-08T07:21:09.116839+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,54 @@
    "source": "AP Business",
    "category": "macro",
    "domain": "news.google.com",
-   "published": "2026-11-08T07:13:05+00:00",
+   "published": "2026-11-08T07:16:44+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "adaad2c2f9da",
+   "title": "Turkish villagers demand COP31 leaders see for themselves devastation caused by coal",
+   "link": "https://www.investing.com/news/commodities-news/turkish-villagers-demand-cop31-leaders-see-for-themselves-devastation-caused-by-coal-5010152",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-08T07:12:17+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e9d4dab7a0c6",
+   "title": "Matthew Janzaruk, P&G SVP, sells $1.55 million in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/matthew-janzaruk-pg-svp-sells-155-million-in-shares-93CH-5010150",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-08T07:01:06+00:00",
+   "tickers": [
+    "PG"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "627b96ff1e59",
+   "title": "How Mercedes suffered a €14bn EBIT drop",
+   "link": "https://www.investing.com/news/company-news/how-mercedes-suffered-a-14bn-ebit-drop-5010147",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-08T06:54:10+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8808,48 +8852,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "61a48634492b",
-   "title": "BioVie Inc. Announces Pricing of $4.74 Million Registered Direct Offering and Concurrent Private Placement",
-   "link": "https://www.nasdaq.com/articles/biovie-inc-announces-pricing-474-million-registered-direct-offering-and-concurrent-private",
-   "summary": "On November 3, 2026, BioVie Inc. entered into a securities purchase agreement with an institutional investor to issue and sell securities in a registered direct offering and a concurrent private placement. Under the terms of the registered direct offering, the company agreed to s",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T02:28:54+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "84294f917fbd",
-   "title": "Kontoor Brands, Inc. Completes Sale of Lee Business for $750 million in Cash",
-   "link": "https://www.nasdaq.com/articles/kontoor-brands-inc-completes-sale-lee-business-750-million-cash",
-   "summary": "Kontoor Brands, Inc. completed the sale of all outstanding shares of capital stock of its wholly-owned subsidiary, The H.D. Lee Company, Inc., to ABG-Storm LLC, an affiliate of Authentic Brands Group, on November 2, 2026. Pursuant to the purchase agreement, Kontoor Brands, Inc. r",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T02:28:43+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0c436532776f",
-   "title": "Banco Macro S.A. Acquires 21,598 Class B Shares for Ps$. 211,166,590",
-   "link": "https://www.nasdaq.com/articles/banco-macro-sa-acquires-21598-class-b-shares-ps-211166590",
-   "summary": "Banco Macro S.A. has reported the acquisition of its own shares in compliance with Section 3, subsection 23, Chapter I of Book XII of the Rules of the Comisi&oacute;n Nacional de Valores. The transaction was executed under the provisions of Section 64 of Law 26,831 and applicable",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T02:28:42+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8882,6 +8884,7 @@
   "BMY": "Bristol-Myers Squibb",
   "CRWD": "CrowdStrike Holdings",
   "KBWB": "Invesco KBW Bank ETF",
+  "PG": "The Procter & Gamble",
   "VOYG": "Voyager Technologies",
   "ABT": "Abbott Laboratories",
   "LULU": "lululemon athletica",
