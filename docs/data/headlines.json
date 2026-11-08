@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T23:26:10.219477+00:00",
+ "generated": "2026-11-08T23:31:37.207073+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,27 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-08T23:18:13+00:00",
+   "published": "2026-11-08T23:28:32+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "854452e40a23",
+   "title": "Stock Indexes Settle Mostly Higher as Chipmakers Rebound",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-higher-chipmakers-rebound",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +0.31% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.35%. December E-mini S&amp;P futures (ESZ26 ) rose +0.31%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T23:23:33+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -62,6 +79,36 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "c6aaa1938706",
+   "title": "Dollar Gains on US Economic Strength and Hawkish Fed",
+   "link": "https://www.nasdaq.com/articles/dollar-gains-us-economic-strength-and-hawkish-fed",
+   "summary": "The dollar index (DXY00 ) rallied to a 1-week high today and finished up by +0.71%. The dollar jumped Friday on the stronger-than-expected US Oct payroll report, which showed payrolls and hourly earnings rose more than expected and the unemployment rate unexpectedly declined, hawkish factors for Fed policy. Also, the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T23:04:33+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "850dcb827992",
+   "title": "Cocoa Prices Pressured by Soaring ICE Inventories",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-pressured-soaring-ice-inventories",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed down -26 (-0.50%) on Friday, and ICE London cocoa #7 (CAZ26 ) closed up +19 (+0.49%). Cocoa prices fell to fresh 5-week lows on Friday but recovered from their worst levels and settled mixed. ICE cocoa inventories are easing supply concerns and weighing...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T23:04:33+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -257,6 +304,20 @@
    "tag_v": 2
   },
   {
+   "id": "65cea3cdcfed",
+   "title": "Pope arrives in Argentina and tells Milei that people, not the economy, should come first - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXBvT0ZhMHZPdk1rbTJiZ1FtQlJJWEZMZE1CU2h6dlNBNTRZa2hsWFIzMG1mMU9qYTNIV1lTUnh0Ni03c2lOVDg1dDhleUliSmpzcnZmdlhaZ0dfWTlyYlRtOFo0dVYwdVpWV2NnMGxLZWZpMlJGOXJLMHF2SjNRVFoxZ1JlRjBtWEliSTBBcVVKeTU1dW9NbWFFUHdrMDhxNXc5NENMdzl5Q0l3RDNxNGJ5Q0JzbUdKWWc?oc=5",
+   "summary": "Pope arrives in Argentina and tells Milei that people, not the economy, should come first&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-08T22:28:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "ccfec3165dcf",
    "title": "This Semiconductor ETF Just Had Its Worst Day Since March 2020",
    "link": "https://www.nasdaq.com/articles/semiconductor-etf-just-had-its-worst-day-march-2020",
@@ -282,6 +343,20 @@
    "tickers": [],
    "type": "fx",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a25decca01f2",
+   "title": "Israel’s president gives Eisenkot the first chance to form the next government - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2xtdC1iNFRNSEZwNjVlM1hTeFVjREM0MlU4ZFlaWkVBYnQyNmxEdnZKeXRLQXBmbVVOeHI1U1l0TFN2cG1tQS02TFV0OElNUzhqZ1dRbUVfS3BtTVphOVFud1R6N1hZdGlpVl9GVE45dk93akNtcGRhUFB6cmpOd0FZbC1GOXBFendqUmtmalYwcUJybFo2WWRtOA?oc=5",
+   "summary": "Israel’s president gives Eisenkot the first chance to form the next government&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-08T22:17:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -495,23 +570,6 @@
     "DB"
    ],
    "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "854452e40a23",
-   "title": "Stock Indexes Settle Mostly Higher as Chipmakers Rebound",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-higher-chipmakers-rebound",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +0.31% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.35%. December E-mini S&amp;P futures (ESZ26 ) rose +0.31%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-08T21:39:46+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1214,20 +1272,6 @@
    "tag_v": 2
   },
   {
-   "id": "65cea3cdcfed",
-   "title": "Pope wraps up Uruguay visit and arrives in Milei’s Argentina for the most fraught stop of his tour - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXBvT0ZhMHZPdk1rbTJiZ1FtQlJJWEZMZE1CU2h6dlNBNTRZa2hsWFIzMG1mMU9qYTNIV1lTUnh0Ni03c2lOVDg1dDhleUliSmpzcnZmdlhaZ0dfWTlyYlRtOFo0dVYwdVpWV2NnMGxLZWZpMlJGOXJLMHF2SjNRVFoxZ1JlRjBtWEliSTBBcVVKeTU1dW9NbWFFUHdrMDhxNXc5NENMdzl5Q0l3RDNxNGJ5Q0JzbUdKWWc?oc=5",
-   "summary": "Pope wraps up Uruguay visit and arrives in Milei’s Argentina for the most fraught stop of his tour&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-08T19:39:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "2b5f814c47fc",
    "title": "Intuitive Surgical Placed 546 da Vinci Systems Last Quarter. Why Wall Street's Sell-Off Misses the Point.",
    "link": "https://www.nasdaq.com/articles/intuitive-surgical-placed-546-da-vinci-systems-last-quarter-why-wall-streets-sell-misses",
@@ -1761,20 +1805,6 @@
     "MSFT"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a25decca01f2",
-   "title": "Israel’s president gives Eisenkot the first chance to form the next government - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2xtdC1iNFRNSEZwNjVlM1hTeFVjREM0MlU4ZFlaWkVBYnQyNmxEdnZKeXRLQXBmbVVOeHI1U1l0TFN2cG1tQS02TFV0OElNUzhqZ1dRbUVfS3BtTVphOVFud1R6N1hZdGlpVl9GVE45dk93akNtcGRhUFB6cmpOd0FZbC1GOXBFendqUmtmalYwcUJybFo2WWRtOA?oc=5",
-   "summary": "Israel’s president gives Eisenkot the first chance to form the next government&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-08T17:57:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -5907,20 +5937,6 @@
    "tag_v": 2
   },
   {
-   "id": "c6aaa1938706",
-   "title": "Dollar Gains on US Economic Strength and Hawkish Fed",
-   "link": "https://www.nasdaq.com/articles/dollar-gains-us-economic-strength-and-hawkish-fed",
-   "summary": "The dollar index (DXY00 ) rallied to a 1-week high today and finished up by +0.71%. The dollar jumped Friday on the stronger-than-expected US Oct payroll report, which showed payrolls and hourly earnings rose more than expected and the unemployment rate unexpectedly declined, hawkish factors for Fed policy. Also, the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-08T03:58:19+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "2f296f00a52d",
    "title": "Melania Trump and LSU announce $7.2 million to endow scholarships for former foster care students - AP News",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9fZWFrMkNPS05yeXBqOVE0eWtqcldnVk9WT2gtVGJOZEhFY29rbENXUExfUmFrbVAxUzB4eFlwVGNVX2VhLTRwa3dtd2tvV25WU1NJODNtMWdsZUlJTWhURUc2MnlCSWltUzZtNUF1ZzVxUjRSejZHY0t5eVl5eHRqWGZkS2Z0c0pCTEowZi1GajhiaXBvOHlORTdUbmM5TnN5VTZVLWw0MEU1UFhZdzlR?oc=5",
@@ -5959,20 +5975,6 @@
    "published": "2026-11-08T03:20:00+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a6b18954c9e9",
-   "title": "Oregon storms back from 2-touchdown deficit to hammer No. 11 Ohio State 41-28 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcl9zUlFLb2FULU5GbzQ0c1B4VjJXLVpyZ1Q1Vm9sTzk0MHhCaW8yODRIc0gzZ3RST3dVNmZmdzV3WVNGaldfTFdJT3dScHFpY01NUFJCekE1T0pwR0lncmRNbTVlUnJBQ2FSemd5ZWc1ZmlUSjlDVXdKTVYtXzJEejdRbG1IQmtrNE5HNg?oc=5",
-   "summary": "Oregon storms back from 2-touchdown deficit to hammer No. 11 Ohio State 41-28&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-08T03:19:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6289,6 +6291,20 @@
    "published": "2026-11-08T01:00:45+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a6b18954c9e9",
+   "title": "Oregon storms back from 2-touchdown deficit to hammer No. 11 Ohio State 41-28 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcl9zUlFLb2FULU5GbzQ0c1B4VjJXLVpyZ1Q1Vm9sTzk0MHhCaW8yODRIc0gzZ3RST3dVNmZmdzV3WVNGaldfTFdJT3dScHFpY01NUFJCekE1T0pwR0lncmRNbTVlUnJBQ2FSemd5ZWc1ZmlUSjlDVXdKTVYtXzJEejdRbG1IQmtrNE5HNg?oc=5",
+   "summary": "Oregon storms back from 2-touchdown deficit to hammer No. 11 Ohio State 41-28&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-08T01:00:23+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6731,22 +6747,6 @@
    "published": "2026-11-07T23:00:00+00:00",
    "tickers": [
     "VOYG"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "850dcb827992",
-   "title": "Cocoa Prices Pressured by Soaring ICE Inventories",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-pressured-soaring-ice-inventories",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed down -26 (-0.50%) on Friday, and ICE London cocoa #7 (CAZ26 ) closed up +19 (+0.49%). Cocoa prices fell to fresh 5-week lows on Friday but recovered from their worst levels and settled mixed. ICE cocoa inventories are easing supply concerns and weighing...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T22:58:57+00:00",
-   "tickers": [
-    "ICE"
    ],
    "type": "stocks",
    "sentiment": "neutral",
