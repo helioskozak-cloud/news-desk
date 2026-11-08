@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-08T00:11:02.671292+00:00",
+ "generated": "2026-11-08T00:16:30.520882+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "bf22cf0ebd92",
+   "title": "Nat-Gas Prices Rise on Cool US Temps and Record LNG Exports",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-rise-cool-us-temps-and-record-lng-exports",
+   "summary": "December Nymex natural gas (NGZ26 ) closed up +0.051 (+1.73%) on Friday. Dec nat-gas prices climbed to a 1-week high on Friday and settled higher on prospects of colder US temperatures, which could boost heating demand for nat-gas. The Commodity Weather Group said Friday that forecasts shifted cooler across the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T00:11:52+00:00",
+   "tickers": [
+    "LNG"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "1ec7c09d814b",
    "title": "Elektros, Inc. (OTC:ELEK) Congratulates Moishe Mana on a Defining Wynwood Achievement and a New Chapter for Miami | ELEK Stock News",
@@ -2888,20 +2904,6 @@
    ],
    "type": "legal",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "b62fd7c71421",
-   "title": "LeBron James has a rough return to Cleveland with only his 10th regular-season single-digit game - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVUx6RWFEU3ZnNVJhY0M0ZXUtQzNDcURKV2w1Q0ZQaWJkY3JmR29GeVhtN0lSUks4TUh4dWVicnA1MjExdW9hNVVTZmViRlBpLXRXN1E2aWRESURZMTV1cmktakdlWUZNRXNqUTRlVkxZeFZrdXJub196WDBnbTFtR2xDN0tqSnpiemgwZWxlYjF1MDdMNktXWnFBUQ?oc=5",
-   "summary": "LeBron James has a rough return to Cleveland with only his 10th regular-season single-digit game&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-07T15:39:47+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -6969,6 +6971,20 @@
    "tag_v": 2
   },
   {
+   "id": "b62fd7c71421",
+   "title": "LeBron James has a rough return to Cleveland with only his 10th regular-season single-digit game - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVUx6RWFEU3ZnNVJhY0M0ZXUtQzNDcURKV2w1Q0ZQaWJkY3JmR29GeVhtN0lSUks4TUh4dWVicnA1MjExdW9hNVVTZmViRlBpLXRXN1E2aWRESURZMTV1cmktakdlWUZNRXNqUTRlVkxZeFZrdXJub196WDBnbTFtR2xDN0tqSnpiemgwZWxlYjF1MDdMNktXWnFBUQ?oc=5",
+   "summary": "LeBron James has a rough return to Cleveland with only his 10th regular-season single-digit game&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-07T05:13:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "7b06e8f20664",
    "title": "Coffee Prices Settle Higher on Tight ICE Inventories",
    "link": "https://www.nasdaq.com/articles/coffee-prices-settle-higher-tight-ice-inventories",
@@ -8850,22 +8866,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "278b578b4c88",
-   "title": "Hyatt Hotels Corporation Announces 14,685,256 Shares Available for Sale by Pritzker Family Stockholders Under Lock-Up Agreements",
-   "link": "https://www.nasdaq.com/articles/hyatt-hotels-corporation-announces-14685256-shares-available-sale-pritzker-family",
-   "summary": "Hyatt Hotels Corporation disclosed that during the 12 month period from November 5, 2026 through November 4, 2027, a total of 14,685,256 restricted shares will be available for sale by Pritzker family stockholders in the public market. This availability is in accordance with lock",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T01:01:29+00:00",
-   "tickers": [
-    "H"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8945,6 +8945,7 @@
   "COIN": "Coinbase Global",
   "DIS": "The Walt Disney",
   "HBM": "Hudbay Minerals",
+  "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
   "HCA": "HCA Healthcare",
   "HD": "The Home Depot",
@@ -8962,7 +8963,6 @@
   "SMR": "NuScale Power",
   "SOUN": "SoundHound AI",
   "PINS": "Pinterest Inc",
-  "H": "Hyatt Hotels",
   "MELI": "MercadoLibre",
   "SARO": "StandardAero",
   "STT": "State Street",
