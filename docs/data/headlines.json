@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T00:16:30.520882+00:00",
+ "generated": "2026-11-08T00:21:09.387651+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -42,6 +42,20 @@
    "category": "stocks",
    "domain": "stocktitan.net",
    "published": "2026-11-08T00:01:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b5bc8f5042a1",
+   "title": "How to invest in AI amid AI spending worries?",
+   "link": "https://www.investing.com/news/stock-market-news/how-to-invest-in-ai-amid-ai-spending-worries-5010090",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-07T23:53:16+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -8849,29 +8863,11 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "da8f2f735f90",
-   "title": "Cathie Wood’s ARK sells CareDx stock, buys Natera and Kratos",
-   "link": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-caredx-stock-buys-natera-and-kratos-93CH-5009491",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-07T01:06:06+00:00",
-   "tickers": [
-    "NTRA",
-    "KTOS"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
   "SPSM": "State Street SPDR Portfolio S&P 600 Small Cap ETF",
   "DUST": "Direxion Daily Gold Miners Index Bear 2X Shares",
-  "KTOS": "Kratos Defense & Security Solutions",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "XBI": "State Street SPDR S&P Biotech ETF",
   "DB": "Deutsche Bank Aktiengesellschaft",
@@ -9014,7 +9010,6 @@
   "BULL": "Webull",
   "CCJ": "Cameco",
   "M": "Macy's",
-  "NTRA": "Natera",
   "PFE": "Pfizer",
   "RDDT": "Reddit",
   "SITM": "SiTime",
