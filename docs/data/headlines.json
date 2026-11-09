@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-09T00:06:18.151385+00:00",
+ "generated": "2026-11-09T00:11:37.243582+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "fca7a14e743f",
+   "title": "Procter & Gamble's Dividend Has Survived 26 Recessions. Here's What $10,000 Now Earns in Yearly Dividend Income.",
+   "link": "https://www.nasdaq.com/articles/procter-gambles-dividend-has-survived-26-recessions-heres-what-10000-now-earns-yearly",
+   "summary": "Key PointsP&amp;G's $1.0885 quarterly dividend yields about 2.7%.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T23:50:00+00:00",
+   "tickers": [
+    "PG"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "51057ffef3b1",
    "title": "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates",
@@ -47,6 +63,34 @@
     "SHOP"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "92e1b16d0871",
+   "title": "NRC Health: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/nrc-health-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsTotal Recurring Contract Value (TRCV) grew 9% YoY to $154M.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T23:35:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "782a65c7702b",
+   "title": "Pulmonx: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/pulmonx-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsPulmonx returned to top-line growth with $22.8 million in third-quarter revenue.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T23:35:02+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8830,51 +8874,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c74da9218e1a",
-   "title": "Slop Cash, From elizaOS Creator Shaw Walters, Opens Public Bidding on Umia After Passing Its $400K Minimum",
-   "link": "https://www.investing.com/news/cryptocurrency-news/slop-cash-from-elizaos-creator-shaw-walters-opens-public-bidding-on-umia-after-passing-its-400k-minimum-5009964",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-07T17:00:13+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b4c26263b238",
-   "title": "Arista Networks vs. Okta: Which Technology Stock Is a Better Buy for 2027?",
-   "link": "https://www.nasdaq.com/articles/arista-networks-vs-okta-which-technology-stock-better-buy-2027",
-   "summary": "Key PointsArista Networks dominates high-speed networking for the world's largest cloud and artificial intelligence data centers.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T16:57:02+00:00",
-   "tickers": [
-    "ANET",
-    "OKTA"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2cb16dd8e6e7",
-   "title": "Expanding on naval blockade, U.S. military looks to restrict Iranian land commerce",
-   "link": "https://www.cnbc.com/2026/11/07/iran-us-task-force-land-commerce.html",
-   "summary": "Task Force Iron Gate will focus in part on halting the flow of dual-use technologies used by Iran and stemming what Washington calls illegal revenue streams.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-07T16:56:33+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8939,7 +8938,6 @@
   "LH": "Labcorp Holdings",
   "NOC": "Northrop Grumman",
   "NVO": "Novo Nordisk A/S",
-  "ANET": "Arista Networks",
   "ASTS": "AST SpaceMobile",
   "BAC": "Bank of America",
   "COIN": "Coinbase Global",
@@ -9031,7 +9029,6 @@
   "XYL": "Xylem",
   "IONQ": "IonQ",
   "MSCI": "MSCI",
-  "OKTA": "Okta",
   "T": "AT&T"
  }
 }
