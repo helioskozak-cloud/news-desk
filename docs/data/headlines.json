@@ -1,8 +1,25 @@
 {
- "generated": "2026-11-09T00:46:32.650593+00:00",
+ "generated": "2026-11-09T00:51:31.851943+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b5ab97782688",
+   "title": "Microsoft's Oracle move raises new question for investors",
+   "link": "https://www.thestreet.com/investing/stocks/microsofts-oracle-move-raises-new-question-for-investors",
+   "summary": "Microsoft just handed Oracle a problem it cannot easily explain away.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-09T00:47:00+00:00",
+   "tickers": [
+    "MSFT",
+    "ORCL"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "78fbf4d36f3f",
    "title": "Self-directed IRA pitfalls: one mistake can blow up your retirement",
@@ -6609,20 +6626,6 @@
    "tag_v": 2
   },
   {
-   "id": "32b78498a1c1",
-   "title": "Russell passes for 3 TDs to propel No. 9 Alabama past No. 15 LSU, 31-13 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTRkUGxRQUxlTHc4VzZfamhBX09lQVdwbXhBY3B6YXFHQ2hJNTRFQkxiaGRodGZyWk9Kb1hpQ1QwYy1PS0VIWjhlZ2JJd0FtQm5xUlBqSDJmb0VsVzBOSmljWmxyLWd5SnZQUmxwQ1FsRURQY1dsaWpEVlRPTzhZYXZZNA?oc=5",
-   "summary": "Russell passes for 3 TDs to propel No. 9 Alabama past No. 15 LSU, 31-13&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-08T02:10:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "876dfa0db1db",
    "title": "No. 3 Utah snaps three-game losing streak to No. 7 BYU with 28-20 win over Cougars - AP News",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV3cxQk1rdkFBWmt5UUhoWjlGTjZvc0lOcHFjYms1N1BjVkNHVmxhT2tSZnRJUVJaeVpXTlJSTTdmbl80ckhmeEJjbUh3Z2tMNjVVOGo4MXRnVTlPakZobG1kX3VUc0l2M29yeUl4RUpfcDVjNFlVWUVZN3VFZTBtTkJBdGF4RklOOFI0?oc=5",
@@ -6721,6 +6724,20 @@
     "WMT"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "32b78498a1c1",
+   "title": "Russell passes for 3 TDs to propel No. 9 Alabama past No. 15 LSU, 31-13 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTRkUGxRQUxlTHc4VzZfamhBX09lQVdwbXhBY3B6YXFHQ2hJNTRFQkxiaGRodGZyWk9Kb1hpQ1QwYy1PS0VIWjhlZ2JJd0FtQm5xUlBqSDJmb0VsVzBOSmljWmxyLWd5SnZQUmxwQ1FsRURQY1dsaWpEVlRPTzhZYXZZNA?oc=5",
+   "summary": "Russell passes for 3 TDs to propel No. 9 Alabama past No. 15 LSU, 31-13&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-08T01:27:21+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8865,20 +8882,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "137a8f1e1f57",
-   "title": "Stabilis (SLNG) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/stabilis-slng-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T17:32:05+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9022,6 +9025,7 @@
   "BULL": "Webull",
   "CHE": "Chemed",
   "M": "Macy's",
+  "ORCL": "Oracle",
   "PFE": "Pfizer",
   "RDDT": "Reddit",
   "VST": "Vistra",
