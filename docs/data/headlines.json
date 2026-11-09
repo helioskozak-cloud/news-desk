@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-09T19:11:28.119178+00:00",
+ "generated": "2026-11-09T19:16:11.512203+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "297cfd394b91",
+   "title": "NASA is recruiting new astronauts. Here are the qualifications.",
+   "link": "https://www.cbsnews.com/news/nasa-hiring-astronaut-applications-requirements-moon/",
+   "summary": "The space agency is recruiting its next class of astronauts as the U.S. plans a new mission to the moon. Here's the kind of person NASA is looking for.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-09T19:11:04+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "51057ffef3b1",
    "title": "Dow rallies 1,100 points, Nasdaq jumps 2% as stocks climb out of postelection slump: Live updates",
@@ -14,6 +28,20 @@
    "published": "2026-11-09T19:09:48+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b6aa337c75e0",
+   "title": "He fought France's far right for half a century. Now Mélenchon eyes a 2027 runoff with Le Pen - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUno2ZG0ydHlpdXgxNGEtQlBTLXFGaHZNYVNFQ1JoS3FSZXBOaW1BbWFlTW1JSmlRb3RpdGRDaXRNVkljcEFKMkVaR2h4YkZsTEo3VkRhYVNOU1hETWZUeVQxbzBqT28tNTU5aF9ncWpKQXUxMEZ6TTBqTnV0bkY0Q1gwbDU1ZDJfU3BtQXB3T0paZXFxaWtRWTlHV3JnNFg2WUUxcg?oc=5",
+   "summary": "He fought France's far right for half a century. Now Mélenchon eyes a 2027 runoff with Le Pen&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-09T19:07:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -108,6 +136,36 @@
    "tag_v": 2
   },
   {
+   "id": "306ebba8648e",
+   "title": "Target Hospitality (TH) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/target-hospitality-th-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T18:59:53+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f0032a8204cd",
+   "title": "Constellation Energy (CEG) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/constellation-energy-ceg-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T18:59:53+00:00",
+   "tickers": [
+    "CEG"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "34e0469244ef",
    "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
    "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
@@ -166,20 +224,6 @@
     "CHTR"
    ],
    "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "297cfd394b91",
-   "title": "NASA is recruiting new astronauts. Here are the qualifications.",
-   "link": "https://www.cbsnews.com/news/nasa-hiring-astronaut-applications-requirements-moon/",
-   "summary": "The space agency is recruiting its next class of astronauts as the U.S. plans a new mission to the moon. Here's the kind of person NASA is looking for.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-09T18:56:41+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -460,6 +504,20 @@
    "published": "2026-11-09T18:44:59+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "f54e5ae3d4ae",
+   "title": "Oil Drop Lifts Canadian Equities; Materials Stocks Up Sharply",
+   "link": "https://www.nasdaq.com/articles/oil-drop-lifts-canadian-equities-materials-stocks-sharply",
+   "summary": "(RTTNews) - Canadian stocks are up sharply on Monday amid easing concerns about inflation following a sharp drop in oil prices. Materials stocks are up, riding on firm precious metals prices.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T18:43:48+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -1490,20 +1548,6 @@
    ],
    "type": "legal",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "b305eea25e34",
-   "title": "Kansas Governor Election Live Results 2026 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nWHBNNWZibldPNElQNFdGbHpZVmdlaFY0em9Va3BrSlZ6djdaV0ZYQWdXLVIyQm1rb2xpeVdueDdvRmRZdjc3SEJ4WFk0V1ZqWW1zUG12eEpoVmxnbXd1SlpITzBEMHVlZVNyTlE0ekYwVmRQS2c?oc=5",
-   "summary": "Kansas Governor Election Live Results 2026&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-09T18:09:02+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3709,6 +3753,20 @@
    "tag_v": 2
   },
   {
+   "id": "b305eea25e34",
+   "title": "Kansas Governor Election Live Results 2026 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nWHBNNWZibldPNElQNFdGbHpZVmdlaFY0em9Va3BrSlZ6djdaV0ZYQWdXLVIyQm1rb2xpeVdueDdvRmRZdjc3SEJ4WFk0V1ZqWW1zUG12eEpoVmxnbXd1SlpITzBEMHVlZVNyTlE0ekYwVmRQS2c?oc=5",
+   "summary": "Kansas Governor Election Live Results 2026&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-09T16:59:30+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "2d42967419de",
    "title": "Andy Jassy Just Announced Fantastic News for Amazon Stock Investors",
    "link": "https://www.nasdaq.com/articles/andy-jassy-just-announced-fantastic-news-amazon-stock-investors",
@@ -4289,20 +4347,6 @@
    "published": "2026-11-09T16:40:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-09T16:39:05+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7350,6 +7394,20 @@
    "tag_v": 2
   },
   {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-09T15:21:25+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "ece7aaa82460",
    "title": "The AI sell-off rocked Wall Street last week. Why it sets up the market for a big year-end rally",
    "link": "https://www.cnbc.com/2026/11/09/ai-selloff-stock-market-year-end-rally.html",
@@ -8917,68 +8975,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7ea6301154ad",
-   "title": "Tech set to still sway US stock market’s course despite AI-driven swoon",
-   "link": "https://www.investing.com/news/stock-market-news/tech-set-to-still-sway-us-stock-markets-course-despite-aidriven-swoon-5011245",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-09T14:48:38+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b3995655c7f8",
-   "title": "HONA Lead Plaintiff Deadline is November 23, 2026 - Robbins LLP Reminds Honeywell Aerospace Inc. Investors to Contact the Firm About Recovering Their Losses",
-   "link": "https://www.prnewswire.com/news-releases/hona-lead-plaintiff-deadline-is-november-23-2026---robbins-llp-reminds-honeywell-aerospace-inc-investors-to-contact-the-firm-about-recovering-their-losses-302933074.html",
-   "summary": "SAN DIEGO, Nov. 9, 2026 /PRNewswire/ -- Shareholder rights law firm Robbins LLP reminds investors that a class action was filed on behalf of open market purchasers of Honeywell Aerospace Inc. (NASDAQ: HONA) common stock between June 29, 2026 and September 1, 2026, inclusive (the \"Class...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-09T14:48:00+00:00",
-   "tickers": [
-    "HON"
-   ],
-   "type": "press",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "addfd9b092e9",
-   "title": "Entergy New Orleans (ENO) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/entergy-new-orleans-eno-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-09T14:47:21+00:00",
-   "tickers": [
-    "ETR"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "91ae8f8a2c5a",
-   "title": "Berkshire Hathaway earnings expose unexpected problem beneath strong economy",
-   "link": "https://www.thestreet.com/investing/stocks/berkshire-hathaway-q3-consumer-demand",
-   "summary": "One set of numbers tells two stories.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-09T14:47:00+00:00",
-   "tickers": [
-    "BRK-A"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   }
  ],
