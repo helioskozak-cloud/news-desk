@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-09T23:46:29.454585+00:00",
+ "generated": "2026-11-09T23:51:19.395562+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "16703b4cb5b6",
+   "title": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates",
+   "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+   "summary": "Traders awaited the October consumer price index reading, due Tuesday morning.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-09T23:50:04+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a37890fe2dea",
+   "title": "Nvidia investigates CEO Jensen Huang over Chinese spy concerns",
+   "link": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+   "summary": "The board of Nvidia said it had no reason to believe that the company's secrets or national security were compromised.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-09T23:49:36+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "5d6368bc1eb1",
    "title": "Internal probe into CEO Jensen Huang and 'foreign intelligence' weighs on high-flying Nvidia shares - AP News",
@@ -64,16 +92,35 @@
    "tag_v": 2
   },
   {
-   "id": "16703b4cb5b6",
-   "title": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates",
-   "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-   "summary": "Traders awaited the October consumer price index reading, due Tuesday morning.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-09T23:34:46+00:00",
-   "tickers": [],
-   "type": "macro",
+   "id": "208d27ff77a7",
+   "title": "Nidec Corporation - Depositary Receipt Price Target Increased by 21.36% to $3.79",
+   "link": "https://www.nasdaq.com/articles/nidec-corporation-depositary-receipt-price-target-increased-2136-379",
+   "summary": "The average one-year price target for Nidec Corporation - Depositary Receipt (OTCPK:NJDCY) (DB:NIB1) has been revised to $3.79 / share. This is an increase of 21.36% from the prior estimate of $3.12 dated November 1, 2026. These figures represent aggregate analyst targets collect",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T23:34:05+00:00",
+   "tickers": [
+    "DB"
+   ],
+   "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "99cac55916b5",
+   "title": "Strength in Tech and Weakness in Crude Oil Boost Stocks",
+   "link": "https://www.nasdaq.com/articles/strength-tech-and-weakness-crude-oil-boost-stocks",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +1.56% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.39%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.17%. December E-mini S&amp;P futures (ESZ26 ) are up +1.53%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T23:33:52+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -90,6 +137,48 @@
     "SANM"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "091c872ccd3e",
+   "title": "Lantronix, Inc. Reports Q1 Fiscal 2027 Results with Net Revenue of $32.4 Million",
+   "link": "https://www.nasdaq.com/articles/lantronix-inc-reports-q1-fiscal-2027-results-net-revenue-324-million",
+   "summary": "Lantronix, Inc. reported its financial results for the first fiscal quarter ended September 30, 2026, with net revenue increasing over 8% year-over-year to $32.4 million. The company's GAAP net loss improved to $463 thousand, or ($0.01) per share, compared to a GAAP net loss of $",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T23:31:25+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "69ecedb3f6f8",
+   "title": "Digital Turbine, Inc. Reports Fiscal 2027 Second Quarter Revenue of $178.7 Million and Provides Full-Year Outlook",
+   "link": "https://www.nasdaq.com/articles/digital-turbine-inc-reports-fiscal-2027-second-quarter-revenue-1787-million-and-provides",
+   "summary": "Digital Turbine, Inc. reported net revenue of $178.7 million for its fiscal second quarter ended September 30, 2026, representing a 27% increase compared to $140.4 million in the fiscal second quarter of 2026. The company achieved GAAP net income of $10.3 million, or $0.06 per di",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T23:31:24+00:00",
+   "tickers": [],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f0296ea45d3a",
+   "title": "Digital Ally, Inc. Subsidiary Kustom Entertainment, Inc. Amends Unit Purchase Agreement to Extend TFL, LLC Acquisition Deadline to December 18, 2026",
+   "link": "https://www.nasdaq.com/articles/digital-ally-inc-subsidiary-kustom-entertainment-inc-amends-unit-purchase-agreement-extend",
+   "summary": "Digital Ally, Inc. reports that Kustom Entertainment, Inc. entered into an Amendment to the Unit Purchase Agreement on November 6, 2026, with TFL, LLC and the Sellers&rsquo; Representative. Under the terms of the amendment, the parties agreed to extend the outside termination dat",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T23:31:24+00:00",
+   "tickers": [],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -194,6 +283,20 @@
    "tag_v": 2
   },
   {
+   "id": "2e4f606e3618",
+   "title": "Megaworld Corporation - Depositary Receipt Price Target Increased by 30.47% to $8.77",
+   "link": "https://www.nasdaq.com/articles/megaworld-corporation-depositary-receipt-price-target-increased-3047-877",
+   "summary": "The average one-year price target for Megaworld Corporation - Depositary Receipt (OTCPK:MGAWY) has been revised to $8.77 / share. This is an increase of 30.47% from the prior estimate of $6.72 dated November 16, 2025. These figures represent aggregate analyst targets and do not c",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T23:30:07+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "eadb60b9407e",
    "title": "Why Nvidia Stock Was Down Today",
    "link": "https://www.nasdaq.com/articles/why-nvidia-stock-was-down-today",
@@ -272,6 +375,51 @@
    "tag_v": 2
   },
   {
+   "id": "01888bba5144",
+   "title": "Jasper Therapeutics Consensus Price Target Increased by 2,900% to $267.75",
+   "link": "https://www.nasdaq.com/articles/jasper-therapeutics-consensus-price-target-increased-2900-26775",
+   "summary": "The average one-year price target for Jasper Therapeutics (NASDAQCM:JSPR) has been revised to $267.75 / share. This represents an increase of 2,900.00% from the prior estimate of $8.92 dated October 30, 2026. These figures represent aggregate analyst targets and do not constitute",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T23:29:30+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c44965e8c868",
+   "title": "Stock Indexes Surge as Buyers Return to Chipmakers and AI Stocks",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-surge-buyers-return-chipmakers-and-ai-stocks",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +2.35% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +2.15%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +3.40%. December E-mini S&amp;P futures (ESZ26 ) rose +2.35%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T23:29:04+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "a9cdaf1d7ee5",
+   "title": "Soybeans Fading Back from Early Strength on Monday",
+   "link": "https://www.nasdaq.com/articles/soybeans-fading-back-early-strength-monday",
+   "summary": "Soybeans are trading with contracts down 3 to 4 ½ cents across the front months on Monday, fading back from AM gains. The cmdtyView national average Cash Bean price is down 4 1/4 cents at $11.26. Soymeal futures are steady to 20 cents higher, as Soy Oil futures are down...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T23:29:03+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "107cfec391b3",
    "title": "Trump says FBI is looking at Nvidia CEO Jensen Huang’s affair with alleged Chinese agent - AP News",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWY3b0NNRFBNRG5jZVdXM05URnhOV19vQ24zV29la0k2S3FzZmN4ZzB3WlRwSXJMbHB6RE90MFVEZ2p4UUhMQUFlV0RMdmVZZUUxeFFEa2ljZTFlTlhXOFozaEczRlpPS2dmRXgxcGw2ZWdpNVJQVEltazV5UUZMUmpNMUdoX2NJRG1wVnJhbFRCTHBwbE1LcjZnMk4?oc=5",
@@ -332,6 +480,23 @@
    "tag_v": 2
   },
   {
+   "id": "f762cb6852fd",
+   "title": "Stock Indexes Sharply Higher as Tech Stocks Rally and Crude Oil Falls",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-sharply-higher-tech-stocks-rally-and-crude-oil-falls",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +2.16% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.79%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +3.28%. December E-mini S&amp;P futures (ESZ26 ) are up +2.05%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T23:23:52+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "fbf1578a5660",
    "title": "Earnings call transcript: AST SpaceMobile Q3 2026 misses estimates but stock rises",
    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-ast-spacemobile-q3-2026-misses-estimates-but-stock-rises-93CH-5013695",
@@ -343,6 +508,50 @@
    "tickers": [
     "ASTS"
    ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ec36e5302dba",
+   "title": "Barclays PLC Enters Pricing Agreement for 8.625% Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities",
+   "link": "https://www.nasdaq.com/articles/barclays-plc-enters-pricing-agreement-8625-fixed-rate-resetting-perpetual-subordinated",
+   "summary": "Barclays PLC entered into a Pricing Agreement with Barclays Bank PLC, dated as of November 2, 2026 for the 8.625% Fixed Rate Resetting Perpetual Subordinated Contingent Convertible Securities. The agreement was filed with the Securities and Exchange Commission on Form 6-K on Nove",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T23:21:36+00:00",
+   "tickers": [
+    "BCS"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d2c685ae8506",
+   "title": "SIGA Technologies, Inc. Reports $15 Million Procurement Contract and Financial Results for Three and Nine Months Ended September 30, 2026",
+   "link": "https://www.nasdaq.com/articles/siga-technologies-inc-reports-15-million-procurement-contract-and-financial-results-three",
+   "summary": "SIGA Technologies, Inc. reported its financial results for the three and nine months ended September 30, 2026. For the three months ended September 30, 2026, total revenues were $ 1.3 million, compared to $ 2.6 million for the same period in 2025. The company recorded a net loss",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T23:21:36+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a5f52b4239be",
+   "title": "ArriVent BioPharma Announces Retirement of R&D President, Appointment of Priti Patel to Lead R&D, and Third Quarter 2026 Financial Results",
+   "link": "https://www.nasdaq.com/articles/arrivent-biopharma-announces-retirement-rd-president-appointment-priti-patel-lead-rd-and",
+   "summary": "ArriVent BioPharma, Inc. announced that Stuart Lutzker, M.D., Ph.D. notified the company on November 6, 2026, of his intention to retire from his position as President, Research and Development and as a director, effective December 1, 2026. In connection with his retirement, the",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T23:21:28+00:00",
+   "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
@@ -394,23 +603,6 @@
    "tag_v": 2
   },
   {
-   "id": "c44965e8c868",
-   "title": "Stock Indexes Surge as Buyers Return to Chipmakers and AI Stocks",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-surge-buyers-return-chipmakers-and-ai-stocks",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +2.35% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +2.15%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +3.40%. December E-mini S&amp;P futures (ESZ26 ) rose +2.35%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-09T23:18:43+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "d7414d7ef17b",
    "title": "Nat-Gas Prices Jump as US Temps Cool and LNG Exports Soar",
    "link": "https://www.nasdaq.com/articles/nat-gas-prices-jump-us-temps-cool-and-lng-exports-soar",
@@ -436,37 +628,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-09T23:18:43+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a9cdaf1d7ee5",
-   "title": "Soybeans Fading Back from Early Strength on Monday",
-   "link": "https://www.nasdaq.com/articles/soybeans-fading-back-early-strength-monday",
-   "summary": "Soybeans are trading with contracts down 3 to 4 ½ cents across the front months on Monday, fading back from AM gains. The cmdtyView national average Cash Bean price is down 4 1/4 cents at $11.26. Soymeal futures are steady to 20 cents higher, as Soy Oil futures are down...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-09T23:18:42+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f762cb6852fd",
-   "title": "Stock Indexes Sharply Higher as Tech Stocks Rally and Crude Oil Falls",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-sharply-higher-tech-stocks-rally-and-crude-oil-falls",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +2.16% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.79%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +3.28%. December E-mini S&amp;P futures (ESZ26 ) are up +2.05%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-09T23:18:42+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -923,23 +1084,6 @@
    "published": "2026-11-09T23:05:21+00:00",
    "tickers": [],
    "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "99cac55916b5",
-   "title": "Strength in Tech and Weakness in Crude Oil Boost Stocks",
-   "link": "https://www.nasdaq.com/articles/strength-tech-and-weakness-crude-oil-boost-stocks",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +1.56% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.39%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.17%. December E-mini S&amp;P futures (ESZ26 ) are up +1.53%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-09T23:04:52+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8768,158 +8912,6 @@
    "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "7ed587c8aee3",
-   "title": "Barrick Gold earnings analysis: questions answered and next catalysts",
-   "link": "https://www.investing.com/news/stock-market-news/barrick-gold-earnings-analysis-questions-answered-and-next-catalysts-93CH-5013096",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-09T20:06:55+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a922374da919",
-   "title": "Monday.com earnings analysis: questions answered and next catalysts",
-   "link": "https://www.investing.com/news/stock-market-news/mondaycom-earnings-analysis-questions-answered-and-next-catalysts-93CH-5013095",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-09T20:06:23+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2fb69aacb53d",
-   "title": "ZIONS BANK HELPS ENTREPRENEURS LEAD NATION IN SMALL BUSINESS GROWTH AS TOP SBA 7(A) LENDER IN UTAH IN 2026 | ZION Stock News",
-   "link": "https://www.stocktitan.net/news/ZION/zions-bank-helps-entrepreneurs-lead-nation-in-small-business-growth-8zc67toxeacp.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-09T20:06:00+00:00",
-   "tickers": [
-    "ZION"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "5ea04b989997",
-   "title": "Federal Home Loan Mortgage Corporation - Preferred Stock Price Target Decreased by 50.59% to $11.33",
-   "link": "https://www.nasdaq.com/articles/federal-home-loan-mortgage-corporation-preferred-stock-price-target-decreased-5059-1133",
-   "summary": "The average one-year price target for Federal Home Loan Mortgage Corporation - Preferred Stock (OTCPK:FMCCP) has been revised to $11.33 / share. This is a decrease of 50.59% from the prior estimate of $22.93 dated November 1, 2026.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-09T20:05:22+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9cfacf0d430e",
-   "title": "Cisco adds Claude Mythos to AI Defense for red teaming",
-   "link": "https://www.investing.com/news/company-news/cisco-adds-claude-mythos-to-ai-defense-for-red-teaming-93CH-5013094",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-09T20:04:37+00:00",
-   "tickers": [
-    "CSCO"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8e10b39e2231",
-   "title": "PG&E reaches 1,500 miles of underground power lines milestone",
-   "link": "https://www.investing.com/news/company-news/pge-reaches-1500-miles-of-underground-power-lines-milestone-93CH-5013092",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-09T20:04:30+00:00",
-   "tickers": [
-    "PCG"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0d3d1601bce2",
-   "title": "Kyndryl launches autonomous operations tool for ServiceNow",
-   "link": "https://www.investing.com/news/company-news/kyndryl-launches-autonomous-operations-tool-for-servicenow-93CH-5013093",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-09T20:04:30+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "73957b848589",
-   "title": "Sanmina Corp. Q4 26 Earnings Conference Call AT 5:00 PM ET",
-   "link": "https://www.nasdaq.com/articles/sanmina-corp-q4-26-earnings-conference-call-5-00-pm-et",
-   "summary": "(RTTNews) - Sanmina Corporation (SANM) will host a conference call at 5:00 PM ET on November 9, 2026, to discuss Q4 26 earnings results.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-09T20:03:50+00:00",
-   "tickers": [
-    "SANM"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fbbd77d4444a",
-   "title": "The Trade Desk Q3 26 Earnings Conference Call At 5:00 PM ET",
-   "link": "https://www.nasdaq.com/articles/trade-desk-q3-26-earnings-conference-call-5-00-pm-et",
-   "summary": "(RTTNews) - The Trade Desk, Inc. (TTD) will host a conference call at 5:00 PM ET on November 9, 2026, to discuss Q3 26 earnings results.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-09T20:03:49+00:00",
-   "tickers": [
-    "TTD"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d3c0747ff59c",
-   "title": "Walt Disney and Skydance eye French Ligue 1 TV rights - Bloomberg",
-   "link": "https://www.investing.com/news/stock-market-news/walt-disney-and-skydance-eye-french-ligue-1-tv-rights--bloomberg-93CH-5013090",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-09T20:03:05+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9011,7 +9003,6 @@
   "TTD": "The Trade Desk",
   "USAR": "USA Rare Earth",
   "NET": "Cloudflare Inc",
-  "CSCO": "Cisco Systems",
   "FHN": "First Horizon",
   "IRM": "Iron Mountain",
   "JOBY": "Joby Aviation",
@@ -9051,6 +9042,7 @@
   "TEM": "Tempus AI",
   "AVGO": "Broadcom",
   "BBY": "Best Buy",
+  "BCS": "Barclays",
   "ENTG": "Entegris",
   "GOOG": "Alphabet",
   "NI": "NiSource",
