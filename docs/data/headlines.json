@@ -1,19 +1,63 @@
 {
- "generated": "2026-11-09T19:46:37.985738+00:00",
+ "generated": "2026-11-09T19:51:35.632590+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
+   "id": "764a0d0665f0",
+   "title": "Hegseth impeachment articles introduced by Rep. Massie",
+   "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+   "summary": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-09T19:49:55+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "51057ffef3b1",
-   "title": "Dow rallies 1,200 points, Nasdaq jumps 3% as stocks climb out of postelection slump: Live updates",
+   "title": "Dow rallies 1,200 points, Nasdaq jumps nearly 3% as stocks climb out of postelection slump: Live updates",
    "link": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
    "summary": "Stocks surged on Monday, boosted by a decline in oil prices, as traders kept a close eye on technology shares after last week's volatility.",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-09T19:43:03+00:00",
+   "published": "2026-11-09T19:49:18+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b0ad9796c43a",
+   "title": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
+   "link": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
+   "summary": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-09T19:46:20+00:00",
+   "tickers": [],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "f34b1725d93b",
+   "title": "Illinois is putting communities at risk with prohibition of low-dose THC beverages a month before the federal deadline, says Total Wine & More CEO Ryan Ross",
+   "link": "https://www.prnewswire.com/news-releases/illinois-is-putting-communities-at-risk-with-prohibition-of-low-dose-thc-beverages-a-month-before-the-federal-deadline-says-total-wine--more-ceo-ryan-ross-302933759.html",
+   "summary": "Illinois' Nov. 12 planned prohibition is harsher than federal law and will push demand to illicit sellers BETHESDA, Md., Nov. 9, 2026 /PRNewswire/ -- On Nov. 12, Illinois plans to pull low-dose, hemp-derived THC-infused beverages from licensed retailers, a month before federal...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-09T19:44:00+00:00",
+   "tickers": [
+    "THC"
+   ],
+   "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -75,20 +119,6 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "764a0d0665f0",
-   "title": "Hegseth impeachment articles introduced by Rep. Massie",
-   "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
-   "summary": "The House is likely to vote on the measure this week.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-09T19:36:10+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -294,6 +324,20 @@
     "DB"
    ],
    "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f7a8883a2ea8",
+   "title": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5",
+   "summary": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-09T19:26:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -814,6 +858,20 @@
     "ICE"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b6aa337c75e0",
+   "title": "He fought France's far right for half a century. Now Mélenchon eyes a 2027 runoff with Le Pen - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUno2ZG0ydHlpdXgxNGEtQlBTLXFGaHZNYVNFQ1JoS3FSZXBOaW1BbWFlTW1JSmlRb3RpdGRDaXRNVkljcEFKMkVaR2h4YkZsTEo3VkRhYVNOU1hETWZUeVQxbzBqT28tNTU5aF9ncWpKQXUxMEZ6TTBqTnV0bkY0Q1gwbDU1ZDJfU3BtQXB3T0paZXFxaWtRWTlHV3JnNFg2WUUxcg?oc=5",
+   "summary": "He fought France's far right for half a century. Now Mélenchon eyes a 2027 runoff with Le Pen&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-09T19:07:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3487,6 +3545,20 @@
    "tag_v": 2
   },
   {
+   "id": "5f11507e7cfa",
+   "title": "Germany set to get its first female president as governing parties unite around ex-minister - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEVwOWFXZVhTbVNqVEhqNWYzQU5qb2ZRMEV1ZDlkT0NDRXRGT2lvekFGeXY0eXFNSjYzVUVhRUpJbEdVTjlBTWpyU1NfVW9la1AxMXhzeXlrS1NRY3hpT1NtOGNiOXBRd1VBTWFrMnZtXzEyYVV5YWx5eVBGWlAtSm1JV1gwZkZCby1lWkhaTEFJX2g3aHdHOUFxODR4RjVmaGFmWU5jeElhS1lwS1E?oc=5",
+   "summary": "Germany set to get its first female president as governing parties unite around ex-minister&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-09T17:35:16+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "1f89128aa1e3",
    "title": "OceanFirst: 3 Key Takeaways for Long-Term Investors",
    "link": "https://www.nasdaq.com/articles/oceanfirst-3-key-takeaways-long-term-investors",
@@ -5665,20 +5737,6 @@
    "tag_v": 2
   },
   {
-   "id": "b0ad9796c43a",
-   "title": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
-   "link": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
-   "summary": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-09T16:27:07+00:00",
-   "tickers": [],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "b2bead9b84bf",
    "title": "Target hops aboard the Hogwarts Express with Harry Potter gifts",
    "link": "https://www.thestreet.com/retail/target-hogwarts-express-with-exclusive-harry-potter-magical-holiday-gifts",
@@ -7358,6 +7416,20 @@
    "tag_v": 2
   },
   {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-09T15:42:22+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a9e4674a73dd",
    "title": "West Virginia American Water Continues Infrastructure Upgrades in Ranson | AWK Stock News",
    "link": "https://www.stocktitan.net/news/AWK/west-virginia-american-water-continues-infrastructure-upgrades-in-r4um1tvegnj2.html",
@@ -8350,20 +8422,6 @@
    "tag_v": 2
   },
   {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-09T15:21:25+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "ece7aaa82460",
    "title": "The AI sell-off rocked Wall Street last week. Why it sets up the market for a big year-end rally",
    "link": "https://www.cnbc.com/2026/11/09/ai-selloff-stock-market-year-end-rally.html",
@@ -8897,66 +8955,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "e21b6c5858f1",
-   "title": "Earnings call transcript: BRAC Bank posts strong Q3 2026 profit growth",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-brac-bank-posts-strong-q3-2026-profit-growth-93CH-5012713",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-09T15:12:09+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "c9bfd55fe41d",
-   "title": "QC Healthcare Names Telemedicine Pioneer Michael Gorton, Founder of Teladoc, as Strategic Business Advisor",
-   "link": "https://www.prnewswire.com/news-releases/qc-healthcare-names-telemedicine-pioneer-michael-gorton-founder-of-teladoc-as-strategic-business-advisor-302933079.html",
-   "summary": "Gorton to guide QC Healthcare's scaling strategy across payers, health networks, and self-insured employers as the company expands its family of physician-led telehealth platforms CHARLOTTE, N.C. and ATLANTA, Nov. 9, 2026 /PRNewswire/ -- QC Healthcare (LinkedIn) today announced that...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-09T15:12:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "65b10e7cf5be",
-   "title": "Infleqtion stock may move 7.7% on Nov. 16 earnings release",
-   "link": "https://www.investing.com/news/stock-market-news/infleqtion-stock-may-move-77-on-nov-16-earnings-release-93CH-5012712",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-09T15:11:44+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5ad7ddcfd7db",
-   "title": "Why is ASML NV ADR stock surging today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-asml-nv-adr-stock-surging-today-93CH-5012705",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-09T15:10:23+00:00",
-   "tickers": [
-    "ASML"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9033,6 +9031,7 @@
   "JPM": "JPMorgan Chase &",
   "NVO": "Novo Nordisk A/S",
   "ROIV": "Roivant Sciences",
+  "THC": "Tenet Healthcare",
   "TTE": "TotalEnergies SE",
   "TW": "Tradeweb Markets",
   "AER": "AerCap Holdings",
