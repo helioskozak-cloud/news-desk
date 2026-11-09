@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-09T09:16:24.122679+00:00",
+ "generated": "2026-11-09T09:21:34.717500+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "51057ffef3b1",
+   "title": "Stock futures rise as investors eye AI trade, brace for more data and earnings: Live updates",
+   "link": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+   "summary": "Stock futures rise and AI earnings could set the tone for markets this week.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-09T09:17:23+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "743f3bae5292",
+   "title": "Nevada Governor Election Live Results 2026 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4enRaeHJDeGpCMWZUekgtQm9USWtvTFczWlV6OFkxWmZzenllZFlKT0F6UUJXdDdrQmxnXzZmVW0wblZBaVBNeVh6QVR0Wmh6TGNDZk9UMTZfSWZ4MFIzVkZfamJpekhfM3ExNGduVjY2N1doMVE?oc=5",
+   "summary": "Nevada Governor Election Live Results 2026&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-09T09:17:07+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "6852ca02f9e8",
    "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
@@ -264,6 +292,23 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e5391f8cd9b0",
+   "title": "Citi Downgraded Adobe Stock to Sell. I'd Buy It Now.",
+   "link": "https://www.nasdaq.com/articles/citi-downgraded-adobe-stock-sell-id-buy-it-now",
+   "summary": "Key PointsCiti dropped Adobe to Sell on Nov. 4, warning that growth estimates for fiscal 2027 could be too high.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T08:57:02+00:00",
+   "tickers": [
+    "ADBE",
+    "C"
+   ],
+   "type": "downgrade",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -798,20 +843,6 @@
    "tag_v": 2
   },
   {
-   "id": "51057ffef3b1",
-   "title": "Nasdaq futures are lower as investors eye AI trade, brace for more data and earnings: Live updates",
-   "link": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
-   "summary": "Key inflation data and AI earnings could set the tone for markets this week.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-09T08:23:50+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "43514ea43621",
    "title": "ENSG Investors Have Opportunity to Lead The Ensign Group, Inc. Securities Fraud Lawsuit with SBS Law",
    "link": "https://www.prnewswire.com/news-releases/ensg-investors-have-opportunity-to-lead-the-ensign-group-inc-securities-fraud-lawsuit-with-sbs-law-302932940.html",
@@ -866,20 +897,6 @@
    "published": "2026-11-09T08:19:07+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "743f3bae5292",
-   "title": "Nevada Governor Election Live Results 2026 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4enRaeHJDeGpCMWZUekgtQm9USWtvTFczWlV6OFkxWmZzenllZFlKT0F6UUJXdDdrQmxnXzZmVW0wblZBaVBNeVh6QVR0Wmh6TGNDZk9UMTZfSWZ4MFIzVkZfamJpekhfM3ExNGduVjY2N1doMVE?oc=5",
-   "summary": "Nevada Governor Election Live Results 2026&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-09T08:18:30+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8822,23 +8839,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "99cbf605b350",
-   "title": "Warren Buffett, 96, credits Coke and McDonald's for his long life",
-   "link": "https://www.thestreet.com/personalities/warren-buffett-96-credits-coke-and-mcdonalds-for-his-long-life",
-   "summary": "He drinks five Cokes a day, lets the market pick his McDonald's order, and told Bill Ackman he skips water.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-08T14:33:00+00:00",
-   "tickers": [
-    "MCD",
-    "KO"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8914,7 +8914,6 @@
   "CSCO": "Cisco Systems",
   "EG": "Everest Group",
   "ELF": "e.l.f. Beauty",
-  "KO": "The Coca-Cola",
   "MT": "ArcelorMittal",
   "PINS": "Pinterest Inc",
   "ASML": "ASML Holding",
