@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T19:21:39.385113+00:00",
+ "generated": "2026-11-09T19:26:20.302756+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -58,6 +58,20 @@
    "published": "2026-11-09T19:11:04+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9edd6f72102c",
+   "title": "The Big Winner From the Aurora Cannabis-Organigram Deal: Curaleaf",
+   "link": "https://www.nasdaq.com/articles/big-winner-aurora-cannabis-organigram-deal-curaleaf",
+   "summary": "Key PointsOrganigram is acquiring Aurora Cannabis.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-09T19:10:02+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2212,6 +2226,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c4dc105dac88",
+   "title": "UCLA jumps into top 10 of men's AP Top 25 basketball poll as Florida, Duke, Illini lead the rankings - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV1VSZi12cXI2cHhvTjlfQUdvTjBqU1dhMjdFamJ6VlJGbGdLNG45TGw5MnNHUE9OV2RmblRSTmNxbVk1dlUzVnI1eVhKWW9yczVtdDFSTExzU2pURXQ3RzhHelBncUQyR3FfU3F4aFZRZmJEWmlsdFJ6MFNFX2sxdl9zdVBHenFqdk5PRHlqVE1lcW1tUU9rZkw3dmJURnc?oc=5",
+   "summary": "UCLA jumps into top 10 of men's AP Top 25 basketball poll as Florida, Duke, Illini lead the rankings&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-09T18:00:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8936,38 +8964,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "b198863af705",
-   "title": "H&R Block earnings on deck as AI push meets volume pressures",
-   "link": "https://www.investing.com/news/earnings/hr-block-earnings-on-deck-as-ai-push-meets-volume-pressures-93CH-5012622",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-09T14:55:41+00:00",
-   "tickers": [
-    "HRB"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6e95bdc55541",
-   "title": "Why is Western Digital stock surging today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-surging-today-93CH-5012621",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-09T14:55:21+00:00",
-   "tickers": [
-    "WDC"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9061,7 +9057,6 @@
   "PWR": "Quanta Services",
   "TGTX": "TG Therapeutics",
   "VRNS": "Varonis Systems",
-  "WDC": "Western Digital",
   "CNH": "CNH Industrial",
   "DOX": "Amdocs Limited",
   "FLNC": "Fluence Energy",
@@ -9119,7 +9114,6 @@
   "C": "Citigroup",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
-  "HRB": "H&R Block",
   "RBA": "RB Global",
   "SBUX": "Starbucks",
   "SNOW": "Snowflake",
