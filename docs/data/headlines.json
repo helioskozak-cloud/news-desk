@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T00:01:37.098879+00:00",
+ "generated": "2026-11-09T00:06:18.151385+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,23 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "854452e40a23",
+   "title": "Stock Indexes Settle Mostly Higher as Chipmakers Rebound",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-higher-chipmakers-rebound",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +0.31% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.35%. December E-mini S&amp;P futures (ESZ26 ) rose +0.31%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T23:42:27+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -44,23 +61,6 @@
    "published": "2026-11-08T23:30:19+00:00",
    "tickers": [],
    "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "854452e40a23",
-   "title": "Stock Indexes Settle Mostly Higher as Chipmakers Rebound",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-higher-chipmakers-rebound",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +0.31% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.35%. December E-mini S&amp;P futures (ESZ26 ) rose +0.31%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-08T23:28:32+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1569,6 +1569,20 @@
    "tag_v": 2
   },
   {
+   "id": "ceed69bb9b3a",
+   "title": "South Africa’s ANC is humbled by its worst election results as it continues its decline - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEE1M2QwamttWi1XNENfaUhIZlRYRDRNaGhkazExNHlqWHFSelh2WEpZLXp2d1JiVmNuUHdIRS1jeTdCdFFVa3RkV0FKUEhsSTNoa1BEbnAyX0RVRnFwV0JFNV9laXE2MzZ4TTZHOVdmV0RSQVBiQUdjQUl5OENxWGIwN1JwTk8yX3FKSDFNOEo0RGdaMk1DRFBPQjBHVVdFeDNZN1BDMktuSHN6?oc=5",
+   "summary": "South Africa’s ANC is humbled by its worst election results as it continues its decline&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-08T18:57:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "6496ab7cbcce",
    "title": "AppLovin Shares Surge as Revenue Continues to Soar. Is It Too Late to Buy the Stock?",
    "link": "https://www.nasdaq.com/articles/applovin-shares-surge-revenue-continues-soar-it-too-late-buy-stock",
@@ -2283,20 +2297,6 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "ceed69bb9b3a",
-   "title": "South Africa’s ANC is humbled by its worst election results as it continues its decline - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEE1M2QwamttWi1XNENfaUhIZlRYRDRNaGhkazExNHlqWHFSelh2WEpZLXp2d1JiVmNuUHdIRS1jeTdCdFFVa3RkV0FKUEhsSTNoa1BEbnAyX0RVRnFwV0JFNV9laXE2MzZ4TTZHOVdmV0RSQVBiQUdjQUl5OENxWGIwN1JwTk8yX3FKSDFNOEo0RGdaMk1DRFBPQjBHVVdFeDNZN1BDMktuSHN6?oc=5",
-   "summary": "South Africa’s ANC is humbled by its worst election results as it continues its decline&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-08T16:50:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -6056,6 +6056,20 @@
    "tag_v": 2
   },
   {
+   "id": "a6b18954c9e9",
+   "title": "Oregon storms back from 2-touchdown deficit to hammer No. 11 Ohio State 41-28 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcl9zUlFLb2FULU5GbzQ0c1B4VjJXLVpyZ1Q1Vm9sTzk0MHhCaW8yODRIc0gzZ3RST3dVNmZmdzV3WVNGaldfTFdJT3dScHFpY01NUFJCekE1T0pwR0lncmRNbTVlUnJBQ2FSemd5ZWc1ZmlUSjlDVXdKTVYtXzJEejdRbG1IQmtrNE5HNg?oc=5",
+   "summary": "Oregon storms back from 2-touchdown deficit to hammer No. 11 Ohio State 41-28&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-08T03:19:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "2433ed426340",
    "title": "Colorado U.S. House Election Live Results 2026 - AP News",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HLVhOYUhxMDBrY2F6eUNZNkF3bDItVUNXUjRzZzhva3RBYmdhZmd4TU5McmtONnNjS3hnZ3BIU045MWN6SThBNnd4Vmttd3c5WUlaVzFacFg0V3FmcEJEQUIxaFp3WVFYRHc3MnlzbHhCMlVTVVhjeA?oc=5",
@@ -6368,20 +6382,6 @@
    "published": "2026-11-08T01:00:45+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a6b18954c9e9",
-   "title": "Oregon storms back from 2-touchdown deficit to hammer No. 11 Ohio State 41-28 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcl9zUlFLb2FULU5GbzQ0c1B4VjJXLVpyZ1Q1Vm9sTzk0MHhCaW8yODRIc0gzZ3RST3dVNmZmdzV3WVNGaldfTFdJT3dScHFpY01NUFJCekE1T0pwR0lncmRNbTVlUnJBQ2FSemd5ZWc1ZmlUSjlDVXdKTVYtXzJEejdRbG1IQmtrNE5HNg?oc=5",
-   "summary": "Oregon storms back from 2-touchdown deficit to hammer No. 11 Ohio State 41-28&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-08T01:00:23+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
