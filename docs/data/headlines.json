@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-10T19:51:31.164159+00:00",
+ "generated": "2026-11-10T19:55:57.238745+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2ad4dbd6e16b",
+   "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+   "link": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
+   "summary": "On Sunday, Huang admitted to having an affair with a woman who has been connected to Chinese intelligence by reports in The New York Times and Financial Times.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-10T19:55:10+00:00",
+   "tickers": [
+    "NYT"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ff8136656abe",
+   "title": "Traders bet on a pop for Anthropic's historic IPO",
+   "link": "https://www.cnbc.com/2026/11/10/traders-bet-on-a-pop-for-anthropics-historic-ipo.html",
+   "summary": "Perpetual futures traders see Anthropic popping on its IPO",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-10T19:51:18+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "ee6e76ba29dc",
    "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
@@ -11,7 +41,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-10T19:49:30+00:00",
+   "published": "2026-11-10T19:51:08+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
@@ -335,22 +365,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2ad4dbd6e16b",
-   "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
-   "link": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
-   "summary": "On Sunday, Huang admitted to having an affair with a woman who has been connected to Chinese intelligence by reports in The New York Times and Financial Times.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-10T19:26:30+00:00",
-   "tickers": [
-    "NYT"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1322,6 +1336,20 @@
    ],
    "type": "ma",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a37188492f9f",
+   "title": "US stocks fall after a discouraging update on inflation - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3JURzdxSWtQNVp6X3phSmh4WmNLbUF4VzYtaDVLdEZ4QUlwbTMwTERYS2ZLWkhqbHIxWk14UlV5M1NKUWtfNEFFdGp2Rks4WURWV0Q5LV9uQW1UVjQyUFE0aVQyOXh5TDh3bkJ6aUlIS2ZHd3F5czRRTV9tZjRBaWJLb3pKN0pkb20weXlUMlhET1E?oc=5",
+   "summary": "US stocks fall after a discouraging update on inflation&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-10T18:35:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -3152,20 +3180,6 @@
    "tag_v": 2
   },
   {
-   "id": "f001a4e516c3",
-   "title": "Past talks involving Russia and Ukraine have yielded little progress toward peace - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ2ZpbkdNTFk2WGVZUC1CcFg1VDNNSDEtZDVKN0lYdnY0ZHEyb01RT3puTmpOek0ydjJ0TEhhMUpLRmlISkVQZThmcDRJd3p0M0xXd0x6NlpYNHRma1JIOWlIRzF1QW56OEptRWRiandnWkctUHU5ME5ZVzhjUkh3UWJVcGdyVm9LbWdIQ0xBdkcwRm9KS3pjcjdkbWhRWlRySmlRaHN5MGxjdw?oc=5",
-   "summary": "Past talks involving Russia and Ukraine have yielded little progress toward peace&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-10T17:05:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "f8751ce16f53",
    "title": "Spero Therapeutics at guggenheim conference: SP001 drives next phase",
    "link": "https://www.investing.com/news/transcripts/spero-therapeutics-at-guggenheim-conference-sp001-drives-next-phase-93CH-5016350",
@@ -4449,20 +4463,6 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a37188492f9f",
-   "title": "US stocks fall after a discouraging update on inflation - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3JURzdxSWtQNVp6X3phSmh4WmNLbUF4VzYtaDVLdEZ4QUlwbTMwTERYS2ZLWkhqbHIxWk14UlV5M1NKUWtfNEFFdGp2Rks4WURWV0Q5LV9uQW1UVjQyUFE0aVQyOXh5TDh3bkJ6aUlIS2ZHd3F5czRRTV9tZjRBaWJLb3pKN0pkb20weXlUMlhET1E?oc=5",
-   "summary": "US stocks fall after a discouraging update on inflation&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-10T16:08:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -7170,20 +7170,6 @@
    "tag_v": 2
   },
   {
-   "id": "17f46e91b7b0",
-   "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWZLSmVmc24zNkczOTlKaXE0eGlhQUZhYWNvNjBaanpFYk5VUlBBc21GeEI5Yl9QN25JdGpCQXEyNGxFMjVZaEdjaW9qUDM2SzdEUUZ5TVF0dDlJOVVGRWs3RXpSYUU3a1Z3bFdDTFRLUmhWU3ZUS2xJWndjMzk3cnFZdElrUHIxdzJURWJqMXNHWUxuTGFYSQ?oc=5",
-   "summary": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35%&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-10T14:37:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "9850c82ff139",
    "title": "Exclusive-Microsoft presses Trump to scuttle expected ban on Chinese data center technology",
    "link": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-presses-trump-to-scuttle-expected-ban-on-chinese-data-center-technology-5014745",
@@ -8988,6 +8974,22 @@
     "BEN"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2fe3249cc8dd",
+   "title": "D-Wave Quantum Has Long-Term Potential, But Is Now the Time to Buy?",
+   "link": "https://www.marketbeat.com/articles/d-wave-quantum-has-long-term-potential-but-is-now-the-time-to-buy/",
+   "summary": "D-Wave Quantum shares face a downtrend, high short interest, soft analyst sentiment, rising cash burn, and share dilution despite Q3 revenue growth and a $503 million cash position.",
+   "source": "MarketBeat",
+   "category": "stocks",
+   "domain": "marketbeat.com",
+   "published": "2026-11-10T13:45:00+00:00",
+   "tickers": [
+    "QBTS"
+   ],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   }
