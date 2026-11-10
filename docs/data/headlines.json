@@ -1,8 +1,54 @@
 {
- "generated": "2026-11-10T15:21:28.563253+00:00",
+ "generated": "2026-11-10T15:26:26.401204+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "dfa013db5e78",
+   "title": "Inflation remained elevated in October, CPI report shows",
+   "link": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/",
+   "summary": "Inflation rose at a monthly pace of 0.4%, hotter than economists had forecast and raising expectations that the Federal Reserve will increase interest rates in December.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-10T15:21:14+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "90471b069528",
+   "title": "Viam to Host NYC Robotics Hackathon Exploring Physical AI on Intel-Based Edge AI Systems",
+   "link": "https://www.prnewswire.com/news-releases/viam-to-host-nyc-robotics-hackathon-exploring-physical-ai-on-intel-based-edge-ai-systems-302935101.html",
+   "summary": "Developers will work with robotics hardware, Intel's inference runtime OpenVINO, and Viam software during a two-day hands-on event NEW YORK, Nov. 10, 2026 /PRNewswire/ -- Viam, the leading harness for physical AI and robotics, will host \"Robot Hackathon: Edge of Intelligence\" on November...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-10T15:21:00+00:00",
+   "tickers": [
+    "INTC"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "987835aed649",
+   "title": "Channel Key Study Finds $550M in Estimated Amazon Revenue, Zero Strong Product Pages",
+   "link": "https://www.prnewswire.com/news-releases/channel-key-study-finds-550m-in-estimated-amazon-revenue-zero-strong-product-pages-302935100.html",
+   "summary": "Channel Key's Via Surface benchmark of 40 flagship listings across four categories finds sales leadership doesn't consistently track with product page quality. LAS VEGAS, Nov. 10, 2026 /PRNewswire/ -- Channel Key released new findings from an ongoing commerce benchmarking initiative that...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-10T15:21:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "press",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "f80c36577cb5",
    "title": "West Virginia American Water Announces $165,000 Infrastructure Upgrades on Sanford Street | AWK Stock News",
@@ -1283,20 +1329,6 @@
    "published": "2026-11-10T14:46:32+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dfa013db5e78",
-   "title": "Inflation remained elevated in October, CPI report shows",
-   "link": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/",
-   "summary": "Inflation rose at a monthly pace of 0.4%, hotter than economists had forecast.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-10T14:46:21+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8901,36 +8933,6 @@
    "type": "markets",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "5d61f0e36f10",
-   "title": "Oscar Launches New Wave of Consumer Health Insurance Products to South Carolina Individuals and Families | OSCR Stock News",
-   "link": "https://www.stocktitan.net/news/OSCR/oscar-launches-new-wave-of-consumer-health-insurance-products-to-6rtznaud2z6i.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-10T12:03:00+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "f83aebfda641",
-   "title": "Alice Huang, Chinese businesswoman tied to Nvidia CEO, went from finance to chips",
-   "link": "https://www.investing.com/news/stock-market-news/alice-huang-chinese-businesswoman-tied-to-nvidia-ceo-went-from-finance-to-chips-5014096",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-10T12:01:20+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9034,7 +9036,6 @@
   "WFC": "Wells Fargo &",
   "HRL": "Hormel Foods",
   "MO": "Altria Group",
-  "OSCR": "Oscar Health",
   "RL": "Ralph Lauren",
   "UBS": "UBS Group AG",
   "Z": "Zillow Group",
