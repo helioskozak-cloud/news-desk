@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-10T17:50:58.084000+00:00",
+ "generated": "2026-11-10T17:56:06.892683+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d74ec4c37096",
+   "title": "Another holiday airline cancels all flights, eyes bankruptcy",
+   "link": "https://www.thestreet.com/travel/another-holiday-airline-cancels-all-flights-eyes-bankruptcy",
+   "summary": "Spanish airline AlbaStar named its \"economic and financial situation\" as the reason for the flight cancelations.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-10T17:52:54+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e723438c1603",
+   "title": "Microsoft shares drop after Anthropic unveils tools that could compete with Office",
+   "link": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
+   "summary": "Follow below as CNBC breaks down the biggest stock market moves of the day.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-10T17:52:40+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "ee6e76ba29dc",
    "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
@@ -532,6 +562,20 @@
    "tag_v": 2
   },
   {
+   "id": "4afe31ab56a1",
+   "title": "What we know — and what we don't — as Nvidia investigates an alleged spy plot involving its CEO - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlpxelBXZlVqS3JrUFY1YlZKTzdYRXhmSmZBWU0xcFBIaUpob1FGM0FTOTd5RDVEaV9MZkkxT0F3R1oyLVczcjBvYjJWSTRjQnVfbnlBZXJHNS1ITGpkTXdxRHN6NVEwLVB1UURJZHl5OGtoeTlHZG9BM3BUcGNlbmVmTlgwN3pHS1RuWTBscS1vbW5qcHl1elZJeWVyNzlWeFJTd2Z6ODI?oc=5",
+   "summary": "What we know — and what we don't — as Nvidia investigates an alleged spy plot involving its CEO&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-10T17:17:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "5420f3c88362",
    "title": "iA Financial Q3 2026 slides: core EPS jumps 16%, wealth surges",
    "link": "https://www.investing.com/news/company-news/ia-financial-q3-2026-slides-core-eps-jumps-16-wealth-surges-93CH-5016390",
@@ -898,20 +942,6 @@
     "PII"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f001a4e516c3",
-   "title": "Past talks involving Russia and Ukraine have yielded little progress toward peace - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ2ZpbkdNTFk2WGVZUC1CcFg1VDNNSDEtZDVKN0lYdnY0ZHEyb01RT3puTmpOek0ydjJ0TEhhMUpLRmlISkVQZThmcDRJd3p0M0xXd0x6NlpYNHRma1JIOWlIRzF1QW56OEptRWRiandnWkctUHU5ME5ZVzhjUkh3UWJVcGdyVm9LbWdIQ0xBdkcwRm9KS3pjcjdkbWhRWlRySmlRaHN5MGxjdw?oc=5",
-   "summary": "Past talks involving Russia and Ukraine have yielded little progress toward peace&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-10T17:05:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1770,6 +1800,20 @@
    "tickers": [],
    "type": "ma",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4bff9e81d5b5",
+   "title": "FDA adds rare vision-loss warning to popular GLP-1 drugs - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVZSQ09GWGpSaFhYeklfRVNZVUNsNGtycVZrOTJ1eXUzSEl3OFhpUnF3eTVJSWNCT0QxR19JXzhrNU5rOUFjclhnS2hxb0ZSazRjNjhKcWo1ZlV4RFl0ZzZDWjVmcm9ZN2xiZzlqR3c0RWxvSnJPOFRFRkdlZVJWMUd4SDRNOE1XckNLZFpnOUxhMmpf?oc=5",
+   "summary": "FDA adds rare vision-loss warning to popular GLP-1 drugs&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-10T16:32:00+00:00",
+   "tickers": [],
+   "type": "fda",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -3136,22 +3180,6 @@
    "published": "2026-11-10T15:42:00+00:00",
    "tickers": [],
    "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e723438c1603",
-   "title": "Stocks making the biggest moves in early trading: Sanmina, Hims & Hers, Securitize & more",
-   "link": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
-   "summary": "Follow below as CNBC breaks down the biggest stock market moves of the day.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-10T15:40:31+00:00",
-   "tickers": [
-    "SANM"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8952,36 +8980,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "cee886c7a1f5",
-   "title": "Solid Biosciences to Participate in the 2026 Jefferies Global Healthcare Conference | SLDB Stock News",
-   "link": "https://www.stocktitan.net/news/SLDB/solid-biosciences-to-participate-in-the-2026-jefferies-global-apap2wddjxaq.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-10T13:08:00+00:00",
-   "tickers": [
-    "JEF"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "34e5a51d1ac6",
-   "title": "Anthropic targets more than $1 trillion valuation in much-anticipated IPO",
-   "link": "https://www.investing.com/news/stock-market-news/anthropic-retracts-ipo-details-after-sending-filing-to-bankers--reuters-5013961",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-10T13:07:32+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9144,7 +9142,6 @@
   "NOVT": "Novanta",
   "PEP": "PepsiCo",
   "PII": "Polaris",
-  "SANM": "Sanmina",
   "TRMB": "Trimble",
   "WDAY": "Workday",
   "WMT": "Walmart",
