@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-10T13:26:29.405840+00:00",
+ "generated": "2026-11-10T13:30:58.420728+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "6a1dc9694495",
+   "title": "Amazon is selling a $150 AI-enabled 2-in-1 laptop and tablet for $70",
+   "link": "https://www.thestreet.com/deals/nextcheer-android-16-2-in-1-laptop-and-tablet-amazon-sale",
+   "summary": "It has expandable memory up to 1 terabyte (TB).",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-10T13:30:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "237fcbcf3207",
    "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
@@ -11,9 +27,25 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-10T13:24:11+00:00",
+   "published": "2026-11-10T13:29:48+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "350fc2399176",
+   "title": "Morning Muze Gives Creators the One Slot No Feed Can: The Moment Their Audience Wakes Up",
+   "link": "https://www.prnewswire.com/news-releases/morning-muze-gives-creators-the-one-slot-no-feed-can-the-moment-their-audience-wakes-up-302934952.html",
+   "summary": "New iOS platform lets wellness and motivational creators sell wake-up audio subscriptions LOS ANGELES, Nov. 10, 2026 /PRNewswire/ -- Morning Muze, a new platform where creators publish voice content that subscribers wake up to, launches today on the App Store. Creators set their own...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-10T13:27:00+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2170,6 +2202,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "349d7a5443b7",
+   "title": "Prince Harry’s wife Meghan makes first public appearance since father’s arrest - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkVfekZfQWxoajRGRkZwbHo5b25WdTJHSjlHZnZaUmV0bVc1UERGZXVtanl6TTNrNXpsRlpuY2ZkbWNDZS1iRFV4RWtqV255M2w4emlsZkxYWUJlbVE1ckVhSGluUGN6RTZkRFZzbHpfVDNHMVRvNjFUS2JtS3dxS0puR0s1LUFLMmVVN3JqZUZ0VVpXVHpn?oc=5",
+   "summary": "Prince Harry’s wife Meghan makes first public appearance since father’s arrest&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-10T12:46:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8820,48 +8866,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "7822470a4d5e",
-   "title": "Euro yields linger at 1-month lows as sinking oil calms inflation jitters",
-   "link": "https://www.investing.com/news/forex-news/euro-yields-linger--at-1month-lows-as-sinking-oil-calms-inflation-jitters-5014393",
-   "summary": "",
-   "source": "Investing Forex",
-   "category": "fx",
-   "domain": "investing.com",
-   "published": "2026-11-10T09:19:13+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "03dcee831e1e",
-   "title": "Earnings call transcript: SoftBank Q2 2026 loss weighs on results, stock jumps 14%",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-softbank-q2-2026-loss-weighs-on-results-stock-jumps-14-93CH-5014428",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-10T09:17:15+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3dc1b64f5786",
-   "title": "Prediction: This Is Where SpaceX Stock Will Be at the End of 2027",
-   "link": "https://www.nasdaq.com/articles/prediction-where-spacex-stock-will-be-end-2027",
-   "summary": "Key PointsSpaceX's revenue more than doubled in the third quarter, and it reported its first quarterly profit.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-10T09:16:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8967,6 +8971,7 @@
   "NVDA": "Grace Hopper",
   "DUK": "Duke Energy",
   "MORN": "Morningstar",
+  "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "AZN": "AstraZeneca",
   "SE": "Sea Limited",
