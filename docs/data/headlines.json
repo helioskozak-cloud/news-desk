@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-10T05:41:38.246782+00:00",
+ "generated": "2026-11-10T05:46:12.121550+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b662ff950474",
+   "title": "TSMC's October sales jump as global chip boom rolls on",
+   "link": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+   "summary": "TSMC reports its monthly sales figures for October on Tuesday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-10T05:42:42+00:00",
+   "tickers": [
+    "TSM"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "16703b4cb5b6",
    "title": "S&P 500 futures rise as traders brace for crucial consumer inflation report: Live updates",
@@ -501,6 +517,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b368cb87878e",
+   "title": "Kobe Steel H1 Profit Down, Sales Rise; Lifts FY Outlook",
+   "link": "https://www.nasdaq.com/articles/kobe-steel-h1-profit-down-sales-rise-lifts-fy-outlook",
+   "summary": "(RTTNews) - Kobe Steel, Ltd. (KBSTY.PK, 5406.T) Tuesday reported lower profit in the first half of fiscal year ending March 31, 2027, despite higher net sales. Further, the Japanese steel manufacturer raised its full-year profit and sales outlook.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-10T05:08:45+00:00",
+   "tickers": [],
+   "type": "guidance",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8791,40 +8821,13 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "373f8435fd01",
-   "title": "Honda To Build $3 Bln Hybrid Vehicle Plant In Ohio, Creating 2,000 Jobs",
-   "link": "https://www.nasdaq.com/articles/honda-build-3-bln-hybrid-vehicle-plant-ohio-creating-2000-jobs",
-   "summary": "(RTTNews) - Honda Motor Co Ltd. (HMC) plans to invest $3 billion in a new automobile plant in central Ohio to manufacture hybrid vehicles, creating approximately 2,000 jobs. The facility is expected to begin production in 2029, with an annual capacity of 240,000 vehicles.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-09T22:25:08+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7182032bdc02",
-   "title": "Companies risk fines of 6% global turnover for unfair digital trade practices, EU draft law shows",
-   "link": "https://www.investing.com/news/stock-market-news/companies-risk-fines-of-6-global-turnover-for-unfair-digital-trade-practices-eu-draft-law-shows-5012950",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-09T22:24:41+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "IEMG": "iShares Core MSCI Emerging Markets ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
+  "TSM": "Taiwan Semiconductor Manufacturing",
   "DB": "Deutsche Bank Aktiengesellschaft",
   "PNC": "The PNC Financial Services Group",
   "TTWO": "Take-Two Interactive Software",
