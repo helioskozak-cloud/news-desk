@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-10T23:51:19.708282+00:00",
+ "generated": "2026-11-10T23:56:28.783178+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "aeb90f5868cb",
+   "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+   "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+   "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-11-10T23:53:58+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "8262dddd80ec",
+   "title": "Rosen Law Firm Encourages Barclays PLC Investors to Inquire About Securities Class Action Investigation - BCS",
+   "link": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-barclays-plc-investors-to-inquire-about-securities-class-action-investigation--bcs-302935573.html",
+   "summary": "NEW YORK, Nov. 10, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of Barclays PLC (NYSE: BCS) resulting from allegations that Barclays may have issued materially misleading...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-10T23:50:00+00:00",
+   "tickers": [
+    "BCS"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "afef66668865",
+   "title": "Greenberg Traurig Advises TNL Mediagene in Management Buyout, Equity Transaction | TNMG Stock News",
+   "link": "https://www.stocktitan.net/news/TNMG/greenberg-traurig-advises-tnl-mediagene-in-management-buyout-equity-8pidgok0emc2.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-10T23:50:00+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "e62d2fdd5a51",
    "title": "Immutep Further Expands United States Patent Estate for Efti-Based Combination Therapies | IMMP Stock News",
@@ -8756,52 +8800,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "a1f8bb874258",
-   "title": "Strata at UBS Global Healthcare Conference: transplant push gains scale",
-   "link": "https://www.investing.com/news/transcripts/strata-at-ubs-global-healthcare-conference-transplant-push-gains-scale-93CH-5016491",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-10T18:17:43+00:00",
-   "tickers": [
-    "UBS"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "52736fa828d4",
-   "title": "US credit card debt hits record $1.29 trillion in third quarter",
-   "link": "https://www.investing.com/news/economy-news/us-credit-card-debt-hits-record-129-trillion-in-third-quarter-5016490",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-10T18:17:38+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9b902f87743a",
-   "title": "Lattice Semiconductor director sells $50,864 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/lattice-semiconductor-director-sells-50864-in-shares-93CH-5016489",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-10T18:16:03+00:00",
-   "tickers": [
-    "LSCC"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8915,6 +8913,7 @@
   "OS": "OneStream",
   "ADBE": "Photoshop",
   "APP": "AppLovin",
+  "BCS": "Barclays",
   "DOCS": "Doximity",
   "DUOL": "Duolingo",
   "EVR": "Evercore",
