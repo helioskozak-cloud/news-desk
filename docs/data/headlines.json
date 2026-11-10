@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T04:01:45.724057+00:00",
+ "generated": "2026-11-10T04:06:25.757970+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -60,6 +60,20 @@
    "tag_v": 2
   },
   {
+   "id": "58ff11f027e5",
+   "title": "The Nasdaq Fell Into Correction Territory Recently. Should You Buy the Dip?",
+   "link": "https://www.nasdaq.com/articles/nasdaq-fell-correction-territory-recently-should-you-buy-dip",
+   "summary": "Key PointsHistory suggests all markets exhibit volatility, and the current market is no different.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-10T03:50:00+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "c076cfdbdee3",
    "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
    "link": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
@@ -82,6 +96,37 @@
    "category": "markets",
    "domain": "investing.com",
    "published": "2026-11-10T03:48:20+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e8b0ec017ffa",
+   "title": "Applied Materials vs. Dell Technologies: Comparing Stable vs. Accelerating Revenue Between These Artificial Intelligence Companies",
+   "link": "https://www.nasdaq.com/articles/applied-materials-vs-dell-technologies-comparing-stable-vs-accelerating-revenue-between",
+   "summary": "Key PointsDell Technologies currently leads on revenue volume on a comparative basis, while demonstrating a faster pace of upward movement than Applied Materials.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-10T03:45:56+00:00",
+   "tickers": [
+    "DELL",
+    "AMAT"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "54648a9d48aa",
+   "title": "Ultra Clean Holdings: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/ultra-clean-holdings-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsThird-quarter revenue reached $759 million, up 48.8% year over year.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-10T03:44:39+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -974,20 +1019,6 @@
    "published": "2026-11-10T02:56:34+00:00",
    "tickers": [],
    "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b305eea25e34",
-   "title": "Kansas Governor Election Live Results 2026 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nWHBNNWZibldPNElQNFdGbHpZVmdlaFY0em9Va3BrSlZ6djdaV0ZYQWdXLVIyQm1rb2xpeVdueDdvRmRZdjc3SEJ4WFk0V1ZqWW1zUG12eEpoVmxnbXd1SlpITzBEMHVlZVNyTlE0ekYwVmRQS2c?oc=5",
-   "summary": "Kansas Governor Election Live Results 2026&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-10T02:52:14+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8803,38 +8834,6 @@
    "type": "earnings",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "f0d554d7d0e7",
-   "title": "American Tower prices $1.5 billion senior notes offering",
-   "link": "https://www.investing.com/news/company-news/american-tower-prices-15-billion-senior-notes-offering-93CH-5013365",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-09T21:48:27+00:00",
-   "tickers": [
-    "AMT"
-   ],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9060a81d4f69",
-   "title": "LASEROPTEK Welcomes 2027 CPT® Code Descriptor Clarifications for Targeted UVB Laser Therapy, Supporting Patient Care and Physician Choice",
-   "link": "https://www.prnewswire.com/news-releases/laseroptek-welcomes-2027-cpt-code-descriptor-clarifications-for-targeted-uvb-laser-therapy-supporting-patient-care-and-physician-choice-302933894.html",
-   "summary": "LAGUNA HILLS, Calif., Nov. 9, 2026 /PRNewswire/ -- LASEROPTEK America Corp., a provider of advanced dermatological laser technologies, welcomes the American Medical Association's (AMA) release of the 2027 Current Procedural Terminology (CPT®) code set, which includes important revisions...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-09T21:48:00+00:00",
-   "tickers": [
-    "CPT"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8872,8 +8871,10 @@
   "ROK": "Rockwell Automation",
   "GWRE": "Guidewire Software",
   "PSKY": "Paramount Skydance",
+  "AMAT": "Applied Materials",
   "AU": "AngloGold Ashanti",
   "DD": "DuPont de Nemours",
+  "DELL": "Dell Technologies",
   "GFL": "GFL Environmental",
   "HOOD": "Robinhood Markets",
   "MU": "Micron Technology",
@@ -8903,7 +8904,6 @@
   "TGTX": "TG Therapeutics",
   "WDC": "Western Digital",
   "WGS": "GeneDx Holdings",
-  "AMT": "American Tower",
   "B": "Barrick Mining",
   "HD": "The Home Depot",
   "IQV": "IQVIA Holdings",
