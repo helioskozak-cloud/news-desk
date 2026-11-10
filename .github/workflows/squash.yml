@@ -1,0 +1,84 @@
+name: Yearly history squash
+
+# Owner Q186=a (2026-11-10): the repo grows ~95 MB a month from a commit every
+# 5 minutes, so once a year the whole history is saved as a git bundle on a
+# GitHub release (outside the repo's own size) and main is replaced by one
+# commit holding today's files. The site and every data URL are unchanged.
+#
+# Restore the old history: download history.bundle from the release, then
+#   git clone history.bundle news-desk-history
+#
+# After a squash, a local checkout has an unrelated history. Reset it with
+#   git fetch origin && git reset --hard origin/main
+on:
+  schedule:
+    - cron: "17 9 1 1 *"   # Jan 1, ~4 am ET: quiet hours
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Build the bundle and the squashed commit, but publish and push nothing"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  squash:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Bundle the full history
+        run: |
+          git bundle create history.bundle main
+          git bundle verify history.bundle
+          echo "COMMITS=$(git rev-list --count main)" >> "$GITHUB_ENV"
+          echo "TAG=history-through-$(date -u +%Y-%m-%d)" >> "$GITHUB_ENV"
+          ls -la history.bundle
+
+      # A DRAFT release: it holds the bundle without creating a tag yet. A tag
+      # on the old tip would keep every old object in the repo and undo the
+      # point of squashing, so the release is published on the NEW commit
+      # once the push has landed.
+      - name: Save the bundle on a draft release
+        if: ${{ !inputs.dry_run }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$TAG" history.bundle --draft \
+            --title "History through $(date -u +%Y-%m-%d) ($COMMITS commits)" \
+            --notes "Full history before the yearly squash. Restore: git clone history.bundle news-desk-history"
+
+      # The refresh job pushes every few minutes, so the push is pinned to the
+      # tip this job squashed (--force-with-lease) and retried from a fresh
+      # tip if a refresh landed in between. A refresh already in flight when
+      # the squash lands sees an unrelated history and rebuilds its commit on
+      # the new root (see refresh.yml), so nothing old comes back.
+      - name: Replace main with one commit
+        run: |
+          git config user.name "news-desk-bot"
+          git config user.email "bot@news-desk"
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            tip=$(git rev-parse origin/main)
+            git checkout -q --detach "$tip"
+            new=$(git commit-tree "$tip^{tree}" -m "History squashed $(date -u +%Y-%m-%d): $COMMITS earlier commits are in release $TAG")
+            echo "squashed $tip -> $new"
+            if [ "${{ inputs.dry_run }}" = "true" ]; then
+              echo "Dry run: not pushing."; exit 0
+            fi
+            if git push --force-with-lease=main:"$tip" origin "$new":refs/heads/main; then
+              echo "NEW=$new" >> "$GITHUB_ENV"; exit 0
+            fi
+            sleep 20
+          done
+          echo "::error::Could not push the squashed commit after 5 tries"; exit 1
+
+      - name: Publish the release on the new commit
+        if: ${{ !inputs.dry_run }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release edit "$TAG" --draft=false --target "$NEW"

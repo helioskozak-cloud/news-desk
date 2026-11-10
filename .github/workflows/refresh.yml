@@ -59,6 +59,17 @@ jobs:
           git config user.name "news-desk-bot"
           git config user.email "bot@news-desk"
           git add docs/data/headlines.json docs/data/stocks.json docs/data/movers.json docs/data/quote_types.json docs/data/indices.json docs/data/top_stories.json docs/data/tagged.json
+          # The yearly squash (squash.yml) replaces main with one unrelated
+          # commit. A run that checked out the old history would otherwise
+          # rebase all of it back on top; instead it moves onto the new root,
+          # keeping only this run's data files (whose code is the same tree).
+          git fetch origin main
+          if ! git merge-base HEAD origin/main >/dev/null; then
+            echo "main was squashed since checkout; rebuilding this commit on the new root"
+            git reset --soft origin/main
+            git reset -q
+            git add docs/data/headlines.json docs/data/stocks.json docs/data/movers.json docs/data/quote_types.json docs/data/indices.json docs/data/top_stories.json docs/data/tagged.json
+          fi
           git diff --cached --quiet && echo "No new headlines" || \
             git commit -m "chore: refresh feed $(date -u +%Y-%m-%dT%H:%MZ)"
           # Two refreshes can overlap (pinger + schedule). Every data file is
