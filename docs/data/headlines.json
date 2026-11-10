@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-10T07:51:32.449533+00:00",
+ "generated": "2026-11-10T07:56:24.057119+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "063a1e8de4e9",
+   "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+   "link": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+   "summary": "The agency has found evidence of a potential increased risk of a rare eye condition linked to the use of GLP-1 drugs used for weight management and diabetes.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-10T07:52:40+00:00",
+   "tickers": [],
+   "type": "fda",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "b3cacdc74ef2",
    "title": "Marks & Spencer Expects Growth In Profit, Sales Over Medium-term",
@@ -3948,20 +3962,6 @@
    "tag_v": 2
   },
   {
-   "id": "107cfec391b3",
-   "title": "FBI investigating Nvidia CEO Jensen Huang’s affair with an alleged Chinese agent, Trump says - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWY3b0NNRFBNRG5jZVdXM05URnhOV19vQ24zV29la0k2S3FzZmN4ZzB3WlRwSXJMbHB6RE90MFVEZ2p4UUhMQUFlV0RMdmVZZUUxeFFEa2ljZTFlTlhXOFozaEczRlpPS2dmRXgxcGw2ZWdpNVJQVEltazV5UUZMUmpNMUdoX2NJRG1wVnJhbFRCTHBwbE1LcjZnMk4?oc=5",
-   "summary": "FBI investigating Nvidia CEO Jensen Huang’s affair with an alleged Chinese agent, Trump says&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-10T04:47:23+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "52a04cb08d07",
    "title": "Acadia Pharmaceuticals Comments on Federal Circuit Oral Argument in NUPLAZID® Formulation Patent Appeal | ACAD Stock News",
    "link": "https://www.stocktitan.net/news/ACAD/acadia-pharmaceuticals-comments-on-federal-circuit-oral-argument-in-bnpd47ypdqjk.html",
@@ -4488,6 +4488,20 @@
    "published": "2026-11-10T04:12:41+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "107cfec391b3",
+   "title": "FBI investigating Nvidia CEO Jensen Huang’s affair with an alleged Chinese agent, Trump says - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWY3b0NNRFBNRG5jZVdXM05URnhOV19vQ24zV29la0k2S3FzZmN4ZzB3WlRwSXJMbHB6RE90MFVEZ2p4UUhMQUFlV0RMdmVZZUUxeFFEa2ljZTFlTlhXOFozaEczRlpPS2dmRXgxcGw2ZWdpNVJQVEltazV5UUZMUmpNMUdoX2NJRG1wVnJhbFRCTHBwbE1LcjZnMk4?oc=5",
+   "summary": "FBI investigating Nvidia CEO Jensen Huang’s affair with an alleged Chinese agent, Trump says&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-10T04:11:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8820,22 +8834,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "21ffb181bf17",
-   "title": "Sharplink (SBET) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/sharplink-sbet-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-10T00:13:51+00:00",
-   "tickers": [
-    "SBET"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8888,7 +8886,6 @@
   "J": "Jacobs Solutions",
   "JPM": "JPMorgan Chase &",
   "LOW": "Lowe's Companies",
-  "SBET": "SharpLink Gaming",
   "SW": "Smurfit Westrock",
   "TTE": "TotalEnergies SE",
   "UPST": "Upstart Holdings",
