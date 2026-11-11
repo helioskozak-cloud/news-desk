@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T01:56:30.803508+00:00",
+ "generated": "2026-11-11T02:01:38.425594+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -3959,20 +3959,6 @@
    "published": "2026-11-10T21:43:02+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "6b30c88e4e2c",
-   "title": "Greta Thunberg warns ‘everything we love is at stake’ as she arrives at UN climate talks - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGgyVWNnaXVBanlNZmp3S1dmYjhaNllnTmY1cGFjdEJoS0NJdU1mUzRzdnZudFEtQ2YtODNmU0pTMVlXQUpVcWw0clhua012N0ZzTVpaeWFNdFhFR3NyX2VFMWVwdEpJNVFwb1FsM3dlWEFaSE95SGZzbllEOG1OeDllaTVfRmE4bVRlWGIwTE9NZHplMzNoLXhPVQ?oc=5",
-   "summary": "Greta Thunberg warns ‘everything we love is at stake’ as she arrives at UN climate talks&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-10T21:43:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -8771,6 +8757,23 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
+  },
+  {
+   "id": "51dc29aa278d",
+   "title": "Disney's AI deal could change your next theme park visit",
+   "link": "https://www.thestreet.com/technology/disney-adobe-ai-deal-could-change-your-next-theme-park-visit",
+   "summary": "A new partnership could reshape Disney's attractions while giving Adobe investors a reason to watch.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-10T19:17:00+00:00",
+   "tickers": [
+    "DIS",
+    "ADBE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8837,6 +8840,7 @@
   "ARES": "Ares Management",
   "ASTS": "AST SpaceMobile",
   "CI": "The Cigna Group",
+  "DIS": "The Walt Disney",
   "FOUR": "Shift4 Payments",
   "GH": "Guardant Health",
   "LNG": "Cheniere Energy",
@@ -8878,6 +8882,7 @@
   "C": "Citigroup",
   "CRWV": "CoreWeave",
   "OS": "OneStream",
+  "ADBE": "Photoshop",
   "APP": "AppLovin",
   "BCS": "Barclays",
   "DOCS": "Doximity",
