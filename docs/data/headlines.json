@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-11T15:41:05.719003+00:00",
+ "generated": "2026-11-11T15:46:02.475686+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "fd8747d42363",
+   "title": "Enrolling in Medicare? Here's what to consider before Dec. 7.",
+   "link": "https://www.cbsnews.com/news/medicare-open-enrollment-tips-2027/",
+   "summary": "Medicare open enrollment, which runs from Oct.15 to Dec. 7, gives people a chance to change their health coverage. Here's what to know.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-11T15:39:02+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "0fa46be0ef74",
    "title": "Geospace Technologies Schedules Year End and Fourth Quarter 2026 Earnings Call | GEOS Stock News",
@@ -239,6 +253,22 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c24bd7e7f8b4",
+   "title": "JPMorgan upgrades this aerospace stock after earnings beat",
+   "link": "https://www.cnbc.com/2026/11/11/jpmorgan-mercury-systems-upgrade.html",
+   "summary": "The bank upgraded the aerospace and defense company to overweight from neutral.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T15:30:02+00:00",
+   "tickers": [
+    "JPM"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -5839,6 +5869,20 @@
    "tag_v": 2
   },
   {
+   "id": "64ceac02d29a",
+   "title": "The ‘Hunger Games’ are back, with an A-list cast and brutal origin story for Haymitch - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVNwWFl1dkp2T2xCeFNwXzBReU5FUEZBaFVHYnlzSDJHQTlSSWlFdWtkdE1rT3V2MzFLQ3RIV1MxVWE4djBZN3R1QVEzWmZyVkp6bkZfMW5jdkx3TllFTmF0bko0V3JVN2p0MkhZSVdwY182dVotMjhVSFFGcTdSX1FiVTlOTFBORy1CSXR1ODFIM0lTdFZ0TGhCaVQ2VkNlbFZqcg?oc=5",
+   "summary": "The ‘Hunger Games’ are back, with an A-list cast and brutal origin story for Haymitch&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-11T12:51:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "e64a959fdfd3",
    "title": "Stifel cuts Ambiq Micro stock price target on chip sector weakness",
    "link": "https://www.investing.com/news/analyst-ratings/stifel-cuts-ambiq-micro-stock-price-target-on-chip-sector-weakness-93CH-5018731",
@@ -8910,50 +8954,6 @@
    "type": "fx",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "01ce404bc1d0",
-   "title": "Castleton Commodities International LLC Completes Renewal and Expansion of Credit Facilities Totaling $2.4 Billion",
-   "link": "https://www.prnewswire.com/news-releases/castleton-commodities-international-llc-completes-renewal-and-expansion-of-credit-facilities-totaling-2-4-billion-302935530.html",
-   "summary": "STAMFORD, Conn., Nov. 11, 2026 /PRNewswire/ -- Castleton Commodities International LLC (CCI) has announced the successful renewal of two credit facilities totaling $2.4 billion, up from $2.1 billion in 2025. The facilities include a $2.0 billion secured borrowing base facility, consisting...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-11T11:04:00+00:00",
-   "tickers": [
-    "CCI"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cd04e0fdc6b8",
-   "title": "Telsey raises Grocery Outlet stock price target on turnaround progress",
-   "link": "https://www.investing.com/news/analyst-ratings/telsey-raises-grocery-outlet-stock-price-target-on-turnaround-progress-93CH-5018319",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-11T11:03:01+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "cc06558ba07e",
-   "title": "Mizuho raises Ardent Health stock price target to $21 on execution",
-   "link": "https://www.investing.com/news/analyst-ratings/mizuho-raises-ardent-health-stock-price-target-to-21-on-execution-93CH-5018317",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-11T11:02:58+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9050,7 +9050,6 @@
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "TLRY": "Tilray Brands",
-  "CCI": "Crown Castle",
   "IDCC": "InterDigital",
   "IREN": "IREN Limited",
   "KGC": "Kinross Gold",
