@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-11T22:36:12.269665+00:00",
+ "generated": "2026-11-11T22:41:30.302711+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c97de9ed5801",
+   "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks further",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+   "summary": "The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T22:39:58+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a0e9f6d64ddf",
+   "title": "Dollar Tree debuts exclusive candy line",
+   "link": "https://www.thestreet.com/retail/dollar-tree-debuts-exclusive-haribo-gummy-candies",
+   "summary": "Fans of Haribo gummy candies will have to head to Dollar Tree to get their hands on its latest offering.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-11T22:37:00+00:00",
+   "tickers": [
+    "DLTR"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "73d819bd9c95",
    "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
@@ -308,6 +338,20 @@
     "KMB"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "18af29285493",
+   "title": "New York City building collapse traps people in rubble - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlZId0RsMUdSc3RNcWhhS3NHaFNVUXJBMGtVWVJhZHZ5WWIxOHk2MnJKUHRLNlV5aGEyYmZ6TEhKQmYxaE9JWGh5dVdfOGg2LWxUUEVuV3JoYjNGb0c4M0lmZDdGRS1yTG9ydmNfdHlsNDllQWJySlVZcDh2b3A4Y0t3NWZ6S0I0aFQtazUwRQ?oc=5",
+   "summary": "New York City building collapse traps people in rubble&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-11T22:16:22+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2294,20 +2338,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6587e71eb7fd",
-   "title": "Who is Alice Huang? The woman at the center of Nvidia’s scandal remains elusive - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWN4Um5UWHU3MHROUmJ2YlMtSW05bmNXSFI3TkVFajJrODcydUlDa015MWdnN1FkVnBiZWNZUlZPUUs4NGRkN1MzLXRCZHZ1cnNVc3ZqUXVCYklscFJ0WWVHUlY2Z2VCV1VKN1BMTU1KRzlpNWM5STBQZm05NldlaTdBd1Y2T0xaQzNKOWo1T2laZmc?oc=5",
-   "summary": "Who is Alice Huang? The woman at the center of Nvidia’s scandal remains elusive&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-11T21:07:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8858,34 +8888,6 @@
    "type": "markets",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "43a39d26d58e",
-   "title": "Triumph Financial at KBW fintech ecosystem conference: monetizing its network",
-   "link": "https://www.investing.com/news/transcripts/triumph-financial-at-kbw-fintech-ecosystem-conference-monetizing-its-network-93CH-5019404",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-11T15:13:29+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ef522c32de22",
-   "title": "Why is Interfor stock sliding today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-interfor-stock-sliding-today-93CH-5019403",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-11T15:12:49+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8988,6 +8990,7 @@
   "TSLA": "Supercharger",
   "PDD": "PDD Holdings",
   "CAT": "Caterpillar",
+  "DLTR": "Dollar Tree",
   "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
