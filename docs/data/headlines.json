@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-11T13:21:32.009265+00:00",
+ "generated": "2026-11-11T13:26:03.548509+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0c637e1f1647",
+   "title": "Why the AI sell-off could be a buying opportunity",
+   "link": "https://www.thestreet.com/investing/why-the-ai-sell-off-could-be-a-buying-opportunity",
+   "summary": "As AI stocks tumble, Nomura strategist Andy Goldberg explains why the sell-off could create buying opportunities—and where investors should be selective.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-11T13:23:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "da2d44801b75",
+   "title": "Bessent reportedly moved to military base over Iranian threats on his life",
+   "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
+   "summary": "The move comes as the Department of Justice said late Tuesday that three Iranian nationals have been indicted on terrorism-related charges.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T13:21:29+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b8ccf9b049bd",
+   "title": "GIL INVESTOR ALERT: Gildan Activewear Inc. Investors with Substantial Losses Have Opportunity to Lead the GIL Securities Class Action",
+   "link": "https://www.prnewswire.com/news-releases/gil-investor-alert-gildan-activewear-inc-investors-with-substantial-losses-have-opportunity-to-lead-the-gil-securities-class-action-302935870.html",
+   "summary": "SAN FRANCISCO, Nov. 11, 2026 /PRNewswire/ -- Hagens Berman, a prominent national trial law firm specializing in securities fraud and shareholder rights, alerts investors in Gildan Activewear Inc. (NYSE: GIL) to a class action lawsuit filed in federal court. The firm encourages Gildan...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-11T13:21:00+00:00",
+   "tickers": [
+    "GIL"
+   ],
+   "type": "press",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "be150c395b07",
    "title": "High Roller Technologies Forms ROLR FCM LLC and Engages Connamara Technologies to Evaluate Futures Commission Merchant Operations | ROLR Stock News",
@@ -16,20 +60,6 @@
     "ROLR"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "da2d44801b75",
-   "title": "Bessent reportedly moved to military base over Iranian threats on his life",
-   "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-   "summary": "The move comes as the Department of Justice said late Tuesday that three Iranian nationals have been indicted on terrorism-related charges.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-11T13:18:50+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8804,36 +8834,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "57d625a6acb6",
-   "title": "Worksport earnings missed by $0.08, revenue fell short of estimates",
-   "link": "https://www.investing.com/news/earnings/worksport-earnings-missed-by-008-revenue-fell-short-of-estimates-5017638",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-11T04:15:08+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "d1fb89181591",
-   "title": "Embraer ADR earnings missed by $0.40, revenue topped estimates",
-   "link": "https://www.investing.com/news/earnings/embraer-adr-earnings-missed-by-040-revenue-topped-estimates-5017636",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-11T04:15:03+00:00",
-   "tickers": [
-    "EMBJ"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8868,6 +8868,7 @@
   "SMCI": "Super Micro Computer",
   "IP": "International Paper",
   "MGA": "Magna International",
+  "GIL": "Gildan Activewear",
   "LAMR": "Lamar Advertising",
   "RGTI": "Rigetti Computing",
   "RSG": "Republic Services",
@@ -8939,7 +8940,6 @@
   "TFX": "Teleflex",
   "UL": "Unilever",
   "EFX": "Equifax",
-  "EMBJ": "Embraer",
   "GLOB": "Globant",
   "IVZ": "Invesco",
   "LIF": "Life360",
