@@ -1,8 +1,41 @@
 {
- "generated": "2026-11-11T09:06:27.029531+00:00",
+ "generated": "2026-11-11T09:11:06.178659+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "7994f9a20c34",
+   "title": "CoreWeave stock pops 16% after outlook raise eases AI slowdown concerns",
+   "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+   "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T09:09:07+00:00",
+   "tickers": [
+    "CRWV",
+    "IREN"
+   ],
+   "type": "guidance",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e6521dceb3d7",
+   "title": "Nasdaq futures jump as CoreWeave earnings beat drives global tech rebound: Live updates",
+   "link": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+   "summary": "The Dow pulled back more than 150 points in regular trading, while the S&amp;P 500 and Nasdaq Composite shed 0.4% and 0.7%, respectively.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T09:08:37+00:00",
+   "tickers": [
+    "CRWV"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "d6bfc6420a05",
    "title": "Teciem brings voice of the customer into the boardroom with appointment of MUFG Americas CIO, Alla Whitston",
@@ -124,6 +157,22 @@
    "tag_v": 2
   },
   {
+   "id": "5e28b02137c5",
+   "title": "Houlihan Lokey to Acquire Vicente &amp; Partners",
+   "link": "http://www.businesswire.com/news/home/20261110058291/en/Houlihan-Lokey-to-Acquire-Vicente-Partners/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+   "summary": "LONDON--(BUSINESS WIRE)--Houlihan Lokey, Inc. (NYSE:HLI), the global investment bank, has agreed to acquire Vicente &amp; Partners, a premier independent advisory firm with deep expertise in the beauty, personal care, and pet health sectors across Europe and the United States. The transaction was signed on 30 October 2026. Vicente &amp; Partners was established in London in 2020 by Alejandro Vicente, the former Global Head of Consumer Goods Investment Banking at J.P. Morgan. Mr. Vicente has mor",
+   "source": "BusinessWire",
+   "category": "press",
+   "domain": "businesswire.com",
+   "published": "2026-11-11T09:00:00+00:00",
+   "tickers": [
+    "HLI"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b740691cb74f",
    "title": "Alphabet eyes $3 billion Hong Kong, Singapore bond sale, sources say",
    "link": "https://www.investing.com/news/stock-market-news/alphabet-eyes-3-billion-hong-kong-singapore-bond-sale-sources-say-5018062",
@@ -151,20 +200,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e6521dceb3d7",
-   "title": "Stock futures rise as market tries to recover from Nvidia-led decline: Live updates",
-   "link": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
-   "summary": "The Dow pulled back more than 150 points in regular trading, while the S&amp;P 500 and Nasdaq Composite shed 0.4% and 0.7%, respectively.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-11T08:52:29+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8740,34 +8775,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "7d55acf31301",
-   "title": "Russia stocks lower at close of trade; MOEX Russia Index down 1.21%",
-   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-121-5016862",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-10T21:20:03+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "6173f188e9b6",
-   "title": "Anaptys Announces Participation in Upcoming Investor Conferences | ANAB Stock News",
-   "link": "https://www.stocktitan.net/news/ANAB/anaptys-announces-participation-in-upcoming-investor-frny5ckehdjh.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-10T21:20:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8843,6 +8850,7 @@
   "KMI": "Kinder Morgan",
   "TOL": "Toll Brothers",
   "WFC": "Wells Fargo &",
+  "IREN": "IREN Limited",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
