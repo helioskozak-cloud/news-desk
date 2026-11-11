@@ -1,8 +1,54 @@
 {
- "generated": "2026-11-11T14:21:28.743366+00:00",
+ "generated": "2026-11-11T14:26:29.293290+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "158b6c8adbf8",
+   "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+   "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+   "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T14:24:28+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "71b8029faf8b",
+   "title": "Express Wash Concepts Marks Third Flint-Area Opening of 2026 with New Clean Express Auto Wash",
+   "link": "https://www.prnewswire.com/news-releases/express-wash-concepts-marks-third-flint-area-opening-of-2026-with-new-clean-express-auto-wash-302936579.html",
+   "summary": "New location at 2472 West Hill Road brings Clean Express to 22 locations across metro Detroit and Flint, with free washes Nov. 13-22 and fundraising support for Ennis Center for Children COLUMBUS, Ohio and FLINT, Mich., Nov. 11, 2026 /PRNewswire/ -- Express Wash Concepts (EWC), one of the...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-11T14:24:00+00:00",
+   "tickers": [
+    "EWC"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e9a69c0432ad",
+   "title": "Group 1 Automotive Welcomes Land Rover Gwinnett Following Hennessy Acquisition",
+   "link": "https://www.prnewswire.com/news-releases/group-1-automotive-welcomes-land-rover-gwinnett-following-hennessy-acquisition-302936004.html",
+   "summary": "Land Rover Gwinnett continues to operate under its existing name as part of Group 1's growing Atlanta-area network ATLANTA, Nov. 11, 2026 /PRNewswire/ -- As part of its ongoing nationwide initiative to unify its extensive network of dealerships, Group 1 Automotive, Inc., a Houston-based...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-11T14:22:00+00:00",
+   "tickers": [
+    "GPI"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "b1028053ba3d",
    "title": "Group 1 Automotive Continues Nationwide Brand Alignment with Jaguar Land Rover Buckhead",
@@ -33,20 +79,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "158b6c8adbf8",
-   "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-   "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-   "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-11T14:16:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8874,34 +8906,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "09c494f553f9",
-   "title": "Why is Taylor Wimpey stock sliding today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-taylor-wimpey-stock-sliding-today-93CH-5017990",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-11T08:12:40+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "24eaba84fd7e",
-   "title": "Why is Softwareone stock climbing today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-softwareone-stock-climbing-today-93CH-5017988",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-11T08:12:05+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8911,6 +8915,7 @@
   "TSM": "Taiwan Semiconductor Manufacturing",
   "IBM": "International Business Machines",
   "CRDO": "Credo Technology Group Holding",
+  "EWC": "iShares MSCI Canada Index Fund",
   "MUFG": "Mitsubishi UFJ Financial Group",
   "MTD": "Mettler-Toledo International",
   "QQQ": "Invesco QQQ Trust, Series 1",
