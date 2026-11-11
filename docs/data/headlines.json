@@ -1,8 +1,55 @@
 {
- "generated": "2026-11-11T15:11:27.779058+00:00",
+ "generated": "2026-11-11T15:15:58.436779+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4f9dcd59176a",
+   "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
+   "link": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
+   "summary": "A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T15:14:53+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7994f9a20c34",
+   "title": "CoreWeave soars 20% as CEO reaffirms AI compute demand after strong Q3 report",
+   "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+   "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T15:13:39+00:00",
+   "tickers": [
+    "CRWV",
+    "IREN"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "7e929172d9c5",
+   "title": "Robbins LLP Urges QBTS Shareholders to Contact the Firm for Information About the D-Wave Quantum Inc. Securities Class Action",
+   "link": "https://www.prnewswire.com/news-releases/robbins-llp-urges-qbts-shareholders-to-contact-the-firm-for-information-about-the-d-wave-quantum-inc-securities-class-action-302936008.html",
+   "summary": "SAN DIEGO, Nov. 11, 2026 /PRNewswire/ -- Shareholder rights law firm Robbins LLP reminds investors that a class action was filed on behalf of all persons who purchased or otherwise acquired D-Wave Quantum Inc. (NASDAQ: QBTS) securities between February 26, 2026 and August 25, 2026,...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-11T15:10:00+00:00",
+   "tickers": [
+    "QBTS"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "e79405c64ef9",
    "title": "AI's blind spot: CRE investors' top priorities aren't delivering the biggest returns | JLL Stock News",
@@ -753,23 +800,6 @@
    ],
    "type": "press",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7994f9a20c34",
-   "title": "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns",
-   "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-   "summary": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-11-11T14:40:44+00:00",
-   "tickers": [
-    "CRWV",
-    "IREN"
-   ],
-   "type": "guidance",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1653,20 +1683,6 @@
     "GWRE"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4f9dcd59176a",
-   "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
-   "link": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
-   "summary": "A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-11T14:10:19+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8919,20 +8935,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "24015cef38c8",
-   "title": "Transaction in Own Shares | SHEL Stock News",
-   "link": "https://www.stocktitan.net/news/SHEL/transaction-in-own-q50w8xo7t6jw.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-11T10:09:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9015,6 +9017,7 @@
   "LEU": "Centrus Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
+  "QBTS": "D-Wave Quantum",
   "SOC": "Sable Offshore",
   "AVAV": "AeroVironment",
   "HLNE": "Hamilton Lane",
