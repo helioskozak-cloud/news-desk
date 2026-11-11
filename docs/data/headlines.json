@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T14:51:06.737397+00:00",
+ "generated": "2026-11-11T14:55:57.342541+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,56 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-11T14:50:05+00:00",
+   "published": "2026-11-11T14:54:44+00:00",
    "tickers": [
     "CRWV"
    ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4309e4b5ce60",
+   "title": "CoreWeave CEO says 'new political reality' after midterms won't slow buildout",
+   "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+   "summary": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T14:52:03+00:00",
+   "tickers": [
+    "CRWV"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "72ce0c440860",
+   "title": "Group 1 Automotive Welcomes Porsche Atlanta North Following Hennessy Acquisition",
+   "link": "https://www.prnewswire.com/news-releases/group-1-automotive-welcomes-porsche-atlanta-north-following-hennessy-acquisition-302935995.html",
+   "summary": "Porsche Atlanta North continues to operate under its existing name as part of Group 1's growing Atlanta-area network ATLANTA, Nov. 11, 2026 /PRNewswire/ -- As part of its ongoing nationwide initiative to unify its extensive network of dealerships, Group 1 Automotive, Inc., a Houston-based...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-11T14:52:00+00:00",
+   "tickers": [
+    "GPI"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e69608035260",
+   "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
+   "link": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
+   "summary": "News of the probe comes after the CFTC ordered Kalshi to take down a sports-related \"mention markets\" back in August.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T14:49:16+00:00",
+   "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -219,22 +265,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4309e4b5ce60",
-   "title": "CoreWeave CEO says 'new political reality' after midterms won't slow buildout",
-   "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-   "summary": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-11T14:37:45+00:00",
-   "tickers": [
-    "CRWV"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8884,38 +8914,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "6346e3c18153",
-   "title": "CoreWeave earnings; OpenAI’s revenue reportedly spikes - what’s moving markets",
-   "link": "https://www.investing.com/news/economy-news/coreweave-earnings-openais-revenue-reportedly-spikes--whats-moving-markets-5018081",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-11T09:07:52+00:00",
-   "tickers": [
-    "CRWV"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d6bfc6420a05",
-   "title": "Teciem brings voice of the customer into the boardroom with appointment of MUFG Americas CIO, Alla Whitston",
-   "link": "https://www.prnewswire.com/news-releases/teciem-brings-voice-of-the-customer-into-the-boardroom-with-appointment-of-mufg-americas-cio-alla-whitston-302935344.html",
-   "summary": "Ms. Whitston completes Teciem Board, adding a practicing bank CIO's view to its capital markets, software and investment expertise LONDON, Nov. 11, 2026 /PRNewswire/ -- Teciem, a global provider of front-to-back treasury and capital markets software, today announced the appointment of...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-11T09:04:00+00:00",
-   "tickers": [
-    "MUFG"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8928,7 +8926,6 @@
   "IBM": "International Business Machines",
   "CRDO": "Credo Technology Group Holding",
   "EWC": "iShares MSCI Canada Index Fund",
-  "MUFG": "Mitsubishi UFJ Financial Group",
   "MTD": "Mettler-Toledo International",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "THG": "The Hanover Insurance Group",
