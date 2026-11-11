@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-11T02:46:07.890306+00:00",
+ "generated": "2026-11-11T02:50:57.255330+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2a8dff6cf06b",
+   "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
+   "link": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
+   "summary": "Singapore is stepping up efforts to become a key player in the global gold market, betting that vaulting service and tax incentives will help it attract flows.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T02:46:56+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "375f1021505b",
+   "title": "Graphy Completes Final CE-MDR Review for Five Key Dental 3D Printing Materials and Awaits Certificate Issuance",
+   "link": "https://www.prnewswire.com/news-releases/graphy-completes-final-ce-mdr-review-for-five-key-dental-3d-printing-materials-and-awaits-certificate-issuance-302935809.html",
+   "summary": "Five TeraHarz materials pass final review under the EU's strengthened Medical Device Regulation. Graphy plans to expand European manufacturing and distribution partnerships, including its collaboration with Smilers, the clear aligner brand of France-based Biotech Dental, while...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-11T02:46:00+00:00",
+   "tickers": [
+    "CE"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "279c010c5fca",
    "title": "Gap Inc. Announces Fourth Quarter Dividend",
@@ -302,6 +332,20 @@
    "category": "stocks",
    "domain": "stocktitan.net",
    "published": "2026-11-11T01:53:00+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c74830acdea1",
+   "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+   "link": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+   "summary": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T01:52:56+00:00",
    "tickers": [],
    "type": "offering",
    "sentiment": "neutral",
@@ -8725,48 +8769,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "42a378fc028e",
-   "title": "Sierra tenant in $300M Rockrose commercial mortgage bond deal - Bloomberg",
-   "link": "https://www.investing.com/news/stock-market-news/sierra-tenant-in-300m-rockrose-commercial-mortgage-bond-deal--bloomberg-93CH-5016659",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-10T19:52:40+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ff8136656abe",
-   "title": "Traders bet on a pop for Anthropic's historic IPO",
-   "link": "https://www.cnbc.com/2026/11/10/traders-bet-on-a-pop-for-anthropics-historic-ipo.html",
-   "summary": "Perpetual futures traders see Anthropic popping on its IPO",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-10T19:51:18+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f85d5aaa0fc6",
-   "title": "Baird reiterates Faeth Therapeutics stock rating on PIK-201 data",
-   "link": "https://www.investing.com/news/analyst-ratings/baird-reiterates-faeth-therapeutics-stock-rating-on-pik201-data-93CH-5016658",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-10T19:50:56+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8872,6 +8874,7 @@
   "CRWV": "CoreWeave",
   "APP": "AppLovin",
   "BCS": "Barclays",
+  "CE": "Celanese",
   "DOCS": "Doximity",
   "DUOL": "Duolingo",
   "GOOG": "Alphabet",
