@@ -1,8 +1,66 @@
 {
- "generated": "2026-11-12T16:41:33.732179+00:00",
+ "generated": "2026-11-12T16:46:12.534225+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "77aaf9613703",
+   "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+   "link": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+   "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T16:43:33+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "519db66dbdf5",
+   "title": "Children’s Place closing all its stores in Chapter 11 bankruptcy",
+   "link": "https://www.thestreet.com/retail/childrens-place-closing-all-its-stores-in-chapter-11-bankruptcy",
+   "summary": "The company is for sale, but the clock is ticking, and its survival remains in doubt.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-12T16:43:29+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ba5300576de2",
+   "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+   "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T16:43:06+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c06dcbb065b3",
+   "title": "Nvidia live updates: Jensen Huang agrees to testify before Congress following ouster",
+   "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+   "summary": "Nvidia CEO Jensen Huang has faced increased scrutiny since revealing an affair. Follow live updates on the investigation, NVDA stock and succession plans.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T16:41:35+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "efe58984055a",
    "title": "HELOC balances just hit a milestone not seen in decades",
@@ -41,22 +99,6 @@
    "domain": "cnbc.com",
    "published": "2026-11-12T16:36:23+00:00",
    "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c06dcbb065b3",
-   "title": "Nvidia live updates: Jensen Huang agrees to testify before Congress following ouster",
-   "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
-   "summary": "Nvidia CEO Jensen Huang has faced increased scrutiny since revealing an affair. Follow live updates on the investigation, NVDA stock and succession plans.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T16:36:09+00:00",
-   "tickers": [
-    "NVDA"
-   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -1043,6 +1085,24 @@
    "tag_v": 2
   },
   {
+   "id": "f6427ba093ae",
+   "title": "Notable ETF Outflow Detected - GRNY, MSTR, PM, PKG",
+   "link": "https://www.nasdaq.com/articles/notable-etf-outflow-detected-grny-mstr-pm-pkg",
+   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Fundstrat Granny Shots US Large Cap ETF (Symbol: GRNY) where we have detected an approximate $183.9 million dollar outflow -- that's a 4.4% decrease",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T16:12:06+00:00",
+   "tickers": [
+    "GRNY",
+    "MSTR",
+    "PKG"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "1c6889ed804a",
    "title": "XBI, SYRE, EXEL, BIIB: ETF Outflow Alert",
    "link": "https://www.nasdaq.com/articles/xbi-syre-exel-biib-etf-outflow-alert",
@@ -1075,24 +1135,6 @@
     "SCHW",
     "PLD",
     "AMT"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f6427ba093ae",
-   "title": "Notable ETF Outflow Detected - GRNY, MSTR, PM, PKG",
-   "link": "https://www.nasdaq.com/articles/notable-etf-outflow-detected-grny-mstr-pm-pkg",
-   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Fundstrat Granny Shots US Large Cap ETF (Symbol: GRNY) where we have detected an approximate $183.9 million dollar outflow -- that's a 4.4% decrease",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T16:12:00+00:00",
-   "tickers": [
-    "GRNY",
-    "MSTR",
-    "PKG"
    ],
    "type": "markets",
    "sentiment": "neutral",
@@ -1833,20 +1875,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "77aaf9613703",
-   "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-   "link": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
-   "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T15:46:36+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -4345,20 +4373,6 @@
    "published": "2026-11-12T14:55:22+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ba5300576de2",
-   "title": "Analysis: Jensen Huang’s exit tests Nvidia’s role as the ‘central bank of AI’",
-   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-   "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T14:55:16+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -9016,22 +9030,6 @@
    "published": "2026-11-12T13:15:00+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dc3b0e14f23f",
-   "title": "Data443 Brings Convaa.ai™ to iPhone Duo: Live, Multi-Person AI Collaboration Now Available on the App Store for Apple’s New Foldable | ATDS Stock News",
-   "link": "https://www.stocktitan.net/news/ATDS/data443-brings-convaa-ai-tm-to-i-phone-duo-live-multi-person-ai-qx5hilfi93nj.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T13:15:00+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   }
