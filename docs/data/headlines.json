@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-12T10:20:56.782980+00:00",
+ "generated": "2026-11-12T10:25:55.046519+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "bfdf5cff6a92",
+   "title": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
+   "link": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
+   "summary": "Nvidia's board of directors is preparing to oust CEO Jensen Huang soon, according to two sources, amid allegations Huang had an affair with a woman U.S. intelligence agencies believe was a Chinese asset.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-12T10:22:09+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "076a112746cb",
    "title": "Tuya Releases Open-Source Skill Enabling Meta Muse to Control Smart Devices Across 3,000+ Categories",
@@ -203,6 +217,22 @@
    "domain": "investing.com",
    "published": "2026-11-12T10:00:30+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6ac6c5931ef0",
+   "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
+   "link": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
+   "summary": "Sen. Tom Cotton is urging the Commerce secretary to add CXMT to its \"Entity List\" as the fast-growing Chinese memory maker expands in DRAM and pushes into HBM.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T10:00:01+00:00",
+   "tickers": [
+    "HBM"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -807,20 +837,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "bfdf5cff6a92",
-   "title": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
-   "link": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
-   "summary": "Nvidia's board of directors is preparing to oust CEO Jensen Huang soon, according to two sources, amid allegations Huang had an affair with a woman U.S. intelligence agencies believe was a Chinese asset.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-12T09:18:54+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8127,20 +8143,6 @@
    "tag_v": 2
   },
   {
-   "id": "c0ff129d2834",
-   "title": "Trump administration wants to sell public lands and shrink the federal estate - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUN4NGFwX1R2R1UtWEkwSlZFMGM2d1p5OHZRenhEdTF2Nm0tdWthZHlDZDM3QkJOVWFqQTVWeUlTajZNTFVIQXZYTzVrMTdIcGNEWW5iX0hWa3EwdFJpZVo3N1hjOEFnZWItYXc3akFwUkRIUXYzbUJiUFYtM0k4WlRSdnNWTXBTZHNMNXA4cTZUNjFZaXVn?oc=5",
-   "summary": "Trump administration wants to sell public lands and shrink the federal estate&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-11T21:54:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "2e6886393436",
    "title": "Digi International falls on weak revenue guidance despite Q4 beat",
    "link": "https://www.investing.com/news/stock-market-news/digi-international-falls-on-weak-revenue-guidance-despite-q4-beat-5019921",
@@ -8800,6 +8802,7 @@
   "CORZ": "Core Scientific",
   "DIS": "The Walt Disney",
   "GH": "Guardant Health",
+  "HBM": "Hudbay Minerals",
   "PWR": "Quanta Services",
   "GM": "General Motors",
   "KMB": "Kimberly-Clark",
