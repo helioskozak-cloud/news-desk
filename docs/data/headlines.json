@@ -1,8 +1,40 @@
 {
- "generated": "2026-11-12T21:21:14.848659+00:00",
+ "generated": "2026-11-12T21:26:04.155551+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "790ac9f0f63f",
+   "title": "Laird Superfood Reports Third Quarter 2026 Financial Results | LSF Stock News",
+   "link": "https://www.stocktitan.net/news/LSF/laird-superfood-reports-third-quarter-2026-financial-9x49vypvsswv.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-12T21:24:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f30f0012add1",
+   "title": "Cerebras surges 13% after beating on quarterly revenue and announcing Microsoft deal",
+   "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+   "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T21:23:33+00:00",
+   "tickers": [
+    "MSFT",
+    "ORCL",
+    "AMZN"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "4337bd6f78f3",
    "title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
@@ -11,13 +43,183 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-12T21:19:47+00:00",
+   "published": "2026-11-12T21:23:32+00:00",
    "tickers": [
     "AMZN",
     "MSFT",
     "GOOGL"
    ],
    "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "866855b15ae9",
+   "title": "B2K'S ECLIPSE SURPASSES 100,000 TICKET-AND-ALBUM BUNDLE SALES AHEAD OF RELEASE",
+   "link": "https://www.prnewswire.com/news-releases/b2ks-eclipse-surpasses-100-000-ticket-and-album-bundle-sales-ahead-of-release-302938423.html",
+   "summary": "The Boys 4 Life Tour Paired Arena Tickets with B2K's First Studio Album in Nearly 24 Years, Which Hit No. 1 on Apple Music Upon Release B2K's First Studio Album Lands Playlist Covers on YouTube Music and Audiomack HOUSTON, Nov. 12, 2026 /PRNewswire/ -- BPC Music Group bet its inaugural...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-12T21:23:00+00:00",
+   "tickers": [
+    "GOOGL",
+    "AAPL"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "95ebfc5c9cc8",
+   "title": "York Space Systems Reports Third Quarter 2026 Results | YSS Stock News",
+   "link": "https://www.stocktitan.net/news/YSS/york-space-systems-reports-third-quarter-2026-m6v2xm7kcmm6.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-12T21:22:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f02bff02e05e",
+   "title": "Excessive Ivory Coast Rains Disrupt Cocoa Supplies and Boost Prices",
+   "link": "https://www.nasdaq.com/articles/excessive-ivory-coast-rains-disrupt-cocoa-supplies-and-boost-prices",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed up +159 (+3.24%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +75 (+2.00%). Cocoa prices rallied sharply for a second day on Thursday as short covering intensified in cocoa futures on reports of heavy rains in the Ivory Coast that...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:21:05+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f757af875a33",
+   "title": "Tightness in ICE Inventories Lifts Arabica Coffee Prices",
+   "link": "https://www.nasdaq.com/articles/tightness-ice-inventories-lifts-arabica-coffee-prices",
+   "summary": "December arabica coffee (KCZ26 ) closed up +11.20 (+4.16%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -38 (-1.17%). Coffee prices settled mixed on Thursday, with arabica rebounding from a 4.75-month low and robusta falling to a 1.5-week low. Coffee prices diverged on Thursday, with short covering...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:21:05+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "18b899788007",
+   "title": "Sugar Prices Tumble with the Brazilian Real",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-tumble-brazilian-real",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.26 (-1.41%) on Thursday, and December London ICE white sugar #5 (SWZ26 ) closed down -1.70 (-0.33%). Sugar prices retreated on Thursday, with NY sugar just above Tuesday’s 6-week low. Weakness in the Brazilian real (^USDBRL ) is weighing on sugar...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:21:05+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e157ba900429",
+   "title": "flyExclusive and Fly Alliance Announce Strategic Agreement to Integrate Flight Operations, Aircraft Management and Maintenance | FLYX Stock News",
+   "link": "https://www.stocktitan.net/news/FLYX/fly-exclusive-and-fly-alliance-announce-strategic-agreement-to-8hv46orrgein.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-12T21:21:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e7811e34aac1",
+   "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+   "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+   "summary": "Cisco is trying to become a bigger player in AI after missing out on the early years of the boom.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T21:20:35+00:00",
+   "tickers": [
+    "CSCO"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "3093fd2534b7",
+   "title": "Sempra Completes Sale of 45% Equity Interest in Sempra Infrastructure Partners",
+   "link": "https://www.prnewswire.com/news-releases/sempra-completes-sale-of-45-equity-interest-in-sempra-infrastructure-partners-302938415.html",
+   "summary": "SAN DIEGO, Nov. 12, 2026 /PRNewswire/ -- Sempra (NYSE: SRE) today announced the successful close of its previously announced sale of a 45% equity interest in Sempra Infrastructure Partners (SI Partners) to affiliates of KKR, a leading global investment firm, with indirect co-investor...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-12T21:20:00+00:00",
+   "tickers": [
+    "SRE",
+    "KKR"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "454d40151578",
+   "title": "Sempra Completes Sale of 45% Equity Interest in Sempra Infrastructure Partners | SRE Stock News",
+   "link": "https://www.stocktitan.net/news/SRE/sempra-completes-sale-of-45-equity-interest-in-sempra-infrastructure-yhctmcqrhf33.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-12T21:20:00+00:00",
+   "tickers": [
+    "SRE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4fd90df49e1a",
+   "title": "Xos Extends Gross Profit Streak, Highlighting Operational Efficiency | XOS Stock News",
+   "link": "https://www.stocktitan.net/news/XOS/xos-extends-gross-profit-streak-highlighting-operational-4bgu1af62qrb.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-12T21:20:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "20699c89f162",
+   "title": "Serina Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates | SER Stock News",
+   "link": "https://www.stocktitan.net/news/SER/serina-therapeutics-reports-third-quarter-2026-financial-results-and-1mb9bmpnj0h9.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-12T21:20:00+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -50,22 +252,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e7811e34aac1",
-   "title": "Cisco stock jumps 5% on earnings and revenue beat",
-   "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-   "summary": "Cisco is trying to become a bigger player in AI after missing out on the early years of the boom.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T21:18:06+00:00",
-   "tickers": [
-    "CSCO"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -109,6 +295,20 @@
    "published": "2026-11-12T21:17:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "33bd982a31f4",
+   "title": "Dollar Rises and Gold Sinks as T-note Yields Climb",
+   "link": "https://www.nasdaq.com/articles/dollar-rises-and-gold-sinks-t-note-yields-climb",
+   "summary": "The dollar index (DXY00 ) climbed to a fresh 1.5-year high today and is up +0.26%. The dollar erased overnight losses and turned higher after crude oil prices and T-note yields rose on hawkish comments from President Trump, who said the US doesn’t need a deal with Iran. Also, weakness...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:16:30+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -822,6 +1022,142 @@
    "tag_v": 2
   },
   {
+   "id": "2029810d2bb8",
+   "title": "Don't major on minors: Why a great flat-rate card is the best way to optimize rewards",
+   "link": "https://www.cnbc.com/select/why-you-need-a-2-percent-cash-back-card/",
+   "summary": "If you struggle to wrap your head around your rewards credit card's features, a card that earns 2% cash back everywhere may be the answer.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T21:14:50+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "31f1691a6784",
+   "title": "John Hancock Hedged Equity & Income Fund Breaks Below 200-Day Moving Average - Notable for HEQ",
+   "link": "https://www.nasdaq.com/articles/john-hancock-hedged-equity-income-fund-breaks-below-200-day-moving-average-notable-heq",
+   "summary": "In trading on Thursday, shares of John Hancock Hedged Equity &amp; Income Fund (Symbol: HEQ) crossed below their 200 day moving average of $11.38, changing hands as low as $11.31 per share. John Hancock Hedged Equity &amp; Income Fund shares are currently trading off about 0.9%",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:14:00+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6efa85742394",
+   "title": "Nebius Revenue Jumped 571%, So Why Did the Stock Fall?",
+   "link": "https://www.nasdaq.com/articles/nebius-revenue-jumped-571-so-why-did-stock-fall",
+   "summary": "In this video, I will cover Nebius's (NASDAQ:NBIS) Q3 2026 earnings, why the stock dropped despite 571% revenue growth, the news that Nvidia CEO Jensen Huang resigned, and what I'm doing with my Nebius shares. Watch the short video to learn more, consider subscribing, and click t",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:13:25+00:00",
+   "tickers": [
+    "NBIS"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "684f4d3028ff",
+   "title": "Apollo Global Management (APO) Shares Cross Below 200 DMA",
+   "link": "https://www.nasdaq.com/articles/apollo-global-management-apo-shares-cross-below-200-dma",
+   "summary": "In trading on Thursday, shares of Apollo Global Management Inc (new (Symbol: APO) crossed below their 200 day moving average of $122.67, changing hands as low as $119.52 per share. Apollo Global Management Inc (new shares are currently trading down about 1.1% on the day. The c",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:13:13+00:00",
+   "tickers": [
+    "APO"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d9c558a2bcb3",
+   "title": "KBR, Inc. Targets 10%+ Organic Revenue CAGR and Outlines Proposed Spin-off",
+   "link": "https://www.nasdaq.com/articles/kbr-inc-targets-10-organic-revenue-cagr-and-outlines-proposed-spin",
+   "summary": "KBR, Inc. hosted its Investor Day on November 11, 2026, outlining its strategic trajectory following the proposed spin-off of its Mission Technology Solutions business, which is expected to operate as Trinzic, Inc. in 2027. The proposed spin-off is currently targeted to be comple",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:12:14+00:00",
+   "tickers": [
+    "KBR"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8e8b82a4dffd",
+   "title": "OR Royalties Inc. Reports Revenues from Royalties and Streams of $90.2 million",
+   "link": "https://www.nasdaq.com/articles/or-royalties-inc-reports-revenues-royalties-and-streams-902-million",
+   "summary": "OR Royalties Inc. reported revenues from royalties and streams of $90.2 million in the third quarter of 2026, compared to $71.6 million in Q3 2025. Net earnings were $55.4 million, $0.30 per basic share, compared to $82.8 million, $0.44 per basic share in Q3 2025. The company ear",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:12:14+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a7517ec42458",
+   "title": "EPR Properties Announces Proposed $500.0 Million Convertible Senior Notes Offering",
+   "link": "https://www.nasdaq.com/articles/epr-properties-announces-proposed-5000-million-convertible-senior-notes-offering",
+   "summary": "EPR Properties announced its intention to offer, subject to market and other conditions, $500.0 million aggregate principal amount of convertible senior notes due 2032 in a private offering to persons reasonably believed to be qualified institutional buyers. The company also expe",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:12:03+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6aa70599fdc9",
+   "title": "KKR Breaks Below 200-Day Moving Average - Notable for KKR",
+   "link": "https://www.nasdaq.com/articles/kkr-breaks-below-200-day-moving-average-notable-kkr",
+   "summary": "In trading on Thursday, shares of KKR &amp; CO Inc (Symbol: KKR) crossed below their 200 day moving average of $97.84, changing hands as low as $97.23 per share. KKR &amp; CO Inc shares are currently trading down about 2.8% on the day. The chart below shows the one year perfor",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:12:00+00:00",
+   "tickers": [
+    "KKR"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "62c028548231",
+   "title": "Cisco Systems Inc. Announces Advance In Q1 Income",
+   "link": "https://www.nasdaq.com/articles/cisco-systems-inc-announces-advance-q1-income",
+   "summary": "(RTTNews) - Cisco Systems Inc. (CSCO) revealed a profit for its first quarter that Increases, from last year",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:11:56+00:00",
+   "tickers": [
+    "CSCO"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a3cf587dd8f0",
    "title": "Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang’s exit; oil prices jump: Live updates",
    "link": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
@@ -830,6 +1166,34 @@
    "category": "markets",
    "domain": "cnbc.com",
    "published": "2026-11-12T21:11:11+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d6c84d6d025c",
+   "title": "Ameresco (AMRC) Shares Cross Below 200 DMA",
+   "link": "https://www.nasdaq.com/articles/ameresco-amrc-shares-cross-below-200-dma",
+   "summary": "In trading on Thursday, shares of Ameresco Inc (Symbol: AMRC) crossed below their 200 day moving average of $26.13, changing hands as low as $24.89 per share. Ameresco Inc shares are currently trading down about 3.4% on the day. The chart below shows the one year performance o",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:10:43+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b82c1cad931a",
+   "title": "Twist Bioscience: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/twist-bioscience-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsFourth-quarter revenue grew 28% year over year to $126.6 million.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:09:16+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -861,6 +1225,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "8ad0506fb204",
+   "title": "NOG Crosses Above Key Moving Average Level",
+   "link": "https://www.nasdaq.com/articles/nog-crosses-above-key-moving-average-level-0",
+   "summary": "In trading on Thursday, shares of Northern Oil &amp; Gas Inc (Symbol: NOG) crossed above their 200 day moving average of $24.57, changing hands as high as $25.16 per share. Northern Oil &amp; Gas Inc shares are currently trading up about 1.7% on the day. The chart below shows",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:08:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -903,6 +1281,82 @@
    "tickers": [],
    "type": "offering",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e0d29981778a",
+   "title": "BBDC Makes Notable Cross Below Critical Moving Average",
+   "link": "https://www.nasdaq.com/articles/bbdc-makes-notable-cross-below-critical-moving-average",
+   "summary": "In trading on Thursday, shares of Barings BDC Inc (Symbol: BBDC) crossed below their 200 day moving average of $8.66, changing hands as low as $8.57 per share. Barings BDC Inc shares are currently trading down about 1.9% on the day. The chart below shows the one year performan",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:07:48+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "24b767dfbd08",
+   "title": "Cohen & Steers (CNS) Shares Cross Below 200 DMA",
+   "link": "https://www.nasdaq.com/articles/cohen-steers-cns-shares-cross-below-200-dma",
+   "summary": "In trading on Thursday, shares of Cohen &amp; Steers Inc (Symbol: CNS) crossed below their 200 day moving average of $72.26, changing hands as low as $71.39 per share. Cohen &amp; Steers Inc shares are currently trading off about 1.7% on the day. The chart below shows the one",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:07:39+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0b7d2dac4c29",
+   "title": "Celanese Breaks Above 200-Day Moving Average - Bullish for CE",
+   "link": "https://www.nasdaq.com/articles/celanese-breaks-above-200-day-moving-average-bullish-ce",
+   "summary": "In trading on Thursday, shares of Celanese Corp (Symbol: CE) crossed above their 200 day moving average of $51.67, changing hands as high as $52.50 per share. Celanese Corp shares are currently trading up about 0.9% on the day. The chart below shows the one year performance of",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:07:35+00:00",
+   "tickers": [
+    "CE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "37e280574347",
+   "title": "Notable Two Hundred Day Moving Average Cross - WPM",
+   "link": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-wpm",
+   "summary": "In trading on Thursday, shares of Wheaton Precious Metals Corp (Symbol: WPM) crossed below their 200 day moving average of $133.44, changing hands as low as $130.30 per share. Wheaton Precious Metals Corp shares are currently trading down about 2.1% on the day. The chart below",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:07:31+00:00",
+   "tickers": [
+    "WPM"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fcdb790b02a6",
+   "title": "Applied Materials Inc. Announces Rise In Q4 Income",
+   "link": "https://www.nasdaq.com/articles/applied-materials-inc-announces-rise-q4-income",
+   "summary": "(RTTNews) - Applied Materials Inc. (AMAT) revealed a profit for its fourth quarter that Increases, from the same period last year",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:07:26+00:00",
+   "tickers": [
+    "AMAT"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1542,6 +1996,34 @@
    "tag_v": 2
   },
   {
+   "id": "bdee2f8906b7",
+   "title": "Ascend Wellness Holdings, Inc. Q3 Loss Climbs",
+   "link": "https://www.nasdaq.com/articles/ascend-wellness-holdings-inc-q3-loss-climbs",
+   "summary": "(RTTNews) - Ascend Wellness Holdings, Inc. (8VJ.F) revealed Loss for its third quarter of -$27.951 million",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:02:33+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "53eb774d2283",
+   "title": "X-Energy (XE) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/x-energy-xe-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:02:24+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "f6d0557e2142",
    "title": "TMC Provides Third Quarter 2026 Corporate Update | TMC Stock News",
    "link": "https://www.stocktitan.net/news/TMC/tmc-provides-third-quarter-2026-corporate-trw5aoz3d5wt.html",
@@ -1572,17 +2054,31 @@
    "tag_v": 2
   },
   {
-   "id": "db01fca66cff",
-   "title": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFFiZmRWVmxZNDlVRnR1NHVQNkprRUhWMnNLMHFLWC1qdGljTm9ON2Z3U2FuXzNUcjRwRmNqMFZVemE4TVA1RVhRdl9paUtyMXJoYWhHbVl5d1FfNWZIZTVVU0IwcDQ0eHlnWGxxWEFhZjdkVko1a1hwY25XWE9uc3Q0MkIyaHpCWkNuZk05SGs1ck5DTFV4ZktQNWo?oc=5",
-   "summary": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-12T21:02:00+00:00",
+   "id": "1dc437ca85db",
+   "title": "Angi Names Alex Tolston As Chief Legal Officer, Succeeding Shannon Shaw",
+   "link": "https://www.nasdaq.com/articles/angi-names-alex-tolston-chief-legal-officer-succeeding-shannon-shaw",
+   "summary": "(RTTNews) - On Thursday, Angi (ANGI) appointed Alex Tolston as its new Chief Legal Officer, replacing Shannon Shaw. He will oversee legal and government affairs, join the executive leadership team, and report to CEO Mike Steib.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:01:58+00:00",
    "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e76112c4e569",
+   "title": "Caledonia Mining (CMCL) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/caledonia-mining-cmcl-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:01:06+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2266,6 +2762,50 @@
    "tag_v": 2
   },
   {
+   "id": "d6a8c36985be",
+   "title": "YETI: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/yeti-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsAdjusted sales grew 6% to $518 million in the third quarter.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:00:00+00:00",
+   "tickers": [
+    "YETI"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3011bd0f88b1",
+   "title": "GGB Makes Notable Cross Below Critical Moving Average",
+   "link": "https://www.nasdaq.com/articles/ggb-makes-notable-cross-below-critical-moving-average",
+   "summary": "In trading on Thursday, shares of Gerdau S.A. (Symbol: GGB) crossed below their 200 day moving average of $4.48, changing hands as low as $4.40 per share. Gerdau S.A. shares are currently trading down about 2.1% on the day. The chart below shows the one year performance of GGB",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T20:59:40+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2b2a7f7ef688",
+   "title": "Why Forgent Power Solutions Stock Is Plummeting Today",
+   "link": "https://www.nasdaq.com/articles/why-forgent-power-solutions-stock-plummeting-today",
+   "summary": "Key PointsForgent Power Solutions reported Q1 2027 financial results this morning.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T20:59:35+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "1874eabcb36d",
    "title": "ProShares DJ Brookfield Global Infrastructure Breaks Above 200-Day Moving Average - Bullish for TOLZ",
    "link": "https://www.nasdaq.com/articles/proshares-dj-brookfield-global-infrastructure-breaks-above-200-day-moving-average-bullish",
@@ -2630,38 +3170,6 @@
    "tag_v": 2
   },
   {
-   "id": "f02bff02e05e",
-   "title": "Excessive Ivory Coast Rains Disrupt Cocoa Supplies and Boost Prices",
-   "link": "https://www.nasdaq.com/articles/excessive-ivory-coast-rains-disrupt-cocoa-supplies-and-boost-prices",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +159 (+3.24%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +75 (+2.00%). Cocoa prices rallied sharply for a second day on Thursday as short covering intensified in cocoa futures on reports of heavy rains in the Ivory Coast that...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T20:51:19+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f757af875a33",
-   "title": "Tightness in ICE Inventories Lifts Arabica Coffee Prices",
-   "link": "https://www.nasdaq.com/articles/tightness-ice-inventories-lifts-arabica-coffee-prices",
-   "summary": "December arabica coffee (KCZ26 ) closed up +11.20 (+4.16%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -38 (-1.17%). Coffee prices settled mixed on Thursday, with arabica rebounding from a 4.75-month low and robusta falling to a 1.5-week low. Coffee prices diverged on Thursday, with short covering...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T20:51:19+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "0ae51a0455b7",
    "title": "Crude Oil Prices Gain as US-Iran Peace Optimism Wanes",
    "link": "https://www.nasdaq.com/articles/crude-oil-prices-gain-us-iran-peace-optimism-wanes",
@@ -2927,20 +3435,6 @@
    "tickers": [
     "ICE"
    ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "33bd982a31f4",
-   "title": "Dollar Rises and Gold Sinks as T-note Yields Climb",
-   "link": "https://www.nasdaq.com/articles/dollar-rises-and-gold-sinks-t-note-yields-climb",
-   "summary": "The dollar index (DXY00 ) climbed to a fresh 1.5-year high today and is up +0.26%. The dollar erased overnight losses and turned higher after crude oil prices and T-note yields rose on hawkish comments from President Trump, who said the US doesn’t need a deal with Iran. Also, weakness...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T20:41:33+00:00",
-   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8329,506 +8823,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "f7ac3db4fc88",
-   "title": "Here's My Top Long-Term Compounder to Buy Right Now",
-   "link": "https://www.nasdaq.com/articles/heres-my-top-long-term-compounder-buy-right-now",
-   "summary": "Key PointsBrookfield Corporation's distributable earnings rose 16% per share in the third quarter, and it has bought back $889 million of stock so far this year.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T17:28:01+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "f5205befe6b0",
-   "title": "Daily Dividend Report: NJR,OLN,GBCI,HUN,KMB",
-   "link": "https://www.nasdaq.com/articles/daily-dividend-report-njrolngbcihunkmb",
-   "summary": "The board of directors of New Jersey Resources unanimously declared a quarterly dividend on its common stock of $0.50 per share. The dividend will be payable on January 4, 2027, to shareowners of record as of December 14, 2026. NJR has paid quarterly dividends continuously sinc",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T17:27:02+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "8299c7a5b494",
-   "title": "Did MongoDB, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
-   "link": "https://www.prnewswire.com/news-releases/did-mongodb-inc-insiders-breach-their-fiduciary-duties-to-shareholders-302938140.html",
-   "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should contact the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T17:27:00+00:00",
-   "tickers": [
-    "MDB"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a72a3e66e7b3",
-   "title": "SEABOURN BRINGS THE FLAVORS OF THE CARIBBEAN TO LIFE WITH NEW EARTH & OCEAN CULINARY EXPERIENCES | CCL Stock News",
-   "link": "https://www.stocktitan.net/news/CCL/seabourn-brings-the-flavors-of-the-caribbean-to-life-with-new-earth-ce5f8pvvcku8.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T17:27:00+00:00",
-   "tickers": [
-    "CCL"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d1d297aedf78",
-   "title": "Thursday Sector Laggards: Agriculture & Farm Products, Biotechnology Stocks",
-   "link": "https://www.nasdaq.com/articles/thursday-sector-laggards-agriculture-farm-products-biotechnology-stocks",
-   "summary": "In trading on Thursday, agriculture &amp; farm products shares were relative laggards, down on the day by about 2.4%. Helping drag down the group were shares of Adecoagro, down about 9.9% and shares of Village Farms International down about 4.5% on the day. Also lagging the ma",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T17:26:14+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cf8caf271c99",
-   "title": "Sempra Energy stock hits 52-week low at 18.36 USD",
-   "link": "https://www.investing.com/news/company-news/sempra-energy-stock-hits-52week-low-at-1836-usd-93CH-5022873",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-12T17:26:04+00:00",
-   "tickers": [
-    "SRE"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "43d73bff83be",
-   "title": "Thursday Sector Leaders: Oil & Gas Exploration & Production, Oil & Gas Refining & Marketing Stocks",
-   "link": "https://www.nasdaq.com/articles/thursday-sector-leaders-oil-gas-exploration-production-oil-gas-refining-marketing-stocks",
-   "summary": "In trading on Thursday, oil &amp; gas exploration &amp; production shares were relative leaders, up on the day by about 1.8%. Leading the group were shares of HighPeak Energy, up about 10.9% and shares of Kosmos Energy up about 7.8% on the day. Also showing relative strength a",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T17:26:03+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0e29608d80e6",
-   "title": "Did Lamb Weston Holdings, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
-   "link": "https://www.prnewswire.com/news-releases/did-lamb-weston-holdings-inc-insiders-breach-their-fiduciary-duties-to-shareholders-302938138.html",
-   "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should contact the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T17:26:00+00:00",
-   "tickers": [
-    "LW"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d65fa393f60a",
-   "title": "Did Monolithic Power Systems, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
-   "link": "https://www.prnewswire.com/news-releases/did-monolithic-power-systems-inc-insiders-breach-their-fiduciary-duties-to-shareholders-302938135.html",
-   "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should contact the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T17:25:00+00:00",
-   "tickers": [
-    "MPWR"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "80569c4dfda8",
-   "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
-   "link": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
-   "summary": "Cosm has secured a new studio partnership with Disney that will bring \"Star Wars: A New Hope\" to its domes as part of a multiyear, multifilm collaboration.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T17:23:25+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b5f9d5bc0257",
-   "title": "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money",
-   "link": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html",
-   "summary": "The IRS has announced higher 401(k) contribution limits for 2027. Here’s what retirement savers need to know.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T17:23:14+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "e18e874e6fe3",
-   "title": "Apple's Market Cap Grew From $347 Billion to $4.6 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
-   "link": "https://www.nasdaq.com/articles/apples-market-cap-grew-347-billion-46-trillion-during-tim-cooks-15-years-ceo-heres-what",
-   "summary": "Key PointsApple&rsquo;s revenue grew from $108 billion in its fiscal 2011 to $478.8 billion in its fiscal 2026, including 15% growth last year.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T17:23:02+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3974cbe32802",
-   "title": "Did TransMedics Group, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
-   "link": "https://www.prnewswire.com/news-releases/did-transmedics-group-inc-insiders-breach-their-fiduciary-duties-to-shareholders-302938131.html",
-   "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should contact the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T17:23:00+00:00",
-   "tickers": [
-    "TMDX"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "121edaca413b",
-   "title": "Cantor Fitzgerald reiterates Anteris Technologies stock rating on commercial progress",
-   "link": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-anteris-technologies-stock-rating-on-commercial-progress-93CH-5022871",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-12T17:22:53+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b596277b75b2",
-   "title": "Cantor Fitzgerald reiterates Lexeo Therapeutics stock Overweight rating",
-   "link": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-lexeo-therapeutics-stock-overweight-rating-93CH-5022870",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-12T17:22:52+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "408718ac4aed",
-   "title": "Fincantieri 9M 2026 slides: margins expand to 7.7%, debt falls sharply",
-   "link": "https://www.investing.com/news/company-news/fincantieri-9m-2026-slides-margins-expand-to-77-debt-falls-sharply-93CH-5022869",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-12T17:22:31+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a441c272529e",
-   "title": "HELLENiQ ENERGY Holdings Third Quarter / Nine-Month 2026 Results | HLPMF Stock News",
-   "link": "https://www.stocktitan.net/news/HLPMF/helle-ni-q-energy-holdings-third-quarter-nine-month-2026-irwnb7tsw55m.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T17:22:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a3cf2c2d1e1a",
-   "title": "Earnings call transcript: Hudbay Minerals posts record Q3 2026 results, misses EPS",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-hudbay-minerals-posts-record-q3-2026-results-misses-eps-93CH-5022868",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-12T17:21:29+00:00",
-   "tickers": [
-    "HBM"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "0c2ab19c3601",
-   "title": "Did BellRing Brands, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
-   "link": "https://www.prnewswire.com/news-releases/did-bellring-brands-inc-insiders-breach-their-fiduciary-duties-to-shareholders-302938109.html",
-   "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should contact the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T17:21:00+00:00",
-   "tickers": [
-    "BRBR"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "86bc5c8c8275",
-   "title": "CLASS ACTION REMINDER: Berger Montague Advises Gildan Activewear Inc. (NYSE: GIL) Investors to Inquire About a Securities Fraud Lawsuit by December 14, 2026",
-   "link": "https://www.prnewswire.com/news-releases/class-action-reminder-berger-montague-advises-gildan-activewear-inc-nyse-gil-investors-to-inquire-about-a-securities-fraud-lawsuit-by-december-14-2026-302938120.html",
-   "summary": "PHILADELPHIA, Nov. 12, 2026 /PRNewswire/ -- Berger Montague, a leading national plaintiffs' law firm, announces a class action lawsuit against Gildan Activewear Inc. (NYSE: GIL) (\"Gildan\" or the \"Company\") on behalf of investors who purchased or acquired Gildan securities during the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T17:21:00+00:00",
-   "tickers": [
-    "GIL"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "365c6815dbf0",
-   "title": "Warren Buffett Doesn't Follow His Own S&P 500 Advice. Should You?",
-   "link": "https://www.nasdaq.com/articles/warren-buffett-doesnt-follow-his-own-sp-500-advice-should-you",
-   "summary": "Key PointsJust three stocks account for nearly half of Berkshire Hathaway's publicly traded equity portfolio.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T17:20:02+00:00",
-   "tickers": [
-    "BRK-A"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "85d5fb525dd0",
-   "title": "Did CVS Health Corporation Insiders Breach their Fiduciary Duties to Shareholders?",
-   "link": "https://www.prnewswire.com/news-releases/did-cvs-health-corporation-insiders-breach-their-fiduciary-duties-to-shareholders-302938103.html",
-   "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should contact the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T17:20:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "230d98dbeedd",
-   "title": "Why is Applied Digital stock sliding today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-applied-digital-stock-sliding-today-93CH-5022865",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-12T17:19:22+00:00",
-   "tickers": [
-    "APLD"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c5f67b0ee130",
-   "title": "European shares close at new high as rising yields and Nvidia slump stifle rally",
-   "link": "https://www.investing.com/news/stock-market-news/european-shares-hit-record-highs-as-defensive-appeal-offsets-nvidia-shock-5020450",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-12T17:19:09+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fb5d7949354d",
-   "title": "Trump administration will fund new research on controversial psychedelic drug ibogaine - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSE1qa2dJZWlYb1JHRzk3ZzRrbG5Ba1Qxd0tWeG1OUlA0dzJySk1rNWE0UFpybkQ5T3VkRlprUHJOUFJUX2VLU2tTbXI2WVhjUVdKT3RDUC1ESjV4OFI5TWxUSlZlYzdEcHBZM05hMTZQR094b2JCUm1NS3lDNmxiTmdJTFVLXzI2STdxMjYyMTdxWHpvaGcxNFRzWEZYdzZVNFJiem13NA?oc=5",
-   "summary": "Trump administration will fund new research on controversial psychedelic drug ibogaine&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-12T17:19:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b628db2690b5",
-   "title": "Union Pacific turns fuel surcharges into profits as rivals lag",
-   "link": "https://www.investing.com/news/stock-market-news/union-pacific-turns-fuel-surcharges-into-profits-as-rivals-lag-5022858",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-12T17:18:39+00:00",
-   "tickers": [
-    "UNP"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "d2d049f15a7e",
-   "title": "Did UnitedHealth Group Incorporated Insiders Breach their Fiduciary Duties to Shareholders?",
-   "link": "https://www.prnewswire.com/news-releases/did-unitedhealth-group-incorporated-insiders-breach-their-fiduciary-duties-to-shareholders-302938085.html",
-   "summary": "Shareholders are encouraged to contact the firm to discuss their rights and options at no cost or obligation. We would handle any matter on a contingent fee basis, whereby you would not be responsible for out-of-pocket payment of our legal fees or expenses. Shareholders should contact the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T17:18:00+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a73c3b8141d5",
-   "title": "Fastly Named a Leader in 2026 Gartner® Magic Quadrant™ for Edge Distribution Platforms | FSLY Stock News",
-   "link": "https://www.stocktitan.net/news/FSLY/fastly-named-a-leader-in-2026-gartner-magic-quadrant-tm-for-edge-j84638aj1ug4.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T17:16:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e238171673ca",
-   "title": "FTSE 100 today: Stocks edge higher on strong GDP, upbeat company earnings",
-   "link": "https://www.investing.com/news/stock-market-news/ftse-100-nears-record-high-as-uk-reports-robust-q3-growth-5020634",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-12T17:15:21+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "2167ebae6eef",
-   "title": "InventHelp Inventor Develops Device to Freeze Pet Waste (OSK-599)",
-   "link": "https://www.prnewswire.com/news-releases/inventhelp-inventor-develops-device-to-freeze-pet-waste-osk-599-302936079.html",
-   "summary": "PITTSBURGH, Nov. 12, 2026 /PRNewswire/ -- \"I thought there should be a way to freeze pet waste so it would be easier to pick up and discard,\" said an inventor, from Milwaukee, Wisc., \"so I invented the PET PRODUCT. My design reduces the mess, odors, and embarrassment associated with...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T17:15:00+00:00",
-   "tickers": [
-    "OSK"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "47e8ed253473",
-   "title": "By Any Means: The Album Artists Featured on Apple Music's Color Me Country Radio With Rissi Palmer",
-   "link": "https://www.prnewswire.com/news-releases/by-any-means-the-album-artists-featured-on-apple-musics-color-me-country-radio-with-rissi-palmer-302938202.html",
-   "summary": "Radio Special and Highlight Video Out Now The radio special is now available on Apple Music's Color Me Country Radio show page for on-demand play. A video of conversation highlights is also now available for playing on each artist's Apple Music profile. The radio special and highlight...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T17:15:00+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "65682c6e3f11",
-   "title": "Trend Micro Reports Q3 2026 Results with 9% Net Sales Growth and an 18% Operating Margin",
-   "link": "https://www.prnewswire.com/news-releases/trend-micro-reports-q3-2026-results-with-9-net-sales-growth-and-an-18-operating-margin-302938200.html",
-   "summary": "TrendAI™ enterprise net sales grew 12% year over year, and Vision One SaaS ARR grew 46% to US$564 million. TrendLife™ net sales grew 1% year over year, and Digital Life Protection ARR grew 37% to US$141 million. TOKYO, Nov. 12, 2026 /PRNewswire/ -- Trend Micro Incorporated (TSE: 4704)...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T17:15:00+00:00",
-   "tickers": [
-    "ARR"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e6c43519c401",
-   "title": "Earnings call transcript: HELLENiQ ENERGY posts record Q3 2026 refining gains",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-helleniq-energy-posts-record-q3-2026-refining-gains-93CH-5022843",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-12T17:14:09+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8848,9 +8842,9 @@
   "JEF": "Jefferies Financial Group",
   "RXRX": "Recursion Pharmaceuticals",
   "AFG": "American Financial Group",
-  "MPWR": "Monolithic Power Systems",
+  "APO": "Apollo Global Management",
   "ROLR": "High Roller Technologies",
-  "ARR": "ARMOUR Residential REIT",
+  "WPM": "Wheaton Precious Metals",
   "AMD": "Advanced Micro Devices",
   "VZ": "Verizon Communications",
   "WBD": "Warner Bros. Discovery",
@@ -8858,7 +8852,6 @@
   "MIRM": "Mirum Pharmaceuticals",
   "PLTR": "Palantir Technologies",
   "AWK": "American Water Works",
-  "LW": "Lamb Weston Holdings",
   "SMCI": "Super Micro Computer",
   "SPG": "Simon Property Group",
   "AKAM": "Akamai Technologies",
@@ -8871,11 +8864,9 @@
   "SCHW": "The Charles Schwab",
   "AMAT": "Applied Materials",
   "AUR": "Aurora Innovation",
-  "GIL": "Gildan Activewear",
   "HOOD": "Robinhood Markets",
   "JNJ": "Johnson & Johnson",
   "MU": "Micron Technology",
-  "TMDX": "TransMedics Group",
   "WU": "The Western Union",
   "BMO": "Bank of Montreal",
   "COST": "Costco Wholesale",
@@ -8887,10 +8878,7 @@
   "USFD": "US Foods Holding",
   "AGNC": "AGNC Investment",
   "ANET": "Arista Networks",
-  "APLD": "Applied Digital",
-  "BRBR": "BellRing Brands",
   "CHYM": "Chime Financial",
-  "DIS": "The Walt Disney",
   "GPN": "Global Payments",
   "HBM": "Hudbay Minerals",
   "HWC": "Hancock Whitney",
@@ -8912,9 +8900,8 @@
   "LLY": "Eli Lilly and",
   "O": "Realty Income",
   "SMR": "NuScale Power",
-  "UNP": "Union Pacific",
   "VEEV": "Veeva Systems",
-  "UNH": "United Health",
+  "YETI": "YETI Holdings",
   "BKR": "Baker Hughes",
   "CYTK": "Cytokinetics",
   "IREN": "IREN Limited",
@@ -8933,7 +8920,6 @@
   "BN": "Brookfield",
   "BX": "Blackstone",
   "CMS": "CMS Energy",
-  "CVS": "CVS Health",
   "MCD": "McDonald's",
   "TTEK": "Tetra Tech",
   "WT": "WisdomTree",
@@ -8953,7 +8939,6 @@
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
-  "CCL": "Carnival",
   "CE": "Celanese",
   "COHR": "Coherent",
   "DOCS": "Doximity",
@@ -8965,9 +8950,7 @@
   "CTVA": "Corteva",
   "ENS": "EnerSys",
   "IVZ": "Invesco",
-  "MDB": "MongoDB",
   "MRNA": "Moderna",
-  "OSK": "Oshkosh",
   "ROL": "Rollins",
   "SNDK": "Sandisk",
   "WMT": "Walmart",
@@ -8975,9 +8958,11 @@
   "BULL": "Webull",
   "ERAS": "Erasca",
   "HUM": "Humana",
+  "ORCL": "Oracle",
   "SRE": "Sempra",
   "FDX": "FedEx",
   "INTC": "Intel",
+  "KKR": "KKR &",
   "OKE": "ONEOK",
   "ONDS": "Ondas",
   "MSCI": "MSCI",
