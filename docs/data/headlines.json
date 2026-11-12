@@ -1,8 +1,60 @@
 {
- "generated": "2026-11-12T21:31:45.654671+00:00",
+ "generated": "2026-11-12T21:36:13.428318+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4337bd6f78f3",
+   "title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
+   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+   "summary": "Amazon Web Services and Google users also reported outages on Thursday",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T21:34:33+00:00",
+   "tickers": [
+    "AMZN",
+    "MSFT",
+    "GOOGL"
+   ],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f30f0012add1",
+   "title": "Cerebras surges 18% after beating on quarterly revenue and announcing Microsoft deal",
+   "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+   "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T21:33:44+00:00",
+   "tickers": [
+    "MSFT",
+    "ORCL",
+    "AMZN"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "f3749db4823a",
+   "title": "Sinclair Advances DINOCARE® Fuel Platform With TOP TIERTM + Approved Gasoline | DINO Stock News",
+   "link": "https://www.stocktitan.net/news/DINO/sinclair-advances-dinocare-fuel-platform-with-top-tiertm-approved-wvbvzp3nwtyu.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-12T21:33:00+00:00",
+   "tickers": [
+    "DINO"
+   ],
+   "type": "fda",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "a3cf587dd8f0",
    "title": "Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang’s exit; oil prices jump",
@@ -468,20 +520,18 @@
    "tag_v": 2
   },
   {
-   "id": "4337bd6f78f3",
-   "title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
-   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-   "summary": "Amazon Web Services and Google users also reported outages on Thursday",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T21:28:54+00:00",
+   "id": "201d6f794d8b",
+   "title": "WYNDHAM HOTELS & RESORTS DECLARES QUARTERLY CASH DIVIDEND",
+   "link": "https://www.prnewswire.com/news-releases/wyndham-hotels--resorts-declares-quarterly-cash-dividend-302938352.html",
+   "summary": "PARSIPPANY, N.J., Nov. 12, 2026 /PRNewswire/ -- Wyndham Hotels & Resorts, Inc. (NYSE: WH) announced today its Board of Directors declared a quarterly cash dividend of $0.43 per share on its common stock, payable December 30, 2026 to shareholders of record as of December 15, 2026. About...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-12T21:30:00+00:00",
    "tickers": [
-    "AMZN",
-    "MSFT",
-    "GOOGL"
+    "WH"
    ],
-   "type": "guidance",
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -512,6 +562,20 @@
     "HOOD"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "12d1782ffd64",
+   "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
+   "summary": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-12T21:27:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -732,24 +796,6 @@
    "tag_v": 2
   },
   {
-   "id": "f30f0012add1",
-   "title": "Cerebras surges 13% after beating on quarterly revenue and announcing Microsoft deal",
-   "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-   "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T21:23:33+00:00",
-   "tickers": [
-    "MSFT",
-    "ORCL",
-    "AMZN"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "866855b15ae9",
    "title": "B2K'S ECLIPSE SURPASSES 100,000 TICKET-AND-ALBUM BUNDLE SALES AHEAD OF RELEASE",
    "link": "https://www.prnewswire.com/news-releases/b2ks-eclipse-surpasses-100-000-ticket-and-album-bundle-sales-ahead-of-release-302938423.html",
@@ -792,54 +838,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f02bff02e05e",
-   "title": "Excessive Ivory Coast Rains Disrupt Cocoa Supplies and Boost Prices",
-   "link": "https://www.nasdaq.com/articles/excessive-ivory-coast-rains-disrupt-cocoa-supplies-and-boost-prices",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +159 (+3.24%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +75 (+2.00%). Cocoa prices rallied sharply for a second day on Thursday as short covering intensified in cocoa futures on reports of heavy rains in the Ivory Coast that...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T21:21:05+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f757af875a33",
-   "title": "Tightness in ICE Inventories Lifts Arabica Coffee Prices",
-   "link": "https://www.nasdaq.com/articles/tightness-ice-inventories-lifts-arabica-coffee-prices",
-   "summary": "December arabica coffee (KCZ26 ) closed up +11.20 (+4.16%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -38 (-1.17%). Coffee prices settled mixed on Thursday, with arabica rebounding from a 4.75-month low and robusta falling to a 1.5-week low. Coffee prices diverged on Thursday, with short covering...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T21:21:05+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "18b899788007",
-   "title": "Sugar Prices Tumble with the Brazilian Real",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-tumble-brazilian-real",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.26 (-1.41%) on Thursday, and December London ICE white sugar #5 (SWZ26 ) closed down -1.70 (-0.33%). Sugar prices retreated on Thursday, with NY sugar just above Tuesday’s 6-week low. Weakness in the Brazilian real (^USDBRL ) is weighing on sugar...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T21:21:05+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2058,6 +2056,22 @@
    "tag_v": 2
   },
   {
+   "id": "f02bff02e05e",
+   "title": "Excessive Ivory Coast Rains Disrupt Cocoa Supplies and Boost Prices",
+   "link": "https://www.nasdaq.com/articles/excessive-ivory-coast-rains-disrupt-cocoa-supplies-and-boost-prices",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed up +159 (+3.24%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +75 (+2.00%). Cocoa prices rallied sharply for a second day on Thursday as short covering intensified in cocoa futures on reports of heavy rains in the Ivory Coast that...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:09:47+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b82c1cad931a",
    "title": "Twist Bioscience: 3 Key Takeaways for Long-Term Investors",
    "link": "https://www.nasdaq.com/articles/twist-bioscience-3-key-takeaways-long-term-investors",
@@ -2940,6 +2954,50 @@
    "tag_v": 2
   },
   {
+   "id": "594ece7caf91",
+   "title": "HUB Cyber Security Ltd. Announces 1-for-20 Reverse Share Split",
+   "link": "https://www.nasdaq.com/articles/hub-cyber-security-ltd-announces-1-20-reverse-share-split",
+   "summary": "HUB Cyber Security Ltd. announced a 1-for-20 reverse share split of its ordinary shares, no par value per share, effective at 11:59 p.m. Eastern Time on Thursday, November 12, 2026. The ordinary shares are scheduled to begin trading on a split-adjusted basis on The Nasdaq Stock M",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:01:25+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6f8848a59510",
+   "title": "Capri Holdings Limited Appoints Justin Boxford as Chief Executive Officer Effective January 4, 2027",
+   "link": "https://www.nasdaq.com/articles/capri-holdings-limited-appoints-justin-boxford-chief-executive-officer-effective-january-4",
+   "summary": "Capri Holdings Limited announced that its Board of Directors approved the entry into an employment agreement with Justin Boxford, appointing him as Chief Executive Officer and a member of the Board, effective January 4, 2027. Mr. Boxford will succeed John D. Idol, who will contin",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:01:25+00:00",
+   "tickers": [
+    "CPRI"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8d84b76f860e",
+   "title": "Artificial Intelligence Technology Solutions Inc. Subsidiary RAD to Deploy ROAMEO Security Robot for 30-Day Corrections Facility Proof of Concept",
+   "link": "https://www.nasdaq.com/articles/artificial-intelligence-technology-solutions-inc-subsidiary-rad-deploy-roameo-security",
+   "summary": "Artificial Intelligence Technology Solutions Inc. announced that its subsidiary, Robotic Assistance Devices, Inc., will deploy a ROAMEO autonomous security robot to a corrections facility for a proof of concept scheduled to run for 30 days. The deployment follows months of discus",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T21:01:25+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "e76112c4e569",
    "title": "Caledonia Mining (CMCL) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/caledonia-mining-cmcl-q3-2026-earnings-call-transcript",
@@ -3678,6 +3736,84 @@
    "tag_v": 2
   },
   {
+   "id": "2f3948ae1f28",
+   "title": "Invesco Mortgage Capital Enters Oversold Territory",
+   "link": "https://www.nasdaq.com/articles/invesco-mortgage-capital-enters-oversold-territory",
+   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics &mdash; strong fundamentals and a valuation that looks inexpensive.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T20:58:36+00:00",
+   "tickers": [
+    "IVZ"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f757af875a33",
+   "title": "Tightness in ICE Inventories Lifts Arabica Coffee Prices",
+   "link": "https://www.nasdaq.com/articles/tightness-ice-inventories-lifts-arabica-coffee-prices",
+   "summary": "December arabica coffee (KCZ26 ) closed up +11.20 (+4.16%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -38 (-1.17%). Coffee prices settled mixed on Thursday, with arabica rebounding from a 4.75-month low and robusta falling to a 1.5-week low. Coffee prices diverged on Thursday, with short covering...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T20:58:33+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "18b899788007",
+   "title": "Sugar Prices Tumble with the Brazilian Real",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-tumble-brazilian-real",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.26 (-1.41%) on Thursday, and December London ICE white sugar #5 (SWZ26 ) closed down -1.70 (-0.33%). Sugar prices retreated on Thursday, with NY sugar just above Tuesday’s 6-week low. Weakness in the Brazilian real (^USDBRL ) is weighing on sugar...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T20:58:33+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "2ade76e8bdac",
+   "title": "Relative Strength Alert For Hancock Whitney",
+   "link": "https://www.nasdaq.com/articles/relative-strength-alert-hancock-whitney-0",
+   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics &mdash; strong fundamentals and a valuation that looks inexpensive.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T20:58:13+00:00",
+   "tickers": [
+    "HWC"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c17458cbb065",
+   "title": "Starwood Property Trust Becomes Oversold",
+   "link": "https://www.nasdaq.com/articles/starwood-property-trust-becomes-oversold",
+   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics &mdash; strong fundamentals and a valuation that looks inexpensive.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T20:58:08+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "1874eabcb36d",
    "title": "ProShares DJ Brookfield Global Infrastructure Breaks Above 200-Day Moving Average - Bullish for TOLZ",
    "link": "https://www.nasdaq.com/articles/proshares-dj-brookfield-global-infrastructure-breaks-above-200-day-moving-average-bullish",
@@ -3688,6 +3824,23 @@
    "published": "2026-11-12T20:57:04+00:00",
    "tickers": [
     "BN"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "96ae9323bb27",
+   "title": "CoreWeave Says Its AI Demand Is 10 Times Its Capacity Through 2027. I Think Micron Stock Is Still Worth Buying.",
+   "link": "https://www.nasdaq.com/articles/coreweave-says-its-ai-demand-10-times-its-capacity-through-2027-i-think-micron-stock-still",
+   "summary": "Key PointsCoreWeave raised its 2026 revenue outlook to $13.0 billion to $13.3 billion.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T20:57:02+00:00",
+   "tickers": [
+    "CRWV",
+    "MU"
    ],
    "type": "markets",
    "sentiment": "neutral",
@@ -3852,6 +4005,20 @@
     "OKE"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8ef2221526f4",
+   "title": "Hunt for clues in deadly Brooklyn building collapse will take time - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTF0bXlzSWlmLWlkQWl1aE1xZzFRNjVtTXJtOFV4bUtGd2JQeGx0bjJ1bjRCQ2pUVFN2ejd2ZU5NZE5MVTdSNGpZbjU4RVV4MDVsQnRtLUZHV09LS0NYeWY1OGVaVkdWYk10Vy00UzdJY1lpSUYza2dWVGY3aC1vS3dCbDE2OVlHNHB5VVJYSDBSZi05eVNLcXRsMDZDWkJFZmYtMGxsN2hjQQ?oc=5",
+   "summary": "Hunt for clues in deadly Brooklyn building collapse will take time&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-12T20:54:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -4326,20 +4493,6 @@
    "tag_v": 2
   },
   {
-   "id": "6cdafe9bb41a",
-   "title": "Longtime NBC Sports announcer Dan Hicks dies at 64 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOei01RDZ1ZHBmNk9zdGFRenRwaHFSdU1ZMDNfblItUUR6dGxsbEJVQmZYYkNNZzI0b09nWXNjS1VWZ1dQN1BjZlFjMnU2VE1ONF9BaTVIc0tXNW9zMXBPT0ZQak9jQ2ROcW1QZ3Z3ZjNoM0NIVzF3aGNnYkE2MllVQW5JVUE?oc=5",
-   "summary": "Longtime NBC Sports announcer Dan Hicks dies at 64&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-12T20:39:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "bc6fdd99c32c",
    "title": "Huang's exit rocks Nvidia and creates openings for rivals",
    "link": "https://www.cbsnews.com/news/nvidia-jensen-huang-resigns-competitors/",
@@ -4684,6 +4837,20 @@
     "CRWV"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2433ed426340",
+   "title": "Colorado U.S. House Election Live Results 2026 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HLVhOYUhxMDBrY2F6eUNZNkF3bDItVUNXUjRzZzhva3RBYmdhZmd4TU5McmtONnNjS3hnZ3BIU045MWN6SThBNnd4Vmttd3c5WUlaVzFacFg0V3FmcEJEQUIxaFp3WVFYRHc3MnlzbHhCMlVTVVhjeA?oc=5",
+   "summary": "Colorado U.S. House Election Live Results 2026&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-12T20:30:17+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6957,20 +7124,6 @@
    "tag_v": 2
   },
   {
-   "id": "12d1782ffd64",
-   "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself - AP News",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
-   "summary": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-12T19:09:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "7cda61ecc497",
    "title": "Southern Co stock hits 52-week low at 18.11 USD",
    "link": "https://www.investing.com/news/company-news/southern-co-stock-hits-52week-low-at-1811-usd-93CH-5023007",
@@ -8656,154 +8809,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "f383c62c0f95",
-   "title": "CorMedix (CRMD) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/cormedix-crmd-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T18:00:53+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "47dda8cdf89a",
-   "title": "Altimmune (ALT) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/altimmune-alt-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T18:00:53+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b0c92a875fb8",
-   "title": "Suburban Propane (SPH) Q4 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/suburban-propane-sph-q4-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T18:00:53+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1b249a365b42",
-   "title": "Hyperion DeFi (HYPD) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/hyperion-defi-hypd-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T18:00:53+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e8c169f45544",
-   "title": "Frasers executive David Epstein becomes Hugo Boss CEO after takeover",
-   "link": "https://www.investing.com/news/stock-market-news/frasers-executive-david-epstein-becomes-hugo-boss-ceo-after-takeover-5022916",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-12T18:00:27+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4079b9b77411",
-   "title": "Arena Physica Collaborates with AMD to Train Next Generation of Heaviside, the First Foundation Model for Electromagnetism",
-   "link": "https://www.prnewswire.com/news-releases/arena-physica-collaborates-with-amd-to-train-next-generation-of-heaviside-the-first-foundation-model-for-electromagnetism-302936925.html",
-   "summary": "Arena Physica will scale Heaviside on the Lux AI Supercomputer, powered by AMD hardware NEW YORK, Nov. 12, 2026 /PRNewswire/ -- Today, Arena Physica announced it will work with AMD to train the next generation of Heaviside, its foundation model for electromagnetism, on the Lux AI...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T18:00:00+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7b38e300dd5f",
-   "title": "Rockwell Automation, Feeding America Eastern Wisconsin and Fork Farms Launch Clock Tower Farms | ROK Stock News",
-   "link": "https://www.stocktitan.net/news/ROK/rockwell-automation-feeding-america-eastern-wisconsin-and-fork-farms-ks9xjuvvjv7x.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T18:00:00+00:00",
-   "tickers": [
-    "ROK"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "adf2b9f798e2",
-   "title": "Capital One Software Recognized in KuppingerCole Analysts 2026 Leadership Compass for Data Security Platforms | COF Stock News",
-   "link": "https://www.stocktitan.net/news/COF/capital-one-software-recognized-in-kuppinger-cole-analysts-2026-k4whyluez7ey.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T18:00:00+00:00",
-   "tickers": [
-    "COF"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0eb9cc0707c3",
-   "title": "Phillips 66 Named Official Fuel Partner of the LA28 Olympic and Paralympic Games and Team USA | PSX Stock News",
-   "link": "https://www.stocktitan.net/news/PSX/phillips-66-named-official-fuel-partner-of-the-la28-olympic-and-2jecs740z030.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T18:00:00+00:00",
-   "tickers": [
-    "PSX"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3c4a86d44230",
-   "title": "Pinnacle Bankshares Corporation Announces Increased Dividend | PPBN Stock News",
-   "link": "https://www.stocktitan.net/news/PPBN/pinnacle-bankshares-corporation-announces-increased-jobh0mniomml.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T18:00:00+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8826,6 +8831,7 @@
   "APO": "Apollo Global Management",
   "WPM": "Wheaton Precious Metals",
   "AMD": "Advanced Micro Devices",
+  "CPRI": "Capri Holdings Limited",
   "VZ": "Verizon Communications",
   "WBD": "Warner Bros. Discovery",
   "COF": "Capital One Financial",
@@ -8890,8 +8896,8 @@
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "BTBT": "Bit Digital",
+  "DINO": "HF Sinclair",
   "MORN": "Morningstar",
-  "PSX": "Phillips 66",
   "ULTA": "Ulta Beauty",
   "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
