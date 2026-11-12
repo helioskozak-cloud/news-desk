@@ -1,8 +1,70 @@
 {
- "generated": "2026-11-12T14:31:42.497646+00:00",
+ "generated": "2026-11-12T14:36:27.163753+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a3cf587dd8f0",
+   "title": "S&P 500 declines as Huang ouster sends Nvidia reeling: Live updates",
+   "link": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
+   "summary": "Nasdaq-100 futures fell early Thursday as Nvidia shares slumped on the potential ouster of CEO Jensen Huang.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T14:33:56+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b73e922fb622",
+   "title": "Boeing layoffs raise new fears about its financial future",
+   "link": "https://www.thestreet.com/investing/boeing-bca-5-percent-december-layoffs-737-787",
+   "summary": "Investors are losing patience as the planemaker faces another setback.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-12T14:33:00+00:00",
+   "tickers": [
+    "BA"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c06dcbb065b3",
+   "title": "Nvidia live updates: CEO Jensen Huang resigns, Colette Kress named interim chief",
+   "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+   "summary": "Nvidia CEO Jensen Huang has faced increased scrutiny since revealing an affair. Follow live updates on the investigation, NVDA stock and succession plans.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T14:32:46+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "dcb1ef6ed0b3",
+   "title": "AMD upgraded because it will benefit from Nvidia's 'leadership vacuum'",
+   "link": "https://www.cnbc.com/2026/11/12/amd-upgraded-because-it-will-benefit-from-nvidias-leadership-vacuum.html",
+   "summary": "AMD is likely to benefit as Nvidia stumbles after the resignation of Jensen Huang, its long-time CEO and co-founder, according to William Blair.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T14:31:37+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "7a96e9580904",
    "title": "Nvidia CEO Jensen Huang resigns in wake of affair, spy scandal",
@@ -177,22 +239,6 @@
    "tag_v": 2
   },
   {
-   "id": "c06dcbb065b3",
-   "title": "Nvidia live updates: CEO Jensen Huang resigns, Colette Kress named interim chief",
-   "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
-   "summary": "Nvidia CEO Jensen Huang has faced increased scrutiny since revealing an affair. Follow live updates on the investigation, NVDA stock and succession plans.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T14:29:36+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "20070f4f4813",
    "title": "CAE announces consent and proxy solicitation targeting its 5.541% Series 1 Senior Unsecured Notes | CAE Stock News",
    "link": "https://www.stocktitan.net/news/CAE/cae-announces-consent-and-proxy-solicitation-targeting-its-5-541-pvogynqvls26.html",
@@ -221,17 +267,20 @@
    "tag_v": 2
   },
   {
-   "id": "a3cf587dd8f0",
-   "title": "Stock futures decline as Huang ouster sends Nvidia reeling, oil prices rise: Live updates",
-   "link": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
-   "summary": "Nasdaq-100 futures fell early Thursday as Nvidia shares slumped on the potential ouster of CEO Jensen Huang.",
-   "source": "CNBC Top",
+   "id": "9da475a63a91",
+   "title": "Uber Partners With Tractor Supply To Launch Nationwide On-Demand Delivery",
+   "link": "https://www.nasdaq.com/articles/uber-partners-tractor-supply-launch-nationwide-demand-delivery",
+   "summary": "(RTTNews) - Uber Technologies, Inc. (UBER) and Tractor Supply Co. (TSCO) announced Thursday a new nationwide partnership to bring Tractor Supply's products to the Uber marketplace - Uber, Uber Eats and Postmates.",
+   "source": "NASDAQ Markets",
    "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T14:25:03+00:00",
-   "tickers": [],
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T14:26:48+00:00",
+   "tickers": [
+    "UBER",
+    "TSCO"
+   ],
    "type": "markets",
-   "sentiment": "positive",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -275,6 +324,23 @@
    "published": "2026-11-12T14:25:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1997ef93d6cd",
+   "title": "DuPont De Nemours Teams Up With Microsoft And NobleAI On AI Tools Expansion",
+   "link": "https://www.nasdaq.com/articles/dupont-de-nemours-teams-microsoft-and-nobleai-ai-tools-expansion",
+   "summary": "(RTTNews) - Thursday, DuPont de Nemours, Inc. (DD) announced a collaboration with Microsoft Corporation (MSFT) and NobleAI to expand access to advanced AI tools and resources.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T14:24:19+00:00",
+   "tickers": [
+    "DD",
+    "MSFT"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -696,6 +762,22 @@
    "tag_v": 2
   },
   {
+   "id": "66adb5d92b94",
+   "title": "Bitdeer: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/bitdeer-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsRevenue grew 89% year over year to $320.7 million in the third quarter.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T14:17:03+00:00",
+   "tickers": [
+    "BTDR"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "77076d858921",
    "title": "Spectrum changes course as more customers walk away",
    "link": "https://www.thestreet.com/retail/spectrum-q3-2026-earnings-cost-cutting-plan-customer-losses",
@@ -894,6 +976,22 @@
    "tag_v": 2
   },
   {
+   "id": "02b1133c4d02",
+   "title": "Klarna Appoints Chris Koegel As CFO, Succeeding Niclas Neglén",
+   "link": "https://www.nasdaq.com/articles/klarna-appoints-chris-koegel-cfo-succeeding-niclas-neglen",
+   "summary": "(RTTNews) - Thursday, Klarna Group plc (KLAR) announced the appointment of Chris Koegel as Chief Financial Officer, effective 1 January 2027.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T14:13:37+00:00",
+   "tickers": [
+    "KLAR"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "aeda1bc8c925",
    "title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
    "link": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
@@ -905,6 +1003,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ccf0e06bbde8",
+   "title": "History Says the Nasdaq Will Soar Once Again in 2027 After the Sell-Off. The Best Growth Stock to Buy Before That Happens",
+   "link": "https://www.nasdaq.com/articles/history-says-nasdaq-will-soar-once-again-2027-after-sell-best-growth-stock-buy-happens",
+   "summary": "Key PointsThe Nasdaq Composite bounced back impressively after last year's tariff-induced sell-off, and it can repeat that feat once again.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T14:13:01+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1040,6 +1152,22 @@
    "tag_v": 2
   },
   {
+   "id": "11f5bfcd4a37",
+   "title": "NVIDIA CEO Jensen Huang Resigns; Stock Down 10%",
+   "link": "https://www.nasdaq.com/articles/nvidia-ceo-jensen-huang-resigns-stock-down-10",
+   "summary": "(RTTNews) - NVIDIA (NVDA) Board announced that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately. Colette Kress, current Executive Vice President and CFO, has agreed to serve as Interim CEO. The Board is initiating a",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T14:05:11+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "dfc5a53beb43",
    "title": "Workday and The Josh Bersin Company Bring Galileo Agent to Workday Customers in Sana, Giving HR Leaders Instant Access to Trusted Expertise",
    "link": "https://www.prnewswire.com/news-releases/workday-and-the-josh-bersin-company-bring-galileo-agent-to-workday-customers-in-sana-giving-hr-leaders-instant-access-to-trusted-expertise-302937905.html",
@@ -1162,6 +1290,20 @@
    "tag_v": 2
   },
   {
+   "id": "e27aa04f93dd",
+   "title": "National Vision Q3 Profit Surges On Higher Sales And Margin Expansion; Updates Fiscal 2026 Outlook",
+   "link": "https://www.nasdaq.com/articles/national-vision-q3-profit-surges-higher-sales-and-margin-expansion-updates-fiscal-2026",
+   "summary": "(RTTNews) - National Vision Holdings, Inc. (EYE) reported third-quarter results, reflecting a sharp increase in net income, supported by comparable store sales growth, higher-value product transactions, and lower selling, general, and administrative expenses.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T14:03:48+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "a18f0e7aef5e",
    "title": "Earnings call transcript: New Era shares fall premarket after q3 2026 update",
    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-new-era-shares-fall-premarket-after-q3-2026-update-93CH-5022045",
@@ -1232,6 +1374,22 @@
     "CR"
    ],
    "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c84bdabfe504",
+   "title": "Chevron's Production Fell. Its Profit Nearly Tripled. Here's How.",
+   "link": "https://www.nasdaq.com/articles/chevrons-production-fell-its-profit-nearly-tripled-heres-how",
+   "summary": "Key PointsChevron's Q3 adjusted profit nearly tripled to $10.4 billion, even as production fell 2.6%.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T14:03:00+00:00",
+   "tickers": [
+    "CVX"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1368,19 +1526,19 @@
    "tag_v": 2
   },
   {
-   "id": "dcb1ef6ed0b3",
-   "title": "AMD upgraded because it will benefit from Nvidia's 'leadership vacuum'",
-   "link": "https://www.cnbc.com/2026/11/12/amd-upgraded-because-it-will-benefit-from-nvidias-leadership-vacuum.html",
-   "summary": "AMD is likely to benefit as Nvidia stumbles in the midst of a scandal involving Jensen Huang, its long-time CEO and co-founder, according to William Blair.",
-   "source": "CNBC Top",
+   "id": "20c1a9be2992",
+   "title": "Brookfield Corp. Q3 26 Earnings Conference Call At 10:00 AM ET",
+   "link": "https://www.nasdaq.com/articles/brookfield-corp-q3-26-earnings-conference-call-10-00-am-et",
+   "summary": "(RTTNews) - Brookfield Corporation (BN) will host a conference call at 10:00 AM ET on November 12, 2026, to discuss Q3 26 earnings results.",
+   "source": "NASDAQ Markets",
    "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T14:00:27+00:00",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T14:00:20+00:00",
    "tickers": [
-    "AMD"
+    "BN"
    ],
-   "type": "upgrade",
-   "sentiment": "positive",
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2176,6 +2334,20 @@
    "tag_v": 2
   },
   {
+   "id": "56b082c82ad7",
+   "title": "Steep Drop By Nvidia May Weigh On Wall Street As Huang Faces Further Scrutiny",
+   "link": "https://www.nasdaq.com/articles/steep-drop-nvidia-may-weigh-wall-street-huang-faces-further-scrutiny",
+   "summary": "(RTTNews) - Following the significant rebound seen during Wednesday's session, stocks are likely to move back to the downside in early trading on Thursday. The major index futures are currently pointing to a lower open for the markets, with the S&amp;P 500 futures down by 0.6 percent",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T13:54:47+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "374b8f5f5733",
    "title": "Diana Shipping Inc. Announces the Date for the 2026 Third Quarter Financial Results, Conference Call and Webcast | DSX Stock News",
    "link": "https://www.stocktitan.net/news/DSX/diana-shipping-inc-announces-the-date-for-the-2026-third-quarter-vs6n3hpguyb7.html",
@@ -2248,6 +2420,20 @@
    "tag_v": 2
   },
   {
+   "id": "e6f50911e169",
+   "title": "Cohen & Co. Earnings Up In Q3; Appoints Daniel Cohen As CEO As Lester Brafman Resigns",
+   "link": "https://www.nasdaq.com/articles/cohen-co-earnings-q3-appoints-daniel-cohen-ceo-lester-brafman-resigns",
+   "summary": "(RTTNews) - Cohen & Co. Inc. (COHN), a financial services company, on Thursday reported an increase in net income attributable to the company for the third quarter of 2026, while revenue and operating income declined compared with the previous year.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T13:49:35+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "724075965c00",
    "title": "JD.com seeks to lead Europe’s online electronics retail with Ceconomy deal",
    "link": "https://www.investing.com/news/stock-market-news/jdcom-seeks-to-lead-europes-online-electronics-retail-with-ceconomy-deal-5021369",
@@ -2289,6 +2475,34 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d2ca990bf9a1",
+   "title": "Bay Street Headed For Weak Start",
+   "link": "https://www.nasdaq.com/articles/bay-street-headed-weak-start-0",
+   "summary": "(RTTNews) - Lower U.S. and Canadian futures and weak precious metals prices indicate a lower opening for stocks on Bay Street Thursday morning. Oil prices have rebounded, paring early losses.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T13:47:14+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "20577fcf5fc0",
+   "title": "Where Food Comes From, Inc. Q3 Profit Declines",
+   "link": "https://www.nasdaq.com/articles/where-food-comes-inc-q3-profit-declines",
+   "summary": "(RTTNews) - Where Food Comes From, Inc. (WFCF) released earnings for third quarter that Dropped, from last year",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T13:46:25+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8655,216 +8869,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "1a8fc6f650ef",
-   "title": "Cardiff Oncology Reports Third Quarter 2026 Results and Provides Business Update | CRDF Stock News",
-   "link": "https://www.stocktitan.net/news/CRDF/cardiff-oncology-reports-third-quarter-2026-results-and-provides-eazyfoz34c2m.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "75638e6e59e5",
-   "title": "Pelthos Therapeutics Announces Third Quarter 2026 Financial Results and Provides Business Update | PTHS Stock News",
-   "link": "https://www.stocktitan.net/news/PTHS/pelthos-therapeutics-announces-third-quarter-2026-financial-results-n7mjv7lqc7lx.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a0f776e07ba4",
-   "title": "Lumexa Imaging Expands Partnership with Advocate Health Through New Illinois Joint Venture | LMRI Stock News",
-   "link": "https://www.stocktitan.net/news/LMRI/lumexa-imaging-expands-partnership-with-advocate-health-through-new-bqkgopnq834k.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "d949afff2af4",
-   "title": "YYForce (NASDAQ: YFOR) Secures 100+ Outlet Restaurant Staffing Deal Across Singapore | YFOR Stock News",
-   "link": "https://www.stocktitan.net/news/YFOR/yy-force-nasdaq-yfor-secures-100-outlet-restaurant-staffing-deal-jmcysdeq4exr.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "8e15fd6289bb",
-   "title": "Nevoya and Meta Expand Partnership with 25 New Electric Trucks on the I-10 Corridor",
-   "link": "https://www.prnewswire.com/news-releases/nevoya-and-meta-expand-partnership-with-25-new-electric-trucks-on-the-i-10-corridor-302937366.html",
-   "summary": "Meta is expanding its partnership with Nevoya through a multi-year agreement to purchase zero-emission trucking environmental attributes certifications (EACs) supporting 25 Nevoya battery-electric trucks between California and Arizona. SAN FRANCISCO, Nov. 12, 2026 /PRNewswire/ -- Nevoya,...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [
-    "META"
-   ],
-   "type": "press",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "e1f7349b1eda",
-   "title": "Atlassian Williams F1 Team Protects Competitive Data From Factory to Track with Keeper Security's Zero-Knowledge Architecture",
-   "link": "https://www.prnewswire.com/news-releases/atlassian-williams-f1-team-protects-competitive-data-from-factory-to-track-with-keeper-securitys-zero-knowledge-architecture-302937562.html",
-   "summary": "Williams unifies credential management across a 1,200-person global operation while securing strategic race data with quantum-resistant encryption CHICAGO, Nov. 12, 2026 /PRNewswire/ -- Keeper Security, the leading provider of zero-trust and zero-knowledge identity security, today...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [
-    "TEAM"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "56244a88828f",
-   "title": "Criteo Announces Inclusion in MSCI Global Investable Market Indexes",
-   "link": "https://www.prnewswire.com/news-releases/criteo-announces-inclusion-in-msci-global-investable-market-indexes-302937217.html",
-   "summary": "First-time MSCI inclusion marks a new capital markets milestone following redomiciliation to Luxembourg NEW YORK, Nov. 12, 2026 /PRNewswire/ -- Criteo (NASDAQ: CRTO) (\"Criteo\" or the \"Company\"), the global commerce intelligence platform, today announced its inclusion in the MSCI Global...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [
-    "MSCI"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ba2d815e290a",
-   "title": "American Cancer Society Updates Prostate Cancer Screening Guideline: Major Changes Include Regular PSA Testing for Average and High-Risk Men",
-   "link": "https://www.prnewswire.com/news-releases/american-cancer-society-updates-prostate-cancer-screening-guideline-major-changes-include-regular-psa-testing-for-average-and-high-risk-men-302937363.html",
-   "summary": "The guideline aims to lower prostate cancer deaths, focusing on clinical management strategies to reduce harms associated with PSA testing Key Takeaways: Regular screening is recommended with a PSA-based test to detect prostate cancer earlier and reduce the risk of diagnosis of advanced...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [
-    "PSA"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8b30c556409b",
-   "title": "Bentaus, an Energy-First NeoCloud, Deploys DriveNets High-Performance AI Fabric with AMD GPUs to Produce AI Tokens with 30% Less Energy",
-   "link": "https://www.prnewswire.com/news-releases/bentaus-an-energy-first-neocloud-deploys-drivenets-high-performance-ai-fabric-with-amd-gpus-to-produce-ai-tokens-with-30-less-energy-302937017.html",
-   "summary": "Paired with Bentaus Ziani orchestration software, deployment offers flexible GPU capacity that balances the grid instead of working against it, cutting energy per token by 30% at a cost of only 3% token throughput RA'ANANA, Israel and DALLAS, Nov. 12, 2026 /PRNewswire/ -- DriveNets, a...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "01ba6e49491f",
-   "title": "YYForce (NASDAQ: YFOR) Secures 100+ Outlet Restaurant Staffing Deal Across Singapore",
-   "link": "https://www.prnewswire.com/news-releases/yyforce-nasdaq-yfor-secures-100-outlet-restaurant-staffing-deal-across-singapore-302937575.html",
-   "summary": "Subsidiary YY Circle Singapore Selected to Supply On-Demand Frontline Workforce Across Major Quick-Service Restaurant Network SINGAPORE, Nov. 12, 2026 /PRNewswire/ -- YYForce Inc. (NASDAQ: YFOR) (\"YYForce\" or the \"Company\"), an AI-enabled frontline workforce, robotics, and facility...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [
-    "FRO"
-   ],
-   "type": "press",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1b16f89fa990",
-   "title": "Cellebrite Reports Third-Quarter 2026 Results",
-   "link": "https://www.prnewswire.com/news-releases/cellebrite-reports-third-quarter-2026-results-302937130.html",
-   "summary": "Third-Quarter ARR Growth of 20% and TTM Free Cash Flow Margin of 31% Net income of $26.7 million; Non-GAAP net income of $45.6 million and adjusted EBITDA of $53.6 million, 36% adjusted EBITDA margin TYSONS CORNER, Va. and PETAH TIKVA, Israel, Nov. 12, 2026 /PRNewswire/ -- Cellebrite DI...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [
-    "ARR"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "76140338fb6e",
-   "title": "First Majestic Reports Positive Exploration Results at Jerritt Canyon and Provides Restart Progress Update | AG Stock News",
-   "link": "https://www.stocktitan.net/news/AG/first-majestic-reports-positive-exploration-results-at-jerritt-mve6sq1lu5zj.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9396148ad901",
-   "title": "Prospector Drilling at TESS Yields 5.91 g/t Au over 22.06m including 14.32 g/t Au over 8.58m | PMCOF Stock News",
-   "link": "https://www.stocktitan.net/news/PMCOF/prospector-drilling-at-tess-yields-5-91-g-t-au-over-22-06m-including-8na9hchzk8j5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "028f6643e85d",
-   "title": "2026 Exploration Program Drilling Confirms and Expands Broad, Near-Surface Nickel-Copper Mineralization with By-Product Precious Metals | IE Stock News",
-   "link": "https://www.stocktitan.net/news/IE/2026-exploration-program-drilling-confirms-and-expands-broad-near-syjqq923z6tl.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T12:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8878,6 +8882,7 @@
   "BK": "The Bank of New York Mellon",
   "IBP": "Installed Building Products",
   "QQQ": "Invesco QQQ Trust, Series 1",
+  "BTDR": "Bitdeer Technologies Group",
   "HPE": "Hewlett Packard Enterprise",
   "OHI": "Omega Healthcare Investors",
   "SSNC": "SS&C Technologies Holdings",
@@ -8885,7 +8890,6 @@
   "JEF": "Jefferies Financial Group",
   "BFH": "Bread Financial Holdings",
   "ROLR": "High Roller Technologies",
-  "ARR": "ARMOUR Residential REIT",
   "JHX": "James Hardie Industries",
   "RCL": "Royal Caribbean Cruises",
   "TRV": "The Travelers Companies",
@@ -8918,6 +8922,7 @@
   "HOOD": "Robinhood Markets",
   "QUBT": "Quantum Computing",
   "RF": "Regions Financial",
+  "UBER": "Uber Technologies",
   "AXP": "American Express",
   "BBIO": "BridgeBio Pharma",
   "BKNG": "Booking Holdings",
@@ -8944,8 +8949,8 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "PLNT": "Planet Fitness",
-  "PSA": "Public Storage",
   "SOC": "Sable Offshore",
+  "TSCO": "Tractor Supply",
   "TTD": "The Trade Desk",
   "DNN": "Denison Mines",
   "GXO": "GXO Logistics",
@@ -8956,6 +8961,7 @@
   "MSTR": "MicroStrategy",
   "BKR": "Baker Hughes",
   "IREN": "IREN Limited",
+  "KLAR": "Klarna Group",
   "LRCX": "Lam Research",
   "NBIS": "Nebius Group",
   "TM": "Toyota Motor",
@@ -8988,15 +8994,14 @@
   "BLK": "BlackRock",
   "CART": "Maplebear",
   "CRWV": "CoreWeave",
-  "FRO": "Frontline",
   "TE": "T1 Energy",
-  "TEAM": "Atlassian",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
   "GOOG": "Alphabet",
   "FOX": "Fox Corp",
   "CNC": "Centene",
   "CTVA": "Corteva",
+  "CVX": "Chevron",
   "HUBS": "HubSpot",
   "IOT": "Samsara",
   "LGN": "Legence",
@@ -9014,7 +9019,6 @@
   "CIEN": "Ciena",
   "FRMI": "Fermi",
   "ETSY": "Etsy",
-  "MSCI": "MSCI",
   "OKLO": "Oklo"
  }
 }
