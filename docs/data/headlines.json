@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-12T02:21:31.067197+00:00",
+ "generated": "2026-11-12T02:26:26.965640+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "9e93ce6c3041",
+   "title": "Japan’s Mimura says markets shouldn’t forget intervention risks as yen nears 160",
+   "link": "https://www.investing.com/news/economy-news/japans-top-currency-diplomat-renews-volatility-warning-as-yen-nears-key-160-level-5020140",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-12T02:18:44+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cca74942d513",
+   "title": "Ciena evp & chief product Brodie Gage sells $389,832 in common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/ciena-evp--chief-product-brodie-gage-sells-389832-in-common-stock-93CH-5020195",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-12T02:16:20+00:00",
+   "tickers": [
+    "CIEN"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c327ef9f576e",
+   "title": "Japan PPI inflation surges past expectations in Oct",
+   "link": "https://www.investing.com/news/economic-indicators/japan-ppi-inflation-surges-past-expectations-in-oct-5020186",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-12T02:12:39+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "78b783d06db1",
    "title": "Mirae Asset Q3 2026 slides: record YTD masked by investment losses",
@@ -446,20 +490,6 @@
    "published": "2026-11-12T01:14:08+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9e93ce6c3041",
-   "title": "Japan’s top currency diplomat renews volatility warning as yen nears key 160 level",
-   "link": "https://www.investing.com/news/economy-news/japans-top-currency-diplomat-renews-volatility-warning-as-yen-nears-key-160-level-5020140",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-12T01:12:38+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8785,36 +8815,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "10058e42f87a",
-   "title": "Thomson Reuters unveils $500 million share buyback plan",
-   "link": "https://www.investing.com/news/stock-market-news/thomson-reuters-unveils-500-million-share-buyback-plan-5018791",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-11T17:08:03+00:00",
-   "tickers": [
-    "TRI"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "e9e274f50276",
-   "title": "Netherlands stocks higher at close of trade; AEX up 1.12%",
-   "link": "https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-112-5019619",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-11T17:07:42+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8872,7 +8872,6 @@
   "GH": "Guardant Health",
   "MRCY": "Mercury Systems",
   "PWR": "Quanta Services",
-  "TRI": "Thomson Reuters",
   "WGS": "GeneDx Holdings",
   "AMT": "American Tower",
   "DOX": "Amdocs Limited",
@@ -8936,6 +8935,7 @@
   "ORCL": "Oracle",
   "PFE": "Pfizer",
   "SRE": "Sempra",
+  "CIEN": "Ciena",
   "MAS": "Masco",
   "XPEV": "XPeng",
   "IEX": "IDEX",
