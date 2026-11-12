@@ -1,19 +1,64 @@
 {
- "generated": "2026-11-12T17:51:32.738384+00:00",
+ "generated": "2026-11-12T17:56:32.674435+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
+   "id": "9c28d554e6ea",
+   "title": "USPS plans 11% package fuel surcharge but no first-class stamp hike",
+   "link": "https://www.cnbc.com/2026/11/12/usps-fuel-surcharge-package-deliveries.html",
+   "summary": "The United States Postal Service is seeking ​approval for an 11% price hike on priority mail and package deliveries due to rising fuel costs.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T17:54:37+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "fcdf6b70d0c3",
-   "title": "In a policy switch, the Fed says its October 2028 meeting will not see a vote on interest rates",
+   "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
    "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2028-meeting-will-not-see-a-vote-on-interest-rates.html",
    "summary": "",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-12T17:50:01+00:00",
+   "published": "2026-11-12T17:54:21+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bedfacd49e27",
+   "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+   "link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+   "summary": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed better-than-expected results in the past week.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T17:53:31+00:00",
+   "tickers": [
+    "CRWV",
+    "IREN"
+   ],
+   "type": "guidance",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "c951ccc676fe",
+   "title": "Bain Capital’s head of real estate uses this strategy to counter the economy’s ‘cocktail of disruption'",
+   "link": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
+   "summary": "Ryan Cotton, Bain Capital's head of real estate, sits for an interview with the Property Play video podcast.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T17:50:59+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -45,23 +90,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "bedfacd49e27",
-   "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
-   "link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
-   "summary": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed better-than-expected results in the past week.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T17:48:00+00:00",
-   "tickers": [
-    "CRWV",
-    "IREN"
-   ],
-   "type": "guidance",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -159,37 +187,6 @@
    "tag_v": 2
   },
   {
-   "id": "c951ccc676fe",
-   "title": "Property Play: Bain Capital’s head of real estate uses this strategy to counter the economy’s ‘cocktail of disruption'",
-   "link": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
-   "summary": "Ryan Cotton, Bain Capital's head of real estate, sits for an interview with the Property Play video podcast.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T17:44:50+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "437022aa54c8",
-   "title": "Stock Indexes Finish Sharply Higher on AI Demand Optimism",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-higher-ai-demand-optimism",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +1.31% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.49%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +2.28%. December E-mini S&amp;P futures (ESZ26 ) rose +1.33%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T17:44:01+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "d00950927ca0",
    "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
    "link": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
@@ -231,6 +228,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "0385db245fcf",
+   "title": "Nvidia’s Jensen Huang Resigns. Is This Top AI Stock Still a Buy?",
+   "link": "https://www.nasdaq.com/articles/nvidias-jensen-huang-resigns-top-ai-stock-still-buy",
+   "summary": "Key PointsNvidia chief Jensen Huang stepped down following allegations of affairs.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T17:40:01+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -319,6 +330,20 @@
     "C"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6b807d1e17b9",
+   "title": "Nervous Market, Big Opportunity: The 1 Beaten-Down Growth Stock I'd Buy With $500 Right Now",
+   "link": "https://www.nasdaq.com/articles/nervous-market-big-opportunity-1-beaten-down-growth-stock-id-buy-500-right-now",
+   "summary": "Key PointsDutch Bros would have to rise roughly 150% to get back to last year's all-time highs.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T17:37:00+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -953,6 +978,20 @@
    "tag_v": 2
   },
   {
+   "id": "6cdafe9bb41a",
+   "title": "Longtime NBC Sports announcer Dan Hicks dies at 64 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOei01RDZ1ZHBmNk9zdGFRenRwaHFSdU1ZMDNfblItUUR6dGxsbEJVQmZYYkNNZzI0b09nWXNjS1VWZ1dQN1BjZlFjMnU2VE1ONF9BaTVIc0tXNW9zMXBPT0ZQak9jQ2ROcW1QZ3Z3ZjNoM0NIVzF3aGNnYkE2MllVQW5JVUE?oc=5",
+   "summary": "Longtime NBC Sports announcer Dan Hicks dies at 64&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-12T17:21:01+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "0c2ab19c3601",
    "title": "Did BellRing Brands, Inc. Insiders Breach their Fiduciary Duties to Shareholders?",
    "link": "https://www.prnewswire.com/news-releases/did-bellring-brands-inc-insiders-breach-their-fiduciary-duties-to-shareholders-302938109.html",
@@ -1387,6 +1426,23 @@
    "domain": "nasdaq.com",
    "published": "2026-11-12T17:11:19+00:00",
    "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "437022aa54c8",
+   "title": "Stock Indexes Finish Sharply Higher on AI Demand Optimism",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-higher-ai-demand-optimism",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +1.31% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.49%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +2.28%. December E-mini S&amp;P futures (ESZ26 ) rose +1.33%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T17:11:18+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -3143,20 +3199,6 @@
    "tag_v": 2
   },
   {
-   "id": "9c28d554e6ea",
-   "title": "USPS plans 11% fuel surcharge on package deliveries",
-   "link": "https://www.cnbc.com/2026/11/12/usps-fuel-surcharge-package-deliveries.html",
-   "summary": "The United States Postal Service is seeking ​approval for an 11% price hike on priority mail and package deliveries due to rising fuel costs.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T16:17:47+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "e770877f94f9",
    "title": "Noteworthy ETF Inflows: IYW, AAPL, NVDA, MSFT",
    "link": "https://www.nasdaq.com/articles/noteworthy-etf-inflows-iyw-aapl-nvda-msft",
@@ -3890,6 +3932,20 @@
    "tag_v": 2
   },
   {
+   "id": "7eb283edbe12",
+   "title": "Sheinbaum rebuts Trump, says no migrant caravans have reached US border since January 2025 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVFV6R293QUppNWZnZGhyRWx5RTh5TXo1M0llRGJYVHFwT1dWSTNsT3U1cHpRejhBYVA5RFpWalFublBpb1BEaVRrUkZfRk9nRUVvXzhvRDNxeFkwOHhJOXV5RTlnMTk2RWVvVVlTT1M4WThFTnQxVU5YdWpINUsyZEFNTlJXa2FRRHBlaWl3?oc=5",
+   "summary": "Sheinbaum rebuts Trump, says no migrant caravans have reached US border since January 2025&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-12T16:05:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "d706d180288f",
    "title": "Stellantis Global Supplier Conference Honors 61 Suppliers Worldwide for Excellence in Performance, Quality, Innovation and Value Creation | STLA Stock News",
    "link": "https://www.stocktitan.net/news/STLA/stellantis-global-supplier-conference-honors-61-suppliers-worldwide-fg9ah1r397ha.html",
@@ -4208,20 +4264,6 @@
     "SWKS"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6cdafe9bb41a",
-   "title": "Longtime NBC Sports announcer Dan Hicks dies at 64 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOei01RDZ1ZHBmNk9zdGFRenRwaHFSdU1ZMDNfblItUUR6dGxsbEJVQmZYYkNNZzI0b09nWXNjS1VWZ1dQN1BjZlFjMnU2VE1ONF9BaTVIc0tXNW9zMXBPT0ZQak9jQ2ROcW1QZ3Z3ZjNoM0NIVzF3aGNnYkE2MllVQW5JVUE?oc=5",
-   "summary": "Longtime NBC Sports announcer Dan Hicks dies at 64&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-12T15:53:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -9015,50 +9057,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "014c5d5b32a4",
-   "title": "JXG FIRST HALF YEAR FINANCIAL REPORT 2026 | JXG Stock News",
-   "link": "https://www.stocktitan.net/news/JXG/jxg-first-half-year-financial-report-oy06jg89zbu1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T14:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "43c6fc9b4840",
-   "title": "Dauch to Present at the Barclays 17th Annual Global Automotive and Mobility Tech Conference on November 18 | DCH Stock News",
-   "link": "https://www.stocktitan.net/news/DCH/dauch-to-present-at-the-barclays-17th-annual-global-automotive-and-bupj2w60eklt.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T14:00:00+00:00",
-   "tickers": [
-    "BCS"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "afe91f94592b",
-   "title": "Sunlife's Jessica Tan to participate in fireside chat at the Desjardins Toronto Conference | SLF Stock News",
-   "link": "https://www.stocktitan.net/news/SLF/sunlife-s-jessica-tan-to-participate-in-fireside-chat-at-the-eedybozoo2dc.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T14:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9236,7 +9234,6 @@
   "ADBE": "Photoshop",
   "APP": "AppLovin",
   "AVGO": "Broadcom",
-  "BCS": "Barclays",
   "BP": "BP p.l.c",
   "CCL": "Carnival",
   "DOCS": "Doximity",
