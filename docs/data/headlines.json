@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T16:51:09.094378+00:00",
+ "generated": "2026-11-12T16:56:31.205441+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,11 +11,70 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-12T16:47:03+00:00",
+   "published": "2026-11-12T16:52:09+00:00",
    "tickers": [
     "NVDA"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "12d1782ffd64",
+   "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
+   "summary": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-12T16:52:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "30ea87b3d7cd",
+   "title": "Corn Showing Fractional Thursday AM losses",
+   "link": "https://www.nasdaq.com/articles/corn-showing-fractional-thursday-am-losses",
+   "summary": "Corn prices are fractionally lower so far on Thursday morning. Futures closed the Wednesday session with contracts down 1 to 4 ½ cents across the board. Open interest rose 14,976 on Wednesday, as December was down 28,588 contracts, rolling to March (+27,066). The CmdtyView national average Cash Corn price was...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T16:49:11+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a5fb07853bf9",
+   "title": "Corn Eases Back Lower on Wednesday",
+   "link": "https://www.nasdaq.com/articles/corn-eases-back-lower-wednesday",
+   "summary": "Corn futures closed the Wednesday session with contracts down 1 to 4 ½ cents across the board. The CmdtyView national average Cash Corn price was up 1/2 cents at $4.15. The weekly EIA report is delayed until Thursday due to the Veterans Day federal holiday. Most are looking for ethanol...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T16:49:11+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "437022aa54c8",
+   "title": "Stock Indexes Finish Sharply Higher on AI Demand Optimism",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-higher-ai-demand-optimism",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +1.31% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.49%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +2.28%. December E-mini S&amp;P futures (ESZ26 ) rose +1.33%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T16:49:11+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -99,6 +158,51 @@
    "domain": "thestreet.com",
    "published": "2026-11-12T16:40:55+00:00",
    "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3ad532086b73",
+   "title": "Cotton Slips Lower on Wednesday",
+   "link": "https://www.nasdaq.com/articles/cotton-slips-lower-wednesday-2",
+   "summary": "Cotton prices are up 14 to 21 points so far on Thursday morning. Futures closed Wednesday with contracts steady to 17 points lower at the close. Crude oil was up 38 cents per barrel on the session, with the US dollar index $0.705 higher. Export Sales data will be pushed...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T16:39:27+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "2b28132f40bd",
+   "title": "Wheat Fading Back Lower on Thursday Morning",
+   "link": "https://www.nasdaq.com/articles/wheat-fading-back-lower-thursday-morning",
+   "summary": "Wheat is down 3 to 6 cents in early Thursday trade. The wheat complex posted strength across the three exchanges on Wednesday. Chicago SRW futures posted session gains of 6 ¾ to 10 ½ cents on Wednesday. Open interest suggested a rotation on ownership, up just 172 contracts on Wednesday...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T16:39:27+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "abe412bfe7f0",
+   "title": "Stocks Slip as Nvidia Weakness Weighs on Chipmakers and AI Stocks",
+   "link": "https://www.nasdaq.com/articles/stocks-slip-nvidia-weakness-weighs-chipmakers-and-ai-stocks",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.29% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.13%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.44%. December E-mini S&amp;P futures (ESZ26 ) are down -0.20%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T16:39:27+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -368,6 +472,48 @@
    "tag_v": 2
   },
   {
+   "id": "d185f70be1b4",
+   "title": "Soybeans Extend Gains to Wednesday",
+   "link": "https://www.nasdaq.com/articles/soybeans-extend-gains-wednesday",
+   "summary": "Soybeans closed the Wednesday session with contracts 2 ½ to 4 ½ cents higher for the 2026/27 crop, with the 2027/28 contracts down 1 ¾ to 7 cents. The cmdtyView national average Cash Bean price was up 2 3/4 cents at $11.69 3/4. Soymeal futures were down $3.70 in the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T16:31:57+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "86ecf88a29d8",
+   "title": "Wheat Posts Midweek Gains",
+   "link": "https://www.nasdaq.com/articles/wheat-posts-midweek-gains",
+   "summary": "The wheat complex posted strength across the three exchanges on Wednesday. Chicago SRW futures posted session gains of 6 ¾ to 10 ½ cents on Wednesday. KC HRW futures were 5 ¼ to 8 ½ cents higher across the board. MPLS spring wheat saw 3 to 7 ¼ cent gains...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T16:31:57+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "8ab7ed6a3e3a",
+   "title": "Wheat Posting Gains at Midday",
+   "link": "https://www.nasdaq.com/articles/wheat-posting-gains-midday",
+   "summary": "The wheat complex is trading with strength across the three exchanges on Tuesday. Chicago SRW futures are 5 to 7 cents higher on the session. KC HRW futures are trading with 5 to 8 cent gains at midday. MPLS spring wheat is up 6 to 7 cents across the front...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T16:31:56+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "2c58fb813b35",
    "title": "Xunlei (XNET) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/xunlei-xnet-q3-2026-earnings-call-transcript",
@@ -508,25 +654,11 @@
    "tag_v": 2
   },
   {
-   "id": "12d1782ffd64",
-   "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself - AP News",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
-   "summary": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-12T16:30:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "6fff77b358d7",
    "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Silvercorp Metals Inc. - SVM",
    "link": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-silvercorp-metals-inc---svm-302937555.html",
    "summary": "NEW YORK, Nov. 12, 2026 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Silvercorp Metals Inc. (\"Silvercorp\" or the \"Company\") (NYSE: SVM). Such investors are advised to contact Danielle Peyton at newaction@pomlaw.com or 646-581-9980, ext. 7980. The...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-11-12T16:30:00+00:00",
@@ -671,20 +803,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3ad532086b73",
-   "title": "Cotton Slips Lower on Wednesday",
-   "link": "https://www.nasdaq.com/articles/cotton-slips-lower-wednesday-2",
-   "summary": "Cotton prices are up 14 to 21 points so far on Thursday morning. Futures closed Wednesday with contracts steady to 17 points lower at the close. Crude oil was up 38 cents per barrel on the session, with the US dollar index $0.705 higher. Export Sales data will be pushed...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T16:20:44+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -869,6 +987,20 @@
    "category": "stocks",
    "domain": "stocktitan.net",
    "published": "2026-11-12T16:17:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "69bbbf50fa4b",
+   "title": "TCAF, CNP, COR, ASND: ETF Outflow Alert",
+   "link": "https://www.nasdaq.com/articles/tcaf-cnp-cor-asnd-etf-outflow-alert",
+   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the T. Rowe Price Capital Appreciation Equity ETF (Symbol: TCAF) where we have detected an approximate $454.6 million dollar outflow -- that's a 5.6% de",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T16:16:52+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -1078,34 +1210,6 @@
    "tag_v": 2
   },
   {
-   "id": "d185f70be1b4",
-   "title": "Soybeans Extend Gains to Wednesday",
-   "link": "https://www.nasdaq.com/articles/soybeans-extend-gains-wednesday",
-   "summary": "Soybeans closed the Wednesday session with contracts 2 ½ to 4 ½ cents higher for the 2026/27 crop, with the 2027/28 contracts down 1 ¾ to 7 cents. The cmdtyView national average Cash Bean price was up 2 3/4 cents at $11.69 3/4. Soymeal futures were down $3.70 in the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T16:14:08+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "30ea87b3d7cd",
-   "title": "Corn Showing Fractional Thursday AM losses",
-   "link": "https://www.nasdaq.com/articles/corn-showing-fractional-thursday-am-losses",
-   "summary": "Corn prices are fractionally lower so far on Thursday morning. Futures closed the Wednesday session with contracts down 1 to 4 ½ cents across the board. Open interest rose 14,976 on Wednesday, as December was down 28,588 contracts, rolling to March (+27,066). The CmdtyView national average Cash Corn price was...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T16:14:08+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "4c82ba2d0202",
    "title": "Soybeans Pulling Back on Thursday",
    "link": "https://www.nasdaq.com/articles/soybeans-pulling-back-thursday-1",
@@ -1117,20 +1221,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a5fb07853bf9",
-   "title": "Corn Eases Back Lower on Wednesday",
-   "link": "https://www.nasdaq.com/articles/corn-eases-back-lower-wednesday",
-   "summary": "Corn futures closed the Wednesday session with contracts down 1 to 4 ½ cents across the board. The CmdtyView national average Cash Corn price was up 1/2 cents at $4.15. The weekly EIA report is delayed until Thursday due to the Veterans Day federal holiday. Most are looking for ethanol...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T16:14:07+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1599,20 +1689,6 @@
    "tag_v": 2
   },
   {
-   "id": "2b28132f40bd",
-   "title": "Wheat Fading Back Lower on Thursday Morning",
-   "link": "https://www.nasdaq.com/articles/wheat-fading-back-lower-thursday-morning",
-   "summary": "Wheat is down 3 to 6 cents in early Thursday trade. The wheat complex posted strength across the three exchanges on Wednesday. Chicago SRW futures posted session gains of 6 ¾ to 10 ½ cents on Wednesday. Open interest suggested a rotation on ownership, up just 172 contracts on Wednesday...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T16:01:47+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "ccbc3a1db4f7",
    "title": "TD Cowen Names Top Hardlines Specialty Retail Stocks Amid Inflation",
    "link": "https://www.investing.com/news/stock-market-news/td-cowen-names-top-hardlines-specialty-retail-stocks-amid-inflation-5022633",
@@ -1838,23 +1914,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "437022aa54c8",
-   "title": "Stock Indexes Finish Sharply Higher on AI Demand Optimism",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-higher-ai-demand-optimism",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +1.31% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.49%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +2.28%. December E-mini S&amp;P futures (ESZ26 ) rose +1.33%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T15:55:23+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3008,6 +3067,20 @@
    "source": "CBS MoneyWatch",
    "category": "macro",
    "domain": "cbsnews.com",
+   "published": "2026-11-12T15:21:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "10a489131dff",
+   "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzFHTDVxdmV4UmtBc0dUOW55RkZrcWZzYnZmdXpaa3dLbmpKNWd6RTJPbUxjT0xYU0p5SE0yTHFyY1RnSkotZUtZV1pDbmx2bjNYeU5kNWF4eGpCb2RsRnYzUnZ1OUZGUzFwamY5V25hQk9WVVhPZS1rMjIzcmljYmViWUVDazQwNkJ6QWE0YzFGYjk4SEJR?oc=5",
+   "summary": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
    "published": "2026-11-12T15:21:00+00:00",
    "tickers": [],
    "type": "macro",
@@ -8957,76 +9030,6 @@
    "published": "2026-11-12T13:24:53+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "253945d68a8b",
-   "title": "Earnings call transcript: ADNOC Logistics & Services posts record Q3 2026",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-adnoc-logistics--services-posts-record-q3-2026-93CH-5021808",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-12T13:24:34+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c76b869194a9",
-   "title": "Canton Strategic Holdings Issues Statement on MEV and Onchain Transaction Front-Running | CNTN Stock News",
-   "link": "https://www.stocktitan.net/news/CNTN/canton-strategic-holdings-issues-statement-on-mev-and-onchain-t22l5obvpknb.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T13:24:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0b6f0e1d82e1",
-   "title": "Aurora Mobile Q3 2026 slides: record revenue, profit streak continues",
-   "link": "https://www.investing.com/news/company-news/aurora-mobile-q3-2026-slides-record-revenue-profit-streak-continues-93CH-5021794",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-12T13:23:05+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a01cf7db231f",
-   "title": "Nexxen International DRC earnings missed by $0.03, revenue topped estimates",
-   "link": "https://www.investing.com/news/earnings/nexxen-international-drc-earnings-missed-by-003-revenue-topped-estimates-5021793",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-12T13:23:02+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "00302d728c14",
-   "title": "Foresight Successfully Completes Integration into Modular Autonomous Ground Vehicles for Defense Applications | FRSX Stock News",
-   "link": "https://www.stocktitan.net/news/FRSX/foresight-successfully-completes-integration-into-modular-autonomous-i8g4v7kt2uu2.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T13:23:00+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   }
