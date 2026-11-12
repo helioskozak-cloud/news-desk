@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T01:56:23.525118+00:00",
+ "generated": "2026-11-12T02:01:11.428589+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -233,6 +233,22 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "f8065f608b3c",
+   "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+   "link": "https://www.cnbc.com/2026/11/11/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+   "summary": "CoreWeave shares soared on the back of its earnings report, reviving the tech trade and lifting the Nasdaq Composite on Wednesday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T01:14:32+00:00",
+   "tickers": [
+    "CRWV"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8814,22 +8830,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "75bf03b5e9e3",
-   "title": "Jim Cramer's plan for our Intel position. Plus, a rotation loser to buy here",
-   "link": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramers-plan-for-our-intel-position-plus-a-rotation-loser-to-buy-here.html",
-   "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-11T16:59:10+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8955,7 +8955,6 @@
   "ORCL": "Oracle",
   "PFE": "Pfizer",
   "SRE": "Sempra",
-  "INTC": "Intel",
   "MAS": "Masco",
   "XPEV": "XPeng",
   "IEX": "IDEX",
