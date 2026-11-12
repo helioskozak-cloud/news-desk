@@ -1,19 +1,94 @@
 {
- "generated": "2026-11-12T17:36:25.241696+00:00",
+ "generated": "2026-11-12T17:41:02.993942+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
-   "id": "9e4879b83e7a",
-   "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
-   "link": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
-   "summary": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
+   "id": "ba5300576de2",
+   "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+   "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T17:39:54+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aeda1bc8c925",
+   "title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
+   "link": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
+   "summary": "Jensen Huang’s $140 billion stake in Nvidia is largely held by trusts co-owned with his wife, Lori, creating added uncertainty for his financial future.",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-12T17:34:59+00:00",
+   "published": "2026-11-12T17:39:28+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "8bfe73875a10",
+   "title": "Allstate announces quarterly dividend payable Jan. 4, 2027 | ALL Stock News",
+   "link": "https://www.stocktitan.net/news/ALL/allstate-announces-quarterly-dividend-payable-jan-4-hh7dpxbd1d9z.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-12T17:38:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "77aaf9613703",
+   "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+   "link": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+   "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T17:37:36+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "20f6460ef453",
+   "title": "Stephanie Link is getting out of Nvidia and buying this chipmaker instead",
+   "link": "https://www.cnbc.com/2026/11/12/stephanie-link-sold-nvidia-and-is-buying-this-chipmaker-instead.html",
+   "summary": "Investor Stephanie Link told CNBC on Thursday that she sold her shares of Nvidia and is scooping up Micron Technology instead.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T17:37:22+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3f89198e919e",
+   "title": "Adobe makes major change creators will notice as Citi flags ‘hard reset’",
+   "link": "https://www.thestreet.com/investing/adobe-stock-citi-creators-opening-apps-to-ai-agents",
+   "summary": "Adobe is opening its flagship apps to outside agents, but Wall Street worries the payoff could take time.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-12T17:37:00+00:00",
+   "tickers": [
+    "ADBE",
+    "C"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -25,10 +100,24 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-12T17:34:07+00:00",
+   "published": "2026-11-12T17:35:54+00:00",
    "tickers": [
     "NVDA"
    ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9e4879b83e7a",
+   "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+   "link": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
+   "summary": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-12T17:34:59+00:00",
+   "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -89,6 +178,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "12d1782ffd64",
+   "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
+   "summary": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-12T17:31:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1341,20 +1444,6 @@
    "tag_v": 2
   },
   {
-   "id": "12d1782ffd64",
-   "title": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself - AP News",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
-   "summary": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-12T17:01:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "57983d24f37e",
    "title": "S&P 500 Movers: SMCI, HONIV",
    "link": "https://www.nasdaq.com/articles/sp-500-movers-smci-honiv-0",
@@ -1899,20 +1988,6 @@
    "tag_v": 2
   },
   {
-   "id": "77aaf9613703",
-   "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-   "link": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
-   "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T16:43:33+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "519db66dbdf5",
    "title": "Children’s Place closing all its stores in Chapter 11 bankruptcy",
    "link": "https://www.thestreet.com/retail/childrens-place-closing-all-its-stores-in-chapter-11-bankruptcy",
@@ -1924,20 +1999,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "ba5300576de2",
-   "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-   "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T16:43:06+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2411,6 +2472,20 @@
    "published": "2026-11-12T16:31:21+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c2dcddcfa037",
+   "title": "Who is Colette Kress, Nvidia's interim CEO? Longtime exec takes top spot after Jensen Huang resigns - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUJpQ1liNWFtSE1mbDNEelBsWnRaUG1kM1doMGlIR2I4MEpKcXVsb2JpYWlVU2JUSkc5Y2tvUjBQdC1OTzB4Ny1pZ29oell4RXZ0dHlfVHhaR3JScFhIckx6VkxaQ0xMU2pubmg1SG9PV3F1Y1JkUDNOTkdSMEtoaHB2REFWelRxOExGaFBJSVhnNzUwRWFtVA?oc=5",
+   "summary": "Who is Colette Kress, Nvidia's interim CEO? Longtime exec takes top spot after Jensen Huang resigns&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-12T16:31:04+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3726,20 +3801,6 @@
    "tag_v": 2
   },
   {
-   "id": "c2dcddcfa037",
-   "title": "Who is Colette Kress, Nvidia's interim CEO? Longtime exec takes top spot after Jensen Huang resigns - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUJpQ1liNWFtSE1mbDNEelBsWnRaUG1kM1doMGlIR2I4MEpKcXVsb2JpYWlVU2JUSkc5Y2tvUjBQdC1OTzB4Ny1pZ29oell4RXZ0dHlfVHhaR3JScFhIckx6VkxaQ0xMU2pubmg1SG9PV3F1Y1JkUDNOTkdSMEtoaHB2REFWelRxOExGaFBJSVhnNzUwRWFtVA?oc=5",
-   "summary": "Who is Colette Kress, Nvidia's interim CEO? Longtime exec takes top spot after Jensen Huang resigns&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-12T15:55:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "2a0264332fa9",
    "title": "U.S. Stocks Regain Ground After Initial Slump But Remain Mostly Lower",
    "link": "https://www.nasdaq.com/articles/us-stocks-regain-ground-after-initial-slump-remain-mostly-lower",
@@ -4819,6 +4880,20 @@
    "tag_v": 2
   },
   {
+   "id": "10a489131dff",
+   "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzFHTDVxdmV4UmtBc0dUOW55RkZrcWZzYnZmdXpaa3dLbmpKNWd6RTJPbUxjT0xYU0p5SE0yTHFyY1RnSkotZUtZV1pDbmx2bjNYeU5kNWF4eGpCb2RsRnYzUnZ1OUZGUzFwamY5V25hQk9WVVhPZS1rMjIzcmljYmViWUVDazQwNkJ6QWE0YzFGYjk4SEJR?oc=5",
+   "summary": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-12T15:21:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "904743eb8765",
    "title": "Toncoin (TON) Price Prediction 2025, 2026, 2027-2030",
    "link": "https://www.benzinga.com/money/toncoin-ton-price-prediction",
@@ -5719,20 +5794,6 @@
    ],
    "type": "guidance",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "aeda1bc8c925",
-   "title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
-   "link": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
-   "summary": "Jensen Huang’s $140 billion stake in Nvidia is largely held by trusts co-owned with his wife, Lori, creating added uncertainty for his financial future.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T15:03:59+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8998,66 +9059,6 @@
    "type": "markets",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "45ba2c7f9878",
-   "title": "QTREX Quantum Reaffirms October 1 Disclosure and Expects Multiple Additional Commercial Agreements in the Fourth Quarter of 2026 | IINN Stock News",
-   "link": "https://www.stocktitan.net/news/IINN/qtrex-quantum-reaffirms-october-1-disclosure-and-expects-multiple-a7n6nqkmhu2v.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T13:57:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "32012726c5d6",
-   "title": "Definity Leverages Guidewire ProNavigator to Deliver Real-Time AI Assistance to Brokers in Vyne",
-   "link": "https://www.prnewswire.com/news-releases/definity-leverages-guidewire-pronavigator-to-deliver-real-time-ai-assistance-to-brokers-in-vyne-302937757.html",
-   "summary": "WATERLOO, ON and SAN MATEO, Calif., Nov. 12, 2026 /PRNewswire/ -- Definity Financial Corporation (\"Definity\") (TSX: DFY) and Guidewire (NYSE: GWRE) today announced that Definity will enable Guidewire ProNavigator to give its broker partners AI-powered assistance within Vyne, Definity's...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T13:55:00+00:00",
-   "tickers": [
-    "GWRE"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "bc837d05eaa7",
-   "title": "M-tron Industries, Inc. Reports Third Quarter 2026 Results | MPTI Stock News",
-   "link": "https://www.stocktitan.net/news/MPTI/m-tron-industries-inc-reports-third-quarter-2026-27khrlmg3nqm.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T13:55:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6bbd9ba1f8f3",
-   "title": "Definity Leverages Guidewire ProNavigator to Deliver Real-Time AI Assistance to Brokers in Vyne | GWRE Stock News",
-   "link": "https://www.stocktitan.net/news/GWRE/definity-leverages-guidewire-pro-navigator-to-deliver-real-time-ai-ylotai6dl7ld.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-12T13:55:00+00:00",
-   "tickers": [
-    "GWRE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9121,7 +9122,6 @@
   "MGA": "Magna International",
   "ROK": "Rockwell Automation",
   "BRK-A": "Berkshire Hathaway",
-  "GWRE": "Guidewire Software",
   "LUV": "Southwest Airlines",
   "MLI": "Mueller Industries",
   "MRVL": "Marvell Technology",
@@ -9234,6 +9234,7 @@
   "OGN": "Organon &",
   "SBUX": "Starbucks",
   "TE": "T1 Energy",
+  "ADBE": "Photoshop",
   "APP": "AppLovin",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
