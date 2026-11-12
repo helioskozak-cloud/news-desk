@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T06:51:31.368473+00:00",
+ "generated": "2026-11-12T06:55:53.096343+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -5454,20 +5454,6 @@
    "tag_v": 2
   },
   {
-   "id": "c0ff129d2834",
-   "title": "Trump administration wants to sell public lands and shrink the federal estate - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUN4NGFwX1R2R1UtWEkwSlZFMGM2d1p5OHZRenhEdTF2Nm0tdWthZHlDZDM3QkJOVWFqQTVWeUlTajZNTFVIQXZYTzVrMTdIcGNEWW5iX0hWa3EwdFJpZVo3N1hjOEFnZWItYXc3akFwUkRIUXYzbUJiUFYtM0k4WlRSdnNWTXBTZHNMNXA4cTZUNjFZaXVn?oc=5",
-   "summary": "Trump administration wants to sell public lands and shrink the federal estate&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-11T21:54:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "2e6886393436",
    "title": "Digi International falls on weak revenue guidance despite Q4 beat",
    "link": "https://www.investing.com/news/stock-market-news/digi-international-falls-on-weak-revenue-guidance-despite-q4-beat-5019921",
@@ -8781,6 +8767,23 @@
    "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
+  },
+  {
+   "id": "62ae00c4563b",
+   "title": "XPeng's flying car chief says Musk's Roadster is just hopping",
+   "link": "https://www.thestreet.com/automotive/xpengs-flying-car-chief-says-musks-roadster-is-just-hopping",
+   "summary": "Elon Musk wowed a Texas crowd last month. The head of XPeng's flying car unit was not impressed.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-11T19:17:00+00:00",
+   "tickers": [
+    "TSLA",
+    "XPEV"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8889,6 +8892,7 @@
   "SRE": "Sempra",
   "AFL": "Aflac",
   "CIEN": "Ciena",
+  "XPEV": "XPeng",
   "IEX": "IDEX",
   "MSCI": "MSCI",
   "OLN": "Olin",
