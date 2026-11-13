@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-13T11:21:38.071985+00:00",
+ "generated": "2026-11-13T11:26:30.451741+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4337bd6f78f3",
+   "title": "Widespread Microsoft outage continues, taking down Outlook and other 365 services",
+   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+   "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T11:23:26+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "e96f41951f4d",
    "title": "Rezolute Announces Pricing of Approximately $100 Million Underwritten Offering of Common Stock and Pre-Funded Warrants | RZLT Stock News",
@@ -516,22 +532,6 @@
    "tag_v": 2
   },
   {
-   "id": "4337bd6f78f3",
-   "title": "Widespread Microsoft outage continues, taking down Outlook and other 365 services",
-   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-   "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T10:55:10+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "guidance",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "262471155aee",
    "title": "KeyBanc raises Wolverine World Wide stock price target on earnings beat",
    "link": "https://www.investing.com/news/analyst-ratings/keybanc-raises-wolverine-world-wide-stock-price-target-on-earnings-beat-93CH-5024747",
@@ -569,6 +569,22 @@
    "domain": "cbsnews.com",
    "published": "2026-11-13T10:52:16+00:00",
    "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "55028d1e3a9e",
+   "title": "Microsoft struggles to restore services as outage hits companies and governments worldwide - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5",
+   "summary": "Microsoft struggles to restore services as outage hits companies and governments worldwide&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-13T10:51:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
@@ -3967,22 +3983,6 @@
    "published": "2026-11-13T07:47:19+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "55028d1e3a9e",
-   "title": "Microsoft outage hits companies and governments worldwide as it struggles to restore services - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWY5MnRXdTRCaHJZT3BKRWs4TzQxdUR3NEZzQ3ZsTmxCLW9wcFJJMzFaLS1pVGhtb3BabWdhN3pvQUhPU0FNbDJMV2I0a3BWaGtuQWpxVVNxRTZIUGhNS3c5RG5oVHNGaGg3XzJDdkE1V0RBWFJKVzMzTFVnN3otc0xZNWhCWWducmlfS2dXZ3lGcUtWcFJQWkxnejVqWjFxTlZKbENDamJfUQ?oc=5",
-   "summary": "Microsoft outage hits companies and governments worldwide as it struggles to restore services&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-13T07:47:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
