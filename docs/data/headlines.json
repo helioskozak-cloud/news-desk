@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-13T09:36:29.943258+00:00",
+ "generated": "2026-11-13T09:41:10.315424+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4337bd6f78f3",
+   "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+   "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T09:38:44+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "6150fc3242e1",
    "title": "DATA.BET Now Powers Sportradar's Unified Odds Feed | SRAD Stock News",
@@ -16,6 +32,20 @@
     "SRAD"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c1853174497d",
+   "title": "Fed Chair Kevin Warsh's Central Bank Reforms Come With a Significant Unintended Consequence",
+   "link": "https://www.nasdaq.com/articles/fed-chair-kevin-warshs-central-bank-reforms-come-significant-unintended-consequence",
+   "summary": "Key PointsThis has been a year of significant changes and milestones, headlined by Kevin Warsh&rsquo;s swearing-in as the new Fed chair on May 22.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T09:26:01+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -219,6 +249,20 @@
    "tag_v": 2
   },
   {
+   "id": "5556d6e14967",
+   "title": "European Shares Edge Lower On Fed Rate Hike Concerns",
+   "link": "https://www.nasdaq.com/articles/european-shares-edge-lower-fed-rate-hike-concerns",
+   "summary": "(RTTNews) - European shares dipped from record highs on Friday amid uncertainty over the outlook for the AI trade and growing expectations for a Federal Reserve rate hike in December.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T09:16:57+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "4f8a4de648a6",
    "title": "ZINZINO AB (PUBL.): Nomination committee of Zinzino AB (publ) for the Annual General Meeting 2027",
    "link": "https://www.prnewswire.com/news-releases/zinzino-ab-publ-nomination-committee-of-zinzino-ab-publ-for-the-annual-general-meeting-2027-302938826.html",
@@ -304,6 +348,38 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5284c83f8dc6",
+   "title": "Micron Stock Has Moved 5% or More on a Third of Its Trading Days Since October. Here's How Much of It I'd Own.",
+   "link": "https://www.nasdaq.com/articles/micron-stock-has-moved-5-or-more-third-its-trading-days-october-heres-how-much-it-id-own",
+   "summary": "Key PointsMicron shares moved 5% or more on 10 of the 30 trading days from Oct. 1 through Nov. 11.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T09:07:02+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "40f864024cb7",
+   "title": "Bloom Energy vs. Constellation Energy: On-Site Power or Grid Power, Which Wins the Data Center?",
+   "link": "https://www.nasdaq.com/articles/bloom-energy-vs-constellation-energy-site-power-or-grid-power-which-wins-data-center",
+   "summary": "Key PointsModern AI data centers require a lot of electricity, driving strong demand for both on-site and grid-scale power solutions.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T09:06:00+00:00",
+   "tickers": [
+    "CEG"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1351,22 +1427,6 @@
    "published": "2026-11-13T08:11:22+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4337bd6f78f3",
-   "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-   "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T08:05:49+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "guidance",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8632,64 +8692,6 @@
    "type": "analyst",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "0d66779c3749",
-   "title": "Amarc to Participate in Consolidation of Aurora West Through Aurora Minerals LTD | AXREF Stock News",
-   "link": "https://www.stocktitan.net/news/AXREF/amarc-to-participate-in-consolidation-of-aurora-west-through-aurora-nfutw2jtuo3b.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T01:10:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f2f362c94886",
-   "title": "David Kustoff sells Warner Bros. Discovery stock",
-   "link": "https://www.investing.com/news/company-news/david-kustoff-sells-warner-bros-discovery-stock-93CH-5023864",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-13T01:06:01+00:00",
-   "tickers": [
-    "WBD"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b87a4c2b6bb2",
-   "title": "Appili Therapeutics Reports Financial and Operational Results for Second Quarter of Fiscal Year 2027 | APLIF Stock News",
-   "link": "https://www.stocktitan.net/news/APLIF/appili-therapeutics-reports-financial-and-operational-results-for-1lq0ilhzbli1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T01:05:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e79f4fdf63cb",
-   "title": "China Stock Market Poised To Open To The Downside",
-   "link": "https://www.nasdaq.com/articles/china-stock-market-poised-open-downside",
-   "summary": "(RTTNews) - The China stock market on Thursday wrote a finish to the three-day winning streak in which it had added almost 30 points or 0.8 percent. The Shanghai Composite Index now sits just above the 3,655-point plateau and it's tipped to see continued consolidation on Friday.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T01:03:17+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8712,6 +8714,7 @@
   "WBD": "Warner Bros. Discovery",
   "NTLA": "Intellia Therapeutics",
   "ALHC": "Alignment Healthcare",
+  "CEG": "Constellation Energy",
   "LW": "Lamb Weston Holdings",
   "MOD": "Modine Manufacturing",
   "PCOR": "Procore Technologies",
@@ -8726,6 +8729,7 @@
   "LUV": "Southwest Airlines",
   "AMAT": "Applied Materials",
   "MTDR": "Matador Resources",
+  "MU": "Micron Technology",
   "QUBT": "Quantum Computing",
   "VISN": "Vistance Networks",
   "WU": "The Western Union",
