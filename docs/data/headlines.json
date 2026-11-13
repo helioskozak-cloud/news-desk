@@ -1,8 +1,89 @@
 {
- "generated": "2026-11-13T02:41:37.126948+00:00",
+ "generated": "2026-11-13T02:46:36.571980+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f30f0012add1",
+   "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+   "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+   "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T02:43:26+00:00",
+   "tickers": [
+    "MSFT",
+    "ORCL",
+    "AMZN"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "4c9b3d4ca4c6",
+   "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Caterpillar Inc. - CAT",
+   "link": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-caterpillar-inc---cat-302938461.html",
+   "summary": "NEW YORK, Nov. 12, 2026 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Caterpillar Inc. (\"Caterpillar\" or the \"Company\") (NYSE: CAT). Such investors are advised to contact Danielle Peyton at newaction@pomlaw.com or 646-581-9980, ext. 7980. The...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-13T02:42:00+00:00",
+   "tickers": [
+    "CAT"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "02399a1ff9d8",
+   "title": "Soybeans Retreat on Thursday, Despite Export Business",
+   "link": "https://www.nasdaq.com/articles/soybeans-retreat-thursday-despite-export-business",
+   "summary": "Soybeans closed Thursday trade with contracts 11 to 14 ½ cents lower, as November was the exception ahead of Friday’s expiration, down 2 cents. The cmdtyView national average Cash Bean price was down 8 1/2 cents at $11.60 1/4. Soymeal futures were down $2.20 to $4.30, with Soy Oil futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T02:39:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d8d6ab226ee8",
+   "title": "Stocks Settle Lower on Nvidia Rout and Higher Crude and Bond Yields",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-lower-nvidia-rout-and-higher-crude-and-bond-yields",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.35% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.30%. December E-mini S&amp;P futures (ESZ26 ) fell -0.33%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T02:38:59+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "18b899788007",
+   "title": "Sugar Prices Tumble with the Brazilian Real",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-tumble-brazilian-real",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.26 (-1.41%) on Thursday, and December London ICE white sugar #5 (SWZ26 ) closed down -1.70 (-0.33%). Sugar prices retreated on Thursday, with NY sugar just above Tuesday’s 6-week low. Weakness in the Brazilian real (^USDBRL ) is weighing on sugar...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T02:32:38+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "c06dcbb065b3",
    "title": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
@@ -438,20 +519,6 @@
    "tag_v": 2
   },
   {
-   "id": "02399a1ff9d8",
-   "title": "Soybeans Retreat on Thursday, Despite Export Business",
-   "link": "https://www.nasdaq.com/articles/soybeans-retreat-thursday-despite-export-business",
-   "summary": "Soybeans closed Thursday trade with contracts 11 to 14 ½ cents lower, as November was the exception ahead of Friday’s expiration, down 2 cents. The cmdtyView national average Cash Bean price was down 8 1/2 cents at $11.60 1/4. Soymeal futures were down $2.20 to $4.30, with Soy Oil futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T02:11:12+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "54e29286ddce",
    "title": "Cotton Firms into Thursday’s Close",
    "link": "https://www.nasdaq.com/articles/cotton-firms-thursdays-close-0",
@@ -493,22 +560,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "18b899788007",
-   "title": "Sugar Prices Tumble with the Brazilian Real",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-tumble-brazilian-real",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.26 (-1.41%) on Thursday, and December London ICE white sugar #5 (SWZ26 ) closed down -1.70 (-0.33%). Sugar prices retreated on Thursday, with NY sugar just above Tuesday’s 6-week low. Weakness in the Brazilian real (^USDBRL ) is weighing on sugar...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T02:11:11+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1203,23 +1254,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d8d6ab226ee8",
-   "title": "Stocks Settle Lower on Nvidia Rout and Higher Crude and Bond Yields",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-lower-nvidia-rout-and-higher-crude-and-bond-yields",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.35% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.30%. December E-mini S&amp;P futures (ESZ26 ) fell -0.33%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T01:35:05+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -4808,24 +4842,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f30f0012add1",
-   "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
-   "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-   "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T22:48:26+00:00",
-   "tickers": [
-    "MSFT",
-    "ORCL",
-    "AMZN"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8722,22 +8738,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "e7811e34aac1",
-   "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
-   "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-   "summary": "Cisco is trying to become a bigger player in AI after missing out on the early years of the boom.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T21:20:35+00:00",
-   "tickers": [
-    "CSCO"
-   ],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8828,6 +8828,7 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
+  "CAT": "Caterpillar",
   "DINO": "HF Sinclair",
   "MORN": "Morningstar",
   "NU": "Nu Holdings",
