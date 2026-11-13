@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-13T10:06:35.004974+00:00",
+ "generated": "2026-11-13T10:11:37.090838+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4337bd6f78f3",
+   "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+   "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T10:10:11+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "d10f9cd92b74",
    "title": "Yakult lowers full-year guidance, announces buyback plan",
@@ -424,22 +440,6 @@
     "KDP"
    ],
    "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4337bd6f78f3",
-   "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-   "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T09:38:44+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "guidance",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7514,6 +7514,20 @@
    "tag_v": 2
   },
   {
+   "id": "de453ecc7075",
+   "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+   "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+   "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T02:56:35+00:00",
+   "tickers": [],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "e9184e128405",
    "title": "Japanese yen tests 160 again, drawing intervention threats",
    "link": "https://www.investing.com/news/forex-news/japanese-yen-tests-160-again-drawing-intervention-threats-5023989",
@@ -8300,6 +8314,20 @@
    "tag_v": 2
   },
   {
+   "id": "cbf75c52e935",
+   "title": "Cargo ship strikes bridge between New Jersey and Philadelphia, causing traffic backup - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm5nWm82TS1KTXAwZHpRNzVVMUhwSk5IcG9LMm41ODlNMU1VVVViaXluQU5XaXNFSUh5V2RHejQ3QlVsVHFLckl0VVpMSXpJU2E0X3NycE9oMHBDY2E4UlhJSkVCWFhock5iMDhRX2swa3BGWnpXb0tZbXA3UmpzMnVfQ1NrTmdoLVRjTDlLQUpBQUtHbVM3UlIzRU5ZMmJhNkE?oc=5",
+   "summary": "Cargo ship strikes bridge between New Jersey and Philadelphia, causing traffic backup&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-13T02:05:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b37efb6c816c",
    "title": "Avatar Capital Partners closes on $156m for Japan fund",
    "link": "https://www.investing.com/news/company-news/avatar-capital-partners-closes-on-156m-for-japan-fund-93CH-5023934",
@@ -8668,36 +8696,6 @@
    "type": "macro",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "2d42d93dff36",
-   "title": "PyroGenesis Canada Inc. Q3 Sales Decline",
-   "link": "https://www.nasdaq.com/articles/pyrogenesis-canada-inc-q3-sales-decline",
-   "summary": "(RTTNews) - PyroGenesis Canada Inc. (PYR.TO) released Loss for third quarter of -C$3.25 million",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T01:46:53+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7e929a6312bb",
-   "title": "Vistance Networks director Claudius Watts buys $831,060 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/vistance-networks-director-claudius-watts-buys-831060-in-stock-93CH-5023912",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-13T01:46:01+00:00",
-   "tickers": [
-    "VISN"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8737,7 +8735,6 @@
   "MTDR": "Matador Resources",
   "MU": "Micron Technology",
   "QUBT": "Quantum Computing",
-  "VISN": "Vistance Networks",
   "WU": "The Western Union",
   "BMO": "Bank of Montreal",
   "COST": "Costco Wholesale",
