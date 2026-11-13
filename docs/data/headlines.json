@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-13T11:31:35.373894+00:00",
+ "generated": "2026-11-13T11:35:59.291190+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c0f23144ea4a",
+   "title": "Microsoft battling major worldwide outage",
+   "link": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
+   "summary": "A Microsoft outage involving services like Outlook and Teams has dragged on for hours and impacted many users, companies and some government operations.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-13T11:32:34+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "35731170dda6",
+   "title": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
+   "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+   "summary": "The most recent inflation reading for October was higher than expected, coming in at 0.4% for the month.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T11:31:10+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "a77bd1f366ce",
    "title": "Walmart's bestselling $270 movable kitchen island with locking wheels is 41% off",
@@ -94,6 +124,92 @@
     "NOV"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7135346d1e11",
+   "title": "Americas Gold and Silver Reports Financial Results for Q3 2026 Following Record Quarterly Silver Production Driven by Strong Operational Results at Cosalá | USAS Stock News",
+   "link": "https://www.stocktitan.net/news/USAS/americas-gold-and-silver-reports-financial-results-for-q3-2026-tija3rdmzwcl.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-13T11:30:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "037acc8f67ec",
+   "title": "Immunic, Inc. Reports Third Quarter 2026 Financial Results and Provides Corporate Update | IMUX Stock News",
+   "link": "https://www.stocktitan.net/news/IMUX/immunic-inc-reports-third-quarter-2026-financial-results-and-sin4js39z4ti.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-13T11:30:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c975cff8dbbf",
+   "title": "Vertiv Declares Quarterly Dividend | VRT Stock News",
+   "link": "https://www.stocktitan.net/news/VRT/vertiv-declares-quarterly-s2kpkg6vslok.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-13T11:30:00+00:00",
+   "tickers": [
+    "VRT"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1fdc7e4ceb8c",
+   "title": "Xenia Hotels & Resorts Declares Dividend For Fourth Quarter 2026 | XHR Stock News",
+   "link": "https://www.stocktitan.net/news/XHR/xenia-hotels-resorts-declares-dividend-for-fourth-quarter-apydhjeychy3.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-13T11:30:00+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "3b1d6371fe43",
+   "title": "SBC Medical Group Holdings Reports Third Quarter 2026 Financial Results | SBC Stock News",
+   "link": "https://www.stocktitan.net/news/SBC/sbc-medical-group-holdings-reports-third-quarter-2026-financial-hrg05wk1nj9q.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-13T11:30:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "506e41e76fce",
+   "title": "SBC Medical Announces Capital and Business Alliance with NeuroBrain Dynamics to Advance Clinic Profitability Through Medical AI | SBC Stock News",
+   "link": "https://www.stocktitan.net/news/SBC/sbc-medical-announces-capital-and-business-alliance-with-neuro-brain-5kto6uqgnl7j.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-13T11:30:00+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1719,22 +1835,6 @@
    "tag_v": 2
   },
   {
-   "id": "c0f23144ea4a",
-   "title": "Microsoft battling major worldwide outage",
-   "link": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
-   "summary": "A Microsoft outage involving services like Outlook and Teams has dragged on for hours and impacted many users, companies and some government operations as the tech giant struggles to fix the issue.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-13T10:15:44+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "c47b89a10009",
    "title": "Here's How Much You Can Expect $10,000 in Corning (GLW) Stock to Pay You in Dividends Next Year",
    "link": "https://www.nasdaq.com/articles/heres-how-much-you-can-expect-10000-corning-glw-stock-pay-you-dividends-next-year",
@@ -2062,20 +2162,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "35731170dda6",
-   "title": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
-   "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-   "summary": "The most recent inflation reading for October had beaten expectations, coming in at 0.4% for the month.",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T10:00:26+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8639,92 +8725,6 @@
    "tickers": [
     "LUNR"
    ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c28f65a8f005",
-   "title": "Arcos Dorados Holdings Inc. Reports Nine-Month 2026 Financial Results, Redeems 2029 Notes, and Approves $25,000 Share Repurchase Program",
-   "link": "https://www.nasdaq.com/articles/arcos-dorados-holdings-inc-reports-nine-month-2026-financial-results-redeems-2029-notes",
-   "summary": "Arcos Dorados Holdings Inc. reported its unaudited financial results for the nine-month period ended September 30, 2026. Total revenues were 3,849,621 thousand US dollars, compared to 3,411,716 thousand US dollars in the nine-month period ended September 30, 2025. Net income attr",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T04:00:34+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "3a2330497290",
-   "title": "What we know after Jensen Huang resigns as Nvidia CEO - AP News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxqUTE0WWZBT2xoV25SLUQ2dFgyWkhwZFZyRnk3d1Fibmtrb0d4T3otSXNpNmZiTVh0QUdkWTA4UmQ3cXQyVVM3ODc0V0g4YnVVbDJRYWF4VXlaXzMzZnJWNi1UR3YyZHJGbWNzaVFab2tiM3N2RjFIOUtWcnlJVWtMVnhQNmhJeTdPajNVUXZfU2NzWkw0aGJLVFMtaGY3?oc=5",
-   "summary": "What we know after Jensen Huang resigns as Nvidia CEO&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-13T03:58:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "51af223b4ce6",
-   "title": "Asia stocks fall as tech recovery loses steam amid Nvidia leadership shock",
-   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-steady-as-chipmakers-rebound-after-nvidia-leadership-shock-5024055",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-13T03:55:20+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "a221401a4f5e",
-   "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2ZUZnZ6Z1JPSWM2YWVQel9wdC14MWloZ3FvX084b1RFcmRsUWhNZFJGSjZxd1hOOWZsb2ZEbTVqVWx3Zkl1T01TY21QUTRHVGRsUmF5bUx3UDctd0lJOGZlblJFYjRIMFEyNkZGTFl1R05jYS1PXzNXSWhIMHgtRDkwLU1XNTFUZmkxbGhoRS1CbWpKMHhfbFFWdlA?oc=5",
-   "summary": "Is Outlook down? Widespread outage hits Microsoft email and other apps&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-13T03:55:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "guidance",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "26a00290bcd4",
-   "title": "Altimmune, Inc. Reports Third Quarter 2026 Financial Results and $480 million in Cash and Investments",
-   "link": "https://www.nasdaq.com/articles/altimmune-inc-reports-third-quarter-2026-financial-results-and-480-million-cash-and",
-   "summary": "Altimmune, Inc. reported cash, cash equivalents and investments totaling $480 million as of September 30, 2026. The company reported a net loss of $31.6 million, or $0.15 net loss per share, for the three months ended September 30, 2026, compared to a net loss of $19.0 million, o",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T03:51:27+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "04bc972f0607",
-   "title": "Solo Brands, Inc. Announces Fiscal 2026 Third Quarter Results",
-   "link": "https://www.nasdaq.com/articles/solo-brands-inc-announces-fiscal-2026-third-quarter-results",
-   "summary": "Solo Brands, Inc. today announced its financial results for the three and nine months ended September 30, 2026. Net sales of $43.7 million decreased 17.6% from $53.0 million, primarily the result of the decrease in net sales across our reportable segments. Net loss attributable t",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T03:51:27+00:00",
-   "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
