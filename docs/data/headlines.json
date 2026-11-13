@@ -1,8 +1,100 @@
 {
- "generated": "2026-11-13T16:21:08.499117+00:00",
+ "generated": "2026-11-13T16:26:15.411611+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "890b1588e01f",
+   "title": "HSBC downgrades Nvidia, says stock to struggle until new CEO named",
+   "link": "https://www.cnbc.com/2026/11/13/hsbc-downgrades-nvidia-says-stock-to-struggle-until-new-ceo-named.html",
+   "summary": "Analyst Frank Lee downgraded the chipmaker to hold from buy.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T16:24:39+00:00",
+   "tickers": [
+    "HSBC"
+   ],
+   "type": "downgrade",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "f30f0012add1",
+   "title": "Cerebras pops after beating on quarterly revenue and announcing Microsoft deal",
+   "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+   "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T16:23:43+00:00",
+   "tickers": [
+    "MSFT",
+    "ORCL",
+    "AMZN"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8b7bec540367",
+   "title": "China warns against new U.S. export controls on computer chips",
+   "link": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
+   "summary": "China is warning the U.S. against putting new export controls on semiconductors in the wake of the scandal surrounding​ AI chip giant Nvidia and its now-former CEO Jensen Huang.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-13T16:23:15+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "233361c4801b",
+   "title": "Nasdaq falls on Friday as Nvidia keeps sliding, but major averages are up for week: Live updates",
+   "link": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+   "summary": "Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T16:23:09+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "6e91cd937baf",
+   "title": "Kelly® Expands Global Delivery Center in Bangalore | KELYA Stock News",
+   "link": "https://www.stocktitan.net/news/KELYA/kelly-expands-global-delivery-center-in-jf79gblvlg2f.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-13T16:23:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "14a170c73d0b",
+   "title": "CCTV4 - Ausstrahlung der Sonderberichterstattung APEC: Shenzhen Engagement",
+   "link": "https://www.prnewswire.com/news-releases/cctv4--ausstrahlung-der-sonderberichterstattung-apec-shenzhen-engagement-302939115.html",
+   "summary": "PEKING, 13. November 2026 /PRNewswire/ -- Der APEC-Gipfel 2026 findet am 18. und 19. November in Shenzhen in der Provinz Guangdong statt und zieht weltweite Aufmerksamkeit auf sich. Das Chinese Global Program Center der China Media Group hat ein Frontline-Studio in Shenzhen eingerichtet....",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-13T16:21:00+00:00",
+   "tickers": [
+    "FRO"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "cd760509c322",
    "title": "Why Is MP Materials Stock Gaining Friday?",
@@ -20,24 +112,6 @@
    "tag_v": 2
   },
   {
-   "id": "f30f0012add1",
-   "title": "Cerebras pops after beating on quarterly revenue and announcing Microsoft deal",
-   "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-   "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T16:17:18+00:00",
-   "tickers": [
-    "MSFT",
-    "ORCL",
-    "AMZN"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "e64392109e61",
    "title": "Stocks making the biggest moves Friday: Nvidia, Microsoft, Cerebras, Modine & more",
    "link": "https://www.cnbc.com/2026/11/13/stocks-moving-the-most-today-live-updates.html",
@@ -51,6 +125,20 @@
     "MOD"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8da865a1a5b6",
+   "title": "Dollar Rallies and Gold Slumps on the Prospects of Tighter Fed Policy",
+   "link": "https://www.nasdaq.com/articles/dollar-rallies-and-gold-slumps-prospects-tighter-fed-policy",
+   "summary": "The dollar index (DXY00 ) climbed to a fresh 1.5-year high on Thursday, finishing up +0.26%. The dollar erased overnight losses and turned higher Thursday after crude oil prices and T-note yields rose on hawkish comments from President Trump, who said the US doesn’t need a deal with Iran. The...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T16:15:16+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -811,20 +899,6 @@
    "tag_v": 2
   },
   {
-   "id": "233361c4801b",
-   "title": "Nasdaq falls on Friday as Nvidia keeps sliding, but major averages are up for week: Live updates",
-   "link": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-   "summary": "Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T15:55:08+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "92fad18ddfcb",
    "title": "Israel stocks lower at close of trade; TA 35 down 0.88%",
    "link": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-088-5026123",
@@ -908,22 +982,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "890b1588e01f",
-   "title": "HSBC downgrades Nvidia, says stock to struggle until new CEO named",
-   "link": "https://www.cnbc.com/2026/11/13/hsbc-downgrades-nvidia-says-stock-to-struggle-until-new-ceo-named.html",
-   "summary": "Analyst Frank Lee downgraded the chipmaker to hold from buy.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T15:53:43+00:00",
-   "tickers": [
-    "HSBC"
-   ],
-   "type": "downgrade",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2447,20 +2505,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "8b7bec540367",
-   "title": "China warns against new U.S. export controls on computer chips",
-   "link": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
-   "summary": "China is warning the U.S. against putting new export controls on semiconductors in the wake of the scandal surrounding​ AI chip giant Nvidia and its now-former CEO Jensen Huang.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-13T15:19:38+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8862,51 +8906,6 @@
     "IBKR",
     "PYPL"
    ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0b442005515e",
-   "title": "What's Going On With AMD Stock Today?",
-   "link": "https://www.benzinga.com/markets/tech/26/11/63234451/whats-going-on-with-amd-stock-today-2",
-   "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) is gaining attention as a stronger competitor in AI and data-center computing, with experts pointing to improving products, expanding share opportunities and a favorable supply position heading into 2027. The stock gained over 30% in the last 5 days while NVIDIA Corp. (NASDAQ:NVDA) lost 11% as it grappled with CEO Jensen Huang’s departure. Goldberg Sees AMD As A More Formidable Nvidia Rival Seaport Research’s Jay Goldberg told CNBC on Friday that AMD now",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-13T12:46:50+00:00",
-   "tickers": [
-    "AMD",
-    "NVDA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "bc6d1bb6f156",
-   "title": "Milestone Scientific Inc. Q3 Sales Decline",
-   "link": "https://www.nasdaq.com/articles/milestone-scientific-inc-q3-sales-decline",
-   "summary": "(RTTNews) - Milestone Scientific Inc. (MLSS) revealed Loss for third quarter of -$0.747 million",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T12:46:28+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d55e85066340",
-   "title": "I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him",
-   "link": "https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html",
-   "summary": "CNBC's Arjun Kharpal, who interviewed Huang just a few weeks ago at GTC Berlin, unpacks how everything came crashing down for the popular CEO.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T12:46:12+00:00",
-   "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
