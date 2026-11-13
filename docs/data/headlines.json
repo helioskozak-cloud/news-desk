@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-13T07:11:36.573689+00:00",
+ "generated": "2026-11-13T07:16:35.998199+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "73eae021949d",
+   "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+   "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+   "summary": "Singapore said it had barred Alice Huang from re-entering the country and that U.S. authorities had provided limited help with its yearlong investigations.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T07:15:01+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "7713d3ae83d6",
    "title": "Mizuho H1 profit jumps 47%; hikes annual outlook",
@@ -283,6 +297,22 @@
    "tag_v": 2
   },
   {
+   "id": "d0bc624525f9",
+   "title": "EnerSys (ENS) Q2 2027 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/enersys-ens-q2-2027-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T06:45:33+00:00",
+   "tickers": [
+    "ENS"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "64569c5d7bb1",
    "title": "Earnings call transcript: Power Mech Projects posts strong Q2 2026 growth",
    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-power-mech-projects-posts-strong-q2-2026-growth-93CH-5024244",
@@ -402,20 +432,6 @@
    ],
    "type": "upgrade",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "73eae021949d",
-   "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
-   "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
-   "summary": "Singapore said it had barred Alice Huang from re-entering the country and that U.S. authorities had provided limited help with its yearlong investigations.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T06:34:07+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8710,20 +8726,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "091c195207e3",
-   "title": "Imunon (IMNN) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/imunon-imnn-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T23:00:45+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8828,6 +8830,7 @@
   "TPR": "Tapestry",
   "VRSN": "VeriSign",
   "CVNA": "Carvana",
+  "ENS": "EnerSys",
   "HUBS": "HubSpot",
   "LGN": "Legence",
   "SNA": "Snap-on",
