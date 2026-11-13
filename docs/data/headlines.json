@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-13T13:56:27.214203+00:00",
+ "generated": "2026-11-13T14:01:13.333460+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c0f23144ea4a",
+   "title": "Microsoft battling major worldwide outage",
+   "link": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
+   "summary": "A Microsoft outage involving services like Outlook and Teams has dragged on for hours and impacted many users, companies and some government operations.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-13T14:00:12+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "294545f0c90e",
    "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
@@ -11,10 +27,40 @@
    "source": "CNBC Economy",
    "category": "macro",
    "domain": "cnbc.com",
-   "published": "2026-11-13T13:54:20+00:00",
+   "published": "2026-11-13T14:00:11+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "20d082652f58",
+   "title": "In HelloNation, Insurance Expert Ben Parsons Breaks Down What Affects Auto Insurance Costs",
+   "link": "https://www.prnewswire.com/news-releases/in-hellonation-insurance-expert-ben-parsons-breaks-down-what-affects-auto-insurance-costs-302936301.html",
+   "summary": "FORT COLLINS, Colo., Nov. 13, 2026 /PRNewswire/ -- Why do auto insurance costs vary so much for drivers in Fort Collins, and what can be done to manage them effectively? A HelloNation article featuring Insurance Agent Ben Parsons of Fort Collins, CO, provides a clear explanation of what...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-13T13:59:00+00:00",
+   "tickers": [
+    "PSN"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "35731170dda6",
+   "title": "Bessent: Treasury has wanted Megaspeed restrictions for months, but Commerce is in charge",
+   "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+   "summary": "",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T13:58:11+00:00",
+   "tickers": [],
+   "type": "legal",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -85,20 +131,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "35731170dda6",
-   "title": "Bessent: Treasury has wanted Megaspeed restrictions for months, but Commerce is in charge",
-   "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-   "summary": "",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T13:46:33+00:00",
-   "tickers": [],
-   "type": "legal",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -5540,22 +5572,6 @@
    "tag_v": 2
   },
   {
-   "id": "c0f23144ea4a",
-   "title": "Microsoft battling major worldwide outage",
-   "link": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
-   "summary": "A Microsoft outage involving services like Outlook and Teams has dragged on for hours and impacted many users, companies and some government operations.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-13T11:32:34+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "ce293db4d3b6",
    "title": "HawkEye 360 (HAWK) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/hawkeye-360-hawk-q3-2026-earnings-call-transcript",
@@ -8794,20 +8810,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "d8ff7d90fd50",
-   "title": "Earnings call transcript: Asmodee Q2 2026 sales jump 37% as margin target is hit",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-asmodee-q2-2026-sales-jump-37-as-margin-target-is-hit-93CH-5024538",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-13T08:58:49+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8917,6 +8919,7 @@
   "GLW": "Corning",
   "HUBS": "HubSpot",
   "MRK": "Merck &",
+  "PSN": "Parsons",
   "RVTY": "Revvity",
   "WMT": "Walmart",
   "SPY": "SPY ETF",
