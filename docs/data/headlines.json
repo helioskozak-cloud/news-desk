@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-13T00:01:44.757623+00:00",
+ "generated": "2026-11-13T00:06:00.593590+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "233361c4801b",
+   "title": "Stock futures rise after market dips amid Nvidia woes: Live updates",
+   "link": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+   "summary": "Major indexes sagged in Thursday's regular trading as Nvidia shares dove on Jensen Huang's exit.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T00:04:35+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "be30e99ff3e0",
    "title": "Rain Enhancement Technologies and Tensor Networks Enter into Definitive Merger Agreement for Strategic Business Combination | RAIN Stock News",
@@ -18,16 +32,32 @@
    "tag_v": 2
   },
   {
-   "id": "233361c4801b",
-   "title": "Stock futures inch higher after market dips amid Nvidia woes: Live updates",
-   "link": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-   "summary": "Major indices sagged in Thursday's regular trading as Nvidia shares dove on Jensen Huang's exit.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-12T23:53:33+00:00",
+   "id": "83509e085e43",
+   "title": "La American Cancer Society actualiza las guías para la detección del cáncer de próstata: entre los cambios más importantes se incluye la realización periódica de pruebas de PSA para hombres con riesgo promedio y alto",
+   "link": "https://www.prnewswire.com/news-releases/la-american-cancer-society-actualiza-las-guias-para-la-deteccion-del-cancer-de-prostata-entre-los-cambios-mas-importantes-se-incluye-la-realizacion-periodica-de-pruebas-de-psa-para-hombres-con-riesgo-promedio-y-alto-832666604.html",
+   "summary": "La guía tiene como objetivo reducir las muertes por cáncer de próstata, centrándose en estrategias de manejo clínico para disminuir los riesgos asociados con las pruebas de PSA Puntos clave: Se recomienda la detección periódica mediante una prueba basada en el PSA para detectar el cáncer...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-13T00:00:00+00:00",
+   "tickers": [
+    "PSA"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "af002f58120f",
+   "title": "Gold Springs Resource Corp. Files Q3 2026 Financial Statements and MD&A | GRCAF Stock News",
+   "link": "https://www.stocktitan.net/news/GRCAF/gold-springs-resource-corp-files-q3-2026-financial-statements-and-md-q16ffbj01mp4.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-13T00:00:00+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -500,6 +530,23 @@
    "tag_v": 2
   },
   {
+   "id": "d8d6ab226ee8",
+   "title": "Stocks Settle Lower on Nvidia Rout and Higher Crude and Bond Yields",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-lower-nvidia-rout-and-higher-crude-and-bond-yields",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.35% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.30%. December E-mini S&amp;P futures (ESZ26 ) fell -0.33%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T23:34:16+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "18b899788007",
    "title": "Sugar Prices Tumble with the Brazilian Real",
    "link": "https://www.nasdaq.com/articles/sugar-prices-tumble-brazilian-real",
@@ -548,6 +595,20 @@
    "title": "Soybeans Pulling Back on Thursday",
    "link": "https://www.nasdaq.com/articles/soybeans-pulling-back-thursday-2",
    "summary": "Soybeans are trading with losses of 10 to 12 cents across the front months on the session. The cmdtyView national average Cash Bean price is up 8 3/4 cents at $11.60 3/4. Soymeal futures are down $3 to $3.70, with Soy Oil futures 50 to 60 points lower. The USDA...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-12T23:34:15+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e47d854aabaf",
+   "title": "Cotton Posting Mixed Thursday Trade",
+   "link": "https://www.nasdaq.com/articles/cotton-posting-mixed-thursday-trade",
+   "summary": "Cotton futures are showing mixed trade on Thursday, with contracts up 8 points to 5 points lower. Crude oil is up $1.62 per barrel on the session, with the US dollar index $0.330 higher. Export Sales data will be pushed back to Friday due to the Wednesday Veterans Day federal...",
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
@@ -938,23 +999,6 @@
    "tag_v": 2
   },
   {
-   "id": "d8d6ab226ee8",
-   "title": "Stocks Settle Lower on Nvidia Rout and Higher Crude and Bond Yields",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-lower-nvidia-rout-and-higher-crude-and-bond-yields",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.35% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.30%. December E-mini S&amp;P futures (ESZ26 ) fell -0.33%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T23:18:51+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "69dea3517746",
    "title": "Corn Fading Back Lower on Thursday",
    "link": "https://www.nasdaq.com/articles/corn-fading-back-lower-thursday",
@@ -1007,20 +1051,6 @@
    "published": "2026-11-12T23:14:56+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e47d854aabaf",
-   "title": "Cotton Posting Mixed Thursday Trade",
-   "link": "https://www.nasdaq.com/articles/cotton-posting-mixed-thursday-trade",
-   "summary": "Cotton futures are showing mixed trade on Thursday, with contracts up 8 points to 5 points lower. Crude oil is up $1.62 per barrel on the session, with the US dollar index $0.330 higher. Export Sales data will be pushed back to Friday due to the Wednesday Veterans Day federal...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T23:14:38+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1209,6 +1239,20 @@
    "published": "2026-11-12T23:11:36+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ec9682245522",
+   "title": "Oklahoma man executed for killing of girlfriend’s husband, with a Texas lethal injection to follow - AP News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORXFXXzBQT0tMbmFaMTJZaUZLYm9OV0R3WFN6azdDV25nUVMyaExVOV9XSTU3TzVTNFpldHJMelpQUEI5QnQ5ZUNtRkkyeXR2dC1vYXFqSU8tOUNrYU1GbV9MZF9FM3d2MlA0c0FGV3BHTTJ4enlKTHRuYWZONWRTbENhRzBnQ2VXSzczbEdFV2plVXEyd0ZtaDA3akdnUQ?oc=5",
+   "summary": "Oklahoma man executed for killing of girlfriend’s husband, with a Texas lethal injection to follow&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-12T23:11:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2076,6 +2120,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "753fcdda8cd9",
+   "title": "The Jensen Huang Scandal & How to Spot a Honey Trap | Straight up with Kelly and Vlad",
+   "link": "https://www.cbsnews.com/video/jensen-huang-scandal-how-to-spot-honey-trap-straight-up-kelly-vlad/",
+   "summary": "A billionaire, affairs, and an alleged honey trap at the hands of the Chinese government. This week, Vlad and Kelly are going inside the world of honey traps, Romeos, and sexpionage. With former intelligence officer and historian, Mark Jacobson, and investigative journalist and author of \"The Game,\" Neil Strauss, they unpack how spies exploit attraction, ego, and emotions to get close to the world's most powerful people—and why sometimes the most dangerous secrets are spilled in pillow talk.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-12T22:38:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -3130,6 +3188,20 @@
    "published": "2026-11-12T22:07:00+00:00",
    "tickers": [],
    "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "468ae08e23bd",
+   "title": "Donald Trump Jr. exits advisory role at prediction market Kalshi - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOXpuNnVNZFlvZ25QR091QW1ZZ0ZCbDgxX0lROG9BNmxReTNVZEdqQTJtcVdwWmU5V2pSMUQwbE5GZXo5VURpcVJnbVFla3lObVN2VVR0MTczdXgtcFNqM2xvQ09XQ0xGUURET0RxRjNqTW5md0V3MWE0Mm9VdkJTeFlLMTBleEZqQzdkQXN0RFNHZGtKN0Vxa0hEV3lYMFpVcUc5cA?oc=5",
+   "summary": "Donald Trump Jr. exits advisory role at prediction market Kalshi&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-12T22:07:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8657,80 +8729,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "3a3dbd2a9af6",
-   "title": "Bullish Two Hundred Day Moving Average Cross - ATMP",
-   "link": "https://www.nasdaq.com/articles/bullish-two-hundred-day-moving-average-cross-atmp",
-   "summary": "In trading on Thursday, shares of the iPath Select MLP ETN ETF (Symbol: ATMP) crossed above their 200 day moving average of $34.84, changing hands as high as $35.02 per share. iPath Select MLP ETN shares are currently trading up about 1.1% on the day. The chart below shows the",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T20:56:37+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f965dfbd47cf",
-   "title": "Fidelity MSCI Materials Index (FMAT) Shares Cross Below 200 DMA",
-   "link": "https://www.nasdaq.com/articles/fidelity-msci-materials-index-fmat-shares-cross-below-200-dma",
-   "summary": "In trading on Thursday, shares of the Fidelity MSCI Materials Index ETF (Symbol: FMAT) crossed below their 200 day moving average of $58.86, changing hands as low as $58.73 per share. Fidelity MSCI Materials Index shares are currently trading down about 1.2% on the day. The ch",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T20:56:34+00:00",
-   "tickers": [
-    "MSCI"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "156aa482dab8",
-   "title": "Kanzhun is Oversold",
-   "link": "https://www.nasdaq.com/articles/kanzhun-oversold",
-   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics &mdash; strong fundamentals and a valuation that looks inexpensive.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T20:56:32+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "43cf120cce33",
-   "title": "Thursday 11/12 Insider Buying Report: HOS, MX",
-   "link": "https://www.nasdaq.com/articles/thursday-11-12-insider-buying-report-hos-mx",
-   "summary": "As the saying goes, there are many possible reasons for an insider to sell a stock, but only one reason to buy -- they expect to make money. So let's look at two noteworthy recent insider buys. At Hornbeck Offshore Services, a filing with the SEC revealed that on Wednesday, CE",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T20:55:26+00:00",
-   "tickers": [
-    "CE"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "85a1646e5b46",
-   "title": "Earnings call transcript: Banrisul Q3 2026 profit falls as credit costs bite",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-banrisul-q3-2026-profit-falls-as-credit-costs-bite-93CH-5023152",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-12T20:55:18+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8794,6 +8792,7 @@
   "VICI": "VICI Properties",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
+  "PSA": "Public Storage",
   "QBTS": "D-Wave Quantum",
   "TMC": "TMC the metals",
   "CSCO": "Cisco Systems",
