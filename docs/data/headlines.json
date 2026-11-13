@@ -1,8 +1,56 @@
 {
- "generated": "2026-11-13T17:51:19.297516+00:00",
+ "generated": "2026-11-13T17:56:12.022365+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0a37ccea2128",
+   "title": "APP 3-DAY DEADLINE ALERT: AppLovin Corporation Investors with Substantial Losses Encouraged to Contact Hagens Berman, Securities Class Action Pending",
+   "link": "https://www.prnewswire.com/news-releases/app-3-day-deadline-alert-applovin-corporation-investors-with-substantial-losses-encouraged-to-contact-hagens-berman-securities-class-action-pending-302939059.html",
+   "summary": "SAN FRANCISCO, Nov. 13, 2026 /PRNewswire/ -- Hagens Berman, a leading securities litigation law firm, is actively investigating alleged federal securities law violations by AppLovin Corporation (NASDAQ: APP) in a pending securities class action. The suit alleges AppLovin executive...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-13T17:53:00+00:00",
+   "tickers": [
+    "APP"
+   ],
+   "type": "press",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "4337bd6f78f3",
+   "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+   "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T17:52:30+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7f266fff5895",
+   "title": "BULL INVESTOR ALERT: Webull Investors with Substantial Losses Have Opportunity to Lead the BULL Securities Class Action",
+   "link": "https://www.prnewswire.com/news-releases/bull-investor-alert-webull-investors-with-substantial-losses-have-opportunity-to-lead-the-bull-securities-class-action-302939057.html",
+   "summary": "SAN FRANCISCO, Nov. 13, 2026 /PRNewswire/ -- On November 5, 2026, investors in Webull Corporation (NASDAQ: BULL) saw the price of their shares slide nearly 11% after FINRA announced that it fined the company $4.2 million \"for failing to implement reasonably designed programs for...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-13T17:51:00+00:00",
+   "tickers": [
+    "BULL"
+   ],
+   "type": "press",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "494c07abd364",
    "title": "Bitcoin Crashes to $68,000, but 'Real Test' Still Lies Ahead, Analyst Says",
@@ -1367,22 +1415,6 @@
    "published": "2026-11-13T16:50:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4337bd6f78f3",
-   "title": "Microsoft says email delivery and service availability 'improving' across more infrastructure",
-   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-   "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T16:49:13+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8883,36 +8915,6 @@
    "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "e84ff23da926",
-   "title": "Cinemark Declares Quarterly Cash Dividend of $0.09 | CNK Stock News",
-   "link": "https://www.stocktitan.net/news/CNK/cinemark-declares-quarterly-cash-dividend-of-0-u9sj947le4gp.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T13:30:00+00:00",
-   "tickers": [
-    "CNK"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d3b54ad34d56",
-   "title": "Xenetic Biosciences Reports Third Quarter 2026 Financial Results and Highlights Strategic Business Updates | XBIO Stock News",
-   "link": "https://www.stocktitan.net/news/XBIO/xenetic-biosciences-reports-third-quarter-2026-financial-results-and-m0ih9a4uzen9.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T13:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8969,7 +8971,6 @@
   "AMAT": "Applied Materials",
   "AU": "AngloGold Ashanti",
   "BURL": "Burlington Stores",
-  "CNK": "Cinemark Holdings",
   "CVLT": "Commvault Systems",
   "MU": "Micron Technology",
   "RIVN": "Rivian Automotive",
@@ -9048,6 +9049,7 @@
   "FRO": "Frontline",
   "NXT": "Nextpower",
   "OS": "OneStream",
+  "APP": "AppLovin",
   "AVGO": "Broadcom",
   "BLD": "TopBuild",
   "COHR": "Coherent",
@@ -9070,6 +9072,7 @@
   "WMT": "Walmart",
   "SPY": "SPY ETF",
   "ABNB": "Airbnb",
+  "BULL": "Webull",
   "CPRT": "Copart",
   "M": "Macy's",
   "ORCL": "Oracle",
