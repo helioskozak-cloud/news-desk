@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-13T19:31:16.794921+00:00",
+ "generated": "2026-11-13T19:36:01.941988+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "04ef55319a65",
+   "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
+   "link": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+   "summary": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T19:34:45+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "80fe6669dc93",
+   "title": "Supreme Court will hear Robinhood effort to toss IPO info omissions lawsuit",
+   "link": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
+   "summary": "The Trump administration had urged the Supreme Court to hear an appeal by Robinhood of a lower-court's decision to revive an investors' lawsuit over the IPO.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T19:33:26+00:00",
+   "tickers": [
+    "HOOD"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "ba2a881d92c1",
    "title": "Amazon is selling an ultra-slim MagSafe portable power bank charger for just $22",
@@ -37,31 +67,62 @@
    "tag_v": 2
   },
   {
-   "id": "80fe6669dc93",
-   "title": "Supreme Court will hear Robinhood effort to toss IPO info omissions lawsuit",
-   "link": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
-   "summary": "The Trump administration had urged the Supreme Court to hear an appeal by Robinhood of a lower-court's decision to revive an investors' lawsuit over the IPO.",
-   "source": "CNBC Top",
+   "id": "173818f847ab",
+   "title": "Dutch Bros vs. CAVA: Which Stock Is a Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/dutch-bros-vs-cava-which-stock-better-buy-2027",
+   "summary": "Key PointsDutch Bros maintains a massive footprint of 1,273 shops with a focus on high-growth drive-thru beverage service.",
+   "source": "NASDAQ Markets",
    "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T19:28:35+00:00",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T19:25:40+00:00",
    "tickers": [
-    "HOOD"
+    "BROS",
+    "CAVA"
    ],
-   "type": "legal",
-   "sentiment": "negative",
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
-   "id": "04ef55319a65",
-   "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
-   "link": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
-   "summary": "",
-   "source": "CNBC Top",
+   "id": "eb73b5534526",
+   "title": "Canadian Stocks Turning In Mixed Performance As Investors React To Earnings",
+   "link": "https://www.nasdaq.com/articles/canadian-stocks-turning-mixed-performance-investors-react-earnings",
+   "summary": "(RTTNews) - Canadian stocks are turning in a mixed performance on Friday with investors reacting to corporate earnings updates, and also weighing the potential impact of the resignation of Nvidia co-founder and CEO Jensen Huang on the tech sector.",
+   "source": "NASDAQ Markets",
    "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T19:26:09+00:00",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T19:20:51+00:00",
    "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a63953980d59",
+   "title": "Renasant: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/renasant-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsRenasant announced an agreement to acquire Commercial Bank and Trust for about $142 million.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T19:20:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ce7ff28bde57",
+   "title": "STAG: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/stag-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsData center leasing accounted for 26% of new operating leases.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T19:20:02+00:00",
+   "tickers": [
+    "STAG"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -1043,14 +1104,14 @@
    "title": "Friday 11/13 Insider Buying Report: BDSX, EQPT",
    "link": "https://www.nasdaq.com/articles/friday-11-13-insider-buying-report-bdsx-eqpt",
    "summary": "As the saying goes, there are many possible reasons for an insider to sell a stock, but only one reason to buy -- they expect to make money. So let's look at two noteworthy recent insider buys. At Biodesix, a filing with the SEC revealed that on Tuesday, Jack W. Schuler bough",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-13T18:33:57+00:00",
    "tickers": [
     "EQPT"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1059,14 +1120,14 @@
    "title": "Fortis's PREFERENCE SHARES, SERIES J About To Put More Money In Your Pocket",
    "link": "https://www.nasdaq.com/articles/fortiss-preference-shares-series-j-about-put-more-money-your-pocket",
    "summary": "On 11/17/26, Fortis Inc's CUMULATIVE REDEEMABLE FIRST PREFERENCE SHARES, SERIES J (TSX: FTS-PRJ.TO) will trade ex-dividend, for its quarterly dividend of $0.2969, payable on 12/1/26. As a percentage of FTS.PRJ's recent share price of $22.34, this dividend works out to approxima",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-13T18:32:35+00:00",
    "tickers": [
     "FTS"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1075,12 +1136,12 @@
    "title": "See Which Recent 13F Filers Hold BF",
    "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-bf-0",
    "summary": "At Holdings Channel, we have reviewed the latest batch of the 92 most recent 13F filings for the 09/30/2026 reporting period, and noticed that BF (Symbol: BF) was held by 47 of these funds. When hedge fund managers appear to be thinking alike, we find it is a good idea to take a",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-13T18:32:28+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1160,20 +1221,6 @@
    "published": "2026-11-13T18:29:49+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "01b9a0dc70a4",
-   "title": "2026 U.S. Senate Election Results - AP News",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-   "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-13T18:29:40+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1277,6 +1324,20 @@
    "published": "2026-11-13T18:21:54+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "027cbe5bc73e",
+   "title": "2026 U.S. House Election Results - AP News",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+   "summary": "2026 U.S. House Election Results&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-13T18:20:22+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2119,6 +2180,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "01b9a0dc70a4",
+   "title": "2026 U.S. Senate Election Results - AP News",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+   "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-13T17:53:32+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8905,80 +8980,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "315e570fdb88",
-   "title": "Goldman Sachs sees a new problem emerging for the Federal Reserve",
-   "link": "https://www.thestreet.com/fed/goldman-sachs-sees-a-new-problem-emerging-for-the-federal-reserve",
-   "summary": "The outlook for the U.S. economy is becoming harder for Wall Street to read.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-13T14:17:00+00:00",
-   "tickers": [
-    "GS"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "da8cbb69c8d7",
-   "title": "ADI Global Distribution: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/adi-global-distribution-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsThird-quarter revenue rose 9% year over year to $1.3 billion.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T14:16:29+00:00",
-   "tickers": [
-    "ADI"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "98349d8585c1",
-   "title": "Lifeward Reports Third Quarter 2026 Financial Results and Provides Business Update | LFWD Stock News",
-   "link": "https://www.stocktitan.net/news/LFWD/lifeward-reports-third-quarter-2026-financial-results-and-provides-cc5eo8ivavpd.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T14:16:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c02593bca858",
-   "title": "Why is Cineverse stock surging today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-cineverse-stock-surging-today-93CH-5025697",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-13T14:15:13+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "27a9e15e6934",
-   "title": "DFIN Named #1 Technology Company on Best Practice Institute's Most Loved Workplaces® by Industry List | DFIN Stock News",
-   "link": "https://www.stocktitan.net/news/DFIN/dfin-named-1-technology-company-on-best-practice-institute-s-most-zm1pi812osb6.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T14:15:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9064,6 +9065,7 @@
   "GFS": "GLOBALFOUNDRIES",
   "KRMN": "Karman Holdings",
   "PYPL": "PayPal Holdings",
+  "STAG": "STAG Industrial",
   "TDG": "TransDigm Group",
   "TEL": "TE Connectivity",
   "VIAV": "Viavi Solutions",
@@ -9103,6 +9105,8 @@
   "AZN": "AstraZeneca",
   "BA": "The Boeing",
   "BN": "Brookfield",
+  "BROS": "Dutch Bros",
+  "CAVA": "CAVA Group",
   "CMS": "CMS Energy",
   "CRM": "Salesforce",
   "DKNG": "DraftKings",
