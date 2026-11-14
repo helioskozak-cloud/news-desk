@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-14T09:31:26.113586+00:00",
+ "generated": "2026-11-14T09:35:59.144429+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "59a390299cc3",
+   "title": "Gator Capital Management acquires $82,690 in U S Global Investors stock",
+   "link": "https://www.investing.com/news/insider-trading-news/gator-capital-management-acquires-82690-in-u-s-global-investors-stock-93CH-5027256",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-14T09:31:00+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "314bd2c28eaf",
    "title": "U.S. flights resume after FAA ground stop, but travel chaos continues",
@@ -13,6 +27,22 @@
    "domain": "cnbc.com",
    "published": "2026-11-14T09:26:23+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "98ec71c156be",
+   "title": "Weyerhaeuser director Richard Beckwitt buys $306,600 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/weyerhaeuser-director-richard-beckwitt-buys-306600-in-shares-93CH-5027253",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-14T09:15:57+00:00",
+   "tickers": [
+    "WY"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -497,20 +527,6 @@
    "tag_v": 2
   },
   {
-   "id": "01b9a0dc70a4",
-   "title": "2026 U.S. Senate Election Results - AP News",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-   "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-14T07:32:40+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "c0f23144ea4a",
    "title": "Microsoft says it \"restored service\" after major worldwide outage",
    "link": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
@@ -705,6 +721,20 @@
    "published": "2026-11-14T07:16:16+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "01b9a0dc70a4",
+   "title": "2026 U.S. Senate Election Results - AP News",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+   "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-14T07:12:59+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8740,34 +8770,6 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "919cdd22af01",
-   "title": "Milestone Scientific (MLSS) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/milestone-scientific-mlss-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T20:43:26+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2c9b9dff1cf0",
-   "title": "Twenty One Capital (XXI) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/twenty-one-capital-xxi-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T20:43:26+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8847,6 +8849,7 @@
   "STT": "State Street",
   "TLN": "Talen Energy",
   "UBS": "UBS Group AG",
+  "WY": "Weyerhaeuser",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
