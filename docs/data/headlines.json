@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T22:56:31.391461+00:00",
+ "generated": "2026-11-14T23:01:40.064701+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,9 +11,41 @@
    "source": "AP Business",
    "category": "macro",
    "domain": "news.google.com",
-   "published": "2026-11-14T22:53:28+00:00",
+   "published": "2026-11-14T22:55:30+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f7a332b4ccc8",
+   "title": "Elon Musk's Tesla and SpaceX Lost More Than $420 Billion in Combined Market Value in Two Days After Democrats Swept the Midterms, With Investors Fearing New Congressional Probes. Here's Why That Political Risk Matters for Shareholders",
+   "link": "https://www.nasdaq.com/articles/elon-musks-tesla-and-spacex-lost-more-420-billion-combined-market-value-two-days-after",
+   "summary": "Key PointsTesla and SpaceX are both significantly exposed to regulatory risks.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T22:48:02+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c9d545dc9487",
+   "title": "DraftKings director Gregory Wendt buys $98,800 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/draftkings-director-gregory-wendt-buys-98800-in-shares-93CH-5027554",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-14T22:45:54+00:00",
+   "tickers": [
+    "DKNG"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -913,20 +945,6 @@
    "tag_v": 2
   },
   {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-14T19:42:03+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "46a7e6cffa5a",
    "title": "BorgWarner: 3 Key Takeaways for Long-Term Investors",
    "link": "https://www.nasdaq.com/articles/borgwarner-3-key-takeaways-long-term-investors",
@@ -1750,6 +1768,20 @@
     "C"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-14T17:50:02+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8873,36 +8905,6 @@
    "type": "macro",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "3eb98eef4ecf",
-   "title": "Bitcoin set for worst week since early June after more than 10% slide",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-below-70k-as-crypto-appetite-sours-5024070",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-13T23:10:07+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "5676141f5271",
-   "title": "Why Intel Stock Slumped Today",
-   "link": "https://www.nasdaq.com/articles/why-intel-stock-slumped-today-0",
-   "summary": "Key PointsJensen Huang's exit from Nvidia continued to roil the semiconductor industry.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T23:09:51+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9021,6 +9023,7 @@
   "BX": "Blackstone",
   "CMS": "CMS Energy",
   "CVS": "CVS Health",
+  "DKNG": "DraftKings",
   "F": "Ford Motor",
   "FICO": "Fair Isaac",
   "MA": "Mastercard",
