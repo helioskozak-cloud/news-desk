@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T01:51:33.006269+00:00",
+ "generated": "2026-11-14T01:56:21.165245+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,9 +11,39 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-14T01:44:39+00:00",
+   "published": "2026-11-14T01:54:38+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fe6fed460926",
+   "title": "LITEON présente ses innovations en matière d'IA du cloud à la périphérie et la plateforme NVIDIA MGX à l'electronica 2026",
+   "link": "https://www.prnewswire.com/news-releases/liteon-presente-ses-innovations-en-matiere-dia-du-cloud-a-la-peripherie-et-la-plateforme-nvidia-mgx-a-lelectronica-2026-302939461.html",
+   "summary": "MUNICH, 14 novembre 2026 /PRNewswire/ -- LITEON Technology (2301) présente ses capacités technologiques transversales à l'electronica 2026, qui se tient du 10 au 13 novembre à Munich, en Allemagne. Sous le thème « LITEON Powers AI », LITEON présente des technologies couvrant la puissance...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-14T01:49:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fa37ba2b9151",
+   "title": "Piper Sandler Initiates Coverage of Innio N.V. at Overweight",
+   "link": "https://www.nasdaq.com/articles/piper-sandler-initiates-coverage-innio-nv-overweight",
+   "summary": "Fintel reports that on November 13, 2026, Piper Sandler initiated coverage of Innio N.V. (NASDAQGS:INIO) (MUN:S0P) with a Overweight recommendation.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T01:42:30+00:00",
+   "tickers": [],
+   "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -45,6 +75,22 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4eba927209d3",
+   "title": "Loop Capital Upgrades Autodesk to Buy from Hold",
+   "link": "https://www.nasdaq.com/articles/loop-capital-upgrades-autodesk-buy-hold",
+   "summary": "Fintel reports that on November 13, 2026, Loop Capital upgraded their outlook for Autodesk (NASDAQGS:ADSK) (BMV:ADSK) from Hold to Buy.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T01:36:54+00:00",
+   "tickers": [
+    "ADSK"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8805,48 +8851,6 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "d7903a581102",
-   "title": "Lifeward earnings missed by $0.71, revenue fell short of estimates",
-   "link": "https://www.investing.com/news/earnings/lifeward-earnings-missed-by-071-revenue-fell-short-of-estimates-5026322",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-13T18:23:05+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "dd8ad20fdefd",
-   "title": "A Domestic Lithium Frontier: ELEKTROS Advances Review of Northern New York Opportunity | ELEK Stock News",
-   "link": "https://www.stocktitan.net/news/ELEK/a-domestic-lithium-frontier-elektros-advances-review-of-northern-new-2sv25teqqbng.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T18:23:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "949dab27513e",
-   "title": "Why HawkEye 360 Stock Took Flight Friday",
-   "link": "https://www.nasdaq.com/articles/why-hawkeye-360-stock-took-flight-friday",
-   "summary": "Key PointsHawkEye missed on earnings but beat on sales last night.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T18:21:54+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8964,6 +8968,7 @@
   "CRWV": "CoreWeave",
   "SNOW": "Snowflake",
   "ADBE": "Photoshop",
+  "ADSK": "Autodesk",
   "APP": "AppLovin",
   "AVGO": "Broadcom",
   "DASH": "DoorDash",
