@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-14T07:51:28.854359+00:00",
+ "generated": "2026-11-14T07:56:24.169552+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "9c37d3583e4e",
+   "title": "China, US discuss tariffs, farm trade at first trade council meeting",
+   "link": "https://www.investing.com/news/economy-news/china-us-discuss-tariffs-farm-trade-at-first-trade-council-meeting-5027183",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-14T07:42:25+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "56d99f48b4b1",
    "title": "Soybeans Post Friday Gains Following Export Announcements",
@@ -15,6 +29,22 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "b99138333a98",
+   "title": "Paylocity director Steven Sarowitz sells $72,016 in common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/paylocity-director-steven-sarowitz-sells-72016-in-common-stock-93CH-5027202",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-14T07:36:20+00:00",
+   "tickers": [
+    "PCTY"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -170,15 +200,17 @@
    "tag_v": 2
   },
   {
-   "id": "9c37d3583e4e",
-   "title": "China, US discuss tariffs, farm trade at first trade council meeting",
-   "link": "https://www.investing.com/news/economy-news/china-us-discuss-tariffs-farm-trade-at-first-trade-council-meeting-5027183",
+   "id": "49b8c1fb1dca",
+   "title": "Microsoft consumer services recover after global outage, enterprise issues persist",
+   "link": "https://www.investing.com/news/company-news/microsoft-consumer-services-recover-after-global-outage-enterprise-issues-persist-5027188",
    "summary": "",
    "source": "Investing.com",
    "category": "markets",
    "domain": "investing.com",
-   "published": "2026-11-14T07:18:19+00:00",
-   "tickers": [],
+   "published": "2026-11-14T07:21:16+00:00",
+   "tickers": [
+    "MSFT"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -4458,9 +4490,9 @@
   },
   {
    "id": "ea1ce27de33e",
-   "title": "The US flu season is off to a very early start. It’s targeting the South and West now - AP News",
+   "title": "The US flu season is off to a very early start. It’s hitting the South and West now - AP News",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0Mzb19TM0staG9UN2hSTUhhalFvTENMa3N1Z01KbW9BN0xNcFlyd3I4RnlaZE85NnVsTkViM0tTUHBYTTdQWXExaEJkcGdjUm56ZGJEbHRjZUZpSF8zc054U0JPRkJ2LXE4VXhVVWViMkFsdVdmazVTVDlwSkJndDVFdmltY0xubEpqR2ZGWHNYQQ?oc=5",
-   "summary": "The US flu season is off to a very early start. It’s targeting the South and West now&nbsp;&nbsp;AP News",
+   "summary": "The US flu season is off to a very early start. It’s hitting the South and West now&nbsp;&nbsp;AP News",
    "source": "AP Business",
    "category": "macro",
    "domain": "news.google.com",
@@ -8754,34 +8786,6 @@
    "type": "macro",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "998c6748e4c2",
-   "title": "Earnings call transcript: Infracommerce Q3 2026 loss narrows as stock falls near low",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-infracommerce-q3-2026-loss-narrows-as-stock-falls-near-low-93CH-5026431",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-13T20:20:17+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "12f1aa2959ea",
-   "title": "The Chances of a Federal Reserve December Rate Hike Are Climbing. Here’s What History Says About Stocks After the Fed Starts Raising Again.",
-   "link": "https://www.nasdaq.com/articles/chances-federal-reserve-december-rate-hike-are-climbing-heres-what-history-says-about",
-   "summary": "Key PointsBoth the October CPI report and the job report came in above expectations.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T20:20:02+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8830,6 +8834,7 @@
   "JNJ": "Johnson & Johnson",
   "MOH": "Molina Healthcare",
   "MU": "Micron Technology",
+  "PCTY": "Paylocity Holding",
   "SOFI": "SoFi Technologies",
   "TJX": "The TJX Companies",
   "TXN": "Texas Instruments",
