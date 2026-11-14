@@ -1,8 +1,40 @@
 {
- "generated": "2026-11-14T16:16:34.335031+00:00",
+ "generated": "2026-11-14T16:21:09.644743+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "314bd2c28eaf",
+   "title": "Ground stop followed updates to older L3Harris communication system: DOT’s Duffy",
+   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+   "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-14T16:18:49+00:00",
+   "tickers": [
+    "LHX"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "226193a1d549",
+   "title": "Taco Bell brings back a fan favorite, adds new $2.49 menu item",
+   "link": "https://www.thestreet.com/restaurants/taco-bell-brings-burrito-back-fan-favorite-new-2-49-menu-item",
+   "summary": "There is also a limited edition offeringNo",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-14T16:17:00+00:00",
+   "tickers": [
+    "YUM"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "027cbe5bc73e",
    "title": "2026 U.S. House Election Results - AP News",
@@ -14,22 +46,6 @@
    "published": "2026-11-14T16:11:58+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "314bd2c28eaf",
-   "title": "Ground stop followed updates to older L3Harris communication system: DOT’s Duffy",
-   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-   "summary": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-14T16:11:57+00:00",
-   "tickers": [
-    "LHX"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -117,6 +133,20 @@
    "published": "2026-11-14T15:55:18+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "01b9a0dc70a4",
+   "title": "2026 U.S. Senate Election Results - AP News",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+   "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-14T15:54:51+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -584,20 +614,6 @@
     "META"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "01b9a0dc70a4",
-   "title": "2026 U.S. Senate Election Results - AP News",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-   "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-14T14:59:06+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8825,20 +8841,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "afe98c5e9deb",
-   "title": "Life Time director John Danhakl sells $78.9M in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/life-time-director-john-danhakl-sells-789m-in-shares-93CH-5026580",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-13T21:35:08+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8934,6 +8936,7 @@
   "MORN": "Morningstar",
   "NU": "Nu Holdings",
   "RHI": "Robert Half",
+  "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
