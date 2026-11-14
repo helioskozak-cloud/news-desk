@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T21:51:03.503598+00:00",
+ "generated": "2026-11-14T21:56:31.224362+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,9 +11,67 @@
    "source": "AP Business",
    "category": "macro",
    "domain": "news.google.com",
-   "published": "2026-11-14T21:45:23+00:00",
+   "published": "2026-11-14T21:53:18+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ce29851e0c73",
+   "title": "SpaceX catches upper stage of Starship rocket in historic first",
+   "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+   "summary": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-14T21:52:01+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ccacb9d109ba",
+   "title": "U.S. flight disruptions persist as FAA probes L3Harris role in nationwide outage",
+   "link": "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-14T21:46:24+00:00",
+   "tickers": [
+    "LHX"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5ccd61fe9484",
+   "title": "Beta Technologies CEO Kyle Clark sells $563,525 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/beta-technologies-ceo-kyle-clark-sells-563525-in-stock-93CH-5027528",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-14T21:46:12+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "948f70fdce7f",
+   "title": "Investors Title Co director Elton Parker Jr. buys $133,000 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/investors-title-co-director-elton-parker-jr-buys-133000-in-shares-93CH-5027527",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-14T21:46:06+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -32,16 +90,16 @@
    "tag_v": 2
   },
   {
-   "id": "ce29851e0c73",
-   "title": "SpaceX catches upper stage of Starship rocket in historic first",
-   "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-   "summary": "Starship Test Flight 15 marks the first time Elon Musk's company has tried to catch both the booster and upper stage of the rocket.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-14T21:40:27+00:00",
+   "id": "e4c2ac2fa6c4",
+   "title": "Air travel issues to persist well into Sunday, officials say, with thousands of flights affected",
+   "link": "https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-14T21:42:40+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -57,6 +115,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "af0b3a84be34",
+   "title": "XRP Falls 10% In Rout",
+   "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-rout-5027520",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-14T21:34:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -729,36 +801,6 @@
     "FBT"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ccacb9d109ba",
-   "title": "U.S. flight disruptions persist as FAA probes L3Harris role in nationwide outage",
-   "link": "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-14T19:18:23+00:00",
-   "tickers": [
-    "LHX"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e4c2ac2fa6c4",
-   "title": "Thousands of US flights canceled, delayed as air travel system slowly recovers from shutdown",
-   "link": "https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-14T19:18:18+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1438,20 +1480,6 @@
     "CRDO"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-14T17:50:02+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2284,6 +2312,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-14T15:48:49+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8854,48 +8896,6 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cd75536080f8",
-   "title": "Velocity Announces Granting of Stock Options | VLCJF Stock News",
-   "link": "https://www.stocktitan.net/news/VLCJF/velocity-announces-granting-of-stock-yspguk8sf2rk.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T22:59:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7b9ffcbe3b1a",
-   "title": "AiRWA Inc. announces $1.5 million private placement of common stock",
-   "link": "https://www.investing.com/news/sec-filings/airwa-inc-announces-15-million-private-placement-of-common-stock-93CH-5026720",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-13T22:59:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c0f08a0a99d4",
-   "title": "Syntec Optics' (Nasdaq: OPTX) Q3 Hits All Time High Revenue, Profits Grow to Double-Digit Adj EBITDA, and Net Income Surges Positive | OPTX Stock News",
-   "link": "https://www.stocktitan.net/news/OPTX/syntec-optics-nasdaq-optx-q3-hits-all-time-high-revenue-profits-grow-ngu3fao350ht.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T22:57:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   }
  ],
