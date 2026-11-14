@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T21:31:03.619455+00:00",
+ "generated": "2026-11-14T21:36:05.877059+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,8 +11,24 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-14T21:30:12+00:00",
+   "published": "2026-11-14T21:33:09+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8b51e398485d",
+   "title": "Humana chief legal officer Joseph Ventura sells $2.38M in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/humana-chief-legal-officer-joseph-ventura-sells-238m-in-shares-93CH-5027519",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-14T21:31:06+00:00",
+   "tickers": [
+    "HUM"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -30,6 +46,20 @@
     "SPY",
     "QQQ"
    ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "42e81f3372ae",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5027517",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-14T21:20:03+00:00",
+   "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
@@ -535,6 +565,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8c6d9a1c82ba",
+   "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkpYTERHb0JjNU1SY2JyaXFOREZsSzkxdTZVa1lXVW1xVjV3ZTdqZmhFLXl3eExxZmdPY1B2dURNSmRwQVczSG81emlfOEh0NTNhcW44cVBFcU03Y2hadEFmVlRPVHR3bDRPX0p0ZF9JR3B3QkZQUnVxVUZfMXNsSzJDclQ1elJ6ZVBHZGZpRXVUM09KcmgxWmdHajA?oc=5",
+   "summary": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-14T19:34:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1354,20 +1398,6 @@
    "tag_v": 2
   },
   {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-14T17:50:02+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "a220594d2a40",
    "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
    "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
@@ -1957,6 +1987,20 @@
     "WMT"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-14T16:23:08+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8855,48 +8899,6 @@
    "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "833078114631",
-   "title": "Trinity Place Holdings Inc. Reports Third Quarter Financial Results | TPHS Stock News",
-   "link": "https://www.stocktitan.net/news/TPHS/trinity-place-holdings-inc-reports-third-quarter-financial-ustny4txm8rc.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T22:49:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8272724178c3",
-   "title": "In the rubble of a collapsed Brooklyn building, a moment of hope - AP News",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmxZWWZlTzJUZVFnZWx0RDZDeTdfYXpkZWR4SjVUUmNwT25oV1ZLcjlOcFJfVVE3Z2tVdWhsWU82QlBtWjRibDR0RWk0ak1qZVNGSFZ2bzJjOHRacmZjV08yaXhhSEtJYlVSR0pZSVZlelBaSGJwOC01RHVVajZZdE9sNGdRck1zdlc1N21jbFhPeVNGR3VaQ2EtUjI4d3V6YlBDWGdETU1uNVFibmtLSjhrUnBHUQ?oc=5",
-   "summary": "In the rubble of a collapsed Brooklyn building, a moment of hope&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-13T22:47:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5d408399c067",
-   "title": "OneSpan director Michael McConnell sells $466,210 in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/onespan-director-michael-mcconnell-sells-466210-in-company-stock-93CH-5026716",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-13T22:46:05+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9058,6 +9060,7 @@
   "AEE": "Ameren",
   "BULL": "Webull",
   "CHE": "Chemed",
+  "HUM": "Humana",
   "INCY": "Incyte",
   "MAT": "Mattel",
   "NTRA": "Natera",
