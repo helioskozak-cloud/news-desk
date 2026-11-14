@@ -1,8 +1,25 @@
 {
- "generated": "2026-11-14T12:36:17.991876+00:00",
+ "generated": "2026-11-14T12:41:23.662306+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "625cc154aadc",
+   "title": "Ford and GM face a $5,000 SUV challenge from Volkswagen",
+   "link": "https://www.thestreet.com/automotive/ford-gm-face-5000-suv-challenge-volkswagen-atlas",
+   "summary": "A rival's aggressive discount could give American families more negotiating power at dealerships.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-14T12:37:00+00:00",
+   "tickers": [
+    "F",
+    "GM"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "314bd2c28eaf",
    "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
@@ -448,6 +465,20 @@
    "tag_v": 2
   },
   {
+   "id": "cbecd991cb77",
+   "title": "California U.S. House Election Live Results 2026 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMkIybm5QSXNTdnRac3FBOEVCdUNDc0o1ZVZyd2M3eGg4bTFzbk03bG1OalZBdW05UjE2NG5sejluR1hUdElyOFNIOTRmSk5reGtkZHNmWGNHRi16Ylo4RUNieTVUa0pOd09qXy1iMlhsdUZfMTlHYm5YTQ?oc=5",
+   "summary": "California U.S. House Election Live Results 2026&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-14T10:39:47+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "401c42cacbcf",
    "title": "Netflix Stock Has Been Cut in Half Since Its 2025 Peak. History Says What Came After Its Last 5 Drops Like This.",
    "link": "https://www.nasdaq.com/articles/netflix-stock-has-been-cut-half-its-2025-peak-history-says-what-came-after-its-last-5",
@@ -490,20 +521,6 @@
     "ALGN"
    ],
    "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cbecd991cb77",
-   "title": "California U.S. House Election Live Results 2026 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMkIybm5QSXNTdnRac3FBOEVCdUNDc0o1ZVZyd2M3eGg4bTFzbk03bG1OalZBdW05UjE2NG5sejluR1hUdElyOFNIOTRmSk5reGtkZHNmWGNHRi16Ylo4RUNieTVUa0pOd09qXy1iMlhsdUZfMTlHYm5YTQ?oc=5",
-   "summary": "California U.S. House Election Live Results 2026&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-14T10:23:45+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8767,22 +8784,6 @@
    "type": "earnings",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "50040a982ddf",
-   "title": "Guardant Health Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) | GH Stock News",
-   "link": "https://www.stocktitan.net/news/GH/guardant-health-announces-inducement-grants-under-nasdaq-listing-w1gcgoc1sthn.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T21:05:00+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8842,7 +8843,7 @@
   "CHYM": "Chime Financial",
   "CRML": "Critical Metals",
   "DAL": "Delta Air Lines",
-  "GH": "Guardant Health",
+  "GM": "General Motors",
   "HLI": "Houlihan Lokey",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
@@ -8877,6 +8878,7 @@
   "BROS": "Dutch Bros",
   "CMS": "CMS Energy",
   "CVS": "CVS Health",
+  "F": "Ford Motor",
   "FICO": "Fair Isaac",
   "RKLB": "Rocket Lab",
   "MSFT": "Office 365",
