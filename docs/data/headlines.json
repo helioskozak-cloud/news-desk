@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-14T18:36:32.822646+00:00",
+ "generated": "2026-11-14T18:41:36.247491+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "6c55ebcec6f9",
+   "title": "Italy fines Meta $880 million over accessing users' photos",
+   "link": "https://www.cbsnews.com/news/italy-fines-meta-880-million-users-photos/",
+   "summary": "The country's data protection authority said Meta accessed users' photos without their \"specific\" consent.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-14T18:33:08+00:00",
+   "tickers": [
+    "META"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "314bd2c28eaf",
    "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
@@ -90,20 +106,67 @@
    "tag_v": 2
   },
   {
-   "id": "1e2bee54d017",
-   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&amp;P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "id": "b6f97fb5071f",
+   "title": "Got $1,000 to Invest? Skip Coca-Cola and PepsiCo. This 4%-Yielding Dividend Stock Could Deliver a 160% Return in 10 Years.",
+   "link": "https://www.nasdaq.com/articles/got-1000-invest-skip-coca-cola-and-pepsico-4-yielding-dividend-stock-could-deliver-160",
+   "summary": "Key PointsCoca-Cola and PepsiCo are dependable dividend stocks, but their valuations and modest earnings growth prospects could limit their long-term returns.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
-   "published": "2026-11-14T18:20:09+00:00",
+   "published": "2026-11-14T18:21:01+00:00",
    "tickers": [
-    "SPY",
-    "QQQ"
+    "KO",
+    "PEP"
    ],
-   "type": "stocks",
-   "sentiment": "negative",
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "840df8a8acf4",
+   "title": "Planet Labs PBC vs. Red Cat: Which Industrials Stock Is a Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/planet-labs-pbc-vs-red-cat-which-industrials-stock-better-buy-2027",
+   "summary": "Key PointsPlanet Labs PBC maintains a massive fleet of 200 satellites providing daily imaging of the entire land mass of Earth.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T18:20:02+00:00",
+   "tickers": [
+    "PL",
+    "RCAT"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a53ceb067edb",
+   "title": "Group 1 Automotive: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/group-1-automotive-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsGroup 1 acquired Hennessey Automotive, adding $1.7 billion in annualized revenue.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T18:20:02+00:00",
+   "tickers": [
+    "GPI"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "32546c594433",
+   "title": "NXP: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/nxp-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsSoftware-defined vehicle revenue exceeded $1.5 billion on an annualized basis.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T18:20:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -146,6 +209,23 @@
    "domain": "investing.com",
    "published": "2026-11-14T18:16:06+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bba07eae0862",
+   "title": "AT&T vs. Verizon: Which Telecom Stock Is a Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/att-vs-verizon-which-telecom-stock-better-buy-2027",
+   "summary": "Key PointsAT&amp;T has successfully pivoted back to its core wireless and fiber broadband businesses after delving into entertainment.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T18:14:09+00:00",
+   "tickers": [
+    "VZ",
+    "T"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -196,6 +276,23 @@
    "tag_v": 2
   },
   {
+   "id": "1e2bee54d017",
+   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&amp;P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T18:06:42+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "28dd3bead74a",
    "title": "SpaceX’s Starship nears end of 15th test flight and return-landing attempt",
    "link": "https://www.investing.com/news/commodities-news/spacexs-starship-nears-end-of-15th-test-flight-and-returnlanding-attempt-5027449",
@@ -204,6 +301,52 @@
    "category": "markets",
    "domain": "investing.com",
    "published": "2026-11-14T18:06:20+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "90e7e6cafa4a",
+   "title": "Netflix Engagement Growth Is Slowing. Here’s Why I Bought More Anyway.",
+   "link": "https://www.nasdaq.com/articles/netflix-engagement-growth-slowing-heres-why-i-bought-more-anyway",
+   "summary": "Key PointsSubscribers appear to be spending less time watching Netflix in 2026.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T18:05:01+00:00",
+   "tickers": [
+    "NFLX"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "227a7181fad3",
+   "title": "Alibaba vs. Uber Technologies: Which Tech Platform Stock Is a Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/alibaba-vs-uber-technologies-which-tech-platform-stock-better-buy-2027",
+   "summary": "Key PointsAlibaba maintains a massive e-commerce and cloud footprint in China while pivoting toward artificial intelligence services.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T18:02:02+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3cc19b109bc6",
+   "title": "Warren Buffett's Berkshire Compounded at More Than 19% a Year Over Six Decades, Nearly Double the S&P 500's 10% Return. Can Investors Still Apply That Playbook Today?",
+   "link": "https://www.nasdaq.com/articles/warren-buffetts-berkshire-compounded-more-19-year-over-six-decades-nearly-double-sp-500s-0",
+   "summary": "Key PointsBuffett&rsquo;s investment philosophy helped him crush the market between 1964 and 2024.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T17:54:02+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -8738,134 +8881,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "2b7924049f1d",
-   "title": "Battery Mineral Resources Announces Appointment of Interim Chief Financial Officer | BTRMF Stock News",
-   "link": "https://www.stocktitan.net/news/BTRMF/battery-mineral-resources-announces-appointment-of-interim-chief-2g5podo5v9f9.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T22:05:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1c83a06918b9",
-   "title": "Fly-E Group, Inc. Announces Second Quarter and First Half of Fiscal Year 2027 Financial Results | FLYE Stock News",
-   "link": "https://www.stocktitan.net/news/FLYE/fly-e-group-inc-announces-second-quarter-and-first-half-of-fiscal-98q6fymy579x.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T22:05:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6c0b004c88a9",
-   "title": "Cheetah Net Supply Chain Service Inc. Announces Third Quarter 2026 Results and Provides Corporate Update | CTNT Stock News",
-   "link": "https://www.stocktitan.net/news/CTNT/cheetah-net-supply-chain-service-inc-announces-third-quarter-2026-zl6t3acrds6l.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T22:05:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c6f1e3d99969",
-   "title": "Rep. Lauren Boebert of Colorado loses House seat to Democrat Eileen Laubacher - AP News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0tmaU5TZmF2N043T0Y5TWJneTZXMWRRX2hsdFBMRTc1YkphUzl5NGJfQ0JIeWdMR1BEamFkOWxiWlBXQWxSb2VVTzlPN0kxNmdjUURKUmRuUTR3M3JhaHVleVRPX2FMLXdMUHRtU0ktUlVkc21oVUdNUU5qR3IzV2lSRE1hS0FzUmxKNEZLZEVmNWFwSG1Daldpck9SUEtH?oc=5",
-   "summary": "Rep. Lauren Boebert of Colorado loses House seat to Democrat Eileen Laubacher&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-13T22:05:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d5dcd420b466",
-   "title": "Kolibri Global (KGEI) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/kolibri-global-kgei-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T22:04:42+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8b2bc2c7f5b0",
-   "title": "Stocks fall but Wall Street notches a winning week after several turbulent days - AP News",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYzlsZHFSZjhGdjdadGI2VjQ0bVdUX2VXT2lsTk1BQUlLejdKNS0zSEpvUTRhR0I1bjNGQXMtVUZJR1VvUm9jT2xaTXFkTGM1Q1laOHh0YkpONllQTVdTMHgtcUlqUGhFNGotUXRvV2VZT190c3NFWUpRanhyVDNWZ3lfRUgyS3dGZUZHNw?oc=5",
-   "summary": "Stocks fall but Wall Street notches a winning week after several turbulent days&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-13T22:04:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "faa0b39ecef4",
-   "title": "Digi Power X (DGXX) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/digi-power-x-dgxx-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T22:03:25+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d28f1b6d0af7",
-   "title": "Everyone is going to Nice (and not just in the summer)",
-   "link": "https://www.thestreet.com/travel/nice-france-tourism-year-round-travel",
-   "summary": "The capital of the French Riviera is riding an off-season peak of popularity.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-13T22:03:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "41025070e993",
-   "title": "Microsoft 365 Outage: CIOs Should Verify Recovery Across Workflows and Security Controls, Says Infotech",
-   "link": "https://www.prnewswire.com/news-releases/microsoft-365-outage-cios-should-verify-recovery-across-workflows-and-security-controls-says-infotech-805970926.html",
-   "summary": "The Microsoft 365 outage has shown how email dependencies can interrupt business processes even when other functions remain available. Infotech's research note, Microsoft 365 Outage: Immediate Actions for CIOs, covers recovery validation, potential security coverage gaps, and continuity...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-13T22:03:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8895,6 +8910,7 @@
   "CRVS": "Corvus Pharmaceuticals",
   "RNR": "RenaissanceRe Holdings",
   "VRTX": "Vertex Pharmaceuticals",
+  "VZ": "Verizon Communications",
   "WBD": "Warner Bros. Discovery",
   "LHX": "L3Harris Technologies",
   "MIRM": "Mirum Pharmaceuticals",
@@ -8909,6 +8925,7 @@
   "BBAI": "BigBear.ai Holdings",
   "BOOT": "Boot Barn Holdings",
   "BRK-A": "Berkshire Hathaway",
+  "GPI": "Group 1 Automotive",
   "LUV": "Southwest Airlines",
   "MRVL": "Marvell Technology",
   "PPTA": "Perpetua Resources",
@@ -8932,6 +8949,7 @@
   "ENSG": "The Ensign Group",
   "JPM": "JPMorgan Chase &",
   "NVO": "Novo Nordisk A/S",
+  "RCAT": "Red Cat Holdings",
   "THC": "Tenet Healthcare",
   "UPST": "Upstart Holdings",
   "ACHR": "Archer Aviation",
@@ -8943,6 +8961,7 @@
   "CRML": "Critical Metals",
   "DAL": "Delta Air Lines",
   "HBM": "Hudbay Minerals",
+  "PL": "Planet Labs PBC",
   "FLNC": "Fluence Energy",
   "GM": "General Motors",
   "META": "Meta Platforms",
@@ -9003,6 +9022,7 @@
   "CPNG": "Coupang",
   "IOT": "Samsara",
   "MRNA": "Moderna",
+  "PEP": "PepsiCo",
   "RDW": "Redwire",
   "SNDK": "Sandisk",
   "WMT": "Walmart",
@@ -9027,6 +9047,7 @@
   "EBAY": "eBay",
   "IONQ": "IonQ",
   "ROKU": "Roku",
+  "T": "AT&T",
   "V": "Visa"
  }
 }
