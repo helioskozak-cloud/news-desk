@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-14T15:31:43.956791+00:00",
+ "generated": "2026-11-14T15:35:59.670466+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "3ea3681e49a2",
+   "title": "Jim Cramer has a strong take on Nvidia's next chapter",
+   "link": "https://www.thestreet.com/investing/jim-cramer-strong-take-on-nvidia-next-chapter-colette-kress",
+   "summary": "Nvidia is entering unfamiliar territory, and the decisions made in the coming weeks could carry lasting consequences.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-14T15:33:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "314bd2c28eaf",
    "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
@@ -11,10 +25,24 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-14T15:29:36+00:00",
+   "published": "2026-11-14T15:32:27+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "705916838b49",
+   "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-14T15:32:23+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -30,6 +58,20 @@
     "BULL"
    ],
    "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "82cab98988bd",
+   "title": "Warren Buffett Issued His Starkest Warning About the Stock Market in Years. Here's What History Says Comes Next.",
+   "link": "https://www.nasdaq.com/articles/warren-buffett-issued-his-starkest-warning-about-stock-market-years-heres-what-history",
+   "summary": "Key PointsThe market experienced its worst week of the year in early November.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T15:20:02+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -52,15 +94,15 @@
    "title": "See Which Recent 13F Filers Hold VTI But Walleye Trading Exited",
    "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-vti-walleye-trading-exited",
    "summary": "At Holdings Channel, we have reviewed the latest batch of the 135 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Vanguard Morningstar Total Stock Market ETF (Symbol: VTI) was held by 34 of these funds. When hedge fund managers appear to be thinking",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-14T15:16:48+00:00",
    "tickers": [
     "MORN",
     "VTI"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -76,6 +118,36 @@
    "tickers": [
     "BN",
     "BX"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "669175687b1c",
+   "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+   "summary": "Associated Press News: Breaking News | Latest News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-14T15:11:23+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1b24112f1564",
+   "title": "Could Oracle Hit Its $30 Billion Free Cash Flow Target by Fiscal 2029?",
+   "link": "https://www.nasdaq.com/articles/could-oracle-hit-its-30-billion-free-cash-flow-target-fiscal-2029",
+   "summary": "Oracle (NYSE:ORCL) is attempting to transform extraordinary AI demand into a self-funding growth engine. I examine why its $30 billion fiscal 2029 free cash flow target could dramatically change how investors value the stock, even as a $20 billion financing deal, expensive bonds,",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T15:08:48+00:00",
+   "tickers": [
+    "ORCL"
    ],
    "type": "markets",
    "sentiment": "neutral",
@@ -110,16 +182,21 @@
    "tag_v": 2
   },
   {
-   "id": "669175687b1c",
-   "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-   "summary": "Associated Press News: Breaking News | Latest News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-14T15:03:42+00:00",
-   "tickers": [],
-   "type": "macro",
+   "id": "605b1051025e",
+   "title": "Billionaire Bill Ackman Says There’s a Huge Disconnect in Wall Street’s Expectations for Amazon, Microsoft, Meta, and Alphabet",
+   "link": "https://www.nasdaq.com/articles/billionaire-bill-ackman-says-theres-huge-disconnect-wall-streets-expectations-amazon",
+   "summary": "Key PointsAmazon, Microsoft, Meta Platforms, and Alphabet are all rapidly increasing their data center capital expenditures.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T15:05:02+00:00",
+   "tickers": [
+    "META",
+    "MSFT",
+    "GOOG",
+    "AMZN"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1183,20 +1260,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "705916838b49",
-   "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-14T12:01:26+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8761,66 +8824,6 @@
    "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "92f190f88b19",
-   "title": "LOWE'S COMPANIES, INC. DECLARES CASH DIVIDEND",
-   "link": "https://www.prnewswire.com/news-releases/lowes-companies-inc-declares-cash-dividend-302939328.html",
-   "summary": "MOORESVILLE, N.C., Nov. 13, 2026 /PRNewswire/ -- The board of directors of Lowe's Companies, Inc. (NYSE: LOW) has declared a quarterly cash dividend of one dollar and 25 cents ($1.25) per share, payable Feb. 3, 2027, to shareholders of record as of Jan. 20, 2027. About Lowe's Lowe's...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-13T21:30:00+00:00",
-   "tickers": [
-    "LOW"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "52aa287a87a8",
-   "title": "Condor Announces Management Change | CNRIF Stock News",
-   "link": "https://www.stocktitan.net/news/CNRIF/condor-announces-management-s2750imjuzlw.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T21:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6860229565c5",
-   "title": "LOWE'S COMPANIES, INC. DECLARES CASH DIVIDEND | LOW Stock News",
-   "link": "https://www.stocktitan.net/news/LOW/lowe-s-companies-inc-declares-cash-2560p62dwgub.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T21:30:00+00:00",
-   "tickers": [
-    "LOW"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "b0bf4758c29c",
-   "title": "Yiren Digital Receives NYSE Notification Regarding Stock Price Requirement | YRD Stock News",
-   "link": "https://www.stocktitan.net/news/YRD/yiren-digital-receives-nyse-notification-regarding-stock-price-8yshftcoved1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-13T21:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8878,7 +8881,6 @@
   "CVCO": "Cavco Industries",
   "ENSG": "The Ensign Group",
   "JPM": "JPMorgan Chase &",
-  "LOW": "Lowe's Companies",
   "THC": "Tenet Healthcare",
   "UPST": "Upstart Holdings",
   "ACHR": "Archer Aviation",
@@ -8951,6 +8953,7 @@
   "CHE": "Chemed",
   "INCY": "Incyte",
   "NTRA": "Natera",
+  "ORCL": "Oracle",
   "PFE": "Pfizer",
   "AMGN": "Amgen",
   "CHWY": "Chewy",
