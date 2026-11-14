@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-14T00:16:12.736064+00:00",
+ "generated": "2026-11-14T00:21:31.838526+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c0f23144ea4a",
+   "title": "Microsoft seeing \"continued recovery\" amid major worldwide outage",
+   "link": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
+   "summary": "A Microsoft outage involving services like Outlook and Teams has impacted many users, companies and government services.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-14T00:15:53+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "707a3761b60c",
    "title": "Flights halted at airports across US due to air traffic control communications problems - AP News",
@@ -32,6 +48,23 @@
    "tag_v": 2
   },
   {
+   "id": "1e2bee54d017",
+   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&amp;P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T23:55:55+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "5b538cd52a22",
    "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
    "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
@@ -57,23 +90,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1e2bee54d017",
-   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&amp;P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T23:49:34+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1975,20 +1991,6 @@
    "tag_v": 2
   },
   {
-   "id": "01b9a0dc70a4",
-   "title": "2026 U.S. Senate Election Results - AP News",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-   "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-13T22:04:59+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "d5dcd420b466",
    "title": "Kolibri Global (KGEI) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/kolibri-global-kgei-q3-2026-earnings-call-transcript",
@@ -2432,6 +2434,20 @@
    "category": "stocks",
    "domain": "stocktitan.net",
    "published": "2026-11-13T21:52:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "01b9a0dc70a4",
+   "title": "2026 U.S. Senate Election Results - AP News",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+   "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-13T21:51:15+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
@@ -4957,22 +4973,6 @@
    "tag_v": 2
   },
   {
-   "id": "c0f23144ea4a",
-   "title": "Microsoft seeing \"continued recovery\" amid major worldwide outage",
-   "link": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
-   "summary": "A Microsoft outage involving services like Outlook and Teams has dragged on for hours and impacted many users, companies and government services",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-13T20:59:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "ede81f3aa775",
    "title": "Family Dollar to pay $63M after FTC says it overcharged customers",
    "link": "https://www.cbsnews.com/news/family-dollar-stores-price-transparency-settlement/",
@@ -5178,6 +5178,20 @@
    "published": "2026-11-13T20:45:51+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d216f70dc993",
+   "title": "A tiny hand, baby Vans and a new chapter for Avril Lavigne — motherhood - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSTJRX0dMbUJjOVdFeTRSaUVVMmxnMzc5V21BbmhvQkJmbDdJbjhVN2h3eTIyUnd5NkpORHotajVhNC11RnVhNkJpYTBIN1VhMGJlYWpxUFo4aXk4ckpaX1MyWU1EWFlwSmlaelpqeGMwSWhHU3BmSG5rNEljWkhBa01JWkpHbjMyckNBblBR?oc=5",
+   "summary": "A tiny hand, baby Vans and a new chapter for Avril Lavigne — motherhood&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-13T20:44:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8859,20 +8873,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d5d3f6f929d4",
-   "title": "Spain’s leader wanted a campaign focused on housing. A deadly train crash has complicated that - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX01ud3ZrMW93ZmthWTQ3X0hST2ZPWHB3dnZBcVhSeWRQa0F0ZS1OUFE3RG9lYmdBdFZyRmpWdlBScjNtcWpPRlJ3ODQzWXVPWXRDQU5BX3A4YVZtdl94azVkVG5nai0zSGFucDJzd2xUdW1IVHN6X3MyNWhoazVJQmxZc19rQjljZWJCRDJITkh2VnItRHE5b1VHVQ?oc=5",
-   "summary": "Spain’s leader wanted a campaign focused on housing. A deadly train crash has complicated that&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-13T17:46:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
    "tag_v": 2
   }
  ],
