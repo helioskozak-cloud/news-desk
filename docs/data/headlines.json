@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-14T18:56:22.381265+00:00",
+ "generated": "2026-11-14T19:01:12.616990+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "705916838b49",
+   "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-14T18:52:05+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "027cbe5bc73e",
    "title": "2026 U.S. House Election Results - AP News",
@@ -15,6 +29,23 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1e2bee54d017",
+   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&amp;P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T18:49:59+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -49,6 +80,22 @@
    "tag_v": 2
   },
   {
+   "id": "36b33b73b075",
+   "title": "Teledyne Technologies senior vp sells $2.97 million in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/teledyne-technologies-senior-vp-sells-297-million-in-stock-93CH-5027466",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-14T18:46:06+00:00",
+   "tickers": [
+    "TDY"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "9c68742e1895",
    "title": "Walmart’s $599 workbench with a 4,000-pound weight capacity is 53% off",
    "link": "https://www.thestreet.com/deals/workpro-large-workbench-walmart-flash-sale",
@@ -60,6 +107,20 @@
    "tickers": [
     "WMT"
    ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e4c2ac2fa6c4",
+   "title": "Thousands of US flights canceled, delayed as air travel system slowly recovers from shutdown",
+   "link": "https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-14T18:42:18+00:00",
+   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -167,23 +228,6 @@
    ],
    "type": "dividend",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1e2bee54d017",
-   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&amp;P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T18:20:09+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -690,20 +734,6 @@
    "tickers": [
     "WMT"
    ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e4c2ac2fa6c4",
-   "title": "Thousands of US flights canceled, delayed as air travel system recovers from shutdown",
-   "link": "https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-14T17:12:19+00:00",
-   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -1419,20 +1449,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "705916838b49",
-   "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-14T15:32:23+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8865,22 +8881,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "6f1cf445ec2a",
-   "title": "Paul Lohrey appointed to board of iShares Ethereum Trust ETF sponsor",
-   "link": "https://www.investing.com/news/sec-filings/paul-lohrey-appointed-to-board-of-ishares-ethereum-trust-etf-sponsor-93CH-5026643",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-13T22:05:08+00:00",
-   "tickers": [
-    "ETHA"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8894,7 +8894,6 @@
   "CRDO": "Credo Technology Group Holding",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "COWZ": "Pacer US Cash Cows 100 ETF",
-  "ETHA": "iShares Ethereum Trust ETF",
   "ICE": "Intercontinental Exchange",
   "REGN": "Regeneron Pharmaceuticals",
   "APO": "Apollo Global Management",
@@ -8914,6 +8913,7 @@
   "LHX": "L3Harris Technologies",
   "MIRM": "Mirum Pharmaceuticals",
   "PLTR": "Palantir Technologies",
+  "TDY": "Teledyne Technologies",
   "BMY": "Bristol-Myers Squibb",
   "CRWD": "CrowdStrike Holdings",
   "FERG": "Ferguson Enterprises",
