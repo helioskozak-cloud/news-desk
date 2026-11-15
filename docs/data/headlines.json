@@ -1,8 +1,39 @@
 {
- "generated": "2026-11-15T14:46:26.247755+00:00",
+ "generated": "2026-11-15T14:51:12.606369+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "11350d29713f",
+   "title": "Company under scrutiny for ties to Nvidia and China",
+   "link": "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/",
+   "summary": "The unusual global footprint of Megaspeed, a major buyer of Nvidia's powerful AI computer chips, is fueling questions about whether it's a front for the Chinese government.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-15T14:47:03+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1e2bee54d017",
+   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&amp;P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T14:34:40+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "a0a0f6f86ae7",
    "title": "Morgan Stanley doubles down on Microsoft stock with bold outlook",
@@ -121,6 +152,20 @@
    "published": "2026-11-15T14:24:18+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e43823c75207",
+   "title": "Trump breaks silence on nationwide ground stop and demand more money from Congress - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjU5a3ljR1FocjlKQnRVS21kY1kwR3R4bEZvdUc4VExhbnc2NjZrU0ZfRS1iMkoxcGthaUV4a19MTlNsR2JFMlFqZDN0Y1JiejlNWUFUWjAyWTl3RFNXX0ZvbkNmX0l1elhVZndMd3pQSlQtbk1RYzBMT2tmOTJuaTlwUm5FQmdRODFJQTk4OWV5MlpScVhhc1BEWWotS1E?oc=5",
+   "summary": "Trump breaks silence on nationwide ground stop and demand more money from Congress&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-15T14:18:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1589,23 +1634,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1e2bee54d017",
-   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&amp;P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-15T11:10:26+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8875,38 +8903,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "e120041e6124",
-   "title": "Microsoft says services fully restored after hourslong global outage - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHlYRjJoX0RfREJ3UFBlQ3pacWMwMjBXeGJETGNBTFIzbHZMd1o0UFpMR00tQ25kb0x3YlBjZk4wd25hQTVoQ0FQdTVydERxenNBbkx0YVU5VGtnMUJwcW0tc2FFZ0tsMk0wbFc4TjRHWFhid01xWmljT0tZMVFicUVWRk1ueWdscFMyZXdHWGVJWjdSQ1ozLWJGdXpNMFRQdFc2Mw?oc=5",
-   "summary": "Microsoft says services fully restored after hourslong global outage&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-14T09:21:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "98ec71c156be",
-   "title": "Weyerhaeuser director Richard Beckwitt buys $306,600 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/weyerhaeuser-director-richard-beckwitt-buys-306600-in-shares-93CH-5027253",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-14T09:15:57+00:00",
-   "tickers": [
-    "WY"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9002,7 +8998,6 @@
   "NBIS": "Nebius Group",
   "RL": "Ralph Lauren",
   "STT": "State Street",
-  "WY": "Weyerhaeuser",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
