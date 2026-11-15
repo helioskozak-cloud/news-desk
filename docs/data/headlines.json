@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T15:51:08.251968+00:00",
+ "generated": "2026-11-15T15:56:14.863010+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -36,6 +36,20 @@
    "tag_v": 2
   },
   {
+   "id": "e23f812dd191",
+   "title": "History Says This Dividend Stock Can Protect Your Portfolio if a Stock Market Slump Is Coming",
+   "link": "https://www.nasdaq.com/articles/history-says-dividend-stock-can-protect-your-portfolio-if-stock-market-slump-coming",
+   "summary": "Key PointsSouthern Company is a large U.S. utility, with regulated electric and natural gas operations.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T15:35:00+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "a1ce02b3c3cc",
    "title": "Morgan Stanley doubles down on SpaceX price target ahead of 2027",
    "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-reiterates-300-spacex-price-target-ahead-of-2027",
@@ -48,6 +62,22 @@
     "MS"
    ],
    "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7bad79fe03a0",
+   "title": "How These 6 Natural Gas Stocks Make Money",
+   "link": "https://www.nasdaq.com/articles/how-these-6-natural-gas-stocks-make-money",
+   "summary": "Key PointsCheniere Energy earns its money by converting gas into liquefied natural gas (LNG), which it exports through its terminals, typically under long-term contracts.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T15:33:00+00:00",
+   "tickers": [
+    "LNG"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -108,6 +138,20 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a8168eff4b34",
+   "title": "Should You Invest Now or Wait Until 2027? Here's What a Century of History Says.",
+   "link": "https://www.nasdaq.com/articles/should-you-invest-now-or-wait-until-2027-heres-what-century-history-says",
+   "summary": "Key PointsGiven recent volatility, investors may be considering sitting on the sidelines.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T15:24:00+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8862,51 +8906,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "394c6f4d9d5d",
-   "title": "Warren Buffett has a simple rule for Americans nearing retirement",
-   "link": "https://www.thestreet.com/retirement/warren-buffett-sp-500-low-cost-index-fund-simple-rule-retirement",
-   "summary": "Warren Buffett is offering a different lens on one of America's biggest financial concerns.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-14T11:03:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "92cb114ba3dd",
-   "title": "InvestingPro’s Fair Value predicted NextNav’s 46% plunge",
-   "link": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-predicted-nextnavs-46-plunge-93CH-5027292",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-14T11:01:58+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "6e25f32ec082",
-   "title": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 103% Last Quarter While the Gemini App Reached 1 Billion Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
-   "link": "https://www.nasdaq.com/articles/sundar-pichai-reported-alphabets-cloud-revenue-grew-103-last-quarter-while-gemini-app",
-   "summary": "Key PointsIn the last 12 months, the cloud segment added significantly more incremental revenue than the search platform.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T10:53:00+00:00",
-   "tickers": [
-    "GOOGL",
-    "GOOG"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8977,6 +8976,7 @@
   "BAC": "Bank of America",
   "DIS": "The Walt Disney",
   "HBM": "Hudbay Minerals",
+  "LNG": "Cheniere Energy",
   "PL": "Planet Labs PBC",
   "PWR": "Quanta Services",
   "TGTX": "TG Therapeutics",
