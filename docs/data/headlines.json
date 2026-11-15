@@ -1,8 +1,25 @@
 {
- "generated": "2026-11-15T14:31:30.040854+00:00",
+ "generated": "2026-11-15T14:36:19.590629+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a0a0f6f86ae7",
+   "title": "Morgan Stanley doubles down on Microsoft stock with bold outlook",
+   "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-doubles-down-on-microsoft-stock-with-bold-outlook",
+   "summary": "Morgan Stanley just made its boldest case yet for Microsoft stock.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-15T14:33:00+00:00",
+   "tickers": [
+    "MS",
+    "MSFT"
+   ],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "c4400455e89f",
    "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
@@ -292,7 +309,7 @@
   },
   {
    "id": "2bb7780a6c7a",
-   "title": "ESPN, Netflix, Apple TV, and Disney test loyalty with price hikes",
+   "title": "Netflix and Disney raise prices as a free rival steals viewers",
    "link": "https://www.thestreet.com/entertainment/peacock-espn-netflix-apple-tv-and-disney-streaming-service-test-loyalty-with-price-hikes",
    "summary": "How far can streaming services go before they push consumers away?",
    "source": "TheStreet",
@@ -300,9 +317,8 @@
    "domain": "thestreet.com",
    "published": "2026-11-15T13:33:00+00:00",
    "tickers": [
-    "DIS",
     "NFLX",
-    "AAPL"
+    "DIS"
    ],
    "type": "stocks",
    "sentiment": "positive",
@@ -8884,20 +8900,6 @@
    "type": "ma",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "2083a9a440d3",
-   "title": "Peoples Bancorp director James Abernethy sells $42,840 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/peoples-bancorp-director-james-abernethy-sells-42840-in-shares-93CH-5027239",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-14T09:00:59+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8976,6 +8978,7 @@
   "GMED": "Globus Medical",
   "HD": "The Home Depot",
   "META": "Meta Platforms",
+  "MS": "Morgan Stanley",
   "BILL": "BILL Holdings",
   "CSCO": "Cisco Systems",
   "KO": "The Coca-Cola",
