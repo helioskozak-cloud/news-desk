@@ -1,8 +1,26 @@
 {
- "generated": "2026-11-15T13:31:15.666043+00:00",
+ "generated": "2026-11-15T13:35:56.282741+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2bb7780a6c7a",
+   "title": "ESPN, Netflix, Apple TV, and Disney test loyalty with price hikes",
+   "link": "https://www.thestreet.com/entertainment/peacock-espn-netflix-apple-tv-and-disney-streaming-service-test-loyalty-with-price-hikes",
+   "summary": "How far can streaming services go before they push consumers away?",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-15T13:33:00+00:00",
+   "tickers": [
+    "DIS",
+    "NFLX",
+    "AAPL"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "b73ae0728c43",
    "title": "Walmart is selling a $650 lockable outdoor storage shed for 55% off",
@@ -194,6 +212,20 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ec8f11e07df8",
+   "title": "Top Wall Street analysts are bullish on these 3 stocks for the long term",
+   "link": "https://www.cnbc.com/2026/11/15/top-wall-street-analysts-are-bullish-on-these-3-stocks-for-the-long-term.html",
+   "summary": "Here are three stocks favored by some of Wall Street's top pros, according to TipRanks.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-15T12:49:07+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8861,36 +8893,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "4a3d699e8350",
-   "title": "Kodiak Gas director Darden Newsom buys $449,900 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/kodiak-gas-director-darden-newsom-buys-449900-in-stock-93CH-5027194",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-14T07:30:50+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f4c2b3e1ff22",
-   "title": "Microsoft restores service to Outlook and Teams after global outage",
-   "link": "https://www.investing.com/news/stock-market-news/microsoft-outlook-teams-outage-eases-after-over-a-day-recovery-timeline-uncertain-5026486",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-14T07:30:16+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "guidance",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8962,6 +8964,7 @@
   "ANET": "Arista Networks",
   "BAC": "Bank of America",
   "BSY": "Bentley Systems",
+  "DIS": "The Walt Disney",
   "HBM": "Hudbay Minerals",
   "PL": "Planet Labs PBC",
   "TGTX": "TG Therapeutics",
