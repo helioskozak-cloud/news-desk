@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T15:36:30.775023+00:00",
+ "generated": "2026-11-15T15:41:32.341748+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -16,6 +16,20 @@
     "MS"
    ],
    "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d5b8f2196c6a",
+   "title": "Redwood Trust president buys $251,580 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/redwood-trust-president-buys-251580-in-stock-93CH-5027990",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-15T15:31:20+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -48,6 +62,20 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "719c7bdd0975",
+   "title": "Bitcoin hovers near $65,000 after weekend selloff to lowest since July",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-15T15:17:25+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -772,7 +800,7 @@
   },
   {
    "id": "2bb7780a6c7a",
-   "title": "Netflix and Disney raise prices as a free rival steals viewers",
+   "title": "Netflix, Disney, and HBO price hikes push consumers to the brink",
    "link": "https://www.thestreet.com/entertainment/peacock-espn-netflix-apple-tv-and-disney-streaming-service-test-loyalty-with-price-hikes",
    "summary": "How far can streaming services go before they push consumers away?",
    "source": "TheStreet",
@@ -781,7 +809,8 @@
    "published": "2026-11-15T13:33:00+00:00",
    "tickers": [
     "NFLX",
-    "DIS"
+    "DIS",
+    "WBD"
    ],
    "type": "stocks",
    "sentiment": "positive",
@@ -3051,20 +3080,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "719c7bdd0975",
-   "title": "Bitcoin slides toward $60,000 as ETF outflows and liquidations intensify",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-toward-60000-as-etf-outflows-and-liquidations-intensify-5027667",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-15T05:40:35+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8890,22 +8905,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "57f9a7740126",
-   "title": "3 GARP Plays That Could Offer a Better Balance as Markets Turn Volatile",
-   "link": "https://www.marketbeat.com/articles/3-garp-plays-that-could-offer-a-better-balance-as-markets-turn-volatile/",
-   "summary": "Amid AI market volatility, Flex and Boot Barn show GARP traits with strong growth and reasonable valuations, while the SRHQ ETF offers diversified exposure and 28% YTD returns.",
-   "source": "MarketBeat",
-   "category": "stocks",
-   "domain": "marketbeat.com",
-   "published": "2026-11-14T10:35:00+00:00",
-   "tickers": [
-    "BOOT"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8934,6 +8933,7 @@
   "AMD": "Advanced Micro Devices",
   "USO": "United States Oil Fund",
   "VZ": "Verizon Communications",
+  "WBD": "Warner Bros. Discovery",
   "COF": "Capital One Financial",
   "LHX": "L3Harris Technologies",
   "OPEN": "Opendoor Technologies",
@@ -8943,7 +8943,6 @@
   "SMCI": "Super Micro Computer",
   "AXSM": "Axsome Therapeutics",
   "BBAI": "BigBear.ai Holdings",
-  "BOOT": "Boot Barn Holdings",
   "BRK-A": "Berkshire Hathaway",
   "CRK": "Comstock Resources",
   "GPI": "Group 1 Automotive",
