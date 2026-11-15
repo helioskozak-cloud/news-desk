@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T04:16:26.073675+00:00",
+ "generated": "2026-11-15T04:21:08.481557+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -17,6 +17,22 @@
     "ETH"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a1f9c90d9782",
+   "title": "Honeywell Aerospace: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/honeywell-aerospace-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsHoneywell Aerospace doubled multi-source material spend toward a 30% year-end target.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T03:55:01+00:00",
+   "tickers": [
+    "HON"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -640,6 +656,20 @@
    "tag_v": 2
   },
   {
+   "id": "027cbe5bc73e",
+   "title": "2026 U.S. House Election Results - AP News",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+   "summary": "2026 U.S. House Election Results&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-15T01:40:37+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "88743323a8b3",
    "title": "Evercore explains why Apple has the right assets to win the personal agents race",
    "link": "https://www.investing.com/news/stock-market-news/evercore-explains-why-apple-has-the-right-assets-to-win-the-personal-agents-race-5027628",
@@ -1132,20 +1162,6 @@
    "published": "2026-11-14T23:52:11+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "027cbe5bc73e",
-   "title": "2026 U.S. House Election Results - AP News",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-   "summary": "2026 U.S. House Election Results&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-14T23:51:05+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8873,22 +8889,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "54ee9f272969",
-   "title": "Dutch Bros vs. Wendy's: Which Stock Is a Better Buy?",
-   "link": "https://www.nasdaq.com/articles/dutch-bros-vs-wendys-which-stock-better-buy",
-   "summary": "Key PointsDutch Bros continues to see rapid revenue growth as it expands its drive-thru beverage footprint across the United States.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T01:25:01+00:00",
-   "tickers": [
-    "BROS"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9000,7 +9000,6 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BN": "Brookfield",
-  "BROS": "Dutch Bros",
   "BWA": "BorgWarner",
   "BX": "Blackstone",
   "CMS": "CMS Energy",
