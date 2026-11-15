@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T21:51:15.010649+00:00",
+ "generated": "2026-11-15T21:56:32.272768+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,22 @@
    "published": "2026-11-15T21:48:16+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7ac00d83e49e",
+   "title": "Corn Posting Friday Strength as Export Business Picks Up",
+   "link": "https://www.nasdaq.com/articles/corn-posting-friday-strength-export-business-picks",
+   "summary": "Corn futures are showing 1 to 4 cent gains across most contracts on Friday, supported by positive export business. The CmdtyView national average Cash Corn price is up 4 cents at $4.13. USDA reported a private export sale of 303,800 MT to Mexico, with 272,820 MT for the current marketing...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T21:40:44+00:00",
+   "tickers": [
+    "MT"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -123,22 +139,6 @@
    "published": "2026-11-15T21:16:10+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7ac00d83e49e",
-   "title": "Corn Posting Friday Strength as Export Business Picks Up",
-   "link": "https://www.nasdaq.com/articles/corn-posting-friday-strength-export-business-picks",
-   "summary": "Corn futures are showing 1 to 4 cent gains across most contracts on Friday, supported by positive export business. The CmdtyView national average Cash Corn price is up 4 cents at $4.13. USDA reported a private export sale of 303,800 MT to Mexico, with 272,820 MT for the current marketing...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-15T21:15:14+00:00",
-   "tickers": [
-    "MT"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -334,6 +334,20 @@
    "published": "2026-11-15T20:16:10+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9d876ef5292b",
+   "title": "32 Americans named as Rhodes scholars have variety of interests, from space junk to art history - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZEgyZnFtT1RfdlgzUzdrcW5CQXJOVG1uYkN5bkRWX3BfRGc5NHRURWxzMGlsa3p1MTJMaWdrU0oxdjEyaU50dkpVTUQ5TUd4S2F5X1U1WU5XRVRhV2I3b25Pc29XOUZVX0JZY3JlbHlCb1RneWdzTEg1dVBiX3hQY2twc3ZyS2oxV0k1R2Q5RnZKR1pJZlNz?oc=5",
+   "summary": "32 Americans named as Rhodes scholars have variety of interests, from space junk to art history&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-15T20:15:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -796,20 +810,6 @@
    "tickers": [
     "MSFT"
    ],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e43823c75207",
-   "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjU5a3ljR1FocjlKQnRVS21kY1kwR3R4bEZvdUc4VExhbnc2NjZrU0ZfRS1iMkoxcGthaUV4a19MTlNsR2JFMlFqZDN0Y1JiejlNWUFUWjAyWTl3RFNXX0ZvbkNmX0l1elhVZndMd3pQSlQtbk1RYzBMT2tmOTJuaTlwUm5FQmdRODFJQTk4OWV5MlpScVhhc1BEWWotS1E?oc=5",
-   "summary": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-15T19:10:00+00:00",
-   "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
@@ -2671,6 +2671,20 @@
    "tag_v": 2
   },
   {
+   "id": "e43823c75207",
+   "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjU5a3ljR1FocjlKQnRVS21kY1kwR3R4bEZvdUc4VExhbnc2NjZrU0ZfRS1iMkoxcGthaUV4a19MTlNsR2JFMlFqZDN0Y1JiejlNWUFUWjAyWTl3RFNXX0ZvbkNmX0l1elhVZndMd3pQSlQtbk1RYzBMT2tmOTJuaTlwUm5FQmdRODFJQTk4OWV5MlpScVhhc1BEWWotS1E?oc=5",
+   "summary": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-15T14:27:17+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "e28d3d857a50",
    "title": "Social Security's Trump Bump-Driven 2027 COLA Has a Rare &quot;Bonus&quot; for 29 Million Retirees",
    "link": "https://www.nasdaq.com/articles/social-securitys-trump-bump-driven-2027-cola-has-rare-bonus-29-million-retirees",
@@ -3716,20 +3730,6 @@
    "published": "2026-11-15T12:03:00+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ad3789aea55a",
-   "title": "Pope Leo helps Argentines embrace Francis, the pontiff who once divided them - AP News",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUYxeWY1bVpuQlk4VGFEZjhOX0pZZFI0c1dHZFNtZmxjVjVxOXBTR2FTUWtzRWxDNzVWM2NZMVBJUVRoMXJKR2p2NzZSci1yZndjT19wR21DVmFUajlNRlhrWUphekpJY2p2bmZROWNuaWdRanpmUHFxc0J3WEZlX2w4QndvVld3N2ZTZDNOaTRBWWtXRFQ4aHJqelFldkVBZjVnaXoxS2Fpc3hSUm9LZGltODQ?oc=5",
-   "summary": "Pope Leo helps Argentines embrace Francis, the pontiff who once divided them&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-15T12:02:33+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -5402,6 +5402,20 @@
    "category": "macro",
    "domain": "news.google.com",
    "published": "2026-11-15T05:02:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ad3789aea55a",
+   "title": "Pope Leo helps Argentines embrace Francis, the pontiff who once divided them - AP News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUYxeWY1bVpuQlk4VGFEZjhOX0pZZFI0c1dHZFNtZmxjVjVxOXBTR2FTUWtzRWxDNzVWM2NZMVBJUVRoMXJKR2p2NzZSci1yZndjT19wR21DVmFUajlNRlhrWUphekpJY2p2bmZROWNuaWdRanpmUHFxc0J3WEZlX2w4QndvVld3N2ZTZDNOaTRBWWtXRFQ4aHJqelFldkVBZjVnaXoxS2Fpc3hSUm9LZGltODQ?oc=5",
+   "summary": "Pope Leo helps Argentines embrace Francis, the pontiff who once divided them&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-15T05:00:00+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -8887,20 +8901,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8b2db9e6c3d9",
-   "title": "The S&P 500 Has Gone 18 Months Without a 10% Drop. Here's How the Next Year Has Gone After Streaks This Long.",
-   "link": "https://www.nasdaq.com/articles/sp-500-has-gone-18-months-without-10-drop-heres-how-next-year-has-gone-after-streaks-long",
-   "summary": "Key PointsThe S&amp;P 500 hasn't closed 10% or more under its record since April 28, 2025.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T16:58:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   }
  ],
