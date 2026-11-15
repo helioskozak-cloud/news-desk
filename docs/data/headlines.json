@@ -1,8 +1,25 @@
 {
- "generated": "2026-11-15T21:21:33.495808+00:00",
+ "generated": "2026-11-15T21:26:10.617222+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1e2bee54d017",
+   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&amp;P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T21:21:39+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "529b2eb57e36",
    "title": "Costco’s $13 billion choice could rub members the wrong way",
@@ -14,6 +31,22 @@
    "published": "2026-11-15T21:17:00+00:00",
    "tickers": [
     "COST"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7ac00d83e49e",
+   "title": "Corn Posting Friday Strength as Export Business Picks Up",
+   "link": "https://www.nasdaq.com/articles/corn-posting-friday-strength-export-business-picks",
+   "summary": "Corn futures are showing 1 to 4 cent gains across most contracts on Friday, supported by positive export business. The CmdtyView national average Cash Corn price is up 4 cents at $4.13. USDA reported a private export sale of 303,800 MT to Mexico, with 272,820 MT for the current marketing...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T21:15:14+00:00",
+   "tickers": [
+    "MT"
    ],
    "type": "stocks",
    "sentiment": "neutral",
@@ -212,23 +245,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1e2bee54d017",
-   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&amp;P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-15T20:06:02+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8887,22 +8903,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "83378d1d7f85",
-   "title": "Realty Income Pays Dividends Every Month. Here's What You Can Expect $10,000 Invested to Pay Monthly in 2027.",
-   "link": "https://www.nasdaq.com/articles/realty-income-pays-dividends-every-month-heres-what-you-can-expect-10000-invested-pay",
-   "summary": "Key PointsRealty Income is a large net lease real estate investment trust.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T16:35:00+00:00",
-   "tickers": [
-    "O"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9001,7 +9001,6 @@
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "MT": "ArcelorMittal",
-  "O": "Realty Income",
   "SOUN": "SoundHound AI",
   "ASML": "ASML Holding",
   "IREN": "IREN Limited",
