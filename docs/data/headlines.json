@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T16:06:31.674168+00:00",
+ "generated": "2026-11-15T16:11:10.057849+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -28,6 +28,37 @@
    "published": "2026-11-15T15:53:45+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aa966e64e1ee",
+   "title": "Which Bond ETF Is the Better Buy: Vanguard’s Total Bond Market BND or iShares’ Corporate IGIB?",
+   "link": "https://www.nasdaq.com/articles/which-bond-etf-better-buy-vanguards-total-bond-market-bnd-or-ishares-corporate-igib",
+   "summary": "Key PointsVanguard Total Bond Market ETF offers significantly broader diversification.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T15:50:02+00:00",
+   "tickers": [
+    "BND",
+    "IGIB"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bd5f451f2bdb",
+   "title": "2 Growth Stocks Down Over 20% to Hold for 10 Years",
+   "link": "https://www.nasdaq.com/articles/2-growth-stocks-down-over-20-hold-10-years",
+   "summary": "Key PointsOn Holding is selling more at full price, and its 2029 targets make today's valuation look modest.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T15:50:02+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8867,39 +8898,10 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "e111cd81ba0c",
-   "title": "What's Going on With CoreWeave Stock?",
-   "link": "https://www.nasdaq.com/articles/whats-going-coreweave-stock",
-   "summary": "Should you buy stock in CoreWeave right now? Before you buy stock in CoreWeave, consider this:Missed AI&rsquo;s \"Act 1\"? Act 2 Could Be 15x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we&rsquo;re only at the end",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T11:50:02+00:00",
-   "tickers": [
-    "CRWV"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "74e8055746be",
-   "title": "Fifth District Bancorp director Sins sells $39,013 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/fifth-district-bancorp-director-sins-sells-39013-in-stock-93CH-5027306",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-14T11:46:14+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
+  "IGIB": "iShares 5-10 Year Investment Grade Corporate Bond ETF",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "VCLT": "Vanguard Long-Term Corporate Bond ETF",
   "FBT": "First Trust Amex Biotech Index Fund",
@@ -8908,6 +8910,7 @@
   "IBM": "International Business Machines",
   "VGLT": "Vanguard Long-Term Treasury ETF",
   "VTI": "Vanguard Total Stock Market ETF",
+  "BND": "Vanguard Total Bond Market ETF",
   "CRDO": "Credo Technology Group Holding",
   "SCHD": "Schwab US Dividend Equity ETF",
   "TTWO": "Take-Two Interactive Software",
