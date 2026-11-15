@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T16:36:09.074180+00:00",
+ "generated": "2026-11-15T16:41:01.822363+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,20 @@
    "published": "2026-11-15T16:33:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "11c6e350ab0e",
+   "title": "Cape Verde votes for president with emigration in focus",
+   "link": "https://www.investing.com/news/economic-indicators/cape-verde-votes-for-president-with-emigration-in-focus-5027689",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-15T16:24:18+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -44,6 +58,22 @@
    "published": "2026-11-15T16:20:02+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "873e17ebb107",
+   "title": "Bread Financial EVP Dennis McCarthy acquires $1,718 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/bread-financial-evp-dennis-mccarthy-acquires-1718-in-stock-93CH-5028011",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-15T16:16:01+00:00",
+   "tickers": [
+    "BFH"
+   ],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1272,7 +1302,7 @@
   },
   {
    "id": "2bb7780a6c7a",
-   "title": "Netflix, Disney, and HBO price hikes push consumers to the brink",
+   "title": "Netflix, Disney, HBO, and Peacock keep raising streaming prices",
    "link": "https://www.thestreet.com/entertainment/peacock-espn-netflix-apple-tv-and-disney-streaming-service-test-loyalty-with-price-hikes",
    "summary": "How far can streaming services go before they push consumers away?",
    "source": "TheStreet",
@@ -1285,7 +1315,7 @@
     "WBD"
    ],
    "type": "stocks",
-   "sentiment": "positive",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2229,20 +2259,6 @@
    "category": "markets",
    "domain": "investing.com",
    "published": "2026-11-15T11:45:56+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "11c6e350ab0e",
-   "title": "Cape Verde votes for president with emigration in focus",
-   "link": "https://www.investing.com/news/economic-indicators/cape-verde-votes-for-president-with-emigration-in-focus-5027689",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-15T11:42:19+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -8887,20 +8903,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "1c1b02ffcd7f",
-   "title": "4 Dividend Stocks Yielding 4% or More to Buy Before the End of November",
-   "link": "https://www.nasdaq.com/articles/4-dividend-stocks-yielding-4-or-more-buy-end-november",
-   "summary": "Key PointsDividend investors like to buy stocks with 4% yields because they fit well with the 4% withdrawal rule.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T12:35:00+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8923,6 +8925,7 @@
   "IBB": "iShares Biotechnology ETF",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
+  "BFH": "Bread Financial Holdings",
   "MPWR": "Monolithic Power Systems",
   "ROLR": "High Roller Technologies",
   "GS": "The Goldman Sachs Group",
