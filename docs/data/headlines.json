@@ -1,8 +1,53 @@
 {
- "generated": "2026-11-16T22:56:09.576769+00:00",
+ "generated": "2026-11-16T23:01:10.364879+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "25aa115aed1b",
+   "title": "Kalshi to start offering stock and ETF trading in coming months",
+   "link": "https://www.cbsnews.com/news/kalshi-stock-etf-trading-fb-securities/",
+   "summary": "The announcement follows Kalshi's acquisition of a New York-based broker, FB Securities, in July.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-16T22:58:42+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0ae952cc58f4",
+   "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+   "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+   "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-16T22:58:26+00:00",
+   "tickers": [
+    "BRK-A",
+    "BAC"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "a273528a769b",
+   "title": "Montfort Capital Announces Financial Results for the Fourth Quarter and Year Ended December 31, 2025 | MONTF Stock News",
+   "link": "https://www.stocktitan.net/news/MONTF/montfort-capital-announces-financial-results-for-the-fourth-quarter-2zm1dl7ihmx8.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T22:58:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "787cb79a9925",
    "title": "United Airlines reports system outage affecting departing flights",
@@ -47,6 +92,20 @@
    ],
    "type": "dividend",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "839fc54d3ebd",
+   "title": "Trump backs campaign to reinstate Nvidia CEO despite allegations he had an affair with a Chinese spy - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUG5xR2UxLXNkQkhHXzNPQVliSkVQYnJSaDhia2VYdjZPeFBtU1VHN0ZHeVpuRE5Vd0hTNmpsYWtjaVh1ZFRvX2Fnd3JDQWhEQVJxNFY2RjVrLU5IcWhuSVZrZ3lFNDMzeWVwUTBYclE1RDFnUTdkR3NGUjFuaTFPd1hybm9DYzBSR1U2bDU4a19iWTA2YWc0eEdUazBGbXZ1VTc3WFAtSkEyZw?oc=5",
+   "summary": "Trump backs campaign to reinstate Nvidia CEO despite allegations he had an affair with a Chinese spy&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T22:49:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -161,37 +220,6 @@
     "JPM",
     "WFC",
     "BAC"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5107868475e0",
-   "title": "Dollar Climbs on Stock Weakness and Fed Tightening Prospects",
-   "link": "https://www.nasdaq.com/articles/dollar-climbs-stock-weakness-and-fed-tightening-prospects",
-   "summary": "The dollar index (DXY00 ) climbed to a fresh 1.5-year high today and is up +0.10%. The dollar is climbing today amid weakness in stocks, which is boosting demand for dollar liquidity. The dollar also has carryover support from last Friday, when several Fed members expressed their support for additional...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T22:43:07+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "daf72b3232e1",
-   "title": "Weakness in Chipmakers and AI Stocks Weighs on Stock Indexes",
-   "link": "https://www.nasdaq.com/articles/weakness-chipmakers-and-ai-stocks-weighs-stock-indexes",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.75% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.36%. December E-mini S&amp;P futures (ESZ26 ) are down -0.80%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T22:43:07+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
    ],
    "type": "stocks",
    "sentiment": "neutral",
@@ -350,14 +378,14 @@
    "title": "See Which Recent 13F Filers Hold MRK",
    "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-mrk-1",
    "summary": "At Holdings Channel, we have reviewed the latest batch of the 67 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Merck &amp; Co Inc (Symbol: MRK) was held by 16 of these funds. When hedge fund managers appear to be thinking alike, we find it is a go",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-16T22:41:41+00:00",
    "tickers": [
     "MRK"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -434,6 +462,22 @@
    "tag_v": 2
   },
   {
+   "id": "9f81d73cfe86",
+   "title": "Is Nu Holdings Stock a Buy, Sell, or Hold After Falling 24% in 2026?",
+   "link": "https://www.nasdaq.com/articles/nu-holdings-stock-buy-sell-or-hold-after-falling-24-2026",
+   "summary": "Key PointsNu Holdings stock is down 24% in 2026, hit by a sell-off in Brazilian assets after the October election.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:39:02+00:00",
+   "tickers": [
+    "NU"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "f23e8f5168fa",
    "title": "DOX Investors Have Opportunity to Join Amdocs Limited Fraud Investigation with SBS Law",
    "link": "https://www.prnewswire.com/news-releases/dox-investors-have-opportunity-to-join-amdocs-limited-fraud-investigation-with-sbs-law-302941048.html",
@@ -494,6 +538,20 @@
    "tag_v": 2
   },
   {
+   "id": "8bf028009342",
+   "title": "Could Anthropic’s IPO Reverse the Market’s Sentiment on AI?",
+   "link": "https://www.nasdaq.com/articles/could-anthropics-ipo-reverse-markets-sentiment-ai",
+   "summary": "Key PointsAnthropic was originally supposed to go public at a much higher valuation.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:37:02+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "fcf149d950b3",
    "title": "Popular THC drinks are disappearing from retail store shelves",
    "link": "https://www.thestreet.com/retail/popular-thc-drinks-are-disappearing-from-retail-store-shelves",
@@ -507,22 +565,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2cf2992f9999",
-   "title": "Corn Posting Midday Gains",
-   "link": "https://www.nasdaq.com/articles/corn-posting-midday-gains-0",
-   "summary": "Corn futures are showing 1 to 2 cent gains on Monday, with new crop seeing fractional losses. The CmdtyView national average Cash Corn price is up 1 1/2 cents at $4.15 1/2. USDA reported a private export sale of 130,000 MT to Colombia this morning, all for 2026/27. Weekly FGIS...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T22:36:59+00:00",
-   "tickers": [
-    "MT"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -540,20 +582,75 @@
    "tag_v": 2
   },
   {
-   "id": "e3bf76456719",
-   "title": "Stock Indexes Retreat as Chipmakers and AI Stocks Fall",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-retreat-chipmakers-and-ai-stocks-fall",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.95% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.47%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&amp;P futures (ESZ26 ) are down -1.02%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "id": "043a9c896b72",
+   "title": "Franklin Covey: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/franklin-covey-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsEnterprise North America deferred revenue increased 17% in fiscal 2026.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
-   "published": "2026-11-16T22:36:58+00:00",
+   "published": "2026-11-16T22:35:03+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "61a58f9f3bc5",
+   "title": "Flywire: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/flywire-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsNearly half of total company revenue is now generated by outside core international education products.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:35:03+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "66b2792a7581",
+   "title": "Huron: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/huron-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsOver 65% of recent Digital capability bookings involved direct AI scope or delivery significantly enabled by AI tools.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:35:02+00:00",
    "tickers": [
-    "SPY",
-    "QQQ"
+    "HURN"
    ],
-   "type": "stocks",
-   "sentiment": "negative",
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7c56df72a1d5",
+   "title": "Grand Canyon Education: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/grand-canyon-education-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsTotal enrollments grew 5.2% year over year in the third quarter.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:35:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ee3341b7db72",
+   "title": "Phoenix Education Partners: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/phoenix-education-partners-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsEmployer-affiliated enrollment grew nearly 13% year-over-year in fiscal 2026.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:35:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -592,6 +689,22 @@
    "tag_v": 2
   },
   {
+   "id": "30f773ebe80c",
+   "title": "Stock Market Today, Nov. 16: Snap Falls Amid Tech Sector Sell-Off and Ongoing Youth Social Media Addiction Lawsuit Exposure",
+   "link": "https://www.nasdaq.com/articles/stock-market-today-nov-16-snap-falls-amid-tech-sector-sell-and-ongoing-youth-social-media",
+   "summary": "Snap (NYSE:SNAP), a visual messaging and augmented reality social platform, closed at $5.09, down 3.23%. A broader tech sector sell-off added to ongoing concerns around roughly 1,600 active youth social media addiction lawsuits, weighing on shares. Investors continue to watch Sna",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:33:08+00:00",
+   "tickers": [
+    "SNAP"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "51a21ebc12fe",
    "title": "HSBC offloads $300 million troubled AI data center loan at steep discount - report",
    "link": "https://www.investing.com/news/stock-market-news/hsbc-offloads-300-million-troubled-ai-data-center-loan-at-steep-discount--report-5031165",
@@ -619,6 +732,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "d08dd9ea06a8",
+   "title": "Why Turning Point Brands Stock Got Socked Today",
+   "link": "https://www.nasdaq.com/articles/why-turning-point-brands-stock-got-socked-today",
+   "summary": "Key PointsIt intends to raise funds through one or more means, including share issues and debt financing.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:31:46+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -652,6 +779,36 @@
    "tag_v": 2
   },
   {
+   "id": "cb3957c40cf5",
+   "title": "XPeng (XPEV) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/xpeng-xpev-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:30:31+00:00",
+   "tickers": [
+    "XPEV"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b53fbf718611",
+   "title": "Creative Media (CMCT) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/creative-media-cmct-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:30:31+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "e8a2dc4f0e8e",
    "title": "Chamath Palihapitiya: Betting on Bitcoin Is 'Betting Against AI Improvement'",
    "link": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63326918/chamath-palihapitiya-betting-on-bitcoin-is-betting-against-ai-improvement",
@@ -666,6 +823,22 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b06ad2dd796a",
+   "title": "Stock Market Today, Nov. 16: Nvidia Sinks as U.S. Tightens AI Chip Restrictions and Analysts Slash Price Targets",
+   "link": "https://www.nasdaq.com/articles/stock-market-today-nov-16-nvidia-sinks-us-tightens-ai-chip-restrictions-and-analysts-slash",
+   "summary": "Nvidia (NASDAQ:NVDA) extended its recent sell-off on Monday, November 16, closing at $156.14. New U.S. restrictions on access to advanced artificial intelligence (AI) chips added to mounting concerns surrounding the company's leadership transition and long-term growth prospects.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:30:02+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -801,6 +974,20 @@
    "tag_v": 2
   },
   {
+   "id": "6bde42d58bd2",
+   "title": "Cycurion (CYCU) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/cycurion-cycu-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:28:33+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "33f82fd4eb8a",
    "title": "Major U.S. banks report widespread service outages",
    "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
@@ -831,6 +1018,22 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "f8f9e213db79",
+   "title": "Is Moderna's Cancer Vaccine a Game Changer for the Stock?",
+   "link": "https://www.nasdaq.com/articles/modernas-cancer-vaccine-game-changer-stock",
+   "summary": "Key PointsIntismeran and Keytruda have demonstrated in clinical trials that they can drastically improve outcomes for melanoma patients.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:27:02+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -904,6 +1107,39 @@
    "tag_v": 2
   },
   {
+   "id": "2cf2992f9999",
+   "title": "Corn Posting Midday Gains",
+   "link": "https://www.nasdaq.com/articles/corn-posting-midday-gains-0",
+   "summary": "Corn futures are showing 1 to 2 cent gains on Monday, with new crop seeing fractional losses. The CmdtyView national average Cash Corn price is up 1 1/2 cents at $4.15 1/2. USDA reported a private export sale of 130,000 MT to Colombia this morning, all for 2026/27. Weekly FGIS...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:25:09+00:00",
+   "tickers": [
+    "MT"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e3bf76456719",
+   "title": "Stock Indexes Retreat as Chipmakers and AI Stocks Fall",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-retreat-chipmakers-and-ai-stocks-fall",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.95% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.47%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&amp;P futures (ESZ26 ) are down -1.02%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:25:09+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "58f178a36e27",
    "title": "Cocoa Prices Fall on Abundant Supplies",
    "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-abundant-supplies",
@@ -917,6 +1153,22 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "07b91bd79c12",
+   "title": "Hogs Back to Mixed Monday Trade",
+   "link": "https://www.nasdaq.com/articles/hogs-back-mixed-monday-trade",
+   "summary": "Lean hog futures are trading with contracts up 35 cents in December to 70 cents lower in other contracts. USDA’s national base hog price was not reported on Monday morning due to thin trade. The CME Lean Hog Index was down $1.05 on November 12 at $57.73. USDA’s pork carcass...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:25:09+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1081,23 +1333,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0ae952cc58f4",
-   "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-   "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-   "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-16T22:22:52+00:00",
-   "tickers": [
-    "BRK-A",
-    "BAC"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1355,16 +1590,31 @@
    "tag_v": 2
   },
   {
-   "id": "07b91bd79c12",
-   "title": "Hogs Back to Mixed Monday Trade",
-   "link": "https://www.nasdaq.com/articles/hogs-back-mixed-monday-trade",
-   "summary": "Lean hog futures are trading with contracts up 35 cents in December to 70 cents lower in other contracts. USDA’s national base hog price was not reported on Monday morning due to thin trade. The CME Lean Hog Index was down $1.05 on November 12 at $57.73. USDA’s pork carcass...",
+   "id": "5107868475e0",
+   "title": "Dollar Climbs on Stock Weakness and Fed Tightening Prospects",
+   "link": "https://www.nasdaq.com/articles/dollar-climbs-stock-weakness-and-fed-tightening-prospects",
+   "summary": "The dollar index (DXY00 ) climbed to a fresh 1.5-year high today and is up +0.10%. The dollar is climbing today amid weakness in stocks, which is boosting demand for dollar liquidity. The dollar also has carryover support from last Friday, when several Fed members expressed their support for additional...",
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
-   "published": "2026-11-16T22:19:55+00:00",
+   "published": "2026-11-16T22:19:54+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "daf72b3232e1",
+   "title": "Weakness in Chipmakers and AI Stocks Weighs on Stock Indexes",
+   "link": "https://www.nasdaq.com/articles/weakness-chipmakers-and-ai-stocks-weighs-stock-indexes",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.75% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.36%. December E-mini S&amp;P futures (ESZ26 ) are down -0.80%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:19:54+00:00",
    "tickers": [
-    "CME"
+    "SPY",
+    "QQQ"
    ],
    "type": "stocks",
    "sentiment": "neutral",
@@ -7839,20 +8089,6 @@
    "tag_v": 2
   },
   {
-   "id": "839fc54d3ebd",
-   "title": "Trump backs campaign to reinstate Nvidia CEO despite allegations he had an affair with a Chinese spy - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUG5xR2UxLXNkQkhHXzNPQVliSkVQYnJSaDhia2VYdjZPeFBtU1VHN0ZHeVpuRE5Vd0hTNmpsYWtjaVh1ZFRvX2Fnd3JDQWhEQVJxNFY2RjVrLU5IcWhuSVZrZ3lFNDMzeWVwUTBYclE1RDFnUTdkR3NGUjFuaTFPd1hybm9DYzBSR1U2bDU4a19iWTA2YWc0eEdUazBGbXZ1VTc3WFAtSkEyZw?oc=5",
-   "summary": "Trump backs campaign to reinstate Nvidia CEO despite allegations he had an affair with a Chinese spy&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-16T19:41:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "dc33f077e968",
    "title": "Is Merck's Stock Still a Good Buy at $150?",
    "link": "https://www.nasdaq.com/articles/mercks-stock-still-good-buy-150",
@@ -8719,252 +8955,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "9e6e9243b1b9",
-   "title": "Accel-KKR and RS2 Healthcare Partners Support Loftware's Acquisition of Seagull Software",
-   "link": "https://www.prnewswire.com/news-releases/accel-kkr-and-rs2-healthcare-partners-support-loftwares-acquisition-of-seagull-software-302940870.html",
-   "summary": "Long-term investors reaffirm commitment to supporting the combined company's growth, product innovation and customer service MENLO PARK, Calif. and BOSTON, Nov. 16, 2026 /PRNewswire/ -- Accel-KKR and RS2 Healthcare Partners (formerly Riverside Partners), investors in Loftware, today...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T19:00:00+00:00",
-   "tickers": [
-    "KKR"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fcb999bd722c",
-   "title": "Fortress Perimeter Solutions Unveils Integrated High-Security Portfolio for Mission-Critical Infrastructure",
-   "link": "https://www.prnewswire.com/news-releases/fortress-perimeter-solutions-unveils-integrated-high-security-portfolio-for-mission-critical-infrastructure-302940689.html",
-   "summary": "New digital platform brings ARES™, Ajax™, Valkyrie™ and Voltros™ together to simplify perimeter design for data centers, utilities and other critical facilities GARLAND, Texas, Nov. 16, 2026 /PRNewswire/ -- Fortress Perimeter Solutions by Fortress Building Products launched its integrated...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T19:00:00+00:00",
-   "tickers": [
-    "ARES"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "97953313542d",
-   "title": "New Marconi - ÉTS research centre - Driving technological innovation for military and civilian use to promote exports and support Canadian sovereignty",
-   "link": "https://www.prnewswire.com/news-releases/new-marconi---ets-research-centre---driving-technological-innovation-for-military-and-civilian-use-to-promote-exports-and-support-canadian-sovereignty-302940754.html",
-   "summary": "MONTRÉAL, Nov. 16, 2026 /PRNewswire/ -- Marconi Technologies, in partnership with the École de technologie supérieure (ÉTS), is proud to announce the inauguration of the new Centre de recherche Marconi - ÉTS (CRM-ÉTS), a research centre dedicated to funding research on electrical...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T19:00:00+00:00",
-   "tickers": [
-    "CRM"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "34c064238040",
-   "title": "WesBanco, Inc. Appoints Matthew Coppola as Chief Credit Officer | WSBC Stock News",
-   "link": "https://www.stocktitan.net/news/WSBC/wes-banco-inc-appoints-matthew-coppola-as-chief-credit-n5chyb22djg2.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-16T19:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "bbad29f4aee3",
-   "title": "IDenta Reports 59% Revenue Growth for First Nine Months of 2026; Profit Before Finance More Than Doubles | IDTA Stock News",
-   "link": "https://www.stocktitan.net/news/IDTA/i-denta-reports-59-revenue-growth-for-first-nine-months-of-2026-s7zjox35ogpw.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-16T19:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "748f673c58f6",
-   "title": "Northern Trust Employees Set Volunteer Service Record With More Than 72,000 Hours During ‘Achieving Greater Together’ Month | NTRS Stock News",
-   "link": "https://www.stocktitan.net/news/NTRS/northern-trust-employees-set-volunteer-service-record-with-more-than-umrsm9wzqtr1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-16T19:00:00+00:00",
-   "tickers": [
-    "NTRS"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1ca614877adc",
-   "title": "HPE-Built “Lux” AI Cluster Debuts at No. 14 on the TOP500 | HPE Stock News",
-   "link": "https://www.stocktitan.net/news/HPE/hpe-built-lux-ai-cluster-debuts-at-no-14-on-the-zx1iim24s9bo.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-16T19:00:00+00:00",
-   "tickers": [
-    "HPE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "53e059efa3b8",
-   "title": "SMX Brings American Ingenuity to the Next Frontier of Artificial Intelligence | SMX Stock News",
-   "link": "https://www.stocktitan.net/news/SMX/smx-brings-american-ingenuity-to-the-next-frontier-of-artificial-wg6vgzgg5bfy.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-16T19:00:00+00:00",
-   "tickers": [
-    "SMX"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "09262c9ce3f0",
-   "title": "AMD-Powered Lux Supercomputer Opens to Scientific Users at Oak Ridge, Becoming First AI Factory for DOE’s Genesis Mission | AMD Stock News",
-   "link": "https://www.stocktitan.net/news/AMD/amd-powered-lux-supercomputer-opens-to-scientific-users-at-oak-ridge-0fl845r480cy.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-16T19:00:00+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e02348481888",
-   "title": "Market's Nvidia obsession obscuring an opportunity in this name",
-   "link": "https://www.cnbc.com/2026/11/16/disney-options-trade-before-earnings.html",
-   "summary": "Investors might be overlooking Disney earnings.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-16T18:56:49+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3f4e04d2889f",
-   "title": "Hims & Hers Health Stock Crashes After Earnings: Is Now the Time to Buy?",
-   "link": "https://www.nasdaq.com/articles/hims-hers-health-stock-crashes-after-earnings-now-time-buy",
-   "summary": "Key PointsHims &amp; Hers Health grew its revenue by 49% last quarter.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T18:56:02+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "eeee6d86874a",
-   "title": "A&G Management Company Announces Management Transition to WPM Real Estate Management",
-   "link": "https://www.prnewswire.com/news-releases/ag-management-company-announces-management-transition-to-wpm-real-estate-management-302940874.html",
-   "summary": "Ownership remains unchanged as most A&amp;G employees transition to WPM BALTIMORE, Nov. 16, 2026 /PRNewswire/ -- A&amp;G Management Company announced today that it has selected WPM Real Estate Management as its management partner for 14 multifamily communities totaling more than 3,000 apartment...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T18:56:00+00:00",
-   "tickers": [
-    "WPM"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5ec5aad3632c",
-   "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
-   "link": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
-   "summary": "President Trump told reporters before departing for a trip to Asia that former Nvidia CEO Jensen Huang's affair did not put U.S. national security at risk.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-16T18:55:46+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5e595f398eda",
-   "title": "Security Federal Announces Cash Dividend | SFDL Stock News",
-   "link": "https://www.stocktitan.net/news/SFDL/security-federal-announces-cash-yjqfs3tfak79.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-16T18:55:00+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "e811273f233e",
-   "title": "TC Energy To Expand NGTL Pipeline Network With Alberta Growth Connector",
-   "link": "https://www.nasdaq.com/articles/tc-energy-expand-ngtl-pipeline-network-alberta-growth-connector",
-   "summary": "(RTTNews) - On Monday, TC Energy (TRP) plans to expand its NGTL natural gas pipeline network with the proposed Alberta Growth Connector, a 370-kilometre pipeline that will transport natural gas from Western Canada directly to Alberta's oil sands region.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T18:54:20+00:00",
-   "tickers": [
-    "TRP"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "8cf3f9edf4f6",
-   "title": "Brighthouse Financial stock hits 52-week low at 8.98 USD",
-   "link": "https://www.investing.com/news/company-news/brighthouse-financial-stock-hits-52week-low-at-898-usd-93CH-5030720",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T18:51:06+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8973,7 +8963,6 @@
   "SOXS": "Direxion Daily Semiconductor Bear 3X Shares",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "CRL": "Charles River Laboratories International",
-  "SMX": "SMX (Security Matters) Public Limited",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "CM": "Canadian Imperial Bank of Commerce",
   "TIGO": "Millicom International Cellular",
@@ -8984,7 +8973,6 @@
   "IBP": "Installed Building Products",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "BTDR": "Bitdeer Technologies Group",
-  "HPE": "Hewlett Packard Enterprise",
   "SLS": "SELLAS Life Sciences Group",
   "AEO": "American Eagle Outfitters",
   "ECG": "Everus Construction Group",
@@ -8999,7 +8987,6 @@
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
   "RJF": "Raymond James Financial",
-  "WPM": "Wheaton Precious Metals",
   "ADM": "Archer-Daniels-Midland",
   "AMD": "Advanced Micro Devices",
   "CHTR": "Charter Communications",
@@ -9020,7 +9007,6 @@
   "LULU": "lululemon athletica",
   "PSQ": "ProShares Short QQQ",
   "BRK-A": "Berkshire Hathaway",
-  "HIMS": "Hims & Hers Health",
   "MFC": "Manulife Financial",
   "MRVL": "Marvell Technology",
   "PANW": "Palo Alto Networks",
@@ -9052,6 +9038,7 @@
   "VMC": "Vulcan Materials",
   "VRSK": "Verisk Analytics",
   "MARA": "Marathon Digital",
+  "HURN": "Huron Consulting",
   "ARES": "Ares Management",
   "AXON": "Axon Enterprise",
   "BAC": "Bank of America",
@@ -9095,6 +9082,7 @@
   "CAT": "Caterpillar",
   "CGON": "CG Oncology",
   "FE": "FirstEnergy",
+  "NU": "Nu Holdings",
   "TSN": "Tyson Foods",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
@@ -9103,7 +9091,6 @@
   "BA": "The Boeing",
   "BX": "Blackstone",
   "CAVA": "CAVA Group",
-  "CRM": "Salesforce",
   "MA": "Mastercard",
   "NRG": "NRG Energy",
   "PLUG": "Plug Power",
@@ -9113,7 +9100,6 @@
   "BC": "Brunswick",
   "C": "Citigroup",
   "CME": "CME Group",
-  "TRP": "TC Energy",
   "APH": "Amphenol",
   "DASH": "DoorDash",
   "DUOL": "Duolingo",
@@ -9122,6 +9108,7 @@
   "MTB": "M&T Bank",
   "NI": "NiSource",
   "TER": "Teradyne",
+  "SNAP": "Snapchat",
   "ALV": "Autoliv",
   "ARMK": "Aramark",
   "CMI": "Cummins",
@@ -9130,6 +9117,7 @@
   "MCO": "Moody's",
   "MET": "MetLife",
   "MRK": "Merck &",
+  "MRNA": "Moderna",
   "NTNX": "Nutanix",
   "PEP": "PepsiCo",
   "SNDK": "Sandisk",
@@ -9149,6 +9137,7 @@
   "INTC": "Intel",
   "KKR": "KKR &",
   "RHHBY": "Roche",
+  "XPEV": "XPeng",
   "MSCI": "MSCI",
   "V": "Visa"
  }
