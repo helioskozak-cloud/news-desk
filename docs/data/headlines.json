@@ -1,8 +1,71 @@
 {
- "generated": "2026-11-16T19:16:21.714962+00:00",
+ "generated": "2026-11-16T19:21:37.113623+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "33f82fd4eb8a",
+   "title": "Major U.S. banks report widespread service outages",
+   "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+   "summary": "Customers at Bank of America, JPMorgan Chase and other major financial institutions are reporting difficulty accessing their accounts.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-16T19:17:41+00:00",
+   "tickers": [
+    "JPM",
+    "BAC"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "925fa196b34d",
+   "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+   "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+   "summary": "Two OpenAI models gained unauthorized access Hugging Face's internal systems. The models were trying to find information for use in cheating on an evaluation.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-16T19:16:39+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "57053cd2bfcd",
+   "title": "DUOL Investors Have Opportunity to Lead Duolingo, Inc. Securities Fraud Lawsuit with SBS Law",
+   "link": "https://www.prnewswire.com/news-releases/duol-investors-have-opportunity-to-lead-duolingo-inc-securities-fraud-lawsuit-with-sbs-law-302940788.html",
+   "summary": "LOS ANGELES, Nov. 16, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Duolingo, Inc. (\"Duolingo\" or \"the Company\") (NASDAQ: DUOL) for violations of §§10(b) and 20(a) of the...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-16T19:16:00+00:00",
+   "tickers": [
+    "DUOL"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "828c91b2ab26",
+   "title": "ENSG Investors Have Opportunity to Lead The Ensign Group, Inc. Securities Fraud Lawsuit with SBS Law",
+   "link": "https://www.prnewswire.com/news-releases/ensg-investors-have-opportunity-to-lead-the-ensign-group-inc-securities-fraud-lawsuit-with-sbs-law-302940785.html",
+   "summary": "LOS ANGELES, Nov. 16, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, reminds investors of a class action lawsuit against The Ensign Group, Inc. (\"Ensign\" or \"the Company\") (NASDAQ: ENSG) for violations of §§10(b) and 20(a) of the...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-16T19:16:00+00:00",
+   "tickers": [
+    "ENSG"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "903d1dd7682e",
    "title": "There's a growing 'property tax revolt' as homeowners face rising costs. How it could impact your bill",
@@ -60,23 +123,6 @@
    "tag_v": 2
   },
   {
-   "id": "33f82fd4eb8a",
-   "title": "Major U.S. banks report widespread service outages",
-   "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
-   "summary": "Customers at Bank of America, JPMorgan Chase and other major financial institutions are reporting difficulty accessing their accounts.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-16T19:13:08+00:00",
-   "tickers": [
-    "JPM",
-    "BAC"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "561f2b9e3edb",
    "title": "FLNC Investors Have Opportunity to Lead Fluence Energy, Inc. Securities Fraud Lawsuit with SBS Law",
    "link": "https://www.prnewswire.com/news-releases/flnc-investors-have-opportunity-to-lead-fluence-energy-inc-securities-fraud-lawsuit-with-sbs-law-302940873.html",
@@ -120,20 +166,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "925fa196b34d",
-   "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-   "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-   "summary": "Two OpenAI models gained unauthorized access Hugging Face's internal systems. The models were trying to find information for use in cheating on an evaluation.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-16T19:07:26+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -531,7 +563,7 @@
    "title": "Accel-KKR and RS2 Healthcare Partners Support Loftware's Acquisition of Seagull Software",
    "link": "https://www.prnewswire.com/news-releases/accel-kkr-and-rs2-healthcare-partners-support-loftwares-acquisition-of-seagull-software-302940870.html",
    "summary": "Long-term investors reaffirm commitment to supporting the combined company's growth, product innovation and customer service MENLO PARK, Calif. and BOSTON, Nov. 16, 2026 /PRNewswire/ -- Accel-KKR and RS2 Healthcare Partners (formerly Riverside Partners), investors in Loftware, today...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-11-16T19:00:00+00:00",
@@ -2223,6 +2255,20 @@
    "tag_v": 2
   },
   {
+   "id": "b61790693b59",
+   "title": "Pakistan vows to proceed with US-Iran diplomacy and urges Afghanistan to act on terrorism - AP News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0k3UTR4eTVrZDIwM0dTZkotUkxXdVRuNlhELVZ0X1lEWDIxS1E2UGpyNWJOam1wQWpRTTZGQWRVMWNia3JGdU45VEhHcnIycnZaaUZka2tzMUVQcGtJdjd3bmVSdU1DQ1F5dmtSVFZNekVuMWhRbHpEYURxcFlKdU5obWN1UzJHMmJrSG5wOHJaeXNwS2ZhN3pYay02eU03dlhORkdoUHhhOE90MEZxNTdhX1gxZw?oc=5",
+   "summary": "Pakistan vows to proceed with US-Iran diplomacy and urges Afghanistan to act on terrorism&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T17:59:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "01b9a0dc70a4",
    "title": "2026 U.S. Senate Election Results - AP News",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
@@ -2248,6 +2294,22 @@
    "domain": "news.google.com",
    "published": "2026-11-16T17:57:00+00:00",
    "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "439b0a4593de",
+   "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5",
+   "summary": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T17:57:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
@@ -2381,6 +2443,20 @@
     "LCID"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e9dc0373a40f",
+   "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGw5a2lMb1B2bEtyYWotSkJYcWhXNHN2R3lwQlNuSUxfSHB5VzJ4Y25wNjZvcnVMLWhlN01rNnM3LXo2OHVScndJZm5VRWhjVFNrNnJZZDRhdEpoSThDelpzbDJlMTB0QXZ2al9FLWFkS3JTU1FfaFpBVkp1X2lrMU93bU5FbzlIQl9qbzFQLXE?oc=5",
+   "summary": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T17:46:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3011,6 +3087,20 @@
    "tag_v": 2
   },
   {
+   "id": "7d935a997c15",
+   "title": "More drops for Nvidia and other AI stocks drag the US market lower - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5",
+   "summary": "More drops for Nvidia and other AI stocks drag the US market lower&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T17:08:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "13317b3cfe28",
    "title": "What's Going On With ExxonMobil Stock Monday?",
    "link": "https://www.benzinga.com/markets/large-cap/26/11/63305551/whats-going-on-with-exxonmobil-stock-monday",
@@ -3506,6 +3596,20 @@
    "published": "2026-11-16T16:56:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aba31989ec0c",
+   "title": "A Georgia O'Keeffe painting was buried in a New York apartment closet. It is going up for auction - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHVDTnhaXzRWQWc0VEM3bjlKellVSzJzRl84TDdETS1RbVJwMW1sNlZqNnE5Z3NKREllVTY0ZUdLQTNuLWl0QUVNVGllNXJCeGFIaUxINHg0M1VuQlBuMWtVc0ltVkJnMWtQdV9QZFhEMld5TjBSdHJlSERJd0gzVVlFZm5VM1AtU3dLcU8wTVg5WTc0RWVmRGVuLWt0UjBlVDRoN21ybGNuU2FTZHc?oc=5",
+   "summary": "A Georgia O'Keeffe painting was buried in a New York apartment closet. It is going up for auction&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T16:56:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6265,20 +6369,6 @@
    "tag_v": 2
   },
   {
-   "id": "b61790693b59",
-   "title": "Pakistan vows to proceed with US-Iran diplomacy and urges Afghanistan to act on terrorism - AP News",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0k3UTR4eTVrZDIwM0dTZkotUkxXdVRuNlhELVZ0X1lEWDIxS1E2UGpyNWJOam1wQWpRTTZGQWRVMWNia3JGdU45VEhHcnIycnZaaUZka2tzMUVQcGtJdjd3bmVSdU1DQ1F5dmtSVFZNekVuMWhRbHpEYURxcFlKdU5obWN1UzJHMmJrSG5wOHJaeXNwS2ZhN3pYay02eU03dlhORkdoUHhhOE90MEZxNTdhX1gxZw?oc=5",
-   "summary": "Pakistan vows to proceed with US-Iran diplomacy and urges Afghanistan to act on terrorism&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-16T15:25:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "8182d058bc11",
    "title": "Integer Holdings stock hits 52-week high at 126.96 USD",
    "link": "https://www.investing.com/news/company-news/integer-holdings-stock-hits-52week-high-at-12696-usd-93CH-5030417",
@@ -7851,20 +7941,6 @@
    "tag_v": 2
   },
   {
-   "id": "7d935a997c15",
-   "title": "More drops for Nvidia and other AI stocks drag the US market lower - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5",
-   "summary": "More drops for Nvidia and other AI stocks drag the US market lower&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-16T14:44:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "9e8066f913ff",
    "title": "Septerna at UBS biopharma conference: oral pipeline advances",
    "link": "https://www.investing.com/news/transcripts/septerna-at-ubs-biopharma-conference-oral-pipeline-advances-93CH-5030291",
@@ -8943,82 +9019,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "647c37890362",
-   "title": "Why is Nebius stock sliding today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-5030128",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T14:13:35+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f1d8cf3b7ed7",
-   "title": "Top four US airlines face $345 million hit from FAA ground stop, Bernstein estimates",
-   "link": "https://www.investing.com/news/stock-market-news/top-four-us-airlines-face-345-million-hit-from-faa-ground-stop-bernstein-estimates-5030123",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T14:12:43+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "c034841106c5",
-   "title": "Das netzbildende Energiespeichersystem von DoGo versorgt 2.000 Haushalte auf einer abgelegenen indonesischen Insel rund um die Uhr mit Strom.",
-   "link": "https://www.prnewswire.com/news-releases/das-netzbildende-energiespeichersystem-von-dogo-versorgt-2-000-haushalte-auf-einer-abgelegenen-indonesischen-insel-rund-um-die-uhr-mit-strom-302940534.html",
-   "summary": "JAKARTA, Indonesien, 16. November 2026 /PRNewswire/ -- Das intelligente netzbildende Energiespeichersystem (ESS) und Energiemanagementsystem (EMS) von DoGo Power ist offiziell auf der Insel Pagerungan Kecil (P Island), einer abgelegenen Insel vor der Südküste Indonesiens, in Betrieb...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T14:12:00+00:00",
-   "tickers": [
-    "ESS"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f544fa623c59",
-   "title": "New GoDaddy Airo AI Builder Lets Small Businesses Turn Ideas into Websites and Apps",
-   "link": "https://www.prnewswire.com/news-releases/new-godaddy-airo-ai-builder-lets-small-businesses-turn-ideas-into-websites-and-apps-302940437.html",
-   "summary": "An early look at more than 100,000 websites and web apps shows how entrepreneurs are using AI to build their businesses online TEMPE, Ariz., Nov. 16, 2026 /PRNewswire/ -- GoDaddy (NYSE: GDDY), the world's largest domain registrar, is bringing advanced innovation to entrepreneurs with Airo...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T14:12:00+00:00",
-   "tickers": [
-    "GDDY"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "367929b23e79",
-   "title": "New Jersey-based Shore Medical Center and Shore Physicians Group Select Oracle Health's New AI-Powered EHR to Create a More Connected Experience for Patients and Care Teams",
-   "link": "https://www.prnewswire.com/news-releases/new-jersey-based-shore-medical-center-and-shore-physicians-group-select-oracle-healths-new-ai-powered-ehr-to-create-a-more-connected-experience-for-patients-and-care-teams-302940524.html",
-   "summary": "Technology will unify Shore Medical Center and Shore Physicians Group to streamline care, improve communication, and enhance the patient experience AUSTIN, Texas, Nov. 16, 2026 /PRNewswire/ -- Shore Medical Center and Shore Physicians Group (Shore) is expanding its longstanding...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T14:12:00+00:00",
-   "tickers": [
-    "ORCL"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9094,6 +9094,7 @@
   "TXN": "Texas Instruments",
   "UBER": "Uber Technologies",
   "AMTM": "Amentum Holdings",
+  "ENSG": "The Ensign Group",
   "JPM": "JPMorgan Chase &",
   "NOC": "Northrop Grumman",
   "RKT": "Rocket Companies",
