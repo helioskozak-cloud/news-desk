@@ -1,14 +1,75 @@
 {
- "generated": "2026-11-16T20:01:15.298775+00:00",
+ "generated": "2026-11-16T20:06:06.006256+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "33f82fd4eb8a",
+   "title": "Major U.S. banks report widespread service outages",
+   "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+   "summary": "Customers at Bank of America, JPMorgan Chase and other major financial institutions are reporting difficulty accessing their accounts.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-16T20:03:48+00:00",
+   "tickers": [
+    "JPM",
+    "BAC"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1ad1998691f2",
+   "title": "Mississippi U.S. Senate Election Live Results 2026 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40QzF6VWVSbVp6Zkx1Q0I1OGU4aG5UVTdmMDM5UTdIVTNDd0t5RmJ1RHUxVW9DMmVialI4TWxCMERpUy1pTk1la01IS1ZVdFJJUnJGNmdBX29GU2M5ZlVqaDJ5VFctbUZtRXpLbVlpNGlYNDdkdkM0UEhod0Jmdw?oc=5",
+   "summary": "Mississippi U.S. Senate Election Live Results 2026&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T20:02:57+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "925fa196b34d",
+   "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+   "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+   "summary": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-16T20:02:43+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "2099d2d42504",
+   "title": "Notice of Data Security Incident",
+   "link": "https://www.prnewswire.com/news-releases/notice-of-data-security-incident-302940936.html",
+   "summary": "HOUSTON, Nov. 16, 2026 /PRNewswire/ -- Colla Health, Inc. (\"Colla Health\") is providing notice of a recent data security incident that may have resulted in unauthorized access to certain individuals' personal information (\"PI\") and/or protected health information (\"PHI\"). This notice...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-16T20:01:00+00:00",
+   "tickers": [
+    "PI"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "f6d18bf71d9d",
    "title": "First Horizon Bank Names Andrew Finkle Palm Beach and Broward County, Florida Market President",
    "link": "https://www.prnewswire.com/news-releases/first-horizon-bank-names-andrew-finkle-palm-beach-and-broward-county-florida-market-president-302940930.html",
    "summary": "BROWARD COUNTY, Fla., Nov. 16, 2026 /PRNewswire/ -- First Horizon Bank (NYSE: FHN) (or \"First Horizon\") today announced Andrew Finkle as Palm Beach and Broward Market President, leading the local team and serving the bank's clients across the greater Palm Beach and Broward County, Florida...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-11-16T20:00:00+00:00",
@@ -107,20 +168,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "925fa196b34d",
-   "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-   "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-   "summary": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-16T19:57:26+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -686,23 +733,6 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "33f82fd4eb8a",
-   "title": "Major U.S. banks report widespread service outages",
-   "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
-   "summary": "Customers at Bank of America, JPMorgan Chase and other major financial institutions are reporting difficulty accessing their accounts.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-16T19:30:37+00:00",
-   "tickers": [
-    "JPM",
-    "BAC"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2093,6 +2123,20 @@
     "KTOS"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "647769236143",
+   "title": "Robert Pattinson is named the seventh James Bond, taking over from Daniel Craig - AP News",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WVdwdnRSYW5oWmtlN1hsVXVZUV91UVR3bi02WEdFYXV0cHAyckFqNGhhRjVmWjZaWlNQYW5VM185akwyZjgzQmFhZzZWVlFoY3FUcXNmbmNObmNOQWlxUGVmc19kNXJmZmlqcW84V280ajE1d0RZWVFPczlKVXM?oc=5",
+   "summary": "Robert Pattinson is named the seventh James Bond, taking over from Daniel Craig&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T18:36:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3916,20 +3960,6 @@
    "tag_v": 2
   },
   {
-   "id": "7d935a997c15",
-   "title": "More drops for Nvidia and other AI stocks drag the US market lower - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5",
-   "summary": "More drops for Nvidia and other AI stocks drag the US market lower&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-16T17:08:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "13317b3cfe28",
    "title": "What's Going On With ExxonMobil Stock Monday?",
    "link": "https://www.benzinga.com/markets/large-cap/26/11/63305551/whats-going-on-with-exxonmobil-stock-monday",
@@ -4440,6 +4470,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7d935a997c15",
+   "title": "More drops for Nvidia and other AI stocks drag the US market lower - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5",
+   "summary": "More drops for Nvidia and other AI stocks drag the US market lower&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T16:55:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -7870,20 +7914,6 @@
    "tag_v": 2
   },
   {
-   "id": "647769236143",
-   "title": "Robert Pattinson is named the seventh James Bond, taking over from Daniel Craig - AP News",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WVdwdnRSYW5oWmtlN1hsVXVZUV91UVR3bi02WEdFYXV0cHAyckFqNGhhRjVmWjZaWlNQYW5VM185akwyZjgzQmFhZzZWVlFoY3FUcXNmbmNObmNOQWlxUGVmc19kNXJmZmlqcW84V280ajE1d0RZWVFPczlKVXM?oc=5",
-   "summary": "Robert Pattinson is named the seventh James Bond, taking over from Daniel Craig&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-16T15:09:20+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "7431fc2ac073",
    "title": "Why is Dell Technologies stock sliding today?",
    "link": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-sliding-today-93CH-5030366",
@@ -8998,34 +9028,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "58d2c32c3900",
-   "title": "Hercules Metals Closes C$5.78M Private Placement with Barrick, Maintaining 10.34% Ownership | BADEF Stock News",
-   "link": "https://www.stocktitan.net/news/BADEF/hercules-metals-closes-c-5-78m-private-placement-with-barrick-lugihll4gui3.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-16T14:40:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "638eb27e9fe5",
-   "title": "Alpha Dart Therapy Shows Complete Tumor Clearance in Five Brain Cancer Patients",
-   "link": "https://www.benzinga.com/markets/biotech/26/11/63291764/alpha-dart-therapy-shows-complete-tumor-clearance-in-five-brain-cancer-patients",
-   "summary": "Alpha Tau Medical Ltd. (NASDAQ:DRTS) on Sunday reported positive interim results from its U.S. REGAIN trial evaluating Alpha DaRT therapy in patients with recurrent glioblastoma.The data capture patient outcomes through November 11, 2026.Strong Tumor Response RatesClinicians have treated eight patients in the trial so far, and six have reached MRI response assessment. Under RANO criteria, all six evaluable patients achieved an objective response.Five patients, or 83.3%, achieved a complete respo",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-16T14:37:58+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9205,6 +9207,7 @@
   "DEO": "Diageo",
   "MAT": "Mattel",
   "ORCL": "Oracle",
+  "PI": "Impinj",
   "RDDT": "Reddit",
   "STE": "STERIS",
   "VST": "Vistra",
