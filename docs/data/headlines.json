@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-16T17:51:27.898964+00:00",
+ "generated": "2026-11-16T17:53:56.956472+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "70713f8264d0",
+   "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
+   "link": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
+   "summary": "Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-16T17:52:38+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "8823de81bca4",
    "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
@@ -11,9 +25,57 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-16T17:50:05+00:00",
+   "published": "2026-11-16T17:51:27+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e3bf76456719",
+   "title": "Stock Indexes Retreat as Chipmakers and AI Stocks Fall",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-retreat-chipmakers-and-ai-stocks-fall",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.95% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.47%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&amp;P futures (ESZ26 ) are down -1.02%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T17:50:32+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "daf72b3232e1",
+   "title": "Weakness in Chipmakers and AI Stocks Weighs on Stock Indexes",
+   "link": "https://www.nasdaq.com/articles/weakness-chipmakers-and-ai-stocks-weighs-stock-indexes",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.75% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.36%. December E-mini S&amp;P futures (ESZ26 ) are down -0.80%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T17:50:32+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "480c54f11edc",
+   "title": "Cotton Falling on Monday Morning",
+   "link": "https://www.nasdaq.com/articles/cotton-falling-monday-morning-0",
+   "summary": "Cotton price action is down 120 to 132 points in early Monday trade. Futures posted Friday gains of 4 to 27 points in the front months, with deferred losses of 2 points. December was down 33 points on the week. Crude oil was up just 18 cents per barrel on...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T17:50:31+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -29,6 +91,78 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "4f91f9da3161",
+   "title": "Cattle Look to Monday Trade Following Gains Last Week",
+   "link": "https://www.nasdaq.com/articles/cattle-look-monday-trade-following-gains-last-week",
+   "summary": "Live cattle futures saw Friday gains of $1.75 to $2.30 across the board at the close, with December $6.60 higher on the week. Open interest suggested new buying, up 2,454 contracts. Cash trade saw some light dressed trade at $335-340 in the North. The Friday Fed Cattle Exchange online auction...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T17:45:12+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "84e4d57b5c9a",
+   "title": "Cattle Close the Week with a Rally",
+   "link": "https://www.nasdaq.com/articles/cattle-close-week-rally",
+   "summary": "Live cattle futures saw Friday gains of $1.75 to $2.30 across the board at the close, with December $6.60 higher on the week. Cash trade saw some light dressed trade at $335-340 in the North. The Friday Fed Cattle Exchange online auction showed a few bids of $218 on 237...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T17:45:12+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "6b1f48dc51b7",
+   "title": "Wheat Posts Friday Gains",
+   "link": "https://www.nasdaq.com/articles/wheat-posts-friday-gains-0",
+   "summary": "The wheat complex is trading with gains across the three markets on to round out the week. Chicago SRW futures posted Friday gains of 5 to 9 cents across the board, as December was up just 2 cents for the week. KC HRW futures saw strength of 3 to 6...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T17:45:12+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ba1748ae3a98",
+   "title": "Cotton Bulls Hold Firm on Friday",
+   "link": "https://www.nasdaq.com/articles/cotton-bulls-hold-firm-friday",
+   "summary": "Cotton futures posted Friday gains of 4 to 27 points in the front months, with deferred losses of 2 points. December was down 33 points on the week. Crude oil was up just 18 cents per barrel on the session, with the US dollar index $0.231 higher. USDA’s Export Sales...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T17:45:12+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "818de9a7dfd8",
+   "title": "ISO Forecasts for a Sugar Deficit Support Prices",
+   "link": "https://www.nasdaq.com/articles/iso-forecasts-sugar-deficit-support-prices",
+   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.19 (+1.04%) on Friday, and March London ICE white sugar #5 (SWH2 7) closed up +6.20 (+1.20%). Sugar prices settled higher on Friday. The International Sugar Organization (ISO) forecasts that global sugar production in 2026/27 will fall by 1% y/y to...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T17:45:11+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -111,6 +245,48 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "df3c8ac9c133",
+   "title": "Vycor Medical, Inc. Reports Revenue of $414,895 for the Three Months Ended September 30, 2026",
+   "link": "https://www.nasdaq.com/articles/vycor-medical-inc-reports-revenue-414895-three-months-ended-september-30-2026",
+   "summary": "Vycor Medical, Inc. announced financial results for the three and nine months ended September 30, 2026. For the three months ended September 30, 2026, the Company reported revenue of $414,895, a decrease of 19% over the 2025 period. The Vycor Medical division (VBAS) generated rev",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T17:41:17+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c067940f3d44",
+   "title": "Cybin Inc. Reports Second Quarter Fiscal 2027 Financial Results",
+   "link": "https://www.nasdaq.com/articles/cybin-inc-reports-second-quarter-fiscal-2027-financial-results",
+   "summary": "Cybin Inc., which filed under the name Helus Pharma Inc., reported its financial results for the fiscal quarter ended September 30, 2026. Cash totaled $171.1 million as of September 30, 2026. Net loss was $103.1 million for the quarter ended September 30, 2026, compared to a net",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T17:41:08+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1d01b0e0a8cd",
+   "title": "DEFSEC Technologies Inc. Announces Completion of 9-to-1 Share Consolidation",
+   "link": "https://www.nasdaq.com/articles/defsec-technologies-inc-announces-completion-9-1-share-consolidation",
+   "summary": "DEFSEC Technologies Inc. announced that it has completed a consolidation of its common shares on a 9-to-1 basis. The company expects its consolidated common shares to begin trading on the TSX Venture Exchange and the Nasdaq Stock Market at market open on November 16, 2026, under",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T17:41:08+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -203,20 +379,6 @@
    "tag_v": 2
   },
   {
-   "id": "3c7531160ecf",
-   "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
-   "link": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
-   "summary": "Nvidia's stock continued to slide on Monday following the resignation of CEO Jensen Huang.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-16T17:33:15+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "5bc5b5143af2",
    "title": "Tesla to invest €3 billion to expand Berlin factory for Cybercab",
    "link": "https://www.investing.com/news/stock-market-news/tesla-to-invest-3-billion-to-expand-berlin-factory-for-cybercab-93CH-5030628",
@@ -264,20 +426,17 @@
    "tag_v": 2
   },
   {
-   "id": "daf72b3232e1",
-   "title": "Weakness in Chipmakers and AI Stocks Weighs on Stock Indexes",
-   "link": "https://www.nasdaq.com/articles/weakness-chipmakers-and-ai-stocks-weighs-stock-indexes",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.75% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.36%. December E-mini S&amp;P futures (ESZ26 ) are down -0.80%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
+   "id": "a35351ede5ff",
+   "title": "FTSE 100 today: Stocks edge lower; defence shares lead and oil falls",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-as-iran-tensions-simmer-5028639",
+   "summary": "",
+   "source": "Investing Stock",
    "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T17:31:33+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
+   "domain": "investing.com",
+   "published": "2026-11-16T17:31:09+00:00",
+   "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -292,20 +451,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a35351ede5ff",
-   "title": "FTSE 100 today: Stocks edge lower; defence shares lead and oil falls",
-   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-as-iran-tensions-simmer-5028639",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:31:09+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -387,15 +532,15 @@
    "title": "See Which Recent 13F Filers Hold AMD But KR Capital, Albar Capital Partners, Riposte Capital, Cinctive Capital Management and Nishkama Capital Exited",
    "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-amd-kr-capital-albar-capital-partners-riposte-capital",
    "summary": "At Holdings Channel, we have reviewed the latest batch of the 155 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Advanced Micro Devices Inc (Symbol: AMD) was held by 43 of these funds. When hedge fund managers appear to be thinking alike, we find i",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-16T17:28:16+00:00",
    "tickers": [
     "AMD",
     "KR"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -428,66 +573,6 @@
    "tag_v": 2
   },
   {
-   "id": "483524bcff32",
-   "title": "BioAge Labs at UBS conference: pivots BGE-102 toward eye disease",
-   "link": "https://www.investing.com/news/transcripts/bioage-labs-at-ubs-conference-pivots-bge102-toward-eye-disease-93CH-5030622",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:25:31+00:00",
-   "tickers": [
-    "UBS"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ea61ccab1859",
-   "title": "First Tracks Biotherapeutics at Jefferies: celiac data lifts outlook",
-   "link": "https://www.investing.com/news/transcripts/first-tracks-biotherapeutics-at-jefferies-celiac-data-lifts-outlook-93CH-5030621",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:24:52+00:00",
-   "tickers": [
-    "JEF"
-   ],
-   "type": "guidance",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "026b35726df8",
-   "title": "Fed’s Barr warns on AI risks to financial system",
-   "link": "https://www.investing.com/news/economic-indicators/feds-barr-warns-on-ai-risks-to-financial-system-5028804",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:24:28+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "027cbe5bc73e",
-   "title": "2026 U.S. House Election Results - AP News",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-   "summary": "2026 U.S. House Election Results&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-16T17:24:19+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "8015f46252db",
    "title": "2026 Alaska Midterm Election Results - AP News",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PSHdYZDVTR3dZZ2VGUHVJSlBMR0E3VHlWV004VkdNaUZJSTNIekx1d0l3NlVnYUV3b3c5VVRNVjNKSGFneHllcEhUUEJWLVp3dEQ0cUFWd3IzWlJDWnBuN0FJOFhOMWJxUHc?oc=5",
@@ -498,22 +583,6 @@
    "published": "2026-11-16T17:24:18+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4c0021f936d3",
-   "title": "Prime Medicine at Jefferies: pushes gene-editing pipeline, funding options",
-   "link": "https://www.investing.com/news/transcripts/prime-medicine-at-jefferies-pushes-geneediting-pipeline-funding-options-93CH-5030620",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:23:01+00:00",
-   "tickers": [
-    "JEF"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -546,17 +615,19 @@
    "tag_v": 2
   },
   {
-   "id": "ecf96253b6f3",
-   "title": "Earnings call transcript: IBAT narrows q2 2027 loss as pilot plan advances",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-ibat-narrows-q2-2027-loss-as-pilot-plan-advances-93CH-5030619",
-   "summary": "",
-   "source": "Investing.com",
+   "id": "fc1e891c645f",
+   "title": "Why Sandisk Stock Keeps Going Down",
+   "link": "https://www.nasdaq.com/articles/why-sandisk-stock-keeps-going-down-0",
+   "summary": "Key PointsThere's no new bad news huring Sandisk stock today.",
+   "source": "NASDAQ Markets",
    "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:21:30+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T17:22:01+00:00",
+   "tickers": [
+    "SNDK"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -590,19 +661,17 @@
    "tag_v": 2
   },
   {
-   "id": "e81c5e0e6670",
-   "title": "Harmony Gold Mining Company Limited Reports Loss-of-Life Incident at Mponeng Mine",
-   "link": "https://www.nasdaq.com/articles/harmony-gold-mining-company-limited-reports-loss-life-incident-mponeng-mine",
-   "summary": "Harmony Gold Mining Company Limited reported a loss-of-life incident at its Mponeng mine in the West Rand of Gauteng on Saturday, 14 November 2026. A locomotive operator was injured while conducting tramming activities in the Carbon Leader Reef development section of the mine.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "id": "a8a05a35d754",
+   "title": "Progressive Paid a $13.50 Annual Dividend Last January. Will It Pay Another for 2026?",
+   "link": "https://www.nasdaq.com/articles/progressive-paid-1350-annual-dividend-last-january-will-it-pay-another-2026",
+   "summary": "Key PointsLike all insurers, Progressive&rsquo;s profitability can ebb and flow greatly from one year to the next.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
-   "published": "2026-11-16T17:21:11+00:00",
-   "tickers": [
-    "HMY"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
+   "published": "2026-11-16T17:20:02+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -628,20 +697,6 @@
    "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-16T17:19:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5935bf7eb104",
-   "title": "Bank of Canada Governor Macklem to step down once term ends in 2027",
-   "link": "https://www.investing.com/news/economy-news/bank-of-canada-governor-macklem-to-step-down-once-term-ends-in-2027-5030388",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:18:22+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -695,36 +750,6 @@
    "tag_v": 2
   },
   {
-   "id": "17f292f5f5d9",
-   "title": "Cogent Biosciences stock hits 52-week low at 27.73 USD",
-   "link": "https://www.investing.com/news/company-news/cogent-biosciences-stock-hits-52week-low-at-2773-usd-93CH-5030616",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:16:06+00:00",
-   "tickers": [
-    "COGT"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d9c5f8b8dad8",
-   "title": "Rapid Micro Biosystems earnings missed by $0.03, revenue fell short of estimates",
-   "link": "https://www.investing.com/news/earnings/rapid-micro-biosystems-earnings-missed-by-003-revenue-fell-short-of-estimates-5030615",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:15:37+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "075259c14e21",
    "title": "Teledyne LeCroy Introduces Ultra Accelerator Link™ Validation System for AI and HPC Scale-Up Infrastructure",
    "link": "https://www.prnewswire.com/news-releases/teledyne-lecroy-introduces-ultra-accelerator-link-validation-system-for-ai-and-hpc-scale-up-infrastructure-302940669.html",
@@ -754,152 +779,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5107868475e0",
-   "title": "Dollar Climbs on Stock Weakness and Fed Tightening Prospects",
-   "link": "https://www.nasdaq.com/articles/dollar-climbs-stock-weakness-and-fed-tightening-prospects",
-   "summary": "The dollar index (DXY00 ) climbed to a fresh 1.5-year high today and is up +0.10%. The dollar is climbing today amid weakness in stocks, which is boosting demand for dollar liquidity. The dollar also has carryover support from last Friday, when several Fed members expressed their support for additional...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T17:14:47+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "b62516ade607",
-   "title": "Wheat Posting Monday AM Losses",
-   "link": "https://www.nasdaq.com/articles/wheat-posting-monday-am-losses",
-   "summary": "Wheat is trading with contracts 3 to 4 cents lower across most contracts. The wheat complex is trading with gains across the three markets on to round out the week. Chicago SRW futures posted Friday gains of 5 to 9 cents across the board, as December was up just 2...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T17:14:46+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "c9de48343633",
-   "title": "Hogs Look to Monday After Friday’s Bounce",
-   "link": "https://www.nasdaq.com/articles/hogs-look-monday-after-fridays-bounce",
-   "summary": "Lean hog futures found some footing on Friday, with contracts up 30 cents to $2.40 across the board on the session, as December was up $1.92 on the week. Open interest was down 7,731 contracts on Friday, suggesting short covering. USDA’s national base hog price was reported at $43.10 on...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T17:14:46+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4f91f9da3161",
-   "title": "Cattle Look to Monday Trade Following Gains Last Week",
-   "link": "https://www.nasdaq.com/articles/cattle-look-monday-trade-following-gains-last-week",
-   "summary": "Live cattle futures saw Friday gains of $1.75 to $2.30 across the board at the close, with December $6.60 higher on the week. Open interest suggested new buying, up 2,454 contracts. Cash trade saw some light dressed trade at $335-340 in the North. The Friday Fed Cattle Exchange online auction...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T17:14:46+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "c5e129dcb693",
-   "title": "Corn Slipping Back on Monday Morning",
-   "link": "https://www.nasdaq.com/articles/corn-slipping-back-monday-morning",
-   "summary": "Corn prices are down fractionally to a penny on Monday. Futures posted modest gains on Friday, with contracts up 1 to 3 cents across the board. Open interest was up 3,118 contracts on Friday. December saw a 4 cent gain for the week. The CmdtyView national average Cash Corn price...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T17:14:45+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3928c8ef228e",
-   "title": "Corn Firm into the Weekend as Export Business Picks Up",
-   "link": "https://www.nasdaq.com/articles/corn-firm-weekend-export-business-picks",
-   "summary": "Corn futures posted modest gains on Friday, with contracts up 1 to 3 cents across the board. December saw a 4 cent gain for the week. The CmdtyView national average Cash Corn price was up 4 cents at $4.13 1/4. USDA reported a private export sale of 303,800 MT to...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T17:14:45+00:00",
-   "tickers": [
-    "MT"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "bcdf733a7d05",
-   "title": "Hogs Post Gains Across the Board on Friday",
-   "link": "https://www.nasdaq.com/articles/hogs-post-gains-across-board-friday",
-   "summary": "Lean hog futures found some footing on Friday, with contracts up 30 cents to $2.40 across the board on the session, as December was up $1.92 on the week. USDA’s national base hog price was reported at $43.10 on Friday afternoon, up $3.46 from the day prior. The CME Lean...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T17:14:45+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "84e4d57b5c9a",
-   "title": "Cattle Close the Week with a Rally",
-   "link": "https://www.nasdaq.com/articles/cattle-close-week-rally",
-   "summary": "Live cattle futures saw Friday gains of $1.75 to $2.30 across the board at the close, with December $6.60 higher on the week. Cash trade saw some light dressed trade at $335-340 in the North. The Friday Fed Cattle Exchange online auction showed a few bids of $218 on 237...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T17:14:45+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "f3683c099d42",
-   "title": "Hawkish Fed Speak Lifts Bond Yields and the Dollar",
-   "link": "https://www.nasdaq.com/articles/hawkish-fed-speak-lifts-bond-yields-and-dollar",
-   "summary": "The dollar index (DXY00 ) rallied to a new 1.5-year high on Friday and finished up +0.22%. The dollar was supported by weakness in stocks on Friday, which boosted demand for dollar liquidity. The dollar also rose amid higher T-note yields, after the 10-year T-note yield rose to a 4-week...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T17:14:44+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "52b38100cb6e",
-   "title": "Cocoa Prices Climb as Heavy Rains Disrupt Cocoa Transport in Ivory Coast",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-climb-heavy-rains-disrupt-cocoa-transport-ivory-coast",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +53 (+1.05%) on Friday, and ICE London cocoa #7 (CAZ26 ) closed up +44 (+1.15%). Cocoa prices settled higher on Friday for a third day. Reports of heavy rains in the Ivory Coast this week that damaged roads and disrupted the transport...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T17:14:44+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1034,6 +913,20 @@
    "tag_v": 2
   },
   {
+   "id": "0e92d7e6658c",
+   "title": "TSX Slides 0.61% On Energy Losses Despite Easing Inflation",
+   "link": "https://www.nasdaq.com/articles/tsx-slides-061-energy-losses-despite-easing-inflation",
+   "summary": "(RTTNews) - Despite soft inflation data, the Canadian stock market is notably lower around noon on Monday, weighed down by losses in energy and materials sectors due to weak commodity prices. Technology stocks are turning in a mixed performance in cautious trade amid ongoing conc",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T17:12:54+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "e1cb3d69e39a",
    "title": "Nasdaq, S&P fall with Nvidia earnings, Anthropic debut looming",
    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-little-changed-as-investors-await-nvidia-earnings-5028292",
@@ -1090,62 +983,6 @@
    "tag_v": 2
   },
   {
-   "id": "ecff34e56dff",
-   "title": "Portugal stocks higher at close of trade; PSI up 0.13%",
-   "link": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-013-5030596",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:08:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cca51ba25d04",
-   "title": "Netherlands stocks lower at close of trade; AEX down 0.60%",
-   "link": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-060-5030595",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:07:31+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "755c448b5846",
-   "title": "Italy stocks lower at close of trade; Investing.com Italy 40 down 0.63%",
-   "link": "https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-063-5030594",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:07:06+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "604eeea73e01",
-   "title": "Factbox-Top cases on the US Supreme Court’s docket",
-   "link": "https://www.investing.com/news/stock-market-news/factboxtop-cases-on-the-us-supreme-courts-docket-5030579",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:06:43+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "13317b3cfe28",
    "title": "What's Going On With ExxonMobil Stock Monday?",
    "link": "https://www.benzinga.com/markets/large-cap/26/11/63305551/whats-going-on-with-exxonmobil-stock-monday",
@@ -1159,20 +996,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "47f049b27b93",
-   "title": "Germany stocks lower at close of trade; DAX down 0.45%",
-   "link": "https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-045-5030590",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:06:15+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1234,22 +1057,6 @@
    "tag_v": 2
   },
   {
-   "id": "b9577db1fc24",
-   "title": "Citi names top infrastructure software stocks amid rising AI standards",
-   "link": "https://www.investing.com/news/stock-market-news/citi-names-top-infrastructure-software-stocks-amid-rising-ai-standards-5030584",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:04:17+00:00",
-   "tickers": [
-    "C"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "4676d2ffc821",
    "title": "This food giant has gone nowhere for a year. Jay Woods sees a breakout ahead",
    "link": "https://www.cnbc.com/2026/11/16/kraft-stock-jay-woods.html",
@@ -1275,22 +1082,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "3db5dd86be7b",
-   "title": "American Express reports card delinquency and write-off rates for October",
-   "link": "https://www.investing.com/news/sec-filings/american-express-reports-card-delinquency-and-writeoff-rates-for-october-93CH-5030582",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:02:53+00:00",
-   "tickers": [
-    "AXP"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1324,51 +1115,6 @@
    "tag_v": 2
   },
   {
-   "id": "17063ca64e81",
-   "title": "Warren Buffett donates more Berkshire shares, confidence ’as strong as ever’",
-   "link": "https://www.investing.com/news/stock-market-news/warren-buffett-to-donate-portion-of-berkshire-shares-to-four-family-foundations-5029367",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:01:02+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "caa6d91afb0a",
-   "title": "Bank of America hires Evercore’s Stapleton to lead activism defense, memo",
-   "link": "https://www.investing.com/news/stock-market-news/bank-of-america-hires-evercores-stapleton-to-lead-activism-defense-memo-5030580",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:00:48+00:00",
-   "tickers": [
-    "BAC",
-    "EVR"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ae37494b09fc",
-   "title": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.44%",
-   "link": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-044-5030578",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:00:29+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "e4ad1651c753",
    "title": "Jensen Huang Boasted in 2024 He Managed 'Not to Get Fired' in 31 Years at Nvidia — An Affair Scandal Ended His Run 2 Years Later",
    "link": "https://www.benzinga.com/news/26/11/63304978/jensen-huang-boasted-in-2024-he-managed-not-to-get-fired-in-31-years-at-nvidia-an-affair-scandal-ended-his-run-2-years-later",
@@ -1380,20 +1126,6 @@
    "tickers": [
     "NVDA"
    ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "d7f2a8fff0c3",
-   "title": "Finland stocks lower at close of trade; OMX Helsinki 25 down 0.68%",
-   "link": "https://www.investing.com/news/stock-market-news/finland-stocks-lower-at-close-of-trade-omx-helsinki-25-down-068-5030575",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T17:00:04+00:00",
-   "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
@@ -1479,23 +1211,6 @@
    "published": "2026-11-16T17:00:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "07add0a129d3",
-   "title": "Rockwell Automation Integrates NVIDIA Omniverse into Emulate3D to Advance Industrial Simulation and AI-Powered Factory Design",
-   "link": "https://www.prnewswire.com/news-releases/rockwell-automation-integrates-nvidia-omniverse-into-emulate3d-to-advance-industrial-simulation-and-ai-powered-factory-design-302940633.html",
-   "summary": "Manufacturers can simulate larger, more complex systems and accelerate AI-driven innovation before physical deployment MILWAUKEE, Nov. 16, 2026 /PRNewswire/ -- Rockwell Automation, Inc. (NYSE: ROK), the world's largest company dedicated to industrial automation and digital transformation,...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T17:00:00+00:00",
-   "tickers": [
-    "ROK",
-    "NVDA"
-   ],
-   "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1695,22 +1410,6 @@
    "tag_v": 2
   },
   {
-   "id": "1a515d8035db",
-   "title": "The Inner Circle acknowledges Oladunni Boladale, as a Pinnacle Lifetime Member",
-   "link": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-oladunni-boladale-as-a-pinnacle-lifetime-member-302940617.html",
-   "summary": "BOLINGBROOK, Ill., Nov. 16, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Oladunni O. Boladale, DNP, PMHNP-BC, is acknowledged as a Pinnacle Lifetime Member for her contributions to psychiatric and behavioral healthcare. Dr. Boladale is a doctoral prepared Psychiatric...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T16:59:00+00:00",
-   "tickers": [
-    "BC"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "c2f77a709f0e",
    "title": "H World Group (HTHT) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/h-world-group-htht-q3-2026-earnings-call-transcript",
@@ -1735,22 +1434,6 @@
    "published": "2026-11-16T16:58:07+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c95d796b63f7",
-   "title": "Gildan Activewear Inc. (GIL) Facing Securities Class Action Alleging Revenue Inflation, Channel Stuffing, and False Organic Growth Metrics",
-   "link": "https://www.prnewswire.com/news-releases/gildan-activewear-inc-gil-facing-securities-class-action-alleging-revenue-inflation-channel-stuffing-and-false-organic-growth-metrics-302940607.html",
-   "summary": "SAN FRANCISCO, Nov. 16, 2026 /PRNewswire/ -- Hagens Berman, a prominent national trial law firm specializing in securities fraud and shareholder rights, alerts investors in Gildan Activewear Inc. (NYSE: GIL) to a class action lawsuit filed in federal court. The firm encourages Gildan...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T16:58:00+00:00",
-   "tickers": [
-    "GIL"
-   ],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1785,22 +1468,6 @@
    "tag_v": 2
   },
   {
-   "id": "852c4a87d963",
-   "title": "Goldman Sachs reiterates SpaceX stock rating after Starship milestone",
-   "link": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-spacex-stock-rating-after-starship-milestone-93CH-5030574",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:56:57+00:00",
-   "tickers": [
-    "GS"
-   ],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "af95b84324d6",
    "title": "Datavault AI Risks Nasdaq Delisting After Failing Minimum Share Price Rules, Stock Plunges",
    "link": "https://www.benzinga.com/trading-ideas/movers/26/11/63304714/datavault-ai-risks-nasdaq-delisting-after-failing-minimum-share-price-rules-stock-plunges",
@@ -1814,22 +1481,6 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "b9cffa87665a",
-   "title": "APP DEADLINE ALERT: Hagens Berman Alerts AppLovin Corporation Investors to Today's Lead Plaintiff Deadline in Securities Class Action",
-   "link": "https://www.prnewswire.com/news-releases/app-deadline-alert-hagens-berman-alerts-applovin-corporation-investors-to-todays-lead-plaintiff-deadline-in-securities-class-action-302940599.html",
-   "summary": "SAN FRANCISCO, Nov. 16, 2026 /PRNewswire/ -- Hagens Berman, a leading securities litigation law firm, is actively investigating alleged federal securities law violations by AppLovin Corporation (NASDAQ: APP) in a pending securities class action. The suit alleges AppLovin executive...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T16:56:00+00:00",
-   "tickers": [
-    "APP"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1847,50 +1498,6 @@
    "tag_v": 2
   },
   {
-   "id": "ddd9c6dbc323",
-   "title": "Earnings call transcript: Rubicon Organics posts q3 2026 growth as stock falls",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-rubicon-organics-posts-q3-2026-growth-as-stock-falls-93CH-5030573",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:54:53+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "0a078f43309b",
-   "title": "Silicon Valley leaders back call for Jensen Huang’s return to Nvidia",
-   "link": "https://www.investing.com/news/stock-market-news/silicon-valley-leaders-back-call-for-jensen-huangs-return-to-nvidia-5029956",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:54:26+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "36ab53f80720",
-   "title": "FLNC 11-DAY DEADLINE ALERT: Fluence Energy Investors with Substantial Losses Have Opportunity to Lead the Fluence Class Action Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/flnc-11-day-deadline-alert-fluence-energy-investors-with-substantial-losses-have-opportunity-to-lead-the-fluence-class-action-lawsuit-302940587.html",
-   "summary": "SAN FRANCISCO, Nov. 16, 2026 /PRNewswire/ -- On November 2, 2026, investors in Fluence Energy (NASDAQ: FLNC) saw the price of their shares continue to tumble – this time, the shares fell almost 9% after the company announced CEO Julian Nebreda and CFO Ahmad Pasha departed on October 30,...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T16:54:00+00:00",
-   "tickers": [
-    "FLNC"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "72b3b46e14fd",
    "title": "XPeng CEO Bets Its Humanoid Robots Could Outsell Industry's Hottest Luxury EVs",
    "link": "https://www.benzinga.com/markets/earnings/26/11/63304557/xpeng-ceo-bets-its-humanoid-robots-could-outsell-industrys-hottest-luxury-evs",
@@ -1903,50 +1510,6 @@
     "XPEV"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0e1326839a65",
-   "title": "Webull (BULL) Hit With FINRA AML Fine, Stock Slides Again; Securities Class Action Pending",
-   "link": "https://www.prnewswire.com/news-releases/webull-bull-hit-with-finra-aml-fine-stock-slides-again-securities-class-action-pending-302940579.html",
-   "summary": "SAN FRANCISCO, Nov. 16, 2026 /PRNewswire/ -- On November 5, 2026, investors in Webull Corporation (NASDAQ: BULL) saw the price of their shares slide nearly 11% after FINRA announced that it fined the company $4.2 million \"for failing to implement reasonably designed programs for...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T16:53:00+00:00",
-   "tickers": [
-    "BULL"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "edd54ca4863e",
-   "title": "Why is Aclaris Therapeutics stock sliding today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-aclaris-therapeutics-stock-sliding-today-93CH-5030572",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:52:50+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5ec5aad3632c",
-   "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
-   "link": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
-   "summary": "President Trump told reporters before departing for a trip to Asia that former Nvidia CEO Jensen Huang's affair did not put U.S. national security at risk.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-16T16:52:28+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1967,162 +1530,6 @@
    "tag_v": 2
   },
   {
-   "id": "439fd9db1e1f",
-   "title": "Why is BILL Holdings stock surging today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-bill-holdings-stock-surging-today-93CH-5030571",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:52:14+00:00",
-   "tickers": [
-    "BILL"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "44c22b67bd79",
-   "title": "Why is Peabody Energy stock gaining today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-peabody-energy-stock-gaining-today-93CH-5030570",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:52:10+00:00",
-   "tickers": [
-    "BTU"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "eabd167d034e",
-   "title": "Why AMD Stock Was Sliding Today",
-   "link": "https://www.nasdaq.com/articles/why-amd-stock-was-sliding-today",
-   "summary": "Key PointsThe Dept. of Commerce issued new chip export rules on countries in Southeast Asia.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T16:51:48+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "57dde4628b9a",
-   "title": "Broker Darlings of the Dow: Coca-Cola Ranks As a Top 15 Analyst Pick",
-   "link": "https://www.nasdaq.com/articles/broker-darlings-dow-coca-cola-ranks-top-15-analyst-pick-0",
-   "summary": "A study of analyst recommendations at the major brokerages shows that Coca-Cola Co (Symbol: KO) is the #4 broker pick, on average, out of the 30 stocks making up the Dow Jones Industrial Average, according to ETF Channel. Coca-Cola Co is also a top tier analyst pick among the b",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T16:51:33+00:00",
-   "tickers": [
-    "KO"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "369f78987a3a",
-   "title": "Commit To Buy EOS Energy Enterprises At $1, Earn 28% Using Options",
-   "link": "https://www.nasdaq.com/articles/commit-buy-eos-energy-enterprises-1-earn-28-using-options",
-   "summary": "Investors eyeing a purchase of EOS Energy Enterprises Inc (Symbol: EOSE) shares, but cautious about paying the going market price of $1.85/share, might benefit from considering selling puts among the alternative strategies at their disposal. One interesting put contract in part",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T16:51:30+00:00",
-   "tickers": [
-    "EOSE"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4439a2a6ada2",
-   "title": "Analyst Favorites: Barrick Mining Ranks As a Top Metals Pick",
-   "link": "https://www.nasdaq.com/articles/analyst-favorites-barrick-mining-ranks-top-metals-pick-0",
-   "summary": "A study of analyst recommendations at the major brokerages shows that Barrick Mining Corp (Symbol: B) is the #4 broker analyst pick, on average, out of the 50 stocks making up the Metals Channel Global Mining Titans Index, according to Metals Channel. The Metals Channel Global",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T16:51:26+00:00",
-   "tickers": [
-    "B"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "38c00e994d7b",
-   "title": "The Nasdaq Just Entered a Correction. Are Your ETFs All Making the Same Bet?",
-   "link": "https://www.nasdaq.com/articles/nasdaq-just-entered-correction-are-your-etfs-all-making-same-bet",
-   "summary": "Key PointsAn ETF&rsquo;s number of holdings does not show how heavily its biggest positions are weighted.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T16:50:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "af9b50d1364b",
-   "title": "Trump Media faces possible $1 billion debt repayment as stock nears record lows",
-   "link": "https://www.investing.com/news/stock-market-news/trump-media-faces-possible-1-billion-debt-repayment-as-stock-nears-record-lows-5030566",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:48:42+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "95115ba26d2c",
-   "title": "NVDA INVESTOR ALERT: Hagens Berman Urges NVIDIA Corporation (NASDAQ: NVDA) Investors with Substantial Losses to Contact Firm Ahead of January 8, 2027 Lead Plaintiff Deadline",
-   "link": "https://www.prnewswire.com/news-releases/nvda-investor-alert-hagens-berman-urges-nvidia-corporation-nasdaq-nvda-investors-with-substantial-losses-to-contact-firm-ahead-of-january-8-2027-lead-plaintiff-deadline-302940561.html",
-   "summary": "SAN FRANCISCO, Nov. 16, 2026 /PRNewswire/ -- Hagens Berman, a prominent national trial law firm specializing in securities fraud and shareholder rights, alerts investors in NVIDIA Corporation (NASDAQ: NVDA) to breaking developments surrounding the pending federal securities class action...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T16:47:00+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "type": "press",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "8d3370599d69",
-   "title": "Monotype Launches Brand Font Panel for Adobe Creative Apps",
-   "link": "https://www.prnewswire.com/news-releases/monotype-launches-brand-font-panel-for-adobe-creative-apps-302940723.html",
-   "summary": "The Monotype Connect panel brings teams' approved font libraries into Adobe Illustrator, Photoshop, and InDesign. WOBURN, Mass., Nov. 16, 2026 /PRNewswire/ -- Monotype Imaging Inc., a global leader in type and technology, has launched the Monotype Connect panel for Adobe Illustrator,...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T16:47:00+00:00",
-   "tickers": [
-    "ADBE"
-   ],
-   "type": "press",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "35ba899e6b59",
    "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears - AP News",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYk96UzY0dUprVC1yQ1RSbFkyQzdRdnJxWVF5RkdmYVRMUkFGZ0VxVGNiRllDTEliZ1JsTDJrcmJWT2VDTThZM0QxY1RzTUY4TEY2cmlGR1BDM3JqUUFzMEtoZ2ducXl5TnVZRV92UlhhUjZmUWk3a3ZjbDZRdXdLa2c1WmhscjdvaWRmQTR1T2EwZzFSOUtnaG1MUUNUN2ZodXc?oc=5",
@@ -2133,38 +1540,6 @@
    "published": "2026-11-16T16:46:00+00:00",
    "tickers": [],
    "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "138feb677198",
-   "title": "Jefferies names top internet stocks to own through 2027",
-   "link": "https://www.investing.com/news/stock-market-news/jefferies-names-top-internet-stocks-to-own-through-2027-5030559",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:45:05+00:00",
-   "tickers": [
-    "JEF"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "83f9a6ecd65c",
-   "title": "InventHelp Inventor Develops New Accessory for Painters (TRO-1705)",
-   "link": "https://www.prnewswire.com/news-releases/inventhelp-inventor-develops-new-accessory-for-painters-tro-1705-302936136.html",
-   "summary": "PITTSBURGH, Nov. 16, 2026 /PRNewswire/ -- \"As a professional painter, I wanted to create a new painting accessory that would offer quick and easy access to both a roller and paintbrush,\" said an inventor from Bracebridge, Ontario, Canada. As a result, they developed the patent-pending NU...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T16:45:00+00:00",
-   "tickers": [
-    "NU"
-   ],
-   "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2201,34 +1576,6 @@
    "tag_v": 2
   },
   {
-   "id": "bf630b1ac987",
-   "title": "US to curb China’s access to AI chips as Trump heads to Asia",
-   "link": "https://www.investing.com/news/economy-news/us-issues-rule-to-protect-advanced-ai-chips-from-being-accessed-remotely-5029988",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:43:27+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0b7d37071be4",
-   "title": "Trump backs potential return of Jensen Huang as Nvidia CEO",
-   "link": "https://www.investing.com/news/stock-market-news/trump-says-he-would-not-mind-huang-being-reinstated-as-nvidia-ceo-5030546",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:43:12+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "344e69c763a8",
    "title": "Goodbye, Petrodollar. Meet the ‘Chip-Dollar,’ the $1 Trillion Flow Now Holding Up the Greenback",
    "link": "https://www.benzinga.com/markets/forex/26/11/63303886/chip-dollar-deutsche-bank-chips-replace-petrodollar-dollar-risk",
@@ -2239,142 +1586,6 @@
    "published": "2026-11-16T16:43:07+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3f36e4d138bf",
-   "title": "Alphatec Holdings stock hits 52-week low at 6.8 USD",
-   "link": "https://www.investing.com/news/company-news/alphatec-holdings-stock-hits-52week-low-at-68-usd-93CH-5030558",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:42:59+00:00",
-   "tickers": [
-    "ATEC"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b694a2243dd5",
-   "title": "US hyperscale data centers emit as much as Denmark, report says",
-   "link": "https://www.investing.com/news/commodities-news/us-hyperscale-data-centers-emit-as-much-as-denmark-report-says-5030503",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:42:26+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8869bbcc8814",
-   "title": "Earnings call transcript: GameSquare posts stronger Q3 2026 results, shares fall 11%",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-gamesquare-posts-stronger-q3-2026-results-shares-fall-11-93CH-5030557",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:41:41+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "f18aa1987697",
-   "title": "Prudential plc Repurchases Shares Between 9 November 2026 and 13 November 2026",
-   "link": "https://www.nasdaq.com/articles/prudential-plc-repurchases-shares-between-9-november-2026-and-13-november-2026",
-   "summary": "Prudential plc has purchased ordinary shares of 5 pence each from JP Morgan Securities plc under the buy-back arrangements announced on 6 January 2026 and 2 September 2026. Between 9 November 2026 and 13 November 2026, the daily transactions on the XLON trading venue included the",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T16:41:23+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "022d948dba89",
-   "title": "Insight Enterprises, Inc. Board Approves $400.0 million Stock Repurchase Program",
-   "link": "https://www.nasdaq.com/articles/insight-enterprises-inc-board-approves-4000-million-stock-repurchase-program",
-   "summary": "On November 13, 2026, the Board of Directors of Insight Enterprises, Inc. approved the authorization of a stock repurchase program. Under the program, the Company may purchase up to $400.0 million of its common stock, par value $0.01, in addition to approximately $36.5 million th",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T16:41:22+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "e062d68668dd",
-   "title": "Black Hills Corporation Completes Merger with NorthWestern Energy Group, Inc. on November 13, 2026",
-   "link": "https://www.nasdaq.com/articles/black-hills-corporation-completes-merger-northwestern-energy-group-inc-november-13-2026",
-   "summary": "Effective November 13, 2026, Black Hills Corporation completed its previously announced all-stock merger with NorthWestern Energy Group, Inc., with NorthWestern continuing as a direct wholly owned subsidiary. In connection with the merger, the company changed its name to Bright H",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T16:41:22+00:00",
-   "tickers": [
-    "BKH"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5a6da6425a4f",
-   "title": "Minerva at Jefferies Global Healthcare Conference: roluperidone push advances",
-   "link": "https://www.investing.com/news/transcripts/minerva-at-jefferies-global-healthcare-conference-roluperidone-push-advances-93CH-5030555",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:40:27+00:00",
-   "tickers": [
-    "JEF"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3c57f76cf1c1",
-   "title": "Xpel stock hits 52-week low at $36.89",
-   "link": "https://www.investing.com/news/company-news/xpel-stock-hits-52week-low-at-3689-93CH-5030554",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:39:49+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f68bc8766b26",
-   "title": "Newron Pharmaceuticals at Jefferies: evenamide drives bold schizophrenia push",
-   "link": "https://www.investing.com/news/transcripts/newron-pharmaceuticals-at-jefferies-evenamide-drives-bold-schizophrenia-push-93CH-5030552",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T16:38:32+00:00",
-   "tickers": [
-    "JEF"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2750,20 +1961,6 @@
    "tag_v": 2
   },
   {
-   "id": "b3f55bc51a57",
-   "title": "Elon Musk and Over 180,000 People, Including Thousands of Nvidia Employees, Have Supposedly Signed a Petition Calling for Jensen Huang’s Return to Nvidia. Could It Actually Happen?",
-   "link": "https://www.nasdaq.com/articles/elon-musk-and-over-180000-people-including-thousands-nvidia-employees-have-supposedly",
-   "summary": "Key PointsHuang resigned from Nvidia last week following reports of multiple extramarital affairs, one of which may have been with a Chinese spy.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T16:24:01+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "2c0f0bd5325f",
    "title": "Weibo stock hits 52-week low at 6.09 USD",
    "link": "https://www.investing.com/news/company-news/weibo-stock-hits-52week-low-at-609-usd-93CH-5030522",
@@ -2790,6 +1987,34 @@
     "ED"
    ],
    "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c5e129dcb693",
+   "title": "Corn Slipping Back on Monday Morning",
+   "link": "https://www.nasdaq.com/articles/corn-slipping-back-monday-morning",
+   "summary": "Corn prices are down fractionally to a penny on Monday. Futures posted modest gains on Friday, with contracts up 1 to 3 cents across the board. Open interest was up 3,118 contracts on Friday. December saw a 4 cent gain for the week. The CmdtyView national average Cash Corn price...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T16:23:12+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f3683c099d42",
+   "title": "Hawkish Fed Speak Lifts Bond Yields and the Dollar",
+   "link": "https://www.nasdaq.com/articles/hawkish-fed-speak-lifts-bond-yields-and-dollar",
+   "summary": "The dollar index (DXY00 ) rallied to a new 1.5-year high on Friday and finished up +0.22%. The dollar was supported by weakness in stocks on Friday, which boosted demand for dollar liquidity. The dollar also rose amid higher T-note yields, after the 10-year T-note yield rose to a 4-week...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T16:23:11+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2890,36 +2115,6 @@
    "published": "2026-11-16T16:20:46+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4e0ee1196ebb",
-   "title": "Could Nvidia's Stock Fall to $100?",
-   "link": "https://www.nasdaq.com/articles/could-nvidias-stock-fall-100",
-   "summary": "Key PointsNvidia's stock has been in a tailspin after investors learned of multiple affairs involving Jensen Huang, who has since resigned as the company's CEO and president.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T16:20:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "85817b0fbb84",
-   "title": "Netflix Stock Now Trades at a 70% Discount to Its Peak Valuation, and One Number Is to Blame",
-   "link": "https://www.nasdaq.com/articles/netflix-stock-now-trades-70-discount-its-peak-valuation-and-one-number-blame",
-   "summary": "Key PointsManagement is forecasting a fourth straight quarter of decelerating revenue growth.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T16:20:02+00:00",
-   "tickers": [
-    "NFLX"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3981,6 +3176,20 @@
    "tag_v": 2
   },
   {
+   "id": "629a03de2175",
+   "title": "Bipartisan bill targets a painful gap: 12 more weeks of unpaid leave for US parents with NICU babies - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0R4QjhMMFFJNUNhM1pvZWlzQmVHLXRoZFY3UVV5a1R6MUZzWHV4cHF2eVVDTjlfR01mbDhZaTE2cS1ZRkhjUGhIbS1vMTdVbGtSYWhaUE5ESFZXNDVnSHJUUzd1dWtYTzR6V0trOFNYdjhFSG1lTm1BVmwzc0FYbG5PWmU3TmZPQmE4dnBXSEl0dFU?oc=5",
+   "summary": "Bipartisan bill targets a painful gap: 12 more weeks of unpaid leave for US parents with NICU babies&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T16:00:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "584922680e5f",
    "title": "FERRARI N.V.: PERIODIC REPORT ON THE BUYBACK PROGRAM | RACE Stock News",
    "link": "https://www.stocktitan.net/news/RACE/ferrari-n-v-periodic-report-on-the-buyback-amunkw62t75r.html",
@@ -4440,6 +3649,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5ec5aad3632c",
+   "title": "Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick",
+   "link": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
+   "summary": "President Trump told reporters before departing for a trip to Asia that former Nvidia CEO Jensen Huang's affair did not put U.S. national security at risk.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-16T15:40:28+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -5602,14 +4825,14 @@
    "tag_v": 2
   },
   {
-   "id": "480c54f11edc",
-   "title": "Cotton Falling on Monday Morning",
-   "link": "https://www.nasdaq.com/articles/cotton-falling-monday-morning-0",
-   "summary": "Cotton price action is down 120 to 132 points in early Monday trade. Futures posted Friday gains of 4 to 27 points in the front months, with deferred losses of 2 points. December was down 33 points on the week. Crude oil was up just 18 cents per barrel on...",
+   "id": "c9de48343633",
+   "title": "Hogs Look to Monday After Friday’s Bounce",
+   "link": "https://www.nasdaq.com/articles/hogs-look-monday-after-fridays-bounce",
+   "summary": "Lean hog futures found some footing on Friday, with contracts up 30 cents to $2.40 across the board on the session, as December was up $1.92 on the week. Open interest was down 7,731 contracts on Friday, suggesting short covering. USDA’s national base hog price was reported at $43.10 on...",
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
-   "published": "2026-11-16T15:06:50+00:00",
+   "published": "2026-11-16T15:06:49+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -5627,6 +4850,22 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "bcdf733a7d05",
+   "title": "Hogs Post Gains Across the Board on Friday",
+   "link": "https://www.nasdaq.com/articles/hogs-post-gains-across-board-friday",
+   "summary": "Lean hog futures found some footing on Friday, with contracts up 30 cents to $2.40 across the board on the session, as December was up $1.92 on the week. USDA’s national base hog price was reported at $43.10 on Friday afternoon, up $3.46 from the day prior. The CME Lean...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T15:06:48+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -5705,20 +4944,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6b1f48dc51b7",
-   "title": "Wheat Posts Friday Gains",
-   "link": "https://www.nasdaq.com/articles/wheat-posts-friday-gains-0",
-   "summary": "The wheat complex is trading with gains across the three markets on to round out the week. Chicago SRW futures posted Friday gains of 5 to 9 cents across the board, as December was up just 2 cents for the week. KC HRW futures saw strength of 3 to 6...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T15:04:30+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -6409,6 +5634,20 @@
    "tag_v": 2
   },
   {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T14:48:01+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "103fc9ab8441",
    "title": "President Trump on Jensen Huang's potential return as CEO: 'I would not mind that'",
    "link": "https://www.cnbc.com/video/2026/11/16/president-trump-on-jensen-huangs-potential-return-as-ceo-i-would-not-mind-that.html",
@@ -6566,6 +5805,20 @@
     "BTC"
    ],
    "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "7d935a997c15",
+   "title": "More drops for Nvidia and other AI stocks drag the US market lower - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5",
+   "summary": "More drops for Nvidia and other AI stocks drag the US market lower&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T14:44:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -7010,20 +6263,6 @@
    ],
    "type": "press",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "70713f8264d0",
-   "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
-   "link": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
-   "summary": "Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-16T14:29:19+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8334,20 +7573,6 @@
    "tag_v": 2
   },
   {
-   "id": "629a03de2175",
-   "title": "Lawmakers unveil bipartisan bill to give NICU parents more time off from work - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0R4QjhMMFFJNUNhM1pvZWlzQmVHLXRoZFY3UVV5a1R6MUZzWHV4cHF2eVVDTjlfR01mbDhZaTE2cS1ZRkhjUGhIbS1vMTdVbGtSYWhaUE5ESFZXNDVnSHJUUzd1dWtYTzR6V0trOFNYdjhFSG1lTm1BVmwzc0FYbG5PWmU3TmZPQmE4dnBXSEl0dFU?oc=5",
-   "summary": "Lawmakers unveil bipartisan bill to give NICU parents more time off from work&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-16T14:01:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "262db514ed0e",
    "title": "Jensen Huang eyes Nvidia return as board faces investor pressure",
    "link": "https://www.thestreet.com/investing/stocks/jensen-huang-eyes-nvidia-return-as-board-faces-investor-pressure",
@@ -9027,6 +8252,800 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
+  },
+  {
+   "id": "164b48fb38ed",
+   "title": "Stewards Reports Third Quarter 2026 Results and Provides Business Update | SWRD Stock News",
+   "link": "https://www.stocktitan.net/news/SWRD/stewards-reports-third-quarter-2026-results-and-provides-business-v4ersrkbxklr.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T14:00:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5df6aeb95269",
+   "title": "FingerMotion Board Initiates Strategic Review of China Business and Potential Sales Process to Focus on Alberta Power and Compute Program | FNGR Stock News",
+   "link": "https://www.stocktitan.net/news/FNGR/finger-motion-board-initiates-strategic-review-of-china-business-and-sustdqar2uft.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T14:00:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "56dc253c6c12",
+   "title": "Taboola Finalizes Acquisition of Dianomi | TBLA Stock News",
+   "link": "https://www.stocktitan.net/news/TBLA/taboola-finalizes-acquisition-of-4vfkaxbpb963.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T14:00:00+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d3ebef0ab6f0",
+   "title": "FSBO.com Announces Strategic Integration with Opendoor, Bringing Cash Offers Directly to Homeowners",
+   "link": "https://www.prnewswire.com/news-releases/fsbocom-announces-strategic-integration-with-opendoor-bringing-cash-offers-directly-to-homeowners-302940469.html",
+   "summary": "New integration expands seller options, strengthens negotiating power, and advances FSBO.com's vision for an agentic AI-powered home-selling experience. NEW YORK, Nov. 16, 2026 /PRNewswire/ -- FSBO.com, one of the nation's longest-standing for-sale-by-owner real estate platforms, has...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-16T14:00:00+00:00",
+   "tickers": [
+    "OPEN"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b7a7ebe25263",
+   "title": "Revolve Group, Inc. to Present at Upcoming Morgan Stanley and KeyBanc Capital Markets Investor Conferences",
+   "link": "https://www.prnewswire.com/news-releases/revolve-group-inc-to-present-at-upcoming-morgan-stanley-and-keybanc-capital-markets-investor-conferences-302939322.html",
+   "summary": "LOS ANGELES, Nov. 16, 2026 /PRNewswire/ -- Revolve Group, Inc. (NYSE: RVLV), the next-generation fashion retailer for Millennial and Generation Z consumers, will present at the following investor conferences: Morgan Stanley Global Consumer and Retail Conference on Wednesday, December 2,...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-16T14:00:00+00:00",
+   "tickers": [
+    "MS"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8888cc8fa7d1",
+   "title": "LaFleur Minerals Continues to Expand Swanson Gold Deposit Mineralization Near Surface and Along Strike with 2.52 g/t Au over 14.35 Metres | LFLRF Stock News",
+   "link": "https://www.stocktitan.net/news/LFLRF/la-fleur-minerals-continues-to-expand-swanson-gold-deposit-3s6jqbgpooj4.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T14:00:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "25d3c780596a",
+   "title": "Velo3D Selected for U.S. Defense Award with Potential Value of Up to $10 Million for UAS Warhead and Lethal Payload Systems | VELO Stock News",
+   "link": "https://www.stocktitan.net/news/VELO/velo3d-selected-for-u-s-defense-award-with-potential-value-of-up-to-czjz3vw61olu.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T14:00:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4423f046f9ac",
+   "title": "Double Eagle Entities Enter Into Definitive Purchase Agreement with Diamondback Energy, Inc. | FANG Stock News",
+   "link": "https://www.stocktitan.net/news/FANG/double-eagle-entities-enter-into-definitive-purchase-agreement-with-ers2o9qtzxig.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T14:00:00+00:00",
+   "tickers": [
+    "FANG"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "df676b341e62",
+   "title": "Rockwell Automation and Velotic Collaborate to Help Manufacturers Modernize Industrial Operations | ROK Stock News",
+   "link": "https://www.stocktitan.net/news/ROK/rockwell-automation-and-velotic-collaborate-to-help-manufacturers-6fwy1j7uj8bp.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T14:00:00+00:00",
+   "tickers": [
+    "ROK"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ca2330723ac9",
+   "title": "Rackspace Technology Selects HGS to Expand Global Engineering and Digital Capabilities | RXT Stock News",
+   "link": "https://www.stocktitan.net/news/RXT/rackspace-technology-selects-hgs-to-expand-global-engineering-and-92w097i5p5l9.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T14:00:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "301efbd0af96",
+   "title": "Air Industries Group Reminds Investors of November 18 Special Meeting for Proposed Tenax Merger",
+   "link": "http://www.businesswire.com/news/home/20261116005225/en/Air-Industries-Group-Reminds-Investors-of-November-18-Special-Meeting-for-Proposed-Tenax-Merger/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+   "summary": "BAY SHORE, N.Y.--(BUSINESS WIRE)---- $airi--Air Industries Group (NYSE American: AIRI) (“AIR” or the “Company”) today announced a reminder that it will hold a special meeting of stockholders (the “Special Meeting”) on November 18, 2026, at 10:00 A.M., Eastern Time, at 1460 Fifth Avenue, Bay Shore, New York 11706, to vote on proposals related to the merger with Tenax Aerospace Acquisition, LLC (“Tenax”). Stockholders of record as of the close of business on October 13, 2026 (the “Record Date”) ar",
+   "source": "BusinessWire",
+   "category": "press",
+   "domain": "businesswire.com",
+   "published": "2026-11-16T14:00:00+00:00",
+   "tickers": [
+    "AIR"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "038f6af2cb37",
+   "title": "Double Eagle Entities Enter Into Definitive Purchase Agreement with Diamondback Energy, Inc.",
+   "link": "http://www.businesswire.com/news/home/20261116822846/en/Double-Eagle-Entities-Enter-Into-Definitive-Purchase-Agreement-with-Diamondback-Energy-Inc./?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+   "summary": "FORT WORTH, Texas--(BUSINESS WIRE)--Double Eagle IV Midco, LLC in combination with Double Eagle V Midco, LLC (“Double Eagle”) today announced that it has entered into a definitive purchase agreement to divest its equity interest in certain subsidiaries to Diamondback Energy, Inc. (NASDAQ: FANG) (“Diamondback”) in exchange for $2.15 billion of cash and approximately 15.56 million shares of Diamondback common stock. Following the transaction, Double Eagle will continue a multi-rig development pro",
+   "source": "BusinessWire",
+   "category": "press",
+   "domain": "businesswire.com",
+   "published": "2026-11-16T14:00:00+00:00",
+   "tickers": [
+    "FANG"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fecdddd6c834",
+   "title": "Simplicity Group Acquires DMI Marketing, Adding Decades of Advisor Relationships and Annuity, Life Insurance, and Wealth Management Expertise, and Welcomes Brian Donahue as Simplicity Group Partner",
+   "link": "https://www.prnewswire.com/news-releases/simplicity-group-acquires-dmi-marketing-adding-decades-of-advisor-relationships-and-annuity-life-insurance-and-wealth-management-expertise-and-welcomes-brian-donahue-as-simplicity-group-partner-302936490.html",
+   "summary": "SUMMIT, N.J., Nov. 16, 2026 /PRNewswire/ -- Simplicity Group (\"Simplicity\"), one of the nation's leading financial products distribution firms, today announced the acquisition of DMI Marketing (\"DMI\"), an industry-leading insurance marketing organization (IMO) and distributor of annuity,...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-16T13:59:00+00:00",
+   "tickers": [
+    "IMO"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6cf950905f2c",
+   "title": "We're booking huge profits on a tech winner and making a chip stock swap",
+   "link": "https://www.cnbc.com/investingclub/2026/11/16/were-booking-huge-profits-on-a-tech-winner-and-making-a-chip-stock-swap.html",
+   "summary": "We are making three trades on Monday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-16T13:58:53+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "5b3a32e0b623",
+   "title": "Exclusive-Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say",
+   "link": "https://www.investing.com/news/commodities-news/exclusiverisk-of-nuclear-accident-in-ukraine-increasing-this-winter-atomic-safety-regulators-say-5029203",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-16T13:56:27+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "18904c949496",
+   "title": "GXO Sets 2030 Financial Targets, Issues Preliminary 2027 Outlook",
+   "link": "https://www.nasdaq.com/articles/gxo-sets-2030-financial-targets-issues-preliminary-2027-outlook",
+   "summary": "(RTTNews) - Contract logistics provider GXO Logistics, Inc. (93N.F, GXO) announced on Monday that it has introduced financial targets through 2030 and issued a preliminary outlook for 2027 at its investor day.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T13:56:10+00:00",
+   "tickers": [
+    "GXO"
+   ],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "478e4e33219a",
+   "title": "Take-Two shares rise premarket as Jefferies sees strong GTA VI pre-orders",
+   "link": "https://www.investing.com/news/stock-market-news/taketwo-shares-rise-premarket-as-jefferies-sees-strong-gta-vi-preorders-5029955",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-16T13:56:08+00:00",
+   "tickers": [
+    "JEF"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "85e67b8f3aa5",
+   "title": "US Democrats bring hope of climate comeback to COP31",
+   "link": "https://www.investing.com/news/commodities-news/absent-officially-unofficially-america-is-all-in-at-cop31-5028641",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-16T13:55:10+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "18a91d78b8a1",
+   "title": "Land & Buildings Urges Invitation Homes To Return $2 Bln Annually To Shareholders",
+   "link": "https://www.nasdaq.com/articles/land-buildings-urges-invitation-homes-return-2-bln-annually-shareholders",
+   "summary": "(RTTNews) - Land & Buildings Investment Management LLC, an activist shareholder of Invitation Homes Inc. (INVH), has called on the single-family rental housing company to significantly increase capital returns, citing what it considers a substantial gap between the value of the c",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T13:55:03+00:00",
+   "tickers": [
+    "INVH"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bc84bd0db41d",
+   "title": "LPL Financial Welcomes Advisor Valerie Bevan | LPLA Stock News",
+   "link": "https://www.stocktitan.net/news/LPLA/lpl-financial-welcomes-advisor-valerie-sm9o2bsa722p.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T13:55:00+00:00",
+   "tickers": [
+    "LPLA"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a3d4ac669b91",
+   "title": "Quantum X Labs Achieves 99.93% Data Recovery in Qatacomb Quantum Cybersecurity Validation Using IonQ’s Quantum Computing Infrastructure | QXL Stock News",
+   "link": "https://www.stocktitan.net/news/QXL/quantum-x-labs-achieves-99-93-data-recovery-in-qatacomb-quantum-obgeoaoifwme.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T13:55:00+00:00",
+   "tickers": [
+    "QUBT",
+    "IONQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "32980010e83f",
+   "title": "MGM vs Wynn: operating scale against valuation upside",
+   "link": "https://www.investing.com/news/stock-market-news/mgm-vs-wynn-operating-scale-against-valuation-upside-93CH-5029987",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-16T13:54:54+00:00",
+   "tickers": [
+    "MGM"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b95669caf8da",
+   "title": "What's Going On With Micron Technology Stock Monday?",
+   "link": "https://www.benzinga.com/markets/tech/26/11/63289274/whats-going-on-with-micron-technology-stock-monday-9",
+   "summary": "Micron Technology, Inc. (NASDAQ:MU) stock fell more than 6% in Monday&#8217;s premarket session as investors trimmed exposure to high-growth technology stocks amid a broader market sell-off. Nasdaq futures fell 1.45%, while S&amp;P 500 futures dropped 0.78%, reflecting weakening investor appetite for riskier assets. Technical Analysis Micron trades 12.8% below its 20-day simple moving average of $838 and 22.6% below its 50-day average of $943.78. The stock also trades 4.6% below its 200-day movi",
+   "source": "Benzinga",
+   "category": "stocks",
+   "domain": "benzinga.com",
+   "published": "2026-11-16T13:54:47+00:00",
+   "tickers": [
+    "MU"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "49e3d9b0659a",
+   "title": "Three tankers hit naval mines in Strait of Hormuz, Iran state TV says - AP",
+   "link": "https://www.investing.com/news/economy-news/three-tankers-hit-naval-mines-in-strait-of-hormuz-iran-state-tv-says--ap-5029984",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-16T13:53:52+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "feed9c31aba2",
+   "title": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news - AP News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZG5hSUlUV1Faal92TE5Na3NzVENGU181SVRwMnN1VzgzMm0xUERkZDdFZG9DLUl6SVhLbnFTSXktZEcwU0RSMTBFaUlPYUZ3TjljdkU3NzdBcGVvQTMwd0Rxa0g1bVFfZnp6eWVkMDg2OGQ0aUczYlc2Q3NtaWRaWU9VSkNJeUZMZ1EyWDNoNXhha1YwQXRfUUpQYm1RbmZEV25QZTRuN3ZFMjRocWNwZ2dBZno?oc=5",
+   "summary": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T13:53:46+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "99cd3a83647d",
+   "title": "Trane Technologies is the top machinery stock for risk-adjusted returns",
+   "link": "https://www.investing.com/news/stock-market-news/trane-technologies-is-the-top-machinery-stock-for-riskadjusted-returns-93CH-5029983",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-16T13:53:28+00:00",
+   "tickers": [
+    "TT"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "9c315515610f",
+   "title": "Why is Robinhood Markets stock sliding today?",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-robinhood-markets-stock-sliding-today-93CH-5029982",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-16T13:53:21+00:00",
+   "tickers": [
+    "HOOD"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bb017c114f95",
+   "title": "Anteros Metals announces private placement for up to C$1.5M",
+   "link": "https://www.investing.com/news/company-news/anteros-metals-announces-private-placement-for-up-to-c15m-93CH-5029981",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-16T13:52:43+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "558d98d1f9fa",
+   "title": "At least 17 people killed in 2 mass shootings on the same day in South Africa - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDRHZlBWT2JkX20zR01WbzNiZUJIVTJldHdSQ25yTHZQTHhZWVp3WWNkZ0U1VEVueDJjcHN6TFVyMXVHS3pMMTJTR09lWXU1UDdncGtUZWlwM1JXdkZLXzJTVDNobDZCd1N6Q2YxeWtaaEpNcnBudW1jeDlDMFV4bVlET05OZmNObEc5MU9nYmhVM0VNc0E?oc=5",
+   "summary": "At least 17 people killed in 2 mass shootings on the same day in South Africa&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T13:52:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5369369462f0",
+   "title": "Caterpillar vs. Deere: CAT leads on value, DE offers recovery upside",
+   "link": "https://www.investing.com/news/stock-market-news/caterpillar-vs-deere-cat-leads-on-value-de-offers-recovery-upside-93CH-5029980",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-16T13:51:56+00:00",
+   "tickers": [
+    "CAT",
+    "DE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0a1eb4781046",
+   "title": "J&J to buy eye disease biotech Ollin Biosciences for up to $3.3 billion",
+   "link": "https://www.cnbc.com/2026/11/16/jj-strikes-deal-for-eye-disease-biotech-ollin-biosciences.html",
+   "summary": "Johnson & Johnson said it would acquire Ollin for $2.2 billion upfront, with ​the potential for milestone ​payments of up to about $1.13 billion.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-16T13:51:34+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "19dd8d6c6f25",
+   "title": "Tyson Foods Posts Q4 Loss Despite Volume Growth; Warns On Weak Sales In FY27; Lifts Dividend",
+   "link": "https://www.nasdaq.com/articles/tyson-foods-posts-q4-loss-despite-volume-growth-warns-weak-sales-fy27-lifts-dividend",
+   "summary": "(RTTNews) - Meat processor Tyson Foods, Inc. reported Monday a loss in its fourth quarter, compared to prior year's profit, while operating income plunged from last year, despite higher sales and volume. Looking ahead for fiscal 2027, the company projects weak sales mainly due to",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T13:51:26+00:00",
+   "tickers": [
+    "TSN"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "6347b8dab8d5",
+   "title": "LibertyStream Provides Corporate Update and Extends Project Financing Exclusivity Period with Endurance | VLTLF Stock News",
+   "link": "https://www.stocktitan.net/news/VLTLF/liberty-stream-provides-corporate-update-and-extends-project-1xihbzpt04su.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T13:51:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3f12886c5fa2",
+   "title": "Nine Energy Service To Acquire American Cementing",
+   "link": "https://www.nasdaq.com/articles/nine-energy-service-acquire-american-cementing",
+   "summary": "(RTTNews) - Monday, Nine Energy Service (NINE) agreed to acquire American Cementing from an affiliate of Argonaut Private Equity. The acquisition will expand Nine's cementing operations and presence in the Rockies, Bakken, and Northeast regions of the U.S.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T13:50:40+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b996ca002c3b",
+   "title": "Spruce Power: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/spruce-power-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsSpruce Power executed a term sheet extending debt maturities to 2027.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T13:50:24+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1db84a9d5578",
+   "title": "Sempra Energy leads utility stocks on valuation, income, and growth",
+   "link": "https://www.investing.com/news/stock-market-news/sempra-energy-leads-utility-stocks-on-valuation-income-and-growth-93CH-5029963",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-16T13:50:04+00:00",
+   "tickers": [
+    "SRE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "835c4f701453",
+   "title": "If Staying in Nvidia Stock Scares You, You Might Want To Consider This ETF",
+   "link": "https://www.nasdaq.com/articles/if-staying-nvidia-stock-scares-you-you-might-want-consider-etf",
+   "summary": "Key PointsNvidia's situation highlights the risks of investing in individual stocks.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T13:50:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1a3b9597db94",
+   "title": "U.S. Stocks May See Further Downside As Nvidia Slumps",
+   "link": "https://www.nasdaq.com/articles/us-stocks-may-see-further-downside-nvidia-slumps",
+   "summary": "(RTTNews) - Following the weakness seen over the two previous sessions, stocks are likely to see further downside in early trading on Monday. The major index futures are currently pointing to a lower open for the markets, with the S&amp;P 500 futures down by 0.6 percent.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T13:49:04+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "1c882a57756d",
+   "title": "Halfday Named Fastest-Growing Modern Tea Brand in U.S. Multi-Outlet Retail",
+   "link": "https://www.prnewswire.com/news-releases/halfday-named-fastest-growing-modern-tea-brand-in-us-multi-outlet-retail-302939971.html",
+   "summary": "The Prebiotic Iced Tea Brand Surpasses 14,000 Retail Locations Following Walmart And Target Expansion, With Sales Growth Outpacing The Ready to Drink Tea Segment PHILADELPHIA, Nov. 16, 2026 /PRNewswire/ -- Halfday, the functional iced tea brand made with prebiotics, today announced it is...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-16T13:49:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b92bcc1310ce",
+   "title": "Treasury yields pause near 1-month highs as traders brace for Fed signals",
+   "link": "https://www.investing.com/news/forex-news/eurozone-yields-stall-after-volatile-week-as-traders-brace-for-ai-megatests-5028425",
+   "summary": "",
+   "source": "Investing Forex",
+   "category": "fx",
+   "domain": "investing.com",
+   "published": "2026-11-16T13:45:54+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3de65e8be8cf",
+   "title": "Presidio Property Trust, Inc. Announces Earnings for the Quarter Ended September 30, 2026 | SQFT Stock News",
+   "link": "https://www.stocktitan.net/news/SQFT/presidio-property-trust-inc-announces-earnings-for-the-quarter-ended-e7iacplw0dps.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T13:45:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b22ff0921b61",
+   "title": "IQST - IQSTEL Reports $313.0 Million in Nine-Month Revenue, Up 34.5% on Organic Growth | IQST Stock News",
+   "link": "https://www.stocktitan.net/news/IQST/iqst-iqstel-reports-313-0-million-in-nine-month-revenue-up-34-5-on-cbq8kao2xh3v.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T13:45:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7a82521a4323",
+   "title": "The More Life Company Advances Agrarius Commercial Adoption for 384,000 Citrus Trees in Brazil | TMLCF Stock News",
+   "link": "https://www.stocktitan.net/news/TMLCF/the-more-life-company-advances-agrarius-commercial-adoption-for-384-ypaprlffnohr.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T13:45:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "27e944caa479",
+   "title": "Once Upon a Coconut Reaches 4,500+ Walmart Stores in Largest Retail Expansion to Date",
+   "link": "https://www.prnewswire.com/news-releases/once-upon-a-coconut-reaches-4-500-walmart-stores-in-largest-retail-expansion-to-date-302939969.html",
+   "summary": "The premium coconut water brand expands its nationwide presence with shelf placement in 4,500+ Walmart stores and cold grab-and-go availability in 1,500 locations, making better-for-you hydration more accessible than ever. ORLANDO, Fla., Nov. 16, 2026 /PRNewswire/ -- Once Upon a Coconut,...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-16T13:44:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "61c8bca9fc5f",
+   "title": "$NILA Token Now Trading on PICOL, Opening Access for Eligible Users in South Korea | APUS Stock News",
+   "link": "https://www.stocktitan.net/news/APUS/nila-token-now-trading-on-picol-opening-access-for-eligible-users-in-ag7qicl1bpg8.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T13:43:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "10edbfb054b1",
+   "title": "At Its Current Rate, AGNC's Dividend Pays Back Today's Stock Price in About 6 Years. Will It Last That Long?",
+   "link": "https://www.nasdaq.com/articles/its-current-rate-agncs-dividend-pays-back-todays-stock-price-about-6-years-will-it-last",
+   "summary": "Key PointsAGNC has paid a $0.12 per share dividend for 79 consecutive months.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T13:42:00+00:00",
+   "tickers": [
+    "AGNC"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "e4dbc2e6a84e",
+   "title": "Fury Gold Mines Limited Reports Working Capital of $48,611 and Gain of $19,241",
+   "link": "https://www.nasdaq.com/articles/fury-gold-mines-limited-reports-working-capital-48611-and-gain-19241",
+   "summary": "Fury Gold Mines Limited (the &ldquo;Company&rdquo; or &ldquo;Fury Gold&rdquo;) was incorporated on June 9, 2008, under the Business Corporations Act (British Columbia) and is listed on the Toronto Stock Exchange and the NYSE-American, with its common shares trading under the symb",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T13:41:33+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "19ed41af4806",
+   "title": "Cosan S.A. Announces CEO Succession Plan Effective January 4, 2027",
+   "link": "https://www.nasdaq.com/articles/cosan-sa-announces-ceo-succession-plan-effective-january-4-2027",
+   "summary": "Cosan S.A. announced that its Board of Directors, at an ordinary meeting held on November 13, 2026, resolved to initiate the succession process for the Company's current Chief Executive Officer, Mr. Marcelo Eduardo Martins, whose resignation will become effective on January 4, 20",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T13:41:33+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c6f493115305",
+   "title": "Cosan S.A. Reports R$ 190 million Net Income in 3Q26",
+   "link": "https://www.nasdaq.com/articles/cosan-sa-reports-r-190-million-net-income-3q26",
+   "summary": "Cosan S.A. reported a net income of R$ 190 million for the third quarter of 2026, compared to a loss of R$ 1.2 billion in 3Q25. The company stated that the result was mainly driven by higher contributions from investees through equity pickup, an improved financial result, and low",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T13:41:33+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2355ebacf7ec",
+   "title": "iFabric Corp Announces Record Revenues for Q3 2026 and the Nine Months Ended September 30, 2026 | IFABF Stock News",
+   "link": "https://www.stocktitan.net/news/IFABF/i-fabric-corp-announces-record-revenues-for-q3-2026-and-the-nine-qn417vrr0dr1.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T13:40:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "187da441d2d5",
+   "title": "AITX’s RAD Expands Its AI Analytics Library with Glass Break Detection for ROAMEO | AITX Stock News",
+   "link": "https://www.stocktitan.net/news/AITX/aitx-s-rad-expands-its-ai-analytics-library-with-glass-break-31m1zu9ekto7.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T13:40:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "fc7bf51ffd8c",
+   "title": "Corma Launches Cormie, an AI Copilot for Managing Workplace Software in Plain Language",
+   "link": "https://www.prnewswire.com/news-releases/corma-launches-cormie-an-ai-copilot-for-managing-workplace-software-in-plain-language-302938969.html",
+   "summary": "Built on Corma's identity, access and license data, Cormie lets teams get answers and act on them in a single chat, with every change approved and logged. PARIS, Nov. 16, 2026 /PRNewswire/ -- Corma, a software license and access governance platform, today announced Cormie, an AI copilot...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-16T13:38:00+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "press",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "a8bd9a243bc6",
+   "title": "Top Soft Skills of the Future: What America's Fastest-Growing Careers Have in Common",
+   "link": "https://www.prnewswire.com/news-releases/top-soft-skills-of-the-future-what-americas-fastest-growing-careers-have-in-common-302939347.html",
+   "summary": "New Resume Now analysis of BLS and O*NET data identifies the soft skills that appear most consistently across the 20 occupations projected to grow fastest through 2035 GUAYNABO, Puerto Rico, Nov. 16, 2026 /PRNewswire/ -- As AI changes workplaces and job expectations continue to evolve,...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-16T13:38:00+00:00",
+   "tickers": [
+    "NET"
+   ],
+   "type": "press",
+   "sentiment": "positive",
+   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9057,7 +9076,7 @@
   "HON": "Honeywell International",
   "JKHY": "Jack Henry & Associates",
   "AMD": "Advanced Micro Devices",
-  "EOSE": "Eos Energy Enterprises",
+  "LPLA": "LPL Financial Holdings",
   "MAR": "Marriott International",
   "COF": "Capital One Financial",
   "CWST": "Casella Waste Systems",
@@ -9066,11 +9085,13 @@
   "IONS": "Ionis Pharmaceuticals",
   "LHX": "L3Harris Technologies",
   "NVTS": "Navitas Semiconductor",
+  "OPEN": "Opendoor Technologies",
   "PLTR": "Palantir Technologies",
   "TDY": "Teledyne Technologies",
   "AWK": "American Water Works",
   "CINF": "Cincinnati Financial",
   "CRWD": "CrowdStrike Holdings",
+  "IMO": "Imperial Oil Limited",
   "JETS": "U.S. Global Jets ETF",
   "SMCI": "Super Micro Computer",
   "VOYG": "Voyager Technologies",
@@ -9080,7 +9101,7 @@
   "ROK": "Rockwell Automation",
   "VUG": "Vanguard Growth ETF",
   "BRK-A": "Berkshire Hathaway",
-  "COGT": "Cogent Biosciences",
+  "FANG": "Diamondback Energy",
   "LUV": "Southwest Airlines",
   "MRVL": "Marvell Technology",
   "MSI": "Motorola Solutions",
@@ -9108,6 +9129,7 @@
   "RKT": "Rocket Companies",
   "WEC": "WEC Energy Group",
   "WM": "Waste Management",
+  "AGNC": "AGNC Investment",
   "BAC": "Bank of America",
   "COIN": "Coinbase Global",
   "DIS": "The Walt Disney",
@@ -9172,13 +9194,13 @@
   "SPGI": "S&P Global",
   "WT": "WisdomTree",
   "MSFT": "Office 365",
+  "DE": "John Deere",
   "BC": "Brunswick",
   "C": "Citigroup",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "INGR": "Ingredion",
   "ADBE": "Photoshop",
-  "APP": "AppLovin",
   "AVGO": "Broadcom",
   "CCL": "Carnival",
   "DASH": "DoorDash",
@@ -9199,11 +9221,11 @@
   "VTRS": "Viatris",
   "NFLX": "Netflix",
   "SPY": "SPY ETF",
-  "BULL": "Webull",
   "DEO": "Diageo",
   "MAT": "Mattel",
   "ORCL": "Oracle",
   "RDDT": "Reddit",
+  "SRE": "Sempra",
   "STE": "STERIS",
   "ANTM": "Anthem",
   "AFL": "Aflac",
