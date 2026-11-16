@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-16T00:16:32.121695+00:00",
+ "generated": "2026-11-16T00:21:00.148404+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ac7a01dc9808",
+   "title": "McDonald's taking five popular items off its menu",
+   "link": "https://www.thestreet.com/restaurants/mcdonalds-taking-five-popular-items-off-its-menu",
+   "summary": "It's very rare for the chain to drop core menu items, and it hasn't happened since 2023.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-16T00:17:00+00:00",
+   "tickers": [
+    "MCD"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "05948c938962",
    "title": "UK property asking prices fall more than usual in November, Rightmove says",
@@ -1327,20 +1343,6 @@
    "tag_v": 2
   },
   {
-   "id": "c69bab95350f",
-   "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFF3czVab0VWVUpGMVNfVjZlcU12U0g5Q2FJcU56LXZpZ1RFSGNtRjBWSTdyZGxsNWp4WWpCX0NPdzBVZkMtZGdYQzJKTXVoTlkwenctczZDbDNUakhPNHNDYjFSa2djcTVmMEExZjRHaFZPemNBVlBBaHkybFpFcndDcWJPcl9sSFZCek1hV04wTUJTQ21CVEVHeXNOMlJKNXVGZzlFaw?oc=5",
-   "summary": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-15T19:54:00+00:00",
-   "tickers": [],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "43781d1daf91",
    "title": "Which Global Real Estate ETF Is the Better Buy: State Street’s RWO or Vanguard’s International VNQI?",
    "link": "https://www.nasdaq.com/articles/which-global-real-estate-etf-better-buy-state-streets-rwo-or-vanguards-international-vnqi",
@@ -1795,6 +1797,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c69bab95350f",
+   "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFF3czVab0VWVUpGMVNfVjZlcU12U0g5Q2FJcU56LXZpZ1RFSGNtRjBWSTdyZGxsNWp4WWpCX0NPdzBVZkMtZGdYQzJKTXVoTlkwenctczZDbDNUakhPNHNDYjFSa2djcTVmMEExZjRHaFZPemNBVlBBaHkybFpFcndDcWJPcl9sSFZCek1hV04wTUJTQ21CVEVHeXNOMlJKNXVGZzlFaw?oc=5",
+   "summary": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-15T19:00:00+00:00",
+   "tickers": [],
+   "type": "legal",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8864,23 +8880,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "bba993d080e8",
-   "title": "Meta fined $887 million in Italy over Android gallery photos and videos on Facebook - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORms5Nll1SEJfLUZ4NDNEVzQ0X085M0J1a0kzQlkyTFZ1d3pQYnNLbU1la1BrcVJxM0I3XzU1cXR2YmtYZkhSQjFQT0puUjVvY01mQTFrTW9PeDZ1bmNieTZkZnhaNHdjQV9fanpMVDZmR3h3TlFBZHNhcGVhY1lmcjBHcjFlQjM2ODlWdzRSMjJWNW5Yc2V2Qm5vZw?oc=5",
-   "summary": "Meta fined $887 million in Italy over Android gallery photos and videos on Facebook&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-14T18:43:00+00:00",
-   "tickers": [
-    "META",
-    "GOOGL"
-   ],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9002,6 +9001,7 @@
   "F": "Ford Motor",
   "FIVE": "Five Below",
   "MA": "Mastercard",
+  "MCD": "McDonald's",
   "SPGI": "S&P Global",
   "MSFT": "Office 365",
   "DE": "John Deere",
