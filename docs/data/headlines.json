@@ -1,14 +1,28 @@
 {
- "generated": "2026-11-16T22:51:37.447909+00:00",
+ "generated": "2026-11-16T22:56:09.576769+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "787cb79a9925",
+   "title": "United Airlines reports system outage affecting departing flights",
+   "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+   "summary": "United Airlines said Monday that a widespread system outage was affecting departing flights.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-16T22:51:58+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "44580c5f8774",
    "title": "M&T Bank Corporation Announces Increased Common Stock Dividend",
    "link": "https://www.prnewswire.com/news-releases/mt-bank-corporation-announces-increased-common-stock-dividend-302941131.html",
    "summary": "BUFFALO, N.Y., Nov. 16, 2026 /PRNewswire/ -- M&amp;T Bank Corporation (\"M&amp;T\") (NYSE: MTB) announced that it has declared a quarterly cash dividend of $1.80 per share on its common stock. This represents an increase of $.30 per share, or 20 percent, from the previous $1.50 per share dividend...",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-11-16T22:49:00+00:00",
@@ -33,20 +47,6 @@
    ],
    "type": "dividend",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "787cb79a9925",
-   "title": "United Airlines reports system outage affecting departing flights",
-   "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-   "summary": "United Airlines said Monday that a widespread system outage was affecting departing flights.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-16T22:48:52+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -161,6 +161,69 @@
     "JPM",
     "WFC",
     "BAC"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5107868475e0",
+   "title": "Dollar Climbs on Stock Weakness and Fed Tightening Prospects",
+   "link": "https://www.nasdaq.com/articles/dollar-climbs-stock-weakness-and-fed-tightening-prospects",
+   "summary": "The dollar index (DXY00 ) climbed to a fresh 1.5-year high today and is up +0.10%. The dollar is climbing today amid weakness in stocks, which is boosting demand for dollar liquidity. The dollar also has carryover support from last Friday, when several Fed members expressed their support for additional...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:43:07+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "daf72b3232e1",
+   "title": "Weakness in Chipmakers and AI Stocks Weighs on Stock Indexes",
+   "link": "https://www.nasdaq.com/articles/weakness-chipmakers-and-ai-stocks-weighs-stock-indexes",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.75% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.36%. December E-mini S&amp;P futures (ESZ26 ) are down -0.80%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:43:07+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fefd6c8e9fe6",
+   "title": "Sugar Prices Slide as India Ramps Up Sugar Production",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-slide-india-ramps-sugar-production",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.24 (-1.30%) today, and March London ICE white sugar #5 (SWH2 7) is down -7.30 (-1.40%). Sugar prices are moving lower today amid an increase in India’s sugar production. India’s Sugar & Bio-Energy Manufacturers Association (ISMA) reported today that India’s sugar...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:43:07+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "4b34d506ec6c",
+   "title": "Arabica Coffee Prices Rise as ICE Inventories Sink",
+   "link": "https://www.nasdaq.com/articles/arabica-coffee-prices-rise-ice-inventories-sink",
+   "summary": "December arabica coffee (KCZ26 ) is up +5.15 (+1.85%) today, and January ICE robusta coffee (RMF27 ) is down -42 (-1.31%). Coffee prices are mixed today, with robusta falling to a 2-week low. Arabica coffee is supported today by tighter current supplies after ICE Arabica inventories fell to a 27-year...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:43:07+00:00",
+   "tickers": [
+    "ICE"
    ],
    "type": "stocks",
    "sentiment": "neutral",
@@ -283,6 +346,22 @@
    "tag_v": 2
   },
   {
+   "id": "c5794d6370ca",
+   "title": "See Which Recent 13F Filers Hold MRK",
+   "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-mrk-1",
+   "summary": "At Holdings Channel, we have reviewed the latest batch of the 67 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Merck &amp; Co Inc (Symbol: MRK) was held by 16 of these funds. When hedge fund managers appear to be thinking alike, we find it is a go",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:41:41+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "4ac410091bea",
    "title": "Earnings call transcript: Orezone Gold beats Q3 2026 estimates, shares fall",
    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-orezone-gold-beats-q3-2026-estimates-shares-fall-93CH-5031173",
@@ -291,6 +370,50 @@
    "category": "markets",
    "domain": "investing.com",
    "published": "2026-11-16T22:41:07+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "328c78731e9d",
+   "title": "Walmart Inc. Appoints Joseph E. Creed to Board of Directors",
+   "link": "https://www.nasdaq.com/articles/walmart-inc-appoints-joseph-e-creed-board-directors",
+   "summary": "Walmart Inc. announced that its Board of Directors appointed Joseph E. Creed as a member of the Board, effective as of November 13, 2026. Mr. Creed has also been appointed to the Audit Committee and the Strategic Planning and Finance Committee of the Board. There is no arrangemen",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:40:53+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a6be6165e439",
+   "title": "Ballard Power Systems Inc. Acquires GeoPura Limited and Reports Third Quarter 2026 Results",
+   "link": "https://www.nasdaq.com/articles/ballard-power-systems-inc-acquires-geopura-limited-and-reports-third-quarter-2026-results",
+   "summary": "Ballard Power Systems Inc. completed the acquisition of 100% of GeoPura Limited on August 28, 2026. GeoPura Limited is a UK-based provider of zero-emission, hydrogen-based power solutions. The transaction agreement includes total upfront consideration of up to &pound;169.9 millio",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:40:53+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8fac4230e176",
+   "title": "Galectin Therapeutics Inc. Reports September 30, 2026 Financial Results and $105.8 million Debt Conversion",
+   "link": "https://www.nasdaq.com/articles/galectin-therapeutics-inc-reports-september-30-2026-financial-results-and-1058-million",
+   "summary": "Galectin Therapeutics Inc. reported financial results and provided a business update for the three months ended September 30, 2026. During the third quarter, the company submitted its registrational Phase 3 protocol to the FDA after reaching alignment on primary elements of the p",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:40:52+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
@@ -384,6 +507,53 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2cf2992f9999",
+   "title": "Corn Posting Midday Gains",
+   "link": "https://www.nasdaq.com/articles/corn-posting-midday-gains-0",
+   "summary": "Corn futures are showing 1 to 2 cent gains on Monday, with new crop seeing fractional losses. The CmdtyView national average Cash Corn price is up 1 1/2 cents at $4.15 1/2. USDA reported a private export sale of 130,000 MT to Colombia this morning, all for 2026/27. Weekly FGIS...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:36:59+00:00",
+   "tickers": [
+    "MT"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "6a48f1b19c81",
+   "title": "Cattle Pulling off Early Lows at Monday’s Midday",
+   "link": "https://www.nasdaq.com/articles/cattle-pulling-early-lows-mondays-midday",
+   "summary": "Live cattle futures are showing 12 to 60 cent losses across most contracts on Monday. Cash trade last week saw some light dressed trade at $335-340 in the North, with a few southern sales at $218. Feeder cattle futures are $1.40 to $2.15 lower across the front months on the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:36:59+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e3bf76456719",
+   "title": "Stock Indexes Retreat as Chipmakers and AI Stocks Fall",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-retreat-chipmakers-and-ai-stocks-fall",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.95% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.47%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&amp;P futures (ESZ26 ) are down -1.02%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:36:58+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -692,17 +862,58 @@
    "tag_v": 2
   },
   {
-   "id": "e3bf76456719",
-   "title": "Stock Indexes Retreat as Chipmakers and AI Stocks Fall",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-retreat-chipmakers-and-ai-stocks-fall",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.95% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.47%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&amp;P futures (ESZ26 ) are down -1.02%, and December E-mini Nasdaq futures...",
+   "id": "1935967cc5ed",
+   "title": "Crude Oil Prices Tumble as Global Supply Concerns Ease",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-tumble-global-supply-concerns-ease",
+   "summary": "December WTI crude oil (CLZ26 ) closed down -2.84 (-3.21%) on Monday, and December RBOB gasoline (RBZ26 ) closed down -0.0835 (-3.19%). Crude oil and gasoline prices sold off sharply on Monday, with gasoline tumbling to an 8.25-month low. Crude prices were under pressure Monday from a stronger dollar after...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:25:10+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "987259304e4c",
+   "title": "Dollar Supported by Weak Stocks and Fed Tightening Prospects",
+   "link": "https://www.nasdaq.com/articles/dollar-supported-weak-stocks-and-fed-tightening-prospects",
+   "summary": "The dollar index (DXY00 ) climbed to a fresh 1.5-year high on Monday, finishing up +0.13%. The dollar rose Monday amid a stock slump, which boosted demand for dollar liquidity. The dollar also has carryover support from last Friday, when several Fed members expressed their support for additional Fed tightening....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:25:10+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "164aea82aa14",
+   "title": "Nat-Gas Prices Slip on Forecasts for Warmer US Weather",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-slip-forecasts-warmer-us-weather",
+   "summary": "December Nymex natural gas (NGZ26 ) closed down -0.108 (-3.34%) on Monday. Dec nat-gas prices settled sharply lower on Monday for a second session on forecasts for warmer US weather, potentially curbing heating demand for nat-gas. The Commodity Weather Group said Monday that forecasts shifted warmer, with above-average temperatures expected...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T22:25:10+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "58f178a36e27",
+   "title": "Cocoa Prices Fall on Abundant Supplies",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-abundant-supplies",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed down -77 (-1.50%) on Monday, and ICE London cocoa #7 (CAZ26 ) closed down -34 (-0.88%). Cocoa prices retreated on Monday amid signs of abundant current supplies. Cocoa prices have trended lower over the past month and posted a 4.75-month low last Tuesday...",
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-16T22:25:09+00:00",
    "tickers": [
-    "SPY",
-    "QQQ"
+    "ICE"
    ],
    "type": "stocks",
    "sentiment": "negative",
@@ -1160,37 +1371,6 @@
    "tag_v": 2
   },
   {
-   "id": "5107868475e0",
-   "title": "Dollar Climbs on Stock Weakness and Fed Tightening Prospects",
-   "link": "https://www.nasdaq.com/articles/dollar-climbs-stock-weakness-and-fed-tightening-prospects",
-   "summary": "The dollar index (DXY00 ) climbed to a fresh 1.5-year high today and is up +0.10%. The dollar is climbing today amid weakness in stocks, which is boosting demand for dollar liquidity. The dollar also has carryover support from last Friday, when several Fed members expressed their support for additional...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T22:19:54+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "daf72b3232e1",
-   "title": "Weakness in Chipmakers and AI Stocks Weighs on Stock Indexes",
-   "link": "https://www.nasdaq.com/articles/weakness-chipmakers-and-ai-stocks-weighs-stock-indexes",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.75% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.36%. December E-mini S&amp;P futures (ESZ26 ) are down -0.80%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T22:19:54+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "33e321e5b1ad",
    "title": "Oil prices plunge as supply glut fears outweigh Middle East tensions",
    "link": "https://www.investing.com/news/commodities-news/oil-prices-dip-as-markets-look-to-recovering-supplies-meast-tensions-5028198",
@@ -1438,64 +1618,6 @@
    ],
    "type": "press",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1935967cc5ed",
-   "title": "Crude Oil Prices Tumble as Global Supply Concerns Ease",
-   "link": "https://www.nasdaq.com/articles/crude-oil-prices-tumble-global-supply-concerns-ease",
-   "summary": "December WTI crude oil (CLZ26 ) closed down -2.84 (-3.21%) on Monday, and December RBOB gasoline (RBZ26 ) closed down -0.0835 (-3.19%). Crude oil and gasoline prices sold off sharply on Monday, with gasoline tumbling to an 8.25-month low. Crude prices were under pressure Monday from a stronger dollar after...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T22:06:30+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "987259304e4c",
-   "title": "Dollar Supported by Weak Stocks and Fed Tightening Prospects",
-   "link": "https://www.nasdaq.com/articles/dollar-supported-weak-stocks-and-fed-tightening-prospects",
-   "summary": "The dollar index (DXY00 ) climbed to a fresh 1.5-year high on Monday, finishing up +0.13%. The dollar rose Monday amid a stock slump, which boosted demand for dollar liquidity. The dollar also has carryover support from last Friday, when several Fed members expressed their support for additional Fed tightening....",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T22:06:30+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "164aea82aa14",
-   "title": "Nat-Gas Prices Slip on Forecasts for Warmer US Weather",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-slip-forecasts-warmer-us-weather",
-   "summary": "December Nymex natural gas (NGZ26 ) closed down -0.108 (-3.34%) on Monday. Dec nat-gas prices settled sharply lower on Monday for a second session on forecasts for warmer US weather, potentially curbing heating demand for nat-gas. The Commodity Weather Group said Monday that forecasts shifted warmer, with above-average temperatures expected...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T22:06:29+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2cf2992f9999",
-   "title": "Corn Posting Midday Gains",
-   "link": "https://www.nasdaq.com/articles/corn-posting-midday-gains-0",
-   "summary": "Corn futures are showing 1 to 2 cent gains on Monday, with new crop seeing fractional losses. The CmdtyView national average Cash Corn price is up 1 1/2 cents at $4.15 1/2. USDA reported a private export sale of 130,000 MT to Colombia this morning, all for 2026/27. Weekly FGIS...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T22:06:29+00:00",
-   "tickers": [
-    "MT"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -2035,22 +2157,6 @@
    "tag_v": 2
   },
   {
-   "id": "58f178a36e27",
-   "title": "Cocoa Prices Fall on Abundant Supplies",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-abundant-supplies",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed down -77 (-1.50%) on Monday, and ICE London cocoa #7 (CAZ26 ) closed down -34 (-0.88%). Cocoa prices retreated on Monday amid signs of abundant current supplies. Cocoa prices have trended lower over the past month and posted a 4.75-month low last Tuesday...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T21:57:18+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "843274e61c14",
    "title": "Rising Indian Sugar Production Weighs on Prices",
    "link": "https://www.nasdaq.com/articles/rising-indian-sugar-production-weighs-prices",
@@ -2273,20 +2379,6 @@
     "BAC"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6a48f1b19c81",
-   "title": "Cattle Pulling off Early Lows at Monday’s Midday",
-   "link": "https://www.nasdaq.com/articles/cattle-pulling-early-lows-mondays-midday",
-   "summary": "Live cattle futures are showing 12 to 60 cent losses across most contracts on Monday. Cash trade last week saw some light dressed trade at $335-340 in the North, with a few southern sales at $218. Feeder cattle futures are $1.40 to $2.15 lower across the front months on the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T21:51:49+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2762,38 +2854,6 @@
     "DLR"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fefd6c8e9fe6",
-   "title": "Sugar Prices Slide as India Ramps Up Sugar Production",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-slide-india-ramps-sugar-production",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.24 (-1.30%) today, and March London ICE white sugar #5 (SWH2 7) is down -7.30 (-1.40%). Sugar prices are moving lower today amid an increase in India’s sugar production. India’s Sugar & Bio-Energy Manufacturers Association (ISMA) reported today that India’s sugar...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T21:40:25+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "4b34d506ec6c",
-   "title": "Arabica Coffee Prices Rise as ICE Inventories Sink",
-   "link": "https://www.nasdaq.com/articles/arabica-coffee-prices-rise-ice-inventories-sink",
-   "summary": "December arabica coffee (KCZ26 ) is up +5.15 (+1.85%) today, and January ICE robusta coffee (RMF27 ) is down -42 (-1.31%). Coffee prices are mixed today, with robusta falling to a 2-week low. Arabica coffee is supported today by tighter current supplies after ICE Arabica inventories fell to a 27-year...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T21:40:24+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6949,6 +7009,20 @@
    "tag_v": 2
   },
   {
+   "id": "4d262526b354",
+   "title": "Robert Pattinson may look the part of James Bond, but he’s more against type than it seems - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM3dQMElUTE9BZ1B5bDNnOUJ4VzFvUmt6YWE0RDRadTJuMzhZRHcwQTItaW44WV9yWTNxTHNlWlRhM25kWGZ3MXA1VEJ2ZEZZTW5iTURYZGVNSEVkcGUyOUFFb0hicGhQeGtZLWhwaUtld1dLY1FYLWhhSGUxSUMzbGN0QlN5ZWJ1VDZFdURaSkk?oc=5",
+   "summary": "Robert Pattinson may look the part of James Bond, but he’s more against type than it seems&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T20:02:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "4a487c5376cd",
    "title": "Federal Realty Investment Trust's Series C Preferred Share Crosses Above 7% Yield Territory",
    "link": "https://www.nasdaq.com/articles/federal-realty-investment-trusts-series-c-preferred-share-crosses-above-7-yield-territory",
@@ -8891,78 +8965,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "0798115b3ac5",
-   "title": "Baird reiterates Immunocore stock rating on combination therapy data",
-   "link": "https://www.investing.com/news/analyst-ratings/baird-reiterates-immunocore-stock-rating-on-combination-therapy-data-93CH-5030719",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T18:51:00+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2b0c95a426d1",
-   "title": "Northwest European diesel margins drop over 5% on Monday",
-   "link": "https://www.investing.com/news/commodities-news/northwest-european-diesel-margins-drop-over-5-on-monday-93CH-5030716",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T18:50:05+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "76c5cdbb8f45",
-   "title": "McDonald's Is Underperforming the S&P 500 and Nasdaq-100. Could January Mark a Turning Point?",
-   "link": "https://www.nasdaq.com/articles/mcdonalds-underperforming-sp-500-and-nasdaq-100-could-january-mark-turning-point",
-   "summary": "Key PointsMcDonald's stock is down 10% year to date but has surged 20% in the past month or so.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T18:50:01+00:00",
-   "tickers": [
-    "MCD"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fc940c1bf22e",
-   "title": "NextNRG to Host Third Quarter 2026 Financial Results Conference Call on November 17, 2026, at 9:15 a.m. ET | NXXT Stock News",
-   "link": "https://www.stocktitan.net/news/NXXT/next-nrg-to-host-third-quarter-2026-financial-results-conference-mc51d3ror28s.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-16T18:50:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b71a235ea993",
-   "title": "India raises export duties on diesel and aviation fuel",
-   "link": "https://www.investing.com/news/commodities-news/india-raises-export-duties-on-diesel-and-aviation-fuel-93CH-5030714",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T18:48:46+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9103,7 +9105,6 @@
   "CAVA": "CAVA Group",
   "CRM": "Salesforce",
   "MA": "Mastercard",
-  "MCD": "McDonald's",
   "NRG": "NRG Energy",
   "PLUG": "Plug Power",
   "RKLB": "Rocket Lab",
