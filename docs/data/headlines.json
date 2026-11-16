@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-16T02:56:40.595733+00:00",
+ "generated": "2026-11-16T03:01:06.547404+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "303dab90ac3b",
+   "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+   "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+   "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-11-16T02:56:24+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "36082a19cf9b",
    "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
@@ -32,16 +46,64 @@
    "tag_v": 2
   },
   {
-   "id": "303dab90ac3b",
-   "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-   "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-   "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "domain": "cnbc.com",
-   "published": "2026-11-16T02:51:40+00:00",
+   "id": "75c529f46283",
+   "title": "Boeing-Lockheed rocket fails after liftoff, destroys 40 Amazon satellites",
+   "link": "https://www.investing.com/news/stock-market-news/boeinglockheed-rocket-fails-after-liftoff-destroys-40-amazon-satellites-93CH-5028326",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-16T02:52:26+00:00",
+   "tickers": [
+    "LMT",
+    "AMZN",
+    "BA"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bde60d074127",
+   "title": "New Hope shares fall to 15-week low as quarterly coal output drops 9.8%",
+   "link": "https://www.investing.com/news/stock-market-news/new-hope-shares-fall-to-15week-low-as-quarterly-coal-output-drops-98-5028325",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-16T02:50:52+00:00",
    "tickers": [],
-   "type": "macro",
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3928c8ef228e",
+   "title": "Corn Firm into the Weekend as Export Business Picks Up",
+   "link": "https://www.nasdaq.com/articles/corn-firm-weekend-export-business-picks",
+   "summary": "Corn futures posted modest gains on Friday, with contracts up 1 to 3 cents across the board. December saw a 4 cent gain for the week. The CmdtyView national average Cash Corn price was up 4 cents at $4.13 1/4. USDA reported a private export sale of 303,800 MT to...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T02:50:19+00:00",
+   "tickers": [
+    "MT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0cdb67b20e66",
+   "title": "Alerus financial SVP sells $19,778 of common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/alerus-financial-svp-sells-19778-of-common-stock-93CH-5028323",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-16T02:46:13+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -63,6 +125,20 @@
    "tag_v": 2
   },
   {
+   "id": "7705354d244c",
+   "title": "Japan’s economy unexpectedly shrinks as inflation squeezes households",
+   "link": "https://www.investing.com/news/economy-news/japans-economy-unexpectedly-shrinks-in-julyseptember-as-consumption-falters-5028233",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-16T02:36:52+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "694bb11fdf93",
    "title": "After days of flight disruptions, officials see system back to normal by Monday",
    "link": "https://www.investing.com/news/stock-market-news/us-air-travel-disruptions-continue-into-third-day-5028023",
@@ -70,9 +146,25 @@
    "source": "Investing Stock",
    "category": "stocks",
    "domain": "investing.com",
-   "published": "2026-11-16T02:24:20+00:00",
+   "published": "2026-11-16T02:36:37+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "401429c8263e",
+   "title": "J&J looks to buy Ollin Biosciences for up to $3.4 billion, FT says",
+   "link": "https://www.investing.com/news/stock-market-news/jj-looks-to-buy-ollin-biosciences-for-up-to-34-billion-ft-says-5028322",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-16T02:36:25+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -487,6 +579,20 @@
    "tag_v": 2
   },
   {
+   "id": "16d0c04c9d05",
+   "title": "Huge waves pummel the California coast, forcing the closure of iconic piers - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVHMtd01FdF9qSjBZbF9oSmlxcmZVRXlNdHJsQlF4UW9TU0VnRnRlMEtjLWtRNjJkMzBrdGlKdWppQkFXaHg0QjdOb0g3MF9rSXZqM0dEUnhQNDBqTUF1VXp5U1JRck9ZTHJoUENIbXRCRm1fcmo1QmxDWDB0SEZYMFlKNmZNLUhhYmtjVjFNd0RTbjBUc2lobXRQUzZ1aTBHOS1WX21TRQ?oc=5",
+   "summary": "Huge waves pummel the California coast, forcing the closure of iconic piers&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T01:26:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a5e286d914da",
    "title": "PT Freeport Indonesia Announces Senior Notes Offering | FCX Stock News",
    "link": "https://www.stocktitan.net/news/FCX/pt-freeport-indonesia-announces-senior-notes-mo97o65i9t9j.html",
@@ -727,20 +833,6 @@
    "tag_v": 2
   },
   {
-   "id": "7705354d244c",
-   "title": "Japan’s economy unexpectedly shrinks as inflation squeezes households",
-   "link": "https://www.investing.com/news/economy-news/japans-economy-unexpectedly-shrinks-in-julyseptember-as-consumption-falters-5028233",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-16T00:54:26+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "135983c6e362",
    "title": "J&J in talks to buy eye disease biotech Ollin for $3.4 bln, FT reports",
    "link": "https://www.investing.com/news/stock-market-news/jj-in-talks-to-buy-eye-disease-biotech-ollin-for-34-bln-ft-reports-5028255",
@@ -913,20 +1005,6 @@
    "category": "macro",
    "domain": "news.google.com",
    "published": "2026-11-16T00:27:29+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "16d0c04c9d05",
-   "title": "Huge waves pummel the California coast, forcing the closure of iconic piers - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVHMtd01FdF9qSjBZbF9oSmlxcmZVRXlNdHJsQlF4UW9TU0VnRnRlMEtjLWtRNjJkMzBrdGlKdWppQkFXaHg0QjdOb0g3MF9rSXZqM0dEUnhQNDBqTUF1VXp5U1JRck9ZTHJoUENIbXRCRm1fcmo1QmxDWDB0SEZYMFlKNmZNLUhhYmtjVjFNd0RTbjBUc2lobXRQUzZ1aTBHOS1WX21TRQ?oc=5",
-   "summary": "Huge waves pummel the California coast, forcing the closure of iconic piers&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-16T00:22:00+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -7770,22 +7848,6 @@
    "tag_v": 2
   },
   {
-   "id": "3928c8ef228e",
-   "title": "Corn Firm into the Weekend as Export Business Picks Up",
-   "link": "https://www.nasdaq.com/articles/corn-firm-weekend-export-business-picks",
-   "summary": "Corn futures posted modest gains on Friday, with contracts up 1 to 3 cents across the board. December saw a 4 cent gain for the week. The CmdtyView national average Cash Corn price was up 4 cents at $4.13 1/4. USDA reported a private export sale of 303,800 MT to...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-15T02:45:09+00:00",
-   "tickers": [
-    "MT"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "847d2acd0d52",
    "title": "US judge again blocks Trump’s makeover plan for DC golf course",
    "link": "https://www.investing.com/news/economy-news/us-judge-again-blocks-trumps-makeover-plan-for-dc-golf-course-5027633",
@@ -8799,69 +8861,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "35c2e868d754",
-   "title": "Sugar Prices Push Higher on Global Deficit Forecasts",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-push-higher-global-deficit-forecasts",
-   "summary": "March NY world sugar #11 (SBH27 ) is up +0.19 (+1.04%) today, and March London ICE white sugar #5 (SWH2 7) is up +6.80 (+1.32%). Sugar prices are moving higher today. The International Sugar Organization (ISO) forecasts that global sugar production in 2026/27 will fall by 1% y/y to 180.1...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T22:19:07+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "108bbff2de13",
-   "title": "Hogs Rallying on Friday",
-   "link": "https://www.nasdaq.com/articles/hogs-rallying-friday",
-   "summary": "Lean hog futures are rallying on Friday, with contracts up $1 tp $1.97 in the nearby contracts. USDA’s national base hog price was reported at $42.26 on Friday morning, down 8 cents from the day prior. The CME Lean Hog Index was down $1 on November 11 at $58.78. Export...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T22:19:07+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e66bb5845f1c",
-   "title": "Cattle Rounding Out the Week with Gains",
-   "link": "https://www.nasdaq.com/articles/cattle-rounding-out-week-gains-0",
-   "summary": "Live cattle futures are $2.20 to $2.40 higher across most contracts at midday. Cash trade saw some light dressed trade at $330-335 in the North. The Friday Fed Cattle Exchange online auction showed a few bids of $218 on 237 of the 1,640 yead offered. Feeder cattle futures are up...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T22:19:07+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "9dd61689f70e",
-   "title": "ASML vs. NVIDIA: Which Technology Stock Is a Better Buy for 2027?",
-   "link": "https://www.nasdaq.com/articles/asml-vs-nvidia-which-technology-stock-better-buy-2027",
-   "summary": "Key PointsASML is the sole provider of the advanced lithography machines required to manufacture the world's most sophisticated semiconductors.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T22:14:02+00:00",
-   "tickers": [
-    "ASML",
-    "NVDA"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8929,6 +8928,7 @@
   "AGNC": "AGNC Investment",
   "BAC": "Bank of America",
   "DIS": "The Walt Disney",
+  "LMT": "Lockheed Martin",
   "LNG": "Cheniere Energy",
   "PWR": "Quanta Services",
   "TGTX": "TG Therapeutics",
@@ -8952,7 +8952,6 @@
   "LLY": "Eli Lilly and",
   "MT": "ArcelorMittal",
   "SOUN": "SoundHound AI",
-  "ASML": "ASML Holding",
   "IREN": "IREN Limited",
   "NBIS": "Nebius Group",
   "PRMB": "Primo Brands",
@@ -8962,7 +8961,6 @@
   "USB": "U.S. Bancorp",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
-  "NVDA": "Grace Hopper",
   "CAT": "Caterpillar",
   "LCID": "Lucid Group",
   "NU": "Nu Holdings",
