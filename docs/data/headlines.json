@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T04:06:32.480364+00:00",
+ "generated": "2026-11-16T04:11:17.318983+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -99,6 +99,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a4f61a03afc5",
+   "title": "Australian Market Maintains Early Losses In Mid-market",
+   "link": "https://www.nasdaq.com/articles/australian-market-maintains-early-losses-mid-market",
+   "summary": "(RTTNews) - The Australian stock market is maintaining its early losses in mid-market trading on Monday, extending the losses in the previous two sessions, following the mixed cues from Wall Street on Friday. The benchmark S&amp;P/ASX 200 index is falling well below the 9,100.00 leve",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T03:32:27+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -218,6 +232,20 @@
    "tag_v": 2
   },
   {
+   "id": "b8a6f181943d",
+   "title": "Asian Markets Trade Mostly Lower",
+   "link": "https://www.nasdaq.com/articles/asian-markets-trade-mostly-lower-10",
+   "summary": "(RTTNews) - Asian stock markets are trading mostly lower on Monday, following the mixed cues from Wall Street on Friday, on weakness in semiconductor and technology stocks in Taiwan, South Korea and Japan which mirrored their peers on tech-heavy Nasdaq. Uncertainty and prolonged",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T03:06:35+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "1240a86769a0",
    "title": "La AI TOP ATOM 64 GB de GIGABYTE está disponible y amplía las opciones para el desarrollo de IA en PC de escritorio",
    "link": "https://www.prnewswire.com/news-releases/la-ai-top-atom-64-gb-de-gigabyte-esta-disponible-y-amplia-las-opciones-para-el-desarrollo-de-ia-en-pc-de-escritorio-302939869.html",
@@ -273,6 +301,22 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "75c61b48fef4",
+   "title": "Johnson & Johnson Set To Buy Ollin Biosciences For Up To $3.4 Bln: Report",
+   "link": "https://www.nasdaq.com/articles/johnson-johnson-set-buy-ollin-biosciences-34-bln-report",
+   "summary": "(RTTNews) - Johnson & Johnson (JNJ) is close to acquiring eye disease drug developer Ollin Biosciences in a deal valued at up to $3.4 billion, according to a Financial Times report citing people familiar with the matter.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T02:57:22+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1639,22 +1683,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "7059bd3a6b25",
-   "title": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5",
-   "summary": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-15T23:57:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3541,6 +3569,22 @@
    "published": "2026-11-15T17:57:32+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7059bd3a6b25",
+   "title": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5",
+   "summary": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-15T17:52:09+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8810,50 +8854,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-14T23:50:45+00:00",
    "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8c6d9a1c82ba",
-   "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkpYTERHb0JjNU1SY2JyaXFOREZsSzkxdTZVa1lXVW1xVjV3ZTdqZmhFLXl3eExxZmdPY1B2dURNSmRwQVczSG81emlfOEh0NTNhcW44cVBFcU03Y2hadEFmVlRPVHR3bDRPX0p0ZF9JR3B3QkZQUnVxVUZfMXNsSzJDclQ1elJ6ZVBHZGZpRXVUM09KcmgxWmdHajA?oc=5",
-   "summary": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-14T23:46:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "45e7abf9b3b1",
-   "title": "Sei Investments director William Doran sells $882,400 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/sei-investments-director-william-doran-sells-882400-in-stock-93CH-5027580",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-14T23:45:58+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "60cc6829a197",
-   "title": "If a Bear Market Is Coming, History Says Warren Buffett's Proven Strategy Is Key",
-   "link": "https://www.nasdaq.com/articles/if-bear-market-coming-history-says-warren-buffetts-proven-strategy-key",
-   "summary": "Key PointsWarren Buffett is the former CEO of Berkshire Hathaway and a world-renowned investor.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T23:35:00+00:00",
-   "tickers": [
-    "BRK-A"
-   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
