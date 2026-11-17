@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T00:51:21.845284+00:00",
+ "generated": "2026-11-17T00:56:10.439697+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -250,55 +250,6 @@
    ],
    "type": "legal",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "4bb33fe54fe2",
-   "title": "Stock Indexes Settle Sharply Lower on Big Tech Drubbing",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-sharply-lower-big-tech-drubbing",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.92% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.67%. December E-mini S&amp;P futures (ESZ26 ) fell -1.91%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T00:34:47+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "58f178a36e27",
-   "title": "Cocoa Prices Fall on Abundant Supplies",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-abundant-supplies",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed down -77 (-1.50%) on Monday, and ICE London cocoa #7 (CAZ26 ) closed down -34 (-0.88%). Cocoa prices retreated on Monday amid signs of abundant current supplies. Cocoa prices have trended lower over the past month and posted a 4.75-month low last Tuesday...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T00:34:47+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "843274e61c14",
-   "title": "Rising Indian Sugar Production Weighs on Prices",
-   "link": "https://www.nasdaq.com/articles/rising-indian-sugar-production-weighs-prices",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.31 (-1.68%) on Monday, and March London ICE white sugar #5 (SWH2 7) closed down -10.50 (-2.02%). Sugar prices moved lower on Monday amid an increase in India’s sugar production. India’s Sugar & Bio-Energy Manufacturers Association (ISMA) reported Monday that India’s...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T00:34:47+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -570,6 +521,39 @@
    "tag_v": 2
   },
   {
+   "id": "4bb33fe54fe2",
+   "title": "Stock Indexes Settle Sharply Lower on Big Tech Drubbing",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-sharply-lower-big-tech-drubbing",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.92% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.67%. December E-mini S&amp;P futures (ESZ26 ) fell -1.91%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T00:29:38+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "58f178a36e27",
+   "title": "Cocoa Prices Fall on Abundant Supplies",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-abundant-supplies",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed down -77 (-1.50%) on Monday, and ICE London cocoa #7 (CAZ26 ) closed down -34 (-0.88%). Cocoa prices retreated on Monday amid signs of abundant current supplies. Cocoa prices have trended lower over the past month and posted a 4.75-month low last Tuesday...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T00:29:38+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "07b91bd79c12",
    "title": "Hogs Back to Mixed Monday Trade",
    "link": "https://www.nasdaq.com/articles/hogs-back-mixed-monday-trade",
@@ -820,6 +804,22 @@
     "PEP"
    ],
    "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "843274e61c14",
+   "title": "Rising Indian Sugar Production Weighs on Prices",
+   "link": "https://www.nasdaq.com/articles/rising-indian-sugar-production-weighs-prices",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.31 (-1.68%) on Monday, and March London ICE white sugar #5 (SWH2 7) closed down -10.50 (-2.02%). Sugar prices moved lower on Monday amid an increase in India’s sugar production. India’s Sugar & Bio-Energy Manufacturers Association (ISMA) reported Monday that India’s...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T00:19:45+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
