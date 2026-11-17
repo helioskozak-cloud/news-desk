@@ -1,23 +1,22 @@
 {
- "generated": "2026-11-17T03:26:33.169563+00:00",
+ "generated": "2026-11-17T03:31:16.705297+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
-   "id": "4bb33fe54fe2",
-   "title": "Stock Indexes Settle Sharply Lower on Big Tech Drubbing",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-sharply-lower-big-tech-drubbing",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.92% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.67%. December E-mini S&amp;P futures (ESZ26 ) fell -1.91%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
+   "id": "eef29ab7f858",
+   "title": "Amazon's cozy throw blanket with 17,500+ 5-star ratings is only $42",
+   "link": "https://www.thestreet.com/deals/bedsure-100-percent-cotton-throw-blanket-amazon-sale-november-2026",
+   "summary": "\"It seems made so that it'll last for years and years.\"",
+   "source": "TheStreet",
    "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T03:14:02+00:00",
+   "domain": "thestreet.com",
+   "published": "2026-11-17T03:30:00+00:00",
    "tickers": [
-    "SPY",
-    "QQQ"
+    "AMZN"
    ],
    "type": "stocks",
-   "sentiment": "negative",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -164,6 +163,23 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4bb33fe54fe2",
+   "title": "Stock Indexes Settle Sharply Lower on Big Tech Drubbing",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-sharply-lower-big-tech-drubbing",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.92% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.67%. December E-mini S&amp;P futures (ESZ26 ) fell -1.91%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T03:01:06+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8799,22 +8815,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "a53b72875942",
-   "title": "Shares of ARGT Now Oversold",
-   "link": "https://www.nasdaq.com/articles/shares-argt-now-oversold",
-   "summary": "In trading on Monday, shares of the Global X MSCI Argentina ETF (Symbol: ARGT) entered into oversold territory, changing hands as low as $70.75 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to mea",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T21:27:29+00:00",
-   "tickers": [
-    "MSCI"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8949,7 +8949,6 @@
   "TU": "TELUS",
   "RHHBY": "Roche",
   "XPEV": "XPeng",
-  "MSCI": "MSCI",
   "V": "Visa"
  }
 }
