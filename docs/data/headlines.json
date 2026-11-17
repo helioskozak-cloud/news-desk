@@ -1,8 +1,39 @@
 {
- "generated": "2026-11-17T00:41:19.536324+00:00",
+ "generated": "2026-11-17T00:46:39.313026+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0232917c6d1b",
+   "title": "Sabre Accelerates Agentic Travel Leadership with First-Mover Travel Experience within Grok Bot and Next-Gen Proactive Travel APIs | SABR Stock News",
+   "link": "https://www.stocktitan.net/news/SABR/sabre-accelerates-agentic-travel-leadership-with-first-mover-travel-eg1nzfn6sxfk.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-17T00:45:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "33f82fd4eb8a",
+   "title": "Major U.S. banks report widespread service outages",
+   "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+   "summary": "Customers at Bank of America, JPMorgan Chase and other major financial institutions reported difficulty accessing their accounts.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-17T00:43:03+00:00",
+   "tickers": [
+    "JPM",
+    "BAC"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "ddb5b9c43374",
    "title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
@@ -46,55 +77,6 @@
     "KGC"
    ],
    "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "4bb33fe54fe2",
-   "title": "Stock Indexes Settle Sharply Lower on Big Tech Drubbing",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-sharply-lower-big-tech-drubbing",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.92% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.67%. December E-mini S&amp;P futures (ESZ26 ) fell -1.91%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T00:34:47+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "843274e61c14",
-   "title": "Rising Indian Sugar Production Weighs on Prices",
-   "link": "https://www.nasdaq.com/articles/rising-indian-sugar-production-weighs-prices",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.31 (-1.68%) on Monday, and March London ICE white sugar #5 (SWH2 7) closed down -10.50 (-2.02%). Sugar prices moved lower on Monday amid an increase in India’s sugar production. India’s Sugar & Bio-Energy Manufacturers Association (ISMA) reported Monday that India’s...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T00:34:47+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "58f178a36e27",
-   "title": "Cocoa Prices Fall on Abundant Supplies",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-abundant-supplies",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed down -77 (-1.50%) on Monday, and ICE London cocoa #7 (CAZ26 ) closed down -34 (-0.88%). Cocoa prices retreated on Monday amid signs of abundant current supplies. Cocoa prices have trended lower over the past month and posted a 4.75-month low last Tuesday...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T00:34:47+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -311,6 +293,39 @@
    "tag_v": 2
   },
   {
+   "id": "4bb33fe54fe2",
+   "title": "Stock Indexes Settle Sharply Lower on Big Tech Drubbing",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-sharply-lower-big-tech-drubbing",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.92% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.67%. December E-mini S&amp;P futures (ESZ26 ) fell -1.91%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T00:29:38+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "58f178a36e27",
+   "title": "Cocoa Prices Fall on Abundant Supplies",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-abundant-supplies",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed down -77 (-1.50%) on Monday, and ICE London cocoa #7 (CAZ26 ) closed down -34 (-0.88%). Cocoa prices retreated on Monday amid signs of abundant current supplies. Cocoa prices have trended lower over the past month and posted a 4.75-month low last Tuesday...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T00:29:38+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "07b91bd79c12",
    "title": "Hogs Back to Mixed Monday Trade",
    "link": "https://www.nasdaq.com/articles/hogs-back-mixed-monday-trade",
@@ -447,6 +462,22 @@
    "tag_v": 2
   },
   {
+   "id": "c1ef2fed34e5",
+   "title": "Broadcom vs. Nvidia: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years?",
+   "link": "https://www.nasdaq.com/articles/broadcom-vs-nvidia-which-semiconductor-stock-better-ai-buy-over-next-3-years",
+   "summary": "Key PointsRecent developments at Nvidia suggest it may be prudent to wait and see how the company's guidance turns out when it reports its quarterly results.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T00:22:02+00:00",
+   "tickers": [
+    "AVGO"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "936853d63779",
    "title": "Connect Biopharma Holdings ADR earnings matched, revenue fell short of estimates",
    "link": "https://www.investing.com/news/earnings/connect-biopharma-holdings-adr-earnings-matched-revenue-fell-short-of-estimates-5031339",
@@ -458,6 +489,50 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "2d2b4774b79f",
+   "title": "Movano Inc. Announces $103 Million Take-or-Pay Agreement for NVIDIA Blackwell Capacity",
+   "link": "https://www.nasdaq.com/articles/movano-inc-announces-103-million-take-or-pay-agreement-nvidia-blackwell-capacity",
+   "summary": "Movano Inc., filing as Corvex, Inc., announced that it has entered into a definitive three-year $103 million take-or-pay agreement with a scaled AI inference platform. Under the agreement, the company will provide the customer with NVIDIA Blackwell computing capacity. The deploym",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T00:20:36+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c255041b083e",
+   "title": "Corbus Pharmaceuticals Holdings, Inc. Announces Phase 1b CANYON-1 Trial Data for Obesity Treatment CRB-913",
+   "link": "https://www.nasdaq.com/articles/corbus-pharmaceuticals-holdings-inc-announces-phase-1b-canyon-1-trial-data-obesity",
+   "summary": "Corbus Pharmaceuticals Holdings, Inc. announced that additional data from the CANYON-1 Phase 1b clinical trial of CRB-913 for the treatment of obesity were presented in a poster at ObesityWeek&reg; 2026. The CANYON-1 Phase 1b clinical trial was a 16-week, double-blind, placebo-co",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T00:20:35+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c6c3aa0f9b0a",
+   "title": "News Corporation Discloses Daily Share Repurchases Under $1 billion Program",
+   "link": "https://www.nasdaq.com/articles/news-corporation-discloses-daily-share-repurchases-under-1-billion-program",
+   "summary": "News Corporation reported updates on its stock repurchase program, under which the company is authorized to acquire from time to time up to $1 billion in the aggregate of its outstanding Class A common stock and Class B common stock. Under the rules of the Australian Securities E",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T00:20:23+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -486,6 +561,54 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "4addf0f93de1",
+   "title": "1 Relatively Safe and Undervalued Dividend Stock to Buy Right Now in November",
+   "link": "https://www.nasdaq.com/articles/1-relatively-safe-and-undervalued-dividend-stock-buy-right-now-november",
+   "summary": "Should you buy stock in PepsiCo right now? Before you buy stock in PepsiCo, consider this:Missed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total C",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T00:20:02+00:00",
+   "tickers": [
+    "PEP"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "843274e61c14",
+   "title": "Rising Indian Sugar Production Weighs on Prices",
+   "link": "https://www.nasdaq.com/articles/rising-indian-sugar-production-weighs-prices",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.31 (-1.68%) on Monday, and March London ICE white sugar #5 (SWH2 7) closed down -10.50 (-2.02%). Sugar prices moved lower on Monday amid an increase in India’s sugar production. India’s Sugar & Bio-Energy Manufacturers Association (ISMA) reported Monday that India’s...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T00:19:45+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a46433e2562c",
+   "title": "Leerink Partners Initiates Coverage of Palvella Therapeutics at Outperform",
+   "link": "https://www.nasdaq.com/articles/leerink-partners-initiates-coverage-palvella-therapeutics-outperform",
+   "summary": "Fintel reports that on November 16, 2026, Leerink Partners initiated coverage of Palvella Therapeutics (NASDAQGM:PVLA) (DB:PI6) with a Outperform recommendation.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T00:19:38+00:00",
+   "tickers": [
+    "DB"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -719,6 +842,20 @@
    "tag_v": 2
   },
   {
+   "id": "598b43da4503",
+   "title": "Losing Streak May Continue For Singapore Stock Market",
+   "link": "https://www.nasdaq.com/articles/losing-streak-may-continue-singapore-stock-market-5",
+   "summary": "(RTTNews) - The Singapore stock market has moved lower in three straight sessions, retreating more than 100 points or 2 percent along the way. The Straits Times Index now sits just above the 5,180-point plateau and it may spin its wheels again on Tuesday.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T00:03:22+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "6d508c28e6e2",
    "title": "Medical supply giant recalls hospital beds amid reports of 7 deaths",
    "link": "https://www.thestreet.com/retail/medline-medical-supply-company-recalls-hospital-beds-after-7-deaths",
@@ -889,6 +1026,20 @@
    "published": "2026-11-17T00:00:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "01b9a0dc70a4",
+   "title": "2026 U.S. Senate Election Results - AP News",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+   "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T23:59:44+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1722,23 +1873,6 @@
    "published": "2026-11-16T23:20:02+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "33f82fd4eb8a",
-   "title": "Major U.S. banks report widespread service outages",
-   "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
-   "summary": "Customers at Bank of America, JPMorgan Chase and other major financial institutions reported difficulty accessing their accounts.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-16T23:20:00+00:00",
-   "tickers": [
-    "JPM",
-    "BAC"
-   ],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3958,6 +4092,20 @@
    "tag_v": 2
   },
   {
+   "id": "7d935a997c15",
+   "title": "Stocks tumble on Wall Street as Nvidia leads another sell-off in technology companies - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5",
+   "summary": "Stocks tumble on Wall Street as Nvidia leads another sell-off in technology companies&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-16T22:14:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "a31b78f3d4d3",
    "title": "Insight Molecular Diagnostics stock tumbles on public offering",
    "link": "https://www.investing.com/news/stock-market-news/insight-molecular-diagnostics-stock-tumbles-on-public-offering-5031116",
@@ -4681,20 +4829,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "01b9a0dc70a4",
-   "title": "2026 U.S. Senate Election Results - AP News",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-   "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-16T21:56:43+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8742,140 +8876,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "0fa070a6a3cd",
-   "title": "Home Depot Could Swing $15.5 Billion After Earnings",
-   "link": "https://www.benzinga.com/markets/options/26/11/63319543/home-depot-could-swing-15-5-billion-after-earnings",
-   "summary": "Earnings are set to hit the tape on Tuesday and options markets are already sketching out the size of the post-print swing investors may have to stomach. With a Benzinga-selected mix spanning retail, media, defense and travel, implied moves can be a quick read on where uncertainty — and opportunity — is building, according to Benzinga Pro. The marquee name on this list is Home Depot, but the biggest implied move is saved for the final section as the countdown runs from the calmest setup to the m",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-16T20:32:10+00:00",
-   "tickers": [
-    "HD"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4d89a0d7b449",
-   "title": "Robinhood dip outlook: oversold but downtrend intact after Kalshi threat",
-   "link": "https://www.investing.com/news/stock-market-news/robinhood-dip-outlook-oversold-but-downtrend-intact-after-kalshi-threat-93CH-5030808",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T20:30:39+00:00",
-   "tickers": [
-    "HOOD"
-   ],
-   "type": "guidance",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3b9586208b9e",
-   "title": "Brazil stocks lower at close of trade; Bovespa down 2.05%",
-   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-205-5030803",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T20:30:03+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "aabf5f22c997",
-   "title": "NRG Energy Honors Trailblazers at 7th Annual Excellence in Energy Awards | NRG Stock News",
-   "link": "https://www.stocktitan.net/news/NRG/nrg-energy-honors-trailblazers-at-7th-annual-excellence-in-energy-956y68x9kv06.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-16T20:30:00+00:00",
-   "tickers": [
-    "NRG"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8ec134dff261",
-   "title": "Red Cat Q3 2026 Earnings Call: Recap of $RCAT Earnings, Stock Forecast",
-   "link": "https://www.thestreet.com/investing/earnings/red-cat-q3-2026-earnings-call-recap-of-rcat-earnings-stock-forecast",
-   "summary": "The drone and robotics company is set to report its earnings after the closing bell today.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-16T20:29:54+00:00",
-   "tickers": [
-    "RCAT"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "40f0efd2fa96",
-   "title": "Fed minutes, Fedspeak and key data to watch this week",
-   "link": "https://www.investing.com/news/stock-market-news/fed-minutes-fedspeak-and-key-data-to-watch-this-week-93CH-5030802",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T20:29:29+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "480c54f11edc",
-   "title": "Cotton Falling on Monday Morning",
-   "link": "https://www.nasdaq.com/articles/cotton-falling-monday-morning-0",
-   "summary": "Cotton price action is down 120 to 132 points in early Monday trade. Futures posted Friday gains of 4 to 27 points in the front months, with deferred losses of 2 points. December was down 33 points on the week. Crude oil was up just 18 cents per barrel on...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T20:28:42+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "451e96ba1efe",
-   "title": "Data Storage Corp (DTST) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/data-storage-corp-dtst-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T20:27:57+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "69ddc56acf41",
-   "title": "Treasuries Regain Ground Following Recent Weakness",
-   "link": "https://www.nasdaq.com/articles/treasuries-regain-ground-following-recent-weakness",
-   "summary": "(RTTNews) - Treasuries have moved to the upside during trading on Monday, regaining ground after moving sharply lower over the past several sessions.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T20:25:30+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8884,6 +8884,7 @@
   "CRL": "Charles River Laboratories International",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "CM": "Canadian Imperial Bank of Commerce",
+  "DB": "Deutsche Bank Aktiengesellschaft",
   "TIGO": "Millicom International Cellular",
   "BMNR": "Bitmine Immersion Technologies",
   "IWN": "iShares Russell 2000 Value ETF",
@@ -8919,7 +8920,6 @@
   "MRVL": "Marvell Technology",
   "TPL": "Texas Pacific Land",
   "BBWI": "Bath & Body Works",
-  "HOOD": "Robinhood Markets",
   "LITE": "Lumentum Holdings",
   "MTDR": "Matador Resources",
   "SOFI": "SoFi Technologies",
@@ -8952,7 +8952,6 @@
   "AMT": "American Tower",
   "DOX": "Amdocs Limited",
   "FLNC": "Fluence Energy",
-  "HD": "The Home Depot",
   "MS": "Morgan Stanley",
   "NVT": "nVent Electric",
   "CB": "Chubb Limited",
@@ -8982,7 +8981,6 @@
   "AMZN": "Whole Foods",
   "BX": "Blackstone",
   "MA": "Mastercard",
-  "NRG": "NRG Energy",
   "PLUG": "Plug Power",
   "SPGI": "S&P Global",
   "MSFT": "Office 365",
@@ -8993,6 +8991,7 @@
   "SBUX": "Starbucks",
   "APH": "Amphenol",
   "APP": "AppLovin",
+  "AVGO": "Broadcom",
   "DASH": "DoorDash",
   "DOCS": "Doximity",
   "DUOL": "Duolingo",
@@ -9009,6 +9008,7 @@
   "MRK": "Merck &",
   "MRNA": "Moderna",
   "NTNX": "Nutanix",
+  "PEP": "PepsiCo",
   "SNDK": "Sandisk",
   "WMT": "Walmart",
   "SPY": "SPY ETF",
