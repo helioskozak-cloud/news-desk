@@ -1,8 +1,82 @@
 {
- "generated": "2026-11-17T22:56:09.626715+00:00",
+ "generated": "2026-11-17T23:01:09.617659+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "61caefaaba1b",
+   "title": "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates",
+   "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+   "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, with its earnings call scheduled for 5 p.m. ET.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T22:59:56+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "10a143420e46",
+   "title": "Nvidia sees strong growth in first earnings report without Huang",
+   "link": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/",
+   "summary": "Nvidia's latest earnings are the first time the chipmaker has reported financial results without founder and former CEO Jensen Huang at the helm.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-17T22:59:50+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "db0d94213aaa",
+   "title": "Apple restores services after internal update caused outages",
+   "link": "https://www.cbsnews.com/news/apple-outage-icloud-apple-pay-services/",
+   "summary": "The company's system status shows that all Apple services, including iCloud sign-in, have been restored after experiencing issues earlier Tuesday.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-17T22:59:27+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d3837f03c31e",
+   "title": "The InterGroup Corporation Reports First Quarter Fiscal 2027 Results; Pedestrian Bridge Removed and Hotel Reopened Following City-Mandated Closure | INTG Stock News",
+   "link": "https://www.stocktitan.net/news/INTG/the-inter-group-corporation-reports-first-quarter-fiscal-2027-mh6iym71vxwz.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-17T22:58:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6587324bcca1",
+   "title": "INVESTOR ACTION NOTICE: Moore Law PLLC Encourages Investors in Bank of America (NYSE:BAC) to Contact Law Firm",
+   "link": "https://www.prnewswire.com/news-releases/investor-action-notice-moore-law-pllc-encourages-investors-in-bank-of-america-nysebac-to-contact-law-firm-302942815.html",
+   "summary": "Bank of America (NYSE:BAC) shareholders should email fletcher@fmoorelaw.com NEW YORK, Nov. 17, 2026 /PRNewswire/ -- The investigation concerns: Deficient AML & BSA Compliance Controls: Bank of America maintained deficient Bank Secrecy Act (BSA) and Anti-Money Laundering (AML) monitoring...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-17T22:57:00+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "1b5fabdfccd4",
    "title": "CNBC Digital Finance Forum live updates: Wall Street's AI and crypto future",
@@ -15,6 +89,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "42d1d1668840",
+   "title": "Earnings call transcript: Webjet Group posts weak H1 2026 results as shares slip",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-webjet-group-posts-weak-h1-2026-results-as-shares-slip-93CH-5034295",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T22:53:31+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -46,6 +134,34 @@
    "tag_v": 2
   },
   {
+   "id": "611b6f6f63ae",
+   "title": "Stablecoin Development Corp expands at-the-market offering by $100 million",
+   "link": "https://www.investing.com/news/sec-filings/stablecoin-development-corp-expands-atthemarket-offering-by-100-million-93CH-5034291",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T22:49:45+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c545ddfa6b6a",
+   "title": "S&P downgrades Wendy’s to ‘B’ on elevated leverage and persistent sales declines",
+   "link": "https://www.investing.com/news/stock-market-news/sp-downgrades-wendys-to-b-on-elevated-leverage-and-persistent-sales-declines-5034289",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-17T22:49:17+00:00",
+   "tickers": [],
+   "type": "downgrade",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "19f2b5fe9c41",
    "title": "Jensen Huang says he \"would be honored\" to return as Nvidia CEO",
    "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-return-statement/",
@@ -56,6 +172,20 @@
    "published": "2026-11-17T22:48:35+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "28d61986105b",
+   "title": "US judge extends deadline for Trump deposition in BBC defamation case",
+   "link": "https://www.investing.com/news/stock-market-news/us-judge-extends-deadline-for-trump-deposition-in-bbc-defamation-case-5034287",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-17T22:48:20+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -76,17 +206,67 @@
    "tag_v": 2
   },
   {
-   "id": "10a143420e46",
-   "title": "Nvidia sees strong growth in first earnings report without Huang",
-   "link": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/",
-   "summary": "Nvidia's latest earnings are the first time the chipmaker has reported financial results without founder and former CEO Jensen Huang at the helm.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-17T22:47:50+00:00",
-   "tickers": [],
+   "id": "da71be7afb2b",
+   "title": "Transocean issues supplemental disclosures on Valaris merger ahead of shareholder vote",
+   "link": "https://www.investing.com/news/sec-filings/transocean-issues-supplemental-disclosures-on-valaris-merger-ahead-of-shareholder-vote-93CH-5034286",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T22:46:03+00:00",
+   "tickers": [
+    "RIG"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "abd890d43a07",
+   "title": "Cisco EVP, global sales Oliver Tuszik sells $1.03M in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/cisco-evp-global-sales-oliver-tuszik-sells-103m-in-stock-93CH-5034285",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T22:46:01+00:00",
+   "tickers": [
+    "CSCO"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5a0074bb9e46",
+   "title": "Cisco evp and chief legal officer Deborah Stahlkopf sells $7.89M in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/cisco-evp-and-chief-legal-officer-deborah-stahlkopf-sells-789m-in-stock-93CH-5034283",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T22:45:57+00:00",
+   "tickers": [
+    "CSCO"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "eb860b782b7d",
+   "title": "MDB Capital Q3 2026 slides: four assets near inflection points",
+   "link": "https://www.investing.com/news/company-news/mdb-capital-q3-2026-slides-four-assets-near-inflection-points-93CH-5034277",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T22:45:05+00:00",
+   "tickers": [
+    "MDB"
+   ],
    "type": "earnings",
-   "sentiment": "positive",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -138,6 +318,20 @@
    "tag_v": 2
   },
   {
+   "id": "0cd893e346a5",
+   "title": "AI/ML Innovations closes first tranche of private placement",
+   "link": "https://www.investing.com/news/company-news/aiml-innovations-closes-first-tranche-of-private-placement-93CH-5034276",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T22:44:27+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "77ea879f944f",
    "title": "SPAR Group and ReposiTrak Announce Recapitalization to Deepen Joint Go-to-Market Approach | TRAK Stock News",
    "link": "https://www.stocktitan.net/news/TRAK/spar-group-and-reposi-trak-announce-recapitalization-to-deepen-joint-efcl9uywful6.html",
@@ -149,6 +343,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "88bd46a0fd71",
+   "title": "Earnings call transcript: IRIDEX Q3 2026 misses estimates as shares sink 25%",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-iridex-q3-2026-misses-estimates-as-shares-sink-25-93CH-5034275",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T22:42:52+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -164,20 +372,6 @@
     "PAAS"
    ],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "61caefaaba1b",
-   "title": "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates",
-   "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-   "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, with its earnings call scheduled for 5 p.m. ET.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T22:41:13+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -206,6 +400,20 @@
    "category": "stocks",
    "domain": "thestreet.com",
    "published": "2026-11-17T22:37:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ca0714ca5bec",
+   "title": "US push for $50 billion for aviation modernization faces Republican opposition",
+   "link": "https://www.investing.com/news/stock-market-news/us-push-for-50-billion-for-aviation-faces-opposition-5033944",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-17T22:36:48+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -1785,22 +1993,6 @@
    "published": "2026-11-17T22:00:00+00:00",
    "tickers": [],
    "type": "fda",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "db0d94213aaa",
-   "title": "Apple says internal update caused outage as services recover",
-   "link": "https://www.cbsnews.com/news/apple-outage-icloud-apple-pay-services/",
-   "summary": "The company's system status shows that some Apple services, including iCloud sign-in, are still experiencing issues.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-17T21:57:32+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3922,20 +4114,6 @@
    "tag_v": 2
   },
   {
-   "id": "ca0714ca5bec",
-   "title": "US push for $50 billion for aviation faces opposition",
-   "link": "https://www.investing.com/news/stock-market-news/us-push-for-50-billion-for-aviation-faces-opposition-5033944",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-17T21:12:23+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "bd6311e77ac7",
    "title": "Webull Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - BULL",
    "link": "https://www.prnewswire.com/news-releases/webull-corporation-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--bull-302942709.html",
@@ -4666,20 +4844,6 @@
    "tag_v": 2
   },
   {
-   "id": "7b922581d8e1",
-   "title": "FAA temporarily stops router installations connected to air travel stoppage - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmtpWWREWHk0ZEcyS2RsT054VXhvR04yVlM5VndWRk12eW9SRThmdzlGbDVoajY1Rm1hcWRkeEJsSE51dHNNRlFpbVN0bHBhSkhYLV9lTEh6Z3c1TlZRdGFzTk5TeXdYU2JiQTNKZ3E1M3RKS1lnZGhCX0Y4SVBpVUtfeXNkM2otOHcxQS1ib3p4bGloVzJ1cldSVVBYSG9UVmQ0MjN3?oc=5",
-   "summary": "FAA temporarily stops router installations connected to air travel stoppage&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-17T21:04:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "7512e3ef72be",
    "title": "DNI Jay Clayton: This is not a cyber attack and this is not a coordinated effort by a nation state",
    "link": "https://www.cnbc.com/video/2026/11/17/dni-jay-clayton-this-is-not-a-cyber-attack-and-this-is-not-a-coordinated-effort-by-a-nation-state.html",
@@ -5243,22 +5407,6 @@
    "published": "2026-11-17T20:45:00+00:00",
    "tickers": [],
    "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "4741fa973024",
-   "title": "Outage math at the airport: When a four-hour Uber beats waiting out a ground stop - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOel9PVVg3bzRrMFA5ODlSWlVmOXRBcWR2QkxwWXgyZVpBNzZES3RVWTJOSlRuNDd6X0hrMGpQVXpVZGE0eXl0R2xVRE9WS3pfVkFMcmM3VTBkRnZSTEltNGhKQ25jZVhhNjdURlE1Y2RhUjlobzNqd0Jtbk1oYnRoSHEycExlaTRZczJCenVPUjQ5MXh3aXJSQVV0azNNbVE?oc=5",
-   "summary": "Outage math at the airport: When a four-hour Uber beats waiting out a ground stop&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-17T20:45:00+00:00",
-   "tickers": [
-    "UBER"
-   ],
-   "type": "macro",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -7661,6 +7809,22 @@
    "tag_v": 2
   },
   {
+   "id": "4741fa973024",
+   "title": "Outage math at the airport: When a four-hour Uber beats waiting out a ground stop - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOel9PVVg3bzRrMFA5ODlSWlVmOXRBcWR2QkxwWXgyZVpBNzZES3RVWTJOSlRuNDd6X0hrMGpQVXpVZGE0eXl0R2xVRE9WS3pfVkFMcmM3VTBkRnZSTEltNGhKQ25jZVhhNjdURlE1Y2RhUjlobzNqd0Jtbk1oYnRoSHEycExlaTRZczJCenVPUjQ5MXh3aXJSQVV0azNNbVE?oc=5",
+   "summary": "Outage math at the airport: When a four-hour Uber beats waiting out a ground stop&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-17T19:09:49+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "7436a722b7f9",
    "title": "Regional Management at Stephens conference: bank tie-up boosts runway",
    "link": "https://www.investing.com/news/transcripts/regional-management-at-stephens-conference-bank-tieup-boosts-runway-93CH-5033815",
@@ -8799,171 +8963,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "0b5006350229",
-   "title": "Pentagon’s Colby warns NATO allies against shutting US firms out of arms deals",
-   "link": "https://www.investing.com/news/stock-market-news/pentagons-colby-warns-nato-allies-against-shutting-us-firms-out-of-arms-deals-5033782",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-17T18:30:45+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "5a4b3cb66bea",
-   "title": "NSA Hit by Major Network Outage as Tech Glitches Pile Up",
-   "link": "https://www.benzinga.com/markets/tech/26/11/63361077/nsa-hit-by-major-network-outage-as-tech-glitches-pile-up",
-   "summary": "The highly classified network the National Security Agency (NSA) uses for internal communications is down. The network, known as NSANet, allows employees to communicate classified information internally. There is no evidence of a cyberattack, sources told CNN. As the agency works to determine the scope of the problem, it has instituted staggered arrival times for personnel, the sources said. A current and a former U.S. official said the outage would not affect the NSA’s ability to relay urgent i",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-17T18:30:19+00:00",
-   "tickers": [
-    "NSA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f6c82504c2c0",
-   "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents",
-   "link": "https://www.prnewswire.com/news-releases/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents-302942660.html",
-   "summary": "Through the new AI Transparency Initiative, Microsoft is working with more than 40 organizations, including Accenture, Adobe, KPMG, Mastercard and Volvo Cars, to advance a common approach to AI transparency, security and governance across models and providers. Microsoft will also bring...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-17T18:30:00+00:00",
-   "tickers": [
-    "MA",
-    "ACN",
-    "MSFT",
-    "ADBE"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8a11109947ee",
-   "title": "What's Going On With Bloom Energy Stock Tuesday?",
-   "link": "https://www.benzinga.com/trading-ideas/movers/26/11/63361008/whats-going-on-with-bloom-energy-stock-tuesday-4",
-   "summary": "Bloom Energy Corp. (NYSE:BE) stock fell Tuesday as a broader sell-off in technology and artificial intelligence-linked stocks weighed on investor sentiment. Investors are increasingly questioning whether the current pace of AI infrastructure spending can last, and that doubt has weighed on companies tied to the data center buildout. Power suppliers have been especially exposed, including Bloom Energy, whose solid oxide fuel cell systems generate electricity on-site for customers such as data cen",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-17T18:29:37+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ac9f82f6aea2",
-   "title": "What to know about the online banking delays that affected major US banks - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGVEZlplOUhicFlIX003TWFGTWhyUFNHSDQzeTVoc25sUUUzMVA5Rm95U2w5Tk9rRFFRVENXUXFuWEkyNC1vOHRvZ1BPaUJMd1ItanFRd3MwdkludFdCaHZ2RFJzMzE0aHpWOEZhR1Z5ZFhQZC1OOUVGM1pRV1VUbllxTDRXb1lwWU43UmZvV0ZIWW92M2psaG5renA4M1l6TUJIUg?oc=5",
-   "summary": "What to know about the online banking delays that affected major US banks&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-17T18:29:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "53251b253122",
-   "title": "Reliance Global (XGPU) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/reliance-global-xgpu-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T18:27:47+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6b0cee01c2d9",
-   "title": "Why Micron Stock Keeps On Going Down",
-   "link": "https://www.nasdaq.com/articles/why-micron-stock-keeps-going-down-1",
-   "summary": "Key PointsThe Nvidia CEO scandal fallout keeps on falling out.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T18:27:21+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c0d9ab3e3930",
-   "title": "Pennant Group at Stephens conference: growth, integration and margin push",
-   "link": "https://www.investing.com/news/transcripts/pennant-group-at-stephens-conference-growth-integration-and-margin-push-93CH-5033777",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-17T18:26:55+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "db1dc3c5a1fc",
-   "title": "Tuesday's ETF with Unusual Volume: REVS",
-   "link": "https://www.nasdaq.com/articles/tuesdays-etf-unusual-volume-revs",
-   "summary": "The Columbia Research Enhanced Value ETF is seeing unusually high volume in afternoon trading Tuesday, with over 601,000 shares traded versus three month average volume of about 43,000. Shares of REVS were off about 1.2% on the day. Components of that ETF with the highest volu",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T18:25:04+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "552752287358",
-   "title": "North Carolina approves Duke Energy resource plan through 2034",
-   "link": "https://www.investing.com/news/company-news/north-carolina-approves-duke-energy-resource-plan-through-2034-93CH-5033776",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-17T18:24:35+00:00",
-   "tickers": [
-    "DUK"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "2ef62889c5be",
-   "title": "SEGG regains Nasdaq compliance, cancels hearing",
-   "link": "https://www.investing.com/news/company-news/segg-regains-nasdaq-compliance-cancels-hearing-93CH-5033775",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-17T18:24:27+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9030,7 +9029,6 @@
   "GIL": "Gildan Activewear",
   "JNJ": "Johnson & Johnson",
   "LPX": "Louisiana-Pacific",
-  "MU": "Micron Technology",
   "RF": "Regions Financial",
   "SOFI": "SoFi Technologies",
   "SVM": "Silvercorp Metals",
@@ -9072,6 +9070,7 @@
   "QBTS": "D-Wave Quantum",
   "USAR": "USA Rare Earth",
   "BILL": "BILL Holdings",
+  "CSCO": "Cisco Systems",
   "EG": "Everest Group",
   "LLY": "Eli Lilly and",
   "TOL": "Toll Brothers",
@@ -9101,21 +9100,19 @@
   "CMS": "CMS Energy",
   "CRM": "Salesforce",
   "GEV": "GE Vernova",
-  "MA": "Mastercard",
   "PHM": "PulteGroup",
   "RGLD": "Royal Gold",
+  "RIG": "Transocean",
   "STLA": "Stellantis",
   "WT": "WisdomTree",
   "MSFT": "Office 365",
   "PARA": "Paramount+",
-  "ACN": "Accenture",
   "C": "Citigroup",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "DT": "Dynatrace",
   "FRO": "Frontline",
   "NXT": "Nextpower",
-  "ADBE": "Photoshop",
   "APP": "AppLovin",
   "AVGO": "Broadcom",
   "DUOL": "Duolingo",
