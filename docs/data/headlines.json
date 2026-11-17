@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-17T19:51:21.633476+00:00",
+ "generated": "2026-11-17T19:56:01.529454+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ddb5b9c43374",
+   "title": "Dow falls 900 points as tech shares decline into Nvidia results, traders monitor NSA outage: Live updates",
+   "link": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+   "summary": "Traders on Tuesday reacted to several fresh earnings reports and awaited Nvidia's latest quarterly financial results.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T19:54:57+00:00",
+   "tickers": [
+    "NSA"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "1d83fcfc69c7",
    "title": "Amex Platinum welcome bonus eligibility rules: What to know",
@@ -29,22 +45,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ddb5b9c43374",
-   "title": "Dow falls 800 points as tech shares decline, traders monitor NSA network outage: Live updates",
-   "link": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
-   "summary": "Traders on Tuesday reacted to several fresh earnings reports and awaited Nvidia's latest quarterly financial results.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T19:45:26+00:00",
-   "tickers": [
-    "NSA"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -381,6 +381,23 @@
    "tag_v": 2
   },
   {
+   "id": "6f100cb285be",
+   "title": "Stocks Pressured by Weakness in Software and Health Insurance Stocks",
+   "link": "https://www.nasdaq.com/articles/stocks-pressured-weakness-software-and-health-insurance-stocks",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.10% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.33%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.16%. December E-mini S&amp;P futures (ESZ26 ) are down -0.13%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T19:28:41+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "37e1fc651e9a",
    "title": "Oppenheimer reiterates Midera Food Processing stock rating on Q3 beat",
    "link": "https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-midera-food-processing-stock-rating-on-q3-beat-93CH-5033831",
@@ -500,23 +517,6 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "6f100cb285be",
-   "title": "Stocks Pressured by Weakness in Software and Health Insurance Stocks",
-   "link": "https://www.nasdaq.com/articles/stocks-pressured-weakness-software-and-health-insurance-stocks",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.10% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.33%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.16%. December E-mini S&amp;P futures (ESZ26 ) are down -0.13%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T19:23:33+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2226,6 +2226,20 @@
    "published": "2026-11-17T18:25:04+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ed31a15fc944",
+   "title": "Claims by Netanyahu’s party of a ‘stolen’ Israeli election unravel - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUlpSYlg0NUhRa3JSazdObFNTNVFIMFlaRG9DUndvS2gzbmJzNEV6ZGhZeDRsR2NEWU1jMDJMMGNnam0waFpDdVA1bHA5WjBnMS1OSlQtZVRJTWE5b3QyV0doMXg4eWhuYW5TbTBHSHJ2a2t4YVNMUVQwaWl4Uk0yUmRyUzFBb1hiY0kxbFdlN0wxaDRLVnluZzNR?oc=5",
+   "summary": "Claims by Netanyahu’s party of a ‘stolen’ Israeli election unravel&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-17T18:25:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -9016,20 +9030,6 @@
    "category": "stocks",
    "domain": "investing.com",
    "published": "2026-11-17T14:53:07+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "328b4606f693",
-   "title": "Adagene and City of Hope Open Clinical Trial to Test New Therapy for Patients with Hard-to-Treat Colorectal Cancer",
-   "link": "https://www.nasdaq.com/articles/adagene-and-city-hope-open-clinical-trial-test-new-therapy-patients-hard-treat-colorectal",
-   "summary": "Adagene Inc. and City of Hope have announced the launch of an investigator-initiated Phase 1 clinical trial to explore a new combination therapy for patients with advanced microsatellite stable colorectal cancer. The trial will enroll up to 36 patients to evaluate two experimenta",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T14:52:07+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
