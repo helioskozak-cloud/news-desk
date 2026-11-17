@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T23:56:16.157081+00:00",
+ "generated": "2026-11-17T00:01:03.833947+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,9 +11,40 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-16T23:47:51+00:00",
+   "published": "2026-11-16T23:59:40+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e52c4bf4c200",
+   "title": "Canada's Telecom Map Could Be Redrawn as a Takeover Approach Goes Public",
+   "link": "https://www.prnewswire.com/news-releases/canadas-telecom-map-could-be-redrawn-as-a-takeover-approach-goes-public-302941182.html",
+   "summary": "VANCOUVER, BC, Nov. 16, 2026 /PRNewswire/ -- Canada News Group News Commentary - Canada's telecom sector produced one of Monday's biggest corporate stories, as TELUS confirmed it has received an unsolicited proposal from Québecor. Shares of TELUS rose sharply on the news even as U.S....",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-16T23:58:00+00:00",
+   "tickers": [
+    "TU",
+    "BC"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8ebd99c62430",
+   "title": "Conrad Industries Announces Third Quarter 2026 Results and Backlog | CNRD Stock News",
+   "link": "https://www.stocktitan.net/news/CNRD/conrad-industries-announces-third-quarter-2026-results-and-5ivdf9vwmc6s.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-16T23:58:00+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -224,6 +255,23 @@
    "tag_v": 2
   },
   {
+   "id": "daf72b3232e1",
+   "title": "Weakness in Chipmakers and AI Stocks Weighs on Stock Indexes",
+   "link": "https://www.nasdaq.com/articles/weakness-chipmakers-and-ai-stocks-weighs-stock-indexes",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.75% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.36%. December E-mini S&amp;P futures (ESZ26 ) are down -0.80%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:36:17+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "8f53998d20c0",
    "title": "Tech Leaders Want Jensen Huang to Return to Nvidia. Here’s What That Would Mean for the Stock Price.",
    "link": "https://www.nasdaq.com/articles/tech-leaders-want-jensen-huang-return-nvidia-heres-what-would-mean-stock-price",
@@ -309,6 +357,53 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "58f178a36e27",
+   "title": "Cocoa Prices Fall on Abundant Supplies",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-abundant-supplies",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed down -77 (-1.50%) on Monday, and ICE London cocoa #7 (CAZ26 ) closed down -34 (-0.88%). Cocoa prices retreated on Monday amid signs of abundant current supplies. Cocoa prices have trended lower over the past month and posted a 4.75-month low last Tuesday...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:30:38+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "6a48f1b19c81",
+   "title": "Cattle Pulling off Early Lows at Monday’s Midday",
+   "link": "https://www.nasdaq.com/articles/cattle-pulling-early-lows-mondays-midday",
+   "summary": "Live cattle futures are showing 12 to 60 cent losses across most contracts on Monday. Cash trade last week saw some light dressed trade at $335-340 in the North, with a few southern sales at $218. Feeder cattle futures are $1.40 to $2.15 lower across the front months on the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:30:38+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e3bf76456719",
+   "title": "Stock Indexes Retreat as Chipmakers and AI Stocks Fall",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-retreat-chipmakers-and-ai-stocks-fall",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.95% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.47%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&amp;P futures (ESZ26 ) are down -1.02%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:30:37+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -414,22 +509,6 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "58f178a36e27",
-   "title": "Cocoa Prices Fall on Abundant Supplies",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-abundant-supplies",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed down -77 (-1.50%) on Monday, and ICE London cocoa #7 (CAZ26 ) closed down -34 (-0.88%). Cocoa prices retreated on Monday amid signs of abundant current supplies. Cocoa prices have trended lower over the past month and posted a 4.75-month low last Tuesday...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T23:25:04+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -551,6 +630,50 @@
    "tag_v": 2
   },
   {
+   "id": "64f260631f3d",
+   "title": "Strategy Inc Announces ATM Sales of 2,087,040 Class A Shares and Purchase of 485 Bitcoin",
+   "link": "https://www.nasdaq.com/articles/strategy-inc-announces-atm-sales-2087040-class-shares-and-purchase-485-bitcoin",
+   "summary": "Strategy Inc announced updates regarding its at-the-market offering program, bitcoin holdings, share repurchases, and dividend declarations. During the period from November 9, 2026 to November 15, 2026, the company sold 2,087,040 shares of Class A Common Stock. According to the c",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:20:57+00:00",
+   "tickers": [
+    "MSTR"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3584f715db44",
+   "title": "Jasper Therapeutics, Inc. Reports Third Quarter 2026 Financial Results and Clinical Pipeline Progress",
+   "link": "https://www.nasdaq.com/articles/jasper-therapeutics-inc-reports-third-quarter-2026-financial-results-and-clinical-pipeline",
+   "summary": "Jasper Therapeutics, Inc. reported its financial results for the fiscal quarter ended September 30, 2026, and provided a corporate update. Cash and cash equivalents as of September 30, 2026, totaled $135.3 million. Research and development expense for the three months ended Septe",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:20:55+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3b503387f8b4",
+   "title": "Relmada Therapeutics, Inc. Appoints Jørn Skibsted Jakobsen, MD, PhD, as Chief Development Officer",
+   "link": "https://www.nasdaq.com/articles/relmada-therapeutics-inc-appoints-jorn-skibsted-jakobsen-md-phd-chief-development-officer",
+   "summary": "Relmada Therapeutics, Inc. announced the appointment of J&oslash;rn Skibsted Jakobsen, MD, PhD, as Chief Development Officer, Urology &amp; Uro-Oncology, on November 16, 2026. Dr. Jakobsen will lead clinical development across the company's pipeline, including the planned Phase 3",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:20:54+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "db1ba2c8f710",
    "title": "PicPay Q3 2026 slides: all guidance beaten, but shares sink on policy shift",
    "link": "https://www.investing.com/news/company-news/picpay-q3-2026-slides-all-guidance-beaten-but-shares-sink-on-policy-shift-93CH-5031247",
@@ -610,37 +733,6 @@
    "tag_v": 2
   },
   {
-   "id": "6a48f1b19c81",
-   "title": "Cattle Pulling off Early Lows at Monday’s Midday",
-   "link": "https://www.nasdaq.com/articles/cattle-pulling-early-lows-mondays-midday",
-   "summary": "Live cattle futures are showing 12 to 60 cent losses across most contracts on Monday. Cash trade last week saw some light dressed trade at $335-340 in the North, with a few southern sales at $218. Feeder cattle futures are $1.40 to $2.15 lower across the front months on the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T23:19:36+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e3bf76456719",
-   "title": "Stock Indexes Retreat as Chipmakers and AI Stocks Fall",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-retreat-chipmakers-and-ai-stocks-fall",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.95% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.47%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&amp;P futures (ESZ26 ) are down -1.02%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T23:19:35+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "5107868475e0",
    "title": "Dollar Climbs on Stock Weakness and Fed Tightening Prospects",
    "link": "https://www.nasdaq.com/articles/dollar-climbs-stock-weakness-and-fed-tightening-prospects",
@@ -652,23 +744,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "daf72b3232e1",
-   "title": "Weakness in Chipmakers and AI Stocks Weighs on Stock Indexes",
-   "link": "https://www.nasdaq.com/articles/weakness-chipmakers-and-ai-stocks-weighs-stock-indexes",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.75% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.36%. December E-mini S&amp;P futures (ESZ26 ) are down -0.80%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T23:19:35+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1438,7 +1513,7 @@
    "title": "M&T Bank Corporation Announces Increased Common Stock Dividend",
    "link": "https://www.prnewswire.com/news-releases/mt-bank-corporation-announces-increased-common-stock-dividend-302941131.html",
    "summary": "BUFFALO, N.Y., Nov. 16, 2026 /PRNewswire/ -- M&amp;T Bank Corporation (\"M&amp;T\") (NYSE: MTB) announced that it has declared a quarterly cash dividend of $1.80 per share on its common stock. This represents an increase of $.30 per share, or 20 percent, from the previous $1.50 per share dividend...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-11-16T22:49:00+00:00",
@@ -1487,7 +1562,7 @@
    "title": "SiteOne Landscape Supply Set to Join S&P SmallCap 600",
    "link": "https://www.prnewswire.com/news-releases/siteone-landscape-supply-set-to-join-sp-smallcap-600-302941130.html",
    "summary": "NEW YORK, Nov. 16, 2026 /PRNewswire/ -- SiteOne Landscape Supply Inc. (NYSE: SITE) will replace Integer Holdings Corp. (NYSE: ITGR) in the S&amp;P SmallCap 600 effective prior to the opening of trading on Thursday, November 19. S&amp;P 500 constituent KKR & Co Inc. (NYSE: KKR) is acquiring...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-11-16T22:48:00+00:00",
@@ -8843,80 +8918,6 @@
    "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "1d116cd3dd6d",
-   "title": "Maryland Lieutenant Governor and Comptroller Helped Open Howard County's First Public Trades Center at Howard Community College",
-   "link": "https://markets.businessinsider.com/news/stocks/maryland-lieutenant-governor-and-comptroller-helped-open-howard-county-s-first-public-trades-center-at-howard-community-college-1036770697",
-   "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Columbia, Md, Nov. 16, 2026 (GLOBE NEWSWIRE) -- Maryland Lt. Governor Aruna Miller and Comptroller Brooke Lierman joined Howard Community College (HCC) leaders, state and county legislators, donors, and industry partners on Monday, Nov.",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-11-16T19:54:47+00:00",
-   "tickers": [
-    "HCC"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "009a06f7126f",
-   "title": "CENTEGIX and VOLT Bring AI-Powered Video Intelligence to CITE 2026",
-   "link": "https://markets.businessinsider.com/news/stocks/centegix-and-volt-bring-ai-powered-video-intelligence-to-cite-2026-1036770696",
-   "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;ATLANTA, Nov. 16, 2026 (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=G_d8YIMh4DNwZqqSMyXR6E1VNRfiHvSDIEUsvMpAireqMZ7dFmCnGQDidUsvMx9bJX5_sOFVwE6104EUVdLylg==&quot; rel=&quot;nofollow&quot;...",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-11-16T19:54:01+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5b8e8ef071b2",
-   "title": "If the AI bubble is popping, history shows these stocks could boom",
-   "link": "https://www.cnbc.com/2026/11/16/if-the-ai-bubble-is-popping-history-shows-these-stocks-could-boom.html",
-   "summary": "Consumer staples could have more room to rally as tech weakens, BTIG says, pointing to the sector’s surge after the dot-com peak.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-16T19:53:33+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "89513ce2e7be",
-   "title": "Why is SPDR S&P 500 ETF sliding today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-spdr-sp-500-etf-sliding-today-93CH-5030776",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-16T19:52:02+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fd1d465f943d",
-   "title": "Aramark: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/aramark-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsAramark achieved 10% organic revenue growth in fiscal 2026.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T19:51:01+00:00",
-   "tickers": [
-    "ARMK"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8976,7 +8977,6 @@
   "DY": "Dycom Industries",
   "EMR": "Emerson Electric",
   "EXK": "Endeavour Silver",
-  "HCC": "Warrior Met Coal",
   "J": "Jacobs Solutions",
   "JPM": "JPMorgan Chase &",
   "OWL": "Blue Owl Capital",
@@ -9017,6 +9017,7 @@
   "TLRY": "Tilray Brands",
   "TOL": "Toll Brothers",
   "WFC": "Wells Fargo &",
+  "MSTR": "MicroStrategy",
   "CYTK": "Cytokinetics",
   "HRL": "Hormel Foods",
   "IREN": "IREN Limited",
@@ -9055,7 +9056,6 @@
   "NI": "NiSource",
   "SNAP": "Snapchat",
   "ALV": "Autoliv",
-  "ARMK": "Aramark",
   "CMI": "Cummins",
   "CVX": "Chevron",
   "IVZ": "Invesco",
@@ -9080,6 +9080,7 @@
   "CROX": "Crocs",
   "INTC": "Intel",
   "KKR": "KKR &",
+  "TU": "TELUS",
   "RHHBY": "Roche",
   "XPEV": "XPeng",
   "MSCI": "MSCI",
