@@ -1,8 +1,55 @@
 {
- "generated": "2026-11-17T21:21:28.279076+00:00",
+ "generated": "2026-11-17T21:26:13.296879+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1c9478bd3f2f",
+   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+   "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+   "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T21:24:20+00:00",
+   "tickers": [
+    "AAPL",
+    "NSA"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "61caefaaba1b",
+   "title": "Nvidia beats on top and bottom lines in first earnings report since Huang's exit: Live updates",
+   "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+   "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, with its earnings call scheduled for 5 p.m. ET.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T21:23:49+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "26eac13390ef",
+   "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 | NVDA Stock News",
+   "link": "https://www.stocktitan.net/news/NVDA/nvidia-announces-financial-results-for-third-quarter-fiscal-fpx9dw5egxqa.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-17T21:20:00+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "925da59d96ba",
    "title": "7 smart reasons to sell a stock—and my ‘golden rule’ for offloading shares, says hedge fund CEO",
@@ -13,23 +60,6 @@
    "domain": "cnbc.com",
    "published": "2026-11-17T21:19:48+00:00",
    "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1c9478bd3f2f",
-   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-   "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
-   "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T21:19:29+00:00",
-   "tickers": [
-    "AAPL",
-    "NSA"
-   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -311,6 +341,22 @@
    "published": "2026-11-17T21:15:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2fccb9839e76",
+   "title": "Apple joins a parade of technology hiccups in recent days - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakk2WVQzLV9va3RKcUZGLVBicnpLNlB1UzVjN2hzUUJNelRENjNLOGh2SGtZaXNvX3VtSkIwbk9qSy1QcEljaTJEWjhGVkhkbW5jcGRvY1BGbHdUOWMtZ3JzVEdXYU84elpkZ3RkTVVTSS1DMUN4bDRtNWkxd29ncFNaakV0LUlOV0hvSURmR184QlBrQ2t5Sg?oc=5",
+   "summary": "Apple joins a parade of technology hiccups in recent days&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-17T21:15:00+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -690,6 +736,50 @@
    "tag_v": 2
   },
   {
+   "id": "b1644b2d2248",
+   "title": "Corn Posting Tuesday Gains with Spillover Wheat Support",
+   "link": "https://www.nasdaq.com/articles/corn-posting-tuesday-gains-spillover-wheat-support",
+   "summary": "Corn futures are showing fractional nearby gains, with other contracts up 2 to 4 cents at Tuesday’s midday. Strength in wheat is Supportive. The CmdtyView national average Cash Corn price is up 1/4 cent at $4.17 3/4. Crop Progress data tallied the US corn harvest at 88% complete as of...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T21:06:26+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "44fd393a6494",
+   "title": "Cotton Bouncing on Turnaround Tuesday",
+   "link": "https://www.nasdaq.com/articles/cotton-bouncing-turnaround-tuesday",
+   "summary": "Cotton futures are trading with contracts 55 to 67 cents higher across the front months. Crude oil is up 66 cents per barrel on the session, with the US dollar index $0.155 higher. Crop Progress data showed the US cotton crop at 77% complete as of Sunday, 6 percentage points...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T21:06:26+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3e5962b15a1e",
+   "title": "Sugar Prices Rise on Lower French Sugar Output",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-lower-french-sugar-output",
+   "summary": "March NY world sugar #11 (SBH27 ) is up +0.14 (+0.77%) today, and March London ICE white sugar #5 (SWH2 7) is up +2.40 (+0.47%). Sugar prices erased early losses today and moved higher as short covering emerged amid global supply concerns after France, the EU's largest sugar producer, cut...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T21:06:26+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "abc2860bde42",
    "title": "Ample Cocoa Supplies Undercut Prices",
    "link": "https://www.nasdaq.com/articles/ample-cocoa-supplies-undercut-prices",
@@ -713,6 +803,20 @@
    "source": "Investing Stock",
    "category": "stocks",
    "domain": "investing.com",
+   "published": "2026-11-17T21:06:25+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "858d02a64beb",
+   "title": "Wheat Popping Higher After Ukrainian Strike",
+   "link": "https://www.nasdaq.com/articles/wheat-popping-higher-after-ukrainian-strike",
+   "summary": "Wheat is trading with Tuesday AM gains of 3 to 9 cents so far. The wheat complex posted losses across most of the three exchanges, with spring wheat holding firm. Chicago SRW futures were down 5 3/4 to 7 3/4 cents across most contracts at the close. KC HRW futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
    "published": "2026-11-17T21:06:25+00:00",
    "tickers": [],
    "type": "stocks",
@@ -1299,6 +1403,20 @@
    "tag_v": 2
   },
   {
+   "id": "0de43a545944",
+   "title": "Crude Oil Prices Climb on Global Supply Threats",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-climb-global-supply-threats",
+   "summary": "December WTI crude oil (CLZ26 ) is up +0.79 (+0.92%) today, and December RBOB gasoline (RBZ26 ) is up +0.0204 (+0.80%). Crude oil and gasoline prices are moving higher today on threats to global oil supplies. Concerns about escalation of the US-Iran conflict are lifting crude prices as the US...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T21:01:59+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "6f100cb285be",
    "title": "Stocks Pressured by Weakness in Software and Health Insurance Stocks",
    "link": "https://www.nasdaq.com/articles/stocks-pressured-weakness-software-and-health-insurance-stocks",
@@ -1655,6 +1773,20 @@
    "tag_v": 2
   },
   {
+   "id": "30259608bfa0",
+   "title": "Cotton Showing Modest Tuesday Morning Gain",
+   "link": "https://www.nasdaq.com/articles/cotton-showing-modest-tuesday-morning-gain",
+   "summary": "Cotton prices are up 1 to 12 points early on Tuesday. Futures posted Monday losses of 58 to 178 points at the close. Crude oil was down $3.50 cents per barrel on the session, with the US dollar index $0.172 higher. Crop Progress data showed the US cotton crop at...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T20:55:57+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "9893e0660738",
    "title": "FAA pauses installation of new routers after ground stop",
    "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
@@ -1751,34 +1883,6 @@
    "tag_v": 2
   },
   {
-   "id": "b1644b2d2248",
-   "title": "Corn Posting Tuesday Gains with Spillover Wheat Support",
-   "link": "https://www.nasdaq.com/articles/corn-posting-tuesday-gains-spillover-wheat-support",
-   "summary": "Corn futures are showing fractional nearby gains, with other contracts up 2 to 4 cents at Tuesday’s midday. Strength in wheat is Supportive. The CmdtyView national average Cash Corn price is up 1/4 cent at $4.17 3/4. Crop Progress data tallied the US corn harvest at 88% complete as of...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T20:49:56+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "858d02a64beb",
-   "title": "Wheat Popping Higher After Ukrainian Strike",
-   "link": "https://www.nasdaq.com/articles/wheat-popping-higher-after-ukrainian-strike",
-   "summary": "Wheat is trading with Tuesday AM gains of 3 to 9 cents so far. The wheat complex posted losses across most of the three exchanges, with spring wheat holding firm. Chicago SRW futures were down 5 3/4 to 7 3/4 cents across most contracts at the close. KC HRW futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T20:49:56+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "35b7e7fe6f73",
    "title": "Cotton Closes Monday with Losses",
    "link": "https://www.nasdaq.com/articles/cotton-closes-monday-losses",
@@ -1855,34 +1959,6 @@
    "tag_v": 2
   },
   {
-   "id": "44fd393a6494",
-   "title": "Cotton Bouncing on Turnaround Tuesday",
-   "link": "https://www.nasdaq.com/articles/cotton-bouncing-turnaround-tuesday",
-   "summary": "Cotton futures are trading with contracts 55 to 67 cents higher across the front months. Crude oil is up 66 cents per barrel on the session, with the US dollar index $0.155 higher. Crop Progress data showed the US cotton crop at 77% complete as of Sunday, 6 percentage points...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T20:45:28+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "30259608bfa0",
-   "title": "Cotton Showing Modest Tuesday Morning Gain",
-   "link": "https://www.nasdaq.com/articles/cotton-showing-modest-tuesday-morning-gain",
-   "summary": "Cotton prices are up 1 to 12 points early on Tuesday. Futures posted Monday losses of 58 to 178 points at the close. Crude oil was down $3.50 cents per barrel on the session, with the US dollar index $0.172 higher. Crop Progress data showed the US cotton crop at...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T20:45:28+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "f12a7b948352",
    "title": "Commercial National Increases Dividend to $0.16 per Share | CNAF Stock News",
    "link": "https://www.stocktitan.net/news/CNAF/commercial-national-increases-dividend-to-0-16-per-zzq124s4jc9t.html",
@@ -1924,20 +2000,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "61caefaaba1b",
-   "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
-   "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-   "summary": "Nvidia is scheduled to release fiscal third-quarter 2027 results Tuesday, November 17, at approximately 4:20 p.m. ET, followed by a 5 p.m. ET earnings call.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T20:42:18+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2082,36 +2144,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3e5962b15a1e",
-   "title": "Sugar Prices Rise on Lower French Sugar Output",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-lower-french-sugar-output",
-   "summary": "March NY world sugar #11 (SBH27 ) is up +0.14 (+0.77%) today, and March London ICE white sugar #5 (SWH2 7) is up +2.40 (+0.47%). Sugar prices erased early losses today and moved higher as short covering emerged amid global supply concerns after France, the EU's largest sugar producer, cut...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T20:34:10+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0de43a545944",
-   "title": "Crude Oil Prices Climb on Global Supply Threats",
-   "link": "https://www.nasdaq.com/articles/crude-oil-prices-climb-global-supply-threats",
-   "summary": "December WTI crude oil (CLZ26 ) is up +0.79 (+0.92%) today, and December RBOB gasoline (RBZ26 ) is up +0.0204 (+0.80%). Crude oil and gasoline prices are moving higher today on threats to global oil supplies. Concerns about escalation of the US-Iran conflict are lifting crude prices as the US...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T20:34:10+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -2297,22 +2329,6 @@
    "published": "2026-11-17T20:28:07+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2fccb9839e76",
-   "title": "Apple joins a parade of technology hiccups in recent days - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakk2WVQzLV9va3RKcUZGLVBicnpLNlB1UzVjN2hzUUJNelRENjNLOGh2SGtZaXNvX3VtSkIwbk9qSy1QcEljaTJEWjhGVkhkbW5jcGRvY1BGbHdUOWMtZ3JzVEdXYU84elpkZ3RkTVVTSS1DMUN4bDRtNWkxd29ncFNaakV0LUlOV0hvSURmR184QlBrQ2t5Sg?oc=5",
-   "summary": "Apple joins a parade of technology hiccups in recent days&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-17T20:28:00+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7173,6 +7189,20 @@
    "tag_v": 2
   },
   {
+   "id": "6632a0538c2c",
+   "title": "US loses its measles-free status. Here’s how the Trump administration has responded to outbreaks - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHo3X3NlSVNnU1B1MWtwc1I1NElNaWtNSmQtZFlGNHZNZkFzMFFQOElPTlNiU3NXSFRqX0JRejBoWUZIbWZpY0U4dUgxMDFJaXJ5MmVfYVJsY014aTh3dDBpVEl3clJKeTBRRXpfMXRNQkhHS1FoU1VTMWJGbVJIWi1VNUtkcUdWUGhMS0JmSllQZ0FqbUxobm1xNA?oc=5",
+   "summary": "US loses its measles-free status. Here’s how the Trump administration has responded to outbreaks&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-17T17:40:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "4bd0d0aea70f",
    "title": "Millicom International Cellular S.A. Announces Proposed Offering of Senior Notes due 2033 and Cash Tender Offer for 6.25% Senior Notes due 2029",
    "link": "https://www.nasdaq.com/articles/millicom-international-cellular-sa-announces-proposed-offering-senior-notes-due-2033-and",
@@ -8245,20 +8275,6 @@
    "tag_v": 2
   },
   {
-   "id": "6632a0538c2c",
-   "title": "Measles is surging in the US. Here’s how the Trump administration has responded - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHo3X3NlSVNnU1B1MWtwc1I1NElNaWtNSmQtZFlGNHZNZkFzMFFQOElPTlNiU3NXSFRqX0JRejBoWUZIbWZpY0U4dUgxMDFJaXJ5MmVfYVJsY014aTh3dDBpVEl3clJKeTBRRXpfMXRNQkhHS1FoU1VTMWJGbVJIWi1VNUtkcUdWUGhMS0JmSllQZ0FqbUxobm1xNA?oc=5",
-   "summary": "Measles is surging in the US. Here’s how the Trump administration has responded&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-17T16:56:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "6a84f2d1892a",
    "title": "Why Is Cloudflare Stock Falling on Tuesday?",
    "link": "https://www.benzinga.com/trading-ideas/movers/26/11/63354828/why-is-cloudflare-stock-falling-on-tuesday",
@@ -8954,20 +8970,6 @@
    "category": "markets",
    "domain": "investing.com",
    "published": "2026-11-17T16:31:34+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a876e7f5a6af",
-   "title": "Zillow at RBC conference: model shift aims to lift long-term growth",
-   "link": "https://www.investing.com/news/transcripts/zillow-at-rbc-conference-model-shift-aims-to-lift-longterm-growth-93CH-5033598",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-17T16:31:09+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
