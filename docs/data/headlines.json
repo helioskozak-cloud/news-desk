@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-17T13:11:35.536116+00:00",
+ "generated": "2026-11-17T13:13:18.678317+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "112244c3dd4e",
+   "title": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
+   "link": "https://www.cnbc.com/2026/11/17/nvidia-earnings-anthropic-ipo-tech-rally.html",
+   "summary": "How the market set-up is more favorable for the Anthropic IPO than the lead-up to SpaceX's debut.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T13:11:40+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "70453d549092",
+   "title": "Euroseas Ltd. Reports Results for the Quarter and Nine-Month Period Ended September 30, 2026, and Declares Quarterly Common Stock Dividend | ESEA Stock News",
+   "link": "https://www.stocktitan.net/news/ESEA/euroseas-ltd-reports-results-for-the-quarter-and-nine-month-period-clh8jhr9lcmg.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-17T13:10:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "837534bb63c8",
    "title": "'Big Short' investor Steve Eisman to discuss Nvidia, Anthropic and AI bull on CNBC",
@@ -381,6 +409,20 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "42ae70220f84",
+   "title": "Fed's Musalem: Several rate hikes likely needed by spring to control inflation",
+   "link": "https://www.cnbc.com/video/2026/11/17/feds-musalem-rate-hikes-likely-needed-by-spring-to-control-inflation.html",
+   "summary": "CNBC's \"Squawk Box\" team discusses commentary from St. Louis Fed president Alberto Musalem on the U.S. economy and interest rates.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T13:02:21+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8956,50 +8998,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "1396b023ddaf",
-   "title": "Hyperscale Data, Inc. Approves Base Salary Increases for President and Chief Financial Officer",
-   "link": "https://www.nasdaq.com/articles/hyperscale-data-inc-approves-base-salary-increases-president-and-chief-financial-officer",
-   "summary": "On November 13, 2026, the Compensation Committee of the Board of Directors of Hyperscale Data, Inc., as well as each member of the Board, approved base salary increases for the President and the Chief Financial Officer of the Company effective as of August 1, 2026.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T09:18:37+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "143575e01e39",
-   "title": "TTM Technologies, Inc. Announces Corporate Reorganization and Executive Transition on November 16, 2026",
-   "link": "https://www.nasdaq.com/articles/ttm-technologies-inc-announces-corporate-reorganization-and-executive-transition-november",
-   "summary": "TTM Technologies, Inc. announced that it will reorganize its internal corporate configuration to combine the Commercial and Aerospace &amp; Defense sectors into a single, unified business group, led by Doug Soder as Group President, effective immediately. The company expects this",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T09:18:36+00:00",
-   "tickers": [
-    "TTMI"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "26ec508866d4",
-   "title": "The S&P 500 Had Its Worst Day in Over a Year. Here's Why I'm Still Investing.",
-   "link": "https://www.nasdaq.com/articles/sp-500-had-its-worst-day-over-year-heres-why-im-still-investing",
-   "summary": "Key PointsThe stock market&rsquo;s steep single-day sell-off in early November is being interpreted as a warning of its current vulnerability.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T09:15:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9060,7 +9058,6 @@
   "JPM": "JPMorgan Chase &",
   "NVO": "Novo Nordisk A/S",
   "RCAT": "Red Cat Holdings",
-  "TTMI": "TTM Technologies",
   "GE": "General Electric",
   "ASTS": "AST SpaceMobile",
   "BAC": "Bank of America",
