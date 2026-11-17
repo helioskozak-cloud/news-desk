@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-17T22:31:12.820753+00:00",
+ "generated": "2026-11-17T22:36:15.250306+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "10a143420e46",
+   "title": "Nvidia sees strong growth in first earnings report without Huang",
+   "link": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/",
+   "summary": "Nvidia's latest earnings are the first time the chipmaker has reported financial results without founder and former CEO Jensen Huang at the helm.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-17T22:34:55+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "61caefaaba1b",
+   "title": "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates",
+   "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+   "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, with its earnings call scheduled for 5 p.m. ET.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T22:34:22+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "e20ef4a870c3",
    "title": "Walmart’s $160 22-piece cookware set with 10,000+ perfect ratings is 59% off",
@@ -16,20 +44,6 @@
     "WMT"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "61caefaaba1b",
-   "title": "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO: Live updates",
-   "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-   "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, with its earnings call scheduled for 5 p.m. ET.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T22:28:46+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -64,6 +78,83 @@
    "tag_v": 2
   },
   {
+   "id": "654c617b85a7",
+   "title": "Lower French Production Boosts Sugar Prices",
+   "link": "https://www.nasdaq.com/articles/lower-french-production-boosts-sugar-prices",
+   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.07 (+0.39%) on Tuesday, and March London ICE white sugar #5 (SWH2 7) closed up +0.50 (+0.10%). Sugar prices erased early losses on Tuesday and settled higher as short covering emerged amid global supply concerns after France, the EU's largest sugar...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:24:41+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "4768cad716b8",
+   "title": "Stock Indexes Fall as Tech Stocks Retreat Ahead of Nvidia’s Earnings",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-fall-tech-stocks-retreat-ahead-nvidias-earnings",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.09% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.37%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.11%. December E-mini S&amp;P futures (ESZ26 ) are down -1.04%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:24:41+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3e5962b15a1e",
+   "title": "Sugar Prices Rise on Lower French Sugar Output",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-lower-french-sugar-output",
+   "summary": "March NY world sugar #11 (SBH27 ) is up +0.14 (+0.77%) today, and March London ICE white sugar #5 (SWH2 7) is up +2.40 (+0.47%). Sugar prices erased early losses today and moved higher as short covering emerged amid global supply concerns after France, the EU's largest sugar producer, cut...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:24:41+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7926727d3ee6",
+   "title": "Dollar Slips as T-Note Yields Decline",
+   "link": "https://www.nasdaq.com/articles/dollar-slips-t-note-yields-decline-0",
+   "summary": "The dollar index (DXY00 ) fell from a 1.5-year high on Tuesday and finished down -0.04%. Tuesday’s decline in T-note yields weakened the dollar’s interest rate differentials and prompted some long liquidation in the dollar. Also, the unexpected decline in the US Nov NAHB housing market index to a 14-year...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:24:41+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3582d478328a",
+   "title": "Fed Rate Hike Prospects Boost the Dollar",
+   "link": "https://www.nasdaq.com/articles/fed-rate-hike-prospects-boost-dollar",
+   "summary": "The dollar index (DXY00 ) rallied to a new 1.5-year high today and is up +0.07%. The dollar found support from today’s stronger-than-expected US economic news on Oct retail sales, Oct manufacturing production, and the Oct import price index. Also, hawkish comments today from St. Louis Fed President Musalem boosted...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:24:40+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "5c604aa8696c",
    "title": "Sierra Madre Reports Q3 2026 Financial Results with Record Mill Throughput and Silver Production; La Guitarra Phase 1 Expansion Throughput Achieved | SMDRF Stock News",
    "link": "https://www.stocktitan.net/news/SMDRF/sierra-madre-reports-q3-2026-financial-results-with-record-mill-fbs2aqjb20fu.html",
@@ -94,6 +185,48 @@
    "tag_v": 2
   },
   {
+   "id": "747be62dc34f",
+   "title": "Golub Capital BDC, Inc. Announces Fiscal Year 2026 Fourth Quarter Financial Results and Declares Quarterly Distribution of $0.33 Per Share",
+   "link": "https://www.nasdaq.com/articles/golub-capital-bdc-inc-announces-fiscal-year-2026-fourth-quarter-financial-results-and",
+   "summary": "Golub Capital BDC, Inc. announced its financial results for its fourth fiscal quarter ended September 30, 2026. For the quarter, the Company reported GAAP net income of $20.1 million or $0.08 per share, compared to earnings per share of $0.22 for the quarter ended June 30, 2026.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:21:29+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f32e91fa5e37",
+   "title": "Liberty Global Ltd. Announces Availability of VodafoneZiggo Financial Report for Quarter Ended September 30, 2026",
+   "link": "https://www.nasdaq.com/articles/liberty-global-ltd-announces-availability-vodafoneziggo-financial-report-quarter-ended",
+   "summary": "Liberty Global Ltd. announced that on November 17, 2026, the financial report of VodafoneZiggo Group B.V. for the quarter ended September 30, 2026 was made available under the investor relations section of the Liberty Global website. VodafoneZiggo Group B.V. is a wholly-owned sub",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:21:20+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fe833c8c9674",
+   "title": "Inovio Pharmaceuticals, Inc. Appoints Jeffrey Libson to Board of Directors",
+   "link": "https://www.nasdaq.com/articles/inovio-pharmaceuticals-inc-appoints-jeffrey-libson-board-directors",
+   "summary": "Effective November 13, 2026, the Board of Directors of Inovio Pharmaceuticals, Inc. increased the size of the Board from eight to nine directors and appointed Jeffrey Libson to fill the newly created directorship. Mr. Libson will hold office until the Company&rsquo;s 2027 annual",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:21:19+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "9625552ebe3c",
    "title": "San Lorenzo Gold Strengthens Board and Management | SNLGF Stock News",
    "link": "https://www.stocktitan.net/news/SNLGF/san-lorenzo-gold-strengthens-board-and-vov1pb2o72xk.html",
@@ -103,6 +236,67 @@
    "domain": "stocktitan.net",
    "published": "2026-11-17T22:21:00+00:00",
    "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d1cef9c9cc50",
+   "title": "Arabica Coffee Settles Higher on Shrinking ICE Inventories",
+   "link": "https://www.nasdaq.com/articles/arabica-coffee-settles-higher-shrinking-ice-inventories",
+   "summary": "December arabica coffee (KCZ26 ) closed up +5.90 (+2.10%) on Tuesday, and January ICE robusta coffee (RMF27 ) closed down -73 (-2.32%). Coffee prices diverged on Tuesday and settled mixed, with arabica climbing to a 2-week high and robusta slumping to a 2.75-year low. Arabica coffee is supported by tighter...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:19:23+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f0c1e30b82c1",
+   "title": "Cattle Fading Lower on Tuesday",
+   "link": "https://www.nasdaq.com/articles/cattle-fading-lower-tuesday",
+   "summary": "Live cattle futures are posting losses of $1.40 to $1.55 across the front months on Tuesday. Cash trade has yet to get kicked off this week, following sale of $215-218 in the South and $212-216.50 on the North last week. Feeder cattle futures are leading the charge lower, with contracts...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:19:23+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "4002c97ee005",
+   "title": "Nat-Gas Prices Rebound on Forecasts for Colder US Temps",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-rebound-forecasts-colder-us-temps",
+   "summary": "December Nymex natural gas (NGZ26 ) closed up +0.086 (+2.75%) on Tuesday. Dec nat-gas prices recovered from a 1-week low on Tuesday and settled sharply higher. Short covering emerged in nat-gas futures on Tuesday after US weather forecasts shifted to show cooler weather in the coming weeks, potentially boosting heating...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:19:23+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6f100cb285be",
+   "title": "Stocks Pressured by Weakness in Software and Health Insurance Stocks",
+   "link": "https://www.nasdaq.com/articles/stocks-pressured-weakness-software-and-health-insurance-stocks",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.10% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.33%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.16%. December E-mini S&amp;P futures (ESZ26 ) are down -0.13%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:19:22+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -119,20 +313,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "10a143420e46",
-   "title": "Nvidia sees strong growth in first earnings report without Huang",
-   "link": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/",
-   "summary": "Nvidia's latest earnings are the first time the chipmaker has reported financial results without founder and former CEO Jensen Huang at the helm.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-17T22:18:41+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -242,6 +422,22 @@
    "tag_v": 2
   },
   {
+   "id": "f7acd80851a1",
+   "title": "Robusta Coffee Plunges on Improved Supply Outlook",
+   "link": "https://www.nasdaq.com/articles/robusta-coffee-plunges-improved-supply-outlook",
+   "summary": "December arabica coffee (KCZ26 ) is up +4.20 (+1.50%) today, and January ICE robusta coffee (RMF27 ) is down -93 (-2.96%). Coffee prices are mixed today, with arabica climbing to a 2-week high and robusta slumping to a 2.75-year low. Arabica coffee was supported Monday by tighter current supplies after...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:13:18+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "guidance",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "8666bbdb5d4a",
    "title": "ZTO Express Cayman ADR earnings missed by ¥0.16, revenue topped estimates",
    "link": "https://www.investing.com/news/earnings/zto-express-cayman-adr-earnings-missed-by-016-revenue-topped-estimates-5034203",
@@ -298,6 +494,22 @@
    "tag_v": 2
   },
   {
+   "id": "6f7fcc7bc6fa",
+   "title": "Salesforce (CRM) Shares Cross Below 200 DMA",
+   "link": "https://www.nasdaq.com/articles/salesforce-crm-shares-cross-below-200-dma",
+   "summary": "In trading on Tuesday, shares of Salesforce Inc (Symbol: CRM) crossed below their 200 day moving average of $198.00, changing hands as low as $193.41 per share. Salesforce Inc shares are currently trading down about 9.3% on the day. The chart below shows the one year performan",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:11:35+00:00",
+   "tickers": [
+    "CRM"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a91b8acf0ec8",
    "title": "Anthropic's IPO set for blastoff this week in key test for AI boom",
    "link": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
@@ -323,6 +535,23 @@
    "tickers": [],
    "type": "fda",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "13247028f3b6",
+   "title": "Notable Two Hundred Day Moving Average Cross - SPY",
+   "link": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-spy",
+   "summary": "In trading on Tuesday, shares of the State Street SPDR S&amp;P 500 Trust ETF (Symbol: SPY) crossed below their 200 day moving average of $732.16, changing hands as low as $727.00 per share. State Street SPDR S&amp;P 500 Trust shares are currently trading off about 1.3% on the d",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T22:08:06+00:00",
+   "tickers": [
+    "STT",
+    "SPY"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -559,36 +788,6 @@
    "tag_v": 2
   },
   {
-   "id": "d1cef9c9cc50",
-   "title": "Arabica Coffee Settles Higher on Shrinking ICE Inventories",
-   "link": "https://www.nasdaq.com/articles/arabica-coffee-settles-higher-shrinking-ice-inventories",
-   "summary": "December arabica coffee (KCZ26 ) closed up +5.90 (+2.10%) on Tuesday, and January ICE robusta coffee (RMF27 ) closed down -73 (-2.32%). Coffee prices diverged on Tuesday and settled mixed, with arabica climbing to a 2-week high and robusta slumping to a 2.75-year low. Arabica coffee is supported by tighter...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T22:02:28+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f0c1e30b82c1",
-   "title": "Cattle Fading Lower on Tuesday",
-   "link": "https://www.nasdaq.com/articles/cattle-fading-lower-tuesday",
-   "summary": "Live cattle futures are posting losses of $1.40 to $1.55 across the front months on Tuesday. Cash trade has yet to get kicked off this week, following sale of $215-218 in the South and $212-216.50 on the North last week. Feeder cattle futures are leading the charge lower, with contracts...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T22:02:28+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "232be8ef7eb0",
    "title": "Threats to Global Crude Supplies Lift Prices",
    "link": "https://www.nasdaq.com/articles/threats-global-crude-supplies-lift-prices",
@@ -598,51 +797,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-17T22:02:28+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3582d478328a",
-   "title": "Fed Rate Hike Prospects Boost the Dollar",
-   "link": "https://www.nasdaq.com/articles/fed-rate-hike-prospects-boost-dollar",
-   "summary": "The dollar index (DXY00 ) rallied to a new 1.5-year high today and is up +0.07%. The dollar found support from today’s stronger-than-expected US economic news on Oct retail sales, Oct manufacturing production, and the Oct import price index. Also, hawkish comments today from St. Louis Fed President Musalem boosted...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T22:02:28+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "4002c97ee005",
-   "title": "Nat-Gas Prices Rebound on Forecasts for Colder US Temps",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-rebound-forecasts-colder-us-temps",
-   "summary": "December Nymex natural gas (NGZ26 ) closed up +0.086 (+2.75%) on Tuesday. Dec nat-gas prices recovered from a 1-week low on Tuesday and settled sharply higher. Short covering emerged in nat-gas futures on Tuesday after US weather forecasts shifted to show cooler weather in the coming weeks, potentially boosting heating...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T22:02:28+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6f100cb285be",
-   "title": "Stocks Pressured by Weakness in Software and Health Insurance Stocks",
-   "link": "https://www.nasdaq.com/articles/stocks-pressured-weakness-software-and-health-insurance-stocks",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.10% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.33%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.16%. December E-mini S&amp;P futures (ESZ26 ) are down -0.13%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T22:02:27+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -1258,22 +1412,6 @@
    "tag_v": 2
   },
   {
-   "id": "f7acd80851a1",
-   "title": "Robusta Coffee Plunges on Improved Supply Outlook",
-   "link": "https://www.nasdaq.com/articles/robusta-coffee-plunges-improved-supply-outlook",
-   "summary": "December arabica coffee (KCZ26 ) is up +4.20 (+1.50%) today, and January ICE robusta coffee (RMF27 ) is down -93 (-2.96%). Coffee prices are mixed today, with arabica climbing to a 2-week high and robusta slumping to a 2.75-year low. Arabica coffee was supported Monday by tighter current supplies after...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T21:53:42+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "guidance",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "0de43a545944",
    "title": "Crude Oil Prices Climb on Global Supply Threats",
    "link": "https://www.nasdaq.com/articles/crude-oil-prices-climb-global-supply-threats",
@@ -1650,22 +1788,6 @@
    "tag_v": 2
   },
   {
-   "id": "654c617b85a7",
-   "title": "Lower French Production Boosts Sugar Prices",
-   "link": "https://www.nasdaq.com/articles/lower-french-production-boosts-sugar-prices",
-   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.07 (+0.39%) on Tuesday, and March London ICE white sugar #5 (SWH2 7) closed up +0.50 (+0.10%). Sugar prices erased early losses on Tuesday and settled higher as short covering emerged amid global supply concerns after France, the EU's largest sugar...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T21:43:27+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "7a953fd5c2e1",
    "title": "Popular websites compromised in bid to steal crypto, target iPhone users",
    "link": "https://www.investing.com/news/stock-market-news/popular-websites-subverted-in-bid-to-steal-crypto-target-iphone-users-5031640",
@@ -1770,23 +1892,6 @@
     "CME"
    ],
    "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "4768cad716b8",
-   "title": "Stock Indexes Fall as Tech Stocks Retreat Ahead of Nvidia’s Earnings",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-fall-tech-stocks-retreat-ahead-nvidias-earnings",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.09% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.37%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.11%. December E-mini S&amp;P futures (ESZ26 ) are down -1.04%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T21:37:45+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "earnings",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -2015,22 +2120,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "3e5962b15a1e",
-   "title": "Sugar Prices Rise on Lower French Sugar Output",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-lower-french-sugar-output",
-   "summary": "March NY world sugar #11 (SBH27 ) is up +0.14 (+0.77%) today, and March London ICE white sugar #5 (SWH2 7) is up +2.40 (+0.47%). Sugar prices erased early losses today and moved higher as short covering emerged amid global supply concerns after France, the EU's largest sugar producer, cut...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T21:32:24+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3559,6 +3648,22 @@
    "tag_v": 2
   },
   {
+   "id": "a124684ae12a",
+   "title": "California bans Waymo autonomous vehicles from state freeways, saying they pose an 'imminent hazard' - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDB2R0RQRGVXUFMtd0M3YUoyRXlSaDZVWVBWRVBKT3gwc3MxQjN3a01fREpMdDFwWXRJaFZuQ0sxTUJzYXkyMGMwOGs5YVUxeUwwd2owRnRuRFl0NWxuT0VHZ2k0eHF1Q0tTc0NoVi1mYTQtM1NrQUUyZ0VzcngzQjZ1M1d6QWRwNzlnQm5qQ0JUVmNXN2NEQ3U5eFpJN3pGSTVUTmRtN1VHc1E?oc=5",
+   "summary": "California bans Waymo autonomous vehicles from state freeways, saying they pose an 'imminent hazard'&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-17T21:06:00+00:00",
+   "tickers": [
+    "GOOGL"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "93f0063eb535",
    "title": "Nvidia closes lower ahead of earnings as company reels from Huang resignation",
    "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
@@ -4796,6 +4901,20 @@
    "published": "2026-11-17T20:34:09+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2014e93b17e0",
+   "title": "In scathing rebuke of college sports, former Big 12 AD calls NIL system money laundering - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLU1PeU95SWZtM0hvWnpaSTRfaVNWenBNUWxVNnhkeFlOZExOaWx0V1dPZEh3ekxScFp0YTlWbEE2WXN6bm9BNHRGOUpCQzhMZlZrM3dKSmpUSzFYaUdua2owYVZmMXNfSERybFMwSlA5SFpJU0cwbFk4ZU1CZkRHMXRZN2xxY0RuWkUtdERTZzdocDFhUUozdk00LVZpajQ?oc=5",
+   "summary": "In scathing rebuke of college sports, former Big 12 AD calls NIL system money laundering&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-17T20:34:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7012,6 +7131,22 @@
    "tag_v": 2
   },
   {
+   "id": "4741fa973024",
+   "title": "Outage math at the airport: When a four-hour Uber beats waiting out a ground stop - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOel9PVVg3bzRrMFA5ODlSWlVmOXRBcWR2QkxwWXgyZVpBNzZES3RVWTJOSlRuNDd6X0hrMGpQVXpVZGE0eXl0R2xVRE9WS3pfVkFMcmM3VTBkRnZSTEltNGhKQ25jZVhhNjdURlE1Y2RhUjlobzNqd0Jtbk1oYnRoSHEycExlaTRZczJCenVPUjQ5MXh3aXJSQVV0azNNbVE?oc=5",
+   "summary": "Outage math at the airport: When a four-hour Uber beats waiting out a ground stop&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-17T19:09:49+00:00",
+   "tickers": [
+    "UBER"
+   ],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "7436a722b7f9",
    "title": "Regional Management at Stephens conference: bank tie-up boosts runway",
    "link": "https://www.investing.com/news/transcripts/regional-management-at-stephens-conference-bank-tieup-boosts-runway-93CH-5033815",
@@ -8259,20 +8394,6 @@
    "tag_v": 2
   },
   {
-   "id": "2014e93b17e0",
-   "title": "In scathing rebuke of college sports, former Big 12 AD calls NIL system ‘money laundering’ - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLU1PeU95SWZtM0hvWnpaSTRfaVNWenBNUWxVNnhkeFlOZExOaWx0V1dPZEh3ekxScFp0YTlWbEE2WXN6bm9BNHRGOUpCQzhMZlZrM3dKSmpUSzFYaUdua2owYVZmMXNfSERybFMwSlA5SFpJU0cwbFk4ZU1CZkRHMXRZN2xxY0RuWkUtdERTZzdocDFhUUozdk00LVZpajQ?oc=5",
-   "summary": "In scathing rebuke of college sports, former Big 12 AD calls NIL system ‘money laundering’&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-17T18:27:05+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "c0d9ab3e3930",
    "title": "Pennant Group at Stephens conference: growth, integration and margin push",
    "link": "https://www.investing.com/news/transcripts/pennant-group-at-stephens-conference-growth-integration-and-margin-push-93CH-5033777",
@@ -8845,126 +8966,6 @@
    "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "3a80fcd72341",
-   "title": "Exclusive-GM plans 20% boost in robotics as factory costs rise",
-   "link": "https://www.investing.com/news/stock-market-news/exclusivegm-plans-20-boost-in-robotics-as-factory-costs-rise-5032317",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-17T18:07:00+00:00",
-   "tickers": [
-    "GM"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "77f858844124",
-   "title": "DeFi: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/defi-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsQ3 net inflows reached $26.1 million across digital asset products.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T18:06:37+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d99bc36eb355",
-   "title": "Four US activist hedge funds exit Dick’s Sporting Goods in third quarter amid profit woes",
-   "link": "https://www.investing.com/news/stock-market-news/four-us-activist-hedge-funds-exit-dicks-sporting-goods-in-third-quarter-amid-profit-woes-5031506",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-17T18:06:25+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "e1906ae9266c",
-   "title": "Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders",
-   "link": "https://www.cnbc.com/2026/11/17/chase-home-lending-ceo-says-hes-going-on-offense.html",
-   "summary": "Sean Grzebin, the CEO of Chase Home Lending, the nation's largest bank mortgage lender, said he's hiring and bent on increasing market share.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T18:06:18+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0ba2ebd1ff2a",
-   "title": "Linxon and Fluence form Strategic Collaboration to advance integrated energy storage delivery | FLNC Stock News",
-   "link": "https://www.stocktitan.net/news/FLNC/linxon-and-fluence-form-strategic-collaboration-to-advance-gne4xat4nn6m.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-17T18:06:00+00:00",
-   "tickers": [
-    "FLNC"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2fa4b4da4756",
-   "title": "Why Is Omeros Stock Trading Lower Tuesday?",
-   "link": "https://www.benzinga.com/markets/earnings/26/11/63359678/why-is-omeros-stock-trading-lower-tuesday",
-   "summary": "Omeros Corp. (NASDAQ:OMER) stock fell sharply Tuesday after the biotechnology company reported mixed third-quarter 2026 results, with adjusted earnings exceeding Wall Street expectations but revenue falling short. The company reported adjusted earnings of 6 cents per share, beating the consensus estimate of 3 cents. Revenue reached $35.93 million, missing the consensus estimate of $37.27 million. Third-Quarter Financial Results Omeros reported a net loss of $57.4 million, or 79 cents per share, ",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-17T18:05:18+00:00",
-   "tickers": [
-    "OMER"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "7bac1f21808d",
-   "title": "Not Nvidia. Not Alphabet. This Is the AI Stock I’d Buy With the Next Dollar I Invest.",
-   "link": "https://www.nasdaq.com/articles/not-nvidia-not-alphabet-ai-stock-id-buy-next-dollar-i-invest",
-   "summary": "Key PointsCisco just posted its fastest revenue growth in more than 15 years and now expects its AI sales to cloud giants to more than double this fiscal year.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T18:05:02+00:00",
-   "tickers": [
-    "GOOG"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d98dfb6a8965",
-   "title": "Earnings call transcript: Cloudastructure posts Q3 2026 revenue growth as shares sink",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-cloudastructure-posts-q3-2026-revenue-growth-as-shares-sink-93CH-5033752",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-17T18:04:57+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9035,6 +9036,7 @@
   "SOFI": "SoFi Technologies",
   "SVM": "Silvercorp Metals",
   "TAN": "Invesco Solar ETF",
+  "UBER": "Uber Technologies",
   "WCN": "Waste Connections",
   "ALK": "Alaska Air Group",
   "AXP": "American Express",
@@ -9061,7 +9063,6 @@
   "VRT": "Vertiv Holdings",
   "CARR": "Carrier Global",
   "FLNC": "Fluence Energy",
-  "GM": "General Motors",
   "HD": "The Home Depot",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
@@ -9094,6 +9095,7 @@
   "BROS": "Dutch Bros",
   "BX": "Blackstone",
   "CMS": "CMS Energy",
+  "CRM": "Salesforce",
   "MA": "Mastercard",
   "PHM": "PulteGroup",
   "RGLD": "Royal Gold",
@@ -9132,7 +9134,6 @@
   "CHE": "Chemed",
   "GNTX": "Gentex",
   "GTLB": "GitLab",
-  "OMER": "Omeros",
   "PFE": "Pfizer",
   "VST": "Vistra",
   "AFL": "Aflac",
