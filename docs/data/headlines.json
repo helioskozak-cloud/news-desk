@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T06:46:28.729775+00:00",
+ "generated": "2026-11-17T06:51:38.459010+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -2108,20 +2108,6 @@
    "tag_v": 2
   },
   {
-   "id": "2bbb590a71d5",
-   "title": "Trump administration moves to block China from indirect access to American AI technology - AP News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGJmTGhQa3FRRDZtX3BqVk9SNlc1aHZ1QXZiUXdHMmlmZmdyUjFKS0hrREM1OFRrVDVjUGpSWnZfVTEtdlozVHVDc0h5Rld1cGVKQTFGYzVZOGJMdDNheWdEcFRhakxCVW1xcnQ3VHBzS2lRdWNPTGdtUkNxNVRnT1JUVzVKNzRXUlNuLUtBOVk2REZnZjMySER5NmhfNTliRjZsZ3B5TElrN0JU?oc=5",
-   "summary": "Trump administration moves to block China from indirect access to American AI technology&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-17T04:19:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "baf42f4a3696",
    "title": "Soybeans Closes Lower, Despite Record NOPA Crush",
    "link": "https://www.nasdaq.com/articles/soybeans-closes-lower-despite-record-nopa-crush",
@@ -3361,20 +3347,6 @@
    "tag_v": 2
   },
   {
-   "id": "662ec79b50b1",
-   "title": "College football | Latest News & Updates - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-17T02:09:09+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "0f53a5a09a3d",
    "title": "TechnologyOne FY 2026 slides: record ARR growth, AI product Plus surges",
    "link": "https://www.investing.com/news/company-news/technologyone-fy-2026-slides-record-arr-growth-ai-product-plus-surges-93CH-5031470",
@@ -4332,13 +4304,14 @@
    "id": "33f82fd4eb8a",
    "title": "Major U.S. banks report widespread service outages",
    "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
-   "summary": "Customers at JPMorgan Chase U.S. Bank and other major financial institutions reported difficulty accessing their accounts.",
+   "summary": "Customers at JPMorgan Chase, Bank of America and other major financial institutions reported difficulty accessing their accounts.",
    "source": "CBS MoneyWatch",
    "category": "macro",
    "domain": "cbsnews.com",
-   "published": "2026-11-17T01:09:38+00:00",
+   "published": "2026-11-17T01:09:00+00:00",
    "tickers": [
-    "JPM"
+    "JPM",
+    "BAC"
    ],
    "type": "macro",
    "sentiment": "neutral",
@@ -4834,6 +4807,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "662ec79b50b1",
+   "title": "College football | Latest News & Updates - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+   "summary": "College football | Latest News & Updates&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-17T00:46:15+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8781,6 +8768,20 @@
    "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-16T22:20:03+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2f5047741429",
+   "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+   "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+   "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-16T22:19:02+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
