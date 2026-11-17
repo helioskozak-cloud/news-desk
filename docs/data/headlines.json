@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-17T21:56:17.917764+00:00",
+ "generated": "2026-11-17T22:01:33.554475+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "c360b7ee4304",
+   "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+   "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
+   "summary": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T21:59:59+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "355adb540cde",
+   "title": "Stocks making the biggest moves after hours: Nvidia, CoreWeave, Nebius & more",
+   "link": "https://www.cnbc.com/2026/11/17/stocks-moving-the-most-today-live-updates.html",
+   "summary": "Nvidia slipped Tuesday as traders awaited the company's third-quarter earnings report.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T21:59:53+00:00",
+   "tickers": [
+    "CRWV"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "61caefaaba1b",
+   "title": "Nvidia beats on results and guidance in first earnings report since Huang's exit: Live updates",
+   "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+   "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, with its earnings call scheduled for 5 p.m. ET.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T21:59:16+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "1b5fabdfccd4",
    "title": "CNBC Digital Finance Forum live updates: Wall Street's AI and crypto future",
@@ -11,8 +55,41 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-17T21:54:12+00:00",
+   "published": "2026-11-17T21:58:46+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "db0d94213aaa",
+   "title": "Apple says internal update caused outage as services recover",
+   "link": "https://www.cbsnews.com/news/apple-outage-icloud-apple-pay-services/",
+   "summary": "The company's system status shows that some Apple services, including iCloud sign-in, are still experiencing issues.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-17T21:57:32+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1c9478bd3f2f",
+   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+   "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+   "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T21:56:19+00:00",
+   "tickers": [
+    "AAPL",
+    "NSA"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -25,7 +102,7 @@
    "source": "CBS MoneyWatch",
    "category": "macro",
    "domain": "cbsnews.com",
-   "published": "2026-11-17T21:54:08+00:00",
+   "published": "2026-11-17T21:55:02+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
@@ -63,6 +140,138 @@
    "tag_v": 2
   },
   {
+   "id": "047f244636ed",
+   "title": "Boston Scientific appoints new lead independent director and updates executive compensation plans",
+   "link": "https://www.investing.com/news/sec-filings/boston-scientific-appoints-new-lead-independent-director-and-updates-executive-compensation-plans-93CH-5034154",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T21:52:08+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "45732ab7402e",
+   "title": "API crude stock report shows lower-than-expected inventory build",
+   "link": "https://www.investing.com/news/economic-indicators/api-crude-stock-report-shows-lowerthanexpected-inventory-build-93CH-5034153",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T21:52:06+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e34c7247deec",
+   "title": "Nvidia quarterly revenue doubles in first report since Huang’s shock exit as CEO",
+   "link": "https://www.investing.com/news/earnings/nvidia-quarterly-results-beat-estimates-5033943",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T21:51:45+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9ca4d51bf6bf",
+   "title": "Ardent Health stock tumbles on 7M share secondary offering",
+   "link": "https://www.investing.com/news/stock-market-news/ardent-health-stock-tumbles-on-7m-share-secondary-offering-5034152",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-17T21:50:25+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "cd8833c2dc13",
+   "title": "Biogen reports positive two-year data for Alzheimer’s drug",
+   "link": "https://www.investing.com/news/company-news/biogen-reports-positive-twoyear-data-for-alzheimers-drug-93CH-5034148",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T21:48:38+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fed0fcda30ed",
+   "title": "First Capital declares $0.32 quarterly dividend",
+   "link": "https://www.investing.com/news/company-news/first-capital-declares-032-quarterly-dividend-93CH-5034147",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T21:48:26+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "92a47d49cab3",
+   "title": "Sellas Life Sciences stock falls on $150M stock offering",
+   "link": "https://www.investing.com/news/stock-market-news/sellas-life-sciences-stock-falls-on-150m-stock-offering-5034146",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-17T21:47:40+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "66d65d093a2e",
+   "title": "AAR Corp issues $1.92 billion in senior notes to finance MRO Holdings acquisition",
+   "link": "https://www.investing.com/news/sec-filings/aar-corp-issues-192-billion-in-senior-notes-to-finance-mro-holdings-acquisition-93CH-5034145",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T21:47:13+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b5d6315fe736",
+   "title": "B.Riley raises Chime Financial stock price target on revenue growth",
+   "link": "https://www.investing.com/news/analyst-ratings/briley-raises-chime-financial-stock-price-target-on-revenue-growth-93CH-5034144",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T21:46:47+00:00",
+   "tickers": [
+    "CHYM"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "7806c6cba7f2",
    "title": "Bull market ‘has room to run’: 10 stocks to buy now",
    "link": "https://www.thestreet.com/video/bull-market-has-room-to-run-10-stock-to-buy-now",
@@ -80,6 +289,20 @@
    "tag_v": 2
   },
   {
+   "id": "64408fe8eb64",
+   "title": "Wolverine World Wide CEO Hufnagel sells $1.83M in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/wolverine-world-wide-ceo-hufnagel-sells-183m-in-stock-93CH-5034142",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-17T21:46:07+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "831fdb628864",
    "title": "Ex-Nvidia CEO Jensen Huang signals interest in returning to the company following scandal - AP News",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5",
@@ -91,20 +314,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "61caefaaba1b",
-   "title": "Nvidia beats on results and guidance in first earnings report since Huang's exit: Live updates",
-   "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-   "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, with its earnings call scheduled for 5 p.m. ET.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T21:45:46+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -166,6 +375,55 @@
    "published": "2026-11-17T21:45:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2044a670b9f9",
+   "title": "After-Hours Movers: NVDA, CRWV, NBIS, AAOI, SLS",
+   "link": "https://www.investing.com/news/stock-market-news/afterhours-movers-nvda-crwv-nbis-aaoi-sls-432SI-5034129",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-17T21:44:01+00:00",
+   "tickers": [
+    "NVDA",
+    "CRWV",
+    "NBIS",
+    "AAOI"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fff48f3adff6",
+   "title": "Huang pitches Nvidia comeback after sources say board not considering it",
+   "link": "https://www.investing.com/news/stock-market-news/nvidia-board-forms-committee-for-national-security-and-export-control-oversight-5032154",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-17T21:42:41+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7a953fd5c2e1",
+   "title": "Popular websites compromised in bid to steal crypto, target iPhone users",
+   "link": "https://www.investing.com/news/stock-market-news/popular-websites-subverted-in-bid-to-steal-crypto-target-iphone-users-5031640",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-17T21:42:27+00:00",
+   "tickers": [
+    "AAPL"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -248,6 +506,39 @@
    "tag_v": 2
   },
   {
+   "id": "654c617b85a7",
+   "title": "Lower French Production Boosts Sugar Prices",
+   "link": "https://www.nasdaq.com/articles/lower-french-production-boosts-sugar-prices",
+   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.07 (+0.39%) on Tuesday, and March London ICE white sugar #5 (SWH2 7) closed up +0.50 (+0.10%). Sugar prices erased early losses on Tuesday and settled higher as short covering emerged amid global supply concerns after France, the EU's largest sugar...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T21:37:45+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "4768cad716b8",
+   "title": "Stock Indexes Fall as Tech Stocks Retreat Ahead of Nvidia’s Earnings",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-fall-tech-stocks-retreat-ahead-nvidias-earnings",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.09% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.37%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.11%. December E-mini S&amp;P futures (ESZ26 ) are down -1.04%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T21:37:45+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "bccd84d93000",
    "title": "Hogs Look to Tuesday After Mixed Monday",
    "link": "https://www.nasdaq.com/articles/hogs-look-tuesday-after-mixed-monday",
@@ -258,6 +549,23 @@
    "published": "2026-11-17T21:37:44+00:00",
    "tickers": [
     "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6f100cb285be",
+   "title": "Stocks Pressured by Weakness in Software and Health Insurance Stocks",
+   "link": "https://www.nasdaq.com/articles/stocks-pressured-weakness-software-and-health-insurance-stocks",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.10% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.33%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.16%. December E-mini S&amp;P futures (ESZ26 ) are down -0.13%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T21:37:44+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
    ],
    "type": "stocks",
    "sentiment": "neutral",
@@ -461,22 +769,6 @@
    "tag_v": 2
   },
   {
-   "id": "654c617b85a7",
-   "title": "Lower French Production Boosts Sugar Prices",
-   "link": "https://www.nasdaq.com/articles/lower-french-production-boosts-sugar-prices",
-   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.07 (+0.39%) on Tuesday, and March London ICE white sugar #5 (SWH2 7) closed up +0.50 (+0.10%). Sugar prices erased early losses on Tuesday and settled higher as short covering emerged amid global supply concerns after France, the EU's largest sugar...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T21:32:24+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "d1cef9c9cc50",
    "title": "Arabica Coffee Settles Higher on Shrinking ICE Inventories",
    "link": "https://www.nasdaq.com/articles/arabica-coffee-settles-higher-shrinking-ice-inventories",
@@ -517,40 +809,6 @@
    "published": "2026-11-17T21:32:24+00:00",
    "tickers": [
     "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4768cad716b8",
-   "title": "Stock Indexes Fall as Tech Stocks Retreat Ahead of Nvidia’s Earnings",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-fall-tech-stocks-retreat-ahead-nvidias-earnings",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.09% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.37%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.11%. December E-mini S&amp;P futures (ESZ26 ) are down -1.04%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T21:32:23+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "6f100cb285be",
-   "title": "Stocks Pressured by Weakness in Software and Health Insurance Stocks",
-   "link": "https://www.nasdaq.com/articles/stocks-pressured-weakness-software-and-health-insurance-stocks",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -0.10% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.33%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.16%. December E-mini S&amp;P futures (ESZ26 ) are down -0.13%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T21:32:23+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
    ],
    "type": "stocks",
    "sentiment": "neutral",
@@ -598,20 +856,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e34c7247deec",
-   "title": "Nvidia stock rises after hours as quarterly results, guidance beat estimates",
-   "link": "https://www.investing.com/news/earnings/nvidia-quarterly-results-beat-estimates-5033943",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-17T21:31:16+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1134,22 +1378,6 @@
    "tag_v": 2
   },
   {
-   "id": "db0d94213aaa",
-   "title": "Apple says internal update caused outage as services recover",
-   "link": "https://www.cbsnews.com/news/apple-outage-icloud-apple-pay-services/",
-   "summary": "The company's system status shows that some Apple services, including iCloud sign-in, are still experiencing issues.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-17T21:29:16+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "13988ac3be51",
    "title": "Nvidia releases quarterly earnings after Jensen Huang's resignation as CEO",
    "link": "https://www.foxbusiness.com/markets/nvidia-releases-quarterly-earnings-after-jensen-huangs-resignation-ceo",
@@ -1251,23 +1479,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "1c9478bd3f2f",
-   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-   "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
-   "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T21:24:20+00:00",
-   "tickers": [
-    "AAPL",
-    "NSA"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2147,20 +2358,6 @@
    "tag_v": 2
   },
   {
-   "id": "fff48f3adff6",
-   "title": "Huang pitches Nvidia comeback after sources say board not considering it",
-   "link": "https://www.investing.com/news/stock-market-news/nvidia-board-forms-committee-for-national-security-and-export-control-oversight-5032154",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-17T21:06:25+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "858d02a64beb",
    "title": "Wheat Popping Higher After Ukrainian Strike",
    "link": "https://www.nasdaq.com/articles/wheat-popping-higher-after-ukrainian-strike",
@@ -2695,6 +2892,20 @@
    "title": "Measles is no longer considered eliminated in the US and Mexico - AP News",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDJRWUV3Zl9CaUJrdWZXYjlIY2txdlRRSGtNUWNkUEtmZXFGNWg3LWl4a0M0VnVuejRFWUlrTHhPbWdUZ194Nzg3bFEzSXB5b0Q5VXQwS3cxZTA4MXpSNzc2X0xVcTd0TFZBYTRJNGxZOWxINFRmY0NXU0w0VHhpdGJieVlRT1VSR0o2WUpmaVVaMDMxVHdXQ0I0eWc?oc=5",
    "summary": "Measles is no longer considered eliminated in the US and Mexico&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-17T21:04:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7b922581d8e1",
+   "title": "FAA temporarily stops router installations connected to air travel stoppage - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmtpWWREWHk0ZEcyS2RsT054VXhvR04yVlM5VndWRk12eW9SRThmdzlGbDVoajY1Rm1hcWRkeEJsSE51dHNNRlFpbVN0bHBhSkhYLV9lTEh6Z3c1TlZRdGFzTk5TeXdYU2JiQTNKZ3E1M3RKS1lnZGhCX0Y4SVBpVUtfeXNkM2otOHcxQS1ib3p4bGloVzJ1cldSVVBYSG9UVmQ0MjN3?oc=5",
+   "summary": "FAA temporarily stops router installations connected to air travel stoppage&nbsp;&nbsp;AP News",
    "source": "AP Business",
    "category": "macro",
    "domain": "news.google.com",
@@ -3255,22 +3466,6 @@
    "tickers": [],
    "type": "dividend",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "355adb540cde",
-   "title": "Stocks making the biggest moves Tuesday: Salesforce, Nvidia, SpaceX, Strategy & more",
-   "link": "https://www.cnbc.com/2026/11/17/stocks-moving-the-most-today-live-updates.html",
-   "summary": "Nvidia slipped Tuesday as traders awaited the company's third-quarter earnings report.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T20:44:21+00:00",
-   "tickers": [
-    "CRM"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -7449,20 +7644,6 @@
    "tag_v": 2
   },
   {
-   "id": "c360b7ee4304",
-   "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
-   "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
-   "summary": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T18:10:16+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "2e5178fbbebe",
    "title": "What's Next for Fluence Energy, Inc. Shareholders After 34.63% Stock Drop? Glancy Prongay Wolke & Rotter LLP Explains Securities Fraud Class Action Lead Plaintiff Deadline",
    "link": "https://www.prnewswire.com/news-releases/whats-next-for-fluence-energy-inc-shareholders-after-34-63-stock-drop-glancy-prongay-wolke--rotter-llp-explains-securities-fraud-class-action-lead-plaintiff-deadline-302942523.html",
@@ -7818,22 +7999,6 @@
    "published": "2026-11-17T18:00:47+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7a953fd5c2e1",
-   "title": "Popular websites compromised in bid to steal crypto, target iPhone users",
-   "link": "https://www.investing.com/news/stock-market-news/popular-websites-subverted-in-bid-to-steal-crypto-target-iphone-users-5031640",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-17T18:00:21+00:00",
-   "tickers": [
-    "AAPL"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8819,166 +8984,6 @@
    "type": "fda",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "17454fd0b271",
-   "title": "Boxlight Corporation Reports Third Quarter 2026 Financial Results with Gross Margin Expansion to 37.1% and Narrowed Net Loss of $1.0 Million",
-   "link": "https://www.nasdaq.com/articles/boxlight-corporation-reports-third-quarter-2026-financial-results-gross-margin-expansion",
-   "summary": "Boxlight Corporation reported its financial results for the third quarter ended September 30, 2026. Revenue increased 2.5% to $30.1 million compared to $29.3 million in the prior year quarter, driven by higher global demand for interactive flat panel displays. Gross profit margin",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T17:20:04+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "561a8022b109",
-   "title": "MetaVia Inc. Announces Completion of Last Patient Visit in Phase 1 Study of DA-1726",
-   "link": "https://www.nasdaq.com/articles/metavia-inc-announces-completion-last-patient-visit-phase-1-study-da-1726",
-   "summary": "MetaVia Inc. announced that the last patient has completed the final study visit for its Phase 1 clinical trial evaluating DA-1726, a novel GLP-1 (GLP1R)/glucagon (GCGR) dual-receptor agonist. The company elected to extend the treatment period from 16 to 24 weeks, with patients r",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T17:20:03+00:00",
-   "tickers": [],
-   "type": "fda",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d44fff54016a",
-   "title": "Not Nvidia. Not Broadcom. This Is the AI Chip Stock I’d Buy Before the Year Ends.",
-   "link": "https://www.nasdaq.com/articles/not-nvidia-not-broadcom-ai-chip-stock-id-buy-year-ends",
-   "summary": "Key PointsNvidia's and Broadcom's chips are vital parts of data centers and other AI infrastructure.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T17:20:02+00:00",
-   "tickers": [
-    "AVGO"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "efd3fb77331e",
-   "title": "FTSE 100 today: Stocks extend fall on U.S. chip curbs; UK jobless rate dips",
-   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-fall-as-miners-slide-us-chip-curbs-bite-5031960",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-17T17:19:48+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "f5d50536f799",
-   "title": "Eli Lilly Inks Multibillion-Dollar Pact to Develop Precision Cancer Therapies",
-   "link": "https://www.benzinga.com/news/health-care/26/11/63356680/eli-lilly-inks-multibillion-dollar-pact-to-develop-precision-cancer-therapies",
-   "summary": "Eli Lilly and Co. (NYSE:LLY) entered a strategic research collaboration and licensing agreement with privately held biotechnology company Stipple Bio Inc. on Monday to develop targeted cancer therapies. The agreement covers multiple drug targets and therapeutic approaches, with Stipple Bio eligible to receive up to $5.9 billion in milestone payments, along with royalties on potential product sales. Deal Terms Under the agreement, Stipple Bio will receive an upfront payment and an equity investme",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-17T17:18:09+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0953f89baa42",
-   "title": "Kyntra Bio (KYNB) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/kyntra-bio-kynb-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T17:17:18+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "eaa43be528c7",
-   "title": "Canadian Market Down 0.77% As Tech, Financials Weigh",
-   "link": "https://www.nasdaq.com/articles/canadian-market-down-077-tech-financials-weigh",
-   "summary": "(RTTNews) - The Canadian market is notably lower around noon on Tuesday, weighed down by losses in technology, financials, industrials and consumer discretionary stocks.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T17:15:20+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f774cad84b93",
-   "title": "Walmart is selling a 3-piece quilt set that's hypoallergenic for only $20",
-   "link": "https://www.thestreet.com/deals/mosluna-3-piece-lightweight-quilt-set-walmart-flash-sale",
-   "summary": "It includes two pillow shams and is machine washable.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-17T17:15:00+00:00",
-   "tickers": [
-    "WMT"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "663bc48a53ae",
-   "title": "OpenAI floated $5B+ for the lab trying to stop rogue models",
-   "link": "https://www.thestreet.com/technology/anthropic-backed-goodfire-openai-5-billion-rogue-models",
-   "summary": "Goodfire was valued at a fraction of that in February. Why the talks fizzled may tell investors more than the price tag does.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-17T17:13:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d8bacd931f15",
-   "title": "Trump meets key US regional allies in Manila ahead of China visit",
-   "link": "https://www.investing.com/news/economic-indicators/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit-5031428",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-17T17:12:43+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a6c935d674c9",
-   "title": "ASSA ABLOY appoints Nicolas Aznar to lead key management unit",
-   "link": "https://www.investing.com/news/company-news/assa-abloy-appoints-nicolas-aznar-to-lead-key-management-unit-93CH-5033662",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-17T17:12:36+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9037,6 +9042,7 @@
   "PANW": "Palo Alto Networks",
   "SPOT": "Spotify Technology",
   "VMI": "Valmont Industries",
+  "BSX": "Boston Scientific",
   "DD": "DuPont de Nemours",
   "GIL": "Gildan Activewear",
   "HOOD": "Robinhood Markets",
@@ -9061,6 +9067,7 @@
   "AER": "AerCap Holdings",
   "ANET": "Arista Networks",
   "BAC": "Bank of America",
+  "CHYM": "Chime Financial",
   "CI": "The Cigna Group",
   "COIN": "Coinbase Global",
   "D": "Dominion Energy",
@@ -9090,6 +9097,7 @@
   "KGC": "Kinross Gold",
   "LRCX": "Lam Research",
   "MELI": "MercadoLibre",
+  "NBIS": "Nebius Group",
   "STT": "State Street",
   "UBS": "UBS Group AG",
   "UUUU": "Energy Fuels",
