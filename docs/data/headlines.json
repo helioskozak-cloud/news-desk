@@ -1,20 +1,37 @@
 {
- "generated": "2026-11-17T15:51:21.881448+00:00",
+ "generated": "2026-11-17T15:56:09.942249+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
    "id": "ddb5b9c43374",
-   "title": "Dow tumbles more than 700 points, Nvidia falls again as traders await earnings: Live updates",
+   "title": "Dow tumbles more than 800 points, Nvidia falls again as traders await earnings: Live updates",
    "link": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
    "summary": "Traders on Tuesday reacted to several fresh earnings reports and awaited Nvidia's latest quarterly financial results.",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-17T15:49:46+00:00",
+   "published": "2026-11-17T15:55:09+00:00",
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "db755f9e2992",
+   "title": "What's Going On With AMD Stock Tuesday?",
+   "link": "https://www.benzinga.com/markets/tech/26/11/63348465/whats-going-on-with-amd-stock-tuesday-13",
+   "summary": "Advanced Micro Devices Inc. (NASDAQ:AMD) stock rose in Tuesday&rsquo;s premarket trading as investors weighed whether leadership upheaval at rival NVIDIA Corp. (NASDAQ:NVDA) could reshape the artificial intelligence chip market.NVIDIA&rsquo;s leadership crisis has fueled concerns about the sustainability of AI spending as investors reassess financing risks, management stability and the industry&rsquo;s heavy reliance on the chipmaker.However, the uncertainty could create new growth opportunities",
+   "source": "Benzinga",
+   "category": "stocks",
+   "domain": "benzinga.com",
+   "published": "2026-11-17T15:51:49+00:00",
+   "tickers": [
+    "AMD",
+    "NVDA"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -95,6 +112,62 @@
    "tag_v": 2
   },
   {
+   "id": "790512bfce9d",
+   "title": "Soybeans Holding Near Unchanged Early on Tuesday",
+   "link": "https://www.nasdaq.com/articles/soybeans-holding-near-unchanged-early-tuesday",
+   "summary": "Soybeans are trading with fractionally mixed action early on Tuesday. Futures posted Monday losses of 2 ½ to 6 cents across the board, fading a record NOPA crush. The cmdtyView national average Cash Bean price was down 6 cents at $11.68 3/4. Soymeal futures are trading with $2.20 to $4.80...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:42:36+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a779c8e02145",
+   "title": "Corn Extending Gains to Tuesday Morning",
+   "link": "https://www.nasdaq.com/articles/corn-extending-gains-tuesday-morning",
+   "summary": "Corn is trading with spillover support from wheat, as contracts are up 1 to 3 cents. Futures posted fractional to 3 ¼ cent gains on Monday, with futures firming with more export business. The CmdtyView national average Cash Corn price was up 2 3/4 cents at $4.16 3/4. USDA reported...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:42:36+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "858d02a64beb",
+   "title": "Wheat Popping Higher After Ukrainian Strike",
+   "link": "https://www.nasdaq.com/articles/wheat-popping-higher-after-ukrainian-strike",
+   "summary": "Wheat is trading with Tuesday AM gains of 3 to 9 cents so far. The wheat complex posted losses across most of the three exchanges, with spring wheat holding firm. Chicago SRW futures were down 5 3/4 to 7 3/4 cents across most contracts at the close. KC HRW futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:42:36+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "831fdb628864",
+   "title": "Ousted Nvidia CEO Huang to questioning by US lawmakers - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5",
+   "summary": "Ousted Nvidia CEO Huang to questioning by US lawmakers&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-17T15:42:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "87e95a08b678",
    "title": "EQT to acquire Flatiron Energy, a leading developer and operator of battery energy storage in the Eastern U.S.",
    "link": "https://www.prnewswire.com/news-releases/eqt-to-acquire-flatiron-energy-a-leading-developer-and-operator-of-battery-energy-storage-in-the-eastern-us-302942414.html",
@@ -107,6 +180,48 @@
     "EQT"
    ],
    "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b09138d43f7e",
+   "title": "Air Industries Group Disavows Tenax Aerospace Press Release Dated November 16, 2026",
+   "link": "https://www.nasdaq.com/articles/air-industries-group-disavows-tenax-aerospace-press-release-dated-november-16-2026",
+   "summary": "Air Industries Group announced that it disavows and its stockholders should not rely upon certain financial information contained in a release issued by Tenax Aerospace Acquisition, LLC on November 16, 2026. The Tenax release contained financial results of Tenax for the period en",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:40:15+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0d58d8ed14bf",
+   "title": "Dermata Therapeutics, Inc. Reports Over 1,000 Orders for Tome Foundational Treatment",
+   "link": "https://www.nasdaq.com/articles/dermata-therapeutics-inc-reports-over-1000-orders-tome-foundational-treatment",
+   "summary": "On November 17, 2026, Dermata Therapeutics, Inc. issued a press release highlighting additional results and photos from its recently completed cosmetic clinical study evaluating Tome Foundational Treatment, the Company&rsquo;s recently launched once-weekly skin renewal treatment.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:40:14+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0951805cf7de",
+   "title": "Essential Properties Realty Trust, Inc. Details Capital Plan and 4Q'26 Investment Activity",
+   "link": "https://www.nasdaq.com/articles/essential-properties-realty-trust-inc-details-capital-plan-and-4q26-investment-activity",
+   "summary": "Essential Properties Realty Trust, Inc. announced updates to its capital plan in an investor presentation released on November 17, 2026. In October 2026, the company issued $518mm of 4.375% exchangeable bonds due 2032, applying the proceeds to pay down its revolving credit facili",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:40:14+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -127,6 +242,22 @@
    "tag_v": 2
   },
   {
+   "id": "7504b468f709",
+   "title": "December 2nd Options Now Available For NVIDIA",
+   "link": "https://www.nasdaq.com/articles/december-2nd-options-now-available-nvidia",
+   "summary": "Investors in NVIDIA Corp (Symbol: NVDA) saw new options begin trading today, for the December 2nd expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the NVDA options chain for the new December 2nd contracts and identified one put and one call c",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:38:51+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "90d45307abfc",
    "title": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
    "link": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
@@ -138,6 +269,55 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "4bb33fe54fe2",
+   "title": "Stock Indexes Settle Sharply Lower on Big Tech Drubbing",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-sharply-lower-big-tech-drubbing",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.92% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.67%. December E-mini S&amp;P futures (ESZ26 ) fell -1.91%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:38:00+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "81ded58c87a1",
+   "title": "Cattle Look to Tuesday Following Weaker Start to the Week",
+   "link": "https://www.nasdaq.com/articles/cattle-look-tuesday-following-weaker-start-week",
+   "summary": "Live cattle futures were down 32 cents to $1.15 at the final bell. Cash trade last week saw some light dressed trade at $335-340 in the North, with a few southern sales at $218. Feeder cattle futures were down $1.65 to $2.55 on the session. The CME Feeder Cattle Index...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:38:00+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9af3a3c02652",
+   "title": "Cattle Pulls off Early Lows on Monday, but Still Holds Lower",
+   "link": "https://www.nasdaq.com/articles/cattle-pulls-early-lows-monday-still-holds-lower",
+   "summary": "Live cattle futures were down 32 cents to $1.15 at the final bell. Cash trade last week saw some light dressed trade at $335-340 in the North, with a few southern sales at $218. Feeder cattle futures were down $1.65 to $2.55 on the session. The CME Feeder Cattle Index...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:38:00+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -185,6 +365,22 @@
    "tag_v": 2
   },
   {
+   "id": "8c072384df81",
+   "title": "December 2nd Options Now Available For VanEck ETF Trust - Semiconductor ETF (SMH)",
+   "link": "https://www.nasdaq.com/articles/december-2nd-options-now-available-vaneck-etf-trust-semiconductor-etf-smh",
+   "summary": "Investors in VanEck ETF Trust - Semiconductor ETF (Symbol: SMH) saw new options begin trading today, for the December 2nd expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the SMH options chain for the new December 2nd contracts and identified",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:35:22+00:00",
+   "tickers": [
+    "SMH"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "cf390478244f",
    "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
    "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
@@ -199,16 +395,32 @@
    "tag_v": 2
   },
   {
+   "id": "42f5a2d327f4",
+   "title": "Interesting NLY Call Options For February 2027",
+   "link": "https://www.nasdaq.com/articles/interesting-nly-call-options-february-2027",
+   "summary": "Investors in Annaly Capital Management Inc (Symbol: NLY) saw new options begin trading today, for the February 2027 expiration. One of the key inputs that goes into the price an option buyer is willing to pay, is the time value, so with 94 days until expiration the newly tradin",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:35:09+00:00",
+   "tickers": [
+    "NLY"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "5cc9c855c1e7",
    "title": "Tuesday 11/17 Insider Buying Report: KURA, IOND",
    "link": "https://www.nasdaq.com/articles/tuesday-11-17-insider-buying-report-kura-iond",
    "summary": "Bargain hunters are wise to pay careful attention to insider buying, because although there are many various reasons for an insider to sell a stock, presumably the only reason they would use their hard-earned cash to make a purchase, is that they expect to make money. Today we",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-17T15:35:04+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -243,6 +455,20 @@
    "tag_v": 2
   },
   {
+   "id": "56e0190083c0",
+   "title": "HZN May 2027 Options Begin Trading",
+   "link": "https://www.nasdaq.com/articles/hzn-may-2027-options-begin-trading",
+   "summary": "Investors in Bright Horizon Energy Corp (Symbol: HZN) saw new options begin trading today, for the May 2027 expiration. One of the key data points that goes into the price an option buyer is willing to pay, is the time value, so with 185 days until expiration the newly trading",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:33:59+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "852747fc3e69",
    "title": "Earnings call transcript: Energizer tops Q4 2026 profit view, stock rises 4.6%",
    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-energizer-tops-q4-2026-profit-view-stock-rises-46-93CH-5033480",
@@ -254,6 +480,22 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "4dd73e724284",
+   "title": "February 2027 Options Now Available For Morgan Stanley (MS)",
+   "link": "https://www.nasdaq.com/articles/february-2027-options-now-available-morgan-stanley-ms",
+   "summary": "Investors in Morgan Stanley (Symbol: MS) saw new options begin trading today, for the February 2027 expiration. One of the key inputs that goes into the price an option buyer is willing to pay, is the time value, so with 94 days until expiration the newly trading contracts repr",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T15:33:21+00:00",
+   "tickers": [
+    "MS"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -270,23 +512,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4bb33fe54fe2",
-   "title": "Stock Indexes Settle Sharply Lower on Big Tech Drubbing",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-sharply-lower-big-tech-drubbing",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.92% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.67%. December E-mini S&amp;P futures (ESZ26 ) fell -1.91%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T15:32:31+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -515,20 +740,6 @@
    "tag_v": 2
   },
   {
-   "id": "790512bfce9d",
-   "title": "Soybeans Holding Near Unchanged Early on Tuesday",
-   "link": "https://www.nasdaq.com/articles/soybeans-holding-near-unchanged-early-tuesday",
-   "summary": "Soybeans are trading with fractionally mixed action early on Tuesday. Futures posted Monday losses of 2 ½ to 6 cents across the board, fading a record NOPA crush. The cmdtyView national average Cash Bean price was down 6 cents at $11.68 3/4. Soymeal futures are trading with $2.20 to $4.80...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T15:26:13+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "1458057439b2",
    "title": "SMCI support and resistance as stock trades near key levels",
    "link": "https://www.investing.com/news/stock-market-news/smci-support-and-resistance-as-stock-trades-near-key-levels-93CH-5033463",
@@ -696,20 +907,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a779c8e02145",
-   "title": "Corn Extending Gains to Tuesday Morning",
-   "link": "https://www.nasdaq.com/articles/corn-extending-gains-tuesday-morning",
-   "summary": "Corn is trading with spillover support from wheat, as contracts are up 1 to 3 cents. Futures posted fractional to 3 ¼ cent gains on Monday, with futures firming with more export business. The CmdtyView national average Cash Corn price was up 2 3/4 cents at $4.16 3/4. USDA reported...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T15:21:14+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1086,20 +1283,6 @@
    "tickers": [
     "SLS"
    ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "858d02a64beb",
-   "title": "Wheat Popping Higher After Ukrainian Strike",
-   "link": "https://www.nasdaq.com/articles/wheat-popping-higher-after-ukrainian-strike",
-   "summary": "Wheat is trading with Tuesday AM gains of 3 to 9 cents so far. The wheat complex posted losses across most of the three exchanges, with spring wheat holding firm. Chicago SRW futures were down 5 3/4 to 7 3/4 cents across most contracts at the close. KC HRW futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T15:09:38+00:00",
-   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -1782,22 +1965,6 @@
    "title": "Hogs Look to Tuesday After Mixed Monday",
    "link": "https://www.nasdaq.com/articles/hogs-look-tuesday-after-mixed-monday",
    "summary": "Lean hog futures posted mixed trade, with contracts anywhere from down 70 cents to 32 cents higher. USDA’s national base hog price was reported at $37.01 on Monday afternoon, down 74 cents from the day prior. The CME Lean Hog Index was down $1.05 on November 12 at $57.73. Managed...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T14:53:52+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "81ded58c87a1",
-   "title": "Cattle Look to Tuesday Following Weaker Start to the Week",
-   "link": "https://www.nasdaq.com/articles/cattle-look-tuesday-following-weaker-start-week",
-   "summary": "Live cattle futures were down 32 cents to $1.15 at the final bell. Cash trade last week saw some light dressed trade at $335-340 in the North, with a few southern sales at $218. Feeder cattle futures were down $1.65 to $2.55 on the session. The CME Feeder Cattle Index...",
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
@@ -8816,177 +8983,6 @@
    "type": "press",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "56cb7de698d8",
-   "title": "Birches Health Named to the 2026 CB Insights' 50 Most Promising Digital Health Startups",
-   "link": "https://www.prnewswire.com/news-releases/birches-health-named-to-the-2026-cb-insights-50-most-promising-digital-health-startups-302941487.html",
-   "summary": "Birches Health recognized for expanding access to specialized, evidence-based treatment for gambling disorder and other behavioral addictions nationwide NEW YORK, Nov. 17, 2026 /PRNewswire/ -- CB Insights today named Birches Health to its eighth annual Digital Health 50, showcasing the 50...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "CB"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "03ddb8c1a254",
-   "title": "Lazard Chief Financial Officer Tracy Farr to Speak at the 2026 Goldman Sachs U.S. Financial Services Conference",
-   "link": "https://www.prnewswire.com/news-releases/lazard-chief-financial-officer-tracy-farr-to-speak-at-the-2026-goldman-sachs-us-financial-services-conference-302940884.html",
-   "summary": "NEW YORK, Nov. 17, 2026 /PRNewswire/ -- Lazard, Inc. (NYSE: LAZ) today announced Tracy Farr, Chief Financial Officer, is scheduled to participate in a fireside discussion at the Goldman Sachs U.S. Financial Services Conference on Tuesday, December 8, at 12:20 p.m. E.T. A live audio...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "GS"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7aaa134193ff",
-   "title": "Diabetes Leadership Council and Insulet Corporation Announce Launch of Multiyear Effort to Protect Access to Healthcare for People with Diabetes",
-   "link": "https://www.prnewswire.com/news-releases/diabetes-leadership-council-and-insulet-corporation-announce-launch-of-multiyear-effort-to-protect-access-to-healthcare-for-people-with-diabetes-302941207.html",
-   "summary": "Through its Patient Safety Net Protection Collaborative, DLC calls for organizations to protect the patient safety net for diabetes patients WASHINGTON, Nov. 17, 2026 /PRNewswire/ -- The Diabetes Leadership Council (DLC) and Insulet Corporation, the global leader in tubeless insulin pump...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "PODD"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f11e632d26a5",
-   "title": "INTURAI SIGNS COMMERCIAL AGREEMENT WITH SOUTHEAST ASIAN PIZZA HUT OPERATOR AND COMMENCES AT FIRST OUTLET AND ENGAGEMENT WITH EUROSWISS EQUITY GROUP | URAIF Stock News",
-   "link": "https://www.stocktitan.net/news/URAIF/inturai-signs-commercial-agreement-with-southeast-asian-pizza-hut-68rwiiwdws09.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "07304f1fe0d4",
-   "title": "Kernal Bio Announces Strategic Investment from IFLI and Leadership Appointments | OBX Stock News",
-   "link": "https://www.stocktitan.net/news/OBX/kernal-bio-announces-strategic-investment-from-ifli-and-leadership-6z59smx7m6oo.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a619a76c1fda",
-   "title": "Lazard Chief Financial Officer Tracy Farr to Speak at the 2026 Goldman Sachs U.S. Financial Services Conference | LAZ Stock News",
-   "link": "https://www.stocktitan.net/news/LAZ/lazard-chief-financial-officer-tracy-farr-to-speak-at-the-2026-a0qc6o2va3u5.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "GS"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e87dfe8b833a",
-   "title": "PEPSI® Turns Up the Flavor on the Las Vegas Strip During Formula 1 Heineken Las Vegas Grand Prix 2026 Race Weekend With MGM Resorts International | MGM Stock News",
-   "link": "https://www.stocktitan.net/news/MGM/pepsi-turns-up-the-flavor-on-the-las-vegas-strip-during-formula-1-b60z2ji0i811.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "MGM"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4b8ea2ee2edc",
-   "title": "Residential Home Health and Hospice Receives Top Workplaces Award for 9 Consecutive Years | GHC Stock News",
-   "link": "https://www.stocktitan.net/news/GHC/residential-home-health-and-hospice-receives-top-workplaces-award-japwnk4fjz80.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "365ce57be09e",
-   "title": "SharkNinja to Participate in the Morgan Stanley Global Consumer & Retail Conference | SN Stock News",
-   "link": "https://www.stocktitan.net/news/SN/shark-ninja-to-participate-in-the-morgan-stanley-global-consumer-i2wygw2z9gli.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "SN",
-    "MS"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "91da98136ba4",
-   "title": "JPMorganChase announces Bregje de Best will succeed Jeremy Barnum as Chief Financial Officer following first-quarter 2027 financial reporting. Barnum to become a Vice Chairman at that time. | JPM Stock News",
-   "link": "https://www.stocktitan.net/news/JPM/jp-morgan-chase-announces-bregje-de-best-will-succeed-jeremy-barnum-1kypbiicbrhb.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "910c56fa8460",
-   "title": "Novo launches the new Novocare®: Free support program connects people with Wegovy® in addition to home delivery, everyday support, wellness partners and rewards | NVO Stock News",
-   "link": "https://www.stocktitan.net/news/NVO/novo-launches-the-new-novocare-free-support-program-connects-people-yo3iyr8vwpgc.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9013,9 +9009,11 @@
   "ASM": "Avino Silver & Gold Mines",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
+  "NLY": "Annaly Capital Management",
   "WFRD": "Weatherford International",
   "APO": "Apollo Global Management",
   "SGI": "Somnigroup International",
+  "SMH": "VanEck Semiconductor ETF",
   "AAOI": "Applied Optoelectronics",
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
@@ -9079,7 +9077,6 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "SOC": "Sable Offshore",
-  "CB": "Chubb Limited",
   "CSCO": "Cisco Systems",
   "ESLT": "Elbit Systems",
   "FTAI": "FTAI Aviation",
@@ -9112,7 +9109,6 @@
   "CRM": "Salesforce",
   "CVS": "CVS Health",
   "F": "Ford Motor",
-  "SN": "SharkNinja",
   "SPGI": "S&P Global",
   "WT": "WisdomTree",
   "MSFT": "Office 365",
@@ -9141,7 +9137,6 @@
   "MRK": "Merck &",
   "MRNA": "Moderna",
   "PEP": "PepsiCo",
-  "PODD": "Insulet",
   "PSN": "Parsons",
   "SNDK": "Sandisk",
   "VTRS": "Viatris",
