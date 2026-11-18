@@ -1,8 +1,53 @@
 {
- "generated": "2026-11-18T07:16:23.363755+00:00",
+ "generated": "2026-11-18T07:21:40.277124+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "89ee6db6afbf",
+   "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+   "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+   "summary": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T07:17:11+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "dca9aa1d996a",
+   "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+   "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+   "summary": "The U.S. Commerce Department is making moves to tighten export controls.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T07:16:14+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "42c335bb82e0",
+   "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.03% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.72%. December E-mini S&amp;P futures (ESZ26 ) fell -1.07%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T07:11:05+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "17f95721615b",
    "title": "Earnings call transcript: Severn Trent posts strong H1 2026 growth as investment surges",
@@ -56,23 +101,6 @@
    "published": "2026-11-18T07:06:43+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "42c335bb82e0",
-   "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.03% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.72%. December E-mini S&amp;P futures (ESZ26 ) fell -1.07%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T07:05:04+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -2073,20 +2101,6 @@
    "tag_v": 2
   },
   {
-   "id": "89ee6db6afbf",
-   "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
-   "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
-   "summary": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-18T04:27:45+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "f21da4c07c8a",
    "title": "Christian Pulisic stuns with a bicycle kick as the US sends off Mauricio Pochettino with a 2-0 win - AP News",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS0JaU2d4MXZLQ3ZoaVdhMGV5SFN5N20xZnFiWmRyTnRiLWY2TE1BQ1pCVVpDTzdETUN0LUMtcnZ2OXp4RVdCSkdubkcyWXVWUFNobkM1R3V3akdJd215TzFhN2pWQ3NZT1B3OGprdDFjSnNvd0h3bWQyYnpCSDk0NGdEMUVHdW5rX2J6d1FMczR5bWcta3pDdDlDOU9pVkx3OW02X3BJclIzelE?oc=5",
@@ -2903,6 +2917,20 @@
    ],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "7b922581d8e1",
+   "title": "Congress skeptical as Trump officials seek $50B for air travel system - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmtpWWREWHk0ZEcyS2RsT054VXhvR04yVlM5VndWRk12eW9SRThmdzlGbDVoajY1Rm1hcWRkeEJsSE51dHNNRlFpbVN0bHBhSkhYLV9lTEh6Z3c1TlZRdGFzTk5TeXdYU2JiQTNKZ3E1M3RKS1lnZGhCX0Y4SVBpVUtfeXNkM2otOHcxQS1ib3p4bGloVzJ1cldSVVBYSG9UVmQ0MjN3?oc=5",
+   "summary": "Congress skeptical as Trump officials seek $50B for air travel system&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-18T03:06:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3997,20 +4025,6 @@
    "tag_v": 2
   },
   {
-   "id": "37b30f79389b",
-   "title": "What to know about US-China competition as Trump and Xi meet again this week - AP News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUU9SQ2k0YlFmRDJQUEhOMUtOa3ZHdFd6MUN4a09aRGMxUnpLazJtVUJJSlBURTNqZmhxWTR0NFliYTBPZ3ZCVnhhNlE4LXBDdGNQM2F6ZDlWSDY2RmFlNll1VC1KX2xqdmJvR2gzMGNVX1N5RGhGTFk0YXdBWjc2eWhnWFkxcVNFU1ZDak0wakx1eU9fWDkwZGtCY3hDdFJK?oc=5",
-   "summary": "What to know about US-China competition as Trump and Xi meet again this week&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-18T01:51:43+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "017320d6c1e1",
    "title": "iRhythm Technologies, Inc. Enters into $100.0 million Accelerated Share Repurchase Agreement",
    "link": "https://www.nasdaq.com/articles/irhythm-technologies-inc-enters-1000-million-accelerated-share-repurchase-agreement",
@@ -4831,6 +4845,20 @@
    "published": "2026-11-18T01:05:51+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "37b30f79389b",
+   "title": "What to know about US-China competition as Trump and Xi meet again this week - AP News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUU9SQ2k0YlFmRDJQUEhOMUtOa3ZHdFd6MUN4a09aRGMxUnpLazJtVUJJSlBURTNqZmhxWTR0NFliYTBPZ3ZCVnhhNlE4LXBDdGNQM2F6ZDlWSDY2RmFlNll1VC1KX2xqdmJvR2gzMGNVX1N5RGhGTFk0YXdBWjc2eWhnWFkxcVNFU1ZDak0wakx1eU9fWDkwZGtCY3hDdFJK?oc=5",
+   "summary": "What to know about US-China competition as Trump and Xi meet again this week&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-18T01:03:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8863,38 +8891,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "932355c08c0a",
-   "title": "Entergy Breaks Below 200-Day Moving Average - Notable for ETR",
-   "link": "https://www.nasdaq.com/articles/entergy-breaks-below-200-day-moving-average-notable-etr-0",
-   "summary": "In trading on Tuesday, shares of Entergy Corp (Symbol: ETR) crossed below their 200 day moving average of $108.37, changing hands as low as $108.13 per share. Entergy Corp shares are currently trading off about 1.9% on the day. The chart below shows the one year performance of",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T22:02:33+00:00",
-   "tickers": [
-    "ETR"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a82c58046b1e",
-   "title": "Notable Two Hundred Day Moving Average Cross - PHM",
-   "link": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-phm",
-   "summary": "In trading on Tuesday, shares of PulteGroup Inc (Symbol: PHM) crossed below their 200 day moving average of $124.23, changing hands as low as $123.83 per share. PulteGroup Inc shares are currently trading down about 2.3% on the day. The chart below shows the one year performan",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T22:02:29+00:00",
-   "tickers": [
-    "PHM"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9014,7 +9010,6 @@
   "F": "Ford Motor",
   "GEV": "GE Vernova",
   "MCD": "McDonald's",
-  "PHM": "PulteGroup",
   "RIG": "Transocean",
   "STLA": "Stellantis",
   "DE": "John Deere",
@@ -9035,7 +9030,6 @@
   "CNC": "Centene",
   "CVNA": "Carvana",
   "CVX": "Chevron",
-  "ETR": "Entergy",
   "GLW": "Corning",
   "HUBB": "Hubbell",
   "MDB": "MongoDB",
