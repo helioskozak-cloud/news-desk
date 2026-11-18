@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T05:46:15.569036+00:00",
+ "generated": "2026-11-18T05:51:20.387382+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,11 +11,25 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-18T05:37:27+00:00",
+   "published": "2026-11-18T05:46:17+00:00",
    "tickers": [
     "JPM"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2f5fb98cd072",
+   "title": "Cotton Bounces on Turnaround Tuesday",
+   "link": "https://www.nasdaq.com/articles/cotton-bounces-turnaround-tuesday",
+   "summary": "Cotton futures posted gains of 20 to 48 points across the board on Tuesday, holding early gains into the close. Crude oil was down 11 cents per barrel on the session to $85.61, with the US dollar index $0.020 lower. Crop Progress data showed the US cotton harvest at 77%...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T05:39:24+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -101,6 +115,23 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "42c335bb82e0",
+   "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.03% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.72%. December E-mini S&amp;P futures (ESZ26 ) fell -1.07%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T05:25:20+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -472,20 +503,6 @@
    "tag_v": 2
   },
   {
-   "id": "2f5fb98cd072",
-   "title": "Cotton Bounces on Turnaround Tuesday",
-   "link": "https://www.nasdaq.com/articles/cotton-bounces-turnaround-tuesday",
-   "summary": "Cotton futures posted gains of 20 to 48 points across the board on Tuesday, holding early gains into the close. Crude oil was down 11 cents per barrel on the session to $85.61, with the US dollar index $0.020 lower. Crop Progress data showed the US cotton harvest at 77%...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T04:49:30+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "743d23d3d2d4",
    "title": "Dollar holds near 19-month high as data supports case for US rate hikes",
    "link": "https://www.investing.com/news/economy-news/dollar-holds-near-19month-high-as-data-supports-case-for-us-rate-hikes-5034498",
@@ -645,23 +662,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "42c335bb82e0",
-   "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.03% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.72%. December E-mini S&amp;P futures (ESZ26 ) fell -1.07%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T04:36:07+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
