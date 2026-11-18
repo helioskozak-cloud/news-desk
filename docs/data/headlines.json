@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-18T10:06:18.052471+00:00",
+ "generated": "2026-11-18T10:11:27.847578+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8021797556d1",
+   "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+   "summary": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T10:09:29+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "264aaea8f3b0",
    "title": "Trump lands in China for historic meeting with Xi, Putin",
@@ -11,7 +25,7 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-18T10:02:49+00:00",
+   "published": "2026-11-18T10:07:52+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -100,6 +114,20 @@
    "published": "2026-11-18T10:00:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2f5463a6157f",
+   "title": "Should You Really Buy Anthropic Stock At the IPO? History Has a Clear Answer for Investors.",
+   "link": "https://www.nasdaq.com/articles/should-you-really-buy-anthropic-stock-ipo-history-has-clear-answer-investors",
+   "summary": "Key PointsAnthropic's initial public offering is scheduled for Thursday, Nov. 19, and the proposed price range implies a market value of $1.33 trillion.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T09:59:02+00:00",
+   "tickers": [],
+   "type": "offering",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -243,20 +271,6 @@
    "tag_v": 2
   },
   {
-   "id": "8021797556d1",
-   "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
-   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
-   "summary": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-18T09:45:41+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "0712377af077",
    "title": "Arribatec Q3 2026 slides: margins hold near 10% as AI revenue grows",
    "link": "https://www.investing.com/news/company-news/arribatec-q3-2026-slides-margins-hold-near-10-as-ai-revenue-grows-93CH-5035269",
@@ -282,6 +296,22 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "96f880fe90b8",
+   "title": "Why CoreWeave May Be the Biggest Loser From Jensen Huang's Resignation",
+   "link": "https://www.nasdaq.com/articles/why-coreweave-may-be-biggest-loser-jensen-huangs-resignation",
+   "summary": "Key PointsNvidia is a CoreWeave shareholder and serves as a backstop for the company.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T09:45:01+00:00",
+   "tickers": [
+    "CRWV"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8822,36 +8852,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "a0baa947b4df",
-   "title": "Euroseas (ESEA) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/euroseas-esea-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T23:43:37+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b1e251e22d52",
-   "title": "PT Freeport Indonesia Prices U.S.$750.0 Million of Senior Notes | FCX Stock News",
-   "link": "https://www.stocktitan.net/news/FCX/pt-freeport-indonesia-prices-u-s-750-0-million-of-senior-jhb3i31oqea6.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-17T23:41:00+00:00",
-   "tickers": [
-    "FCX"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8913,7 +8913,6 @@
   "SOFI": "SoFi Technologies",
   "UBER": "Uber Technologies",
   "AR": "Antero Resources",
-  "FCX": "Freeport-McMoRan",
   "IRTC": "iRhythm Holdings",
   "J": "Jacobs Solutions",
   "JPM": "JPMorgan Chase &",
