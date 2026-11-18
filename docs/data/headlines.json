@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-18T07:21:40.277124+00:00",
+ "generated": "2026-11-18T07:26:28.950694+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "504fedd19d8e",
+   "title": "Synthesys gibt Zusammenarbeit mit WisdomTree nach der Registrierung von drei tokenisierten Fonds in Singapur bekannt",
+   "link": "https://www.prnewswire.com/news-releases/synthesys-gibt-zusammenarbeit-mit-wisdomtree-nach-der-registrierung-von-drei-tokenisierten-fonds-in-singapur-bekannt-302943499.html",
+   "summary": "Synthesys Network wird regulierten Intermediären den Zugang zum Portfolio tokenisierter Fonds von WisdomTree ermöglichen, beginnend mit drei Fonds, die Geldmarkt-, US-Large-Cap-Aktien- und Technologiestrategien abdecken, nachdem die Genehmigung für den Vertrieb in Singapur erteilt wurde....",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-18T07:19:00+00:00",
+   "tickers": [
+    "WT"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "89ee6db6afbf",
    "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
@@ -28,23 +44,6 @@
    "published": "2026-11-18T07:16:14+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "42c335bb82e0",
-   "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.03% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.72%. December E-mini S&amp;P futures (ESZ26 ) fell -1.07%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T07:11:05+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -101,6 +100,23 @@
    "published": "2026-11-18T07:06:43+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "42c335bb82e0",
+   "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.03% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.72%. December E-mini S&amp;P futures (ESZ26 ) fell -1.07%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T07:05:04+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -494,6 +510,20 @@
    "published": "2026-11-18T06:54:07+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7217589896ea",
+   "title": "1 AI Stock I’d Buy Right Now Without Hesitation",
+   "link": "https://www.nasdaq.com/articles/1-ai-stock-id-buy-right-now-without-hesitation",
+   "summary": "Key PointsApplied Materials just posted record quarterly revenue of $10.41 billion, up 53%, and guided for even more this quarter.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T06:54:02+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8860,37 +8890,6 @@
    "type": "fda",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "1c9478bd3f2f",
-   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-   "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
-   "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T22:03:57+00:00",
-   "tickers": [
-    "AAPL",
-    "NSA"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "68272a0b1314",
-   "title": "Legendary fund manager builds $172 million stake in mega-cap tech stock",
-   "link": "https://www.thestreet.com/investing/stocks/david-tepper-172-million-oracle-stake-mega-cap-tech-stock",
-   "summary": "Billionaire David Tepper's latest 13F filing adds a twist to the AI debate.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-17T22:03:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9012,6 +9011,7 @@
   "MCD": "McDonald's",
   "RIG": "Transocean",
   "STLA": "Stellantis",
+  "WT": "WisdomTree",
   "DE": "John Deere",
   "APG": "APi Group",
   "BC": "Brunswick",
