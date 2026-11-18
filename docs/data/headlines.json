@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T04:11:39.670691+00:00",
+ "generated": "2026-11-18T04:13:27.084453+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,24 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-18T04:05:01+00:00",
+   "published": "2026-11-18T04:11:03+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1fe85211ac5c",
+   "title": "Democrat Mary Peltola wins Alaska Senate election",
+   "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
+   "summary": "Peltola's defeat of incumbent Republican Dan Sullivan gives Democrats a solid majority of 56 seats in the Senate as of January.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T04:10:45+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -22,8 +36,8 @@
    "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
    "link": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
    "summary": "Nvidia’s Q3 results should help ease short-term concerns, but uncertainty remains around long-term leadership.",
-   "source": "CNBC Top",
-   "category": "markets",
+   "source": "CNBC Earnings",
+   "category": "earnings",
    "domain": "cnbc.com",
    "published": "2026-11-18T04:04:26+00:00",
    "tickers": [],
@@ -43,20 +57,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1fe85211ac5c",
-   "title": "Democrat Mary Peltola wins Alaska Senate election",
-   "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
-   "summary": "Peltola's defeat of incumbent Republican Dan Sullivan gives Democrats a solid majority of 56 seats in the Senate as of January.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-18T03:56:12+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8898,23 +8898,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "8154cc6acaf9",
-   "title": "Alphabet vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
-   "link": "https://www.nasdaq.com/articles/alphabet-vs-amazon-which-better-ai-cloud-stock-own-next-5-years",
-   "summary": "Key PointsAmazon Web Services has held top share in the cloud market since the industry existed.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T21:20:00+00:00",
-   "tickers": [
-    "GOOG",
-    "AMZN"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9067,7 +9050,6 @@
   "AVGO": "Broadcom",
   "DUOL": "Duolingo",
   "EVR": "Evercore",
-  "GOOG": "Alphabet",
   "AES": "The AES",
   "CVNA": "Carvana",
   "CVX": "Chevron",
