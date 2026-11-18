@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T00:11:29.481359+00:00",
+ "generated": "2026-11-18T00:16:38.241106+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -15,6 +15,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f59417e0c6dc",
+   "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
+   "link": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
+   "summary": "Semiconductor shipments spiked almost 50% year on year.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T00:06:25+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -193,6 +207,38 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "654c617b85a7",
+   "title": "Lower French Production Boosts Sugar Prices",
+   "link": "https://www.nasdaq.com/articles/lower-french-production-boosts-sugar-prices",
+   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.07 (+0.39%) on Tuesday, and March London ICE white sugar #5 (SWH2 7) closed up +0.50 (+0.10%). Sugar prices erased early losses on Tuesday and settled higher as short covering emerged amid global supply concerns after France, the EU's largest sugar...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T23:55:05+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "d1cef9c9cc50",
+   "title": "Arabica Coffee Settles Higher on Shrinking ICE Inventories",
+   "link": "https://www.nasdaq.com/articles/arabica-coffee-settles-higher-shrinking-ice-inventories",
+   "summary": "December arabica coffee (KCZ26 ) closed up +5.90 (+2.10%) on Tuesday, and January ICE robusta coffee (RMF27 ) closed down -73 (-2.32%). Coffee prices diverged on Tuesday and settled mixed, with arabica climbing to a 2-week high and robusta slumping to a 2.75-year low. Arabica coffee is supported by tighter...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T23:55:04+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -400,6 +446,20 @@
    "tag_v": 2
   },
   {
+   "id": "0de43a545944",
+   "title": "Crude Oil Prices Climb on Global Supply Threats",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-climb-global-supply-threats",
+   "summary": "December WTI crude oil (CLZ26 ) is up +0.79 (+0.92%) today, and December RBOB gasoline (RBZ26 ) is up +0.0204 (+0.80%). Crude oil and gasoline prices are moving higher today on threats to global oil supplies. Concerns about escalation of the US-Iran conflict are lifting crude prices as the US...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T23:44:29+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "a0baa947b4df",
    "title": "Euroseas (ESEA) Q3 2026 Earnings Call Transcript",
    "link": "https://www.nasdaq.com/articles/euroseas-esea-q3-2026-earnings-call-transcript",
@@ -501,38 +561,6 @@
    "tickers": [
     "ERAS",
     "BMY"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "654c617b85a7",
-   "title": "Lower French Production Boosts Sugar Prices",
-   "link": "https://www.nasdaq.com/articles/lower-french-production-boosts-sugar-prices",
-   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.07 (+0.39%) on Tuesday, and March London ICE white sugar #5 (SWH2 7) closed up +0.50 (+0.10%). Sugar prices erased early losses on Tuesday and settled higher as short covering emerged amid global supply concerns after France, the EU's largest sugar...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T23:39:19+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "d1cef9c9cc50",
-   "title": "Arabica Coffee Settles Higher on Shrinking ICE Inventories",
-   "link": "https://www.nasdaq.com/articles/arabica-coffee-settles-higher-shrinking-ice-inventories",
-   "summary": "December arabica coffee (KCZ26 ) closed up +5.90 (+2.10%) on Tuesday, and January ICE robusta coffee (RMF27 ) closed down -73 (-2.32%). Coffee prices diverged on Tuesday and settled mixed, with arabica climbing to a 2-week high and robusta slumping to a 2.75-year low. Arabica coffee is supported by tighter...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T23:39:19+00:00",
-   "tickers": [
-    "ICE"
    ],
    "type": "stocks",
    "sentiment": "neutral",
@@ -667,20 +695,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "0de43a545944",
-   "title": "Crude Oil Prices Climb on Global Supply Threats",
-   "link": "https://www.nasdaq.com/articles/crude-oil-prices-climb-global-supply-threats",
-   "summary": "December WTI crude oil (CLZ26 ) is up +0.79 (+0.92%) today, and December RBOB gasoline (RBZ26 ) is up +0.0204 (+0.80%). Crude oil and gasoline prices are moving higher today on threats to global oil supplies. Concerns about escalation of the US-Iran conflict are lifting crude prices as the US...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T23:33:08+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8940,22 +8954,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "a1fdfd102d81",
-   "title": "Can Bitcoin Rally Into December? History Says Probably Not, Analyst Warns",
-   "link": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63364003/can-bitcoin-rally-into-december-history-says-probably-not-analyst-warns",
-   "summary": "Bitcoin (CRYPTO: BTC) could face another four to eight weeks of weakness, as the current selloff may not be over yet.Speaking during an X Spaces discussion, crypto analyst Benjamin Cowen, warned that the said Bitcoin&rsquo;s decline follows a familiar midterm-election-year pattern, with the market potentially approaching another cyclical low before recovering.His historical midterm-year market behavior typically features three periods of weakness: An initial low in February. Another decline duri",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-17T19:22:05+00:00",
-   "tickers": [
-    "BTC"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   }
  ],
