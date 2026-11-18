@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-18T03:41:25.556926+00:00",
+ "generated": "2026-11-18T03:46:19.863497+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1fe85211ac5c",
+   "title": "Democrat Mary Peltola wins Alaska Senate election",
+   "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
+   "summary": "Peltola's defeat of incumbent Republican Dan Sullivan gives Democrats a solid majority of 56 seats in the Senate as of January.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T03:38:24+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "3d335c2ae7f1",
    "title": "A Diwali Celebration with Heritage at South Brunswick Residents & American Properties",
@@ -115,6 +129,23 @@
    "domain": "investing.com",
    "published": "2026-11-18T03:30:47+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c2087ef50422",
+   "title": "Broadcom vs. Micron Technology: Which Tech Stock Is the Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/broadcom-vs-micron-technology-which-tech-stock-better-buy-2027",
+   "summary": "Key PointsBroadcom designs custom chips and software for networking and storage, but a handful of customers account for about 40% of its revenue.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T03:30:02+00:00",
+   "tickers": [
+    "MU",
+    "AVGO"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -241,34 +272,6 @@
    "tag_v": 2
   },
   {
-   "id": "ca8d9274b1ae",
-   "title": "ClearOne director First Finance Ltd. buys $755,540 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/clearone-director-first-finance-ltd-buys-755540-in-stock-93CH-5034614",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-18T03:16:05+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2f5fb98cd072",
-   "title": "Cotton Bounces on Turnaround Tuesday",
-   "link": "https://www.nasdaq.com/articles/cotton-bounces-turnaround-tuesday",
-   "summary": "Cotton futures posted gains of 20 to 48 points across the board on Tuesday, holding early gains into the close. Crude oil was down 11 cents per barrel on the session to $85.61, with the US dollar index $0.020 lower. Crop Progress data showed the US cotton harvest at 77%...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T03:13:34+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "42c335bb82e0",
    "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
    "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
@@ -276,7 +279,7 @@
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
-   "published": "2026-11-18T03:13:33+00:00",
+   "published": "2026-11-18T03:17:54+00:00",
    "tickers": [
     "SPY",
     "QQQ"
@@ -293,10 +296,52 @@
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
-   "published": "2026-11-18T03:13:33+00:00",
+   "published": "2026-11-18T03:17:54+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ca8d9274b1ae",
+   "title": "ClearOne director First Finance Ltd. buys $755,540 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/clearone-director-first-finance-ltd-buys-755540-in-stock-93CH-5034614",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-18T03:16:05+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "dda3b5b1995e",
+   "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
+   "link": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+   "summary": "In her first earnings report as interim CEO, Nvidia's Colette Kress calmed investors' nerves, at least for the moment.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T03:15:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2f5fb98cd072",
+   "title": "Cotton Bounces on Turnaround Tuesday",
+   "link": "https://www.nasdaq.com/articles/cotton-bounces-turnaround-tuesday",
+   "summary": "Cotton futures posted gains of 20 to 48 points across the board on Tuesday, holding early gains into the close. Crude oil was down 11 cents per barrel on the session to $85.61, with the US dollar index $0.020 lower. Crop Progress data showed the US cotton harvest at 77%...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T03:13:34+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -412,20 +457,6 @@
    ],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "7b922581d8e1",
-   "title": "Congress skeptical as Trump officials seek $50B for air travel system - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmtpWWREWHk0ZEcyS2RsT054VXhvR04yVlM5VndWRk12eW9SRThmdzlGbDVoajY1Rm1hcWRkeEJsSE51dHNNRlFpbVN0bHBhSkhYLV9lTEh6Z3c1TlZRdGFzTk5TeXdYU2JiQTNKZ3E1M3RKS1lnZGhCX0Y4SVBpVUtfeXNkM2otOHcxQS1ib3p4bGloVzJ1cldSVVBYSG9UVmQ0MjN3?oc=5",
-   "summary": "Congress skeptical as Trump officials seek $50B for air travel system&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-18T03:06:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -7306,6 +7337,20 @@
    "tag_v": 2
   },
   {
+   "id": "5b23ce3b7779",
+   "title": "A man destroyed a $60 million US military plane at an Irish airport, prosecutors say - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa3AyMTItZDFjWDZMOEsxeTFPQi1tVFVxczhaY3JLaXNvSWhsaUhwTUd4ZXJwdEZxR2YxRFVfVWl5TWtPRGRQaThjWHB6akVZcmE1VHJzZ0MwblV3cFlucno5UndhQ0ktMmNXMXRRWFByY0d5bU1nTTFuZVhIelU0Rk5lVUVuczVSSk8teVJFNnRHbVlEMTFCVm8xcS1wRXVad2c?oc=5",
+   "summary": "A man destroyed a $60 million US military plane at an Irish airport, prosecutors say&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-17T21:47:24+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "66d65d093a2e",
    "title": "AAR Corp issues $1.92 billion in senior notes to finance MRO Holdings acquisition",
    "link": "https://www.investing.com/news/sec-filings/aar-corp-issues-192-billion-in-senior-notes-to-finance-mro-holdings-acquisition-93CH-5034145",
@@ -7641,20 +7686,6 @@
    "published": "2026-11-17T21:37:00+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5b23ce3b7779",
-   "title": "A man destroyed a $60 million US military plane at an Irish airport, prosecutors say - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa3AyMTItZDFjWDZMOEsxeTFPQi1tVFVxczhaY3JLaXNvSWhsaUhwTUd4ZXJwdEZxR2YxRFVfVWl5TWtPRGRQaThjWHB6akVZcmE1VHJzZ0MwblV3cFlucno5UndhQ0ktMmNXMXRRWFByY0d5bU1nTTFuZVhIelU0Rk5lVUVuczVSSk8teVJFNnRHbVlEMTFCVm8xcS1wRXVad2c?oc=5",
-   "summary": "A man destroyed a $60 million US military plane at an Irish airport, prosecutors say&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-17T21:37:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8887,36 +8918,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "4593d01392a3",
-   "title": "CytomX Therapeutics Announces Milestone Achievement in Strategic Collaboration with Regeneron in the Field of Conditionally Activated Bispecifics | CTMX Stock News",
-   "link": "https://www.stocktitan.net/news/CTMX/cytom-x-therapeutics-announces-milestone-achievement-in-strategic-u4j1pg9k883u.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-17T21:15:00+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "137d7930a472",
-   "title": "Greif Announces Planned CFO Succession | GEF Stock News",
-   "link": "https://www.stocktitan.net/news/GEF/greif-announces-planned-cfo-utswfjynjgsp.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-17T21:15:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8944,7 +8945,6 @@
   "ICE": "Intercontinental Exchange",
   "IWV": "iShares Russell 3000 Fund",
   "ODFL": "Old Dominion Freight Line",
-  "REGN": "Regeneron Pharmaceuticals",
   "APO": "Apollo Global Management",
   "FAF": "First American Financial",
   "MDGL": "Madrigal Pharmaceuticals",
@@ -8978,6 +8978,7 @@
   "GIL": "Gildan Activewear",
   "JNJ": "Johnson & Johnson",
   "LPX": "Louisiana-Pacific",
+  "MU": "Micron Technology",
   "POWL": "Powell Industries",
   "RF": "Regions Financial",
   "RIVN": "Rivian Automotive",
