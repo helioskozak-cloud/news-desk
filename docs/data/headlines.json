@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T04:51:39.105226+00:00",
+ "generated": "2026-11-18T04:56:02.200623+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,9 +11,37 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-18T04:46:25+00:00",
+   "published": "2026-11-18T04:53:20+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "2f5fb98cd072",
+   "title": "Cotton Bounces on Turnaround Tuesday",
+   "link": "https://www.nasdaq.com/articles/cotton-bounces-turnaround-tuesday",
+   "summary": "Cotton futures posted gains of 20 to 48 points across the board on Tuesday, holding early gains into the close. Crude oil was down 11 cents per barrel on the session to $85.61, with the US dollar index $0.020 lower. Crop Progress data showed the US cotton harvest at 77%...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T04:49:30+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8ed35b6104d0",
+   "title": "Soybeans Fail to Hold Front Month Gains on Tuesday",
+   "link": "https://www.nasdaq.com/articles/soybeans-fail-hold-front-month-gains-tuesday",
+   "summary": "Soybeans rounded out Tuesday trade with contracts fractionally to 3 ½ cents lower in the front months and fractionally to 6 cents higher in other contracts. The cmdtyView national average Cash Bean price was down 1/2 cents at $11.67 1/4. Soymeal futures were 60 cents to $3.10 higher on the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T04:49:30+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -61,6 +89,23 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "42c335bb82e0",
+   "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.03% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.72%. December E-mini S&amp;P futures (ESZ26 ) fell -1.07%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T04:36:07+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -133,23 +178,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "42c335bb82e0",
-   "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.03% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.72%. December E-mini S&amp;P futures (ESZ26 ) fell -1.07%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T04:25:46+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -411,20 +439,6 @@
    "published": "2026-11-18T03:45:43+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2f5fb98cd072",
-   "title": "Cotton Bounces on Turnaround Tuesday",
-   "link": "https://www.nasdaq.com/articles/cotton-bounces-turnaround-tuesday",
-   "summary": "Cotton futures posted gains of 20 to 48 points across the board on Tuesday, holding early gains into the close. Crude oil was down 11 cents per barrel on the session to $85.61, with the US dollar index $0.020 lower. Crop Progress data showed the US cotton harvest at 77%...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T03:42:46+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -988,20 +1002,6 @@
    "tag_v": 2
   },
   {
-   "id": "7b922581d8e1",
-   "title": "Congress skeptical as Trump officials seek $50B for air travel system - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmtpWWREWHk0ZEcyS2RsT054VXhvR04yVlM5VndWRk12eW9SRThmdzlGbDVoajY1Rm1hcWRkeEJsSE51dHNNRlFpbVN0bHBhSkhYLV9lTEh6Z3c1TlZRdGFzTk5TeXdYU2JiQTNKZ3E1M3RKS1lnZGhCX0Y4SVBpVUtfeXNkM2otOHcxQS1ib3p4bGloVzJ1cldSVVBYSG9UVmQ0MjN3?oc=5",
-   "summary": "Congress skeptical as Trump officials seek $50B for air travel system&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-18T03:06:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "a7f29f910d28",
    "title": "UnitedHealth Keeps Raising Guidance. Here's What a $10,000 Investment Could Be Worth if the Turnaround Sticks.",
    "link": "https://www.nasdaq.com/articles/unitedhealth-keeps-raising-guidance-heres-what-10000-investment-could-be-worth-if",
@@ -1154,20 +1154,6 @@
    "category": "stocks",
    "domain": "investing.com",
    "published": "2026-11-18T02:55:47+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "8ed35b6104d0",
-   "title": "Soybeans Fail to Hold Front Month Gains on Tuesday",
-   "link": "https://www.nasdaq.com/articles/soybeans-fail-hold-front-month-gains-tuesday",
-   "summary": "Soybeans rounded out Tuesday trade with contracts fractionally to 3 ½ cents lower in the front months and fractionally to 6 cents higher in other contracts. The cmdtyView national average Cash Bean price was down 1/2 cents at $11.67 1/4. Soymeal futures were 60 cents to $3.10 higher on the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T02:54:31+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
@@ -8909,6 +8895,20 @@
    "published": "2026-11-17T21:27:39+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6632a0538c2c",
+   "title": "US loses its measles-free status. Here’s how the Trump administration has responded to outbreaks - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHo3X3NlSVNnU1B1MWtwc1I1NElNaWtNSmQtZFlGNHZNZkFzMFFQOElPTlNiU3NXSFRqX0JRejBoWUZIbWZpY0U4dUgxMDFJaXJ5MmVfYVJsY014aTh3dDBpVEl3clJKeTBRRXpfMXRNQkhHS1FoU1VTMWJGbVJIWi1VNUtkcUdWUGhMS0JmSllQZ0FqbUxobm1xNA?oc=5",
+   "summary": "US loses its measles-free status. Here’s how the Trump administration has responded to outbreaks&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-17T21:21:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   }
