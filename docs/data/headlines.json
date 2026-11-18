@@ -1,19 +1,51 @@
 {
- "generated": "2026-11-18T22:21:18.307094+00:00",
+ "generated": "2026-11-18T22:26:14.386980+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
    "id": "1cc7b072b396",
-   "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
+   "title": "Dealbook Summit 2026 live updates: Microsoft CEO apologizes for Outlook outage, says AI speeds up cycle for software fixes",
    "link": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
    "summary": "Follow the discussion of AI, business and politics at the DealBook Summit 2026.",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-18T22:19:16+00:00",
+   "published": "2026-11-18T22:24:56+00:00",
+   "tickers": [
+    "MSFT"
+   ],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0f9523c463e4",
+   "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+   "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+   "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T22:24:27+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f4b000a6c792",
+   "title": "REEcycle Holdings, Inc. and Hall Chadwick Acquisition Corp. Announce Additional $15.0 Million PIPE Commitments from Leading Institutional Stockholders | HCAC Stock News",
+   "link": "https://www.stocktitan.net/news/HCAC/re-ecycle-holdings-inc-and-hall-chadwick-acquisition-corp-announce-btpk252u2ago.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-18T22:22:00+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -43,6 +75,22 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "69e23f6352af",
+   "title": "Stock Market Today, Nov. 18: Nvidia Slips on Strong Results as Succession and China Business Risks Weigh",
+   "link": "https://www.nasdaq.com/articles/stock-market-today-nov-18-nvidia-slips-strong-results-succession-and-china-business-risks",
+   "summary": "Nvidia (NASDAQ:NVDA), the leading AI accelerators, GPUs, and data-center networking systems provider, closed at $150.96, down 2.89%. Strong quarterly results and upbeat revenue guidance initially lifted the stock, but investors are now watching succession uncertainty and China-re",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T22:11:35+00:00",
+   "tickers": [
+    "NVDA"
+   ],
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -102,6 +150,69 @@
    "tag_v": 2
   },
   {
+   "id": "7061ede787fd",
+   "title": "US Foods: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/us-foods-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsIndependent restaurant case volume grew 5% during the third quarter.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T22:05:02+00:00",
+   "tickers": [
+    "USFD"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "56403481c4d8",
+   "title": "Stock Market Today, Nov. 18: CoreWeave Slides as Nvidia's Blowout Earnings Fail to Ease Debt Concerns",
+   "link": "https://www.nasdaq.com/articles/stock-market-today-nov-18-coreweave-slides-nvidias-blowout-earnings-fail-ease-debt",
+   "summary": "CoreWeave (NASDAQ:CRWV) fell 4.13% on Wednesday, November 18, closing at $47.83. Strong quarterly earnings from Nvidia (NASDAQ:NVDA) initially lifted CoreWeave shares in premarket trading, but those gains quickly evaporated as investors shifted their attention back to the company",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T22:05:02+00:00",
+   "tickers": [
+    "CRWV",
+    "NVDA"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "f054f26e133a",
+   "title": "Performance Food Group: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/performance-food-group-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsPerformance Food Group achieved 5.5% net sales growth in fiscal Q1.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T22:05:02+00:00",
+   "tickers": [
+    "PFGC"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c1e90b362b61",
+   "title": "B&G Foods: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/bg-foods-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsB&amp;G Foods raised its full-year net sales and adjusted EBITDA guidance.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T22:05:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "313428d091da",
    "title": "Kohl’s Corporation Declares Quarterly Dividend | KSS Stock News",
    "link": "https://www.stocktitan.net/news/KSS/kohl-s-corporation-declares-quarterly-pu6aglngjgm0.html",
@@ -156,22 +267,6 @@
    "published": "2026-11-18T22:04:30+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0f9523c463e4",
-   "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 8% on earnings",
-   "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
-   "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-11-18T22:03:58+00:00",
-   "tickers": [
-    "PANW"
-   ],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -621,6 +716,22 @@
    "tag_v": 2
   },
   {
+   "id": "6ab01a7d4c67",
+   "title": "Where Will Palantir Stock Be in 1 Year?",
+   "link": "https://www.nasdaq.com/articles/where-will-palantir-stock-be-1-year-1",
+   "summary": "Key PointsPalantir is growing rapidly, led by enormous growth in its U.S. commercial business.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T21:59:02+00:00",
+   "tickers": [
+    "PLTR"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "705bc6586e9b",
    "title": "Stocks making the biggest moves after hours: Palo Alto Networks, Everpure, CrowdStrike & more",
    "link": "https://www.cnbc.com/2026/11/18/stocks-moving-the-most-today-live-updates.html",
@@ -744,6 +855,20 @@
    "tag_v": 2
   },
   {
+   "id": "968ef4703ba0",
+   "title": "3 Energy Stocks With Dividends Built to Last the Next 10 Years",
+   "link": "https://www.nasdaq.com/articles/3-energy-stocks-dividends-built-last-next-10-years",
+   "summary": "Key PointsChevron&rsquo;s scale and diversification make it an evergreen investment.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T21:55:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "918338df15c5",
    "title": "OTTAWA BANCORP, INC. ANNOUNCES CASH DIVIDEND | OTTW Stock News",
    "link": "https://www.stocktitan.net/news/OTTW/ottawa-bancorp-inc-announces-cash-bqnjyrd6r746.html",
@@ -826,6 +951,20 @@
    "published": "2026-11-18T21:49:28+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6ae34441a5f0",
+   "title": "Helmerich & Payne Inc. Q4 Earnings Summary",
+   "link": "https://www.nasdaq.com/articles/helmerich-payne-inc-q4-earnings-summary",
+   "summary": "(RTTNews) - Below are the earnings highlights for Helmerich & Payne Inc. (HP):",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T21:49:16+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1261,12 +1400,12 @@
    "title": "RSI Alert: Sohu.com (SOHU) Now Oversold",
    "link": "https://www.nasdaq.com/articles/rsi-alert-sohucom-sohu-now-oversold",
    "summary": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-18T21:34:35+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1275,12 +1414,12 @@
    "title": "Oversold Conditions For Midland States Bancorp (MSBI)",
    "link": "https://www.nasdaq.com/articles/oversold-conditions-midland-states-bancorp-msbi",
    "summary": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-18T21:34:21+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1289,12 +1428,12 @@
    "title": "Air Global Shares Becomes Oversold (AIIR)",
    "link": "https://www.nasdaq.com/articles/air-global-shares-becomes-oversold-aiir",
    "summary": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-18T21:34:18+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1319,12 +1458,12 @@
    "title": "Strategy Becomes Oversold (STRC)",
    "link": "https://www.nasdaq.com/articles/strategy-becomes-oversold-strc",
    "summary": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
-   "published": "2026-11-18T21:34:10+00:00",
+   "published": "2026-11-18T21:34:11+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1333,12 +1472,12 @@
    "title": "Sprott Physical Copper Trust Units is Now Oversold (SCOP)",
    "link": "https://www.nasdaq.com/articles/sprott-physical-copper-trust-units-now-oversold-scop",
    "summary": "Legendary investor Warren Buffett advises to be fearful when others are greedy, and be greedy when others are fearful. One way we can try to measure the level of fear in a given stock is through a technical analysis indicator called the Relative Strength Index, or RSI, which me",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-18T21:34:06+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -4463,6 +4602,20 @@
    "tag_v": 2
   },
   {
+   "id": "5e82cc28c823",
+   "title": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations - AP News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNU5oVy1LNFdSWUFIbTV3RkNqQlJNWWdlb3pJNUxOV3ZRMU02TjFOV0VBUGVoRDhLOEU0SHpSTl9YMEwtN1pVSV9rQ0I0cUZvRFptd1NGUks3ci0zekpiSmZKMmJobUZfcTZpS1YyVkZCbVR4U3RKQ1F6TUlXU2x5VmdDZ2V1empCQVViM3NNVDhPc1NtMU5IeENVZWlNQQ?oc=5",
+   "summary": "After a 13-year wait, ‘Grand Theft Auto VI’ arrives with enormous hype and expectations&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-18T20:43:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "8989cdefbd7f",
    "title": "City Holding Company announces $1.00 dividend payable in January 2027",
    "link": "https://www.investing.com/news/sec-filings/city-holding-company-announces-100-dividend-payable-in-january-2027-93CH-5036942",
@@ -4513,6 +4666,20 @@
    "category": "markets",
    "domain": "investing.com",
    "published": "2026-11-18T20:36:35+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4bef7067cbad",
+   "title": "St. Peter’s Basilica marks 400 years at the heart of Roman Catholicism - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUxEbnJ0eG1FXzFpejEzTFdXaVY0dmpnbDZxMm1JaGN2TDl3U2lTRWdBWWtOX3VpNHNjZEJqb2podlIwNHItM1N2aWpIV0o0UjJNVDMtZFYtVEZmUy1vSmNSTXF1N3dnTzVsck1nSl9HZFhZLTRUckMxb1FIdGlyRWNJVmc0ckZWR3JscmZtNUE5ZG9PM1ctcy14YnpWZ00wUVhtQy1DaXZreU5NVGNHTU1nNA?oc=5",
+   "summary": "St. Peter’s Basilica marks 400 years at the heart of Roman Catholicism&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-18T20:35:00+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -8590,20 +8757,6 @@
    "tag_v": 2
   },
   {
-   "id": "4bef7067cbad",
-   "title": "St. Peter’s Basilica marks 400 years at the heart of Roman Catholicism - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUxEbnJ0eG1FXzFpejEzTFdXaVY0dmpnbDZxMm1JaGN2TDl3U2lTRWdBWWtOX3VpNHNjZEJqb2podlIwNHItM1N2aWpIV0o0UjJNVDMtZFYtVEZmUy1vSmNSTXF1N3dnTzVsck1nSl9HZFhZLTRUckMxb1FIdGlyRWNJVmc0ckZWR3JscmZtNUE5ZG9PM1ctcy14YnpWZ00wUVhtQy1DaXZreU5NVGNHTU1nNA?oc=5",
-   "summary": "St. Peter’s Basilica marks 400 years at the heart of Roman Catholicism&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-18T17:38:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "7260a7fb092a",
    "title": "4 Financial Stocks to Buy That Gained in 2022's Bear Market While the S&P 500 Lost 19%",
    "link": "https://www.nasdaq.com/articles/4-financial-stocks-buy-gained-2022s-bear-market-while-sp-500-lost-19",
@@ -8760,164 +8913,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "7a111c5ebd3a",
-   "title": "Ackman blasts Nvidia board over Jensen Huang exit, questions fiduciary duties",
-   "link": "https://www.investing.com/news/stock-market-news/ackman-blasts-nvidia-board-over-jensen-huang-exit-questions-fiduciary-duties-5036745",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-18T17:30:07+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "bd08210a863f",
-   "title": "Stock Market Midday, Nov. 18: Nvidia Doubles Revenue, but Wall Street's Sell-Off Continues",
-   "link": "https://www.nasdaq.com/articles/stock-market-midday-nov-18-nvidia-doubles-revenue-wall-streets-sell-continues",
-   "summary": "Wall Street's recent sell-off continued on Wednesday, November 18, as another round of strong corporate earnings, headlined by Nvidia (NASDAQ:NVDA), failed to restore investor confidence. As of 11:32 a.m. ET, the S&amp;P 500 (SNPINDEX:^GSPC) was down 0.48% to 7,305, while the Nas",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T17:30:02+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "abc316aa64b8",
-   "title": "Amazon and Alphabet Will Own Over 28% of Anthropic After Its IPO. Here’s What That Means for Their Stocks.",
-   "link": "https://www.nasdaq.com/articles/amazon-and-alphabet-will-own-over-28-anthropic-after-its-ipo-heres-what-means-their-stocks",
-   "summary": "Key PointsEarly investments by Amazon and Alphabet into the leading AI lab have grown into substantial stakes.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T17:30:02+00:00",
-   "tickers": [
-    "GOOG",
-    "AMZN"
-   ],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9f9352d3cb59",
-   "title": "Raytheon Awards Ursa Major and Avio USA a Joint Contract to Develop Solid Rocket Motors for the U.S. Navy's Tactical Tomahawk Missile Program",
-   "link": "https://www.prnewswire.com/news-releases/raytheon-awards-ursa-major-and-avio-usa-a-joint-contract-to-develop-solid-rocket-motors-for-the-us-navys-tactical-tomahawk-missile-program-302943557.html",
-   "summary": "ARLINGTON, Va. and BERTHOUD, Colo., Nov. 18, 2026 /PRNewswire/ -- Ursa Major and Avio USA have been awarded a joint contract by Raytheon, an RTX business, to design, develop and qualify a new solid rocket motor booster for the Raytheon-produced Tomahawk® cruise missile. The award creates...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-18T17:30:00+00:00",
-   "tickers": [
-    "RTX"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cc86b4f422bc",
-   "title": "SPLASH DOWN! BUSCH GARDENS TAMPA BAY TO DEBUT EXHILARATING NEW WATER RIDE - NORTH AMERICA'S FIRST AND WORLD'S FASTEST LAUNCHED WATER COASTER | PRKS Stock News",
-   "link": "https://www.stocktitan.net/news/PRKS/splash-down-busch-gardens-tampa-bay-to-debut-exhilarating-new-water-6mb9r66sy55x.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-18T17:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "26fd9ed7cded",
-   "title": "Nexstar Media Group to Participate in Three Upcoming Investor Conferences | NXST Stock News",
-   "link": "https://www.stocktitan.net/news/NXST/nexstar-media-group-to-participate-in-three-upcoming-investor-nlix5nnqg87w.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-18T17:30:00+00:00",
-   "tickers": [
-    "NXST"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f965db529e4d",
-   "title": "RiverMeadow Announces Support for Azure Local RackScale",
-   "link": "https://www.prnewswire.com/news-releases/rivermeadow-announces-support-for-azure-local-rackscale-302944205.html",
-   "summary": "Workload mobility and modernization for enterprises adopting Microsoft's multi-rack infrastructure LOS GATOS, Calif., Nov. 18, 2026 /PRNewswire/ -- RiverMeadow today announced support for Azure Local RackScale, extending its Workload Mobility Platform to Microsoft's multi-rack deployment...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-18T17:26:00+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a5dabbedcdc6",
-   "title": "Medline launches right-sized Ranpak packaging solutions in two key distribution centers",
-   "link": "https://www.prnewswire.com/news-releases/medline-launches-right-sized-ranpak-packaging-solutions-in-two-key-distribution-centers-302944206.html",
-   "summary": "Facilities in Grayslake, Ill., and Katy, Texas, helping to make healthcare run better NORTHFIELD, Ill., Nov. 18, 2026 /PRNewswire/ -- Medline (Nasdaq: MDLN), the largest provider of medical-surgical products and supply chain solutions serving all points of care, and Ranpak Holdings Corp.,...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-18T17:26:00+00:00",
-   "tickers": [
-    "MDLN"
-   ],
-   "type": "press",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "f221008135b2",
-   "title": "Medline launches right-sized Ranpak packaging solutions in two key distribution centers | MDLN Stock News",
-   "link": "https://www.stocktitan.net/news/MDLN/medline-launches-right-sized-ranpak-packaging-solutions-in-two-key-fmxa2debr3z1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-18T17:26:00+00:00",
-   "tickers": [
-    "MDLN"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "51b93cbdafa8",
-   "title": "What's Going On With Nebius Group Stock Wednesday?",
-   "link": "https://www.benzinga.com/markets/tech/26/11/63400401/whats-going-on-with-nebius-group-stock-wednesday-2",
-   "summary": "Nebius Group N.V. (NASDAQ:NBIS) stock traded nearly flat Wednesday, reversing earlier gains as investors weighed NVIDIA Corp.&#8217;s (NASDAQ:NVDA) strong quarterly results against concerns about future financing for AI cloud infrastructure providers. Nebius climbed about 4% in premarket trading before giving up those gains during the regular session. On Tuesday, NVIDIA reported revenue of $115.84 billion, exceeding the $109.08 billion analyst estimate. Adjusted earnings of $2.68 per share beat ",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-18T17:24:56+00:00",
-   "tickers": [
-    "NBIS",
-    "NVDA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8949,11 +8944,13 @@
   "SMH": "VanEck Semiconductor ETF",
   "GS": "The Goldman Sachs Group",
   "LPLA": "LPL Financial Holdings",
+  "PFGC": "Performance Food Group",
   "WBD": "Warner Bros. Discovery",
   "CZR": "Caesars Entertainment",
   "EAT": "Brinker International",
   "HBAN": "Huntington Bancshares",
   "LHX": "L3Harris Technologies",
+  "PLTR": "Palantir Technologies",
   "TIP": "iShares TIPS Bond ETF",
   "BAX": "Baxter International",
   "BMY": "Bristol-Myers Squibb",
@@ -8962,7 +8959,6 @@
   "MOD": "Modine Manufacturing",
   "ONB": "Old National Bancorp",
   "LULU": "lululemon athletica",
-  "NXST": "Nexstar Media Group",
   "DRI": "Darden Restaurants",
   "NYT": "The New York Times",
   "PANW": "Palo Alto Networks",
@@ -8983,6 +8979,7 @@
   "JPM": "JPMorgan Chase &",
   "LOW": "Lowe's Companies",
   "NSC": "Norfolk Southern",
+  "USFD": "US Foods Holding",
   "GE": "General Electric",
   "ACHR": "Archer Aviation",
   "ASTS": "AST SpaceMobile",
@@ -9015,7 +9012,6 @@
   "BF-B": "Brown-Forman",
   "IREN": "IREN Limited",
   "MKL": "Markel Group",
-  "NBIS": "Nebius Group",
   "STT": "State Street",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
@@ -9051,11 +9047,9 @@
   "GOOG": "Alphabet",
   "MTB": "M&T Bank",
   "WWD": "Woodward",
-  "RTX": "Raytheon",
   "GDDY": "GoDaddy",
   "IVZ": "Invesco",
   "MDB": "MongoDB",
-  "MDLN": "Medline",
   "PEP": "PepsiCo",
   "PODD": "Insulet",
   "SNDK": "Sandisk",
