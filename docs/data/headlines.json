@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-18T13:52:46.711072+00:00",
+ "generated": "2026-11-18T13:56:21.739403+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8021797556d1",
+   "title": "Nasdaq futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+   "summary": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T13:54:58+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "d3a5cfa5667c",
+   "title": "Halff Announces Carpenter as Chief People Officer, Hollis as Chief Delivery Officer",
+   "link": "https://www.prnewswire.com/news-releases/halff-announces-carpenter-as-chief-people-officer-hollis-as-chief-delivery-officer-302943285.html",
+   "summary": "RICHARDSON, Texas, Nov. 18, 2026 /PRNewswire/ -- Halff, an employee-owned, full-service infrastructure consulting firm, has announced Greg Carpenter, SPHR, SHRM-SCP, will join its Leadership Team as chief people officer, while Leigh Hollis, PE, will serve as chief delivery officer. As...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-18T13:53:00+00:00",
+   "tickers": [
+    "SPHR"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "60748666a73c",
    "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
@@ -31,20 +61,6 @@
    ],
    "type": "press",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8021797556d1",
-   "title": "Nasdaq futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
-   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
-   "summary": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-18T13:49:19+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -429,7 +445,7 @@
    "title": "Amid Market Uncertainty, Tower Sealants Delivers High Performance and Greater Cost Confidence with AU-1 Construction Sealant",
    "link": "https://www.prnewswire.com/news-releases/amid-market-uncertainty-tower-sealants-delivers-high-performance-and-greater-cost-confidence-with-au-1-construction-sealant-302943225.html",
    "summary": "GAINESVILLE, Ga., Nov. 18, 2026 /PRNewswire/ -- Tower Sealants, is a leading American manufacturer of professional-grade caulks and sealants. While the U.S. construction industry faces compounding domestic cost spikes driven by volatile crude oil markets and rising international trade...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-11-18T13:41:00+00:00",
@@ -1409,6 +1425,23 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "42c335bb82e0",
+   "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -1.03% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.72%. December E-mini S&amp;P futures (ESZ26 ) fell -1.07%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T13:25:04+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8877,20 +8910,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c09980fbb13d",
-   "title": "MetaOptics Partners with Hong Kong's ASTRI to Develop a Next-Generation Nano-Optics Imaging System | MOTLY Stock News",
-   "link": "https://www.stocktitan.net/news/MOTLY/meta-optics-partners-with-hong-kong-s-astri-to-develop-a-next-edqbhada8gin.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-18T10:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8932,6 +8951,7 @@
   "ELAN": "Elanco Animal Health",
   "MOD": "Modine Manufacturing",
   "OXY": "Occidental Petroleum",
+  "SPHR": "Sphere Entertainment",
   "VOO": "Vanguard S&P 500 ETF",
   "RNA": "Avidity Biosciences",
   "ROK": "Rockwell Automation",
