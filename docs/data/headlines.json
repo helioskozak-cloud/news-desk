@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-18T10:46:12.232390+00:00",
+ "generated": "2026-11-18T10:51:11.755014+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8021797556d1",
+   "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+   "summary": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T10:49:45+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "962a7b927a4a",
+   "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
+   "link": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
+   "summary": "The dispute comes ahead of a planned meeting between Donald Trump, Vladimir Putin and Xi Jinping.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T10:49:37+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "a1239dd565ea",
    "title": "Walmart has a 5-foot storage cabinet with adjustable shelves for $110",
@@ -48,6 +76,23 @@
    "tag_v": 2
   },
   {
+   "id": "b8681ed32fc4",
+   "title": "Vanguard S&P 500 ETF vs. Schwab U.S. Dividend ETF: How Much You’d Need to Collect $1,000 a Month From Each.",
+   "link": "https://www.nasdaq.com/articles/vanguard-sp-500-etf-vs-schwab-us-dividend-etf-how-much-youd-need-collect-1000-month-each",
+   "summary": "Key PointsVOO collects dividend income from S&amp;P 500 members and distributes it to investors.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T10:35:02+00:00",
+   "tickers": [
+    "VOO",
+    "SCHW"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "bcdd9f8a6874",
    "title": "Alnylam at Jefferies Global Healthcare Conference: growth meets payer pressure",
    "link": "https://www.investing.com/news/transcripts/alnylam-at-jefferies-global-healthcare-conference-growth-meets-payer-pressure-93CH-5035352",
@@ -89,20 +134,6 @@
    "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-18T10:32:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "962a7b927a4a",
-   "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
-   "link": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
-   "summary": "The dispute comes ahead of a planned meeting between Donald Trump, Vladimir Putin and Xi Jinping.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-18T10:31:58+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -342,20 +373,6 @@
    "tickers": [],
    "type": "offering",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "8021797556d1",
-   "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
-   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
-   "summary": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-18T10:17:54+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8842,20 +8859,6 @@
    "type": "dividend",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "05a784bfc2e7",
-   "title": "Baidu: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/baidu-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsAI cloud infrastructure revenue increased 94% year over year in Q3.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T00:10:50+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8897,6 +8900,7 @@
   "CRWD": "CrowdStrike Holdings",
   "MANH": "Manhattan Associates",
   "SMCI": "Super Micro Computer",
+  "VOO": "Vanguard S&P 500 ETF",
   "BBAI": "BigBear.ai Holdings",
   "FIX": "Comfort Systems USA",
   "IP": "International Paper",
@@ -8905,6 +8909,7 @@
   "ZM": "Zoom Communications",
   "MRVL": "Marvell Technology",
   "PANW": "Palo Alto Networks",
+  "SCHW": "The Charles Schwab",
   "STM": "STMicroelectronics",
   "RBLX": "Roblox Corporation",
   "AUR": "Aurora Innovation",
