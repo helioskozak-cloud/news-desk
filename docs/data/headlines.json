@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-18T09:31:51.418361+00:00",
+ "generated": "2026-11-18T09:36:17.854696+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "50b958fcaf25",
+   "title": "Treasury yields hold steady as investors look ahead to Fed minutes",
+   "link": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html",
+   "summary": "U.S. Treasury yields were broadly flat on Wednesday, as Wall Street awaits the release of the latest FOMC minutes.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T09:32:43+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "18f16c291465",
+   "title": "Ardagh Metal Packaging S.A. Launches €1,250 Million Senior Secured Floating Rate Green Notes Offering",
+   "link": "https://www.prnewswire.com/news-releases/ardagh-metal-packaging-sa-launches-1-250-million-senior-secured-floating-rate-green-notes-offering-302943627.html",
+   "summary": "LUXEMBOURG, Nov. 18, 2026 /PRNewswire/ -- Ardagh Metal Packaging S.A. (\"AMP\") has today launched an offering of €1,250 million senior secured floating rate green notes (the \"Notes\"). Net proceeds from the issuance of the Notes will be used (i) to fund the redemption of AMP's $600 million...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-18T09:32:00+00:00",
+   "tickers": [
+    "AMP"
+   ],
+   "type": "offering",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "9397a937b157",
    "title": "Jacobs selected as key supply partner for Anglian Water’s Major Projects Framework | J Stock News",
@@ -31,6 +61,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "9105d43d88d6",
+   "title": "Epic Gold Announces Updated Benoist Gold Project Mineral Resource Estimate with 150,700 Indicated Ounces at 2.26 g/t Au and 86,900 Inferred Ounces at 1.67 g/t Au | NFLDF Stock News",
+   "link": "https://www.stocktitan.net/news/NFLDF/epic-gold-announces-updated-benoist-gold-project-mineral-resource-e7hsdk2z4tyq.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-18T09:30:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8802,48 +8846,6 @@
    "type": "legal",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "826f1843b863",
-   "title": "Italy approves antisemitism law as debate over criticism of Israel intensifies - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOU1aSGFJenFpNGN1V2cxQVQyandHOV9USTRwVWJmREJHSmJyRTNzV01YelFZYnBvSmV3dGxCclNaMTZTQ1F6M25peVJvX1lGVHRNRlp0aFlHUzc4ZV9pSEhXWl93WXk0aUhoeGc4b3dqaWkwMDNTTmgwTzRnM3pDemtqQXBxeTdLTWt6b0paSWZSTFUyOENOUzY4TGZ0VjUzRlhn?oc=5",
-   "summary": "Italy approves antisemitism law as debate over criticism of Israel intensifies&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-17T23:10:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "e34c7247deec",
-   "title": "Nvidia quarterly revenue doubles in first report since Huang’s shock exit as CEO",
-   "link": "https://www.investing.com/news/earnings/nvidia-quarterly-results-beat-estimates-5033943",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-17T23:09:02+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7df40f90d1eb",
-   "title": "Webjet 1H27 slides: EBITDA drops 51% amid disruption, Q2 shows momentum",
-   "link": "https://www.investing.com/news/company-news/webjet-1h27-slides-ebitda-drops-51-amid-disruption-q2-shows-momentum-93CH-5034314",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-17T23:08:49+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8873,6 +8875,7 @@
   "VRTX": "Vertex Pharmaceuticals",
   "ZBH": "Zimmer Biomet Holdings",
   "PLTR": "Palantir Technologies",
+  "AMP": "Ameriprise Financial",
   "BIO": "Bio-Rad Laboratories",
   "BMY": "Bristol-Myers Squibb",
   "CRWD": "CrowdStrike Holdings",
