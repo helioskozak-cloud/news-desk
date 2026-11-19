@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T23:11:14.430628+00:00",
+ "generated": "2026-11-19T23:16:13.133494+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,26 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-19T23:08:02+00:00",
+   "published": "2026-11-19T23:12:19+00:00",
    "tickers": [],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "7580915792d2",
+   "title": "Gaming and Leisure Properties Announces Pricing of $600,000,000 of 6.250% Senior Notes Due 2031 | GLPI Stock News",
+   "link": "https://www.stocktitan.net/news/GLPI/gaming-and-leisure-properties-announces-pricing-of-600-000-000-of-6-80rcqo0xxztx.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T23:12:00+00:00",
+   "tickers": [
+    "GLPI"
+   ],
+   "type": "offering",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -103,53 +119,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "67eda646bb59",
-   "title": "Larger-Than-Average Storage Build Knocks Nat-Gas Prices Lower",
-   "link": "https://www.nasdaq.com/articles/larger-average-storage-build-knocks-nat-gas-prices-lower",
-   "summary": "December Nymex natural gas (NGZ26 ) closed down -0.104 (-3.08%) on Thursday. Dec nat-gas prices settled sharply lower on Thursday as a larger-than-average build in weekly storage weighed on prices. The EIA reported Thursday that nat-gas inventories rose by +20 bcf in the week ended November 13, above the five-year...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T23:01:44+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "d7adf7a55c56",
-   "title": "Ecuador Flooding Sparks Short Covering in Cocoa Futures",
-   "link": "https://www.nasdaq.com/articles/ecuador-flooding-sparks-short-covering-cocoa-futures",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +216 (+4.46%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +135 (+3.61%). Cocoa prices settled sharply higher on Thursday as floods in Ecuador sparked short covering in cocoa futures. Heavy rains in Ecuador caused flooding that destroyed rural roads,...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T23:01:44+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f8fe8aab5f4f",
-   "title": "Stocks Climb on AI Optimism After Strong Debut for Anthropic",
-   "link": "https://www.nasdaq.com/articles/stocks-climb-ai-optimism-after-strong-debut-anthropic",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +1.13% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.30%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.00%. December E-mini S&amp;P futures (ESZ26 ) are up +0.85%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T23:01:43+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -362,23 +331,6 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1551995a0338",
-   "title": "Reduced Coffee Exports from Colombia Boosts Arabica Prices",
-   "link": "https://www.nasdaq.com/articles/reduced-coffee-exports-colombia-boosts-arabica-prices",
-   "summary": "March arabica coffee (KCH26 ) closed up +0.55 (+0.20%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -41 (-1.36%). Coffee prices settled mixed on Thursday, with robusta falling to a 2.75-year low. Arabica coffee erased early losses and moved higher Thursday after the USDA’s FAS cut its...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T22:56:20+00:00",
-   "tickers": [
-    "ICE",
-    "FAS"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -628,6 +580,36 @@
    "tag_v": 2
   },
   {
+   "id": "67eda646bb59",
+   "title": "Larger-Than-Average Storage Build Knocks Nat-Gas Prices Lower",
+   "link": "https://www.nasdaq.com/articles/larger-average-storage-build-knocks-nat-gas-prices-lower",
+   "summary": "December Nymex natural gas (NGZ26 ) closed down -0.104 (-3.08%) on Thursday. Dec nat-gas prices settled sharply lower on Thursday as a larger-than-average build in weekly storage weighed on prices. The EIA reported Thursday that nat-gas inventories rose by +20 bcf in the week ended November 13, above the five-year...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:45:09+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "d7adf7a55c56",
+   "title": "Ecuador Flooding Sparks Short Covering in Cocoa Futures",
+   "link": "https://www.nasdaq.com/articles/ecuador-flooding-sparks-short-covering-cocoa-futures",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed up +216 (+4.46%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +135 (+3.61%). Cocoa prices settled sharply higher on Thursday as floods in Ecuador sparked short covering in cocoa futures. Heavy rains in Ecuador caused flooding that destroyed rural roads,...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:45:09+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "d5edf303b9f8",
    "title": "Stocks Erase Early Gains as Anthropic Optimism Fades",
    "link": "https://www.nasdaq.com/articles/stocks-erase-early-gains-anthropic-optimism-fades",
@@ -636,6 +618,23 @@
    "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-19T22:45:09+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "f8fe8aab5f4f",
+   "title": "Stocks Climb on AI Optimism After Strong Debut for Anthropic",
+   "link": "https://www.nasdaq.com/articles/stocks-climb-ai-optimism-after-strong-debut-anthropic",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +1.13% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.30%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.00%. December E-mini S&amp;P futures (ESZ26 ) are up +0.85%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:45:08+00:00",
    "tickers": [
     "SPY",
     "QQQ"
@@ -901,6 +900,23 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1551995a0338",
+   "title": "Reduced Coffee Exports from Colombia Boosts Arabica Prices",
+   "link": "https://www.nasdaq.com/articles/reduced-coffee-exports-colombia-boosts-arabica-prices",
+   "summary": "March arabica coffee (KCH26 ) closed up +0.55 (+0.20%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -41 (-1.36%). Coffee prices settled mixed on Thursday, with robusta falling to a 2.75-year low. Arabica coffee erased early losses and moved higher Thursday after the USDA’s FAS cut its...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:37:46+00:00",
+   "tickers": [
+    "ICE",
+    "FAS"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -3891,20 +3907,6 @@
    "tag_v": 2
   },
   {
-   "id": "cb00066ac49d",
-   "title": "Wall Street tumbles to its longest losing streak since 2024 as the Dow drops 1,100 points - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHVUbzYtdzBpNHpVbTdJWlVrRWpxZmJTVG15bS10TGN2ZzRJS29FYkoxcEgzNG9ZNGVhd1hoaHNLVzVfQ3RVYWprUFJWUnRHNm15U1BBUFc5Y2otZmltZHVCTkdySV96TzliMWFQU3o1X0g5cThPVWViMW8yYjBHWGJOamhvRGt2a0lBZUFzZTVTSURW?oc=5",
-   "summary": "Wall Street tumbles to its longest losing streak since 2024 as the Dow drops 1,100 points&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-19T21:21:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "8bca8fd69439",
    "title": "Diversified Energy closes $1.8 billion Permian Basin acquisition",
    "link": "https://www.investing.com/news/company-news/diversified-energy-closes-18-billion-permian-basin-acquisition-93CH-5040034",
@@ -4859,20 +4861,6 @@
    ],
    "type": "legal",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "9450411da48a",
-   "title": "Cincinnati Zoo says Fiona the hippo has died, days after ingesting a visitor’s hat - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1F6b2VpdzJoMkhmTGt0cEdfbm1xa3QwMTlWc1gyZlphbVR2eFVLMXpOeDRBVktXa25TNmkzSmttaFRjSDJnRC04SDJWSkRrRE1TUlJnYTBwMjV5dXNtb1dTbHNkQ2tDdnNLV1E4bEk1NWZjQUtRZ2h5QkIwWGJIdkQzRmUzbXlXYmVXUmJmdmd6dFFw?oc=5",
-   "summary": "Cincinnati Zoo says Fiona the hippo has died, days after ingesting a visitor’s hat&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-19T21:13:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8416,6 +8404,20 @@
    "tag_v": 2
   },
   {
+   "id": "c8344b4d1204",
+   "title": "Mississippi saw a spike in ‘inactive’ voters for the midterms. Democrats want answers - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYktTUnVhX1NLRlhrYURBTHo2aVpEZjVEZ3JLUnBVczIxYWJCYUh0WVA3a2hLT2FwZnN2NzFiSFNwa0ZxZktFdDA2Z3M4WlVua2xRVHJSb2JERHo5SmdfTlJjazc2VHV6TmM3eEp1TTN1U25hb09DTUNPdGNqNzhYaTFERm55djMtM0xPc1V4S0tDR1NCel82OEpabFlfdF9NSmRUWGZKOUY?oc=5",
+   "summary": "Mississippi saw a spike in ‘inactive’ voters for the midterms. Democrats want answers&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-19T19:47:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "3c8cc9550d2f",
    "title": "Rhino Bitcoin’s Strategic SPLD Holding Aligns Shareholders with Quantum-Secure Tokenization Infrastructure",
    "link": "https://markets.businessinsider.com/news/stocks/rhino-bitcoin-s-strategic-spld-holding-aligns-shareholders-with-quantum-secure-tokenization-infrastructure-1036785450",
@@ -8994,6 +8996,7 @@
   "FAS": "Direxion Financial Bull 3X Shares",
   "IBM": "International Business Machines",
   "QSR": "Restaurant Brands International",
+  "GLPI": "Gaming and Leisure Properties",
   "HII": "Huntington Ingalls Industries",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "MRSH": "Marsh & McLennan Companies",
