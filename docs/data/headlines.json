@@ -1,8 +1,743 @@
 {
- "generated": "2026-11-19T21:16:13.040078+00:00",
+ "generated": "2026-11-19T21:21:31.386780+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "454455ca50bb",
+   "title": "Carter’s, Inc. Announces Quarterly Dividend | CRI Stock News",
+   "link": "https://www.stocktitan.net/news/CRI/carter-s-inc-announces-quarterly-koav7pzrt0lw.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:20:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6ab2bcc2e7f1",
+   "title": "Dow closes below 50,000; Nasdaq falls 2% as Anthropic IPO fails to resuscitate AI trade: Live updates",
+   "link": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+   "summary": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-19T21:19:49+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "98c7ee95900a",
+   "title": "Anthropic shares jump in Nasdaq trading debut after record IPO",
+   "link": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
+   "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-19T21:18:04+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "83505d25bb4e",
+   "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit with SBS Law",
+   "link": "https://www.prnewswire.com/news-releases/qbts-investors-have-opportunity-to-lead-d-wave-quantum-inc-securities-fraud-lawsuit-with-sbs-law-302946095.html",
+   "summary": "LOS ANGELES, Nov. 19, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, reminds investors of a class action lawsuit against D-Wave Quantum Inc. (\"D-Wave\" or \"the Company\") (NASDAQ: QBTS) for violations of §§10(b) and 20(a) of the...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:18:00+00:00",
+   "tickers": [
+    "QBTS"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "2aa9514fd5ce",
+   "title": "Hallador Energy Receives Regulatory Approval for $1B, 12-Year Capacity Sale | HNRG Stock News",
+   "link": "https://www.stocktitan.net/news/HNRG/hallador-energy-receives-regulatory-approval-for-1b-12-year-capacity-ldtnz8nitguy.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:18:00+00:00",
+   "tickers": [],
+   "type": "fda",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "38203134d23b",
+   "title": "Target admits it made two major mistakes",
+   "link": "https://www.thestreet.com/retail/target-admits-it-made-two-major-mistakes",
+   "summary": "The retail giant shared a plan to fix the issues as Target continues its comeback.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-19T21:17:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "203be047b081",
+   "title": "EG Investors Have Opportunity to Lead Everest Group, Ltd. Securities Fraud Lawsuit with SBS Law",
+   "link": "https://www.prnewswire.com/news-releases/eg-investors-have-opportunity-to-lead-everest-group-ltd-securities-fraud-lawsuit-with-sbs-law-302946099.html",
+   "summary": "LOS ANGELES, Nov. 19, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Everest Group, Ltd. (\"Everest\" or \"the Company\") (NYSE: EG) for violations of §§10(b) and 20(a) of the...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:17:00+00:00",
+   "tickers": [
+    "EG"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "371c49774513",
+   "title": "Everest Group, Ltd. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - EG",
+   "link": "https://www.prnewswire.com/news-releases/everest-group-ltd-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--eg-302946092.html",
+   "summary": "NEW YORK, Nov. 19, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Everest Group, Ltd. (\"Everest\" or \"the Company\") (NYSE: EG) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder by the...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:17:00+00:00",
+   "tickers": [
+    "EG"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "fbb5c8f1f323",
+   "title": "LULU Investors Have Opportunity to Lead lululemon athletica inc. Securities Fraud Lawsuit with SBS Law",
+   "link": "https://www.prnewswire.com/news-releases/lulu-investors-have-opportunity-to-lead-lululemon-athletica-inc-securities-fraud-lawsuit-with-sbs-law-302946089.html",
+   "summary": "LOS ANGELES, Nov. 19, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, reminds investors of a class action lawsuit against lululemon athletica inc. (\"Lululemon\" or \"the Company\") (NASDAQ: LULU) for violations of §§10(b) and 20(a) of...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:17:00+00:00",
+   "tickers": [
+    "LULU"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e77132b81928",
+   "title": "The Boston Beer Company Names Phil Hodges President and Chief Executive Officer | SAM Stock News",
+   "link": "https://www.stocktitan.net/news/SAM/the-boston-beer-company-names-phil-hodges-president-and-chief-z1fmvx4gma14.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:17:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7e87ba2bdeb4",
+   "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+   "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
+   "summary": "Brokerage firms may put future IPO limits in place for investors who sell their Anthropic stake too soon.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-19T21:16:41+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "71cc8a871108",
+   "title": "Webull Reports Third Quarter 2026 Financial Results",
+   "link": "https://www.prnewswire.com/news-releases/webull-reports-third-quarter-2026-financial-results-302946152.html",
+   "summary": "Webull reports another strong quarter of growth, marked by record trading volumes and customer assets. Webull continues to invest behind strategic priorities, including enhanced offerings for its active traders, international expansion, and building out its institutional business. ST....",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "BULL"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "12e8fd168eaa",
+   "title": "GUIDEWIRE TO ANNOUNCE FIRST QUARTER FISCAL YEAR 2027 FINANCIAL RESULTS ON DECEMBER 3, 2026",
+   "link": "https://www.prnewswire.com/news-releases/guidewire-to-announce-first-quarter-fiscal-year-2027-financial-results-on-december-3-2026-302946006.html",
+   "summary": "SAN MATEO, Calif., Nov. 19, 2026 /PRNewswire/ -- Guidewire (NYSE: GWRE) announced that it will release its financial results for the fiscal quarter ended October 31, 2026 after market close on Thursday, December 3, 2026. On that day, management will host an audio webcast at 2:00 p.m. PT...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "GWRE"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "27e6c07158c7",
+   "title": "Lear Declares Quarterly Cash Dividend",
+   "link": "https://www.prnewswire.com/news-releases/lear-declares-quarterly-cash-dividend-302945725.html",
+   "summary": "SOUTHFIELD, Mich., Nov. 19, 2026 /PRNewswire/ -- Lear Corporation (NYSE: LEA), a global automotive technology leader in Seating and E-Systems, today announced that its Board of Directors has declared a quarterly cash dividend of $0.77 per share on the Company's common stock. The dividend...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "LEA"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "587138b19cc0",
+   "title": "Post Holdings Announces Medical Leave For Robert Vitale and Board Updates",
+   "link": "https://www.prnewswire.com/news-releases/post-holdings-announces-medical-leave-for-robert-vitale-and-board-updates-302945692.html",
+   "summary": "ST. LOUIS, Nov. 19, 2026 /PRNewswire/ -- Post Holdings, Inc. (NYSE: POST), a consumer packaged goods holding company, today announced that Executive Chairman Robert V. Vitale will be taking a medical leave of absence. Post's Board of Directors (the \"Board\") has named director Jeff A....",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "POST"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9db0ccf7386b",
+   "title": "Globant Reports 2026 Third Quarter Financial Results",
+   "link": "https://www.prnewswire.com/news-releases/globant-reports-2026-third-quarter-financial-results-302946001.html",
+   "summary": "LUXEMBOURG, Nov. 19, 2026 /PRNewswire/ -- Globant (NYSE: GLOB) today announced results for the three and nine months ended September 30, 2026. \"As an AI-native company, we are seeing our momentum accelerate, with AI Pods reaching an annualized run rate of $106.6 million in the third...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "GLOB"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a26307435891",
+   "title": "Carrier to Present at the Goldman Sachs 2026 Industrials and Materials Conference",
+   "link": "https://www.prnewswire.com/news-releases/carrier-to-present-at-the-goldman-sachs-2026-industrials-and-materials-conference-302945879.html",
+   "summary": "PALM BEACH GARDENS, Fla., Nov. 19, 2026 /PRNewswire/ -- Carrier Global Corporation (NYSE: CARR) Chairman & CEO David Gitlin will speak at the Goldman Sachs 2026 Industrials and Materials Conference on Thursday, Dec. 3, 2026, at 9:20 a.m. ET. The event will be broadcast live at...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "CARR",
+    "GS"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "02af0da1cff1",
+   "title": "The Home Depot Declares Quarterly Dividend of $2.33",
+   "link": "https://www.prnewswire.com/news-releases/the-home-depot-declares-quarterly-dividend-of-2-33--302946007.html",
+   "summary": "ATLANTA, Nov. 19, 2026 /PRNewswire/ -- The Home Depot®, the world's largest home improvement retailer, today announced that its board of directors declared a quarterly cash dividend of $2.33 per share. The dividend is payable on December 17, 2026, to shareholders of record on the close of...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "HD"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f11d1e9943a7",
+   "title": "Post Holdings Reports Results for the Fourth Quarter and Fiscal Year 2026",
+   "link": "https://www.prnewswire.com/news-releases/post-holdings-reports-results-for-the-fourth-quarter-and-fiscal-year-2026-302946066.html",
+   "summary": "ST. LOUIS, Nov. 19, 2026 /PRNewswire/ -- Post Holdings, Inc. (NYSE: POST), a consumer packaged goods holding company, today reported results for the fourth fiscal quarter and fiscal year ended September 30, 2026. Highlights: Fourth quarter net sales of $2.0 billion; operating profit of...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "POST"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1ce65b94796e",
+   "title": "Smith & Wesson Brands, Inc. Second Quarter Fiscal 2027 Financial Release and Conference Call Alert | SWBI Stock News",
+   "link": "https://www.stocktitan.net/news/SWBI/smith-wesson-brands-inc-second-quarter-fiscal-2027-financial-release-78hda6587s3w.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3a45a8a4b8dc",
+   "title": "Globant Reports 2026 Third Quarter Financial Results | GLOB Stock News",
+   "link": "https://www.stocktitan.net/news/GLOB/globant-reports-2026-third-quarter-financial-qska0aq7pvc0.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "GLOB"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3e8806311bf0",
+   "title": "GUIDEWIRE TO ANNOUNCE FIRST QUARTER FISCAL YEAR 2027 FINANCIAL RESULTS ON DECEMBER 3, 2026 | GWRE Stock News",
+   "link": "https://www.stocktitan.net/news/GWRE/guidewire-to-announce-first-quarter-fiscal-year-2027-financial-ovvdxv2n3um4.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "GWRE"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2f889f5f9d85",
+   "title": "Post Holdings Reports Results for the Fourth Quarter and Fiscal Year 2026 | POST Stock News",
+   "link": "https://www.stocktitan.net/news/POST/post-holdings-reports-results-for-the-fourth-quarter-and-fiscal-year-4l16tiuv596x.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "POST"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aadf0b2fe20b",
+   "title": "The Home Depot Declares Quarterly Dividend of $2.33 | HD Stock News",
+   "link": "https://www.stocktitan.net/news/HD/the-home-depot-declares-quarterly-dividend-of-2-jytttd8olgrq.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "HD"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cccde2417c45",
+   "title": "Webull Reports Third Quarter 2026 Financial Results | BULL Stock News",
+   "link": "https://www.stocktitan.net/news/BULL/webull-reports-third-quarter-2026-financial-4ijerug7omdc.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "BULL"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b1d0f91232b8",
+   "title": "Lear Declares Quarterly Cash Dividend | LEA Stock News",
+   "link": "https://www.stocktitan.net/news/LEA/lear-declares-quarterly-cash-dxl4vjoytagv.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "LEA"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d72d436684ac",
+   "title": "Carrier to Present at the Goldman Sachs 2026 Industrials and Materials Conference | CARR Stock News",
+   "link": "https://www.stocktitan.net/news/CARR/carrier-to-present-at-the-goldman-sachs-2026-industrials-and-5g59pkiyi4a7.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "CARR",
+    "GS"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6cceba101f13",
+   "title": "Gap Inc. Reports Third Quarter Fiscal 2026 Results | GAP Stock News",
+   "link": "https://www.stocktitan.net/news/GAP/gap-inc-reports-third-quarter-fiscal-2026-nmdcbhs8j7c8.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "GAP"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5e8317342f9e",
+   "title": "Post Holdings Announces Medical Leave For Robert Vitale and Board Updates | POST Stock News",
+   "link": "https://www.stocktitan.net/news/POST/post-holdings-announces-medical-leave-for-robert-vitale-and-board-0o2x2hl8q4qr.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "POST"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3c4a21fcce3e",
+   "title": "New CEO Michael J. Whitehead Outlines Refocus on Core Businesses as Matthews International Reports Results for Fourth Quarter and Fiscal Year Ended September 30, 2026 | MATW Stock News",
+   "link": "https://www.stocktitan.net/news/MATW/new-ceo-michael-j-whitehead-outlines-refocus-on-core-businesses-as-2876a91uoqhk.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3a8519cc051c",
+   "title": "Diodes Incorporated to Participate at Upcoming Financial Conferences | DIOD Stock News",
+   "link": "https://www.stocktitan.net/news/DIOD/diodes-incorporated-to-participate-at-upcoming-financial-sx7ntgyxlrun.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4d2c607a5cdf",
+   "title": "John Marshall Bancorp, Inc. and Eagle Financial Services, Inc. Announce Receipt of Shareholder Approvals for Merger | EFSI Stock News",
+   "link": "https://www.stocktitan.net/news/EFSI/john-marshall-bancorp-inc-and-eagle-financial-services-inc-announce-lc3gwql7jasj.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "022435dc62c5",
+   "title": "DWS Municipal Income Trust Announces Final Liquidating Distribution | KTF Stock News",
+   "link": "https://www.stocktitan.net/news/KTF/dws-municipal-income-trust-announces-final-liquidating-dxnrfmj9e1fv.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1647178fd935",
+   "title": "TechnipFMC Awarded Subsea Contracts for ExxonMobil Guyana’s Longtail Project | FTI Stock News",
+   "link": "https://www.stocktitan.net/news/FTI/technip-fmc-awarded-subsea-contracts-for-exxon-mobil-guyana-s-ventvrgc0avw.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "FTI",
+    "XOM"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d286690a3cbb",
+   "title": "Ooma to Host Investor Meetings at the StoneX 15th Annual Discovery Conference | OOMA Stock News",
+   "link": "https://www.stocktitan.net/news/OOMA/ooma-to-host-investor-meetings-at-the-stone-x-15th-annual-discovery-1sf4luub1tiv.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "44b0f1041b21",
+   "title": "Assurant Board of Directors Approves Common Stock Dividend Increase of 9% | AIZ Stock News",
+   "link": "https://www.stocktitan.net/news/AIZ/assurant-board-of-directors-approves-common-stock-dividend-increase-flh2baezrbvq.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [
+    "AIZ"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "20cf77a2d679",
+   "title": "Summit Therapeutics to Host Corporate Update and Operational Progress Call on November 30, 2026 | SMMT Stock News",
+   "link": "https://www.stocktitan.net/news/SMMT/summit-therapeutics-to-host-corporate-update-and-operational-32k8llkl87hs.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fcdaaaee5fbb",
+   "title": "Bausch + Lomb Reports Phase 2 Findings for BL1332 in Post-Surgical Ocular Pain | BLCO Stock News",
+   "link": "https://www.stocktitan.net/news/BLCO/bausch-lomb-reports-phase-2-findings-for-bl1332-in-post-surgical-9um629emy5tj.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "fda",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8279113e8937",
+   "title": "Endava Receives Notice from NYSE Regarding Delayed Filing of Annual Report on Form 20-F | DAVA Stock News",
+   "link": "https://www.stocktitan.net/news/DAVA/endava-receives-notice-from-nyse-regarding-delayed-filing-of-annual-rdm1ukrtb1a2.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "63823addf075",
+   "title": "Element Solutions Inc Declares Q4 Dividend of $0.08 Per Share | ESI Stock News",
+   "link": "https://www.stocktitan.net/news/ESI/element-solutions-inc-declares-q4-dividend-of-0-08-per-aj7rw091f00d.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "dbfb806861a3",
+   "title": "Foremost Clean Energy Appoints Rob Chang as President & CEO | FMST Stock News",
+   "link": "https://www.stocktitan.net/news/FMST/foremost-clean-energy-appoints-rob-chang-as-president-veeaqd439ll9.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e3eb64665a83",
+   "title": "Isabella Bank Corporation Announces Increase to Quarterly Dividend | ISBA Stock News",
+   "link": "https://www.stocktitan.net/news/ISBA/isabella-bank-corporation-announces-increase-to-quarterly-7dv9me3gsvw8.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b96677b651d4",
+   "title": "Bassett Announces CEO Succession | BSET Stock News",
+   "link": "https://www.stocktitan.net/news/BSET/bassett-announces-ceo-kq433c2x64iv.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e6fe5a728ab8",
+   "title": "Diversified Energy Completes Birch Acquisition | DEC Stock News",
+   "link": "https://www.stocktitan.net/news/DEC/diversified-energy-completes-birch-ju1d1jidr57c.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b87341d061e4",
+   "title": "ESCO Reports Fourth Quarter and Fiscal 2026 Results | ESE Stock News",
+   "link": "https://www.stocktitan.net/news/ESE/esco-reports-fourth-quarter-and-fiscal-2026-j0hpwi5erpow.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "eef0ae3ee119",
+   "title": "Stifel Reports October 2026 Operating Data | SF Stock News",
+   "link": "https://www.stocktitan.net/news/SF/stifel-reports-october-2026-operating-3f685y87fpb4.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bbd0dcbbab3b",
+   "title": "Palomar Holdings, Inc. Announces 2027 Investor Day | PLMR Stock News",
+   "link": "https://www.stocktitan.net/news/PLMR/palomar-holdings-inc-announces-2027-investor-sa3y8ehni2eb.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6ecb54b3180a",
+   "title": "Capital City Bank Group, Inc. Increases Cash Dividend | CCBG Stock News",
+   "link": "https://www.stocktitan.net/news/CCBG/capital-city-bank-group-inc-increases-cash-qxnd8sp3nb8z.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "bccdc9c56250",
+   "title": "Financial Institutions, Inc. Announces Quarterly Cash Dividend | FISI Stock News",
+   "link": "https://www.stocktitan.net/news/FISI/financial-institutions-inc-announces-quarterly-cash-068tqo2js8g5.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T21:15:00+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "6ed97a5fd978",
    "title": "AMD dives on short-seller report of alleged China exposure",
@@ -47,6 +782,68 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aeb6668e75ca",
+   "title": "Anthropic begins trading in the biggest IPO on record despite the many fears surrounding AI - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXdyUExSdjhGa000MWtxaUR0YzhiVHJnNzN0N0lTUnNONktkaWZkUVUwdExoUXhXMTlJN0NEZ3F3M2RYbUZYelpiNFhpOE14LWdtYjF1MnB2M00xMk1GbENmci1UeFlXa3V0aHM4TWlxVVZNeFBwUkZjMTA2ZWhCSFBVaVVBb0FUdnpj?oc=5",
+   "summary": "Anthropic begins trading in the biggest IPO on record despite the many fears surrounding AI&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-19T21:14:00+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9975eff22411",
+   "title": "lululemon athletica inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - LULU",
+   "link": "https://www.prnewswire.com/news-releases/lululemon-athletica-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--lulu-302946087.html",
+   "summary": "NEW YORK, Nov. 19, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against lululemon athletica inc. (\"Lululemon\" or \"the Company\") (NASDAQ: LULU) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:14:00+00:00",
+   "tickers": [
+    "LULU"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "b57bd43676d1",
+   "title": "Gap Inc. Appoints Ashley Kechter as Brand President and CEO of Athleta",
+   "link": "https://www.prnewswire.com/news-releases/gap-inc-appoints-ashley-kechter-as-brand-president-and-ceo-of-athleta-302946142.html",
+   "summary": "Activewear and lifestyle brand leader brings deep category expertise and global retail experience to lead Athleta's rebuild SAN FRANCISCO, Nov. 19, 2026 /PRNewswire/ -- Gap Inc. (NYSE: GAP) today announced the appointment of Ashley Kechter as Brand President and Chief Executive Officer of...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:14:00+00:00",
+   "tickers": [
+    "GAP"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7cf2708f810f",
+   "title": "KGC Investors Have Opportunity to Lead Kinross Gold Corporation Securities Fraud Lawsuit with SBS Law",
+   "link": "https://www.prnewswire.com/news-releases/kgc-investors-have-opportunity-to-lead-kinross-gold-corporation-securities-fraud-lawsuit-with-sbs-law-302946086.html",
+   "summary": "LOS ANGELES, Nov. 19, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Kinross Gold Corporation (\"Kinross\" or \"the Company\") (NYSE: KGC) for violations of §§10(b) and 20(a) of the...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T21:14:00+00:00",
+   "tickers": [
+    "KGC"
+   ],
+   "type": "legal",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -156,7 +953,7 @@
    "title": "Primo Brands to Participate in Morgan Stanley Global Consumer & Retail Conference",
    "link": "https://www.prnewswire.com/news-releases/primo-brands-to-participate-in-morgan-stanley-global-consumer--retail-conference-302946057.html",
    "summary": "TAMPA, Fla. and STAMFORD, Conn., Nov. 19, 2026 /PRNewswire/ -- Primo Brands Corporation (NYSE: PRMB) (\"Primo Brands\" or the \"Company\"), today announced that Eric Foss, Chairman and Chief Executive Officer, and David Hass, Chief Financial Officer, will participate at the Morgan Stanley...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-11-19T21:10:00+00:00",
@@ -422,6 +1219,53 @@
    "tag_v": 2
   },
   {
+   "id": "d7adf7a55c56",
+   "title": "Ecuador Flooding Sparks Short Covering in Cocoa Futures",
+   "link": "https://www.nasdaq.com/articles/ecuador-flooding-sparks-short-covering-cocoa-futures",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed up +216 (+4.46%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +135 (+3.61%). Cocoa prices settled sharply higher on Thursday as floods in Ecuador sparked short covering in cocoa futures. Heavy rains in Ecuador caused flooding that destroyed rural roads,...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T21:05:54+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1551995a0338",
+   "title": "Reduced Coffee Exports from Colombia Boosts Arabica Prices",
+   "link": "https://www.nasdaq.com/articles/reduced-coffee-exports-colombia-boosts-arabica-prices",
+   "summary": "March arabica coffee (KCH26 ) closed up +0.55 (+0.20%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -41 (-1.36%). Coffee prices settled mixed on Thursday, with robusta falling to a 2.75-year low. Arabica coffee erased early losses and moved higher Thursday after the USDA’s FAS cut its...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T21:05:54+00:00",
+   "tickers": [
+    "ICE",
+    "FAS"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "db4043f8c2d7",
+   "title": "Soybeans Fading Early Gains for Midday Thursday Losses",
+   "link": "https://www.nasdaq.com/articles/soybeans-fading-early-gains-midday-thursday-losses",
+   "summary": "Soybeans are posing 3 to 7 cent losses in the front months on Thursday. The cmdtyView national average Cash Bean price is down 6 1/2 cents at $11.51 1/2. Soymeal futures are $3.10 to $4.20 lower on the day, with Soy Oil futures 35 to 42 points higher. USDA reported...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T21:05:54+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "d5edf303b9f8",
    "title": "Stocks Erase Early Gains as Anthropic Optimism Fades",
    "link": "https://www.nasdaq.com/articles/stocks-erase-early-gains-anthropic-optimism-fades",
@@ -439,11 +1283,39 @@
    "tag_v": 2
   },
   {
+   "id": "f57114444a56",
+   "title": "3 Dividend Kings to Buy in November and Never Sell",
+   "link": "https://www.nasdaq.com/articles/3-dividend-kings-buy-november-and-never-sell-0",
+   "summary": "Key PointsAbbott boasts 54 straight years of dividend growth, and plans to spin off its troubled nutrition division could lead to a re-rating of the stock.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T21:05:02+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8226190afd14",
+   "title": "Extra Space: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/extra-space-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsCore funds from operations reached $2.17 per share in third quarter.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T21:05:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "fd02311e90cb",
    "title": "CleanSpark Executives to Discuss Q4 and Fiscal Year 2026 Financial and Operating Results Via Webcast",
    "link": "https://www.prnewswire.com/news-releases/cleanspark-executives-to-discuss-q4-and-fiscal-year-2026-financial-and-operating-results-via-webcast-302946128.html",
    "summary": "LAS VEGAS, Nov. 19, 2026 /PRNewswire/ -- CleanSpark, Inc. (Nasdaq: CLSK) (\"CleanSpark\" or the \"Company\"), a market leading data center developer, will discuss its fiscal fourth quarter and full year 2026 financial and operating results via a live webcast beginning at 4:30 p.m. ET / 1:30 p....",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-11-19T21:05:00+00:00",
@@ -982,20 +1854,6 @@
    "tag_v": 2
   },
   {
-   "id": "6ab2bcc2e7f1",
-   "title": "Dow closes below 50,000; Nasdaq falls 2% as Anthropic IPO fails to resuscitate AI trade: Live updates",
-   "link": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-   "summary": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-19T21:03:20+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "5ffeb7fe118a",
    "title": "Carhartt's $67 water-repellent hoodie is 40% off, and it's a 'go-to for winter'",
    "link": "https://www.thestreet.com/deals/carhartt-paxton-1889-graphic-sweatshirt-amazon-sale",
@@ -1065,6 +1923,22 @@
    "domain": "investing.com",
    "published": "2026-11-19T21:02:37+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9b5cf5214f0d",
+   "title": "Why USA Rare Earth Stock Is Rising Today",
+   "link": "https://www.nasdaq.com/articles/why-usa-rare-earth-stock-rising-today",
+   "summary": "Key PointsUSA Rare Earth stock is developing an integrated rare-earth and permanent-magnet value chain.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T21:02:36+00:00",
+   "tickers": [
+    "USAR"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -1320,6 +2194,50 @@
    "tag_v": 2
   },
   {
+   "id": "ab9b19d42739",
+   "title": "Cotton Posting Midday Gains",
+   "link": "https://www.nasdaq.com/articles/cotton-posting-midday-gains-0",
+   "summary": "Cotton futures are trading with contracts 97 to 119 points higher across the front months, taking back from Wednesday weakness. Crude oil is back up 53 cents per barrel on the session to $83.79, with the US dollar index $0.018 lower. USDA’s Export Sales report showed 118,660 RB of cotton...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T21:00:38+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c096d4676fff",
+   "title": "Wheat Rallying Back on Thursday",
+   "link": "https://www.nasdaq.com/articles/wheat-rallying-back-thursday",
+   "summary": "The wheat complex is off some early Thursday highs, but still posting gains across the three exchanges at midday. Chicago SRW futures are 6 to 7 cents higher across the front months.KC HRW futures are 15 to 16 cents higher so far on the session. MPLS spring wheat are up...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T21:00:38+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f2ee9159bc50",
+   "title": "Sugar Prices Plummet with the Brazilian Real",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-plummet-brazilian-real",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.88 (-4.88%) today, and March London ICE white sugar #5 (SWH2 7) is down -20.00 (-3.94%). Sugar prices are plummeting today, with NY sugar posting a 1.75-month low and London sugar dropping to a 3.5-month low as strength in the Brazilian...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T21:00:38+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "af76e65a8577",
    "title": "Cotton Rallying Back on Thursday to Trim Some of Wednesday’s Losses",
    "link": "https://www.nasdaq.com/articles/cotton-rallying-back-thursday-trim-some-wednesdays-losses",
@@ -1556,17 +2474,20 @@
    "tag_v": 2
   },
   {
-   "id": "98c7ee95900a",
-   "title": "Anthropic shares jump in Nasdaq trading debut after record IPO",
-   "link": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
-   "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-19T20:56:07+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "positive",
+   "id": "5c3598ab6bc7",
+   "title": "This Is Incredible News for AMD Stock Investors (Hint: It’s Bad News for Intel)",
+   "link": "https://www.nasdaq.com/articles/incredible-news-amd-stock-investors-hint-its-bad-news-intel",
+   "summary": "Key PointsThe server CPU market has been growing at an impressive pace due to the increasing adoption of agentic AI and inference workloads.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T20:56:02+00:00",
+   "tickers": [
+    "AMD",
+    "INTC"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1615,53 +2536,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d7adf7a55c56",
-   "title": "Ecuador Flooding Sparks Short Covering in Cocoa Futures",
-   "link": "https://www.nasdaq.com/articles/ecuador-flooding-sparks-short-covering-cocoa-futures",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +216 (+4.46%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +135 (+3.61%). Cocoa prices settled sharply higher on Thursday as floods in Ecuador sparked short covering in cocoa futures. Heavy rains in Ecuador caused flooding that destroyed rural roads,...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T20:55:23+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1551995a0338",
-   "title": "Reduced Coffee Exports from Colombia Boosts Arabica Prices",
-   "link": "https://www.nasdaq.com/articles/reduced-coffee-exports-colombia-boosts-arabica-prices",
-   "summary": "March arabica coffee (KCH26 ) closed up +0.55 (+0.20%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -41 (-1.36%). Coffee prices settled mixed on Thursday, with robusta falling to a 2.75-year low. Arabica coffee erased early losses and moved higher Thursday after the USDA’s FAS cut its...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T20:55:23+00:00",
-   "tickers": [
-    "ICE",
-    "FAS"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "ab9b19d42739",
-   "title": "Cotton Posting Midday Gains",
-   "link": "https://www.nasdaq.com/articles/cotton-posting-midday-gains-0",
-   "summary": "Cotton futures are trading with contracts 97 to 119 points higher across the front months, taking back from Wednesday weakness. Crude oil is back up 53 cents per barrel on the session to $83.79, with the US dollar index $0.018 lower. USDA’s Export Sales report showed 118,660 RB of cotton...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T20:55:23+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1784,36 +2658,6 @@
     "OKLO"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c096d4676fff",
-   "title": "Wheat Rallying Back on Thursday",
-   "link": "https://www.nasdaq.com/articles/wheat-rallying-back-thursday",
-   "summary": "The wheat complex is off some early Thursday highs, but still posting gains across the three exchanges at midday. Chicago SRW futures are 6 to 7 cents higher across the front months.KC HRW futures are 15 to 16 cents higher so far on the session. MPLS spring wheat are up...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T20:49:23+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f2ee9159bc50",
-   "title": "Sugar Prices Plummet with the Brazilian Real",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-plummet-brazilian-real",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.88 (-4.88%) today, and March London ICE white sugar #5 (SWH2 7) is down -20.00 (-3.94%). Sugar prices are plummeting today, with NY sugar posting a 1.75-month low and London sugar dropping to a 3.5-month low as strength in the Brazilian...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T20:49:22+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2235,20 +3079,6 @@
    "category": "stocks",
    "domain": "thestreet.com",
    "published": "2026-11-19T20:33:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "db4043f8c2d7",
-   "title": "Soybeans Fading Early Gains for Midday Thursday Losses",
-   "link": "https://www.nasdaq.com/articles/soybeans-fading-early-gains-midday-thursday-losses",
-   "summary": "Soybeans are posing 3 to 7 cent losses in the front months on Thursday. The cmdtyView national average Cash Bean price is down 6 1/2 cents at $11.51 1/2. Soymeal futures are $3.10 to $4.20 lower on the day, with Soy Oil futures 35 to 42 points higher. USDA reported...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T20:31:51+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -3567,20 +4397,6 @@
    "tag_v": 2
   },
   {
-   "id": "53c3d8d8138e",
-   "title": "‘Grand Theft Auto VI’ is here. What to know about the characters, music and all the hype - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnJrbHE5SXBnU3h4ZjViR0FJNGdwYW0ybkFhQUtndEFMd0FBUUp0b2x1eWE2QWpVX2NWQWM2Q3c4NVJPcEFMaHpUQ0YtRGtOMnZoSEdPTEg3SmVCajdTam1PRVdMT0UxWXhabkZPRnhqYXBEMlF3UEJPRkVzSVpTVEZOQkdFVVhRTHc?oc=5",
-   "summary": "‘Grand Theft Auto VI’ is here. What to know about the characters, music and all the hype&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-19T19:54:46+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "2e2c6db6b356",
    "title": "Meta trades at 21x P/E, yet shareholders face a massive new bill",
    "link": "https://www.investing.com/news/stock-market-news/meta-trades-at-21x-pe-yet-shareholders-face-a-massive-new-bill-5039109",
@@ -3895,6 +4711,20 @@
     "FAS"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "53c3d8d8138e",
+   "title": "‘Grand Theft Auto VI’ is here. What to know about the characters, music and all the hype - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbnJrbHE5SXBnU3h4ZjViR0FJNGdwYW0ybkFhQUtndEFMd0FBUUp0b2x1eWE2QWpVX2NWQWM2Q3c4NVJPcEFMaHpUQ0YtRGtOMnZoSEdPTEg3SmVCajdTam1PRVdMT0UxWXhabkZPRnhqYXBEMlF3UEJPRkVzSVpTVEZOQkdFVVhRTHc?oc=5",
+   "summary": "‘Grand Theft Auto VI’ is here. What to know about the characters, music and all the hype&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-19T19:44:11+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -4420,6 +5250,20 @@
     "MRK"
    ],
    "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2236fb0a505d",
+   "title": "Takeaways from the historic summit between Trump, Xi and Putin - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGR5Qm9EVktTdGlZU2p0QlJOOGRieUpsczVJc2RfTXA2XzZFRUtnaUNZWHdVLTN1X3JnZ2FTQ0J4V3ZyWkJEV21aMzhqV2pqbzB4amYyM0pCdWs4NWNUUE1aakhtWW9IZDhmR2ZSUl9NNFhXZ3JMQmEzVjJVVmswODFhOHU2VkZ5TmE3NWF3?oc=5",
+   "summary": "Takeaways from the historic summit between Trump, Xi and Putin&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-19T19:27:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -5364,20 +6208,6 @@
    "published": "2026-11-19T18:51:28+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "aeb6668e75ca",
-   "title": "Anthropic begins trading in the biggest IPO on record despite the many fears surrounding AI - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXdyUExSdjhGa000MWtxaUR0YzhiVHJnNzN0N0lTUnNONktkaWZkUVUwdExoUXhXMTlJN0NEZ3F3M2RYbUZYelpiNFhpOE14LWdtYjF1MnB2M00xMk1GbENmci1UeFlXa3V0aHM4TWlxVVZNeFBwUkZjMTA2ZWhCSFBVaVVBb0FUdnpj?oc=5",
-   "summary": "Anthropic begins trading in the biggest IPO on record despite the many fears surrounding AI&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-19T18:51:00+00:00",
-   "tickers": [],
-   "type": "offering",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8179,843 +9009,6 @@
    "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "597c26817e25",
-   "title": "After Stage 4 Cancer, Bob Broderdorf Returns to Dodge With a Message: No One Should Face Cancer Alone | STLA Stock News",
-   "link": "https://www.stocktitan.net/news/STLA/after-stage-4-cancer-bob-broderdorf-returns-to-dodge-with-a-message-kw4gov1sleo7.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-19T17:15:00+00:00",
-   "tickers": [
-    "STLA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2dba9b1a9d10",
-   "title": "Factbox-Anthropic’s $2 trillion debut puts key executives and board in spotlight",
-   "link": "https://www.investing.com/news/economy-news/factboxanthropics-2-trillion-debut-puts-key-executives-and-board-in-spotlight-5039638",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-19T17:13:08+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e32935af94c4",
-   "title": "If You Have $1,000 to Invest Right Now, Here's the 1 ETF I'd Buy Without a Second Thought",
-   "link": "https://www.nasdaq.com/articles/if-you-have-1000-invest-right-now-heres-1-etf-id-buy-without-second-thought",
-   "summary": "Key PointsThe dip in AI stocks may well mark the beginning of a pivot in market leadership.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T17:13:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fdac4fe52550",
-   "title": "Fed rate-cut hopes for 2027 take a stunning turn",
-   "link": "https://www.thestreet.com/fed/fed-rate-cuts-2027-inflation-rate-hikes",
-   "summary": "New FOMC minutes expose growing inflation anxiety as Waller doubles down on jumbo December rate hike.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-19T17:13:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "634495955235",
-   "title": "Black Friday Goes Out Here | TSCO Stock News",
-   "link": "https://www.stocktitan.net/news/TSCO/black-friday-goes-out-ylw6nwuvnjr0.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-19T17:13:00+00:00",
-   "tickers": [
-    "TSCO"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4028d50b3ea4",
-   "title": "Stifel reiterates Buy on Palvella stock, $250 target on new program",
-   "link": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-palvella-stock-250-target-on-new-program-93CH-5039637",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-19T17:12:51+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6c74f465ac0b",
-   "title": "We're adding to a consumer stock as the market enters oversold territory",
-   "link": "https://www.cnbc.com/investingclub/2026/11/19/were-adding-to-a-consumer-stock-as-the-market-enters-oversold-territory.html",
-   "summary": "The S&amp;P Oscillator officially moved into oversold territory after Wednesday's session.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-19T17:12:46+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d9eed35a23a8",
-   "title": "San Juan Basin Royalty Trust Declares No Cash Distribution for November 2026",
-   "link": "https://www.nasdaq.com/articles/san-juan-basin-royalty-trust-declares-no-cash-distribution-november-2026",
-   "summary": "San Juan Basin Royalty Trust announced that it will not declare a monthly cash distribution to its unit holders for November 2026. The Trustee attributed the decision to continued low natural gas pricing and excess production costs incurred during prior periods for the Trust's ro",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T17:09:38+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a115f67ef213",
-   "title": "Aptiv PLC stock hits 52-week low at 37.42 USD",
-   "link": "https://www.investing.com/news/company-news/aptiv-plc-stock-hits-52week-low-at-3742-usd-93CH-5039636",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-19T17:09:33+00:00",
-   "tickers": [
-    "APTV"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3384c8588070",
-   "title": "Caterpillar stock hits 52-week low at 537.0 USD",
-   "link": "https://www.investing.com/news/company-news/caterpillar-stock-hits-52week-low-at-5370-usd-93CH-5039635",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-19T17:09:11+00:00",
-   "tickers": [
-    "CAT"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cec48bff801a",
-   "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.85%",
-   "link": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-085-5039634",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-19T17:09:05+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "48b26b448d2b",
-   "title": "Eaton Vance Enhanced Equi II stock hits 52-week low at 19.11 USD",
-   "link": "https://www.investing.com/news/company-news/eaton-vance-enhanced-equi-ii-stock-hits-52week-low-at-1911-usd-93CH-5039633",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-19T17:08:41+00:00",
-   "tickers": [
-    "ETN"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9b69c8add6f2",
-   "title": "Spain stocks lower at close of trade; IBEX 35 down 0.97%",
-   "link": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-097-5039632",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-19T17:08:40+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "01733f396b31",
-   "title": "C. H. Robinson at Stephens conference: growth, synergies and risk",
-   "link": "https://www.investing.com/news/transcripts/c-h-robinson-at-stephens-conference-growth-synergies-and-risk-93CH-5039631",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-19T17:08:39+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "94806c5853be",
-   "title": "Portugal stocks lower at close of trade; PSI down 0.94%",
-   "link": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-094-5039630",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-19T17:08:14+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "a98af80eaf82",
-   "title": "Netherlands stocks lower at close of trade; AEX down 0.62%",
-   "link": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-062-5039629",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-19T17:07:46+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e01619527802",
-   "title": "Nasdaq turns negative after Anthropic valued at over $2 trillion in Nasdaq debut",
-   "link": "https://www.investing.com/news/stock-market-news/nasdaq-turns-negative-after-anthropic-valued-at-over-2-trillion-in-nasdaq-debut-5039627",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-19T17:07:28+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "df2d3bb8b41d",
-   "title": "Italy stocks lower at close of trade; Investing.com Italy 40 down 0.47%",
-   "link": "https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-047-5039626",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-19T17:07:19+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "a36e47e1fbc1",
-   "title": "AMD shares slide as report says China links could invite US scrutiny",
-   "link": "https://www.investing.com/news/stock-market-news/amd-shares-slide-as-report-says-china-links-could-invite-us-scrutiny-5039625",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-19T17:06:30+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "30832627cba5",
-   "title": "WorkJam Named a Leader in the Inaugural Gartner® Magic Quadrant™ for Frontline Worker Communications Applications",
-   "link": "https://www.prnewswire.com/news-releases/workjam-named-a-leader-in-the-inaugural-gartner-magic-quadrant-for-frontline-worker-communications-applications-302945778.html",
-   "summary": "WorkJam also received the highest scores in two Use Cases in the companion Gartner Critical Capabilities for Frontline Worker Communications Applications report: Reaching and Aligning the Frontline Workforce, and Unifying Frontline Operational Execution MONTREAL, Nov. 19, 2026...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T17:06:00+00:00",
-   "tickers": [
-    "FRO"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a37acf6256a5",
-   "title": "Riassunto: Rockwell Automation firma un accordo definitivo per acquisire AGILOX",
-   "link": "http://www.businesswire.com/news/home/20261118979328/it/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-   "summary": "MILWAUKEE--(BUSINESS WIRE)--Rockwell Automation, Inc. (NYSE: ROK), la più grande azienda al mondo dedicata all'automazione industriale e alla trasformazione digitale, oggi ha annunciato di aver firmato un accordo definitivo per acquisire l'austriaca AGILOX, azienda produttrice di robot mobili autonomi (AMR) di fascia alta, guidati da intelligenza artificiale sviluppata internamente e tecnologia di rete swarm. Insieme, il portafoglio consolidato di AMR (robot mobili autonomi) a forche di AGILOX",
-   "source": "BusinessWire",
-   "category": "press",
-   "domain": "businesswire.com",
-   "published": "2026-11-19T17:06:00+00:00",
-   "tickers": [
-    "ROK",
-    "AMR"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b50cb940025e",
-   "title": "TJX's Marmaxx Turnaround Fuels Bullish Analyst Outlook Despite Margin Pressures",
-   "link": "https://www.benzinga.com/analyst-stock-ratings/reiteration/26/11/63443218/tjxs-marmaxx-turnaround-fuels-bullish-analyst-outlook-despite-margin-pressures",
-   "summary": "TJX Companies, Inc. (NYSE:TJX) reported better-than-expected fiscal 2027 third-quarter sales on Thursday and raised its full-year profit outlook, highlighting continued strength across HomeGoods, TJX Canada and TJX International and improving sales trends at Marmaxx.BTIG analyst Robert Drbul reiterated a Buy rating and maintained his $190 price target on Thursday following the results.Improving sales trends at Marmaxx, international growth and continued market share gains strengthen the off-pric",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-19T17:05:28+00:00",
-   "tickers": [
-    "TJX"
-   ],
-   "type": "guidance",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "74e819a8fabc",
-   "title": "Dividend Stocks Are Boring. That's Exactly Why I Plan to Own These 3 Forever.",
-   "link": "https://www.nasdaq.com/articles/dividend-stocks-are-boring-thats-exactly-why-i-plan-own-these-3-forever",
-   "summary": "Key PointsChurch &amp; Dwight keeps finding new things to sell consumers, including mouthwash packets that fit in a pocket.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T17:05:02+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "7fc8c124d9e5",
-   "title": "HAGENS BERMAN, NATIONAL SECURITIES LAW FIRM, Investigating Amdocs Limited (NASDAQ: DOX) Following Escalating T-Mobile Contract Dispute and Stock Collapse",
-   "link": "https://www.prnewswire.com/news-releases/hagens-berman-national-securities-law-firm-investigating-amdocs-limited-nasdaq-dox-following-escalating-t-mobile-contract-dispute-and-stock-collapse-302945713.html",
-   "summary": "SAN FRANCISCO, Nov. 19, 2026 /PRNewswire/ -- Hagens Berman, a leading national securities class action law firm, is investigating potential federal securities law violations by Amdocs Limited (NASDAQ: DOX). The investigation focuses on whether Amdocs' executives made materially false and...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T17:05:00+00:00",
-   "tickers": [
-    "DOX"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dccfaaf9e9ca",
-   "title": "ロックウェル・オートメーション、アギロックス買収の最終契約を締結",
-   "link": "http://www.businesswire.com/news/home/20261118372376/ja/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-   "summary": "ミルウォーキー--(BUSINESS WIRE)--（ビジネスワイヤ） -- 産業オートメーションとデジタル・トランスフォーメーションに特化した企業として世界最大のロックウェル・オートメーション（NYSE: ROK）は、オーストリアに拠点を置くアギロックスを買収するための最終契約を締結したことを発表しました。アギロックスは、自社開発の人工知能とスワーム・ネットワーク技術で動作するハイエンドの自律走行搬送ロボット（AMR）を製造しています。アギロックスの実績のあるフォークリフト型AMRの製品ポートフォリオと「OTTO by Rockwell Automation」のフラットベッド型AMRプラットフォームを組み合わせることで、資材の自律搬送に対応する包括的なソリューションが生まれます。これまで個別用途に特化した最高水準のソリューションを提供してきたアギロックスは、この組み合わせにより、世界水準の生産物流ソリューションを総合的に提供する上で中核を担います。 今回の買収により、OTTOが北米で築いてきた強固な地位と、アギロックスが欧州各地で築いてきた事業基盤が一体となります。アギロックスは、",
-   "source": "BusinessWire",
-   "category": "press",
-   "domain": "businesswire.com",
-   "published": "2026-11-19T17:05:00+00:00",
-   "tickers": [
-    "ROK",
-    "AMR"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1b5d5029dd3b",
-   "title": "MDGL INVESTIGATION NOTICE: Hagens Berman, National Securities Law Firm, Investigating Madrigal Pharmaceuticals (NASDAQ: MDGL) Following Whistleblower Allegations of Clinical Data Integrity Concerns",
-   "link": "https://www.prnewswire.com/news-releases/mdgl-investigation-notice-hagens-berman-national-securities-law-firm-investigating-madrigal-pharmaceuticals-nasdaq-mdgl-following-whistleblower-allegations-of-clinical-data-integrity-concerns-302945723.html",
-   "summary": "SAN FRANCISCO, Nov. 19, 2026 /PRNewswire/ -- Hagens Berman, a national complex securities litigation law firm, announces an investigation into Madrigal Pharmaceuticals, Inc. (NASDAQ: MDGL). The inquiry focuses on whether Madrigal and senior management misrepresented or concealed material...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T17:04:00+00:00",
-   "tickers": [
-    "MDGL"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "ebb18bf479de",
-   "title": "Qualcomm vs. Taiwan Semiconductor: Diverging Revenue Trends for Major Chipmakers",
-   "link": "https://www.nasdaq.com/articles/qualcomm-vs-taiwan-semiconductor-diverging-revenue-trends-major-chipmakers",
-   "summary": "Key PointsTaiwan Semiconductor Manufacturing currently demonstrates a visibly stronger position regarding overall revenue generation, establishing a consistent pattern of continuous upward momentum compared to the comparatively flat trajectory of its peer.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T17:03:02+00:00",
-   "tickers": [
-    "TSM"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7544c5d4941e",
-   "title": "Rockwell Automation adquirió AGILOX mediante un acuerdo definitivo",
-   "link": "http://www.businesswire.com/news/home/20261118299286/es/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-   "summary": "MILWAUKEE--(BUSINESS WIRE)--Rockwell Automation, Inc. (NYSE: ROK), la mayor empresa del mundo dedicada a la automatización industrial y la transformación digital, anunció hoy que firmó un acuerdo definitivo para adquirir AGILOX. La empresa, con sede en Austria, fabrica robots móviles autónomos (AMR) de alta gama, que funcionan con inteligencia artificial de desarrollo propio y con una tecnología de red en enjambre. La cartera de montacargas autónomos de AGILOX, ya probada en el mercado, se suma",
-   "source": "BusinessWire",
-   "category": "press",
-   "domain": "businesswire.com",
-   "published": "2026-11-19T17:03:00+00:00",
-   "tickers": [
-    "ROK",
-    "AMR"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "25b113f54ae0",
-   "title": "Appeals court grants Trump request to halt order restoring Venezuelan TPS - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGpZSEt0YktGbGc2VUV5RndhWmQwV01HYnlsMlpNQUNVUEFkbV8tSnpxcGVlaGpkU21jbGxrYUJFbU9LV0syaVU3YllOYU0yRzFOZjlXQ0lXdUN5NlZGc2FJSkxEMEFhTkRHVlByZjVOaU94azNwaml5d1ZQWmlxeDVzWnZHTnFCNkhHbEhsQTFJZHREQnc?oc=5",
-   "summary": "Appeals court grants Trump request to halt order restoring Venezuelan TPS&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-19T17:03:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "21c956d61b81",
-   "title": "Alignment Healthcare (NASDAQ: ALHC) Increasingly Scrutinized Over H3815 Cut Points And CMS Bonus Eligibility - Hagens Berman",
-   "link": "https://www.prnewswire.com/news-releases/alignment-healthcare-nasdaq-alhc-increasingly-scrutinized-over-h3815-cut-points-and-cms-bonus-eligibility--hagens-berman-302945705.html",
-   "summary": "SAN FRANCISCO, Nov. 19, 2026 /PRNewswire/ -- On October 9, 2026, investors Alignment Healthcare, Inc. (NASDAQ: ALHC) saw the price of their shares slide another 13% to close at $7.55, reaching a 52 week low, after the Centers for Medicare & Medicaid Services (\"CMS\") lowered its 2027 4.0...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T17:02:00+00:00",
-   "tickers": [
-    "ALHC",
-    "CMS"
-   ],
-   "type": "press",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "c17e0a3de37c",
-   "title": "There is no going back ‘to the way it was before’ the Iran war’s energy shock, IEA says - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0QxUDY4Ykx6Um1udDNTX1h5dFRIQ2VncGVYaGsyaUFmSmVrenN3bXp5cFF4eDVPUzZjNXhBdUdGM3p1VWJyTmM5SkphZlFnYmdza3RRcERsYXFpa2dUQ0RzMXlyd3dvOUtURFN5SVhZLTZFX1hENmNyZXEwWnNJbm5yeXFtZHROS3RwbWJ3WUFGQ0lDc0gyRi13?oc=5",
-   "summary": "There is no going back ‘to the way it was before’ the Iran war’s energy shock, IEA says&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-19T17:02:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c1718667c0a1",
-   "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
-   "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-   "summary": "The leaders of the U.S., China and Russia met in Shenzhen, China on Thursday for a rare trilateral gathering.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-19T17:01:41+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4d79d1c4628e",
-   "title": "Temu Parent PDD Sees No Letup in China's Fierce E-Commerce Battle",
-   "link": "https://www.benzinga.com/markets/earnings/26/11/63442794/temu-parent-pdd-sees-no-letup-in-chinas-fierce-e-commerce-battle",
-   "summary": "PDD Holdings Inc. (NASDAQ:PDD) stock surged Thursday after the Temu parent reported mixed third-quarter 2026 results, with earnings exceeding expectations despite weaker-than-expected revenue.The Chinese e-commerce giant continues to invest in supply-chain upgrades, merchant development and global logistics. However, intense domestic competition and changing international trade rules remain key challenges.Revenue Misses EstimatesRevenue remained flat year over year at 108.3 billion Chinese yuan ",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-19T17:00:46+00:00",
-   "tickers": [
-    "PDD"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ecd30148b900",
-   "title": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Intel Corporation (NASDAQ: INTC) -- Investors Who Suffered Losses Are Encouraged to Contact the Firm",
-   "link": "https://www.prnewswire.com/news-releases/shareholder-alert-bronstein-gewirtz--grossman-llc-announces-class-action-against-intel-corporation-nasdaq-intc--investors-who-suffered-losses-are-encouraged-to-contact-the-firm-302945703.html",
-   "summary": "Lead Plaintiff Deadline: January 12, 2027. Investors who purchased (NASDAQ: INTC) securities between July 23, 2026 and October 29, 2026 may be eligible to recover losses. NEW YORK, Nov. 19, 2026 /PRNewswire/ -- Attorney Advertising -- This lawsuit seeks to recover damages against...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T17:00:00+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "type": "press",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "278faff3f028",
-   "title": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against NuScale Power Corporation (NYSE: SMR) -- Investors Who Suffered Losses Are Encouraged to Contact the Firm.",
-   "link": "https://www.prnewswire.com/news-releases/shareholder-alert-bronstein-gewirtz--grossman-llc-announces-class-action-against-nuscale-power-corporation-nyse-smr--investors-who-suffered-losses-are-encouraged-to-contact-the-firm-302945715.html",
-   "summary": "Lead Plaintiff Deadline: January 11, 2027. Investors who purchased (NYSE: SMR) securities between February 27, 2026 and September 10, 2026 may be eligible to recover losses. NEW YORK, Nov. 19, 2026 /PRNewswire/ -- Attorney Advertising-- This lawsuit seeks to recover damages against...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T17:00:00+00:00",
-   "tickers": [
-    "SMR"
-   ],
-   "type": "press",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "ee134b261c71",
-   "title": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Lennar Corporation (NYSE: LEN) -- Investors Who Suffered Losses Are Encouraged to Contact the Firm",
-   "link": "https://www.prnewswire.com/news-releases/shareholder-alert-bronstein-gewirtz--grossman-llc-announces-class-action-against-lennar-corporation-nyse-len--investors-who-suffered-losses-are-encouraged-to-contact-the-firm-302945698.html",
-   "summary": "Lead Plaintiff Deadline: January 11, 2027. Investors who purchased (NYSE: LEN) securities between February 7, 2025 and October 2, 2026 may be eligible to recover losses. NEW YORK, Nov. 19, 2026 /PRNewswire/ -- Attorney Advertising -- This lawsuit seeks to recover damages against...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T17:00:00+00:00",
-   "tickers": [
-    "LEN"
-   ],
-   "type": "press",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "08f3930fa878",
-   "title": "NABP Healthcare Merchant Accreditation Now Recognized by Google for Telemedicine Advertising Certification",
-   "link": "https://www.prnewswire.com/news-releases/nabp-healthcare-merchant-accreditation-now-recognized-by-google-for-telemedicine-advertising-certification-302945227.html",
-   "summary": "MOUNT PROSPECT, Ill., Nov. 19, 2026 /PRNewswire/ -- The National Association of Boards of Pharmacy® (NABP®) announced today that telemedicine providers accredited through its Healthcare Merchant Accreditation program will be eligible to apply for Google Ads' telemedicine certification in...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T17:00:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "703499b60c63",
-   "title": "Parallel Systems Appoints Technology Industry Veteran Andrew Cummins as Chief Commercial Officer to Drive Commercial Deployment of Autonomous Electric Rail Platform",
-   "link": "https://www.prnewswire.com/news-releases/parallel-systems-appoints-technology-industry-veteran-andrew-cummins-as-chief-commercial-officer-to-drive-commercial-deployment-of-autonomous-electric-rail-platform-302944304.html",
-   "summary": "LOS ANGELES, Nov. 19, 2026 /PRNewswire/ -- Parallel Systems (Parallel or The Company), the world's leading battery-electric autonomous freight rail company, has appointed Andrew Cummins as Chief Commercial Officer (CCO). Cummins brings more than 20 years of experience in strategy,...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T17:00:00+00:00",
-   "tickers": [
-    "CMI"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e548f68dc25a",
-   "title": "As Financial Stress Weighs on Workers, Gallagher Introduces a Platform Focused on Better Financial Decision-Making | AJG Stock News",
-   "link": "https://www.stocktitan.net/news/AJG/as-financial-stress-weighs-on-workers-gallagher-introduces-a-ojbsdmq0wuvp.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-19T17:00:00+00:00",
-   "tickers": [
-    "AJG"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a658dfbbae6e",
-   "title": "We Energies again named best in the Upper Midwest for reliability | WEC Stock News",
-   "link": "https://www.stocktitan.net/news/WEC/we-energies-again-named-best-in-the-upper-midwest-for-q97hx04pbr10.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-19T17:00:00+00:00",
-   "tickers": [
-    "WEC"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0d36d2d1db10",
-   "title": "Braze Named a Leader in Cross-Channel Marketing Hubs Evaluation by Independent Research Firm | BRZE Stock News",
-   "link": "https://www.stocktitan.net/news/BRZE/braze-named-a-leader-in-cross-channel-marketing-hubs-evaluation-by-fqjm9mtub5hc.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-19T17:00:00+00:00",
-   "tickers": [
-    "BRZE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "67cf59571b58",
-   "title": "FRE and 100 Thieves Drop Limited Edition Collectible Tin Line | TPB Stock News",
-   "link": "https://www.stocktitan.net/news/TPB/fre-and-100-thieves-drop-limited-edition-collectible-tin-mabe4ro7up6l.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-19T17:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "4768ca36b358",
-   "title": "Mortgage Rates Average 7.28% | FMCC Stock News",
-   "link": "https://www.stocktitan.net/news/FMCC/mortgage-rates-average-7-pnk1eulqdegs.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-19T17:00:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2364c01f9f10",
-   "title": "Why Intel Stock Is Gaining Today",
-   "link": "https://www.nasdaq.com/articles/why-intel-stock-gaining-today",
-   "summary": "Key PointsIntel CEO Lip-Bu Tan said the company has signed its first outside customer for 18A, its most advanced chipmaking process.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T16:59:01+00:00",
-   "tickers": [
-    "INTC"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "49b7c7d8b38f",
-   "title": "Samenvatting: Rockwell Automation tekent definitieve overeenkomst voor overname van AGILOX",
-   "link": "http://www.businesswire.com/news/home/20261118165818/nl/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-   "summary": "MILWAUKEE--(BUSINESS WIRE)--Rockwell Automation, Inc. (NYSE: ROK), 's werelds grootste onderneming die zich volledig richt op industriële automatisering en digitale transformatie, heeft vandaag bekendgemaakt dat het een definitieve overeenkomst heeft getekend voor de overname van het Oostenrijkse AGILOX. AGILOX is een producent van hoogwaardige autonome mobiele robots (AMR's) die worden aangestuurd door zelfontwikkelde kunstmatige intelligentie en zwermnetwerktechnologie. Door het bewezen portf",
-   "source": "BusinessWire",
-   "category": "press",
-   "domain": "businesswire.com",
-   "published": "2026-11-19T16:59:00+00:00",
-   "tickers": [
-    "ROK",
-    "AMR"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dca86f56f913",
-   "title": "Cross Timbers Royalty Trust Declares November Cash Distribution of $0.118138 Per Unit",
-   "link": "https://www.nasdaq.com/articles/cross-timbers-royalty-trust-declares-november-cash-distribution-0118138-unit",
-   "summary": "Argent Trust Company, as Trustee of the Cross Timbers Royalty Trust, has declared a cash distribution to the holders of its units of beneficial interest of $0.118138 per unit, payable on December 14, 2026, to unitholders of record on November 30, 2026. Underlying sales volumes at",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T16:58:57+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "14b90f1dbc95",
-   "title": "Air Industries Group Cancels 1-for-5 Reverse Stock Split and Postpones Stockholder Meeting to December 3, 2026",
-   "link": "https://www.nasdaq.com/articles/air-industries-group-cancels-1-5-reverse-stock-split-and-postpones-stockholder-meeting",
-   "summary": "Air Industries Group announced that it would not be effecting the reverse stock split of its authorized, issued and outstanding shares of common stock, par value $0.001 per share, at a ratio of 1-for-5 in connection with the company's proposed merger with Tenax Aerospace Acquisit",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T16:58:49+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "6d22f8e7e17f",
-   "title": "Pure Cycle Corporation Reports Record Revenue of $35.7 million for Fiscal Year 2026 and Announces Plan to Sell Single-Family Rental Portfolio",
-   "link": "https://www.nasdaq.com/articles/pure-cycle-corporation-reports-record-revenue-357-million-fiscal-year-2026-and-announces",
-   "summary": "Pure Cycle Corporation announced its financial results for the year ended August 31, 2026. Total revenue for the year ended August 31, 2026 grew 37% to a record $35.7 million, with growth in each of the three business segments. Pure Cycle Corporation reported $14.2 million of net",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T16:58:49+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "38b42e3bc7f8",
-   "title": "Prediction: SpaceX Will Be the Largest Company in the World by 2040",
-   "link": "https://www.nasdaq.com/articles/prediction-spacex-will-be-largest-company-world-2040",
-   "summary": "Key PointsSpaceX and Tesla have formed committees to explore the possibility of a merger.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T16:58:02+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9e745b010d1e",
-   "title": "Nvidia Stock Could Soar 90% After Jensen Huang's Exit, According to One Wall Street Firm. Is It Time to Buy?",
-   "link": "https://www.nasdaq.com/articles/nvidia-stock-could-soar-90-after-jensen-huangs-exit-according-one-wall-street-firm-it-time",
-   "summary": "Key PointsWedbush raised its Nvidia price target to $293 from $275, nearly double the stock's current price.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T16:57:52+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "49ab414e2c0c",
-   "title": "2 Huge Beneficiaries of Anthropic's IPO",
-   "link": "https://www.nasdaq.com/articles/2-huge-beneficiaries-anthropics-ipo",
-   "summary": "Key PointsAmazon and Alphabet's cloud services run Anthropic's workloads.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T16:57:02+00:00",
-   "tickers": [
-    "GOOG"
-   ],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "411818971676",
-   "title": "Why Micron Stock Is Up Today",
-   "link": "https://www.nasdaq.com/articles/why-micron-stock-today-1",
-   "summary": "Key PointsAnthropic priced the largest IPO on record at $83 per share, higher than it had been targeting, which is breathing life into the AI trade.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T16:56:02+00:00",
-   "tickers": [
-    "MU"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f106cccecee6",
-   "title": "Amazon Warns NYC Delivery Bill Could Add $5 Per Order, Threatens Relocation",
-   "link": "https://www.nasdaq.com/articles/amazon-warns-nyc-delivery-bill-could-add-5-order-threatens-relocation",
-   "summary": "(RTTNews) - Amazon.com Inc. (AMZN) has launched a campaign on its shopping app and website opposing proposed New York City legislation that could require it to directly employ delivery workers currently hired through third-party contractors.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T16:56:02+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "0a4ad28ad940",
-   "title": "Bybit Joins Proof of Talk in Abu Dhabi 2026 as Title Partner and Official Exchange Partner",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bybit-joins-proof-of-talk-in-abu-dhabi-2026-as-title-partner-and-official-exchange-partner-5039600",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-19T16:53:46+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6a67160fb47a",
-   "title": "Why IonQ Stock Popped Today",
-   "link": "https://www.nasdaq.com/articles/why-ionq-stock-popped-today",
-   "summary": "Key PointsIonQ describes quantum's role in supercomputing.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T16:53:39+00:00",
-   "tickers": [
-    "IONQ"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9023,7 +9016,6 @@
   "EXPD": "Expeditors International of Washington",
   "CNQ": "Canadian Natural Resources Limited",
   "SQM": "Sociedad Qu?mica y Minera de Chile",
-  "TSM": "Taiwan Semiconductor Manufacturing",
   "FAS": "Direxion Financial Bull 3X Shares",
   "SILJ": "Amplify Junior Silver Miners ETF",
   "BTI": "British American Tobacco p.l.c",
@@ -9035,7 +9027,6 @@
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "TD": "The Toronto-Dominion Bank",
-  "MDGL": "Madrigal Pharmaceuticals",
   "COLB": "Columbia Banking System",
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
@@ -9043,20 +9034,20 @@
   "LPLA": "LPL Financial Holdings",
   "VRTX": "Vertex Pharmaceuticals",
   "WBD": "Warner Bros. Discovery",
-  "AJG": "Arthur J. Gallagher &",
   "CWST": "Casella Waste Systems",
   "DOC": "Healthpeak Properties",
   "KEYS": "Keysight Technologies",
   "PLTR": "Palantir Technologies",
-  "ALHC": "Alignment Healthcare",
   "CEG": "Constellation Energy",
   "PG": "The Procter & Gamble",
   "VOO": "Vanguard S&P 500 ETF",
+  "LULU": "lululemon athletica",
   "MGA": "Magna International",
   "PAAS": "Pan American Silver",
   "ROK": "Rockwell Automation",
   "SYF": "Synchrony Financial",
   "ZM": "Zoom Communications",
+  "GWRE": "Guidewire Software",
   "LUV": "Southwest Airlines",
   "NYT": "The New York Times",
   "PANW": "Palo Alto Networks",
@@ -9077,7 +9068,6 @@
   "JPM": "JPMorgan Chase &",
   "THC": "Tenet Healthcare",
   "UPST": "Upstart Holdings",
-  "WEC": "WEC Energy Group",
   "WM": "Waste Management",
   "GE": "General Electric",
   "ANET": "Arista Networks",
@@ -9091,17 +9081,20 @@
   "WDC": "Western Digital",
   "WSM": "Williams-Sonoma",
   "ALLY": "Ally Financial",
-  "DOX": "Amdocs Limited",
+  "CARR": "Carrier Global",
   "FLNC": "Fluence Energy",
+  "HD": "The Home Depot",
   "KMB": "Kimberly-Clark",
   "LNT": "Alliant Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "MTH": "Meritage Homes",
-  "TSCO": "Tractor Supply",
+  "QBTS": "D-Wave Quantum",
+  "USAR": "USA Rare Earth",
   "EG": "Everest Group",
   "KO": "The Coca-Cola",
   "MT": "ArcelorMittal",
+  "POST": "Post Holdings",
   "SMR": "NuScale Power",
   "TOL": "Toll Brothers",
   "UNP": "Union Pacific",
@@ -9116,10 +9109,10 @@
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "PDD": "PDD Holdings",
-  "CAT": "Caterpillar",
   "RHI": "Robert Half",
   "ROST": "Ross Stores",
   "ULTA": "Ulta Beauty",
+  "XOM": "Exxon Mobil",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
@@ -9127,6 +9120,7 @@
   "CLSK": "CleanSpark",
   "CMS": "CMS Energy",
   "CRM": "Salesforce",
+  "FTI": "TechnipFMC",
   "GEV": "GE Vernova",
   "LFUS": "Littelfuse",
   "MA": "Mastercard",
@@ -9138,11 +9132,11 @@
   "BC": "Brunswick",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
-  "FRO": "Frontline",
   "NXT": "Nextpower",
   "TEM": "Tempus AI",
   "VVV": "Valvoline",
   "ADBE": "Photoshop",
+  "AIZ": "Assurant",
   "APP": "AppLovin",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
@@ -9155,9 +9149,9 @@
   "TPR": "Tapestry",
   "WULF": "TeraWulf",
   "WWD": "Woodward",
-  "CMI": "Cummins",
   "EQIX": "Equinix",
   "GAP": "The Gap",
+  "GLOB": "Globant",
   "IVZ": "Invesco",
   "MCO": "Moody's",
   "MRK": "Merck &",
@@ -9171,6 +9165,7 @@
   "ZS": "Zscaler",
   "SPY": "SPY ETF",
   "BIIB": "Biogen",
+  "BULL": "Webull",
   "GTLB": "GitLab",
   "HUM": "Humana",
   "INSM": "Insmed",
@@ -9181,12 +9176,9 @@
   "RBRK": "Rubrik",
   "SAP": "SAP SE",
   "AMGN": "Amgen",
-  "APTV": "Aptiv",
-  "BRZE": "Braze",
   "ETN": "Eaton",
   "FIG": "Figma",
   "INTC": "Intel",
-  "IONQ": "IonQ",
   "MSCI": "MSCI",
   "OKLO": "Oklo",
   "V": "Visa"
