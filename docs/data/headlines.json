@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-19T00:16:28.468750+00:00",
+ "generated": "2026-11-19T00:21:23.692017+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "cd08581e1d7c",
+   "title": "Dave Ramsey, Fidelity clash over costly 401(k) mistake",
+   "link": "https://www.thestreet.com/retirement/dave-ramsey-fidelity-clash-over-costly-401k-mistake",
+   "summary": "As the IRS raises retirement contribution limits for 2027, workers paying down debt face a stark retirement savings choice.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-19T00:16:35+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "6ab2bcc2e7f1",
    "title": "Nasdaq-100 futures surge as traders gear up for Anthropic’s highly anticipated debut: Live updates",
@@ -74,6 +88,20 @@
    "tag_v": 2
   },
   {
+   "id": "f3259224d87d",
+   "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+   "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+   "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-19T00:08:14+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "0f9523c463e4",
    "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
    "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
@@ -104,37 +132,6 @@
    "tag_v": 2
   },
   {
-   "id": "f6f0f2bffaf0",
-   "title": "Stocks Settle Mostly Lower as Nvidia Weakness Pressures Chipmakers",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-mostly-lower-nvidia-weakness-pressures-chipmakers",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.23% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.11%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. December E-mini S&amp;P futures (ESZ26 ) fell -0.21%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T00:04:26+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "589857cfbe4b",
-   "title": "Nat-Gas Prices Surge on Expectations of Colder US Weather",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-surge-expectations-colder-us-weather",
-   "summary": "December Nymex natural gas (NGZ26 ) closed up +0.164 (+5.11%) on Wednesday. Dec nat-gas prices settled sharply higher on Wednesday as the outlook for colder US weather sparked short covering in nat-gas futures. The Commodity Weather Group said it expects below-normal temperatures in the central and eastern US toward the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T00:04:25+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "de88eb0f4606",
    "title": "Soaring ICE Inventories Pressure Cocoa Prices",
    "link": "https://www.nasdaq.com/articles/soaring-ice-inventories-pressure-cocoa-prices",
@@ -147,20 +144,6 @@
     "ICE"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dc456997355f",
-   "title": "Dollar Moves Higher on Hawkish Fed Signals",
-   "link": "https://www.nasdaq.com/articles/dollar-moves-higher-hawkish-fed-signals",
-   "summary": "The dollar index (DXY00 ) climbed to a 19-month high on Wednesday and finished up +0.36%. Hawkish Fed comments on Wednesday supported the dollar after Fed Governor Christopher Waller said inflation is moving in the wrong direction and the Fed should consider a 50 bp rate hike at the December...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T00:04:25+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -442,6 +425,51 @@
    "published": "2026-11-18T23:49:36+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f6f0f2bffaf0",
+   "title": "Stocks Settle Mostly Lower as Nvidia Weakness Pressures Chipmakers",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-mostly-lower-nvidia-weakness-pressures-chipmakers",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -0.23% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.11%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. December E-mini S&amp;P futures (ESZ26 ) fell -0.21%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T23:49:35+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "589857cfbe4b",
+   "title": "Nat-Gas Prices Surge on Expectations of Colder US Weather",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-surge-expectations-colder-us-weather",
+   "summary": "December Nymex natural gas (NGZ26 ) closed up +0.164 (+5.11%) on Wednesday. Dec nat-gas prices settled sharply higher on Wednesday as the outlook for colder US weather sparked short covering in nat-gas futures. The Commodity Weather Group said it expects below-normal temperatures in the central and eastern US toward the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T23:49:35+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "dc456997355f",
+   "title": "Dollar Moves Higher on Hawkish Fed Signals",
+   "link": "https://www.nasdaq.com/articles/dollar-moves-higher-hawkish-fed-signals",
+   "summary": "The dollar index (DXY00 ) climbed to a 19-month high on Wednesday and finished up +0.36%. Hawkish Fed comments on Wednesday supported the dollar after Fed Governor Christopher Waller said inflation is moving in the wrong direction and the Fed should consider a 50 bp rate hike at the December...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T23:49:35+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1372,6 +1400,20 @@
    "tickers": [],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "01b9a0dc70a4",
+   "title": "2026 U.S. Senate Election Results - AP News",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+   "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-18T23:10:09+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3449,20 +3491,6 @@
     "LHX"
    ],
    "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "01b9a0dc70a4",
-   "title": "2026 U.S. Senate Election Results - AP News",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-   "summary": "2026 U.S. Senate Election Results&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-18T21:50:28+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8873,39 +8901,6 @@
    "type": "macro",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "d8a232708206",
-   "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
-   "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-   "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-18T19:17:27+00:00",
-   "tickers": [
-    "MSFT"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ff907218523f",
-   "title": "Wall Street Says the AI Trade Is Over — ETF Investors Aren’t Acting Like It",
-   "link": "https://www.benzinga.com/etfs/sector-etfs/26/11/63406849/wall-street-says-the-ai-trade-is-over-etf-investors-arent-acting-like-it",
-   "summary": "Fears of an AI bubble bursting are gaining traction, but ETF investors appear to be sending a more complicated signal. While concerns about NVIDIA Corp&#8217;s (NASDAQ:NVDA) leadership turmoil and the sustainability of massive AI capital expenditure have weighed on sentiment, billions of dollars continue to flow into technology-focused ETFs. •&nbsp;VanEck Semiconductor ETF shares are consolidating. What&#8217;s the outlook for SMH shares? The Kobeissi Letter, in a post on X, highlighted the caut",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-18T19:17:02+00:00",
-   "tickers": [
-    "NVDA",
-    "SMH"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8933,7 +8928,6 @@
   "RXRX": "Recursion Pharmaceuticals",
   "UHS": "Universal Health Services",
   "MDGL": "Madrigal Pharmaceuticals",
-  "SMH": "VanEck Semiconductor ETF",
   "GS": "The Goldman Sachs Group",
   "LPLA": "LPL Financial Holdings",
   "PFGC": "Performance Food Group",
