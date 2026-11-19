@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T06:31:38.009818+00:00",
+ "generated": "2026-11-19T06:36:13.713967+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -73,6 +73,23 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6745cef9eccc",
+   "title": "Moderna's Cancer Vaccine Worked -- and the Stock Plunged Anyway. Here's What Investors Are Missing.",
+   "link": "https://www.nasdaq.com/articles/modernas-cancer-vaccine-worked-and-stock-plunged-anyway-heres-what-investors-are-missing",
+   "summary": "Key PointsModerna&rsquo;s personalized melanoma vaccine, paired with Merck&rsquo;s Keytruda, cut the risk of recurrence or death by 42% in a Phase 3 trial.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T06:20:00+00:00",
+   "tickers": [
+    "MRNA",
+    "MRK"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1190,6 +1207,20 @@
     "WMT"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aeb6668e75ca",
+   "title": "Anthropic set to begin trading after pricing its stock at $83 per share in biggest IPO on record - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXdyUExSdjhGa000MWtxaUR0YzhiVHJnNzN0N0lTUnNONktkaWZkUVUwdExoUXhXMTlJN0NEZ3F3M2RYbUZYelpiNFhpOE14LWdtYjF1MnB2M00xMk1GbENmci1UeFlXa3V0aHM4TWlxVVZNeFBwUkZjMTA2ZWhCSFBVaVVBb0FUdnpj?oc=5",
+   "summary": "Anthropic set to begin trading after pricing its stock at $83 per share in biggest IPO on record&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-19T05:01:00+00:00",
+   "tickers": [],
+   "type": "offering",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8810,37 +8841,6 @@
    "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "0e8654fdb902",
-   "title": "Clear Blue Technologies Announces Q3 2026 Results | CBUTF Stock News",
-   "link": "https://www.stocktitan.net/news/CBUTF/clear-blue-technologies-announces-q3-2026-8chpv0vztkpj.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-18T22:00:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7478855a5114",
-   "title": "After-Hours Movers: PANW, CRWD, P, RRGB",
-   "link": "https://www.investing.com/news/stock-market-news/afterhours-movers-panw-crwd-p-rrgb-432SI-5037183",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-18T21:59:02+00:00",
-   "tickers": [
-    "PANW",
-    "CRWD"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8961,6 +8961,8 @@
   "GKOS": "Glaukos",
   "IVZ": "Invesco",
   "MCO": "Moody's",
+  "MRK": "Merck &",
+  "MRNA": "Moderna",
   "PEP": "PepsiCo",
   "SNDK": "Sandisk",
   "TXT": "Textron",
