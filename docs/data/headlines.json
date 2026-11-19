@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T04:21:41.352428+00:00",
+ "generated": "2026-11-19T04:25:57.534431+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,36 @@
    "published": "2026-11-19T04:20:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0e46d7372887",
+   "title": "Hogs Post New Contract Lows on Wednesday",
+   "link": "https://www.nasdaq.com/articles/hogs-post-new-contract-lows-wednesday",
+   "summary": "Lean hog futures explored new contract lows on Wednesday, with losses of 60 cents to $1.75. USDA’s national base hog price was reported at $33.60 on Wednesday afternoon, down 68 cents from the day prior. The CME Lean Hog Index was down 30 cents on November 16 at $56.86. USDA’s...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T04:11:49+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "52b701f5ea58",
+   "title": "Cattle Bounce Back on Wednesday",
+   "link": "https://www.nasdaq.com/articles/cattle-bounce-back-wednesday",
+   "summary": "Live cattle futures closed with gains of $1.00 to $1.62 across the board on Wednesday. Cash trade has yet to get kicked off this week. The Wednesday Fed Cattle Exchange auction saw no sales or bids on the 2,092 head offered. Feeder cattle futures posted gains of $1.42 to $3.50...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T04:11:49+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -43,6 +73,22 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "de88eb0f4606",
+   "title": "Soaring ICE Inventories Pressure Cocoa Prices",
+   "link": "https://www.nasdaq.com/articles/soaring-ice-inventories-pressure-cocoa-prices",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed down -183 (-3.64%) on Wednesday, and ICE London cocoa #7 (CAZ26 ) closed down -105 (-2.73%). Cocoa prices fell sharply to 1-week lows on Wednesday and are just above last Tuesday’s 4.75-month lows. Cocoa prices have trended lower over the past month and...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T04:05:28+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -134,6 +180,22 @@
    "tag_v": 2
   },
   {
+   "id": "fd4482d732aa",
+   "title": "Sugar Prices Slide as the Brazilian Real Weakens",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-slide-brazilian-real-weakens",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.13 (-0.72%) on Wednesday, and March London ICE white sugar #5 (SWH2 7) closed down -3.90 (-0.76%). Sugar prices settled lower on Wednesday, with NY sugar sliding to a 7-week low amid strength in the Brazilian real (^USDBRL ). The real...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T03:59:05+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "306c7585cafb",
    "title": "Immutep at Bell Potter Healthcare Conference: reset after trial setback",
    "link": "https://www.investing.com/news/transcripts/immutep-at-bell-potter-healthcare-conference-reset-after-trial-setback-93CH-5037676",
@@ -161,52 +223,6 @@
    ],
    "type": "markets",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "0e46d7372887",
-   "title": "Hogs Post New Contract Lows on Wednesday",
-   "link": "https://www.nasdaq.com/articles/hogs-post-new-contract-lows-wednesday",
-   "summary": "Lean hog futures explored new contract lows on Wednesday, with losses of 60 cents to $1.75. USDA’s national base hog price was reported at $33.60 on Wednesday afternoon, down 68 cents from the day prior. The CME Lean Hog Index was down 30 cents on November 16 at $56.86. USDA’s...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T03:52:46+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "52b701f5ea58",
-   "title": "Cattle Bounce Back on Wednesday",
-   "link": "https://www.nasdaq.com/articles/cattle-bounce-back-wednesday",
-   "summary": "Live cattle futures closed with gains of $1.00 to $1.62 across the board on Wednesday. Cash trade has yet to get kicked off this week. The Wednesday Fed Cattle Exchange auction saw no sales or bids on the 2,092 head offered. Feeder cattle futures posted gains of $1.42 to $3.50...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T03:52:46+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "de88eb0f4606",
-   "title": "Soaring ICE Inventories Pressure Cocoa Prices",
-   "link": "https://www.nasdaq.com/articles/soaring-ice-inventories-pressure-cocoa-prices",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed down -183 (-3.64%) on Wednesday, and ICE London cocoa #7 (CAZ26 ) closed down -105 (-2.73%). Cocoa prices fell sharply to 1-week lows on Wednesday and are just above last Tuesday’s 4.75-month lows. Cocoa prices have trended lower over the past month and...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T03:52:45+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -548,22 +564,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fd4482d732aa",
-   "title": "Sugar Prices Slide as the Brazilian Real Weakens",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-slide-brazilian-real-weakens",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.13 (-0.72%) on Wednesday, and March London ICE white sugar #5 (SWH2 7) closed down -3.90 (-0.76%). Sugar prices settled lower on Wednesday, with NY sugar sliding to a 7-week low amid strength in the Brazilian real (^USDBRL ). The real...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T03:28:38+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1000,6 +1000,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "18143f19e5be",
+   "title": "Judge issues 14-day extension of order blocking Trump’s memorial arch in DC - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGFBMDRNV3pfZU8tTkFncmtFWTdDZW9uMU51bk9JVjU4QmVJbG1GU0lmRlE3Zi00YWhsbHRCZTdhelVWM3FNV0x2UENhVThNa2daSjN4VXk3aFA0TEdFUjBMSWNWLXZleVBSMEY4WUxOZ1VLdVF2SHVjaEhjYmdjdmpjN21oQUtXaVZnVEZxYi1EQ0R3VVpxM3JiTQ?oc=5",
+   "summary": "Judge issues 14-day extension of order blocking Trump’s memorial arch in DC&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-19T02:52:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -4129,20 +4143,6 @@
     "XPEV"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "18143f19e5be",
-   "title": "Judge issues 14-day extension of order blocking Trump’s memorial arch in DC - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGFBMDRNV3pfZU8tTkFncmtFWTdDZW9uMU51bk9JVjU4QmVJbG1GU0lmRlE3Zi00YWhsbHRCZTdhelVWM3FNV0x2UENhVThNa2daSjN4VXk3aFA0TEdFUjBMSWNWLXZleVBSMEY4WUxOZ1VLdVF2SHVjaEhjYmdjdmpjN21oQUtXaVZnVEZxYi1EQ0R3VVpxM3JiTQ?oc=5",
-   "summary": "Judge issues 14-day extension of order blocking Trump’s memorial arch in DC&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-19T00:10:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
