@@ -1,8 +1,55 @@
 {
- "generated": "2026-11-19T22:56:25.263961+00:00",
+ "generated": "2026-11-19T23:01:11.524273+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "482f7e22d067",
+   "title": "80-year-old women's clothing retailer closing dozens of stores",
+   "link": "https://www.thestreet.com/retail/womens-clothing-retailer-cato-closed-22-stores-with-90-to-follow",
+   "summary": "Cato Fashions has followed Torrid in closing stores, and it's probably going to get worse.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-19T22:59:52+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2c711280fca4",
+   "title": "Union Pacific and Norfolk Southern Look Forward to a Full Evaluation of Merger Application | NSC Stock News",
+   "link": "https://www.stocktitan.net/news/NSC/union-pacific-and-norfolk-southern-look-forward-to-a-full-evaluation-tfj9glx2dx6u.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T22:57:00+00:00",
+   "tickers": [
+    "NSC",
+    "UNP"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f1298a7d5abd",
+   "title": "KBR Announces Pricing of Trinzic’s Senior Notes Offering | KBR Stock News",
+   "link": "https://www.stocktitan.net/news/KBR/kbr-announces-pricing-of-trinzic-s-senior-notes-cy4rq5ysnl89.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-19T22:56:00+00:00",
+   "tickers": [
+    "KBR"
+   ],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "08a175d9c214",
    "title": "MFB Bancorp, Inc. Announces Commencement of Stock Offering | MFDB Stock News",
@@ -33,6 +80,20 @@
    ],
    "type": "ma",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "aeb6668e75ca",
+   "title": "Anthropic surges in market debut after biggest IPO on record, surpassing $2 trillion at one point - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXdyUExSdjhGa000MWtxaUR0YzhiVHJnNzN0N0lTUnNONktkaWZkUVUwdExoUXhXMTlJN0NEZ3F3M2RYbUZYelpiNFhpOE14LWdtYjF1MnB2M00xMk1GbENmci1UeFlXa3V0aHM4TWlxVVZNeFBwUkZjMTA2ZWhCSFBVaVVBb0FUdnpj?oc=5",
+   "summary": "Anthropic surges in market debut after biggest IPO on record, surpassing $2 trillion at one point&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-19T22:51:00+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -84,36 +145,6 @@
     "TPG"
    ],
    "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "67eda646bb59",
-   "title": "Larger-Than-Average Storage Build Knocks Nat-Gas Prices Lower",
-   "link": "https://www.nasdaq.com/articles/larger-average-storage-build-knocks-nat-gas-prices-lower",
-   "summary": "December Nymex natural gas (NGZ26 ) closed down -0.104 (-3.08%) on Thursday. Dec nat-gas prices settled sharply lower on Thursday as a larger-than-average build in weekly storage weighed on prices. The EIA reported Thursday that nat-gas inventories rose by +20 bcf in the week ended November 13, above the five-year...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T22:45:09+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "d7adf7a55c56",
-   "title": "Ecuador Flooding Sparks Short Covering in Cocoa Futures",
-   "link": "https://www.nasdaq.com/articles/ecuador-flooding-sparks-short-covering-cocoa-futures",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +216 (+4.46%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +135 (+3.61%). Cocoa prices settled sharply higher on Thursday as floods in Ecuador sparked short covering in cocoa futures. Heavy rains in Ecuador caused flooding that destroyed rural roads,...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T22:45:09+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -334,53 +365,6 @@
    "tag_v": 2
   },
   {
-   "id": "b349978c7cd8",
-   "title": "Brazilian Real Weakness Hammers Sugar Prices",
-   "link": "https://www.nasdaq.com/articles/brazilian-real-weakness-hammers-sugar-prices",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.88 (-4.88%) on Thursday, and March London ICE white sugar #5 (SWH2 7) closed down -18.90 (-3.73%). Sugar prices plummeted on Thursday, with NY sugar posting a 1.75-month low and London sugar posting a 3.5-month low as weakness in the Brazilian...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T22:37:46+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9c387b28d962",
-   "title": "Dollar Firms on Weak Stocks and Hawkish Fed",
-   "link": "https://www.nasdaq.com/articles/dollar-firms-weak-stocks-and-hawkish-fed",
-   "summary": "The dollar index (DXY00 ) rose to a 19-month high on Thursday and finished up +0.02%. Thursday’s stock slump boosted demand for dollar liquidity. Hawkish comments from Fed Governor Barr on Thursday were dollar-supportive when he said the Fed needs tighter monetary policy to balance risks. Dollar gains were limited...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T22:37:46+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "1551995a0338",
-   "title": "Reduced Coffee Exports from Colombia Boosts Arabica Prices",
-   "link": "https://www.nasdaq.com/articles/reduced-coffee-exports-colombia-boosts-arabica-prices",
-   "summary": "March arabica coffee (KCH26 ) closed up +0.55 (+0.20%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -41 (-1.36%). Coffee prices settled mixed on Thursday, with robusta falling to a 2.75-year low. Arabica coffee erased early losses and moved higher Thursday after the USDA’s FAS cut its...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T22:37:46+00:00",
-   "tickers": [
-    "ICE",
-    "FAS"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "4d75b1fef2c2",
    "title": "Trump says he and China’s Xi want moderate AI rules",
    "link": "https://www.investing.com/news/stock-market-news/trump-says-he-and-chinas-xi-want-moderate-ai-rules-5040256",
@@ -408,6 +392,20 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "67eda646bb59",
+   "title": "Larger-Than-Average Storage Build Knocks Nat-Gas Prices Lower",
+   "link": "https://www.nasdaq.com/articles/larger-average-storage-build-knocks-nat-gas-prices-lower",
+   "summary": "December Nymex natural gas (NGZ26 ) closed down -0.104 (-3.08%) on Thursday. Dec nat-gas prices settled sharply lower on Thursday as a larger-than-average build in weekly storage weighed on prices. The EIA reported Thursday that nat-gas inventories rose by +20 bcf in the week ended November 13, above the five-year...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:32:13+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -761,6 +759,22 @@
    "tag_v": 2
   },
   {
+   "id": "b349978c7cd8",
+   "title": "Brazilian Real Weakness Hammers Sugar Prices",
+   "link": "https://www.nasdaq.com/articles/brazilian-real-weakness-hammers-sugar-prices",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.88 (-4.88%) on Thursday, and March London ICE white sugar #5 (SWH2 7) closed down -18.90 (-3.73%). Sugar prices plummeted on Thursday, with NY sugar posting a 1.75-month low and London sugar posting a 3.5-month low as weakness in the Brazilian...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:19:02+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "f2ee9159bc50",
    "title": "Sugar Prices Plummet with the Brazilian Real",
    "link": "https://www.nasdaq.com/articles/sugar-prices-plummet-brazilian-real",
@@ -879,6 +893,37 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9c387b28d962",
+   "title": "Dollar Firms on Weak Stocks and Hawkish Fed",
+   "link": "https://www.nasdaq.com/articles/dollar-firms-weak-stocks-and-hawkish-fed",
+   "summary": "The dollar index (DXY00 ) rose to a 19-month high on Thursday and finished up +0.02%. Thursday’s stock slump boosted demand for dollar liquidity. Hawkish comments from Fed Governor Barr on Thursday were dollar-supportive when he said the Fed needs tighter monetary policy to balance risks. Dollar gains were limited...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:13:51+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "1551995a0338",
+   "title": "Reduced Coffee Exports from Colombia Boosts Arabica Prices",
+   "link": "https://www.nasdaq.com/articles/reduced-coffee-exports-colombia-boosts-arabica-prices",
+   "summary": "March arabica coffee (KCH26 ) closed up +0.55 (+0.20%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -41 (-1.36%). Coffee prices settled mixed on Thursday, with robusta falling to a 2.75-year low. Arabica coffee erased early losses and moved higher Thursday after the USDA’s FAS cut its...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:13:50+00:00",
+   "tickers": [
+    "ICE",
+    "FAS"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -1087,6 +1132,22 @@
     "GE"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d7adf7a55c56",
+   "title": "Ecuador Flooding Sparks Short Covering in Cocoa Futures",
+   "link": "https://www.nasdaq.com/articles/ecuador-flooding-sparks-short-covering-cocoa-futures",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed up +216 (+4.46%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +135 (+3.61%). Cocoa prices settled sharply higher on Thursday as floods in Ecuador sparked short covering in cocoa futures. Heavy rains in Ecuador caused flooding that destroyed rural roads,...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:04:11+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1906,20 +1967,6 @@
    "tag_v": 2
   },
   {
-   "id": "aeb6668e75ca",
-   "title": "Anthropic begins trading in the biggest IPO on record despite the many fears surrounding AI - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXdyUExSdjhGa000MWtxaUR0YzhiVHJnNzN0N0lTUnNONktkaWZkUVUwdExoUXhXMTlJN0NEZ3F3M2RYbUZYelpiNFhpOE14LWdtYjF1MnB2M00xMk1GbENmci1UeFlXa3V0aHM4TWlxVVZNeFBwUkZjMTA2ZWhCSFBVaVVBb0FUdnpj?oc=5",
-   "summary": "Anthropic begins trading in the biggest IPO on record despite the many fears surrounding AI&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-19T21:47:00+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "096284d12d3c",
    "title": "CrowdStrike president and CEO George Kurtz sells $4.5M in shares",
    "link": "https://www.investing.com/news/insider-trading-news/crowdstrike-president-and-ceo-george-kurtz-sells-45m-in-shares-93CH-5040126",
@@ -2304,6 +2351,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1c5e74c5cf97",
+   "title": "Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjhuZXowVzdHMnhkQm1TbWotUlpJeVdXcnZYSklCX3lJM0VEUHJJaXRUQVU0YlpGRGFjc3JuUkdZRTZaMlE3dG4wWkx4MWdCSUNhTkJGeXgxQTlydC05MGUzS0JMem13eGpXQXZERXZLaW5jalNtMjdOMWM4UlZveDlEQkhuOGZBSlAxQjc3NXdsNlNTb1E?oc=5",
+   "summary": "Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-19T21:39:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -4308,6 +4369,20 @@
    "tag_v": 2
   },
   {
+   "id": "9450411da48a",
+   "title": "Cincinnati Zoo says Fiona the hippo has died, days after ingesting a visitor’s hat - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1F6b2VpdzJoMkhmTGt0cEdfbm1xa3QwMTlWc1gyZlphbVR2eFVLMXpOeDRBVktXa25TNmkzSmttaFRjSDJnRC04SDJWSkRrRE1TUlJnYTBwMjV5dXNtb1dTbHNkQ2tDdnNLV1E4bEk1NWZjQUtRZ2h5QkIwWGJIdkQzRmUzbXlXYmVXUmJmdmd6dFFw?oc=5",
+   "summary": "Cincinnati Zoo says Fiona the hippo has died, days after ingesting a visitor’s hat&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-19T21:13:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b90ceb4f105a",
    "title": "Nasdaq closes at seven-month low as AI trade suffers despite record Anthropic IPO",
    "link": "https://www.investing.com/news/stock-market-news/wall-street-futures-climb-ahead-of-anthropics-15-trillion-mega-ipo-5037518",
@@ -5331,20 +5406,6 @@
     "UBS"
    ],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9450411da48a",
-   "title": "Cincinnati Zoo says Fiona the hippo has died, days after ingesting a visitor’s hat - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1F6b2VpdzJoMkhmTGt0cEdfbm1xa3QwMTlWc1gyZlphbVR2eFVLMXpOeDRBVktXa25TNmkzSmttaFRjSDJnRC04SDJWSkRrRE1TUlJnYTBwMjV5dXNtb1dTbHNkQ2tDdnNLV1E4bEk1NWZjQUtRZ2h5QkIwWGJIdkQzRmUzbXlXYmVXUmJmdmd6dFFw?oc=5",
-   "summary": "Cincinnati Zoo says Fiona the hippo has died, days after ingesting a visitor’s hat&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-19T21:03:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8923,68 +8984,6 @@
    "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "82627e08d72c",
-   "title": "Bath & Body Works: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/bath-body-works-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsFuel for Growth program will deliver $200 million in cost savings.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T19:13:23+00:00",
-   "tickers": [
-    "BBWI"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "75cdae255c31",
-   "title": "Bank of America banker Stewart Barry to join Allen & Company, sources say",
-   "link": "https://www.investing.com/news/stock-market-news/bank-of-america-banker-stewart-barry-to-join-allen--company-sources-say-5039775",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-19T19:12:25+00:00",
-   "tickers": [
-    "BAC"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "899a548d955e",
-   "title": "Anthropic IPO's wealth windfall: Here's what you need to know",
-   "link": "https://www.cnbc.com/video/2026/11/19/anthropic-ipos-wealth-windfall-heres-what-you-need-to-know.html",
-   "summary": "CNBC's Robert Frank joins 'The Exchange' to discuss the people and employees who stand to benefit most from Anthropic's record-breaking IPO.",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-19T19:12:01+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ff8aabeecb87",
-   "title": "What Should Gildan Activewear Inc. Investors Know After 18.8% Stock Drop? The Law Offices of Frank R. Cruz Outlines Securities Fraud Class Action Lead Plaintiff Deadline",
-   "link": "https://www.prnewswire.com/news-releases/what-should-gildan-activewear-inc-investors-know-after-18-8-stock-drop-the-law-offices-of-frank-r-cruz-outlines-securities-fraud-class-action-lead-plaintiff-deadline-302945773.html",
-   "summary": "Lawsuit alleges Gildan Activewear Inc. made misleading statements to investors from February 19, 2025 to June 15, 2026; lead plaintiff motions are due December 14, 2026 LOS ANGELES, Nov. 19, 2026 /PRNewswire/ -- The Law Offices of Frank R. Cruz today announced a class action lawsuit...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T19:10:00+00:00",
-   "tickers": [
-    "GIL"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9020,7 +9019,6 @@
   "NYT": "The New York Times",
   "PANW": "Palo Alto Networks",
   "WMG": "Warner Music Group",
-  "BBWI": "Bath & Body Works",
   "DD": "DuPont de Nemours",
   "GFL": "GFL Environmental",
   "GIL": "Gildan Activewear",
