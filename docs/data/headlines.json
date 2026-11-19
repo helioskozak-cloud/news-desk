@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-19T05:11:39.250246+00:00",
+ "generated": "2026-11-19T05:16:17.859544+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b190800fdb1c",
+   "title": "Amazon is selling a farmhouse storage bench for $100 that holds up to 440 pounds",
+   "link": "https://www.thestreet.com/deals/dreamdashio-farmhouse-storage-bench-amazon-sale-november-2026",
+   "summary": "\"It feels sturdy and well balanced.\"",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-19T05:15:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6ab2bcc2e7f1",
+   "title": "Nasdaq-100 futures gain as traders gear up for Anthropic’s highly anticipated debut: Live updates",
+   "link": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+   "summary": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-19T05:11:51+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "8d0d45855698",
    "title": "Global Water Resources director Andrew Cohn buys $169,910 in shares",
@@ -32,17 +62,49 @@
    "tag_v": 2
   },
   {
-   "id": "6ab2bcc2e7f1",
-   "title": "Nasdaq-100 futures surge as traders gear up for Anthropic’s highly anticipated debut: Live updates",
-   "link": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-   "summary": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday.",
-   "source": "CNBC Top",
-   "category": "markets",
+   "id": "6c9e8acd56e0",
+   "title": "Walmart is set to report earnings before the bell. Here's what to expect",
+   "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+   "summary": "Walmart is expected to offer color on consumer spending ahead of the holiday season as customers lean into value and convenience.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
    "domain": "cnbc.com",
-   "published": "2026-11-19T04:54:48+00:00",
+   "published": "2026-11-19T05:01:01+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7314bdd265f0",
+   "title": "Wheat Falling with Outside Pressure on Wednesday",
+   "link": "https://www.nasdaq.com/articles/wheat-falling-outside-pressure-wednesday",
+   "summary": "The wheat complex is under pressure from the outside markets, with losses across the three exchanges. Chicago SRW futures are collapsing 22 to 23 cents in the nearbys on Wednesday. KC HRW futures are falling 20 to 21 cents across the front months on the midweek session. MPLS spring wheat...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T04:58:21+00:00",
    "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "35b12496145a",
+   "title": "Coffee Prices Retreat on Bigger Supplies from Brazil",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-retreat-bigger-supplies-brazil",
+   "summary": "December arabica coffee (KCZ26 ) closed down -5.65 (-1.97%) on Wednesday, and January ICE robusta coffee (RMF27 ) closed down -52 (-1.69%). Coffee prices retreated on Wednesday, with robusta falling to a 2.75-year low. Expectations of increased global coffee supplies are weighing on prices. On Wednesday, ICE Exchange reported that...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T04:58:21+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -54,6 +116,50 @@
    "category": "stocks",
    "domain": "investing.com",
    "published": "2026-11-19T04:54:17+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fd4482d732aa",
+   "title": "Sugar Prices Slide as the Brazilian Real Weakens",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-slide-brazilian-real-weakens",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.13 (-0.72%) on Wednesday, and March London ICE white sugar #5 (SWH2 7) closed down -3.90 (-0.76%). Sugar prices settled lower on Wednesday, with NY sugar sliding to a 7-week low amid strength in the Brazilian real (^USDBRL ). The real...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T04:52:58+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "ef82251afacb",
+   "title": "Cotton Falling with Outside Pressure on Wednesday",
+   "link": "https://www.nasdaq.com/articles/cotton-falling-outside-pressure-wednesday",
+   "summary": "Cotton futures are posting 162 to 177 losses across most contracts on the Midweek session. Crude oil is down $3.79 per barrel on the session to $82.22, with the US dollar index $0.319 higher. The Seam reported 1,787 bales sold on November 17, at an average of 73.05 cents/lb. The...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T04:52:57+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cc743db83ee7",
+   "title": "NeuroSense Therapeutics Ltd. Schedules December 29, 2026 Annual Meeting to Seek Authorization for Additional Reverse Share Split",
+   "link": "https://www.nasdaq.com/articles/neurosense-therapeutics-ltd-schedules-december-29-2026-annual-meeting-seek-authorization",
+   "summary": "NeuroSense Therapeutics Ltd. announced that it will hold its Annual General Meeting of Shareholders on December 29, 2026. Among the key proposals, the company is seeking shareholder approval to authorize its Board of Directors to effect, in its discretion, one or more additional",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T04:51:17+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -132,6 +238,22 @@
    "tag_v": 2
   },
   {
+   "id": "a47511329d47",
+   "title": "Mizuho Initiates Coverage of KKR & Co. Inc. - Preferred Security at Outperform",
+   "link": "https://www.nasdaq.com/articles/mizuho-initiates-coverage-kkr-co-inc-preferred-security-outperform",
+   "summary": "Fintel reports that on November 17, 2026, Mizuho initiated coverage of KKR &amp; Co. Inc. - Preferred Security (NYSE:KKRT) with a Outperform recommendation.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T04:43:56+00:00",
+   "tickers": [
+    "KKR"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "b288ac6da0ac",
    "title": "’GTA VI’ to supercharge Sony — just not in Japan",
    "link": "https://www.investing.com/news/stock-market-news/gta-vi-to-supercharge-sony--just-not-in-japan-5037717",
@@ -190,30 +312,16 @@
    "tag_v": 2
   },
   {
-   "id": "ef82251afacb",
-   "title": "Cotton Falling with Outside Pressure on Wednesday",
-   "link": "https://www.nasdaq.com/articles/cotton-falling-outside-pressure-wednesday",
-   "summary": "Cotton futures are posting 162 to 177 losses across most contracts on the Midweek session. Crude oil is down $3.79 per barrel on the session to $82.22, with the US dollar index $0.319 higher. The Seam reported 1,787 bales sold on November 17, at an average of 73.05 cents/lb. The...",
+   "id": "047f6ee1f070",
+   "title": "Navios Maritime Partners L.P. Enters $90.4 Million Credit Facility and Agrees to $124.0 Million Tanker Acquisition",
+   "link": "https://www.nasdaq.com/articles/navios-maritime-partners-lp-enters-904-million-credit-facility-and-agrees-1240-million",
+   "summary": "Navios Maritime Partners L.P. reported that in October 2026, it entered into a new credit facility with a commercial bank for a total amount of up to $90.4 million in order to finance part of the acquisition cost of two Aframax/LR2 newbuilding tanker vessels, currently under cons",
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
-   "published": "2026-11-19T04:40:59+00:00",
+   "published": "2026-11-19T04:40:57+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7314bdd265f0",
-   "title": "Wheat Falling with Outside Pressure on Wednesday",
-   "link": "https://www.nasdaq.com/articles/wheat-falling-outside-pressure-wednesday",
-   "summary": "The wheat complex is under pressure from the outside markets, with losses across the three exchanges. Chicago SRW futures are collapsing 22 to 23 cents in the nearbys on Wednesday. KC HRW futures are falling 20 to 21 cents across the front months on the midweek session. MPLS spring wheat...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T04:40:58+00:00",
-   "tickers": [],
-   "type": "stocks",
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -503,22 +611,6 @@
    "published": "2026-11-19T04:20:00+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "35b12496145a",
-   "title": "Coffee Prices Retreat on Bigger Supplies from Brazil",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-retreat-bigger-supplies-brazil",
-   "summary": "December arabica coffee (KCZ26 ) closed down -5.65 (-1.97%) on Wednesday, and January ICE robusta coffee (RMF27 ) closed down -52 (-1.69%). Coffee prices retreated on Wednesday, with robusta falling to a 2.75-year low. Expectations of increased global coffee supplies are weighing on prices. On Wednesday, ICE Exchange reported that...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T04:17:04+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -853,22 +945,6 @@
    "tickers": [],
    "type": "offering",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fd4482d732aa",
-   "title": "Sugar Prices Slide as the Brazilian Real Weakens",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-slide-brazilian-real-weakens",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.13 (-0.72%) on Wednesday, and March London ICE white sugar #5 (SWH2 7) closed down -3.90 (-0.76%). Sugar prices settled lower on Wednesday, with NY sugar sliding to a 7-week low amid strength in the Brazilian real (^USDBRL ). The real...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T03:59:05+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8762,76 +8838,6 @@
    "type": "dividend",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "75f00d05828f",
-   "title": "Innoviz Announces 1-for-20 Reverse Share Split | INVZ Stock News",
-   "link": "https://www.stocktitan.net/news/INVZ/innoviz-announces-1-for-20-reverse-share-om44s1v8votc.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-18T21:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "063e1dd88395",
-   "title": "Highland Opportunities and Income Fund Announces Investor Update Call | HFRO Stock News",
-   "link": "https://www.stocktitan.net/news/HFRO/highland-opportunities-and-income-fund-announces-investor-update-zqedd33bcxbu.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-18T21:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0d36aa51434c",
-   "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
-   "link": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
-   "summary": "An Estonian tech billionaire famous for his stance that AI could end humanity is expected to be one of the biggest winners in Anthropic's upcoming IPO.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-18T21:28:04+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "5cabacbe5260",
-   "title": "CGXU Crowded With Sellers",
-   "link": "https://www.nasdaq.com/articles/cgxu-crowded-sellers",
-   "summary": "In trading on Wednesday, shares of the Capital Group International Focus Equity ETF (Symbol: CGXU) entered into oversold territory, changing hands as low as $29.50 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis i",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T21:27:40+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "513203b83cc0",
-   "title": "BHYP Crowded With Sellers",
-   "link": "https://www.nasdaq.com/articles/bhyp-crowded-sellers",
-   "summary": "In trading on Wednesday, shares of the BHYP ETF (Symbol: BHYP) entered into oversold territory, changing hands as low as $36.55 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentum on",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T21:27:27+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8958,6 +8964,7 @@
   "TXT": "Textron",
   "WDAY": "Workday",
   "WIX": "Wix.com",
+  "WMT": "Walmart",
   "SPY": "SPY ETF",
   "CTAS": "Cintas",
   "KSS": "Kohl's",
@@ -8967,6 +8974,7 @@
   "RMD": "ResMed",
   "APTV": "Aptiv",
   "FIG": "Figma",
+  "KKR": "KKR &",
   "ONDS": "Ondas",
   "XPEV": "XPeng"
  }
