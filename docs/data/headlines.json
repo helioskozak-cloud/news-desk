@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-20T00:06:16.241839+00:00",
+ "generated": "2026-11-20T00:11:32.280033+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "6ed97a5fd978",
+   "title": "AMD dives on short seller report of alleged China exposure",
+   "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+   "summary": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-20T00:08:34+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b983cb905721",
+   "title": "Blue Moon Completes its Acquisition of the Turner Copper-Gold VMS Deposit | BMM Stock News",
+   "link": "https://www.stocktitan.net/news/BMM/blue-moon-completes-its-acquisition-of-the-turner-copper-gold-vms-eew99eymqvy3.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-20T00:07:00+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "398db6d2096e",
    "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI",
@@ -116,39 +146,6 @@
    "tag_v": 2
   },
   {
-   "id": "d7adf7a55c56",
-   "title": "Ecuador Flooding Sparks Short Covering in Cocoa Futures",
-   "link": "https://www.nasdaq.com/articles/ecuador-flooding-sparks-short-covering-cocoa-futures",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +216 (+4.46%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +135 (+3.61%). Cocoa prices settled sharply higher on Thursday as floods in Ecuador sparked short covering in cocoa futures. Heavy rains in Ecuador caused flooding that destroyed rural roads,...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T23:55:14+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1551995a0338",
-   "title": "Reduced Coffee Exports from Colombia Boosts Arabica Prices",
-   "link": "https://www.nasdaq.com/articles/reduced-coffee-exports-colombia-boosts-arabica-prices",
-   "summary": "March arabica coffee (KCH26 ) closed up +0.55 (+0.20%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -41 (-1.36%). Coffee prices settled mixed on Thursday, with robusta falling to a 2.75-year low. Arabica coffee erased early losses and moved higher Thursday after the USDA’s FAS cut its...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T23:55:14+00:00",
-   "tickers": [
-    "ICE",
-    "FAS"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "d283e66d2ee8",
    "title": "Exclusive-Citi incorrectly booked trades, underestimated risky assets by $35 billion, sources say",
    "link": "https://www.investing.com/news/stock-market-news/exclusivecitiincorrectly-booked-trades-underestimatedrisky-assets-by-35-billion-sources-say-5040342",
@@ -245,20 +242,6 @@
    "category": "stocks",
    "domain": "stocktitan.net",
    "published": "2026-11-19T23:51:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "ab9b19d42739",
-   "title": "Cotton Posting Midday Gains",
-   "link": "https://www.nasdaq.com/articles/cotton-posting-midday-gains-0",
-   "summary": "Cotton futures are trading with contracts 97 to 119 points higher across the front months, taking back from Wednesday weakness. Crude oil is back up 53 cents per barrel on the session to $83.79, with the US dollar index $0.018 lower. USDA’s Export Sales report showed 118,660 RB of cotton...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T23:49:47+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
@@ -530,6 +513,20 @@
    "tag_v": 2
   },
   {
+   "id": "ab9b19d42739",
+   "title": "Cotton Posting Midday Gains",
+   "link": "https://www.nasdaq.com/articles/cotton-posting-midday-gains-0",
+   "summary": "Cotton futures are trading with contracts 97 to 119 points higher across the front months, taking back from Wednesday weakness. Crude oil is back up 53 cents per barrel on the session to $83.79, with the US dollar index $0.018 lower. USDA’s Export Sales report showed 118,660 RB of cotton...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T23:34:44+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "f2ee9159bc50",
    "title": "Sugar Prices Plummet with the Brazilian Real",
    "link": "https://www.nasdaq.com/articles/sugar-prices-plummet-brazilian-real",
@@ -716,6 +713,39 @@
    ],
    "type": "dividend",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "d7adf7a55c56",
+   "title": "Ecuador Flooding Sparks Short Covering in Cocoa Futures",
+   "link": "https://www.nasdaq.com/articles/ecuador-flooding-sparks-short-covering-cocoa-futures",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed up +216 (+4.46%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +135 (+3.61%). Cocoa prices settled sharply higher on Thursday as floods in Ecuador sparked short covering in cocoa futures. Heavy rains in Ecuador caused flooding that destroyed rural roads,...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T23:30:25+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1551995a0338",
+   "title": "Reduced Coffee Exports from Colombia Boosts Arabica Prices",
+   "link": "https://www.nasdaq.com/articles/reduced-coffee-exports-colombia-boosts-arabica-prices",
+   "summary": "March arabica coffee (KCH26 ) closed up +0.55 (+0.20%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -41 (-1.36%). Coffee prices settled mixed on Thursday, with robusta falling to a 2.75-year low. Arabica coffee erased early losses and moved higher Thursday after the USDA’s FAS cut its...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T23:30:24+00:00",
+   "tickers": [
+    "ICE",
+    "FAS"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2897,6 +2927,20 @@
    "tag_v": 2
   },
   {
+   "id": "7c629dd1d210",
+   "title": "Anthropic pulled off the biggest IPO ever. What that means, by the numbers - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWElHeHdGTW1iSVplcjJ2aXA1cmJDT0FyU0tqWVo0Tmk4Ty1xeXVQZ01LMndIdnJaTjh0aDFBZUNsc2d1VWpkb3dyMXJ5enFzSUQ0SUhWckxzM0c0QmYxM3FQblBvR0VIcXNZMHNIQlFMYTMyOHQ3LWw0c1ZRUEJMVFdaTm53ZUFtbmMzMg?oc=5",
+   "summary": "Anthropic pulled off the biggest IPO ever. What that means, by the numbers&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-19T22:02:00+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "abcfb0e80060",
    "title": "Robinhood director Baiju Bhatt sells $4.79 million in stock",
    "link": "https://www.investing.com/news/insider-trading-news/robinhood-director-baiju-bhatt-sells-479-million-in-stock-93CH-5040171",
@@ -4788,6 +4832,20 @@
    "tag_v": 2
   },
   {
+   "id": "02adae0fb025",
+   "title": "Iowans brace for a lead dust cloud as Army plans to detonate 5 tons of bomb-making chemicals - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWE1NdlJBdlZyMDMta2JjYVJ0TWViaFMyRWJ3TFV4Y3JOUG9kOHdhZGR0SVRteEJPTnJkbWcyWW5icVNua0JfaFZpRWRsdW93SEUwM3kxeWtiaXFWelhISUFBM1UwLWZUWEYyNUZKekRMNzJYZkV6TEs1X3RualBmbV9OWlNCWGtTbm9mTWw3NURmRmVFa1BncEVEZlI?oc=5",
+   "summary": "Iowans brace for a lead dust cloud as Army plans to detonate 5 tons of bomb-making chemicals&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-19T21:23:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a94fed9c2800",
    "title": "Jefferies cuts Futu stock price target on soft market conditions",
    "link": "https://www.investing.com/news/analyst-ratings/jefferies-cuts-futu-stock-price-target-on-soft-market-conditions-93CH-5040043",
@@ -5737,22 +5795,6 @@
    "published": "2026-11-19T21:15:00+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6ed97a5fd978",
-   "title": "AMD dives on short-seller report of alleged China exposure",
-   "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-   "summary": "AMD closed down over 7% after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-19T21:14:46+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8890,52 +8932,6 @@
    "published": "2026-11-19T20:00:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "21b9f2c96971",
-   "title": "UGI (UGI) Q4 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/ugi-ugi-q4-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T19:59:20+00:00",
-   "tickers": [
-    "UGI"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "38359459f609",
-   "title": "Why JPMorgan’s 13x P/E isn’t the bargain it looks like",
-   "link": "https://www.investing.com/news/stock-market-news/why-jpmorgans-13x-pe-isnt-the-bargain-it-looks-like-5038962",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-19T19:59:13+00:00",
-   "tickers": [
-    "JPM"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b6da6b90fb41",
-   "title": "Anthropic Was Worth $111.50 on Its First Day of Trading. Is That a Problem for Investors?",
-   "link": "https://www.nasdaq.com/articles/anthropic-was-worth-11150-its-first-day-trading-problem-investors",
-   "summary": "Key PointsAnthropic priced its IPO at $83 per share but opened trading at $111.50, a 34.3% premium.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T19:59:02+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   }
