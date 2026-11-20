@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T20:01:54.289205+00:00",
+ "generated": "2026-11-20T20:03:43.048549+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -63,6 +63,22 @@
     "DCI"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a9b0b4d25872",
+   "title": "Morgan Stanley's Preferred Stock, Series I Yield Pushes Past 7.5%",
+   "link": "https://www.nasdaq.com/articles/morgan-stanleys-preferred-stock-series-i-yield-pushes-past-75",
+   "summary": "In trading on Friday, shares of Morgan Stanley's Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series I (Symbol: MS.PRI) were yielding above the 7.5% mark based on its quarterly dividend (annualized to $1.6292), with shares changing hands as low as $21.56 on the day.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T19:52:25+00:00",
+   "tickers": [
+    "MS"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8978,38 +8994,6 @@
    "type": "markets",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "785e13303747",
-   "title": "SoCalGas Technology Helps Customers Avoid Nearly $11 Million in Estimated Energy Costs",
-   "link": "https://www.prnewswire.com/news-releases/socalgas-technology-helps-customers-avoid-nearly-11-million-in-estimated-energy-costs-302946497.html",
-   "summary": "LOS ANGELES, Nov. 20, 2026 /PRNewswire/ -- Southern California Gas Company (SoCalGas), a subsidiary of Sempra (NYSE: SRE), has helped customers avoid an estimated $11 million in unnecessary natural gas costs since 2019 by using advanced meter data to identify unusual energy use. The...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-20T13:55:00+00:00",
-   "tickers": [
-    "SRE"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b489d253dc0c",
-   "title": "SoCalGas Technology Helps Customers Avoid Nearly $11 Million in Estimated Energy Costs | SRE Stock News",
-   "link": "https://www.stocktitan.net/news/SRE/so-cal-gas-technology-helps-customers-avoid-nearly-11-million-in-c2d8ni842obz.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-20T13:55:00+00:00",
-   "tickers": [
-    "SRE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9204,7 +9188,6 @@
   "ORCL": "Oracle",
   "PFE": "Pfizer",
   "RMBS": "Rambus",
-  "SRE": "Sempra",
   "ANTM": "Anthem",
   "CHWY": "Chewy",
   "ETN": "Eaton",
