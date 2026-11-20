@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-20T20:11:16.130294+00:00",
+ "generated": "2026-11-20T20:16:30.491604+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "6ebaa24c50a1",
+   "title": "S&P 500 and Dow enter correction, Nasdaq wipes out 2026 gain as Anthropic leads AI sell-off: Live updates",
+   "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+   "summary": "A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-20T20:11:45+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "15996631d82a",
+   "title": "Fitness Champs Holdings Limited Announces Closing of $5 Million Public Offering and Addresses Nasdaq Deficiency Notice | FCHL Stock News",
+   "link": "https://www.stocktitan.net/news/FCHL/fitness-champs-holdings-limited-announces-closing-of-5-million-trt2i0ajejgy.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-20T20:10:00+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "334c6703c082",
    "title": "CLASSIC CHEVROLET TO DONATE $1,145,040 TO 13 LOCAL NONPROFITS AT THANKSGIVING LUNCHEON",
@@ -66,17 +94,33 @@
    "tag_v": 2
   },
   {
-   "id": "6ebaa24c50a1",
-   "title": "S&P 500 and Dow enter correction, Nasdaq wipes out 2026 gain as Anthropic leads AI sell-off: Live updates",
-   "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-   "summary": "A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session.",
-   "source": "CNBC Top",
+   "id": "2aa2583d6f86",
+   "title": "Frontline (FRO) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/frontline-fro-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
    "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-20T20:04:50+00:00",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T20:04:05+00:00",
+   "tickers": [
+    "FRO"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9cd99be4807f",
+   "title": "The Stock Market Is Flashing a Warning Seen Just 6 Times in 156 Years, and History Is Clear What Comes Next for Stocks",
+   "link": "https://www.nasdaq.com/articles/stock-market-flashing-warning-seen-just-6-times-156-years-and-history-clear-what-comes",
+   "summary": "Key PointsThe Shiller P/E hovers around 40, more than twice its historical average.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T20:03:48+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "positive",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -217,19 +261,65 @@
    "tag_v": 2
   },
   {
+   "id": "a7376b7dc068",
+   "title": "MetLife's Preferred Stock, Series E Crosses Above 7% Yield Territory",
+   "link": "https://www.nasdaq.com/articles/metlifes-preferred-stock-series-e-crosses-above-7-yield-territory",
+   "summary": "In trading on Friday, shares of MetLife Inc's 5.625% Non-Cumulative Preferred Stock, Series E (Symbol: MET.PRE) were yielding above the 7% mark based on its quarterly dividend (annualized to $1.4062), with shares changing hands as low as $20.00 on the day. This compares to an",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T19:53:03+00:00",
+   "tickers": [
+    "MET"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a9b0b4d25872",
    "title": "Morgan Stanley's Preferred Stock, Series I Yield Pushes Past 7.5%",
    "link": "https://www.nasdaq.com/articles/morgan-stanleys-preferred-stock-series-i-yield-pushes-past-75",
    "summary": "In trading on Friday, shares of Morgan Stanley's Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series I (Symbol: MS.PRI) were yielding above the 7.5% mark based on its quarterly dividend (annualized to $1.6292), with shares changing hands as low as $21.56 on the day.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-20T19:52:25+00:00",
    "tickers": [
     "MS"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6fe784154298",
+   "title": "Archer Aviation Trades Near $4. Could a $5,000 Investment Set You Up for Life?",
+   "link": "https://www.nasdaq.com/articles/archer-aviation-trades-near-4-could-5000-investment-set-you-life",
+   "summary": "Key PointsArcher Aviation is developing an electric air taxi (\"Midnight\") that could revolutionize urban transportation.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T19:50:02+00:00",
+   "tickers": [
+    "ACHR"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3cd0fc34681e",
+   "title": "Cerebras Stock Looks Like a Buy as Customer Base Expands",
+   "link": "https://www.nasdaq.com/articles/cerebras-stock-looks-buy-customer-base-expands",
+   "summary": "Key PointsCerebras is seeing robust revenue growth.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T19:50:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -330,6 +420,20 @@
    "tickers": [],
    "type": "legal",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "bed007e73554",
+   "title": "Pres. Trump: Have not lost confidence in Commerce Sec. Lutnick",
+   "link": "https://www.cnbc.com/video/2026/11/20/pres-trump-have-not-lost-confidence-in-commerce-sec-lutnick.html",
+   "summary": "CNBC's Eamon Javer joins 'Power Lunch' with the latest comments from the White House.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-20T19:47:24+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8897,112 +9001,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "654668d8304a",
-   "title": "FLOWERS FOODS DECLARES QUARTERLY DIVIDEND | FLO Stock News",
-   "link": "https://www.stocktitan.net/news/FLO/flowers-foods-declares-quarterly-8viu15xadyoa.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-20T14:00:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a213c8c6ed36",
-   "title": "Webull Unveils New Benefits Coming to Webull Premium, Bringing Advanced Analytics and AI Research to Active Traders | BULL Stock News",
-   "link": "https://www.stocktitan.net/news/BULL/webull-unveils-new-benefits-coming-to-webull-premium-bringing-xfrjr0zrcisg.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-20T14:00:00+00:00",
-   "tickers": [
-    "BULL"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "eb61606060b4",
-   "title": "Lanvin Group Holdings Limited to Hold Annual General Meeting on December 18, 2026 | LANV Stock News",
-   "link": "https://www.stocktitan.net/news/LANV/lanvin-group-holdings-limited-to-hold-annual-general-meeting-on-hirj5c5gpyk3.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-20T14:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1feccd75cd6b",
-   "title": "Bayer’s SUNHARBO® (asundexian) Now Available in the United States | BAYRY Stock News",
-   "link": "https://www.stocktitan.net/news/BAYRY/bayer-s-sunharbo-asundexian-now-available-in-the-united-t1wf7oqyg1fb.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-20T14:00:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d756aed33576",
-   "title": "Apartments.com Releases Multifamily Construction Activity Update for Q3 2026 | CSGP Stock News",
-   "link": "https://www.stocktitan.net/news/CSGP/apartments-com-releases-multifamily-construction-activity-update-for-7iujld652u8o.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-20T14:00:00+00:00",
-   "tickers": [
-    "CSGP"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "84a15324539a",
-   "title": "Comstock Announces Grand Opening of Ebbitt House at Reston Station | CHCI Stock News",
-   "link": "https://www.stocktitan.net/news/CHCI/comstock-announces-grand-opening-of-ebbitt-house-at-reston-z4tz9rfbc8n1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-20T14:00:00+00:00",
-   "tickers": [
-    "CRK"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b052a8d88fb3",
-   "title": "Calabash Brings Its Day-to-Night Dining Vision to Life with Square | XYZ Stock News",
-   "link": "https://www.stocktitan.net/news/XYZ/calabash-brings-its-day-to-night-dining-vision-to-life-with-7561j9osmrvo.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-20T14:00:00+00:00",
-   "tickers": [
-    "XYZ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9077,6 +9075,7 @@
   "NOC": "Northrop Grumman",
   "SPXC": "SPX Technologies",
   "GE": "General Electric",
+  "ACHR": "Archer Aviation",
   "ANET": "Arista Networks",
   "ASTS": "AST SpaceMobile",
   "BAC": "Bank of America",
@@ -9110,7 +9109,6 @@
   "UNP": "Union Pacific",
   "WRB": "W. R. Berkley",
   "UNH": "United Health",
-  "CSGP": "CoStar Group",
   "DTM": "DT Midstream",
   "DVLT": "Datavault AI",
   "DVN": "Devon Energy",
@@ -9173,6 +9171,7 @@
   "GLOB": "Globant",
   "HUBS": "HubSpot",
   "IVZ": "Invesco",
+  "MET": "MetLife",
   "MRK": "Merck &",
   "MRNA": "Moderna",
   "NOVT": "Novanta",
