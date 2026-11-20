@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T17:36:35.609196+00:00",
+ "generated": "2026-11-20T17:41:24.390338+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,73 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-20T17:33:39+00:00",
+   "published": "2026-11-20T17:38:19+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "d1da448b57b2",
+   "title": "Anthropic’s IPO was really rich, maybe too rich",
+   "link": "https://www.thestreet.com/economy/anthropics-ipo-was-really-rich-maybe-too-rich",
+   "summary": "The AI company staggered Wall Street with a huge first day of trading. But if you missed out, just wait.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-20T17:37:00+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "51f372052b0f",
+   "title": "Friday Sector Laggards: Semiconductors, Electronic Equipment & Products",
+   "link": "https://www.nasdaq.com/articles/friday-sector-laggards-semiconductors-electronic-equipment-products",
+   "summary": "In trading on Friday, semiconductors shares were relative laggards, down on the day by about 8.6%. Helping drag down the group were shares of POET Technologies, off about 14.6% and shares of Applied Optoelectronics off about 14.5% on the day. Also lagging the market Friday are",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T17:33:47+00:00",
+   "tickers": [
+    "POET",
+    "AAOI"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b9d7db398f4a",
+   "title": "Friday Sector Leaders: Computers, General Contractors & Builders",
+   "link": "https://www.nasdaq.com/articles/friday-sector-leaders-computers-general-contractors-builders",
+   "summary": "In trading on Friday, computers shares were relative leaders, up on the day by about 31.2%. Leading the group were shares of SanDisk, up about 664.6% and shares of HPQ up about 1.7% on the day. Also showing relative strength are general contractors &amp; builders shares, up on",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T17:33:29+00:00",
+   "tickers": [
+    "HPQ"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8765f3c69b4e",
+   "title": "S&P 500 Analyst Moves: DVN",
+   "link": "https://www.nasdaq.com/articles/sp-500-analyst-moves-dvn",
+   "summary": "The latest tally of analyst opinions from the major brokerage houses shows that among the components of the S&amp;P 500 index, Devon Energy is now the #11 analyst pick, moving up by 1 spot. This rank is formed by averaging the analyst opinions for each component from ea",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T17:31:56+00:00",
+   "tickers": [
+    "DVN"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -50,6 +113,20 @@
    "tag_v": 2
   },
   {
+   "id": "7c767a1e5265",
+   "title": "Nvidia Is Headed for Its 7th Straight Daily Decline. History Says This Happens Next",
+   "link": "https://www.nasdaq.com/articles/nvidia-headed-its-7th-straight-daily-decline-history-says-happens-next",
+   "summary": "Key PointsNvidia has fallen in every session since Jensen Huang's resignation.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T17:25:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "3c730cb6007e",
    "title": "Here's why we want to buy the sharp decline in this chip stock",
    "link": "https://www.cnbc.com/investingclub/2026/11/20/heres-why-we-want-to-buy-the-sharp-decline-in-this-chip-stock.html",
@@ -78,6 +155,20 @@
    "tag_v": 2
   },
   {
+   "id": "ae4552c19df8",
+   "title": "TSX Sinks To 6-Month Low As Tech Sector Crumbles",
+   "link": "https://www.nasdaq.com/articles/tsx-sinks-6-month-low-tech-sector-crumbles",
+   "summary": "(RTTNews) - The Canadian market shed ground on Friday and the benchmark S&amp;P/TSX Composite Index looked set to record its steepest weekly drop in over four years.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T17:21:09+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "7e5193d7ae91",
    "title": "Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
    "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
@@ -89,6 +180,54 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "385552642e72",
+   "title": "What Would Warren Buffett Do With Nike Stock Down 79% From Its Peak?",
+   "link": "https://www.nasdaq.com/articles/what-would-warren-buffett-do-nike-stock-down-79-its-peak",
+   "summary": "Key PointsDecades ago, Buffett voiced his skepticism of turnarounds.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T17:20:03+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3a057d735bcc",
+   "title": "Chewy vs. MercadoLibre: Which Consumer Stock Is a Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/chewy-vs-mercadolibre-which-consumer-stock-better-buy-2027",
+   "summary": "Key PointsChewy dominates the North American pet market through its high-margin subscription model and deep veterinary partnerships.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T17:20:02+00:00",
+   "tickers": [
+    "MELI",
+    "CHWY"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "81d8c4b3713d",
+   "title": "Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
+   "link": "https://www.nasdaq.com/articles/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-amd-and-micron-lead-brutal",
+   "summary": "As of 11:31 a.m. ET, the Nasdaq Composite (NASDAQINDEX:^IXIC) had plunged 2.80% to 23,210, while the S&amp;P 500 (SNPINDEX:^GSPC) fell 1.54% to 7,065, approaching the psychologically important 7,000 level. The Dow Jones Industrial Average (DJINDICES:^DJI) fared considerably bette",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T17:20:02+00:00",
+   "tickers": [
+    "AMD",
+    "MU"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -250,6 +389,55 @@
    "tag_v": 2
   },
   {
+   "id": "6ed3f79b9b1f",
+   "title": "Commit To Purchase Opendoor Technologies At $1, Earn 29% Using Options",
+   "link": "https://www.nasdaq.com/articles/commit-purchase-opendoor-technologies-1-earn-29-using-options",
+   "summary": "Investors eyeing a purchase of Opendoor Technologies Inc (Symbol: OPEN) stock, but cautious about paying the going market price of $1.49/share, might benefit from considering selling puts among the alternative strategies at their disposal. One interesting put contract in partic",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T17:09:02+00:00",
+   "tickers": [
+    "OPEN"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "86cc5801dc25",
+   "title": "See How Compania de Minas Buenaventura Ranks Among Analysts' Top Metals Picks",
+   "link": "https://www.nasdaq.com/articles/see-how-compania-de-minas-buenaventura-ranks-among-analysts-top-metals-picks-0",
+   "summary": "A study of analyst recommendations at the major brokerages shows that Compania de Minas Buenaventura S.A. (Symbol: BVN) is the #46 broker analyst pick, on average, out of the 50 stocks making up the Metals Channel Global Mining Titans Index, according to Metals Channel. The Met",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T17:08:56+00:00",
+   "tickers": [
+    "BVN"
+   ],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "7bb4c1b550f5",
+   "title": "Devon Energy Takes Over #11 Spot From Datadog",
+   "link": "https://www.nasdaq.com/articles/devon-energy-takes-over-11-spot-datadog",
+   "summary": "In a study of analyst recommendations at the major brokerages, for the underlying components of the S&amp;P 500, Devon Energy Corp. (Symbol: DVN) has taken over the #11 spot from Datadog Inc (Symbol: DDOG), according to ETF Channel. Below is a chart of Devon Energy Corp. versus",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T17:08:48+00:00",
+   "tickers": [
+    "DDOG",
+    "DVN"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "584963fe6392",
    "title": "Spain stocks lower at close of trade; IBEX 35 down 1.57%",
    "link": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-157-5042308",
@@ -353,6 +541,22 @@
    "tag_v": 2
   },
   {
+   "id": "cc6b5ab45d41",
+   "title": "Prediction: This Quantum Computing Stock Will Be the Biggest Winner of 2027",
+   "link": "https://www.nasdaq.com/articles/prediction-quantum-computing-stock-will-be-biggest-winner-2027",
+   "summary": "Key PointsPasqal's stock has crashed since its August debut, even though the business behind it keeps hitting technical milestones.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T17:07:01+00:00",
+   "tickers": [
+    "QUBT"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "7576271fb1a2",
    "title": "Why Is Buckle Stock Rising Friday? Women's Apparel Strength Helps Retailer Beat Q3 Estimates",
    "link": "https://www.benzinga.com/markets/earnings/26/11/63488888/why-is-buckle-stock-rising-friday-womens-apparel-strength-helps-retailer-beat-q3-estimates",
@@ -364,6 +568,22 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "9256c6ef1b85",
+   "title": "Is Brookfield Corporation Stock a Buy, Sell, or Hold 20% Below Its 52-Week High?",
+   "link": "https://www.nasdaq.com/articles/brookfield-corporation-stock-buy-sell-or-hold-20-below-its-52-week-high",
+   "summary": "Key PointsBrookfield's management team believes the stock is currently worth $67 per share.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T17:05:02+00:00",
+   "tickers": [
+    "BN"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -468,6 +688,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "003ea130a702",
+   "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+   "summary": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-20T16:52:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -7561,20 +7795,6 @@
    "tag_v": 2
   },
   {
-   "id": "85ad06a8c60b",
-   "title": "UK and EU agree deals on trade and youth movement, pledging to rebuild ties after Brexit - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaW9ETGFMaFhwLXBycnlkTXVlQmlReW5NSGdqVmNhbkVoeGZ3aEJ3cWlwdWZTb19QVVFGMTRJYkVUTHdrRHFtQjh0T05fRTVIUlE4RTdlUm03LVZGWEhBay1uU256NlUyRzZuLTZERExLb01lMHlSY1FDTHJETXVULVp1d0pnN3pvRmRpRTUxN3hNUW5peHlFM1Q4R3p6ekYyUF8tQUZhcw?oc=5",
-   "summary": "UK and EU agree deals on trade and youth movement, pledging to rebuild ties after Brexit&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-20T13:14:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "510065c26bb0",
    "title": "InterContinental Hotels Group PLC Announces Make-Whole Redemption of €500,000,000 2.125 per cent. Notes due 15 May 2027",
    "link": "https://www.nasdaq.com/articles/intercontinental-hotels-group-plc-announces-make-whole-redemption-eu500000000-2125-cent",
@@ -8760,216 +8980,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "63a11cee6596",
-   "title": "Cathie Wood on ARK's Anthropic position: Our confidence has grown with time",
-   "link": "https://www.cnbc.com/video/2026/11/20/cathie-wood-on-arks-anthropic-position-our-confidence-has-grown-with-time.html",
-   "summary": "Cathie Wood, Ark Invest CEO and CIO, joins 'Squawk Box' to discuss Anthropic's IPO debut, ARK's Anthropic investment, state of the AI trade, future of SpaceX, potential SpaceX-Tesla merger, and more.",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-20T12:51:39+00:00",
-   "tickers": [
-    "TSLA"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e897e54533ff",
-   "title": "Bitwise CIO Predicts Hyperliquid Could Become &quot;the Next Amazon.&quot; Here's Why He's Right.",
-   "link": "https://www.nasdaq.com/articles/bitwise-cio-predicts-hyperliquid-could-become-next-amazon-heres-why-hes-right",
-   "summary": "Key PointsAmazon is, among other things, a marketplace for goods.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T12:50:02+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "58c085c373f3",
-   "title": "US equity funds draw inflows for a third straight week",
-   "link": "https://www.investing.com/news/stock-market-news/us-equity-funds-draw-inflows-for-a-third-straight-week-5041601",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-20T12:49:21+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b7eb1d369bd1",
-   "title": "FirstEnergy Corp. Increases 2026-2030 Capital Investment Plan to $38 billion",
-   "link": "https://www.nasdaq.com/articles/firstenergy-corp-increases-2026-2030-capital-investment-plan-38-billion",
-   "summary": "FirstEnergy Corp. announced that the Public Service Commission of West Virginia issued an order on November 17, 2026, granting its wholly owned electric utility operating subsidiaries, Monongahela Power Company and The Potomac Edison Company, a Certificate of Public Convenience a",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T12:48:42+00:00",
-   "tickers": [
-    "FE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cbe6a9144281",
-   "title": "Exclusive-Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say",
-   "link": "https://www.investing.com/news/stock-market-news/exclusivebeijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5040979",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-20T12:48:33+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "faca07ff0845",
-   "title": "Rocket Lab Missed on Q3 Earnings -- and That's Great News",
-   "link": "https://www.nasdaq.com/articles/rocket-lab-missed-q3-earnings-and-thats-great-news",
-   "summary": "Key PointsRocket Lab missed on earnings but beat on sales last week -- and investors bid the shares up 16%.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T12:47:02+00:00",
-   "tickers": [
-    "RKLB"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "ec25287ea159",
-   "title": "Erasca falls 5% as early RAS cancer data leave key questions unanswered",
-   "link": "https://www.investing.com/news/stock-market-news/erasca-falls-5-as-early-ras-cancer-data-leave-key-questions-unanswered-5041590",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-20T12:46:20+00:00",
-   "tickers": [
-    "ERAS"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "9ea4f0d67967",
-   "title": "Cizzle Brands Corporation Announces Pricing of US$15,150,000 Public Offering and Nasdaq Listing | CZZLF Stock News",
-   "link": "https://www.stocktitan.net/news/CZZLF/cizzle-brands-corporation-announces-pricing-of-us-15-150-000-public-tk4lxb7igw1s.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-20T12:45:00+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e6951ad0e5e4",
-   "title": "IES Holdings Reports Fiscal 2026 Fourth Quarter and Full Year Results; Board Authorizes Additional $350 Million for Share Repurchase Program | IESC Stock News",
-   "link": "https://www.stocktitan.net/news/IESC/ies-holdings-reports-fiscal-2026-fourth-quarter-and-full-year-vztpqexvnzto.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-20T12:45:00+00:00",
-   "tickers": [
-    "IESC"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a6cc6b954cdb",
-   "title": "Guggenheim raises Woodward stock price target to $410 on strong quarter",
-   "link": "https://www.investing.com/news/analyst-ratings/guggenheim-raises-woodward-stock-price-target-to-410-on-strong-quarter-93CH-5041594",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-20T12:44:50+00:00",
-   "tickers": [
-    "WWD"
-   ],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "0a013b97d905",
-   "title": "Guggenheim raises Warner Music stock price target to $38 on growth",
-   "link": "https://www.investing.com/news/analyst-ratings/guggenheim-raises-warner-music-stock-price-target-to-38-on-growth-93CH-5041592",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-20T12:44:48+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "9ca81a13a0fc",
-   "title": "Guggenheim cuts X-Energy stock price target to $42 on valuation",
-   "link": "https://www.investing.com/news/analyst-ratings/guggenheim-cuts-xenergy-stock-price-target-to-42-on-valuation-93CH-5041591",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-20T12:44:45+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "e0555323e370",
-   "title": "Analysis-Trump touts Asia trade deal wins, but US agricultural exports disappoint",
-   "link": "https://www.investing.com/news/commodities-news/analysistrump-touts-asia-trade-deal-wins-but-us-agricultural-exports-disappoint-5041260",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-20T12:43:06+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8941d637e423",
-   "title": "Air Transat exits capital city due to low demand",
-   "link": "https://www.thestreet.com/travel/air-transat-exits-capital-city-due-to-low-demand",
-   "summary": "The Canadian holiday airline is exiting the market by May 2027.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-20T12:40:51+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8984,6 +8994,7 @@
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "RSP": "Invesco S&P 500 Equal Weight ETF",
   "IBM": "International Business Machines",
+  "BVN": "Compa??a de Minas Buenaventura",
   "BJ": "BJ's Wholesale Club Holdings",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "COPX": "Global X Copper Miners ETF",
@@ -8995,6 +9006,7 @@
   "APO": "Apollo Global Management",
   "BFH": "Bread Financial Holdings",
   "AAL": "American Airlines Group",
+  "AAOI": "Applied Optoelectronics",
   "ALNY": "Alnylam Pharmaceuticals",
   "CHRW": "C.H. Robinson Worldwide",
   "GS": "The Goldman Sachs Group",
@@ -9031,6 +9043,8 @@
   "JNJ": "Johnson & Johnson",
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
+  "POET": "POET Technologies",
+  "QUBT": "Quantum Computing",
   "COST": "Costco Wholesale",
   "GD": "General Dynamics",
   "IRTC": "iRhythm Holdings",
@@ -9050,6 +9064,7 @@
   "PYPL": "PayPal Holdings",
   "WDC": "Western Digital",
   "WSM": "Williams-Sonoma",
+  "HPQ": "Hewlett-Packard",
   "ADI": "Analog Devices",
   "BTU": "Peabody Energy",
   "CNH": "CNH Industrial",
@@ -9070,8 +9085,10 @@
   "UNH": "United Health",
   "CSGP": "CoStar Group",
   "DVLT": "Datavault AI",
+  "DVN": "Devon Energy",
   "IESC": "IES Holdings",
   "KLAR": "Klarna Group",
+  "MELI": "MercadoLibre",
   "STT": "State Street",
   "TM": "Toyota Motor",
   "UBS": "UBS Group AG",
@@ -9079,14 +9096,15 @@
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "EME": "EMCOR Group",
-  "FE": "FirstEnergy",
   "FSLR": "First Solar",
   "MORN": "Morningstar",
   "ROST": "Ross Stores",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "AZN": "AstraZeneca",
+  "DDOG": "Datadog Inc",
   "BA": "The Boeing",
+  "BN": "Brookfield",
   "CRM": "Salesforce",
   "CVS": "CVS Health",
   "DKNG": "DraftKings",
@@ -9122,7 +9140,6 @@
   "GOOG": "Alphabet",
   "PLD": "Prologis",
   "WLK": "Westlake",
-  "WWD": "Woodward",
   "FOX": "Fox Corp",
   "CNC": "Centene",
   "DHR": "Danaher",
@@ -9140,7 +9157,6 @@
   "ABNB": "Airbnb",
   "BULL": "Webull",
   "CPAY": "Corpay",
-  "ERAS": "Erasca",
   "HUM": "Humana",
   "INSM": "Insmed",
   "INTU": "Intuit",
@@ -9153,6 +9169,7 @@
   "SRE": "Sempra",
   "ANTM": "Anthem",
   "AFL": "Aflac",
+  "CHWY": "Chewy",
   "ETN": "Eaton",
   "FDX": "FedEx",
   "GGG": "Graco",
