@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-20T02:26:37.101072+00:00",
+ "generated": "2026-11-20T02:31:43.247395+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "bbfa930befea",
+   "title": "Amazon is selling a brushed fleece throw blanket for just $9",
+   "link": "https://www.thestreet.com/deals/exclusivo-mezcla-fleece-throw-blanket-amazon-sale-november-2026",
+   "summary": "\"If you're looking for comfort, style, and quality in one, this fleece blanket is an excellent choice,\" one shopper said.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-20T02:30:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "f4332e7ba412",
    "title": "Ellington Credit earnings missed by $0.05, revenue topped estimates",
@@ -1843,6 +1859,20 @@
    "tickers": [
     "PCG"
    ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2236fb0a505d",
+   "title": "Takeaways from the historic summit among Trump, Xi and Putin - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGR5Qm9EVktTdGlZU2p0QlJOOGRieUpsczVJc2RfTXA2XzZFRUtnaUNZWHdVLTN1X3JnZ2FTQ0J4V3ZyWkJEV21aMzhqV2pqbzB4amYyM0pCdWs4NWNUUE1aakhtWW9IZDhmR2ZSUl9NNFhXZ3JMQmEzVjJVVmswODFhOHU2VkZ5TmE3NWF3?oc=5",
+   "summary": "Takeaways from the historic summit among Trump, Xi and Putin&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-20T00:39:00+00:00",
+   "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8888,36 +8918,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "0be64e41c053",
-   "title": "Docusign to Announce Third Quarter Fiscal 2027 Financial Results on December 3, 2026",
-   "link": "https://www.prnewswire.com/news-releases/docusign-to-announce-third-quarter-fiscal-2027-financial-results-on-december-3-2026-302945965.html",
-   "summary": "SAN FRANCISCO, Nov. 19, 2026 /PRNewswire/ -- Docusign (Nasdaq: DOCU) today announced that it will release its third quarter fiscal 2027 financial results after the U.S. markets close on Thursday, December 3, 2026. The company will host a conference call and live webcast at 5:00 p.m....",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T21:05:00+00:00",
-   "tickers": [
-    "DOCU"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "282c9a4d5801",
-   "title": "Gorilla Technology Exceeds All Previous Quarterly Revenue Performance with US$69.5 Million in Q3 2026, Surging 163% Year on Year | GRRR Stock News",
-   "link": "https://www.stocktitan.net/news/GRRR/gorilla-technology-exceeds-all-previous-quarterly-revenue-n9esiplun3ch.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-19T21:05:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9045,7 +9045,6 @@
   "AIZ": "Assurant",
   "BCS": "Barclays",
   "CCL": "Carnival",
-  "DOCU": "DocuSign",
   "GOOG": "Alphabet",
   "ILMN": "Illumina",
   "SNPS": "Synopsys",
