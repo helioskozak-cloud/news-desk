@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-20T20:31:22.122482+00:00",
+ "generated": "2026-11-20T20:36:15.635993+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "5f4ada5eb989",
+   "title": "Goldman Sachs issues sobering verdict on S&P 500 year-end rally",
+   "link": "https://www.thestreet.com/investing/stocks/goldman-sachs-sp500-outlook",
+   "summary": "The next leg could look very different.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-20T20:33:00+00:00",
+   "tickers": [
+    "GS"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "4455417f4157",
    "title": "Bitcoin Poised For 'Great' 2027 as Fed Eyes Aggressive Rate Cuts, Expert Says",
@@ -1181,6 +1197,20 @@
     "SOFI"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "94e98cbb80fd",
+   "title": "A 2nd federal judge blocks construction of Trump’s memorial arch in DC - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkF0WE5uYlpOb3pKeUc0N0xDcThsTFdqbzFkU1c0STdiSGcxOWVxcUh1MC1fZy10YmpjVlNZallXelZWSnZFMXV5Y2dKYlNDUWNOLW0tVHB2WU1xRDhMam1vaVN5dF9tQXA3bTNyc2Nhem5BWHQwZWlCa3NncGw4SUJhZFg5YW9taDkzVHg4QzNJaERaSGVWdHVn?oc=5",
+   "summary": "A 2nd federal judge blocks construction of Trump’s memorial arch in DC&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-20T19:35:58+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8965,36 +8995,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "012d9c3ab3a3",
-   "title": "What a jump in implied correlation means for markets and the dispersion trade",
-   "link": "https://www.investing.com/news/stock-market-news/what-a-jump-in-implied-correlation-means-for-markets-and-the-dispersion-trade-93CH-5041933",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-20T14:11:15+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "03b76b373872",
-   "title": "RBC Capital reiterates Edwards Lifesciences stock rating on growth outlook",
-   "link": "https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-edwards-lifesciences-stock-rating-on-growth-outlook-93CH-5041930",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-20T14:10:55+00:00",
-   "tickers": [
-    "EW"
-   ],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9037,7 +9037,6 @@
   "AMP": "Ameriprise Financial",
   "AWK": "American Water Works",
   "CRWD": "CrowdStrike Holdings",
-  "EW": "Edwards Lifesciences",
   "RVMD": "Revolution Medicines",
   "MGA": "Magna International",
   "BRK-A": "Berkshire Hathaway",
