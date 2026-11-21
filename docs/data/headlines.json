@@ -1,8 +1,53 @@
 {
- "generated": "2026-11-21T13:46:27.774218+00:00",
+ "generated": "2026-11-21T13:51:03.736421+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "7834b8f0c1f0",
+   "title": "Why Anthropic's blockbuster IPO couldn't escape the stock market correction",
+   "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html",
+   "summary": "Anthropic's IPO was a big public market success for the company, but Friday's selloff shows that valuing the AI stock will remain volatile for investors.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-21T13:46:14+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3ce06d44b337",
+   "title": "Stock Market Sell-Off: History Says This Is the Smartest Move Investors Can Make Right Now",
+   "link": "https://www.nasdaq.com/articles/stock-market-sell-history-says-smartest-move-investors-can-make-right-now",
+   "summary": "Key PointsI have lived through multiple bear markets, including two that were deep and prolonged.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T13:35:00+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1da8d0fb5f6e",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T13:34:19+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "e12f20da9b41",
    "title": "Costco makes a tough store closure decision",
@@ -20,17 +65,35 @@
    "tag_v": 2
   },
   {
-   "id": "7834b8f0c1f0",
-   "title": "Why Anthropic's blockbuster IPO couldn't escape the market correction",
-   "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html",
-   "summary": "Anthropic's IPO was a big public market success for the company, but Friday's selloff shows that valuing the AI stock will remain volatile for investors.",
-   "source": "CNBC Top",
+   "id": "50d0f5f45cd6",
+   "title": "Bank of America sells $2,623 of Neuberger Municipal Fund stock",
+   "link": "https://www.investing.com/news/insider-trading-news/bank-of-america-sells-2623-of-neuberger-municipal-fund-stock-93CH-5043458",
+   "summary": "",
+   "source": "Investing.com",
    "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-21T13:32:37+00:00",
-   "tickers": [],
-   "type": "offering",
+   "domain": "investing.com",
+   "published": "2026-11-21T13:31:10+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8b023bdb145b",
+   "title": "AbbVie (ABBV) Stock Just Got a 5.2% Dividend Increase. Here's How Many Shares You Need to Generate $1,000 a Year.",
+   "link": "https://www.nasdaq.com/articles/abbvie-abbv-stock-just-got-52-dividend-increase-heres-how-many-shares-you-need-generate",
+   "summary": "Key PointsAbbVie's dividend yield of 2.4% is solid, but more importantly, it's been growing at an impressive clip.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T13:30:02+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -1225,23 +1288,6 @@
    "published": "2026-11-21T10:00:37+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1da8d0fb5f6e",
-   "title": "Stocks Meltdown as AI Trade Unravels",
-   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T10:00:21+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8775,48 +8821,6 @@
    "type": "dividend",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "ae437813a10b",
-   "title": "Snatch This Cheap 4.0% Yield Dividend Stock Even Lower Than Director Laverne Did",
-   "link": "https://www.nasdaq.com/articles/snatch-cheap-40-yield-dividend-stock-even-lower-director-laverne-did",
-   "summary": "There's an old saying on Wall Street about insider buying: there are many possible reasons to sell a stock, but only one reason to buy. Back on August 21, BayCom Corp's Director, Robert G. Laverne, invested $29,850.00 into 1,000 shares of BCML, for a cost per share of $29.85. B",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T21:16:47+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "ec1fcbc2883f",
-   "title": "Anthropic Stock—The Bull, Base And Bear Case Into Nasdaq-100 Entry",
-   "link": "https://www.benzinga.com/opinion/26/11/63512484/anthropic-stock-the-bull-base-and-bear-case-into-nasdaq-100-entry",
-   "summary": "Anthropic PBC (NASDAQ:ANT) fell from a $115.10 high on Nov 19 to an $83.15 low on Nov 20, a 27% drop in 2 sessions. Underwriters fully exercised their option on 147 million extra shares, so the overallotment short that normally funds a price-support bid is already closed. The Dec 15 lockup step makes up to 303 million shares, about $25.1 billion at $83, eligible for sale. That is about 5 times Bloomberg Intelligence&#8217;s $4.6 billion Nasdaq-100 buying estimate. SpaceX, the last mega-IPO, firs",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-20T21:15:56+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8714a4c40130",
-   "title": "Analysts See 40% Boost for Take-Two Stock on Blowout Grand Theft Auto VI Sales. Are They Right?",
-   "link": "https://www.nasdaq.com/articles/analysts-see-40-boost-take-two-stock-blowout-grand-theft-auto-vi-sales-are-they-right",
-   "summary": "Key PointsWall Street is bullish on Take-Two stock after GTA VI's release.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T21:15:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8944,6 +8948,7 @@
   "NFLX": "Netflix",
   "ZS": "Zscaler",
   "SPY": "SPY ETF",
+  "ABBV": "AbbVie",
   "AYI": "Acuity",
   "MTZ": "MasTec",
   "ORCL": "Oracle",
