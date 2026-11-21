@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T16:31:21.739460+00:00",
+ "generated": "2026-11-21T16:36:28.084891+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -1335,6 +1335,20 @@
     "AMD"
    ],
    "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "20c463de796b",
+   "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+   "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+   "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-21T13:00:01+00:00",
+   "tickers": [],
+   "type": "offering",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8789,22 +8803,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "1b4291c565e3",
-   "title": "Marvell Reports Dec. 1. History Says What Its Stock Usually Does Next.",
-   "link": "https://www.nasdaq.com/articles/marvell-reports-dec-1-history-says-what-its-stock-usually-does-next",
-   "summary": "Key PointsMarvell will release its fiscal third-quarter results on Tuesday, Dec. 1.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T21:43:02+00:00",
-   "tickers": [
-    "MRVL"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8830,7 +8828,6 @@
   "EQR": "Equity Residential",
   "ISRG": "Intuitive Surgical",
   "LUV": "Southwest Airlines",
-  "MRVL": "Marvell Technology",
   "PANW": "Palo Alto Networks",
   "RBLX": "Roblox Corporation",
   "AMAT": "Applied Materials",
