@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-21T08:36:11.939129+00:00",
+ "generated": "2026-11-21T08:41:13.283860+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d6e2052235da",
+   "title": "Here's How Much the Average Social Security Benefit Will Increase in 2027 After the 3.6% COLA",
+   "link": "https://www.nasdaq.com/articles/heres-how-much-average-social-security-benefit-will-increase-2027-after-36-cola",
+   "summary": "Key PointsSocial Security is getting its largest COLA in years in 2027.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T08:28:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "77e53a4bc129",
    "title": "Meta's India offices hit by opposition protests over account removals",
@@ -60,6 +74,22 @@
    "domain": "investing.com",
    "published": "2026-11-21T08:13:08+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4cb3f4872369",
+   "title": "Prediction: Here’s Where Alphabet Stock Will Be in 5 Years",
+   "link": "https://www.nasdaq.com/articles/prediction-heres-where-alphabet-stock-will-be-5-years",
+   "summary": "Key PointsAlphabet shares have sunk over concerns of overspending on AI data centers.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T08:10:02+00:00",
+   "tickers": [
+    "GOOG"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8796,42 +8826,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "606168d648f9",
-   "title": "Noteworthy Friday Option Activity: RIOT, RDW, WULF",
-   "link": "https://www.nasdaq.com/articles/noteworthy-friday-option-activity-riot-rdw-wulf",
-   "summary": "Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in Riot Platforms Inc (Symbol: RIOT), where a total of 216,013 contracts have traded so far, representing approximately 21.6 million underlying shares. That amounts to abou",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T20:23:16+00:00",
-   "tickers": [
-    "RIOT",
-    "RDW",
-    "WULF"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7aa62a15cecb",
-   "title": "Noteworthy Friday Option Activity: APLD, TEM, ALAB",
-   "link": "https://www.nasdaq.com/articles/noteworthy-friday-option-activity-apld-tem-alab",
-   "summary": "Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Applied Digital Corporation (Symbol: APLD), where a total volume of 157,637 contracts has been traded thus far today, a contract volume which is representative o",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T20:23:10+00:00",
-   "tickers": [
-    "APLD",
-    "TEM",
-    "ALAB"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8890,7 +8884,6 @@
   "WEC": "WEC Energy Group",
   "MARA": "Marathon Digital",
   "ANET": "Arista Networks",
-  "APLD": "Applied Digital",
   "BAC": "Bank of America",
   "BSY": "Bentley Systems",
   "CRML": "Critical Metals",
@@ -8911,7 +8904,6 @@
   "LNT": "Alliant Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
-  "RIOT": "Riot Platforms",
   "NET": "Cloudflare Inc",
   "CB": "Chubb Limited",
   "DNN": "Denison Mines",
@@ -8933,7 +8925,6 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
-  "ALAB": "Astera Labs",
   "FE": "FirstEnergy",
   "MORN": "Morningstar",
   "SIDU": "Sidus Space",
@@ -8956,7 +8947,6 @@
   "CRWV": "CoreWeave",
   "FRO": "Frontline",
   "SNOW": "Snowflake",
-  "TEM": "Tempus AI",
   "BBY": "Best Buy",
   "BCS": "Barclays",
   "CELC": "Celcuity",
@@ -8968,7 +8958,6 @@
   "NI": "NiSource",
   "TER": "Teradyne",
   "TPR": "Tapestry",
-  "WULF": "TeraWulf",
   "GAP": "The Gap",
   "GKOS": "Glaukos",
   "GLOB": "Globant",
@@ -8976,7 +8965,6 @@
   "IVZ": "Invesco",
   "NOVT": "Novanta",
   "PEP": "PepsiCo",
-  "RDW": "Redwire",
   "SNA": "Snap-on",
   "STNE": "StoneCo",
   "WMT": "Walmart",
