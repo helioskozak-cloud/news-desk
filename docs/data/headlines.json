@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-21T16:36:28.084891+00:00",
+ "generated": "2026-11-21T16:41:34.755229+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "20c463de796b",
+   "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+   "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+   "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-21T16:40:05+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "a19b94a40eab",
    "title": "Here's How Women's Average Social Security Benefit Compares by Age",
@@ -167,7 +181,7 @@
   },
   {
    "id": "e0f274ef6a16",
-   "title": "7-Eleven leads convenience store charge into fast food",
+   "title": "7-Eleven and Circle K follow Wawa into better food",
    "link": "https://www.thestreet.com/retail/circle-k-7-eleven-and-wawa-try-to-take-down-mcdonalds",
    "summary": "It's not just about price, and convenience stores have one edge McDonald's can't match.",
    "source": "TheStreet",
@@ -177,8 +191,8 @@
    "tickers": [
     "MCD"
    ],
-   "type": "legal",
-   "sentiment": "negative",
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -988,6 +1002,20 @@
    "tag_v": 2
   },
   {
+   "id": "9a30582062d7",
+   "title": "Scientists report strong new evidence that specially bred mosquitoes can fend off dengue - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnBPRzVsdHBmVnhPY2MyaDF3WGdMQU4wTXctT0syVXhUUFNQTVpsdkZPZm5VdkdwWTVuRFg4TVZMWDJxMlYtTElBTTVFNEVaVm9Zd19KQ3d0TWwxS1ZSWEVpZDNpWno2RFlYZG9RZS1RVjFHVDFHWWs4RTg5ZFZvSWs4SlFMVVF1V0tWUHlYODBFUnVITFhEZzZR?oc=5",
+   "summary": "Scientists report strong new evidence that specially bred mosquitoes can fend off dengue&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-21T14:00:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "7c98713eb987",
    "title": "Why Isn't Walmart's Stock Bouncing Back After Weak Earnings Results?",
    "link": "https://www.nasdaq.com/articles/why-isnt-walmarts-stock-bouncing-back-after-weak-earnings-results",
@@ -1335,20 +1363,6 @@
     "AMD"
    ],
    "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "20c463de796b",
-   "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-   "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-   "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-21T13:00:01+00:00",
-   "tickers": [],
-   "type": "offering",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8787,22 +8801,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "12aab8501b96",
-   "title": "GM board evaluates CEO succession options with Sterling Anderson in focus - report",
-   "link": "https://www.investing.com/news/stock-market-news/gm-board-evaluates-ceo-succession-options-with-sterling-anderson-in-focus--report-5042699",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-20T21:44:12+00:00",
-   "tickers": [
-    "GM"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8859,7 +8857,6 @@
   "B": "Barrick Mining",
   "DPZ": "Domino's Pizza",
   "FLNC": "Fluence Energy",
-  "GM": "General Motors",
   "HD": "The Home Depot",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
