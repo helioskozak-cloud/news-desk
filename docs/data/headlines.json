@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-21T18:56:16.819919+00:00",
+ "generated": "2026-11-21T19:01:32.042111+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2c4a4723eb8e",
+   "title": "Who really wins from AI?",
+   "link": "https://www.investing.com/news/stock-market-news/who-really-wins-from-ai-5043557",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-21T18:51:31+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "ef817f36091e",
    "title": "SDMC третий год подряд участвует в организуемом Google телевизионном саммите TV Summit, демонстрируя физический ИИ для дома",
@@ -16,6 +30,20 @@
     "GOOGL"
    ],
    "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d261df9934e1",
+   "title": "CV Sciences director Charlie Cheever III acquires $20,307 in common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/cv-sciences-director-charlie-cheever-iii-acquires-20307-in-common-stock-93CH-5043555",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-21T18:46:03+00:00",
+   "tickers": [],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8762,37 +8790,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c02b02c92b30",
-   "title": "Morgan Stanley sends a strong signal to Google stock investors",
-   "link": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-a-strong-signal-to-google-stock-investors",
-   "summary": "Google is entering a new phase, and Wall Street is paying attention to what it could mean for the stock.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-20T22:03:00+00:00",
-   "tickers": [
-    "MS",
-    "GOOGL"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "7808e16dca12",
-   "title": "Nvidia suffers worst week since 2008, as SEC probe report fuels post-Huang turmoil",
-   "link": "https://www.investing.com/news/stock-market-news/nvidia-shares-fall-10-as-report-of-sec-accounting-probe-adds-to-pressure-5042464",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-20T22:02:34+00:00",
-   "tickers": [],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8849,7 +8846,6 @@
   "FLNC": "Fluence Energy",
   "HD": "The Home Depot",
   "META": "Meta Platforms",
-  "MS": "Morgan Stanley",
   "QBTS": "D-Wave Quantum",
   "NET": "Cloudflare Inc",
   "EG": "Everest Group",
