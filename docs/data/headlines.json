@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-21T16:46:04.426737+00:00",
+ "generated": "2026-11-21T16:51:30.557935+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a8a9e13f5593",
+   "title": "Oprah Winfrey is shutting down a major media venture after 26 years",
+   "link": "https://www.thestreet.com/entertainment/oprah-winfrey-oprah-daily-shutting-down-after-26-years",
+   "summary": "Oprah Winfrey is making a major move that will affect her business empire, leaving consumers saying goodbye to a familiar brand after 26 years.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-21T16:47:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "20c463de796b",
    "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
@@ -14,6 +28,20 @@
    "published": "2026-11-21T16:40:05+00:00",
    "tickers": [],
    "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0da38c7a06c7",
+   "title": "Mid Penn Bancorp chief development officer sells $40 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/mid-penn-bancorp-chief-development-officer-sells-40-in-stock-93CH-5043520",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-21T16:31:12+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8771,36 +8799,6 @@
    "type": "macro",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "fd846786d305",
-   "title": "Blackstone Multi-Strategy Hedge Fund raises $60.5 million through unit sales",
-   "link": "https://www.investing.com/news/sec-filings/blackstone-multistrategy-hedge-fund-raises-605-million-through-unit-sales-93CH-5042700",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-20T21:44:41+00:00",
-   "tickers": [
-    "BX"
-   ],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "69548fe1052b",
-   "title": "WeRide (WRD) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/weride-wrd-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T21:44:26+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8887,7 +8885,6 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BA": "The Boeing",
-  "BX": "Blackstone",
   "CRM": "Salesforce",
   "DKNG": "DraftKings",
   "F": "Ford Motor",
