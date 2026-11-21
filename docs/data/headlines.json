@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-21T15:46:12.417793+00:00",
+ "generated": "2026-11-21T15:51:16.180320+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "bdd2be159bb4",
+   "title": "Debt-heavy CoreWeave just got $350M from Jensen Huang’s charity",
+   "link": "https://www.thestreet.com/investing/debt-heavy-coreweave-350m-jensen-huang-charity",
+   "summary": "The deal pulls CoreWeave closer to Nvidia’s orbit just as the chipmaker’s leadership crisis puts every link under a microscope.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-21T15:47:00+00:00",
+   "tickers": [
+    "CRWV"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "cc50bdea6ed8",
    "title": "Swarovski’s $89 crystal earrings that look like 'diamonds' are on sale for $30",
@@ -29,6 +45,52 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8a8fdb9e5fcf",
+   "title": "Comstock Inc. CEO Corrado De Gasperis buys $14,962 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/comstock-inc-ceo-corrado-de-gasperis-buys-14962-in-stock-93CH-5043500",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-21T15:31:11+00:00",
+   "tickers": [
+    "CRK"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "66dce242d199",
+   "title": "Comstock director Leo Drozdoff buys $19,950 in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/comstock-director-leo-drozdoff-buys-19950-in-company-stock-93CH-5043499",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-21T15:31:07+00:00",
+   "tickers": [
+    "CRK"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6f46b4d6d901",
+   "title": "Bitcoin rises over 2% to more than $60,000",
+   "link": "https://www.investing.com/news/forex-news/bitcoin-rises-over-2-to-more-than-60000-5043497",
+   "summary": "",
+   "source": "Investing Forex",
+   "category": "fx",
+   "domain": "investing.com",
+   "published": "2026-11-21T15:30:20+00:00",
+   "tickers": [],
+   "type": "fx",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8759,62 +8821,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "136c3b41ca66",
-   "title": "NextCure sets record and distribution dates for contingent value rights",
-   "link": "https://www.investing.com/news/sec-filings/nextcure-sets-record-and-distribution-dates-for-contingent-value-rights-93CH-5042690",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-20T21:32:43+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "27988fc8fe5b",
-   "title": "Anthropic falls 8.5%, nears IPO price as AI bubble fears fuel post-listing selloff",
-   "link": "https://www.investing.com/news/stock-market-news/anthropic-opens-34-above-ipo-price-reaches-2-trillion-valuation-in-nasdaq-debut-5039595",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-20T21:32:18+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "2a386c589221",
-   "title": "Abivax Statement on Short Seller Report | ABVX Stock News",
-   "link": "https://www.stocktitan.net/news/ABVX/abivax-statement-on-short-seller-2uu5sbhbni79.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-20T21:32:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ba9139ed3aa8",
-   "title": "Once Upon a Farm director Jennifer Garner purchases $118k in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/once-upon-a-farm-director-jennifer-garner-purchases-118k-in-shares-93CH-5042687",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-20T21:31:15+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8838,6 +8844,7 @@
   "BBAI": "BigBear.ai Holdings",
   "PTON": "Peloton Interactive",
   "BRK-A": "Berkshire Hathaway",
+  "CRK": "Comstock Resources",
   "DRI": "Darden Restaurants",
   "EQR": "Equity Residential",
   "ISRG": "Intuitive Surgical",
@@ -8916,6 +8923,7 @@
   "BC": "Brunswick",
   "BLK": "BlackRock",
   "CME": "CME Group",
+  "CRWV": "CoreWeave",
   "FRO": "Frontline",
   "SBUX": "Starbucks",
   "SNOW": "Snowflake",
