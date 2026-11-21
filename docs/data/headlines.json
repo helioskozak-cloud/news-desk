@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-21T12:11:17.147507+00:00",
+ "generated": "2026-11-21T12:16:19.554146+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "947a34e3bf88",
+   "title": "Amazon's now-$9 cushioned floor mat makes standing for long periods more comfortable",
+   "link": "https://www.thestreet.com/deals/happy-trends-cushioned-anti-fatigue-floor-mat-amazon-sale-november-2026",
+   "summary": "\"I really like the feel of this mat on my aching feet with Plantar Fasciitis.\"",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-21T12:15:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "3719c1eaee70",
    "title": "Tyson Foods changes course after meat plant closures",
@@ -889,6 +905,20 @@
    "published": "2026-11-21T08:19:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "892e7b764c61",
+   "title": "All 146 Air Niugini plane passengers and crew safe after an emergency landing in Philippines - AP News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVjgzY1JMWnhnb3NHTlJfcTM4U040S21mOW1UOUxYWnlqQTFUU3FLYW1FZ09GRmoxUkc3SjVNeUZuSjE1MWpvbHVsTGk2aEF5c05mQzVSSGpBOEJqXzY2aTNvMVNDYjhYMzBmYmdfZ2g2X3J6OXVOdTZ6NzhQbGJLWVp1QWpJV2ZtdEpNQVFER2kwajVrX29GaktsUlJnc1ZSUDIwZE5Nbk55Vmc3VTJSNXR3?oc=5",
+   "summary": "All 146 Air Niugini plane passengers and crew safe after an emergency landing in Philippines&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-21T08:14:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2630,20 +2660,6 @@
    "category": "macro",
    "domain": "cbsnews.com",
    "published": "2026-11-21T02:25:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "892e7b764c61",
-   "title": "All 146 Air Niugini plane passengers and crew safe after an emergency landing in Philippines - AP News",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVjgzY1JMWnhnb3NHTlJfcTM4U040S21mOW1UOUxYWnlqQTFUU3FLYW1FZ09GRmoxUkc3SjVNeUZuSjE1MWpvbHVsTGk2aEF5c05mQzVSSGpBOEJqXzY2aTNvMVNDYjhYMzBmYmdfZ2g2X3J6OXVOdTZ6NzhQbGJLWVp1QWpJV2ZtdEpNQVFER2kwajVrX29GaktsUlJnc1ZSUDIwZE5Nbk55Vmc3VTJSNXR3?oc=5",
-   "summary": "All 146 Air Niugini plane passengers and crew safe after an emergency landing in Philippines&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-21T02:24:00+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -8785,22 +8801,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "5df7516f3a52",
-   "title": "DNN Crosses Critical Technical Indicator",
-   "link": "https://www.nasdaq.com/articles/dnn-crosses-critical-technical-indicator",
-   "summary": "In trading on Friday, shares of Denison Mines Corp (Symbol: DNN) entered into oversold territory, changing hands as low as $1.68 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentum o",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T21:03:02+00:00",
-   "tickers": [
-    "DNN"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8870,7 +8870,6 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "NET": "Cloudflare Inc",
-  "DNN": "Denison Mines",
   "EG": "Everest Group",
   "ELF": "e.l.f. Beauty",
   "EXE": "Expand Energy",
