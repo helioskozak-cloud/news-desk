@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-21T16:21:35.465600+00:00",
+ "generated": "2026-11-21T16:26:07.891099+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d6e2394ca901",
+   "title": "More changes are coming for Southwest Airlines, CEO says",
+   "link": "https://www.cbsnews.com/video/more-changes-are-coming-for-southwest-airlines-ceo-says/",
+   "summary": "Southwest Airlines CEO Bob Jordan shared his plan to bring even more changes to his company and the customer experience. Kris Van Cleave has more.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-21T16:09:10+00:00",
+   "tickers": [
+    "LUV"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "e2c651af3cfa",
    "title": "Once-bankrupt home goods retailer returns, brings back beloved discount coupons",
@@ -5234,6 +5250,20 @@
    "tag_v": 2
   },
   {
+   "id": "e289a69c088d",
+   "title": "Redistricting did not help Republicans keep the House – but 2028 could look different - AP News",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oZVRQbXhaSk1ncFpIcl9zSnJFRUt2Ym5xMXF1bW1yM2FoZVJuTkdYcnFua2RVY2tEakpIYzNLZTZxZVRWcHpiVFlvaTVGRG9pUE82a2xPb09zaTZtTE9OeFhnZTY3aThoOTVmYVh2dzhDZUdSQ2NsX2htZHM?oc=5",
+   "summary": "Redistricting did not help Republicans keep the House – but 2028 could look different&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-21T01:07:49+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "518713c748ab",
    "title": "Roblox CFO admits ‘limited data’ on GTA 6 as BofA urges patience",
    "link": "https://www.thestreet.com/investing/roblox-cfo-limited-data-gta-6-bofa",
@@ -8776,39 +8806,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c8393195c0f0",
-   "title": "SDMC präsentiert sich zum dritten Mal in Folge auf TV Summit von Google und stellt seine KI-Lösungen für den Heimgebrauch vor",
-   "link": "https://www.prnewswire.com/news-releases/sdmc-prasentiert-sich-zum-dritten-mal-in-folge-auf-tv-summit-von-google-und-stellt-seine-ki-losungen-fur-den-heimgebrauch-vor-302947346.html",
-   "summary": "BANGKOK, 20. November 2026 /PRNewswire/ -- Auf dem Google TV Summit 2026 in Bangkok trat SDMC (00901.HK) zum dritten Mal in Folge als eingeladener Redner auf und stellte seine KI-Strategie für daheim unter dem Motto „Die Zukunft der physischen KI zu Hause mit Google gestalten\" vor....",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-20T21:40:00+00:00",
-   "tickers": [
-    "GOOGL"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f707dff8cf85",
-   "title": "Alliant Energy Moves Up In Market Cap Rank, Passing Snap-On",
-   "link": "https://www.nasdaq.com/articles/alliant-energy-moves-market-cap-rank-passing-snap",
-   "summary": "In the latest look at the underlying components of the S&amp;P 500 ordered by largest market capitalization, Alliant Energy Corp (Symbol: LNT) has taken over the #396 spot from Snap-On, Inc. (Symbol: SNA), according to The Online Investor. Market capitalization is an importa",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T21:39:34+00:00",
-   "tickers": [
-    "LNT",
-    "SNA"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8834,6 +8831,7 @@
   "DRI": "Darden Restaurants",
   "EQR": "Equity Residential",
   "ISRG": "Intuitive Surgical",
+  "LUV": "Southwest Airlines",
   "MRVL": "Marvell Technology",
   "PANW": "Palo Alto Networks",
   "RBLX": "Roblox Corporation",
@@ -8868,7 +8866,6 @@
   "FLNC": "Fluence Energy",
   "GM": "General Motors",
   "HD": "The Home Depot",
-  "LNT": "Alliant Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "NET": "Cloudflare Inc",
@@ -8928,7 +8925,6 @@
   "GKOS": "Glaukos",
   "GLOB": "Globant",
   "GLW": "Corning",
-  "SNA": "Snap-on",
   "WMT": "Walmart",
   "ZS": "Zscaler",
   "SPY": "SPY ETF",
