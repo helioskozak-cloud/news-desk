@@ -1,71 +1,8 @@
 {
- "generated": "2026-11-21T00:21:27.479301+00:00",
+ "generated": "2026-11-21T00:26:00.673301+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
-  {
-   "id": "1da8d0fb5f6e",
-   "title": "Stocks Meltdown as AI Trade Unravels",
-   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T00:16:33+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "af5d35ace9ae",
-   "title": "Nat-Gas Prices Rebound on Colder US Weather Forecasts",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-rebound-colder-us-weather-forecasts-0",
-   "summary": "December Nymex natural gas (NGZ26 ) closed up +0.143 (+4.38%) on Friday. Dec nat-gas prices shook off early losses on Friday and settled sharply higher. Forecasts for colder US weather next week sparked short covering in nat-gas futures, as colder temperatures could boost heating demand for nat gas. The National...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T00:16:33+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "71dc5be8cc2e",
-   "title": "Hogs Falling Back on Friday",
-   "link": "https://www.nasdaq.com/articles/hogs-falling-back-friday-1",
-   "summary": "Lean hog futures are falling back a dime to $1.50 across most contracts on Friday. USDA’s national base hog price was reported at $33.70 on Friday morning. The CME Lean Hog Index was down 27 cents on November 18 at $56.32. USDA’s pork carcass cutout value was back up $71.09...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T00:16:32+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "de1c048d64db",
-   "title": "Coffee Prices Fall on Expectations of Abundant Supplies",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-expectations-abundant-supplies",
-   "summary": "March arabica coffee (KCH26 ) closed down -7.50 (-2.72%) on Friday, and January ICE robusta coffee (RMF27 ) closed down -97 (-3.26%). Coffee prices moved lower on Friday, with arabica falling to a 1-week low and robusta falling to a 2.75-year low. Arabica coffee is under pressure on expectations of...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T00:16:32+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
   {
    "id": "749e977140c3",
    "title": "Corn Holding onto Friday Losses at Midday",
@@ -78,20 +15,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "83437d58569b",
-   "title": "Crude Prices Edge Higher on Middle East Tensions",
-   "link": "https://www.nasdaq.com/articles/crude-prices-edge-higher-middle-east-tensions",
-   "summary": "January WTI crude oil (CLF27 ) closed up +0.97 (+1.18%) on Friday, and January RBOB gasoline (RBF27 ) closed up +0.0096 (+0.39%). Crude oil and gasoline prices recovered from early losses on Friday and settled higher. Supply threats to crude oil remain due to flare-ups in the Middle East, with...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T00:10:37+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -108,23 +31,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "347e9402e049",
-   "title": "Stocks Sink as Tech Rout Deepens",
-   "link": "https://www.nasdaq.com/articles/stocks-sink-tech-rout-deepens",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.52% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.85%. December E-mini S&amp;P futures (ESZ26 ) are down -1.47%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T00:10:36+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -153,6 +59,56 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1da8d0fb5f6e",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T00:04:56+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "de1c048d64db",
+   "title": "Coffee Prices Fall on Expectations of Abundant Supplies",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-expectations-abundant-supplies",
+   "summary": "March arabica coffee (KCH26 ) closed down -7.50 (-2.72%) on Friday, and January ICE robusta coffee (RMF27 ) closed down -97 (-3.26%). Coffee prices moved lower on Friday, with arabica falling to a 1-week low and robusta falling to a 2.75-year low. Arabica coffee is under pressure on expectations of...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T00:04:56+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "347e9402e049",
+   "title": "Stocks Sink as Tech Rout Deepens",
+   "link": "https://www.nasdaq.com/articles/stocks-sink-tech-rout-deepens",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down -1.52% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.85%. December E-mini S&amp;P futures (ESZ26 ) are down -1.47%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T00:04:56+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -268,6 +224,20 @@
     "CBRL"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "83437d58569b",
+   "title": "Crude Prices Edge Higher on Middle East Tensions",
+   "link": "https://www.nasdaq.com/articles/crude-prices-edge-higher-middle-east-tensions",
+   "summary": "January WTI crude oil (CLF27 ) closed up +0.97 (+1.18%) on Friday, and January RBOB gasoline (RBF27 ) closed up +0.0096 (+0.39%). Crude oil and gasoline prices recovered from early losses on Friday and settled higher. Supply threats to crude oil remain due to flare-ups in the Middle East, with...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T23:48:37+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -431,6 +401,36 @@
    "published": "2026-11-20T23:37:35+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "af5d35ace9ae",
+   "title": "Nat-Gas Prices Rebound on Colder US Weather Forecasts",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-rebound-colder-us-weather-forecasts-0",
+   "summary": "December Nymex natural gas (NGZ26 ) closed up +0.143 (+4.38%) on Friday. Dec nat-gas prices shook off early losses on Friday and settled sharply higher. Forecasts for colder US weather next week sparked short covering in nat-gas futures, as colder temperatures could boost heating demand for nat gas. The National...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T23:37:30+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "71dc5be8cc2e",
+   "title": "Hogs Falling Back on Friday",
+   "link": "https://www.nasdaq.com/articles/hogs-falling-back-friday-1",
+   "summary": "Lean hog futures are falling back a dime to $1.50 across most contracts on Friday. USDA’s national base hog price was reported at $33.70 on Friday morning. The CME Lean Hog Index was down 27 cents on November 18 at $56.32. USDA’s pork carcass cutout value was back up $71.09...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T23:37:29+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -5897,20 +5897,6 @@
    "tag_v": 2
   },
   {
-   "id": "85ad06a8c60b",
-   "title": "UK and EU strike deals on trade and travel, pledging to rebuild ties after Brexit - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaW9ETGFMaFhwLXBycnlkTXVlQmlReW5NSGdqVmNhbkVoeGZ3aEJ3cWlwdWZTb19QVVFGMTRJYkVUTHdrRHFtQjh0T05fRTVIUlE4RTdlUm03LVZGWEhBay1uU256NlUyRzZuLTZERExLb01lMHlSY1FDTHJETXVULVp1d0pnN3pvRmRpRTUxN3hNUW5peHlFM1Q4R3p6ekYyUF8tQUZhcw?oc=5",
-   "summary": "UK and EU strike deals on trade and travel, pledging to rebuild ties after Brexit&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-20T20:06:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "2b5b7f8f0a5b",
    "title": "Integral Acquisition Corporation 1 Announces Liquidation and Redemption Amount",
    "link": "https://markets.businessinsider.com/news/stocks/integral-acquisition-corporation-1-announces-liquidation-and-redemption-amount-1036789224",
@@ -8908,6 +8894,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "1bf1a2c47ad4",
+   "title": "Survey Reveals: How Much Would People Pay for Ribeye Before Giving It Up? [2026]",
+   "link": "https://www.marketbeat.com/articles/survey-reveals-how-much-would-people-pay-for-ribeye-before-giving-it-up/",
+   "summary": "In a 2026 survey of 3,043 consumers, the average price at which shoppers said they’d stop buying a large ribeye steak was $20.34, up $2.88 from the reference price.",
+   "source": "MarketBeat",
+   "category": "stocks",
+   "domain": "marketbeat.com",
+   "published": "2026-11-20T17:15:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   }
  ],
