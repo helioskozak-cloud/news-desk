@@ -1,8 +1,39 @@
 {
- "generated": "2026-11-21T04:46:10.696448+00:00",
+ "generated": "2026-11-21T04:51:06.211587+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "889ac01ee98b",
+   "title": "Soybeans Rallies into the Weekend with Meal Leading the Way",
+   "link": "https://www.nasdaq.com/articles/soybeans-rallies-weekend-meal-leading-way",
+   "summary": "Soybeans rallied into the weekend, with support from meal, as contracts were fractional higher in some deferreds to 13 ¼ cents higher in the nearbys. January closed with a 10 ¾ cent loss on the week. The cmdtyView national average Cash Bean price was up 13 1/2 cents at $11.63...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T04:42:34+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "1da8d0fb5f6e",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T04:42:34+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "e02c7074f106",
    "title": "Robbins LLP Urges KGC Shareholders Who Lost Money Investing in Kinross Gold Corporation to Contact the Firm About Leading the Class Action",
@@ -20,17 +51,17 @@
    "tag_v": 2
   },
   {
-   "id": "889ac01ee98b",
-   "title": "Soybeans Rallies into the Weekend with Meal Leading the Way",
-   "link": "https://www.nasdaq.com/articles/soybeans-rallies-weekend-meal-leading-way",
-   "summary": "Soybeans rallied into the weekend, with support from meal, as contracts were fractional higher in some deferreds to 13 ¼ cents higher in the nearbys. January closed with a 10 ¾ cent loss on the week. The cmdtyView national average Cash Bean price was up 13 1/2 cents at $11.63...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T04:29:43+00:00",
+   "id": "fc6a878f4c15",
+   "title": "Bitcoin falls 5.10% to $55,830",
+   "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
+   "summary": "",
+   "source": "Investing Forex",
+   "category": "fx",
+   "domain": "investing.com",
+   "published": "2026-11-21T04:30:19+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
+   "type": "fx",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -59,20 +90,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fc6a878f4c15",
-   "title": "Bitcoin falls 3.57% to $56,814",
-   "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
-   "summary": "",
-   "source": "Investing Forex",
-   "category": "fx",
-   "domain": "investing.com",
-   "published": "2026-11-21T04:12:24+00:00",
-   "tickers": [],
-   "type": "fx",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -114,23 +131,6 @@
    "published": "2026-11-21T04:01:00+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1da8d0fb5f6e",
-   "title": "Stocks Meltdown as AI Trade Unravels",
-   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T03:59:44+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -993,6 +993,34 @@
    "category": "macro",
    "domain": "cbsnews.com",
    "published": "2026-11-21T02:25:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "892e7b764c61",
+   "title": "All 146 Air Niugini plane passengers and crew safe after an emergency landing in Philippines - AP News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVjgzY1JMWnhnb3NHTlJfcTM4U040S21mOW1UOUxYWnlqQTFUU3FLYW1FZ09GRmoxUkc3SjVNeUZuSjE1MWpvbHVsTGk2aEF5c05mQzVSSGpBOEJqXzY2aTNvMVNDYjhYMzBmYmdfZ2g2X3J6OXVOdTZ6NzhQbGJLWVp1QWpJV2ZtdEpNQVFER2kwajVrX29GaktsUlJnc1ZSUDIwZE5Nbk55Vmc3VTJSNXR3?oc=5",
+   "summary": "All 146 Air Niugini plane passengers and crew safe after an emergency landing in Philippines&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-21T02:24:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "05fa3122b1cc",
+   "title": "Court stay prevents US Army from detonating bomb-making chemicals in Iowa - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMDltMER2WkVsblcxS1NWVnh2MEM5cXBQbV82S3R3U1doMTlvVVZYSE4wNDRyNExSRGp5dktqdHlqYjJRb2RqQUxiVE1RaW9oU3d0MFViY2h5MlUxYzNEUnhROVgzYkhuaFR5WURpcDNCWTY0dHE2ekJka2dhb3JTY0E3aVlfWWNPaE90ci1R?oc=5",
+   "summary": "Court stay prevents US Army from detonating bomb-making chemicals in Iowa&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-21T02:20:00+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
@@ -2766,20 +2794,6 @@
    "tag_v": 2
   },
   {
-   "id": "05fa3122b1cc",
-   "title": "Court stay prevents US Army from detonating bomb-making chemicals in Iowa - AP News",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMDltMER2WkVsblcxS1NWVnh2MEM5cXBQbV82S3R3U1doMTlvVVZYSE4wNDRyNExSRGp5dktqdHlqYjJRb2RqQUxiVE1RaW9oU3d0MFViY2h5MlUxYzNEUnhROVgzYkhuaFR5WURpcDNCWTY0dHE2ekJka2dhb3JTY0E3aVlfWWNPaE90ci1R?oc=5",
-   "summary": "Court stay prevents US Army from detonating bomb-making chemicals in Iowa&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-21T00:03:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "3b445b22e5bb",
    "title": "Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History",
    "link": "https://www.nasdaq.com/articles/prediction-nvidia-stock-will-do-6-months-after-new-ceo-takes-over-according-history",
@@ -4449,20 +4463,6 @@
    "published": "2026-11-20T22:15:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "003ea130a702",
-   "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
-   "summary": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-20T22:15:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
