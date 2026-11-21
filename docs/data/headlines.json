@@ -1,8 +1,25 @@
 {
- "generated": "2026-11-21T14:11:39.000843+00:00",
+ "generated": "2026-11-21T14:16:14.776988+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1da8d0fb5f6e",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T14:10:05+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "7834b8f0c1f0",
    "title": "Why Anthropic's blockbuster IPO couldn't escape the stock market correction",
@@ -74,6 +91,36 @@
    "tag_v": 2
   },
   {
+   "id": "7c98713eb987",
+   "title": "Why Isn't Walmart's Stock Bouncing Back After Weak Earnings Results?",
+   "link": "https://www.nasdaq.com/articles/why-isnt-walmarts-stock-bouncing-back-after-weak-earnings-results",
+   "summary": "Key PointsInvestors were more impressed by the retail titan's guidance raise.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T13:57:44+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "type": "earnings",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a67c98af67c3",
+   "title": "Nvidia Stock Falls to $150 Per Share. Is It a Buy Now?",
+   "link": "https://www.nasdaq.com/articles/nvidia-stock-falls-150-share-it-buy-now",
+   "summary": "Key PointsNvidia is still a dominant company even without Jensen Huang.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T13:57:01+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "843682f3937e",
    "title": "Iran claims U.S. F-16 damaged, drones downed as tankers hit off Oman",
    "link": "https://www.investing.com/news/economy-news/iran-war-sees-tanker-hit-near-hormuz-as-saudi-arabia-intercepts-houthi-missiles-5043277",
@@ -128,23 +175,6 @@
    "published": "2026-11-21T13:35:00+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1da8d0fb5f6e",
-   "title": "Stocks Meltdown as AI Trade Unravels",
-   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T13:34:19+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8789,36 +8819,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "9541f28f2d7c",
-   "title": "Beeline and TYTL to Host Joint Stakeholder Update Call on Merger Agreement with TYTL Corp. | BLNE Stock News",
-   "link": "https://www.stocktitan.net/news/BLNE/beeline-and-tytl-to-host-joint-stakeholder-update-call-on-merger-8jwecas9ucs2.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-20T21:22:00+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "02f060ec6749",
-   "title": "Expand Energy Corporation Establishes $1.0 billion Commercial Paper Program",
-   "link": "https://www.nasdaq.com/articles/expand-energy-corporation-establishes-10-billion-commercial-paper-program",
-   "summary": "On November 20, 2026, Expand Energy Corporation established a U.S. commercial paper program on a private placement basis. Under the program, the company may issue short-term, unsecured commercial paper notes from time to time. The aggregate face or principal amount of the notes o",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T21:21:14+00:00",
-   "tickers": [
-    "EXE"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8887,7 +8887,6 @@
   "NET": "Cloudflare Inc",
   "EG": "Everest Group",
   "ELF": "e.l.f. Beauty",
-  "EXE": "Expand Energy",
   "HSBC": "HSBC Holdings",
   "KO": "The Coca-Cola",
   "POST": "Post Holdings",
