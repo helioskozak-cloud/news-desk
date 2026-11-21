@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-21T05:21:37.913993+00:00",
+ "generated": "2026-11-21T05:26:38.187608+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "aae34b14f749",
+   "title": "Morningstar’s executive chairman Joseph D. Mansueto sells $1.7M in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/morningstars-executive-chairman-joseph-d-mansueto-sells-17m-in-shares-93CH-5043178",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-21T05:16:05+00:00",
+   "tickers": [
+    "MORN"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "06ad55cd9cbf",
+   "title": "Aeon Biopharma CLO purchases $17,478 in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/aeon-biopharma-clo-purchases-17478-in-company-stock-93CH-5043177",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-21T05:15:55+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "c73ec67a6f6a",
    "title": "Walmart’s farmhouse storage cabinets can help you get organized, starting at $50",
@@ -14,6 +44,37 @@
    "published": "2026-11-21T05:15:00+00:00",
    "tickers": [
     "WMT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "889ac01ee98b",
+   "title": "Soybeans Rallies into the Weekend with Meal Leading the Way",
+   "link": "https://www.nasdaq.com/articles/soybeans-rallies-weekend-meal-leading-way",
+   "summary": "Soybeans rallied into the weekend, with support from meal, as contracts were fractional higher in some deferreds to 13 ¼ cents higher in the nearbys. January closed with a 10 ¾ cent loss on the week. The cmdtyView national average Cash Bean price was up 13 1/2 cents at $11.63...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T05:08:09+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "1da8d0fb5f6e",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T05:08:09+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
    ],
    "type": "stocks",
    "sentiment": "neutral",
@@ -71,37 +132,6 @@
    "domain": "investing.com",
    "published": "2026-11-21T04:52:37+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "889ac01ee98b",
-   "title": "Soybeans Rallies into the Weekend with Meal Leading the Way",
-   "link": "https://www.nasdaq.com/articles/soybeans-rallies-weekend-meal-leading-way",
-   "summary": "Soybeans rallied into the weekend, with support from meal, as contracts were fractional higher in some deferreds to 13 ¼ cents higher in the nearbys. January closed with a 10 ¾ cent loss on the week. The cmdtyView national average Cash Bean price was up 13 1/2 cents at $11.63...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T04:48:58+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1da8d0fb5f6e",
-   "title": "Stocks Meltdown as AI Trade Unravels",
-   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T04:48:58+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8820,34 +8850,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "ad42e91ac3ac",
-   "title": "Cattle Posting Mixed Trade Ahead of USDA Report",
-   "link": "https://www.nasdaq.com/articles/cattle-posting-mixed-trade-ahead-usda-report",
-   "summary": "Live cattle futures are down a tick to 52 cents higher at midday. Cash trade has been limited with USDA picking up a few $215-216 sales in the north so far this week. The Friday Fed Cattle Exchange auction saw no sales on the 2,092 head offered, with a few...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T19:59:40+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "76e45e36eb85",
-   "title": "More than 100 Partners Support ACWA’s Vision for Our Water Future",
-   "link": "https://markets.businessinsider.com/news/stocks/more-than-100-partners-support-acwa-s-vision-for-our-water-future-1036789183",
-   "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;SACRAMENTO, Calif., Nov. 20, 2026 (GLOBE NEWSWIRE) -- As California prepares for a new governor, affordability remains a central concern for residents across the state. The cost of providing reliable water service is an important part of that...",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-11-20T19:59:14+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8951,6 +8953,7 @@
   "NVDA": "Grace Hopper",
   "ALAB": "Astera Labs",
   "FE": "FirstEnergy",
+  "MORN": "Morningstar",
   "SIDU": "Sidus Space",
   "TSN": "Tyson Foods",
   "AAPL": "Apple Watch",
