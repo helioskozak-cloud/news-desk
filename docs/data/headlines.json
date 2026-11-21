@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-21T20:31:18.242362+00:00",
+ "generated": "2026-11-21T20:36:30.593095+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e56d9e24b256",
+   "title": "Here's the Average Social Security Benefit for Men by Age",
+   "link": "https://www.nasdaq.com/articles/heres-average-social-security-benefit-men-age",
+   "summary": "Key PointsAs of December 2025, men receive an average monthly benefit of $2,282.28, which is $409.85 higher than the average for women.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T20:20:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "4952e9508fcc",
    "title": "Walmart has a 12.5-foot solar Christmas tree light for $30",
@@ -58,6 +72,22 @@
    "published": "2026-11-21T20:06:10+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5da363045643",
+   "title": "1 Compelling Reason to Buy Vistra Stock Before November Ends",
+   "link": "https://www.nasdaq.com/articles/1-compelling-reason-buy-vistra-stock-november-ends",
+   "summary": "Key PointsVistra stock has fallen 20% this year as regulatory scrutiny and concerns over electricity costs weigh on independent power producers.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T20:05:02+00:00",
+   "tickers": [
+    "VST"
+   ],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -119,6 +149,22 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "0b4709fd1e1e",
+   "title": "CAVA vs. On: Which Consumer Stock Is a Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/cava-vs-which-consumer-stock-better-buy-2027",
+   "summary": "Key PointsCAVA Group is rapidly expanding its Mediterranean fast-casual footprint while growing its retail presence in grocery stores.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T19:54:22+00:00",
+   "tickers": [
+    "CAVA"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8753,51 +8799,6 @@
    "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "aba5370046cd",
-   "title": "Kidz AI updates agreement with Chardan Capital Markets on stock purchase terms",
-   "link": "https://www.investing.com/news/sec-filings/kidz-ai-updates-agreement-with-chardan-capital-markets-on-stock-purchase-terms-93CH-5042806",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-20T22:29:55+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b78c4abdf660",
-   "title": "Acuity Inc. Entered into Amendment No. 1 to Credit Agreement Providing for Unsecured Delayed Draw Term Loan Facility of up to $400 million",
-   "link": "https://www.nasdaq.com/articles/acuity-inc-entered-amendment-no-1-credit-agreement-providing-unsecured-delayed-draw-term",
-   "summary": "On November 19, 2026, Acuity Inc. entered into an Amendment No. 1 to that certain Credit Agreement, dated as of May 8, 2026, among the Company, the subsidiary borrowers from time to time party thereto, the various lenders from time to time party thereto, and JPMorgan Chase Bank,",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T22:29:15+00:00",
-   "tickers": [
-    "JPM",
-    "AYI"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d404f4af6fcc",
-   "title": "Western Asset High Yield Opportunity Fund Inc. Amends Bylaws Effective November 16, 2026",
-   "link": "https://www.nasdaq.com/articles/western-asset-high-yield-opportunity-fund-inc-amends-bylaws-effective-november-16-2026",
-   "summary": "Western Asset High Yield Opportunity Fund Inc. announced that its Board of Directors amended and restated the bylaws of the Fund in their entirety, effective November 16, 2026. The Fifth Amended and Restated Bylaws introduce several provisions governing stockholder meetings, dire",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T22:29:07+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8879,6 +8880,7 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BA": "The Boeing",
+  "CAVA": "CAVA Group",
   "DKNG": "DraftKings",
   "F": "Ford Motor",
   "MCD": "McDonald's",
@@ -8910,10 +8912,10 @@
   "SPY": "SPY ETF",
   "ABBV": "AbbVie",
   "ABNB": "Airbnb",
-  "AYI": "Acuity",
   "MTZ": "MasTec",
   "ORCL": "Oracle",
   "PFE": "Pfizer",
+  "VST": "Vistra",
   "CIEN": "Ciena",
   "FIG": "Figma",
   "INTC": "Intel",
