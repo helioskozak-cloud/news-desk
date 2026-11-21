@@ -1,8 +1,53 @@
 {
- "generated": "2026-11-21T08:46:10.135664+00:00",
+ "generated": "2026-11-21T08:50:59.240852+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1da8d0fb5f6e",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T08:46:20+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fb12622816a9",
+   "title": "Wheat Posting Mixed Friday Trade",
+   "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-friday-trade",
+   "summary": "The wheat complex is trading with contracts mixed, retreating from early gains. Chicago SRW futures are 1 to 3 cents lower across the front months. December options expire today. KC HRW futures are 1 to 2 cents higher at midday. MPLS spring wheat are 2 to 4 cents in the...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T08:46:19+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "78157484da84",
+   "title": "Drilling Tools director Ira Green buys $7,865 in DTI stock",
+   "link": "https://www.investing.com/news/insider-trading-news/drilling-tools-director-ira-green-buys-7865-in-dti-stock-93CH-5043291",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-21T08:31:19+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "d6e2052235da",
    "title": "Here's How Much the Average Social Security Benefit Will Increase in 2027 After the 3.6% COLA",
@@ -30,37 +75,6 @@
     "META"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1da8d0fb5f6e",
-   "title": "Stocks Meltdown as AI Trade Unravels",
-   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T08:20:55+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fb12622816a9",
-   "title": "Wheat Posting Mixed Friday Trade",
-   "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-friday-trade",
-   "summary": "The wheat complex is trading with contracts mixed, retreating from early gains. Chicago SRW futures are 1 to 3 cents lower across the front months. December options expire today. KC HRW futures are 1 to 2 cents higher at midday. MPLS spring wheat are 2 to 4 cents in the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T08:20:55+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8808,24 +8822,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "205bfc5ca8b3",
-   "title": "Notable Friday Option Activity: NFLX, EMN, CSIQ",
-   "link": "https://www.nasdaq.com/articles/notable-friday-option-activity-nflx-emn-csiq",
-   "summary": "Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Netflix Inc (Symbol: NFLX), where a total volume of 352,927 contracts has been traded thus far today, a contract volume which is representative of approximately",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T20:23:19+00:00",
-   "tickers": [
-    "NFLX",
-    "EMN",
-    "CSIQ"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8875,7 +8871,6 @@
   "UBER": "Uber Technologies",
   "AMKR": "Amkor Technology",
   "CLF": "Cleveland-Cliffs",
-  "EMN": "Eastman Chemical",
   "ENSG": "The Ensign Group",
   "GTLS": "Chart Industries",
   "JPM": "JPMorgan Chase &",
@@ -8895,7 +8890,6 @@
   "REG": "Regency Centers",
   "WDC": "Western Digital",
   "B": "Barrick Mining",
-  "CSIQ": "Canadian Solar",
   "DPZ": "Domino's Pizza",
   "ENPH": "Enphase Energy",
   "GM": "General Motors",
