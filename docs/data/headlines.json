@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T14:31:35.410565+00:00",
+ "generated": "2026-11-21T14:36:35.880159+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -1753,6 +1753,23 @@
    "tickers": [],
    "type": "ma",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "02fecf0b594a",
+   "title": "Owens Corning's Stock Slump May Have a Silver Lining for Dividend Investors",
+   "link": "https://www.marketbeat.com/articles/owens-cornings-stock-slump-may-have-a-silver-lining-for-dividend-investors/",
+   "summary": "Owens Corning stock fell after a Q3 earnings miss and weak Q4 guidance, as soft housing data and declining roofing sales pressure shares, though the dividend remains well covered by free cash flow.",
+   "source": "MarketBeat",
+   "category": "stocks",
+   "domain": "marketbeat.com",
+   "published": "2026-11-21T08:35:00+00:00",
+   "tickers": [
+    "OC",
+    "GLW"
+   ],
+   "type": "dividend",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -4341,7 +4358,7 @@
    "id": "129893e3e0c5",
    "title": "Hot chicken chain closes locations after Chapter 11 bankruptcy",
    "link": "https://www.thestreet.com/restaurants/party-fowl-hot-chicken-closes-locations-after-bankruptcy",
-   "summary": "Nashville-based fried chicken chain Party Fowl reveals its plans.",
+   "summary": "Party Fowl made it through bankruptcy, but the restaurants it kept are going dark one at a time.",
    "source": "TheStreet",
    "category": "stocks",
    "domain": "thestreet.com",
@@ -8804,23 +8821,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "5a228a1ff924",
-   "title": "CrowdStrike weighs Zscaler buyout in potential cybersecurity mega-deal - Bloomberg",
-   "link": "https://www.investing.com/news/stock-market-news/crowdstrike-weighs-zscaler-buyout-in-potential-265-billion-cyber-deal--bloomberg-5042662",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-20T21:24:44+00:00",
-   "tickers": [
-    "CRWD",
-    "ZS"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8891,6 +8891,7 @@
   "ELF": "e.l.f. Beauty",
   "HSBC": "HSBC Holdings",
   "KO": "The Coca-Cola",
+  "OC": "Owens Corning",
   "POST": "Post Holdings",
   "UNP": "Union Pacific",
   "WFC": "Wells Fargo &",
@@ -8939,6 +8940,7 @@
   "TPR": "Tapestry",
   "GKOS": "Glaukos",
   "GLOB": "Globant",
+  "GLW": "Corning",
   "NOVT": "Novanta",
   "SNA": "Snap-on",
   "STNE": "StoneCo",
