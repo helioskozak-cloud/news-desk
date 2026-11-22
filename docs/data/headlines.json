@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:21:35.257367+00:00",
+ "generated": "2026-11-22T08:26:31.770588+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -43,6 +43,23 @@
    "tickers": [],
    "type": "downgrade",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "e0f3597be929",
+   "title": "Mortgage Rates Have Jumped More Than 1 Point Since February. Home Depot and Lowe’s Shareholders Are Feeling the Pain.",
+   "link": "https://www.nasdaq.com/articles/mortgage-rates-have-jumped-more-1-point-february-home-depot-and-lowes-shareholders-are",
+   "summary": "Key PointsHome Depot and Lowe's both reported declining comparable transactions in the third fiscal quarter.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-22T07:43:02+00:00",
+   "tickers": [
+    "HD",
+    "LOW"
+   ],
+   "type": "macro",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8790,20 +8807,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "b1ff4a6291c4",
-   "title": "Theriva Biologics, Inc. Announces 1-for-30 Reverse Stock Split",
-   "link": "https://www.nasdaq.com/articles/theriva-biologics-inc-announces-1-30-reverse-stock-split",
-   "summary": "Theriva Biologics, Inc. announced that its Board of Directors approved a 1-for-30 reverse stock split of the Company&rsquo;s issued, outstanding and authorized common stock. The reverse stock split is anticipated to be effective as of 11:59 p.m. (Eastern Time) on December 1, 2026",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T01:58:38+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8841,6 +8844,7 @@
   "UBER": "Uber Technologies",
   "COST": "Costco Wholesale",
   "ENSG": "The Ensign Group",
+  "LOW": "Lowe's Companies",
   "NVO": "Novo Nordisk A/S",
   "RCAT": "Red Cat Holdings",
   "VMC": "Vulcan Materials",
