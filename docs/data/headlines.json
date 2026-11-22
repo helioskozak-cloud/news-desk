@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T12:41:36.987270+00:00",
+ "generated": "2026-11-22T12:46:15.656020+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -17,6 +17,36 @@
     "COST"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d3bf32628c89",
+   "title": "Galaxy Digital director Douglas Deason acquires $200,850 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/galaxy-digital-director-douglas-deason-acquires-200850-in-shares-93CH-5043959",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-22T12:31:11+00:00",
+   "tickers": [
+    "GLXY"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0b19e90072f6",
+   "title": "COP31 climate talks break down as EU and others reject deal",
+   "link": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-22T12:30:27+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -223,20 +253,6 @@
    "published": "2026-11-22T11:46:08+00:00",
    "tickers": [],
    "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0b19e90072f6",
-   "title": "COP31 climate talks break down as EU, others reject deal",
-   "link": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-22T11:42:26+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7014,6 +7030,22 @@
    "tag_v": 2
   },
   {
+   "id": "3d994c80c714",
+   "title": "Jazz Pharmaceuticals CEO Touts Ziihera Launch, Pipeline After Raising Revenue Guidance",
+   "link": "https://www.nasdaq.com/articles/jazz-pharmaceuticals-ceo-touts-ziihera-launch-pipeline-after-raising-revenue-guidance",
+   "summary": "Jazz Pharmaceuticals (NASDAQ:JAZZ) is counting on new drug launches, pipeline studies and acquisitions to sustain growth across its sleep, epilepsy and oncology businesses, President and CEO Renee Gala said at an investor event. Gala pointed to third-quarter revenue of $1.24 bil",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T12:12:06+00:00",
+   "tickers": [
+    "JAZZ"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "3719c1eaee70",
    "title": "Tyson Foods changes course after meat plant closures",
    "link": "https://www.thestreet.com/retail/tyson-foods-changes-course-after-meat-plant-closures",
@@ -8784,34 +8816,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "76bb6be75ebf",
-   "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5",
-   "summary": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-21T04:55:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "38903964df5b",
-   "title": "How to invest in transformational innovation",
-   "link": "https://www.investing.com/news/stock-market-news/how-to-invest-in-transformational-innovation-5043160",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-21T04:52:37+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8828,6 +8832,7 @@
   "VZ": "Verizon Communications",
   "CWST": "Casella Waste Systems",
   "BLDR": "Builders FirstSource",
+  "JAZZ": "Jazz Pharmaceuticals",
   "SMCI": "Super Micro Computer",
   "AKAM": "Akamai Technologies",
   "IP": "International Paper",
@@ -8858,6 +8863,7 @@
   "LMT": "Lockheed Martin",
   "PYPL": "PayPal Holdings",
   "FLNC": "Fluence Energy",
+  "GLXY": "Galaxy Digital",
   "HD": "The Home Depot",
   "META": "Meta Platforms",
   "QBTS": "D-Wave Quantum",
