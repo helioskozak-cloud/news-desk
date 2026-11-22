@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T18:26:31.217341+00:00",
+ "generated": "2026-11-22T18:31:37.108467+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,34 @@
    "published": "2026-11-22T18:23:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0329d035fbe2",
+   "title": "US intelligence chief predicts more tech outages as systems undergo upgrades",
+   "link": "https://www.investing.com/news/stock-market-news/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades-5044089",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-22T18:18:21+00:00",
+   "tickers": [],
+   "type": "upgrade",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "440c8443196d",
+   "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0ZaSUxXY2RGTWZBcXdNRjV0eWhIZUdfWjFBSmI1OHBGZy1qRWFpNnJxZDJVOC14dVFGZGdSS3NfeFNsQm1IcmJIWGs4M0l5alZQZVhDek80S1lnQ3plUkRrbm9uaE44RWtNMTBDTWRLUmdGLWVVUDRJZ1J5TmR4QU5vWW5qT2NvOHB3dklzcFZ2ZFltMy1SYVdJQnNRZFBiaURJN2t0bjExaE0?oc=5",
+   "summary": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-22T18:13:12+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8839,38 +8867,6 @@
    "type": "markets",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "3d994c80c714",
-   "title": "Jazz Pharmaceuticals CEO Touts Ziihera Launch, Pipeline After Raising Revenue Guidance",
-   "link": "https://www.nasdaq.com/articles/jazz-pharmaceuticals-ceo-touts-ziihera-launch-pipeline-after-raising-revenue-guidance",
-   "summary": "Jazz Pharmaceuticals (NASDAQ:JAZZ) is counting on new drug launches, pipeline studies and acquisitions to sustain growth across its sleep, epilepsy and oncology businesses, President and CEO Renee Gala said at an investor event. Gala pointed to third-quarter revenue of $1.24 bil",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T12:12:06+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3719c1eaee70",
-   "title": "Tyson Foods changes course after meat plant closures",
-   "link": "https://www.thestreet.com/retail/tyson-foods-changes-course-after-meat-plant-closures",
-   "summary": "The meatpacking giant takes an important decision amid higher beef prices and cattle shortages.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-21T12:07:00+00:00",
-   "tickers": [
-    "TSN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8889,7 +8885,6 @@
   "DKS": "DICK'S Sporting Goods",
   "KEYS": "Keysight Technologies",
   "BMY": "Bristol-Myers Squibb",
-  "JAZZ": "Jazz Pharmaceuticals",
   "SMCI": "Super Micro Computer",
   "IP": "International Paper",
   "LULU": "lululemon athletica",
@@ -8950,7 +8945,6 @@
   "MORN": "Morningstar",
   "ROST": "Ross Stores",
   "TMUS": "T-Mobile US",
-  "TSN": "Tyson Foods",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
