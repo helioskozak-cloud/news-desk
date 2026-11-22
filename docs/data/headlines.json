@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T07:31:40.019395+00:00",
+ "generated": "2026-11-22T07:36:20.449213+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -373,20 +373,6 @@
    "tag_v": 2
   },
   {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-22T05:06:34+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "10dcda5a5493",
    "title": "Allspring Global Dividend Fund director buys $1,039 in shares",
    "link": "https://www.investing.com/news/insider-trading-news/allspring-global-dividend-fund-director-buys-1039-in-shares-93CH-5043755",
@@ -499,6 +485,20 @@
    "published": "2026-11-22T04:18:53+00:00",
    "tickers": [],
    "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-22T04:17:01+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6798,6 +6798,22 @@
    "tag_v": 2
   },
   {
+   "id": "01bd73e50488",
+   "title": "Zebra Technologies Sees 2027 Growth as Delivery Refreshes Offset Memory Cost Pressures",
+   "link": "https://www.nasdaq.com/articles/zebra-technologies-sees-2027-growth-delivery-refreshes-offset-memory-cost-pressures",
+   "summary": "Zebra Technologies&rsquo; Sell-Off: 3 Factors Investors May Be MissingZebra Technologies (NASDAQ:ZBRA) expects strong demand and large delivery-device refreshes to support sales growth in 2027, while higher memory costs are prompting the company to raise prices and build inventory, Chi",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T07:12:05+00:00",
+   "tickers": [
+    "ZBRA"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "cb4f81b5aff7",
    "title": "Rigetti CTO Andrew Bestwick sells $219,551 in shares",
    "link": "https://www.investing.com/news/insider-trading-news/rigetti-cto-andrew-bestwick-sells-219551-in-shares-93CH-5043253",
@@ -8796,20 +8812,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "8dc1572f608d",
-   "title": "Presidio Property Trust, Inc. Received Notice of Deficiencies From Nasdaq",
-   "link": "https://www.nasdaq.com/articles/presidio-property-trust-inc-received-notice-deficiencies-nasdaq",
-   "summary": "On November 18, 2026, Presidio Property Trust, Inc. received a letter from the Listing Qualifications Department of thee Nasdaq Stock Market LLC indicating that the Company did not meet the minimum bid price of $1.00 per share required for continued listing on The Nasdaq Capital",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T01:48:28+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8835,6 +8837,7 @@
   "CRK": "Comstock Resources",
   "LUV": "Southwest Airlines",
   "PANW": "Palo Alto Networks",
+  "ZBRA": "Zebra Technologies",
   "AMAT": "Applied Materials",
   "CAR": "Avis Budget Group",
   "GIL": "Gildan Activewear",
