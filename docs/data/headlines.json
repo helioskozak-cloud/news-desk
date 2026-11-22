@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T12:51:31.982570+00:00",
+ "generated": "2026-11-22T12:56:24.632577+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -1351,6 +1351,24 @@
    "domain": "investing.com",
    "published": "2026-11-22T06:57:01+00:00",
    "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "25f574098e79",
+   "title": "Bargain Hunting: Why Off-Price Retail Is Winning",
+   "link": "https://www.marketbeat.com/articles/bargain-hunting-why-off-price-retail-is-winning/",
+   "summary": "TJX and Ross Stores posted strong quarterly revenue amid freight-cost margin pressure, as investors now turn to Burlington Stores' Nov. 24 earnings to gauge off-price retail valuations.",
+   "source": "MarketBeat",
+   "category": "stocks",
+   "domain": "marketbeat.com",
+   "published": "2026-11-22T06:55:00+00:00",
+   "tickers": [
+    "BURL",
+    "ROST",
+    "TJX"
+   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8802,20 +8820,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "712438cfc931",
-   "title": "Aeon Biopharma CEO Robert Bancroft buys $19,590 in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/aeon-biopharma-ceo-robert-bancroft-buys-19590-in-company-stock-93CH-5043166",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-21T05:00:57+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8844,12 +8848,14 @@
   "PANW": "Palo Alto Networks",
   "ZBRA": "Zebra Technologies",
   "AMAT": "Applied Materials",
+  "BURL": "Burlington Stores",
   "CAR": "Avis Budget Group",
   "HOOD": "Robinhood Markets",
   "MU": "Micron Technology",
   "POWL": "Powell Industries",
   "QUBT": "Quantum Computing",
   "RGTI": "Rigetti Computing",
+  "TJX": "The TJX Companies",
   "UBER": "Uber Technologies",
   "COST": "Costco Wholesale",
   "LOW": "Lowe's Companies",
