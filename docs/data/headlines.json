@@ -1,8 +1,25 @@
 {
- "generated": "2026-11-22T18:51:17.128736+00:00",
+ "generated": "2026-11-22T18:56:11.480934+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "1da8d0fb5f6e",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-22T18:45:58+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "2d053e81b6cf",
    "title": "Craftsman's 10-piece steel tool set is marked down to just $17 at Amazon",
@@ -49,6 +66,20 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "109c88d25502",
+   "title": "Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjZzZ2RGU0lSUEZLLV90MW9OLVhqSThJZjd0Z3JsQ3M2VnhvMG43TFU4YUFoWXE3QTNKUk9OUGpoVUYxbDVsaDdSc01MWmVxVGx5SHZiTklObzJUXzlOVGExa3d0UmYtb2lVb3FxVTVCRnFKU2NfLVBkVE5VTUFPUG9ybUFoZ3ppc1J4OFhQT1Vrd3p6RXREa0lOb2FRVXBhenUtNw?oc=5",
+   "summary": "Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-22T18:26:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -99,6 +130,20 @@
    "tag_v": 2
   },
   {
+   "id": "718ff74e1fdb",
+   "title": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEJrLWtkTl9ZY1lGN3JPaUNjSjVabFVGcnlERXpyYVdRNGN4OEtMOTVkczkzVDlhaWQxQ2xQdXdEak5oNkhBOWdrd01QV2hBYXlOZXV4Zl8weXpVNmxuMUlMM21sT2YwQjFqcjZIRlk4UmxQMUxPcTFRVjRQNFpqdzl4NjNodnZicldRLWRlV2R1allIR1BpM2x3?oc=5",
+   "summary": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-22T18:22:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "0ab281ae690b",
    "title": "Value Stocks Are Doing Something They Haven’t Done Since 2000. Here’s How They're Setting Up for 2027.",
    "link": "https://www.nasdaq.com/articles/value-stocks-are-doing-something-they-havent-done-2000-heres-how-theyre-setting-2027",
@@ -124,23 +169,6 @@
    "tickers": [],
    "type": "upgrade",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1da8d0fb5f6e",
-   "title": "Stocks Meltdown as AI Trade Unravels",
-   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-22T18:14:20+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -891,20 +919,6 @@
     "CE"
    ],
    "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "718ff74e1fdb",
-   "title": "A suspected drone strike hits a Russian vessel in Libya - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEJrLWtkTl9ZY1lGN3JPaUNjSjVabFVGcnlERXpyYVdRNGN4OEtMOTVkczkzVDlhaWQxQ2xQdXdEak5oNkhBOWdrd01QV2hBYXlOZXV4Zl8weXpVNmxuMUlMM21sT2YwQjFqcjZIRlk4UmxQMUxPcTFRVjRQNFpqdzl4NjNodnZicldRLWRlV2R1allIR1BpM2x3?oc=5",
-   "summary": "A suspected drone strike hits a Russian vessel in Libya&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-22T15:28:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -4033,20 +4047,6 @@
    "tag_v": 2
   },
   {
-   "id": "c68ceb7d6460",
-   "title": "No. 4 UCLA QB Ty Dieffenbach injured in 1st of 3 OTs in loss to Michigan when he was tackled on run - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeXc2T2s4SWp1czBfbERsTFAwSk01aUl1dngzVVBSLXZWVDBYYXRCcktrVHFoWjdGcnQ1OWg3aUxzd1MtazZJeWRsVWlfTWVCVFZMNzRqcm5SSVRSMGZ1dWhOY1QyMTRaVzhEVzRiRkVZQzYwOFE5ek5HRGdjWkRDRmtYbUIweDdoRnc?oc=5",
-   "summary": "No. 4 UCLA QB Ty Dieffenbach injured in 1st of 3 OTs in loss to Michigan when he was tackled on run&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-22T01:47:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "a5ea108af10a",
    "title": "Wabtec evp operations Gregory Sbrocco sells $280,782 in shares",
    "link": "https://www.investing.com/news/insider-trading-news/wabtec-evp-operations-gregory-sbrocco-sells-280782-in-shares-93CH-5043688",
@@ -4216,6 +4216,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c68ceb7d6460",
+   "title": "No. 4 UCLA QB Ty Dieffenbach injured in 1st of 3 OTs in loss to Michigan when he was tackled on run - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeXc2T2s4SWp1czBfbERsTFAwSk01aUl1dngzVVBSLXZWVDBYYXRCcktrVHFoWjdGcnQ1OWg3aUxzd1MtazZJeWRsVWlfTWVCVFZMNzRqcm5SSVRSMGZ1dWhOY1QyMTRaVzhEVzRiRkVZQzYwOFE5ek5HRGdjWkRDRmtYbUIweDdoRnc?oc=5",
+   "summary": "No. 4 UCLA QB Ty Dieffenbach injured in 1st of 3 OTs in loss to Michigan when he was tackled on run&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-22T00:52:33+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8851,20 +8865,6 @@
    "category": "markets",
    "domain": "investing.com",
    "published": "2026-11-21T12:31:03+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6de1ba5d3824",
-   "title": "Trump orders federal contractors to notify White House before giving Congress information",
-   "link": "https://www.cnbc.com/2026/11/21/trump-orders-federal-contractors-to-notify-white-house-before-giving-congress-information.html",
-   "summary": "Companies that fail to comply could face cancelation of existing contracts or suspension from future federal business.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-21T12:27:11+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
