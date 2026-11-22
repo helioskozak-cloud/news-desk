@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-22T12:21:02.728789+00:00",
+ "generated": "2026-11-22T12:26:07.525658+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "61e14498ff50",
+   "title": "As prediction markets grow, so do the number of short sellers counting on DraftKings to fall",
+   "link": "https://www.cnbc.com/2026/11/22/draftkings-short-interest-prediction-markets.html",
+   "summary": "S3 estimates DraftKings short interest rose 17% since the NFL season began as prediction market volumes continue to march higher.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-22T12:15:24+00:00",
+   "tickers": [
+    "DKNG"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "dd683ce07431",
    "title": "Walmart is selling Cate & Chloe $30 sunburst stud earrings with simulated diamonds for 43% off",
@@ -20,6 +36,36 @@
    "tag_v": 2
   },
   {
+   "id": "78f5bc7c1f2e",
+   "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
+   "link": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
+   "summary": "Wall Street analysts can help shortlist attractive dividend-paying stocks, as their recommendations are backed by thorough analysis of a company's financials.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-22T12:13:56+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "72d846b079b3",
+   "title": "The Nasdaq is in freefall. Here's one stock to look at",
+   "link": "https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html",
+   "summary": "Elevated options premiums are creating an opportunity in Amazon",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-22T12:10:39+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "6bcbaa49018b",
    "title": "Walmart makes tough decision that may upset shoppers",
    "link": "https://www.thestreet.com/retail/walmart-closed-thanksgiving-christmas-2026",
@@ -31,6 +77,20 @@
    "tickers": [
     "WMT"
    ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "220ab94ec574",
+   "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+   "link": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-22T12:06:21+00:00",
+   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -6984,6 +7044,20 @@
    "tag_v": 2
   },
   {
+   "id": "cd9364341488",
+   "title": "MarketBeat Week in Review – 11/16 - 11/20",
+   "link": "https://www.nasdaq.com/articles/marketbeat-week-review-11-16-11-20",
+   "summary": "Is the AI-fueled bull market really over? That's the question that seems to hang over the market. The Dow dropped below 50,000, and all the major indices were poised for their worst week since April 2025; that was the week the Liberation Day tariffs were announced. The easy resp",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T12:00:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "542f5b6b2e99",
    "title": "Social Security's Trump Bump-Led 2027 COLA Is the 5th Largest in 35 Years -- but There's a Dark Side to This Outsize Increase as Well",
    "link": "https://www.nasdaq.com/articles/social-securitys-trump-bump-led-2027-cola-5th-largest-35-years-theres-dark-side-outsize",
@@ -8736,76 +8810,6 @@
    ],
    "type": "press",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d8fb1526e459",
-   "title": "FBI investigates suspected breach of nationwide crime database, CNN reports",
-   "link": "https://www.investing.com/news/economy-news/fbi-investigates-suspected-breach-of-nationwide-crime-database-5043145",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-21T04:21:38+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b8d3ff375548",
-   "title": "Leaders of Mexican drug cartel and 19 others indicted for smuggling guns, drugs and people - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOVNBbTgwdDFwMDhPNDMyQVZqbzU0R0dyQ05FbVk2V1NnbGF5clFpM2ZjQjhZRlVCeVQycndlX282Y21KVC1SQTdVN0Q0b1JHT2R6UjVWRVVOYzVrcGpqc01WdUk3emZ6c0xMc3RNY1RBN1Bva1lKLWVsQm5RTm01dDRlbFppczhqUjZNUUF6ZjFoVGFk?oc=5",
-   "summary": "Leaders of Mexican drug cartel and 19 others indicted for smuggling guns, drugs and people&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-21T04:21:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1c9f7f681b54",
-   "title": "Oxford Lane earnings missed by $0.35, revenue topped estimates",
-   "link": "https://www.investing.com/news/earnings/oxford-lane-earnings-missed-by-035-revenue-topped-estimates-5043144",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-21T04:17:19+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cac0479bfc1c",
-   "title": "If the Nasdaq's Correction Turns Into a Bear Market, This Is the First Stock I'll Buy",
-   "link": "https://www.nasdaq.com/articles/if-nasdaqs-correction-turns-bear-market-first-stock-ill-buy",
-   "summary": "Key PointsThe Nasdaq Composite ended around 13.5% below its October record on Nov. 19.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T04:17:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a5ee7d44983c",
-   "title": "Mobix Labs, Inc. Implements One-for-Seven Reverse Stock Split",
-   "link": "https://www.nasdaq.com/articles/mobix-labs-inc-implements-one-seven-reverse-stock-split",
-   "summary": "On November 16, 2026, Mobix Labs, Inc. filed a Certificate of Amendment to its Amended and Restated Certificate of Incorporation with the Secretary of State of the State of Delaware, implementing a one-for-seven (1:7) reverse stock split of its issued and outstanding shares of Cl",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T04:08:58+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
    "tag_v": 2
   }
  ],
