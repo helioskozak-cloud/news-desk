@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T12:11:35.410055+00:00",
+ "generated": "2026-11-23T12:16:10.567627+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -925,6 +925,22 @@
    "tag_v": 2
   },
   {
+   "id": "6c28195cfbe1",
+   "title": "Expect a snapback following last week's market rout, says Wharton's Jeremy Siegel",
+   "link": "https://www.cnbc.com/video/2026/11/23/expect-a-snapback-following-last-weeks-market-rout-says-whartons-jeremy-siegel.html",
+   "summary": "Jeremy Siegel, professor emeritus of finance at University of Pennsylvania’s Wharton School of Business and WisdomTree chief economist, joins 'Squawk Box' to discuss the latest market trends, what to make of last week's market rout, impact of midterm election results on Pres. Trump's agenda, the Fed's inflation fight, and more.",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-23T11:57:10+00:00",
+   "tickers": [
+    "WT"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b4c76a4d0244",
    "title": "Brand Engagement Network Reports Narrower Loss In Q3",
    "link": "https://www.nasdaq.com/articles/brand-engagement-network-reports-narrower-loss-q3",
@@ -1097,6 +1113,23 @@
    "published": "2026-11-23T11:50:00+00:00",
    "tickers": [
     "LULU"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1da8d0fb5f6e",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T11:49:26+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
    ],
    "type": "stocks",
    "sentiment": "neutral",
@@ -1440,23 +1473,6 @@
    "published": "2026-11-23T11:39:32+00:00",
    "tickers": [
     "NET"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1da8d0fb5f6e",
-   "title": "Stocks Meltdown as AI Trade Unravels",
-   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&amp;P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T11:38:49+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
    ],
    "type": "stocks",
    "sentiment": "neutral",
@@ -8801,20 +8817,6 @@
    "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "fb12622816a9",
-   "title": "Wheat Posting Mixed Friday Trade",
-   "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-friday-trade",
-   "summary": "The wheat complex is trading with contracts mixed, retreating from early gains. Chicago SRW futures are 1 to 3 cents lower across the front months. December options expire today. KC HRW futures are 1 to 2 cents higher at midday. MPLS spring wheat are 2 to 4 cents in the...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-22T23:33:14+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8907,6 +8909,7 @@
   "FTI": "TechnipFMC",
   "RKLB": "Rocket Lab",
   "TECH": "Bio-Techne",
+  "WT": "WisdomTree",
   "MSFT": "Office 365",
   "BC": "Brunswick",
   "C": "Citigroup",
