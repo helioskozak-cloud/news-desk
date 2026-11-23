@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-23T08:26:02.353595+00:00",
+ "generated": "2026-11-23T08:31:34.604551+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0761feabd7f6",
+   "title": "Social Security Benefits Keep Losing Buying Power. Here's What It Might Take to Break the Cycle",
+   "link": "https://www.nasdaq.com/articles/social-security-benefits-keep-losing-buying-power-heres-what-it-might-take-break-cycle",
+   "summary": "Key PointsSocial Security's COLAs have not stood up well to inflation.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T08:22:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "1926123fd402",
    "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
@@ -14,6 +28,20 @@
    "published": "2026-11-23T08:20:42+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "edb8c193d26f",
+   "title": "E3 Lithium completes phase 2, begins phase 3 operations",
+   "link": "https://www.investing.com/news/company-news/e3-lithium-completes-phase-2-begins-phase-3-operations-93CH-5044612",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-23T08:20:35+00:00",
+   "tickers": [],
+   "type": "fda",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -46,6 +74,38 @@
    "tag_v": 2
   },
   {
+   "id": "f3a1296efb65",
+   "title": "Phillip Securities downgrades Disney stock rating on valuation",
+   "link": "https://www.investing.com/news/analyst-ratings/phillip-securities-downgrades-disney-stock-rating-on-valuation-93CH-5044604",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-23T08:12:47+00:00",
+   "tickers": [
+    "DIS"
+   ],
+   "type": "downgrade",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "da6890c22683",
+   "title": "Indonesia central bank says MSCI talks with Prabowo support rupiah",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-central-bank-says-msci-talks-with-prabowo-support-rupiah-5044603",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-23T08:12:22+00:00",
+   "tickers": [
+    "MSCI"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "c61123cf0faf",
    "title": "Rock Tech Reports Up to 4.63% Li2O from Victory's New Discovery and Completion of Victory's First Field Program | RCKTF Stock News",
    "link": "https://www.stocktitan.net/news/RCKTF/rock-tech-reports-up-to-4-63-li2o-from-victory-s-new-discovery-and-ychw4wak4uun.html",
@@ -56,6 +116,81 @@
    "published": "2026-11-23T08:10:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c7e175231249",
+   "title": "Asia FX broadly firmer as dollar retreats from 19-month high; yuan, won gain",
+   "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-dollar-retreats-from-19month-high-yen-won-weaken-5044324",
+   "summary": "",
+   "source": "Investing Forex",
+   "category": "fx",
+   "domain": "investing.com",
+   "published": "2026-11-23T08:07:28+00:00",
+   "tickers": [],
+   "type": "fx",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "6337f27877cc",
+   "title": "European shares catch modest bid after brutal sell-off",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-catch-modest-bid-after-brutal-selloff-5044371",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-23T08:07:25+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4fef39c18c29",
+   "title": "Jefferies upgrades Zimmer Biomet stock rating on valuation, growth outlook",
+   "link": "https://www.investing.com/news/analyst-ratings/jefferies-upgrades-zimmer-biomet-stock-rating-on-valuation-growth-outlook-93CH-5044600",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-23T08:06:54+00:00",
+   "tickers": [
+    "ZBH",
+    "JEF"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "022d817c1f66",
+   "title": "Phillip Securities upgrades Palo Alto Networks stock rating on AI security demand",
+   "link": "https://www.investing.com/news/analyst-ratings/phillip-securities-upgrades-palo-alto-networks-stock-rating-on-ai-security-demand-93CH-5044599",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-23T08:06:49+00:00",
+   "tickers": [
+    "PANW"
+   ],
+   "type": "upgrade",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "292b8f72e797",
+   "title": "Stock Market Sell-Off: 4 ETFs I'd Buy Now and Hold Through 2030",
+   "link": "https://www.nasdaq.com/articles/stock-market-sell-4-etfs-id-buy-now-and-hold-through-2030",
+   "summary": "Key PointsThe S&amp;P 500 and Nasdaq 100 are both well below their all-time highs.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T08:05:02+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2349,20 +2484,6 @@
    ],
    "type": "legal",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "c7e175231249",
-   "title": "Asia FX mixed as dollar retreats from 19-month high; yen, won weaken",
-   "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-dollar-retreats-from-19month-high-yen-won-weaken-5044324",
-   "summary": "",
-   "source": "Investing Forex",
-   "category": "fx",
-   "domain": "investing.com",
-   "published": "2026-11-23T04:35:28+00:00",
-   "tickers": [],
-   "type": "fx",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8770,124 +8891,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "d6ad403958d9",
-   "title": "In Ukraine, the fight to keep winter outside begins with a broken window - AP News",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjRWNURuNy1QRzlYWm0yaHlkaVh0N1RXQV9SdXNsXzc2RTJHTHlTLWszWW13OEZROEY4a0NWc0lqa2psbHZOdTQ0dkR5OFB0QkdwY3BVU0ZwRWo4UDh6NlZXX0VVTTQtalp4Z3l6azBsR1U3b21qNDZwX3NmRkFYSFBnQXIyQWU2M29VT2lCeUZLNEtybnZ3Ulh0aHF4dC1IU3QzVmJTbnJhaGxXT1hXdFpQVjhyYjA?oc=5",
-   "summary": "In Ukraine, the fight to keep winter outside begins with a broken window&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-22T07:02:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "32d907c53492",
-   "title": "Will economics continue to outweigh geopolitics?",
-   "link": "https://www.investing.com/news/stock-market-news/will-economics-continue-to-outweigh-geopolitics-5043785",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-22T06:57:01+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "25f574098e79",
-   "title": "Bargain Hunting: Why Off-Price Retail Is Winning",
-   "link": "https://www.marketbeat.com/articles/bargain-hunting-why-off-price-retail-is-winning/",
-   "summary": "TJX and Ross Stores posted strong quarterly revenue amid freight-cost margin pressure, as investors now turn to Burlington Stores' Nov. 24 earnings to gauge off-price retail valuations.",
-   "source": "MarketBeat",
-   "category": "stocks",
-   "domain": "marketbeat.com",
-   "published": "2026-11-22T06:55:00+00:00",
-   "tickers": [
-    "BURL",
-    "ROST",
-    "TJX"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "61b4ca8d7db5",
-   "title": "1 Reason to Buy e.l.f. Beauty Stock",
-   "link": "https://www.nasdaq.com/articles/1-reason-buy-elf-beauty-stock",
-   "summary": "Key Pointse.l.f. Beauty keeps growing in a tough consumer spending environment, and management just raised its full-year sales outlook.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-22T06:54:02+00:00",
-   "tickers": [
-    "ELF"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "96f946dab8d7",
-   "title": "Nextdoor: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/nextdoor-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsPlatform weekly active users reached an all-time high of 24.5 million in Q3.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-22T06:48:11+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1b810a7d5837",
-   "title": "CFP bubble drama build as Miami and BYU survive while Ohio State, UCLA, Indiana, Boise State stumble - AP News",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWY3VjlhdTJjdlNRVE1IVC13SkQybjZZbE1RRWJXQ01VdVN1aFFQdW05emJVUFRzOXJOdVBvNGhsR1FiVjZ1UDZMNC1ndC0wTUl2SjcxWDNpNnJNNG90LUt5QzgwbGFjWmk3SjVqekRicURDMU5Vc3JCSF9BODBHZzMtSE1jYkE?oc=5",
-   "summary": "CFP bubble drama build as Miami and BYU survive while Ohio State, UCLA, Indiana, Boise State stumble&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-22T06:45:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d260cf2346b3",
-   "title": "Australia rejects U.S. budget office concerns over AUKUS submarine deal",
-   "link": "https://www.investing.com/news/economy-news/australia-rejects-us-budget-office-concerns-over-aukus-submarine-deal-5043777",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-22T06:43:55+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "68b77a08b499",
-   "title": "What's Behind Grail Stock's Wild Ride in 2026, and What Can Investors Expect in 2027?",
-   "link": "https://www.nasdaq.com/articles/whats-behind-grail-stocks-wild-ride-2026-and-what-can-investors-expect-2027",
-   "summary": "Key PointsFood and Drug Administration approval is seen as a gateway to potential coverage by Medicare and commercial insurers for Grail's Galleri test.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-22T06:27:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8907,6 +8910,7 @@
   "AMD": "Advanced Micro Devices",
   "LPLA": "LPL Financial Holdings",
   "MAR": "Marriott International",
+  "ZBH": "Zimmer Biomet Holdings",
   "DKS": "DICK'S Sporting Goods",
   "KEYS": "Keysight Technologies",
   "PLTR": "Palantir Technologies",
@@ -8920,13 +8924,11 @@
   "MRVL": "Marvell Technology",
   "NYT": "The New York Times",
   "PANW": "Palo Alto Networks",
-  "BURL": "Burlington Stores",
   "DELL": "Dell Technologies",
   "GIL": "Gildan Activewear",
   "JNJ": "Johnson & Johnson",
   "MU": "Micron Technology",
   "POWL": "Powell Industries",
-  "TJX": "The TJX Companies",
   "UBER": "Uber Technologies",
   "BKNG": "Booking Holdings",
   "COST": "Costco Wholesale",
@@ -8979,7 +8981,6 @@
   "PDD": "PDD Holdings",
   "LCID": "Lucid Group",
   "MORN": "Morningstar",
-  "ROST": "Ross Stores",
   "ULTA": "Ulta Beauty",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
