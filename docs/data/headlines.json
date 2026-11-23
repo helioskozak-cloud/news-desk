@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-23T10:36:29.662368+00:00",
+ "generated": "2026-11-23T10:41:19.876821+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d107fe1db54f",
+   "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
+   "link": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html",
+   "summary": "The incident comes alongside a suspected Ukrainian drone strike on a Russian cargo ship in the Baltic Sea over the weekend.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-23T10:35:46+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "291bf11f4003",
    "title": "CrowdStrike to Acquire Zscaler, Bringing Network Security and Zero Trust to the Falcon Platform | ZS Stock News",
@@ -15,6 +29,23 @@
    "tickers": [
     "ZS",
     "CRWD"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "13d849b086d4",
+   "title": "CrowdStrike to Acquire Zscaler, Bringing Network Security and Zero Trust to the Falcon Platform",
+   "link": "http://www.businesswire.com/news/home/20261123522174/en/CrowdStrike-to-Acquire-Zscaler-Bringing-Network-Security-and-Zero-Trust-to-the-Falcon-Platform/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+   "summary": "AUSTIN, Texas & SANTA CLARA, Calif.--(BUSINESS WIRE)--CrowdStrike (NASDAQ: CRWD) and Zscaler (NASDAQ: ZS) today announced that they have entered into a definitive agreement under which CrowdStrike will acquire Zscaler in an all-stock transaction that values Zscaler at approximately $43.9 billion. Under the terms of the agreement, Zscaler shareholders will receive 1.135 shares of CrowdStrike common stock for each share of Zscaler common stock they own. Network Security on the CrowdStrike Falcon",
+   "source": "BusinessWire",
+   "category": "press",
+   "domain": "businesswire.com",
+   "published": "2026-11-23T10:32:00+00:00",
+   "tickers": [
+    "CRWD",
+    "ZS"
    ],
    "type": "ma",
    "sentiment": "neutral",
@@ -76,6 +107,23 @@
    "published": "2026-11-23T10:30:00+00:00",
    "tickers": [
     "ZS"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1073c7068194",
+   "title": "CrowdStrike Reports Third Quarter Fiscal Year 2027 Financial Results",
+   "link": "http://www.businesswire.com/news/home/20261123147150/en/CrowdStrike-Reports-Third-Quarter-Fiscal-Year-2027-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+   "summary": "AUSTIN, Texas--(BUSINESS WIRE)--CrowdStrike Holdings, Inc. (Nasdaq: CRWD), today announced financial results for the third quarter fiscal year 2027, ended October 31, 2026. “Q3 was the best quarter in CrowdStrike’s history,” said George Kurtz, CrowdStrike’s Founder and Chief Executive Officer. “Growth accelerated across the business as customers consolidated on the Falcon platform through Falcon Flex. Falcon Guardian, which secures AI agents across the enterprise, crossed $100 million in ARR in",
+   "source": "BusinessWire",
+   "category": "press",
+   "domain": "businesswire.com",
+   "published": "2026-11-23T10:30:00+00:00",
+   "tickers": [
+    "CRWD",
+    "ARR"
    ],
    "type": "earnings",
    "sentiment": "neutral",
@@ -242,20 +290,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "d107fe1db54f",
-   "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
-   "link": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html",
-   "summary": "The incident comes alongside a suspected Ukrainian drone strike on a Russian cargo ship in the Baltic Sea over the weekend.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-23T10:14:52+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -7139,20 +7173,6 @@
    "tag_v": 2
   },
   {
-   "id": "440c8443196d",
-   "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0ZaSUxXY2RGTWZBcXdNRjV0eWhIZUdfWjFBSmI1OHBGZy1qRWFpNnJxZDJVOC14dVFGZGdSS3NfeFNsQm1IcmJIWGs4M0l5alZQZVhDek80S1lnQ3plUkRrbm9uaE44RWtNMTBDTWRLUmdGLWVVUDRJZ1J5TmR4QU5vWW5qT2NvOHB3dklzcFZ2ZFltMy1SYVdJQnNRZFBiaURJN2t0bjExaE0?oc=5",
-   "summary": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-22T19:42:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "718ff74e1fdb",
    "title": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say - AP News",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEJrLWtkTl9ZY1lGN3JPaUNjSjVabFVGcnlERXpyYVdRNGN4OEtMOTVkczkzVDlhaWQxQ2xQdXdEak5oNkhBOWdrd01QV2hBYXlOZXV4Zl8weXpVNmxuMUlMM21sT2YwQjFqcjZIRlk4UmxQMUxPcTFRVjRQNFpqdzl4NjNodnZicldRLWRlV2R1allIR1BpM2x3?oc=5",
@@ -7650,6 +7670,20 @@
    "tickers": [],
    "type": "upgrade",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "440c8443196d",
+   "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0ZaSUxXY2RGTWZBcXdNRjV0eWhIZUdfWjFBSmI1OHBGZy1qRWFpNnJxZDJVOC14dVFGZGdSS3NfeFNsQm1IcmJIWGs4M0l5alZQZVhDek80S1lnQ3plUkRrbm9uaE44RWtNMTBDTWRLUmdGLWVVUDRJZ1J5TmR4QU5vWW5qT2NvOHB3dklzcFZ2ZFltMy1SYVdJQnNRZFBiaURJN2t0bjExaE0?oc=5",
+   "summary": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-22T18:13:24+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8813,36 +8847,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "d6ad5cd8b77a",
-   "title": "11/22: Sunday Morning",
-   "link": "https://www.cbsnews.com/video/112226-sunday-morning/",
-   "summary": "Jane Pauley hosts our annual Food Issue. Featured: Food debt; in-home restaurants; Sardinian pasta; chef Kwame Onwuachi; actor Tony Shalhoub; Sallie Ann Robinson on Gullah cuisine; Wisconsin's supper clubs; food for the outdoors; and stories behind Brussels sprouts, cottage cheese, and Chilean sea bass.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-22T14:00:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "200286c7b75a",
-   "title": "Johnson & Johnson Is on Track for $101 Billion in 2026 Sales. Is This Dividend King Still a Buy?",
-   "link": "https://www.nasdaq.com/articles/johnson-johnson-track-101-billion-2026-sales-dividend-king-still-buy",
-   "summary": "Key PointsJohnson &amp; Johnson is a leader in the pharmaceutical and medical device sectors.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-22T13:58:02+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8854,6 +8858,7 @@
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "APO": "Apollo Global Management",
+  "ARR": "ARMOUR Residential REIT",
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
   "SIG": "Signet Jewelers Limited",
@@ -8875,7 +8880,6 @@
   "PANW": "Palo Alto Networks",
   "DELL": "Dell Technologies",
   "GIL": "Gildan Activewear",
-  "JNJ": "Johnson & Johnson",
   "MU": "Micron Technology",
   "POWL": "Powell Industries",
   "SJM": "The J. M. Smucker",
