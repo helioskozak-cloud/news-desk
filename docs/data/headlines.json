@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T02:51:31.360820+00:00",
+ "generated": "2026-11-24T02:56:16.580663+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -16,6 +16,99 @@
     "KYMR"
    ],
    "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c7cc8d8ecf87",
+   "title": "Wheat Posts Mixed Trade on Monday",
+   "link": "https://www.nasdaq.com/articles/wheat-posts-mixed-trade-monday-0",
+   "summary": "The wheat complex saw mixed trade on Monday. Chicago SRW futures were 2 1/4 to 4 1/2 cents higher on the day. KC wheat futures posted mixed trade as front months were down as much as 3 1/4 cents and deferreds up as much as 1 1/2. MPLS Spring wheat...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T02:47:18+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7762d6f00f7b",
+   "title": "Hogs Close with Weakness as Cutout Bounces",
+   "link": "https://www.nasdaq.com/articles/hogs-close-weakness-cutout-bounces",
+   "summary": "Lean hog futures posted mixed trade on Monday, with contracts closing anywhere from 30 cents higher to 95 cents lower. USDA’s national base hog price was reported at $31.70 on Monday afternoon, up 9 cents from the day prior. The CME Lean Hog Index was down 55 cents on November...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T02:47:18+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "54ca8a61a648",
+   "title": "Soybeans Close Higher to Start the Holiday Week",
+   "link": "https://www.nasdaq.com/articles/soybeans-close-higher-start-holiday-week",
+   "summary": "Soybean bulls held firm into Monday's close with contracts closing the session 3 to 9 cents higher. The cmdtyView national average Cash Bean price was up 7 1/4 cents at $11.70. Soymeal futures were $3.80 to $4.70 higher, with Soy Oil futures 24 to 49 points lower. Export Inspections data...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T02:47:18+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7a9b369f2fb8",
+   "title": "Coffee Prices Fall as Brazilian Real Posts New 1.75-Year Low",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-brazilian-real-posts-new-175-year-low",
+   "summary": "March arabica coffee (KCH26 ) is down -1.10 (-0.41%), and January ICE robusta coffee (RMF27 ) is down -21 (-0.73%). Coffee prices are trading lower again today, with arabica falling to a 1.5-week low and robusta falling to a 3-year low. Coffee prices are trading lower due to a further...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T02:47:17+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "85c3f10d5ad3",
+   "title": "Stocks Rebound Sharply as Nvidia Reinstates CEO Huang",
+   "link": "https://www.nasdaq.com/articles/stocks-rebound-sharply-nvidia-reinstates-ceo-huang-0",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) on Monday rose by +4.84%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +3.01%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +6.91%. December E-mini S&amp;P futures (ESZ26 ) rose +4.74%, and December E-mini Nasdaq futures (NQZ26 )...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T02:47:17+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "67d6c1cf40f0",
+   "title": "Hogs Feeling Weaker Even as Cash and the Cutout Bounce",
+   "link": "https://www.nasdaq.com/articles/hogs-feeling-weaker-even-cash-and-cutout-bounce",
+   "summary": "Lean hog futures are down 50 cents to $1.12 to extend the weakness to start Thanksgiving week trade. USDA’s national base hog price was reported at $36.60 on Monday morning, up $3.69 from the day prior. The CME Lean Hog Index was down 55 cents on November 19 at $55.77....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T02:47:17+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -105,22 +198,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7a9b369f2fb8",
-   "title": "Coffee Prices Fall as Brazilian Real Posts New 1.75-Year Low",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-brazilian-real-posts-new-175-year-low",
-   "summary": "March arabica coffee (KCH26 ) is down -1.10 (-0.41%), and January ICE robusta coffee (RMF27 ) is down -21 (-0.73%). Coffee prices are trading lower again today, with arabica falling to a 1.5-week low and robusta falling to a 3-year low. Coffee prices are trading lower due to a further...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T02:40:28+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -233,53 +310,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-24T02:34:09+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c7cc8d8ecf87",
-   "title": "Wheat Posts Mixed Trade on Monday",
-   "link": "https://www.nasdaq.com/articles/wheat-posts-mixed-trade-monday-0",
-   "summary": "The wheat complex saw mixed trade on Monday. Chicago SRW futures were 2 1/4 to 4 1/2 cents higher on the day. KC wheat futures posted mixed trade as front months were down as much as 3 1/4 cents and deferreds up as much as 1 1/2. MPLS Spring wheat...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T02:34:09+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "85c3f10d5ad3",
-   "title": "Stocks Rebound Sharply as Nvidia Reinstates CEO Huang",
-   "link": "https://www.nasdaq.com/articles/stocks-rebound-sharply-nvidia-reinstates-ceo-huang-0",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) on Monday rose by +4.84%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +3.01%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +6.91%. December E-mini S&amp;P futures (ESZ26 ) rose +4.74%, and December E-mini Nasdaq futures (NQZ26 )...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T02:34:09+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7762d6f00f7b",
-   "title": "Hogs Close with Weakness as Cutout Bounces",
-   "link": "https://www.nasdaq.com/articles/hogs-close-weakness-cutout-bounces",
-   "summary": "Lean hog futures posted mixed trade on Monday, with contracts closing anywhere from 30 cents higher to 95 cents lower. USDA’s national base hog price was reported at $31.70 on Monday afternoon, up 9 cents from the day prior. The CME Lean Hog Index was down 55 cents on November...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T02:34:09+00:00",
-   "tickers": [
-    "CME"
-   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -491,20 +521,6 @@
    "tag_v": 2
   },
   {
-   "id": "54ca8a61a648",
-   "title": "Soybeans Close Higher to Start the Holiday Week",
-   "link": "https://www.nasdaq.com/articles/soybeans-close-higher-start-holiday-week",
-   "summary": "Soybean bulls held firm into Monday's close with contracts closing the session 3 to 9 cents higher. The cmdtyView national average Cash Bean price was up 7 1/4 cents at $11.70. Soymeal futures were $3.80 to $4.70 higher, with Soy Oil futures 24 to 49 points lower. Export Inspections data...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T02:15:03+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "3045c8cd00a8",
    "title": "Trump targets Newsom and Democrats in Justice Department speech focused on violent crime - AP News",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWFjLURJa1hNVkMxMm9oTFozQkFlRlFLcnQ1M3VidldBSGV0am5ILURoX2tBRW81OHF2ZHVaOWV0UmprWFJLOVRrVmVqZnYwclA2bXBFRFFhZWFnUGV4aHZOSjFNR2VCbG9wNURZQ3AzY1J4SnR4RE9ISGFMSE1VcGdOZVhPWDB3Unhudi04eFB1Q3EtQ19YTWh4SzdRa2Rp?oc=5",
@@ -529,6 +545,20 @@
    "published": "2026-11-24T02:10:14+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c264aec6e464",
+   "title": "Experts say failed climate talks could worsen climate inequality, though all progress is not stalled - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMDVNeTdLS3N5SmtYNW41YlEwQktrcEZYb2xITmo5N0xKelhjQnhQemtQOW5JUmFvU1g5VjlaS1BvN3JxME5SdkpodEQ5WVVEZGFRSnpfNWJ5UEZIRGhZZGNYRkZBTzFJOE1SYkgzcWhhejg4OFdWbUM1dVpDTkVSNWpqNU9CR1BuWTQwVHJXUQ?oc=5",
+   "summary": "Experts say failed climate talks could worsen climate inequality, though all progress is not stalled&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-24T02:08:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2909,22 +2939,6 @@
    "tickers": [
     "SPY",
     "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "67d6c1cf40f0",
-   "title": "Hogs Feeling Weaker Even as Cash and the Cutout Bounce",
-   "link": "https://www.nasdaq.com/articles/hogs-feeling-weaker-even-cash-and-cutout-bounce",
-   "summary": "Lean hog futures are down 50 cents to $1.12 to extend the weakness to start Thanksgiving week trade. USDA’s national base hog price was reported at $36.60 on Monday morning, up $3.69 from the day prior. The CME Lean Hog Index was down 55 cents on November 19 at $55.77....",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T23:45:33+00:00",
-   "tickers": [
-    "CME"
    ],
    "type": "stocks",
    "sentiment": "neutral",
@@ -8913,20 +8927,6 @@
     "IYE"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4fc349b9f46e",
-   "title": "Trump, tech CEOs cheer Huang's return, but lawmakers question board",
-   "link": "https://www.cbsnews.com/news/trump-elon-musk-business-leaders-cheer-jensen-huang-ceo-nvidia/",
-   "summary": "President Trump and prominent tech figures applauded Huang's reinstatement as CEO, though some lawmakers criticized the move as \"reckless.\"",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-23T20:55:56+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   }
