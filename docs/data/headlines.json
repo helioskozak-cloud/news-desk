@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T00:06:09.119251+00:00",
+ "generated": "2026-11-24T00:11:14.608647+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -45,20 +45,6 @@
    "tickers": [
     "CME"
    ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b17ca3df17ab",
-   "title": "Dollar Gains as Stocks Recover and T-Note Prices Fall",
-   "link": "https://www.nasdaq.com/articles/dollar-gains-stocks-recover-and-t-note-prices-fall",
-   "summary": "The dollar index (DXY00 ) rose +0.50% on Monday, supported by a 4-tick decline in T-note prices. T-note prices fell on reduced safe-haven demand with the sharp recovery rally in stocks. The dollar was undercut by Monday's news that the S&amp;P preliminary November US services PMI fell by -1.4 points...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T00:01:11+00:00",
-   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -115,23 +101,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-24T00:01:11+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ff28734f031a",
-   "title": "Stocks Rebound Sharply as Nvidia Reinstates CEO Huang",
-   "link": "https://www.nasdaq.com/articles/stocks-rebound-sharply-nvidia-reinstates-ceo-huang",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +5.15%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +3.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +7.34%. December E-mini S&amp;P futures (ESZ26 ) are up +4.85%, and December E-mini Nasdaq futures (NQZ26...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T23:56:41+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -196,6 +165,20 @@
    "tag_v": 2
   },
   {
+   "id": "b17ca3df17ab",
+   "title": "Dollar Gains as Stocks Recover and T-Note Prices Fall",
+   "link": "https://www.nasdaq.com/articles/dollar-gains-stocks-recover-and-t-note-prices-fall",
+   "summary": "The dollar index (DXY00 ) rose +0.50% on Monday, supported by a 4-tick decline in T-note prices. T-note prices fell on reduced safe-haven demand with the sharp recovery rally in stocks. The dollar was undercut by Monday's news that the S&amp;P preliminary November US services PMI fell by -1.4 points...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T23:51:02+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "6871739e3fe8",
    "title": "Dollar Gains as Stocks Recover and T-Note Yields Rise",
    "link": "https://www.nasdaq.com/articles/dollar-gains-stocks-recover-and-t-note-yields-rise-0",
@@ -234,6 +217,22 @@
    "published": "2026-11-23T23:50:34+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "43cee35dcd67",
+   "title": "CAVA's 2027 Outlook: High-Growth Mediterranean Restaurant Chain Plans to Double Its Locations",
+   "link": "https://www.nasdaq.com/articles/cavas-2027-outlook-high-growth-mediterranean-restaurant-chain-plans-double-its-locations",
+   "summary": "Key PointsCAVA maintains strong growth through unit expansion and a loyal digital customer base.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T23:49:38+00:00",
+   "tickers": [
+    "CAVA"
+   ],
+   "type": "guidance",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -345,6 +344,23 @@
    "tag_v": 2
   },
   {
+   "id": "ff28734f031a",
+   "title": "Stocks Rebound Sharply as Nvidia Reinstates CEO Huang",
+   "link": "https://www.nasdaq.com/articles/stocks-rebound-sharply-nvidia-reinstates-ceo-huang",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +5.15%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +3.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +7.34%. December E-mini S&amp;P futures (ESZ26 ) are up +4.85%, and December E-mini Nasdaq futures (NQZ26...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T23:40:04+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "f1030d81fcf7",
    "title": "Wheat Fading Back From Early Gains on Monday",
    "link": "https://www.nasdaq.com/articles/wheat-fading-back-early-gains-monday",
@@ -369,6 +385,38 @@
    "published": "2026-11-23T23:39:17+00:00",
    "tickers": [],
    "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "b91a7c65ca25",
+   "title": "Texas Pacific Land Corporation Announces Agreement and Plan of Merger to Acquire EagleRock in All-Stock Transaction",
+   "link": "https://www.nasdaq.com/articles/texas-pacific-land-corporation-announces-agreement-and-plan-merger-acquire-eaglerock-all",
+   "summary": "Texas Pacific Land Corporation announced that it entered into an Agreement and Plan of Merger dated November 22, 2026, with New Titan Holdings, Inc., EagleRock Land, LLC, and other subsidiaries, pursuant to which Texas Pacific Land Corporation will be acquired in an all-stock tra",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T23:39:08+00:00",
+   "tickers": [
+    "TPL"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9924884eada8",
+   "title": "International Paper Board of Directors Approves Spin-off of EMEA Packaging Business (DS Smith plc)",
+   "link": "https://www.nasdaq.com/articles/international-paper-board-directors-approves-spin-emea-packaging-business-ds-smith-plc",
+   "summary": "International Paper Company announced that its Board of Directors approved the previously announced separation of its EMEA Packaging Business into an independent, publicly traded company named DS Smith plc. The separation will be achieved through a pro rata distribution of approx",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T23:39:08+00:00",
+   "tickers": [
+    "IP"
+   ],
+   "type": "stocks",
    "sentiment": "positive",
    "tag_v": 2
   },
@@ -430,6 +478,34 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f80941e4a7bf",
+   "title": "Retirees: Is Now the Time to Ditch S&P 500 Funds?",
+   "link": "https://www.nasdaq.com/articles/retirees-now-time-ditch-sp-500-funds",
+   "summary": "Key PointsThe S&amp;P 500 has been volatile recently, in large part due to the ups and downs in the tech sector.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T23:33:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bf0b064b82fd",
+   "title": "Malaysia Stock Market May Halt Its Slide On Tuesday",
+   "link": "https://www.nasdaq.com/articles/malaysia-stock-market-may-halt-its-slide-tuesday",
+   "summary": "(RTTNews) - The Malaysia stock market has tracked lower in five straight sessions, sinking almost 40 points or 2.4 percent along the way. The Kuala Lumpur Composite Index now sits just beneath the 1,550-point plateau although it's expected to find support on Tuesday.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T23:31:16+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -535,6 +611,48 @@
    "category": "stocks",
    "domain": "stocktitan.net",
    "published": "2026-11-23T23:30:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "030498e94e9b",
+   "title": "Summit Networks Inc. Reports Director Resignation and Appointment of New Director",
+   "link": "https://www.nasdaq.com/articles/summit-networks-inc-reports-director-resignation-and-appointment-new-director",
+   "summary": "On November 18, 2026, the board of directors of Summit Networks Inc. accepted the resignation of Elena Kuzmin from her positions as an independent Director and as a member of the audit committee. The company reported that the resignation did not result from any disagreement with",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T23:29:59+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "252ad6aac108",
+   "title": "DynaResource Announces Results of its 2026 Annual Meeting of Stockholders",
+   "link": "https://www.nasdaq.com/articles/dynaresource-announces-results-its-2026-annual-meeting-stockholders",
+   "summary": "DynaResource, Inc. held its 2026 annual meeting of stockholders on November 18, 2026, where stockholders voted on several key corporate items. Common stockholders elected Brent Omland, Rohan Hazelton, Dale Petrini, and Maria Virginia Anzola as Class I Directors, while Class C Pre",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T23:29:52+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "91f70dac8449",
+   "title": "My Size, Inc. Regains Compliance With Nasdaq Minimum Stockholders’ Equity Requirement",
+   "link": "https://www.nasdaq.com/articles/my-size-inc-regains-compliance-nasdaq-minimum-stockholders-equity-requirement",
+   "summary": "On November 20, 2026, My Size, Inc. received a letter from the Listing Qualifications Staff of The Nasdaq Capital Market notifying the company that it has regained compliance with the minimum stockholders&rsquo; equity requirement for continued listing under Nasdaq Listing Rule 5",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T23:29:51+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -750,6 +868,20 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "cdc7f90dc38d",
+   "title": "Rebound Anticipated For Japan Stock Market",
+   "link": "https://www.nasdaq.com/articles/rebound-anticipated-japan-stock-market",
+   "summary": "(RTTNews) - Ahead of Monday's holiday for Labor Thanksgiving Day, the Japan stock market had halted the two-day winning streak in which it had advanced more than 580 points or 1 percent. The Nikkei 225 now sits just above the 56,430-point plateau although it figures to bounce hig",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T23:16:16+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2747,6 +2879,20 @@
    "tag_v": 2
   },
   {
+   "id": "976289250b7f",
+   "title": "2 bus drivers are killed in head-on crash and 9 others are injured, Ohio police say - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeU1HRXBJcEVNMmhYOHRBaTlpTUk5LUpwVGlneE1MMFBieVBZMXEybmZsWnE5R1o3UEZhQ3RyMlRmVk1vODhEeDZxRVpia1hHZk1XT0k1U3F6czJ0NnhCenllaE5iOFBOdVhvejVXTy1rcTRCR3pvNVhWY0htUld6bjRKeTRwTF9PWlRRU1ptODRZOFBaSndUdUtB?oc=5",
+   "summary": "2 bus drivers are killed in head-on crash and 9 others are injured, Ohio police say&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-23T21:53:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "90a232e5f0f0",
    "title": "Nvidia vs. SpaceX: The AI Revolution Is Big Enough for Both. Here's the Better Buy.",
    "link": "https://www.nasdaq.com/articles/nvidia-vs-spacex-ai-revolution-big-enough-both-heres-better-buy",
@@ -3320,7 +3466,7 @@
   },
   {
    "id": "b883f0b74ce4",
-   "title": "Best Buy and Target sent America jobs to India before Kroger",
+   "title": "Best Buy and Target sent American jobs to India before Kroger",
    "link": "https://www.thestreet.com/retail/best-buy-and-target-sent-u-s-jobs-to-india-before-kroger",
    "summary": "Target, which only has stores in the U.S., employs thousands of people in India.",
    "source": "TheStreet",
@@ -4309,6 +4455,20 @@
    "tag_v": 2
   },
   {
+   "id": "0c732d0a8626",
+   "title": "Ukrainian naval drones strike a new Russian warship in Libya, and other Mideast news - AP News",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkttSjlveXdrMHJKLVNYMWNTMFh3YlJtLXRtTXcwUnI2Z3VMOWJPajRpelJzRDk0ZG0xekVqSlpoM1dac1RwU045bjdjREd3NENUYTdHcHFiMEt3WWdVcDA4S3JMOVBfR2hNdV9YLXpiNTd6OC01QzctQmxaX2I4TmNmLXd4MVJxZkZ5T09NT01uZHhpYVNKQ052YVUybll3SHl1MTBNMGx2Um1vekdPTVptQU1XUQ?oc=5",
+   "summary": "Ukrainian naval drones strike a new Russian warship in Libya, and other Mideast news&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-23T21:23:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "9816118900f7",
    "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
    "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
@@ -5155,6 +5315,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-23T21:07:03+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -7420,20 +7594,6 @@
    "tag_v": 2
   },
   {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-23T20:05:42+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "8162e96e2495",
    "title": "Alkami: 3 Key Takeaways for Long-Term Investors",
    "link": "https://www.nasdaq.com/articles/alkami-3-key-takeaways-long-term-investors",
@@ -8618,20 +8778,6 @@
    "tag_v": 2
   },
   {
-   "id": "976289250b7f",
-   "title": "Two central Ohio bus drivers killed, nine others injured after head-on crash - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeU1HRXBJcEVNMmhYOHRBaTlpTUk5LUpwVGlneE1MMFBieVBZMXEybmZsWnE5R1o3UEZhQ3RyMlRmVk1vODhEeDZxRVpia1hHZk1XT0k1U3F6czJ0NnhCenllaE5iOFBOdVhvejVXTy1rcTRCR3pvNVhWY0htUld6bjRKeTRwTF9PWlRRU1ptODRZOFBaSndUdUtB?oc=5",
-   "summary": "Two central Ohio bus drivers killed, nine others injured after head-on crash&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-23T18:56:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "4ab13941add3",
    "title": "BacTech Environmental to Attend Ontario Critical Minerals Conference in Toronto | BCCEF Stock News",
    "link": "https://www.stocktitan.net/news/BCCEF/bac-tech-environmental-to-attend-ontario-critical-minerals-22nbow56tka6.html",
@@ -8783,20 +8929,6 @@
    "tag_v": 2
   },
   {
-   "id": "0c732d0a8626",
-   "title": "Ukrainian naval drones strike a new Russian warship in Libya, and other Mideast news - AP News",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkttSjlveXdrMHJKLVNYMWNTMFh3YlJtLXRtTXcwUnI2Z3VMOWJPajRpelJzRDk0ZG0xekVqSlpoM1dac1RwU045bjdjREd3NENUYTdHcHFiMEt3WWdVcDA4S3JMOVBfR2hNdV9YLXpiNTd6OC01QzctQmxaX2I4TmNmLXd4MVJxZkZ5T09NT01uZHhpYVNKQ052YVUybll3SHl1MTBNMGx2Um1vekdPTVptQU1XUQ?oc=5",
-   "summary": "Ukrainian naval drones strike a new Russian warship in Libya, and other Mideast news&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-23T18:49:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "57550b200221",
    "title": "Jensen Huang returns to Nvidia: 'I'm going to be a better CEO the second time around'",
    "link": "https://www.cnbc.com/video/2026/11/23/jensen-huang-returns-to-nvidia.html",
@@ -8807,145 +8939,6 @@
    "published": "2026-11-23T18:48:27+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "333245439893",
-   "title": "Palo Alto Networks' Acquisition Spree Continues During $44 Billion CrowdStrike, Zscaler Cybersecurity Megadeal",
-   "link": "https://www.benzinga.com/m-a/26/11/63553801/palo-alto-networks-acquisition-spree-continues-during-44-billion-crowdstrike-zscaler-cybersecurity-megadeal",
-   "summary": "Palo Alto Networks, Inc. (NASDAQ:PANW) is reportedly in talks to acquire Israeli cybersecurity startup Terra Security in a transaction that could exceed $500 million.Talks remain at an early stage, and a deal is not guaranteed, Calcalistech reported Sunday.Founded in 2024, Terra Security develops Agentic-AI-powered penetration-testing technology that continuously identifies and evaluates vulnerabilities across enterprise systems.The potential deal would expand Palo Alto Networks&rsquo; artificia",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-23T18:47:44+00:00",
-   "tickers": [
-    "PANW",
-    "CRWD",
-    "ZS"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6d56b4eb72cd",
-   "title": "Cotton Fades Lower on Friday",
-   "link": "https://www.nasdaq.com/articles/cotton-fades-lower-friday",
-   "summary": "Cotton futures closed the Friday session with contracts down 18 to 48 points, as nearby December was down 331 points this week. Crude oil was up 88 cents per barrel on the session to $84.09, with the US dollar index $0.054 lower on the day. Weekly Commitment of Traders data...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T18:46:32+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "527a2b534759",
-   "title": "Wheat Closes Mixed on Friday",
-   "link": "https://www.nasdaq.com/articles/wheat-closes-mixed-friday-0",
-   "summary": "The wheat complex saw mixed trade on Friday, as December options expired. Chicago SRW futures were mixed, with front months steady to 4 cents lower and deferreds fractionally to 2 ½ cents higher. December was 19 cents lower for the week. KC HRW futures were anywhere from 1 cent lower...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T18:46:32+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "889ac01ee98b",
-   "title": "Soybeans Rallies into the Weekend with Meal Leading the Way",
-   "link": "https://www.nasdaq.com/articles/soybeans-rallies-weekend-meal-leading-way",
-   "summary": "Soybeans rallied into the weekend, with support from meal, as contracts were fractional higher in some deferreds to 13 ¼ cents higher in the nearbys. January closed with a 10 ¾ cent loss on the week. The cmdtyView national average Cash Bean price was up 13 1/2 cents at $11.63...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T18:46:32+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "71e1f4196f8d",
-   "title": "Why is Alphabet stock surging today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-alphabet-stock-surging-today-93CH-5046241",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-23T18:46:05+00:00",
-   "tickers": [
-    "GOOG"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b2e918e4b1e7",
-   "title": "Swiss Market Snaps 4-day Losing Streak, Ends On Bright Note",
-   "link": "https://www.nasdaq.com/articles/swiss-market-snaps-4-day-losing-streak-ends-bright-note",
-   "summary": "(RTTNews) - The Swiss market started off on a somewhat sluggish note on Monday, but edged up gradually and after moving in a narrow range till well past mid afternoon, gained in strength and ended the session on a strong note as buying gathered momentum in the final hour.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T18:45:12+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "32024783ccab",
-   "title": "Trump Dismisses Jensen Huang Spy Claim: Any 'Beautiful Woman That Comes From China' Gets Called a Spy",
-   "link": "https://www.benzinga.com/news/politics/26/11/63553652/trump-dismisses-jensen-huang-spy-claim-any-beautiful-woman-that-comes-from-china-gets-called-a-spy",
-   "summary": "A question about Chinese intelligence got an answer about good looks. A week later, Nvidia&#8217;s board gave Trump the answer he wanted. President Donald Trump cast doubt on claims that former Megaspeed executive Alice Huang was a Chinese spy. She sits at the center of the scandal surrounding Nvidia Corp. (NASDAQ:NVDA) co-founder and CEO Jensen Huang. Reporters a week ago asked Trump whether he trusted U.S. intelligence about Huang&#8217;s relationship with an alleged Chinese spy. His answer le",
-   "source": "Benzinga",
-   "category": "stocks",
-   "domain": "benzinga.com",
-   "published": "2026-11-23T18:45:08+00:00",
-   "tickers": [
-    "NVDA"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c5f0c4c59c6b",
-   "title": "Walmart is selling fuzzy $40 Crocs slippers with 'supportive cushion' for $25",
-   "link": "https://www.thestreet.com/deals/crocs-classic-cozzzy-slippers-walmart-sale",
-   "summary": "All five colors are currently discounted by 38%.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-23T18:45:00+00:00",
-   "tickers": [
-    "WMT",
-    "CROX"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "fc1e241c9160",
-   "title": "SILVERSEA EXTENDS ITS RIVIERA POOL AND DINING CONCEPT TO SILVER DAWN FOLLOWING DRY DOCK | RCL Stock News",
-   "link": "https://www.stocktitan.net/news/RCL/silversea-extends-its-riviera-pool-and-dining-concept-to-silver-dawn-aiojmda1n3ra.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-23T18:44:00+00:00",
-   "tickers": [
-    "RCL"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   }
@@ -8973,7 +8966,6 @@
   "INSP": "Inspire Medical Systems",
   "IYE": "iShares U.S. Energy ETF",
   "JKHY": "Jack Henry & Associates",
-  "RCL": "Royal Caribbean Cruises",
   "AMD": "Advanced Micro Devices",
   "CDNS": "Cadence Design Systems",
   "SWK": "Stanley Black & Decker",
@@ -8992,6 +8984,7 @@
   "STZ": "Constellation Brands",
   "VOO": "Vanguard S&P 500 ETF",
   "CBSH": "Commerce Bancshares",
+  "IP": "International Paper",
   "KYMR": "Kymera Therapeutics",
   "LULU": "lululemon athletica",
   "PTON": "Peloton Interactive",
@@ -9061,6 +9054,7 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BN": "Brookfield",
+  "CAVA": "CAVA Group",
   "MCD": "McDonald's",
   "PBF": "PBF Energy",
   "SN": "SharkNinja",
@@ -9099,7 +9093,6 @@
   "SRE": "Sempra",
   "ACM": "AECOM",
   "AMGN": "Amgen",
-  "CROX": "Crocs",
   "CX": "CEMEX",
   "FDX": "FedEx",
   "INTC": "Intel",
