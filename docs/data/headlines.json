@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T06:46:37.271274+00:00",
+ "generated": "2026-11-24T06:51:22.545201+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -60,6 +60,22 @@
    "published": "2026-11-24T06:28:17+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0cb612229667",
+   "title": "Medline Closes Secondary Offering Of 69 Mln Shares At $35.50/shr",
+   "link": "https://www.nasdaq.com/articles/medline-closes-secondary-offering-69-mln-shares-3550-shr",
+   "summary": "(RTTNews) - Medline Inc. (MDLN), a healthcare company, on Monday announced the closing of a secondary offering of 69 million shares of its Class A stock by certain existing stockholders at $35.50 per share.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T06:27:52+00:00",
+   "tickers": [
+    "MDLN"
+   ],
+   "type": "offering",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6188,6 +6204,22 @@
    "tag_v": 2
   },
   {
+   "id": "48bba5303652",
+   "title": "Chinese neuroscientist at Princeton is held by ICE after detention at Washington airport - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVdMZDlteGtHYVhFZERUMlRkNEFRM2pVcHJzRzVsTzFrMlVyenFzQ2JXeVl0dTBOVlZFYzNkMU83Z25iTXN0S3c3V0ZjNEoxV3dscE05M2hPaEk0V18wZm54MWxWUUtFY1p6d19yZktaS25KTFBTNHBtb0VXWWczZGJuUFRQbXVUaDJvUDZLbzFMOEQyZ0k5dHoyQ2VqTEFjVFphQ0tvQQ?oc=5",
+   "summary": "Chinese neuroscientist at Princeton is held by ICE after detention at Washington airport&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-23T23:27:00+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "7a8c08da7f60",
    "title": "HPE Q4 FY26 slides: AI orders hit $5.7B, revenue up 50%",
    "link": "https://www.investing.com/news/company-news/hpe-q4-fy26-slides-ai-orders-hit-57b-revenue-up-50-93CH-5046683",
@@ -8840,37 +8872,6 @@
    "type": "macro",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "8d6a64b5ec49",
-   "title": "Nvidia’s stock was falling. Here's why one investor is buying more",
-   "link": "https://www.thestreet.com/investing/stocks/nvidias-stock-was-falling-heres-why-one-investor-is-buying-more",
-   "summary": "Nvidia's sell-off rattled AI investors, but Deepwater's Gene Munster sees an opportunity. Here's why he's buying more shares despite the risks.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-23T21:35:19+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "92a00b485f51",
-   "title": "Cboe Global Markets to Present at the Goldman Sachs Financial Services Conference on December 9",
-   "link": "https://www.prnewswire.com/news-releases/cboe-global-markets-to-present-at-the-goldman-sachs-financial-services-conference-on-december-9-302948630.html",
-   "summary": "CHICAGO, Nov. 23, 2026 /PRNewswire/ -- Cboe Global Markets, Inc. (Cboe: CBOE), a leading global markets operator and pioneer in equity and index derivatives, today announced that Craig Donohue, Chief Executive Officer, Prashant Bhatia, Executive Vice President and Head of Enterprise...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-23T21:30:00+00:00",
-   "tickers": [
-    "GS",
-    "CBOE"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8885,7 +8886,6 @@
   "IAU": "iShares Gold Trust Shares",
   "ICE": "Intercontinental Exchange",
   "CFG": "Citizens Financial Group",
-  "GS": "The Goldman Sachs Group",
   "JKHY": "Jack Henry & Associates",
   "AMD": "Advanced Micro Devices",
   "CDNS": "Cadence Design Systems",
