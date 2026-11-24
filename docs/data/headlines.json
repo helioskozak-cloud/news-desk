@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T02:16:14.176405+00:00",
+ "generated": "2026-11-24T02:21:41.204453+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -57,6 +57,22 @@
    "domain": "nasdaq.com",
    "published": "2026-11-24T02:01:17+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ce982fd0c6b2",
+   "title": "Procore chief legal officer Benjamin Singer sells $286,087 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/procore-chief-legal-officer-benjamin-singer-sells-286087-in-shares-93CH-5046856",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-24T02:01:17+00:00",
+   "tickers": [
+    "PCOR"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -2609,20 +2625,6 @@
    "tag_v": 2
   },
   {
-   "id": "608e804935a1",
-   "title": "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return - AP News",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUdPNnFZNXVRRHJqeGNYX0ptRk1oUW85OHlueHM2aW5teGxVWmViTWdKOGVTTVBYdWNVTjA3M2d4NUFfQ1Fac2g2ZzVZZ0hMdnZ6V1RQdFRmdWNfZlFzNnRYNmR0YWsxUjFIaTNYR2c5V3RQUHdVVUx4X1loaHF6dEcyNF9fQQ?oc=5",
-   "summary": "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-23T23:36:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "792d480ad74f",
    "title": "Visa chief risk officer Fabara sells $589,680 in company stock",
    "link": "https://www.investing.com/news/insider-trading-news/visa-chief-risk-officer-fabara-sells-589680-in-company-stock-93CH-5046697",
@@ -4224,20 +4226,6 @@
    ],
    "type": "markets",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "116e7b9482bd",
-   "title": "US stocks surge and recover half of last week’s plunge after Jensen Huang returns as Nvidia’s CEO - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNF9ZLU84V2VPZHBHcGx0V3p5TVVoV21zbUYyQWFOWU96ZjBmcExvQ1lpVmtFRzl5RVpXdFg3TGhUM3ZHM282MkdnMVgxZ2lwUTRkcm9KaWlHMEcyZ3R6amZIM25vMFRRM0l1OXNxMFFSQVVnR3hzY3BNb1NyUWwxa2hLMndRMkpVZ2l2X0N2Z3JFcmRVMzRMZldCbzlEZkpGZjNmTVJZdw?oc=5",
-   "summary": "US stocks surge and recover half of last week’s plunge after Jensen Huang returns as Nvidia’s CEO&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-23T22:20:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8933,6 +8921,23 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "cf83e452a38a",
+   "title": "Investors are missing the bigger picture in CrowdStrike's deal to buy Zscaler",
+   "link": "https://www.cnbc.com/investingclub/2026/11/23/crowdstrikes-zscaler-deal-investors-are-missing-the-bigger-picture.html",
+   "summary": "CrowdStrike's quarterly results, released alongside the deal's announcement, show a company acting from a position of strength rather than weakness.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-11-23T20:26:39+00:00",
+   "tickers": [
+    "CRWD",
+    "ZS"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
    "tag_v": 2
   }
  ],
