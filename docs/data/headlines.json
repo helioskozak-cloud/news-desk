@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-24T15:21:22.776734+00:00",
+ "generated": "2026-11-24T15:26:12.593843+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "ef8845af0965",
+   "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
+   "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+   "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-24T15:22:29+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "c1cda8dabd55",
+   "title": "PT Freeport Indonesia Announces Redemption of 4.763% Senior Notes Due 2027 | FCX Stock News",
+   "link": "https://www.stocktitan.net/news/FCX/pt-freeport-indonesia-announces-redemption-of-4-763-senior-notes-due-0bd59rp1azx8.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-24T15:21:00+00:00",
+   "tickers": [
+    "FCX"
+   ],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "e4cc035b2d19",
    "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
@@ -79,20 +109,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ef8845af0965",
-   "title": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
-   "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-   "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-24T15:14:23+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -200,6 +216,20 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6108856ef7b6",
+   "title": "Cotton Fading Back Lower on Tuesday",
+   "link": "https://www.nasdaq.com/articles/cotton-fading-back-lower-tuesday",
+   "summary": "Cotton prices are down 32 to 40 points on Tuesday morning. Futures spent much of the Monday session rallying, with futures shooting higher out of the gates to close 147 to 207 points in the green on the day. Crude oil was down $3.09 per barrel on the session to...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T15:11:27+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -376,6 +406,78 @@
    "category": "stocks",
    "domain": "investing.com",
    "published": "2026-11-24T15:07:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "60687b3a9e7a",
+   "title": "Hogs Look to Tuesday Trade",
+   "link": "https://www.nasdaq.com/articles/hogs-look-tuesday-trade-0",
+   "summary": "Lean hog futures posted mixed trade on Monday, with contracts closing anywhere from 30 cents higher to 95 cents lower. Open interest was up 3,306 contracts on Monday. USDA’s national base hog price was reported at $31.70 on Monday afternoon, up 9 cents from the day prior. The CME Lean...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T15:06:40+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bcf69a19e869",
+   "title": "Cattle Look to Tuesday After Mixed Monday Trade",
+   "link": "https://www.nasdaq.com/articles/cattle-look-tuesday-after-mixed-monday-trade",
+   "summary": "Live Cattle futures held the gains into Monday's close with most contracts closing 7 cents to $1.55 higher. Open interest suggested a rotation of ownership, up just 262 contracts. Cash trade showed up at $217-218 sales in the north last week, up $2-3 on the week, with Southern sales at...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T15:06:39+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bbd7649f7183",
+   "title": "Wheat Showing Marginal Tuesday AM Losses",
+   "link": "https://www.nasdaq.com/articles/wheat-showing-marginal-tuesday-am-losses",
+   "summary": "Wheat is down fractionally to 2 cents across most front months. The wheat complex saw mixed trade on Monday. Chicago SRW futures were 2 1/4 to 4 1/2 cents higher on the day. Open interest was down 10,328 contracts on Monday. KC wheat futures posted mixed trade as front months...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T15:06:39+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "1138f47b3d2f",
+   "title": "Soybeans Posting Tuesday AM Strength",
+   "link": "https://www.nasdaq.com/articles/soybeans-posting-tuesday-am-strength",
+   "summary": "Soybeans are showing 3 to 4 cent gains on Monday, but backing off of overnight highs. Bulls held firm into Monday's close with contracts closing the session 3 to 9 cents higher. Open interest was up 5,084 contracts on Monday. The cmdtyView national average Cash Bean price was up 7...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T15:06:39+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "dfa6d0e9f000",
+   "title": "Corn Fading Back on Tuesday Morning",
+   "link": "https://www.nasdaq.com/articles/corn-fading-back-tuesday-morning",
+   "summary": "Corn is trading with Tuesday morning losses of 1 to 2 cents across the front months. Futures battled back from midday weakness on Monday to close the session with contracts fractionally to 2 cents higher, as nearby December was down a tick. Open interest fell 26,428 contracts on Monday, mostly...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T15:06:39+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -580,14 +682,14 @@
    "title": "WMB Trading Below Director's Recent Buy Price",
    "link": "https://www.nasdaq.com/articles/wmb-trading-below-directors-recent-buy-price",
    "summary": "There's an old saying on Wall Street about insider buying: there are many possible reasons to sell a stock, but only one reason to buy. Back on November 19, Williams Cos Inc's Director, Jesse J. Tyson, invested $4,840.56 into 72 shares of WMB, for a cost per share of $67.23. Ba",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-24T15:02:42+00:00",
    "tickers": [
     "WMB"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -623,6 +725,23 @@
     "KSS"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "85c3f10d5ad3",
+   "title": "Stocks Rebound Sharply as Nvidia Reinstates CEO Huang",
+   "link": "https://www.nasdaq.com/articles/stocks-rebound-sharply-nvidia-reinstates-ceo-huang-0",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) on Monday rose by +4.84%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +3.01%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +6.91%. December E-mini S&amp;P futures (ESZ26 ) rose +4.74%, and December E-mini Nasdaq futures (NQZ26 )...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T15:01:08+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1028,6 +1147,20 @@
     "RF"
    ],
    "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "65b1ee381da2",
+   "title": "Compass Diversified - Preferred Stock Price Target Decreased by 13.54% to $28.11",
+   "link": "https://www.nasdaq.com/articles/compass-diversified-preferred-stock-price-target-decreased-1354-2811",
+   "summary": "The average one-year price target for Compass Diversified - Preferred Stock (NYSE:CODI.PRC) has been revised to $28.11 / share. This is a decrease of 13.54% from the prior estimate of $32.52 dated November 8, 2026. These figures represent aggregate analyst targets compiled from",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T14:58:33+00:00",
+   "tickers": [],
+   "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2884,23 +3017,6 @@
    "published": "2026-11-24T14:04:00+00:00",
    "tickers": [
     "FCX"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "85c3f10d5ad3",
-   "title": "Stocks Rebound Sharply as Nvidia Reinstates CEO Huang",
-   "link": "https://www.nasdaq.com/articles/stocks-rebound-sharply-nvidia-reinstates-ceo-huang-0",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) on Monday rose by +4.84%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +3.01%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +6.91%. December E-mini S&amp;P futures (ESZ26 ) rose +4.74%, and December E-mini Nasdaq futures (NQZ26 )...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T14:03:30+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
    ],
    "type": "stocks",
    "sentiment": "neutral",
@@ -8853,120 +8969,6 @@
    "tickers": [],
    "type": "fda",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "7f71be07dba6",
-   "title": "Volatus Aerospace Announces Contract to Operate Scheduled Drone Cargo Service for Major Logistics Customer | TAKOF Stock News",
-   "link": "https://www.stocktitan.net/news/TAKOF/volatus-aerospace-announces-contract-to-operate-scheduled-drone-6t7s71gvplu3.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-24T12:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8331f64abba7",
-   "title": "Abercrombie & Fitch Co. Reports Third Quarter Fiscal 2026 Results | ANF Stock News",
-   "link": "https://www.stocktitan.net/news/ANF/abercrombie-fitch-co-reports-third-quarter-fiscal-2026-2dii8udhgn0h.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-24T12:30:00+00:00",
-   "tickers": [
-    "ANF"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ee12aac1e09a",
-   "title": "Helus Pharma to Host Clinical Perspectives Discussion on APPROACH Topline Results with Key Opinion Leaders | HELP Stock News",
-   "link": "https://www.stocktitan.net/news/HELP/helus-pharma-to-host-clinical-perspectives-discussion-on-approach-tzwvzqp2e6uv.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-24T12:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "941280db9664",
-   "title": "Abaxx Announces Year-End Investor Forum | ABXXF Stock News",
-   "link": "https://www.stocktitan.net/news/ABXXF/abaxx-announces-year-end-investor-bonct3ry1smw.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-24T12:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0ee167007aec",
-   "title": "Public asked to give their views on LanzaTech’s proposed sustainable aviation fuel facility in the Humber | LNZA Stock News",
-   "link": "https://www.stocktitan.net/news/LNZA/public-asked-to-give-their-views-on-lanza-tech-s-proposed-yhuakajxlsk1.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-24T12:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "210077878b0f",
-   "title": "Immuneering to Present at the Piper Sandler 38th Annual Healthcare Conference | IMRX Stock News",
-   "link": "https://www.stocktitan.net/news/IMRX/immuneering-to-present-at-the-piper-sandler-38th-annual-healthcare-yx9l03pk6pvs.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-24T12:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "c26294ba4f1f",
-   "title": "Aveanna to Participate at the BofA Securities Home Care Conference | AVAH Stock News",
-   "link": "https://www.stocktitan.net/news/AVAH/aveanna-to-participate-at-the-bof-a-securities-home-care-n3i6mzryv061.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-24T12:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "99bd6fa9677b",
-   "title": "Dyne Therapeutics to Participate in Upcoming Investor Conference | DYN Stock News",
-   "link": "https://www.stocktitan.net/news/DYN/dyne-therapeutics-to-participate-in-upcoming-investor-nx4sd500zced.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-24T12:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   }
  ],
