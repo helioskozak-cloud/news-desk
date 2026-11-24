@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T10:11:41.305988+00:00",
+ "generated": "2026-11-24T10:16:05.817945+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -130,6 +130,22 @@
    "published": "2026-11-24T09:54:14+00:00",
    "tickers": [],
    "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5677c1c53111",
+   "title": "CVS Has Beaten Earnings Estimates 6 Quarters Straight. Why Is the Stock Under $90?",
+   "link": "https://www.nasdaq.com/articles/cvs-has-beaten-earnings-estimates-6-quarters-straight-why-stock-under-90",
+   "summary": "Key PointsCVS continues to beat earnings estimates and raise its guidance.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T09:50:02+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8783,23 +8799,6 @@
    "type": "markets",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "cec60837d94b",
-   "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
-   "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
-   "summary": "CrowdStrike CEO George Kurtz defended the company's $44 billion acquisition of Zscaler.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-23T23:53:20+00:00",
-   "tickers": [
-    "CRWD",
-    "ZS"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8871,6 +8870,7 @@
   "DDOG": "Datadog Inc",
   "SE": "Sea Limited",
   "BN": "Brookfield",
+  "CVS": "CVS Health",
   "FTI": "TechnipFMC",
   "MCD": "McDonald's",
   "SN": "SharkNinja",
