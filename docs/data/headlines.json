@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-24T02:06:35.221240+00:00",
+ "generated": "2026-11-24T02:11:40.880910+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "027cbe5bc73e",
+   "title": "2026 U.S. House Election Results - AP News",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+   "summary": "2026 U.S. House Election Results&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-24T02:10:14+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "a0ab7f8b3750",
    "title": "Can Anthropic win hearts and minds by curing hearts and minds?",
@@ -1313,14 +1327,16 @@
   },
   {
    "id": "b883f0b74ce4",
-   "title": "Target has thousands of workers in a country with no Target stores",
+   "title": "Target and Best Buy sent thousands of American jobs to India",
    "link": "https://www.thestreet.com/retail/best-buy-and-target-sent-u-s-jobs-to-india-before-kroger",
    "summary": "Target, which only has stores in the U.S., employs thousands of people in India.",
    "source": "TheStreet",
    "category": "stocks",
    "domain": "thestreet.com",
    "published": "2026-11-24T00:59:53+00:00",
-   "tickers": [],
+   "tickers": [
+    "BBY"
+   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8918,22 +8934,6 @@
    "type": "legal",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "d966c17f5a57",
-   "title": "Emplifi Appoints Claire Wilson as Chief Marketing Officer",
-   "link": "https://www.prnewswire.com/news-releases/emplifi-appoints-claire-wilson-as-chief-marketing-officer-302948125.html",
-   "summary": "Ten-year Emplifi leader and B2B SaaS marketing executive will accelerate brand awareness and growth as AI reshapes social media marketing and CX NEW YORK, Nov. 23, 2026 /PRNewswire/ -- Emplifi, a leading Autonomous CX platform, today announced Claire Wilson as its new Chief Marketing...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-23T20:30:00+00:00",
-   "tickers": [
-    "CX"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9076,7 +9076,6 @@
   "SRE": "Sempra",
   "ACM": "AECOM",
   "AMGN": "Amgen",
-  "CX": "CEMEX",
   "FDX": "FedEx",
   "FRMI": "Fermi",
   "INTC": "Intel",
