@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-24T21:51:09.629089+00:00",
+ "generated": "2026-11-24T21:56:28.343859+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "033246d0d4a9",
+   "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+   "link": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+   "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-24T21:54:49+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "c6cd02d00d9e",
+   "title": "INVESTOR ACTION NOTICE: Moore Law PLLC Encourages Investors in Bank of America (NYSE: BAC) to Contact Law Firm",
+   "link": "https://www.prnewswire.com/news-releases/investor-action-notice-moore-law-pllc-encourages-investors-in-bank-of-america-nyse-bac-to-contact-law-firm-302949814.html",
+   "summary": "Bank of America (NYSE: BAC) shareholders should email fletcher@fmoorelaw.com NEW YORK, Nov. 24, 2026 /PRNewswire/ -- The investigation concerns: Deficient AML & BSA Compliance Controls: Bank of America maintained deficient Bank Secrecy Act (BSA) and Anti-Money Laundering (AML) monitoring...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-24T21:54:00+00:00",
+   "tickers": [
+    "BAC"
+   ],
+   "type": "press",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "eee8c1134397",
    "title": "Crude Prices Sharply Higher on Concerns Over Supply Disruptions",
@@ -8998,39 +9028,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c500a9208c95",
-   "title": "Peptone Appoints Deepak Sampath, Ph.D., as Chief Scientific Officer and Advances PEP-5089 a First-in-Class AI- and Biophysics-Developed Drug Candidate for Prostate Cancer into IND-Enabling Development",
-   "link": "https://www.prnewswire.com/news-releases/peptone-appoints-deepak-sampath-phd-as-chief-scientific-officer-and-advances-pep-5089-a-first-in-class-ai--and-biophysics-developed-drug-candidate-for-prostate-cancer-into-ind-enabling-development-302948180.html",
-   "summary": "Deepak Sampath, Ph.D. joins Peptone as CSO bringing extensive drug discovery experience in small molecules and biologics, translational sciences and early development from Ultragenyx and Genentech PEP-5089 is a first-in-class, orally bioavailable, small-molecule drug that inhibits the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-24T17:00:00+00:00",
-   "tickers": [
-    "RARE",
-    "PEP"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4a27dd773e3a",
-   "title": "Allstate Wuerffel Trophy announces 2026 finalists for college football's premier community service award",
-   "link": "https://www.prnewswire.com/news-releases/allstate-wuerffel-trophy-announces-2026-finalists-for-college-footballs-premier-community-service-award-302946074.html",
-   "summary": "Three student-athletes from Arizona, South Florida and Toledo honored for leadership and community service off the field; recipient to be announced Dec. 11 live on ESPN ATLANTA, Nov. 24, 2026 /PRNewswire/ -- The Allstate Wuerffel Trophy today announced its 2026 finalists, recognizing...",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-24T17:00:00+00:00",
-   "tickers": [
-    "DIS"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9117,7 +9114,6 @@
   "AXON": "Axon Enterprise",
   "BAC": "Bank of America",
   "COIN": "Coinbase Global",
-  "DIS": "The Walt Disney",
   "ELV": "Elevance Health",
   "GILD": "Gilead Sciences",
   "GPN": "Global Payments",
@@ -9207,7 +9203,6 @@
   "MDB": "MongoDB",
   "MDLN": "Medline",
   "NTNX": "Nutanix",
-  "PEP": "PepsiCo",
   "SMTC": "Semtech",
   "SNDK": "Sandisk",
   "WDAY": "Workday",
