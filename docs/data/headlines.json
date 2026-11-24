@@ -1,20 +1,79 @@
 {
- "generated": "2026-11-24T19:26:00.686835+00:00",
+ "generated": "2026-11-24T19:31:43.489148+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
   {
+   "id": "d3b1131042b8",
+   "title": "Retail turnarounds are taking hold just in time for the holiday season",
+   "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+   "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "domain": "cnbc.com",
+   "published": "2026-11-24T19:26:39+00:00",
+   "tickers": [],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "1801f9c70a8f",
-   "title": "Trump wanted Jensen Huang back. Now, he's all alone in Washington",
+   "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
    "link": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
    "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-24T19:23:52+00:00",
+   "published": "2026-11-24T19:26:26+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8183334a0d2c",
+   "title": "Anthropic shares fall below IPO price. Traders see even more pain",
+   "link": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
+   "summary": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-24T19:26:21+00:00",
+   "tickers": [],
+   "type": "offering",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "3c62ac013d96",
+   "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+   "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+   "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-24T19:26:20+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "61c46f7d43c3",
+   "title": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
+   "link": "https://www.cnbc.com/investingclub/2026/11/24/who-qualifies-for-costcos-dividend-plus-meta-pauses-share-plan.html",
+   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-24T19:23:59+00:00",
+   "tickers": [
+    "COST",
+    "META"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -113,70 +172,6 @@
    "tag_v": 2
   },
   {
-   "id": "c8383b1b6474",
-   "title": "Smaller Supplies from the Ivory Coast Boost Cocoa Prices",
-   "link": "https://www.nasdaq.com/articles/smaller-supplies-ivory-coast-boost-cocoa-prices",
-   "summary": "March ICE NY cocoa (CCH27 ) is up +110 (+2.08%) today, and ICE London cocoa #7 (CAZ26 ) closed up +29 (+0.73%). Cocoa prices rallied to 2.5-week highs today amid reduced cocoa shipments from the Ivory Coast. Ivory Coast government data on Monday showed farmers delivered 53,748 MT of cocoa...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:13:56+00:00",
-   "tickers": [
-    "ICE",
-    "MT"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f155011873a5",
-   "title": "Dollar Weakness Spurs Short Covering in Sugar",
-   "link": "https://www.nasdaq.com/articles/dollar-weakness-spurs-short-covering-sugar",
-   "summary": "March NY world sugar #11 (SBH27 ) is up +0.06 (+0.34%) today, and March London ICE white sugar #5 (SWH27 ) is up +0.90 (+0.18%). Sugar prices are climbing today as a weaker dollar ($DXY ) has spurred some short covering in sugar futures. Sugar prices shook off the bearish...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:13:56+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3f031fe72d5d",
-   "title": "Weakness in Tech Stocks Weighs on the Broader Market",
-   "link": "https://www.nasdaq.com/articles/weakness-tech-stocks-weighs-broader-market",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -1.05% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.56%. December E-mini S&amp;P futures (ESZ26 ) are down -1.10%, and December E-mini Nasdaq...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:13:55+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1138f47b3d2f",
-   "title": "Soybeans Posting Tuesday AM Strength",
-   "link": "https://www.nasdaq.com/articles/soybeans-posting-tuesday-am-strength",
-   "summary": "Soybeans are showing 3 to 4 cent gains on Monday, but backing off of overnight highs. Bulls held firm into Monday's close with contracts closing the session 3 to 9 cents higher. Open interest was up 5,084 contracts on Monday. The cmdtyView national average Cash Bean price was up 7...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:13:55+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "feeff8f5d2d2",
    "title": "Elon Musk Built an AI Empire to Challenge Anthropic — Now Anthropic Is Helping Pay for It",
    "link": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63601145/musk-spacex-anthropic-ai-deal",
@@ -235,23 +230,6 @@
    ],
    "type": "macro",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "dfe61bdc8b92",
-   "title": "Stocks Mostly Lower on Weakness in Chipmakers and Renewed Trade Tensions",
-   "link": "https://www.nasdaq.com/articles/stocks-mostly-lower-weakness-chipmakers-and-renewed-trade-tensions",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -0.48% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&amp;P futures (ESZ26 ) are down -0.47%, and December E-mini Nasdaq...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:08:04+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -355,6 +333,56 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c8383b1b6474",
+   "title": "Smaller Supplies from the Ivory Coast Boost Cocoa Prices",
+   "link": "https://www.nasdaq.com/articles/smaller-supplies-ivory-coast-boost-cocoa-prices",
+   "summary": "March ICE NY cocoa (CCH27 ) is up +110 (+2.08%) today, and ICE London cocoa #7 (CAZ26 ) closed up +29 (+0.73%). Cocoa prices rallied to 2.5-week highs today amid reduced cocoa shipments from the Ivory Coast. Ivory Coast government data on Monday showed farmers delivered 53,748 MT of cocoa...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T19:02:19+00:00",
+   "tickers": [
+    "ICE",
+    "MT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f155011873a5",
+   "title": "Dollar Weakness Spurs Short Covering in Sugar",
+   "link": "https://www.nasdaq.com/articles/dollar-weakness-spurs-short-covering-sugar",
+   "summary": "March NY world sugar #11 (SBH27 ) is up +0.06 (+0.34%) today, and March London ICE white sugar #5 (SWH27 ) is up +0.90 (+0.18%). Sugar prices are climbing today as a weaker dollar ($DXY ) has spurred some short covering in sugar futures. Sugar prices shook off the bearish...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T19:02:19+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "dfe61bdc8b92",
+   "title": "Stocks Mostly Lower on Weakness in Chipmakers and Renewed Trade Tensions",
+   "link": "https://www.nasdaq.com/articles/stocks-mostly-lower-weakness-chipmakers-and-renewed-trade-tensions",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -0.48% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&amp;P futures (ESZ26 ) are down -0.47%, and December E-mini Nasdaq...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T19:02:18+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -620,6 +648,23 @@
    "published": "2026-11-24T18:57:00+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3f031fe72d5d",
+   "title": "Weakness in Tech Stocks Weighs on the Broader Market",
+   "link": "https://www.nasdaq.com/articles/weakness-tech-stocks-weighs-broader-market",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -1.05% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.56%. December E-mini S&amp;P futures (ESZ26 ) are down -1.10%, and December E-mini Nasdaq...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T18:56:44+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -975,6 +1020,20 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "1138f47b3d2f",
+   "title": "Soybeans Posting Tuesday AM Strength",
+   "link": "https://www.nasdaq.com/articles/soybeans-posting-tuesday-am-strength",
+   "summary": "Soybeans are showing 3 to 4 cent gains on Monday, but backing off of overnight highs. Bulls held firm into Monday's close with contracts closing the session 3 to 9 cents higher. Open interest was up 5,084 contracts on Monday. The cmdtyView national average Cash Bean price was up 7...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T18:45:13+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1491,20 +1550,6 @@
    "tag_v": 2
   },
   {
-   "id": "d3b1131042b8",
-   "title": "Retail turnarounds are taking hold just in time for the holiday season",
-   "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
-   "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-11-24T18:21:35+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "cb163651d173",
    "title": "TD Cowen downgrades Insmed stock rating to Hold on Sanofi acquisition deal",
    "link": "https://www.investing.com/news/analyst-ratings/td-cowen-downgrades-insmed-stock-rating-to-hold-on-sanofi-acquisition-deal-93CH-5048861",
@@ -1593,20 +1638,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8183334a0d2c",
-   "title": "As Anthropic falls below its IPO price, here's how big-money traders are reacting",
-   "link": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
-   "summary": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-24T18:17:12+00:00",
-   "tickers": [],
-   "type": "offering",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -9006,34 +9037,6 @@
    "published": "2026-11-24T14:12:41+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b32df5437c57",
-   "title": "Upland Software expands partnership with Instant InfoSystems",
-   "link": "https://www.investing.com/news/company-news/upland-software-expands-partnership-with-instant-infosystems-93CH-5048438",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-24T14:12:35+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1dfca3d9f0d9",
-   "title": "PT Freeport Indonesia completes $750m bond offering at 6.90%",
-   "link": "https://www.investing.com/news/company-news/pt-freeport-indonesia-completes-750m-bond-offering-at-690-93CH-5048436",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-24T14:12:34+00:00",
-   "tickers": [],
-   "type": "offering",
    "sentiment": "neutral",
    "tag_v": 2
   }
