@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-24T18:31:21.214471+00:00",
+ "generated": "2026-11-24T18:36:32.386950+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "2d7f5ef9d0d9",
+   "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+   "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+   "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-11-24T18:34:43+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "fe194b83103d",
+   "title": "Costco gives $30 gift for the holidays, but there's a catch",
+   "link": "https://www.thestreet.com/retail/costco-gives-30-gift-for-the-holidays-but-theres-a-catch",
+   "summary": "The $30 special dividend has a ticking clock attached.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-24T18:33:00+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d4e59a5f4b7b",
+   "title": "Nvidia shares fall 7% as Huang comeback rally cools",
+   "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+   "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-24T18:30:58+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "d71b3b9a2ff9",
    "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
@@ -12,6 +56,20 @@
    "category": "markets",
    "domain": "cnbc.com",
    "published": "2026-11-24T18:30:06+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "44dcd0704637",
+   "title": "Admicom at Stora Aktiedagarna 2026: growth plan leans on ai and m&a",
+   "link": "https://www.investing.com/news/transcripts/admicom-at-stora-aktiedagarna-2026-growth-plan-leans-on-ai-and-ma-93CH-5048863",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-24T18:28:00+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -97,20 +155,35 @@
    "tag_v": 2
   },
   {
-   "id": "3f031fe72d5d",
-   "title": "Weakness in Tech Stocks Weighs on the Broader Market",
-   "link": "https://www.nasdaq.com/articles/weakness-tech-stocks-weighs-broader-market",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -1.05% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.56%. December E-mini S&amp;P futures (ESZ26 ) are down -1.10%, and December E-mini Nasdaq...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T18:20:30+00:00",
+   "id": "cb163651d173",
+   "title": "TD Cowen downgrades Insmed stock rating to Hold on Sanofi acquisition deal",
+   "link": "https://www.investing.com/news/analyst-ratings/td-cowen-downgrades-insmed-stock-rating-to-hold-on-sanofi-acquisition-deal-93CH-5048861",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-24T18:20:47+00:00",
    "tickers": [
-    "SPY",
-    "QQQ"
+    "INSM"
    ],
-   "type": "stocks",
-   "sentiment": "neutral",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "9ed0149dc793",
+   "title": "Abercrombie & Fitch stock price target raised to $205 by BTIG on Q3 results",
+   "link": "https://www.investing.com/news/analyst-ratings/abercrombie--fitch-stock-price-target-raised-to-205-by-btig-on-q3-results-93CH-5048862",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-24T18:20:47+00:00",
+   "tickers": [
+    "ANF"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -141,6 +214,20 @@
     "ISRG"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "62a3c8c6df88",
+   "title": "Nvidia slips as investors assess risks surrounding Huang’s return as CEO",
+   "link": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "domain": "investing.com",
+   "published": "2026-11-24T18:18:19+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -499,6 +586,23 @@
    "tag_v": 2
   },
   {
+   "id": "3f031fe72d5d",
+   "title": "Weakness in Tech Stocks Weighs on the Broader Market",
+   "link": "https://www.nasdaq.com/articles/weakness-tech-stocks-weighs-broader-market",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -1.05% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.56%. December E-mini S&amp;P futures (ESZ26 ) are down -1.10%, and December E-mini Nasdaq...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T18:02:17+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "14748e580350",
    "title": "Dollar Weighed Down by Falling T-Note Yields and Trade Tensions",
    "link": "https://www.nasdaq.com/articles/dollar-weighed-down-falling-t-note-yields-and-trade-tensions",
@@ -774,8 +878,8 @@
    "title": "Tuesday's ETF Movers: XBI, EMEQ",
    "link": "https://www.nasdaq.com/articles/tuesdays-etf-movers-xbi-emeq",
    "summary": "In trading on Tuesday, the State Street SPDR S&amp;P Biotech ETF is outperforming other ETFs, up about 5.3% on the day. Components of that ETF showing particular strength include shares of Faeth Therapeutics, up about 20.9% and shares of Cogent Biosciences, up about 20.1% on th",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-24T17:57:22+00:00",
    "tickers": [
@@ -783,7 +887,7 @@
     "STT",
     "XBI"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -823,15 +927,15 @@
    "title": "Tuesday Sector Laggards: Semiconductors, Computer Peripherals",
    "link": "https://www.nasdaq.com/articles/tuesday-sector-laggards-semiconductors-computer-peripherals",
    "summary": "In trading on Tuesday, semiconductors shares were relative laggards, down on the day by about 7.9%. Helping drag down the group were shares of Analog Devices, off about 18.1% and shares of Semtech down about 17.2% on the day. Also lagging the market Tuesday are computer periph",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-24T17:56:17+00:00",
    "tickers": [
     "ADI",
     "SMTC"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -856,12 +960,12 @@
    "title": "Tuesday Sector Leaders: Biotechnology, Drugs",
    "link": "https://www.nasdaq.com/articles/tuesday-sector-leaders-biotechnology-drugs-0",
    "summary": "In trading on Tuesday, biotechnology shares were relative leaders, up on the day by about 4.8%. Leading the group were shares of Prelude Therapeutics, up about 25.4% and shares of C4 Therapeutics up about 20.7% on the day. Also showing relative strength are drugs shares, up on",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-24T17:56:02+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1722,20 +1826,6 @@
    "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-24T17:22:45+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d4e59a5f4b7b",
-   "title": "Nvidia shares fall 7% as Huang comeback rally cools",
-   "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-   "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-24T17:22:30+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
@@ -3477,20 +3567,6 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "2d7f5ef9d0d9",
-   "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-   "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-   "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "domain": "cnbc.com",
-   "published": "2026-11-24T16:06:07+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -5599,20 +5675,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "62a3c8c6df88",
-   "title": "Nvidia slips as investors assess risks surrounding Huang’s return as CEO",
-   "link": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-24T15:07:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8984,72 +9046,9 @@
    "type": "legal",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "2a0e59060663",
-   "title": "Academy Sports + Outdoors Announces Third Quarter Fiscal 2026 Results Conference Call",
-   "link": "https://www.prnewswire.com/news-releases/academy-sports--outdoors-announces-third-quarter-fiscal-2026-results-conference-call-302947460.html",
-   "summary": "KATY, Texas, Nov. 24, 2026 /PRNewswire/ -- Academy Sports and Outdoors, Inc. (\"Academy\" or the \"Company\") (Nasdaq: ASO), a leading full-line sporting goods and outdoor recreation retailer, plans to release its third quarter fiscal 2026 financial results before the market opens on Tuesday,...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-24T13:55:00+00:00",
-   "tickers": [
-    "ASO"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "43034b73a137",
-   "title": "Academy Sports + Outdoors Announces Third Quarter Fiscal 2026 Results Conference Call | ASO Stock News",
-   "link": "https://www.stocktitan.net/news/ASO/academy-sports-outdoors-announces-third-quarter-fiscal-2026-results-3284q0thpdvv.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-24T13:55:00+00:00",
-   "tickers": [
-    "ASO"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4bffddf7554d",
-   "title": "MINT Expands Chicagoland Access to Minimally Invasive Treatment for Enlarged Prostate",
-   "link": "https://www.prnewswire.com/news-releases/mint-expands-chicagoland-access-to-minimally-invasive-treatment-for-enlarged-prostate-302948839.html",
-   "summary": "Consultations in Evergreen Park, Tinley Park and Kenwood help men explore treatment for enlarged-prostate symptoms. CHICAGO, Nov. 24, 2026 /PRNewswire/ -- Midwest Institute for Non-Surgical Therapy (MINT) is expanding access to prostate artery embolization (PAE) in Chicagoland for...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-24T13:54:00+00:00",
-   "tickers": [
-    "MINT"
-   ],
-   "type": "press",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "54e7794824ce",
-   "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-   "link": "https://www.cnbc.com/investingclub/2026/11/24/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-   "summary": "Nvidia is giving back some of Monday's surge and Anthropic is below its IPO price of $83.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-24T13:53:37+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
-  "MINT": "PIMCO Enhanced Short Maturity Active Exchange-Traded Fund",
   "USHY": "iShares Broad USD High Yield Corporate Bond ETF",
   "DYNF": "iShares U.S. Equity Factor Rotation Active ETF",
   "DGRW": "WisdomTree U.S. Quality Dividend Growth Fund",
