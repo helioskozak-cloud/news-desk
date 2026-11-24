@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-24T02:01:46.177901+00:00",
+ "generated": "2026-11-24T02:06:35.221240+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "a0ab7f8b3750",
+   "title": "Can Anthropic win hearts and minds by curing hearts and minds?",
+   "link": "https://www.cbsnews.com/news/anthropic-drug-discovery-claude-science-ipo/",
+   "summary": "Anthropic says Claude Science can drive breakthroughs in drug discovery. It could also open lucrative commercial opportunities, experts say.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-24T02:04:55+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "29b27ee4580f",
+   "title": "Popular childhood cereal gets an unexpected protein makeover",
+   "link": "https://www.thestreet.com/retail/popular-childhood-cereal-trix-gets-an-unexpected-protein-makeover-general-mills",
+   "summary": "General Mills is reinventing a nostalgic breakfast favorite amid struggles in traditional cereal sales.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-24T02:03:00+00:00",
+   "tickers": [
+    "GIS"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "9221b356f026",
    "title": "Hormel Foods Corporation Announces Increase to Quarterly Dividend Marking 61st Consecutive Year with a Quarterly Increase | HRL Stock News",
@@ -11,6 +41,22 @@
    "source": "Stock Titan",
    "category": "stocks",
    "domain": "stocktitan.net",
+   "published": "2026-11-24T02:00:00+00:00",
+   "tickers": [
+    "HRL"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "662abf40938d",
+   "title": "Hormel Foods Corporation Announces Increase to Quarterly Dividend Marking 61st Consecutive Year with a Quarterly Increase",
+   "link": "https://www.prnewswire.com/news-releases/hormel-foods-corporation-announces-increase-to-quarterly-dividend-marking-61st-consecutive-year-with-a-quarterly-increase-302948795.html",
+   "summary": "AUSTIN, Minn., Nov. 23, 2026 /PRNewswire/ -- Hormel Foods Corporation (NYSE: HRL), a Fortune 500 global branded food company, today announced a one percent increase to its quarterly dividend on the common stock, authorized by the Board of Directors at $0.295 per share. The dividend will...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
    "published": "2026-11-24T02:00:00+00:00",
    "tickers": [
     "HRL"
@@ -927,16 +973,14 @@
   },
   {
    "id": "e53195979f77",
-   "title": "TJ Maxx and Marshalls make a decision about Thanksgiving hours",
+   "title": "Major off-price retailers make decision on holiday hours",
    "link": "https://www.thestreet.com/retail/tj-maxx-and-marshalls-make-a-decision-about-thanksgiving-hours",
-   "summary": "TJX Companies' Thanksgiving hours follow other retailers' policies for the holiday.",
+   "summary": "TJ Maxx and Marshalls Thanksgiving hours follow other retailers' policies for the holiday.",
    "source": "TheStreet",
    "category": "stocks",
    "domain": "thestreet.com",
    "published": "2026-11-24T01:13:00+00:00",
-   "tickers": [
-    "TJX"
-   ],
+   "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -2749,7 +2793,7 @@
    "title": "SharkNinja Set to Join S&P 500; Others to Join S&P MidCap 400 and S&P SmallCap 600",
    "link": "https://www.prnewswire.com/news-releases/sharkninja-set-to-join-sp-500-others-to-join-sp-midcap-400-and-sp-smallcap-600-302948731.html",
    "summary": "NEW YORK, Nov. 23, 2026 /PRNewswire/ -- S&amp;P Dow Jones Indices will make the following changes to the S&amp;P 500, S&amp;P MidCap 400, S&amp;P SmallCap 600: S&amp;P MidCap 400 constituent SharkNinja Inc. (NYSE: SN) will replace AES Corp. (NYSE: AES) in the S&amp;P 500, S&amp;P SmallCap 600 constituent Paycom...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-11-23T23:23:00+00:00",
@@ -4197,6 +4241,20 @@
     "BN"
    ],
    "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1926123fd402",
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-23T22:18:03+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7208,20 +7266,6 @@
    "tag_v": 2
   },
   {
-   "id": "1926123fd402",
-   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-   "summary": "NBA Scores & Daily News | NBA Stats, Scores & News Today&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-23T21:07:03+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "58113fadfef2",
    "title": "ScottsMiracle-Gro to Participate in December 2026 Investor Conferences | SMG Stock News",
    "link": "https://www.stocktitan.net/news/SMG/scotts-miracle-gro-to-participate-in-december-2026-investor-xcgxbs68k2xa.html",
@@ -8890,51 +8934,6 @@
    "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "ec85805b76d2",
-   "title": "Machetes and sticks emerge at a Lagos town hall: an AP photographer captures a beaten attacker - AP News",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR25sdjEzRThDbld5T3JKaGZmUUVJVEwxMGN0TXlGRWh0TWtPSy03SjRsVjNEdjlIUTJ3dDZ0YzRMR3lYUjBGYmRvRnJla3JZN29xdy1xRERQejE3dWhQNWpVakNQNk45VVl5NmpjWVdINTNjWk9wT2dSNG16NHhkM0dRdHVRQzNtX093TWdOZHVGYTZlZWlJZ3dzYW9GelFtMkhoWU9hUmVhNkZBU3RHSHBuM24tMjRna3REM2t1dDF6aVFnMmJBMktpQVYtcDE3ZmNCVGhwTzNjZDVOU0hj?oc=5",
-   "summary": "Machetes and sticks emerge at a Lagos town hall: an AP photographer captures a beaten attacker&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-23T20:27:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d5bdfd36af12",
-   "title": "Canadian bond yields mostly lower with focus on stock market",
-   "link": "https://www.investing.com/news/stock-market-news/canadian-bond-yields-mostly-lower-with-focus-on-stock-market-5046318",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-23T20:26:43+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "cf83e452a38a",
-   "title": "Investors are missing the bigger picture in CrowdStrike's deal to buy Zscaler",
-   "link": "https://www.cnbc.com/investingclub/2026/11/23/crowdstrikes-zscaler-deal-investors-are-missing-the-bigger-picture.html",
-   "summary": "CrowdStrike's quarterly results, released alongside the deal's announcement, show a company acting from a position of strength rather than weakness.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-11-23T20:26:39+00:00",
-   "tickers": [
-    "CRWD",
-    "ZS"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8998,7 +8997,6 @@
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
   "SOFI": "SoFi Technologies",
-  "TJX": "The TJX Companies",
   "VERA": "Vera Therapeutics",
   "AMTM": "Amentum Holdings",
   "BBIO": "BridgeBio Pharma",
@@ -9022,6 +9020,7 @@
   "CSCO": "Cisco Systems",
   "EG": "Everest Group",
   "FTAI": "FTAI Aviation",
+  "GIS": "General Mills",
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "MT": "ArcelorMittal",
