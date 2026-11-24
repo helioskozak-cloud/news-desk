@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T02:31:47.910239+00:00",
+ "generated": "2026-11-24T02:36:36.673254+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -31,6 +31,22 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "93a6e76b4118",
+   "title": "Olive Resource Capital Inc. Q3 Earnings Summary",
+   "link": "https://www.nasdaq.com/articles/olive-resource-capital-inc-q3-earnings-summary",
+   "summary": "(RTTNews) - Below are the earnings highlights for Olive Resource Capital Inc. (OC.V):",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T02:16:59+00:00",
+   "tickers": [
+    "OC"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2724,20 +2740,6 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "608e804935a1",
-   "title": "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return - AP News",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUdPNnFZNXVRRHJqeGNYX0ptRk1oUW85OHlueHM2aW5teGxVWmViTWdKOGVTTVBYdWNVTjA3M2d4NUFfQ1Fac2g2ZzVZZ0hMdnZ6V1RQdFRmdWNfZlFzNnRYNmR0YWsxUjFIaTNYR2c5V3RQUHdVVUx4X1loaHF6dEcyNF9fQQ?oc=5",
-   "summary": "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-23T23:36:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -9021,6 +9023,7 @@
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "MT": "ArcelorMittal",
+  "OC": "Owens Corning",
   "SU": "Suncor Energy",
   "UNP": "Union Pacific",
   "VLO": "Valero Energy",
