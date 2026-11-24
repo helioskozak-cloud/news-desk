@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-24T18:26:30.785307+00:00",
+ "generated": "2026-11-24T18:31:21.214471+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d71b3b9a2ff9",
+   "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+   "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+   "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-24T18:30:06+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "d6ddd479129c",
    "title": "Why Is Anthropic Stock Falling Despite a Record IPO?",
@@ -14,20 +28,6 @@
    "published": "2026-11-24T18:25:06+00:00",
    "tickers": [],
    "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d71b3b9a2ff9",
-   "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-   "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-   "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-24T18:23:58+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -94,6 +94,37 @@
    ],
    "type": "guidance",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "3f031fe72d5d",
+   "title": "Weakness in Tech Stocks Weighs on the Broader Market",
+   "link": "https://www.nasdaq.com/articles/weakness-tech-stocks-weighs-broader-market",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -1.05% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.56%. December E-mini S&amp;P futures (ESZ26 ) are down -1.10%, and December E-mini Nasdaq...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T18:20:30+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "6cf4f861f0d6",
+   "title": "Crude Prices Rebound on Reports of Attacks on Tankers in the Strait of Hormuz",
+   "link": "https://www.nasdaq.com/articles/crude-prices-rebound-reports-attacks-tankers-strait-hormuz",
+   "summary": "January WTI crude oil (CLF27 ) is up +0.44 (+0.55%) today, and January RBOB gasoline (RBF27 ) is up +0.0139 (+0.58%). Crude oil and gasoline prices recovered from overnight losses and are moving higher today. Dollar weakness is supportive of crude prices today, along with increased attacks on shipping through...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T18:20:30+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -214,6 +245,20 @@
    "published": "2026-11-24T18:07:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f6542a3d375e",
+   "title": "Pearl Diver Credit Consensus Price Target Decreased by 18.60% to $8.92",
+   "link": "https://www.nasdaq.com/articles/pearl-diver-credit-consensus-price-target-decreased-1860-892",
+   "summary": "The average one-year price target for Pearl Diver Credit (NYSE:PDCC) has been revised to $8.92 / share. This is a decrease of 18.60% from the prior estimate of $10.96 dated November 6, 2026. These figures represent aggregate analyst targets compiled by Fintel as of November 20,",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T18:06:55+00:00",
+   "tickers": [],
+   "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -451,23 +496,6 @@
    ],
    "type": "dividend",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "3f031fe72d5d",
-   "title": "Weakness in Tech Stocks Weighs on the Broader Market",
-   "link": "https://www.nasdaq.com/articles/weakness-tech-stocks-weighs-broader-market",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -1.05% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -2.56%. December E-mini S&amp;P futures (ESZ26 ) are down -1.10%, and December E-mini Nasdaq...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T18:02:17+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -746,8 +774,8 @@
    "title": "Tuesday's ETF Movers: XBI, EMEQ",
    "link": "https://www.nasdaq.com/articles/tuesdays-etf-movers-xbi-emeq",
    "summary": "In trading on Tuesday, the State Street SPDR S&amp;P Biotech ETF is outperforming other ETFs, up about 5.3% on the day. Components of that ETF showing particular strength include shares of Faeth Therapeutics, up about 20.9% and shares of Cogent Biosciences, up about 20.1% on th",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-24T17:57:22+00:00",
    "tickers": [
@@ -755,7 +783,7 @@
     "STT",
     "XBI"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -795,15 +823,15 @@
    "title": "Tuesday Sector Laggards: Semiconductors, Computer Peripherals",
    "link": "https://www.nasdaq.com/articles/tuesday-sector-laggards-semiconductors-computer-peripherals",
    "summary": "In trading on Tuesday, semiconductors shares were relative laggards, down on the day by about 7.9%. Helping drag down the group were shares of Analog Devices, off about 18.1% and shares of Semtech down about 17.2% on the day. Also lagging the market Tuesday are computer periph",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-24T17:56:17+00:00",
    "tickers": [
     "ADI",
     "SMTC"
    ],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -828,12 +856,12 @@
    "title": "Tuesday Sector Leaders: Biotechnology, Drugs",
    "link": "https://www.nasdaq.com/articles/tuesday-sector-leaders-biotechnology-drugs-0",
    "summary": "In trading on Tuesday, biotechnology shares were relative leaders, up on the day by about 4.8%. Leading the group were shares of Prelude Therapeutics, up about 25.4% and shares of C4 Therapeutics up about 20.7% on the day. Also showing relative strength are drugs shares, up on",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-24T17:56:02+00:00",
    "tickers": [],
-   "type": "stocks",
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7339,6 +7367,20 @@
    "tag_v": 2
   },
   {
+   "id": "029f47c250d3",
+   "title": "Pope Francis' private diary describes a profound spiritual crisis and encounters with the devil - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaThjbVd4eXVxd2lyWDBZdTMxOTA2UVRycVVMdjV5WUtPdnRrUm1VejJ6TWJ0SDgtNlhjUFVNZ1g5TjgxTFJwWjN5N0xsWnRHNl9ocVAyeWgxdnVjVTVvR21wOUNnTlNDMEgtdjE2Sk1oeEVySEFHaGt4Q1ZQOW9sRk5QbzYyLXVoQlo2Y2lWV2dHRlhpTVBvaFQ2M2pCYXdqYmNnU21HWUs?oc=5",
+   "summary": "Pope Francis' private diary describes a profound spiritual crisis and encounters with the devil&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-24T14:22:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "9dda6f6d8bc0",
    "title": "Upcoming Dividend Run For LEA?",
    "link": "https://www.nasdaq.com/articles/upcoming-dividend-run-lea",
@@ -8056,20 +8098,6 @@
    "published": "2026-11-24T14:05:00+00:00",
    "tickers": [],
    "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "9a7ad50d969f",
-   "title": "China investigates Politburo member and Shanghai party chief Chen Jining - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMG44bXNIbVRoRkdsc1FsaEg0ajBQekRydkVTeDZTbWN0TnBCSWZ1MFQxTzMxc2p0VWFTQzBQRWhHdUVrQUItOC1FNGlVQlZkeVRQWjFRRTZUTkFUeHIyWkRIOXIzbktKZk5HdGxNWGFTSldPN1p3QUtFSEM2dUJHYmRXN0g4UVAzSW9rTkZGOTd3cmZJYU1VdEJJNFE?oc=5",
-   "summary": "China investigates Politburo member and Shanghai party chief Chen Jining&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-24T14:04:08+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -9017,36 +9045,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "11acb35f8b89",
-   "title": "Iran says no talks with the U.S. will take place until \"seven conditions\" met",
-   "link": "https://www.investing.com/news/economy-news/iran-says-no-talks-with-the-us-will-take-place-until-seven-conditions-met-5048370",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-24T13:52:57+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1a02d8997ca9",
-   "title": "Medtronic Q2 FY27 slides: 6.5% organic growth, stock falls 4%",
-   "link": "https://www.investing.com/news/company-news/medtronic-q2-fy27-slides-65-organic-growth-stock-falls-4-93CH-5048369",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-24T13:52:22+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "type": "earnings",
-   "sentiment": "negative",
    "tag_v": 2
   }
  ],
