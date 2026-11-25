@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T21:16:19.076684+00:00",
+ "generated": "2026-11-25T21:21:37.745291+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,40 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-25T21:15:08+00:00",
+   "published": "2026-11-25T21:17:25+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "a924a87e6cd3",
+   "title": "Another healthy fast-food chain closes all its restaurants",
+   "link": "https://www.thestreet.com/restaurants/another-healthy-restaurant-chain-vinaigrette-salad-kitchen-closes-all-its-locations",
+   "summary": "The shutdown follows True Food Kitchen's Chapter 11 bankruptcy filing and Salad and Go's abrupt shutdown.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-25T21:17:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cf86e1f50d84",
+   "title": "Henry Schein One Announces Appointment of Albert Ko as Executive Chair and Chief Executive Officer | HSIC Stock News",
+   "link": "https://www.stocktitan.net/news/HSIC/henry-schein-one-announces-appointment-of-albert-ko-as-executive-5xprg7yujbmw.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-25T21:17:00+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -76,6 +106,39 @@
    "tag_v": 2
   },
   {
+   "id": "cffec4100bad",
+   "title": "Dollar Tree CEO makes a price promise consumers may not like",
+   "link": "https://www.thestreet.com/retail/dollar-tree-ceo-makes-a-price-promise-consumers-may-not-like",
+   "summary": "Walmart, Kroger, and Publix might seem like they cost more, but there's a catch.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-25T21:15:00+00:00",
+   "tickers": [
+    "DLTR",
+    "WMT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f736cfca10e5",
+   "title": "Macy's postpones Thanksgiving parade due to severe weather",
+   "link": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+   "summary": "Macy's announced on Wednesday that the annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-25T21:14:56+00:00",
+   "tickers": [
+    "M"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "9ca3244d5966",
    "title": "Applied Optoelectronics to Present at the Raymond James TMT & Consumer Conference",
    "link": "https://www.prnewswire.com/news-releases/applied-optoelectronics-to-present-at-the-raymond-james-tmt--consumer-conference-302950695.html",
@@ -122,6 +185,20 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "58fe8ef4880f",
+   "title": "Wall street recovers most early losses as pullback in AI stocks eases - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVFZQmxpUGVXLUtXYzR6ZzYzX0Njd0I2bzBVbkJMb2JhcDJkRHJnVGV5eC1Ma0o2djdvZUhROXVpYjRzbTVQUGliYlRINU1kdnJVOXpRd21KdlJYcFQySlR5aWRCc0ZLMjZESjdYOWlrZEpiR0owcTRILVhqNVZZeGtweUNoM21XQndPZEl4Ym1OeTQ?oc=5",
+   "summary": "Wall street recovers most early losses as pullback in AI stocks eases&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-25T21:08:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -718,6 +795,22 @@
    "tag_v": 2
   },
   {
+   "id": "60d0d21bba32",
+   "title": "Martha Ford, former Lions owner with link to auto giants, dies at 101 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOVhmYmJVLVRoYkt1ck9RZkF3SG9uaTNnNEo1N2w4bzRINFdIVGRYNnNsSDgwZjBiWDQ3NFhZTnNab1lPUWphaFdVbDRZOG9ZTmNsV1UxRjhYWElURXpzUExEdzdoblRTcUpOdFlOOHdLRW5zRGdxZk1nYVBkZlJCWUV3?oc=5",
+   "summary": "Martha Ford, former Lions owner with link to auto giants, dies at 101&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-25T20:58:00+00:00",
+   "tickers": [
+    "F"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "0f7fc25e8eb6",
    "title": "Slate Grocery REIT Unitholders Approve Acquisition by Brixmor and Everview | BRX Stock News",
    "link": "https://www.stocktitan.net/news/BRX/slate-grocery-reit-unitholders-approve-acquisition-by-brixmor-and-4tj4bm8cz2hs.html",
@@ -804,6 +897,20 @@
    "published": "2026-11-25T20:53:02+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "1d776399953a",
+   "title": "Anthropic’s Chip Choices Could Change the Nvidia Story. Here’s How.",
+   "link": "https://www.nasdaq.com/articles/anthropics-chip-choices-could-change-nvidia-story-heres-how",
+   "summary": "Key PointsNvidia is the leading AI accelerator company, with an estimated market share of 80% to 90% last year.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T20:53:02+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1381,20 +1488,6 @@
    "tag_v": 2
   },
   {
-   "id": "58fe8ef4880f",
-   "title": "Wall Street tempers early slide as pullback in AI stocks eases despite hotter inflation, new tariffs - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVFZQmxpUGVXLUtXYzR6ZzYzX0Njd0I2bzBVbkJMb2JhcDJkRHJnVGV5eC1Ma0o2djdvZUhROXVpYjRzbTVQUGliYlRINU1kdnJVOXpRd21KdlJYcFQySlR5aWRCc0ZLMjZESjdYOWlrZEpiR0owcTRILVhqNVZZeGtweUNoM21XQndPZEl4Ym1OeTQ?oc=5",
-   "summary": "Wall Street tempers early slide as pullback in AI stocks eases despite hotter inflation, new tariffs&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-25T20:19:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "6ada0c372042",
    "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
    "link": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
@@ -1744,20 +1837,6 @@
    "tag_v": 2
   },
   {
-   "id": "c79a7bab1313",
-   "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5",
-   "summary": "US to hike tariffs on China, EU, Brazil and others over subsidized factories&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-25T20:00:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "dccb92237710",
    "title": "Valneva SE Reports Nine-Month 2026 Financial Results and Provides Corporate Updates",
    "link": "https://www.nasdaq.com/articles/valneva-se-reports-nine-month-2026-financial-results-and-provides-corporate-updates",
@@ -1968,20 +2047,6 @@
    "tag_v": 2
   },
   {
-   "id": "9baeb38b461a",
-   "title": "Judge halts order for Georgia's Fulton County to give 2020 election records to state election board - AP News",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFlXbDBBSUtQQ1A0bThPTUJvMEQwQXJScFN3UXRjU1JvUF9mZHF1TEZMVm1PaVZnZm00SFJpS0RueFo5UjdQOE1reVRwTXB5end1RXBaUmx6UkhNYlJYYU9iWGk5aHlpamMxYU1KT1IzbzFpQmltYUZlQzBGME9rSFVHM05Sa090bWg4YTBjOEUwTGZudnN3OGZ2VWc5SXdEZnRVTFR3SEdhRnBMWjhlLTRn?oc=5",
-   "summary": "Judge halts order for Georgia's Fulton County to give 2020 election records to state election board&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-25T19:46:44+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "af8630b7634a",
    "title": "Burke & Herbert director buys $34,375 in stock",
    "link": "https://www.investing.com/news/insider-trading-news/burke--herbert-director-buys-34375-in-stock-93CH-5051386",
@@ -2007,6 +2072,20 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "9baeb38b461a",
+   "title": "Judge halts order for Georgia's Fulton County to give 2020 election records to state election board - AP News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFlXbDBBSUtQQ1A0bThPTUJvMEQwQXJScFN3UXRjU1JvUF9mZHF1TEZMVm1PaVZnZm00SFJpS0RueFo5UjdQOE1reVRwTXB5end1RXBaUmx6UkhNYlJYYU9iWGk5aHlpamMxYU1KT1IzbzFpQmltYUZlQzBGME9rSFVHM05Sa090bWg4YTBjOEUwTGZudnN3OGZ2VWc5SXdEZnRVTFR3SEdhRnBMWjhlLTRn?oc=5",
+   "summary": "Judge halts order for Georgia's Fulton County to give 2020 election records to state election board&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-25T19:43:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2869,20 +2948,6 @@
    "published": "2026-11-25T18:53:02+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "4c3e67021c44",
-   "title": "5 charts show why Spaniards aren’t feeling the benefits of economic growth under Sánchez - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3k0YjRMVGJwYXJMaFlvRk9LNzJ3RU4wUlcwbGNFcEoyQXUzSmdXcHI0cmpDd2JxWE40aW1VYmpyZHBORE5OMG9NVWFaN0F5Wm9oX0VYMTlSbFZoRmdwd2twcHkyOFY5OXh3OVFuTWpiU1FQTGhLTTBUZlZYdHNoS2UxNm02Z19oYTI2MkhueEw2VDdDcUdFOGNOblFyRnVUWFlLZEg4bldnY1BXTjFoMjNWOC1zbWlHWWc?oc=5",
-   "summary": "5 charts show why Spaniards aren’t feeling the benefits of economic growth under Sánchez&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-25T18:53:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3949,6 +4014,20 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "2315c6ea77de",
+   "title": "A timeline of key events in Kilmar Ábrego García’s fight with the Trump administration - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnVnMHBzamlwcjFjc2dIdkh4VUdzQVdVWlhfeC10eGxXT0NUTGx1Z09EQ1J0MHFCYlJ0T3RaNnkyU1ZUT09taXBXWmdWd1MxWnNqczBOSWdnRXI5V09OTE1WVzc4NVJqUlBPRlp0bmxqSTBJS3JPUVZMbVY0RHBZOHpUNndhWGdGMmV3VjZ3RDJYQmJfenFpdkFfMA?oc=5",
+   "summary": "A timeline of key events in Kilmar Ábrego García’s fight with the Trump administration&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-25T17:57:13+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -6325,36 +6404,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "60d0d21bba32",
-   "title": "Martha Ford, former Lions owner with link to auto giants, dies at 101 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOVhmYmJVLVRoYkt1ck9RZkF3SG9uaTNnNEo1N2w4bzRINFdIVGRYNnNsSDgwZjBiWDQ3NFhZTnNab1lPUWphaFdVbDRZOG9ZTmNsV1UxRjhYWElURXpzUExEdzdoblRTcUpOdFlOOHdLRW5zRGdxZk1nYVBkZlJCWUV3?oc=5",
-   "summary": "Martha Ford, former Lions owner with link to auto giants, dies at 101&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-25T16:05:00+00:00",
-   "tickers": [
-    "F"
-   ],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2315c6ea77de",
-   "title": "A timeline of key events in Kilmar Ábrego García’s fight with the Trump administration - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnVnMHBzamlwcjFjc2dIdkh4VUdzQVdVWlhfeC10eGxXT0NUTGx1Z09EQ1J0MHFCYlJ0T3RaNnkyU1ZUT09taXBXWmdWd1MxWnNqczBOSWdnRXI5V09OTE1WVzc4NVJqUlBPRlp0bmxqSTBJS3JPUVZMbVY0RHBZOHpUNndhWGdGMmV3VjZ3RDJYQmJfenFpdkFfMA?oc=5",
-   "summary": "A timeline of key events in Kilmar Ábrego García’s fight with the Trump administration&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-25T16:04:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8900,54 +8949,6 @@
    "type": "analyst",
    "sentiment": "negative",
    "tag_v": 2
-  },
-  {
-   "id": "b3022b5ab00d",
-   "title": "Best Buy stock price target raised to $111 by Truist on strong comp growth",
-   "link": "https://www.investing.com/news/analyst-ratings/best-buy-stock-price-target-raised-to-111-by-truist-on-strong-comp-growth-93CH-5050896",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-25T14:04:56+00:00",
-   "tickers": [
-    "BBY"
-   ],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "f477c95d8543",
-   "title": "Truist cuts Analog Devices stock price target to $323 on cyclical peak signals",
-   "link": "https://www.investing.com/news/analyst-ratings/truist-cuts-analog-devices-stock-price-target-to-323-on-cyclical-peak-signals-93CH-5050894",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-25T14:04:55+00:00",
-   "tickers": [
-    "ADI"
-   ],
-   "type": "analyst",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "ac14493f0a02",
-   "title": "Dollar Tree stock price target raised to $169 by Truist on strong comp sales",
-   "link": "https://www.investing.com/news/analyst-ratings/dollar-tree-stock-price-target-raised-to-169-by-truist-on-strong-comp-sales-93CH-5050895",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-25T14:04:55+00:00",
-   "tickers": [
-    "DLTR"
-   ],
-   "type": "analyst",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9043,6 +9044,7 @@
   "SMR": "NuScale Power",
   "TOL": "Toll Brothers",
   "UNP": "Union Pacific",
+  "HSIC": "Henry Schein",
   "IREN": "IREN Limited",
   "KLAR": "Klarna Group",
   "LRCX": "Lam Research",
@@ -9106,6 +9108,7 @@
   "BULL": "Webull",
   "GTLB": "GitLab",
   "KSS": "Kohl's",
+  "M": "Macy's",
   "ORCL": "Oracle",
   "RDDT": "Reddit",
   "AMCR": "Amcor",
