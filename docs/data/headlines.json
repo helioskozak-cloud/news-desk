@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-25T02:41:14.613087+00:00",
+ "generated": "2026-11-25T02:46:33.862900+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d00bebb49bfe",
+   "title": "Amazon has a 3-piece comforter set for just $24 that's perfect for all seasons",
+   "link": "https://www.thestreet.com/deals/bedsure-comforter-set-review-amazon-sale-november-2026",
+   "summary": "I have one, and I wish I got it sooner.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-25T02:45:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0003b0b270c1",
+   "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+   "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+   "summary": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-25T02:43:33+00:00",
+   "tickers": [],
+   "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "1bf9d556f9f1",
    "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
@@ -32,34 +62,31 @@
    "tag_v": 2
   },
   {
-   "id": "5f067d940bb4",
-   "title": "Stocks Settle Mostly Lower on a Rout in Chipmakers and AI Stocks",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-mostly-lower-rout-chipmakers-and-ai-stocks",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -0.50% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.85%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.99%. December E-mini S&amp;P futures (ESZ26 ) fell -0.52%, and December E-mini Nasdaq...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T02:26:56+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
+   "id": "52b8fa2d5fb2",
+   "title": "Consumer Portfolio Services officer sells $22,109 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/consumer-portfolio-services-officer-sells-22109-in-stock-93CH-5049575",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-25T02:30:53+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
-   "id": "0a83934fe740",
-   "title": "Dollar Falls With T-Note Yields",
-   "link": "https://www.nasdaq.com/articles/dollar-falls-t-note-yields",
-   "summary": "The dollar index (DXY00 ) fell by -0.48% on Tuesday. The dollar was undercut Tuesday by falling T-note yields, after the 10-year T-note yield dropped to a 2-week low of 4.88%. Renewed trade tensions also weighed on the dollar after the Wall Street Journal reported that the US will soon...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T02:26:56+00:00",
+   "id": "d7c099c0a00f",
+   "title": "GoodRx Holdings earnings beat by $0.02, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/goodrx-holdings-earnings-beat-by-002-revenue-topped-estimates-5049565",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "domain": "investing.com",
+   "published": "2026-11-25T02:29:27+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
+   "type": "earnings",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -151,6 +178,23 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5f067d940bb4",
+   "title": "Stocks Settle Mostly Lower on a Rout in Chipmakers and AI Stocks",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-mostly-lower-rout-chipmakers-and-ai-stocks",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -0.50% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.85%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.99%. December E-mini S&amp;P futures (ESZ26 ) fell -0.52%, and December E-mini Nasdaq...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T02:17:35+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -517,6 +561,20 @@
    "published": "2026-11-25T01:58:53+00:00",
    "tickers": [],
    "type": "legal",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "0a83934fe740",
+   "title": "Dollar Falls With T-Note Yields",
+   "link": "https://www.nasdaq.com/articles/dollar-falls-t-note-yields",
+   "summary": "The dollar index (DXY00 ) fell by -0.48% on Tuesday. The dollar was undercut Tuesday by falling T-note yields, after the 10-year T-note yield dropped to a 2-week low of 4.88%. Renewed trade tensions also weighed on the dollar after the Wall Street Journal reported that the US will soon...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T01:58:52+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "negative",
    "tag_v": 2
   },
@@ -1959,6 +2017,20 @@
     "QQQ"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "80a544eb5939",
+   "title": "King tides could break decades-old records and flood communities on both coasts on Thanksgiving week - AP News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDBaUDF5NW02MnhuTWFTbEhqVmhlb19TWVJJMjNjX2JlUzdFZFloWndteVRXZWtSUEJ1a2dvNEw3bHpoRlIxdEItbHJ4T1RaSi1kT2V6SGFnTFFMOFhRa3JySW1qcENMM0dySnZmM3I0WnB2UkRhSHB0dnpwT1hWY0tGS211eWM5b1Z4RnJzYWVGd0ltSU56QmR1LUdsWjQ?oc=5",
+   "summary": "King tides could break decades-old records and flood communities on both coasts on Thanksgiving week&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-25T00:38:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7570,20 +7642,6 @@
    "tag_v": 2
   },
   {
-   "id": "33f38261ef7b",
-   "title": "Armed men take hostages in Cartagena, one of Colombia’s top tourist destinations - AP News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmQxNjdHUmVZb1FUd2lQTGtMMTV2dGRQVndXR3hUbnhTUXZVb0E2azFEeENEclY3dXp1MlJrX3pEZ2pmSGdWQUNBSE9yM2hJQVE2VUNXdXZMOUJuWDlzRFpQc3ZldDNjTzVnSlVZZUJ5YXRnOVR2RUtxM2R2TldWUmJuZmRielBJV21od3BQOVBpZU9jRmVud1RnQ0M4NTd3?oc=5",
-   "summary": "Armed men take hostages in Cartagena, one of Colombia’s top tourist destinations&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-24T21:18:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "3106dc2338f0",
    "title": "Home Depot and Lowe's copy Kroger's risky cost-cutting move",
    "link": "https://www.thestreet.com/retail/home-depot-and-lowes-quietly-send-american-jobs-to-india",
@@ -8883,62 +8941,6 @@
    "published": "2026-11-24T21:03:14+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a092c6184e00",
-   "title": "ISOU Stock Crowded With Sellers",
-   "link": "https://www.nasdaq.com/articles/isou-stock-crowded-sellers",
-   "summary": "In trading on Tuesday, shares of IsoEnergy Ltd (Symbol: ISOU) entered into oversold territory, changing hands as low as $5.70 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentum on a",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T21:03:04+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "80a544eb5939",
-   "title": "King tides could break decades-old records and flood communities on both coasts on Thanksgiving week - AP News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDBaUDF5NW02MnhuTWFTbEhqVmhlb19TWVJJMjNjX2JlUzdFZFloWndteVRXZWtSUEJ1a2dvNEw3bHpoRlIxdEItbHJ4T1RaSi1kT2V6SGFnTFFMOFhRa3JySW1qcENMM0dySnZmM3I0WnB2UkRhSHB0dnpwT1hWY0tGS211eWM5b1Z4RnJzYWVGd0ltSU56QmR1LUdsWjQ?oc=5",
-   "summary": "King tides could break decades-old records and flood communities on both coasts on Thanksgiving week&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-24T21:03:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "57664e7d523a",
-   "title": "Winchester Bancorp updates executive deferred compensation agreements",
-   "link": "https://www.investing.com/news/sec-filings/winchester-bancorp-updates-executive-deferred-compensation-agreements-93CH-5048992",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-24T21:02:45+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "763929f87ff0",
-   "title": "NatWest Group plc announces the publication of Q3 2026 Pillar 3 documents",
-   "link": "https://www.nasdaq.com/articles/natwest-group-plc-announces-publication-q3-2026-pillar-3-documents",
-   "summary": "NatWest Group plc announced the publication of the Q3 2026 Pillar 3 documents for several of its large subsidiaries, including NatWest Holdings Limited, NatWest Markets Plc, National Westminster Bank Plc, The Royal Bank of Scotland plc, and Coutts &amp; Company.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T21:02:27+00:00",
-   "tickers": [],
-   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   }
