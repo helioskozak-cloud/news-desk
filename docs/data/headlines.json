@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T05:36:33.847166+00:00",
+ "generated": "2026-11-25T05:41:36.741040+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,12 +11,26 @@
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
-   "published": "2026-11-25T05:24:01+00:00",
+   "published": "2026-11-25T05:35:52+00:00",
    "tickers": [
     "ICE"
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0a83934fe740",
+   "title": "Dollar Falls With T-Note Yields",
+   "link": "https://www.nasdaq.com/articles/dollar-falls-t-note-yields",
+   "summary": "The dollar index (DXY00 ) fell by -0.48% on Tuesday. The dollar was undercut Tuesday by falling T-note yields, after the 10-year T-note yield dropped to a 2-week low of 4.88%. Renewed trade tensions also weighed on the dollar after the Wall Street Journal reported that the US will soon...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T05:35:52+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -46,6 +60,22 @@
    "published": "2026-11-25T05:20:22+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e9eeb53560a0",
+   "title": "Costco Hasn't Split Its Stock Since 2000. Here's Why 2027 Could Be the Year.",
+   "link": "https://www.nasdaq.com/articles/costco-hasnt-split-its-stock-2000-heres-why-2027-could-be-year-0",
+   "summary": "Key PointsCostco's last stock split occurred when shares were at a record high and business performance was strong.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T05:20:02+00:00",
+   "tickers": [
+    "COST"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2524,20 +2554,6 @@
    ],
    "type": "earnings",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0a83934fe740",
-   "title": "Dollar Falls With T-Note Yields",
-   "link": "https://www.nasdaq.com/articles/dollar-falls-t-note-yields",
-   "summary": "The dollar index (DXY00 ) fell by -0.48% on Tuesday. The dollar was undercut Tuesday by falling T-note yields, after the 10-year T-note yield dropped to a 2-week low of 4.88%. Renewed trade tensions also weighed on the dollar after the Wall Street Journal reported that the US will soon...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T02:26:56+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -8884,20 +8900,6 @@
    "type": "earnings",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "a7ff38aae274",
-   "title": "CDC director draws doubts from employees and ire from legislators - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSmJQR195dVRFc0pXUEY3dzlLb1EybF9lVjltYWFLNWZCc280QXV1aVBhOFZ6R1QzNEZHMWNwSXI2Q25zWGRVWDFjUjFMMEJtWDBPYTRkd1BBdjhkWVl4bzZUamx4S3FTQ0c4Smw5eVNsc0lWc20tYlRraW5CRnd5Z3J6V2lFeHkyZVVhQlVqUUE?oc=5",
-   "summary": "CDC director draws doubts from employees and ire from legislators&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-24T21:38:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8941,6 +8943,7 @@
   "VERA": "Vera Therapeutics",
   "AR": "Antero Resources",
   "BKNG": "Booking Holdings",
+  "COST": "Costco Wholesale",
   "DY": "Dycom Industries",
   "J": "Jacobs Solutions",
   "JPM": "JPMorgan Chase &",
