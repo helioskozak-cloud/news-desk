@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T17:31:43.278843+00:00",
+ "generated": "2026-11-25T17:36:14.529377+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -14,6 +14,22 @@
    "published": "2026-11-25T17:30:00+00:00",
    "tickers": [],
    "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "384d488e5868",
+   "title": "Tiger Analytics Achieves AWS Premier Tier Status in the Amazon Web Services Partner Network",
+   "link": "https://www.prnewswire.com/news-releases/tiger-analytics-achieves-aws-premier-tier-status-in-the-amazon-web-services-partner-network-302950559.html",
+   "summary": "The recognition reflects Tiger Analytics' demonstrated technical expertise, customer success, and continued investment in its AWS partnership, strengthening its ability to deliver enterprise-scale cloud, data, and AI solutions. SANTA CLARA, Calif., Nov. 25, 2026 /PRNewswire/ -- Tiger...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-25T17:30:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -58,34 +74,6 @@
    "published": "2026-11-25T17:26:56+00:00",
    "tickers": [],
    "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d86958d5248e",
-   "title": "Wheat Posting Mixed Action on Wednesday Morning",
-   "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-action-wednesday-morning",
-   "summary": "Wheat is showing mixed action on Wednesday AM, with winter wheats fading lower. The wheat complex closed Tuesday slipping into the holiday, with contracts down across the three exchanges. Chicago SRW futures were down 2 to 7 1/4 cents on the day. Open interest was down 12,715 contracts on Wednesday....",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T17:25:46+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e6e7bb3665b2",
-   "title": "Soybeans Fading Back on Wednesday Morning",
-   "link": "https://www.nasdaq.com/articles/soybeans-fading-back-wednesday-morning-0",
-   "summary": "Soybeans are trading with 4 to 6 cent losses across most contracts on Wednesday. Futures posted Tuesday gains of 4 ¼ to 8 ¾ cents across the board on Tuesday. Open interest was up 7,684 contracts. The cmdtyView national average Cash Bean price was up 5 3/4 cents at $11.76....",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T17:25:46+00:00",
-   "tickers": [],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -149,23 +137,6 @@
    ],
    "type": "markets",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "24d32ab8edd0",
-   "title": "Stocks Slump as Tech Selloff Deepens",
-   "link": "https://www.nasdaq.com/articles/stocks-slump-tech-selloff-deepens",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -2.88% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -2.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -4.29%. December E-mini S&amp;P futures (ESZ26 ) are down -2.26%, and December E-mini Nasdaq...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T17:21:08+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -342,34 +313,6 @@
    "tag_v": 2
   },
   {
-   "id": "9d02f66f8b7a",
-   "title": "Cotton Fading Back on Wednesday Morning Trade",
-   "link": "https://www.nasdaq.com/articles/cotton-fading-back-wednesday-morning-trade",
-   "summary": "Cotton prices are down 40 to 45 points on Wednesday morning. Futures closed Tuesday with contracts up 69 to 159 points across the board. Crude oil was up $1.52 per barrel on the session to $81.69, with the US dollar index $0.501 lower on the day. Crop Progress data showed...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T17:09:05+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f84144321514",
-   "title": "Corn Starting Wednesday with Thin Trade",
-   "link": "https://www.nasdaq.com/articles/corn-starting-wednesday-thin-trade",
-   "summary": "Corn prices are up just fractionally across the front months on Wednesday. Futures posted mostly higher trade on Tuesday, with nearby December down a tick and other contracts fractionally to 2 cents higher. Open interest was down 22,0445 contracts on Tuesday, heavily in December (-62,233) ahead of next week’s first...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T17:09:05+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "f2b0d4834299",
    "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.43%",
    "link": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-043-5051283",
@@ -539,6 +482,37 @@
    ],
    "type": "stocks",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "24d32ab8edd0",
+   "title": "Stocks Slump as Tech Selloff Deepens",
+   "link": "https://www.nasdaq.com/articles/stocks-slump-tech-selloff-deepens",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -2.88% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -2.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -4.29%. December E-mini S&amp;P futures (ESZ26 ) are down -2.26%, and December E-mini Nasdaq...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T17:02:56+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "d86958d5248e",
+   "title": "Wheat Posting Mixed Action on Wednesday Morning",
+   "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-action-wednesday-morning",
+   "summary": "Wheat is showing mixed action on Wednesday AM, with winter wheats fading lower. The wheat complex closed Tuesday slipping into the holiday, with contracts down across the three exchanges. Chicago SRW futures were down 2 to 7 1/4 cents on the day. Open interest was down 12,715 contracts on Wednesday....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T17:02:55+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -783,6 +757,20 @@
    "published": "2026-11-25T16:59:34+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "946b761da83b",
+   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjFKVU92YjgtRlZKS1BWWTFDYWthODExQ0VMLXJ0OHY5T2tzamlmemN0akZCS0RKaGR4MGRlamtQbzFzUUsxWURPRHVqZWMtd3VnOHFldzdPYnVEcVNNZDBJLTIxMHFlOUE2ZjAza2UxZkFmbG55N04wSS1hR1JUcWNyNXVaaGFkUUFNc0JRekpqZTUzR0JWMzJwdmxKMmVWS3JXeQ?oc=5",
+   "summary": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-25T16:56:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1152,6 +1140,20 @@
     "TSM"
    ],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e6e7bb3665b2",
+   "title": "Soybeans Fading Back on Wednesday Morning",
+   "link": "https://www.nasdaq.com/articles/soybeans-fading-back-wednesday-morning-0",
+   "summary": "Soybeans are trading with 4 to 6 cent losses across most contracts on Wednesday. Futures posted Tuesday gains of 4 ¼ to 8 ¾ cents across the board on Tuesday. Open interest was up 7,684 contracts. The cmdtyView national average Cash Bean price was up 5 3/4 cents at $11.76....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T16:36:57+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1935,6 +1937,34 @@
    "tag_v": 2
   },
   {
+   "id": "9d02f66f8b7a",
+   "title": "Cotton Fading Back on Wednesday Morning Trade",
+   "link": "https://www.nasdaq.com/articles/cotton-fading-back-wednesday-morning-trade",
+   "summary": "Cotton prices are down 40 to 45 points on Wednesday morning. Futures closed Tuesday with contracts up 69 to 159 points across the board. Crude oil was up $1.52 per barrel on the session to $81.69, with the US dollar index $0.501 lower on the day. Crop Progress data showed...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T16:06:14+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f84144321514",
+   "title": "Corn Starting Wednesday with Thin Trade",
+   "link": "https://www.nasdaq.com/articles/corn-starting-wednesday-thin-trade",
+   "summary": "Corn prices are up just fractionally across the front months on Wednesday. Futures posted mostly higher trade on Tuesday, with nearby December down a tick and other contracts fractionally to 2 cents higher. Open interest was down 22,0445 contracts on Tuesday, heavily in December (-62,233) ahead of next week’s first...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T16:06:13+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "34fdfb0760cc",
    "title": "JSB Financial Inc. Appoints Sandra M. Murphy to Board of Directors | JFWV Stock News",
    "link": "https://www.stocktitan.net/news/JFWV/jsb-financial-inc-appoints-sandra-m-murphy-to-board-of-al33k64rrdi8.html",
@@ -2333,20 +2363,6 @@
    ],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "18b56b0654b2",
-   "title": "Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents - AP News",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZi1lalA4QTR1T3RxVkRDblVuYkY3SDBXV3A3bWhpaWJzN29ZT2xEWTR5b1RDMzZWUWRfdldya2R1ZlZiQ2ptLThvVjMxQmpMWUFKeFVEWnhjOGMzVUcyZDVjb3ZYa1o0RjFiYXVQSUFCczNFelNVYjQ2ZzFiOWxUSmlKdFVXWW8?oc=5",
-   "summary": "Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-25T15:54:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3457,6 +3473,20 @@
    "tag_v": 2
   },
   {
+   "id": "87a7bf0dab9d",
+   "title": "2 men charged with stealing cufflinks and a clock in break-in at British royal couple's country home - AP News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2s0OUJ5UTZfVnkwdExLX0FheENmSGtSV2JJdDNRMFpndm4tUVRERWpnWW5PejVUd2pzMmNKcXFoYzhfRXVGQXdxbXlmLTd0VXh0Z0VkbmdNWi1LMzhUSmtXY09WODZkM1ktOWxPVm0yeUl0QTRPYkJhQXNlNjFyVU12eWFTZzBEcnNkN1RrekZzOTFyOElSQUx2VE56QQ?oc=5",
+   "summary": "2 men charged with stealing cufflinks and a clock in break-in at British royal couple's country home&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-25T15:04:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "2862a01ce889",
    "title": "Amazon has an $85 cashmere-blend oversized sweater that comes in 21 colors for 56% off",
    "link": "https://www.thestreet.com/deals/suuksess-cashmere-blend-oversized-sweater-amazon-sale",
@@ -3738,20 +3768,6 @@
    "published": "2026-11-25T14:43:33+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "946b761da83b",
-   "title": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjFKVU92YjgtRlZKS1BWWTFDYWthODExQ0VMLXJ0OHY5T2tzamlmemN0akZCS0RKaGR4MGRlamtQbzFzUUsxWURPRHVqZWMtd3VnOHFldzdPYnVEcVNNZDBJLTIxMHFlOUE2ZjAza2UxZkFmbG55N04wSS1hR1JUcWNyNXVaaGFkUUFNc0JRekpqZTUzR0JWMzJwdmxKMmVWS3JXeQ?oc=5",
-   "summary": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-25T14:43:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -4080,6 +4096,20 @@
     "C"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "18b56b0654b2",
+   "title": "US stockpile of unstable and dangerous lead azide scheduled for detonation in Iowa - AP News",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZi1lalA4QTR1T3RxVkRDblVuYkY3SDBXV3A3bWhpaWJzN29ZT2xEWTR5b1RDMzZWUWRfdldya2R1ZlZiQ2ptLThvVjMxQmpMWUFKeFVEWnhjOGMzVUcyZDVjb3ZYa1o0RjFiYXVQSUFCczNFelNVYjQ2ZzFiOWxUSmlKdFVXWW8?oc=5",
+   "summary": "US stockpile of unstable and dangerous lead azide scheduled for detonation in Iowa&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-25T14:27:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -7958,20 +7988,6 @@
    "tag_v": 2
   },
   {
-   "id": "df79ea83a188",
-   "title": "Pentagon hires conservative contractors to audit military base schools and pilot 'classical' PE - AP News",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnhXeVVoc3dINTVrek1wb0lzY05FbmxMa3pLckxRVkZ4MWIzZDRMZ1ZUTTVnNkhhR2dpbU5PVlFtTkhGNmdwenUzUXAzSDdrUFlEeFhPMEI5aDdMZll0SmkxU2dqMmpOR2xTNjc5aDU4QzRQZlNqRUFVLXhpMEo4OHBRU25DVnBfalFtY2d6SWduNGxpazlEMGRVNUNaWkFPcVBZVjlEYjFhS1lpNkFNanJsWUFvc3M?oc=5",
-   "summary": "Pentagon hires conservative contractors to audit military base schools and pilot 'classical' PE&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-25T12:58:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "70ee852a12e0",
    "title": "01 Quantum and Utimaco Expand Strategic Alliance to Advance Secure AI by Integrating with the QAW Technology | OONEF Stock News",
    "link": "https://www.stocktitan.net/news/OONEF/01-quantum-and-utimaco-expand-strategic-alliance-to-advance-secure-pv13zdlaif5z.html",
@@ -8935,22 +8951,6 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "283ee687d91f",
-   "title": "Coffee Prices Fall as Supply Concerns Ease",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-supply-concerns-ease",
-   "summary": "March arabica coffee (KCH26 ) closed down -5.15 (-1.92%) on Tuesday, and January ICE robusta coffee (RMF27 ) closed down -41 (-1.44%). Coffee prices added to Monday’s losses on Tuesday, with arabica falling to a 1.5-week low and robusta slipping to a 3-year low. Easing supply concerns are weighing on...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T12:29:43+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   }
  ],
