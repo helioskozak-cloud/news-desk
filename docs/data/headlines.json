@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-25T00:31:06.071299+00:00",
+ "generated": "2026-11-25T00:36:18.312318+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "b9214e1b9829",
+   "title": "5 questions Nvidia still faces after bringing back Jensen Huang",
+   "link": "https://www.cbsnews.com/news/nvidia-jensen-huang-challenges/",
+   "summary": "Despite Jensen Huang's shock return as Nvidia's CEO, experts say it's anything but business as usual for the chipmaker.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-25T00:33:07+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "179fe4da6efd",
+   "title": "Tesla's $3.5 trillion merger talks have a surprising catch",
+   "link": "https://www.thestreet.com/investing/teslas-3-5-trillion-merger-talks-have-a-surprising-catch",
+   "summary": "Five directors must decide whether Elon Musk's biggest corporate combination would reward ordinary shareholders.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-25T00:33:00+00:00",
+   "tickers": [
+    "TSLA"
+   ],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "848908ca60e5",
    "title": "Amazon's $420 convertible sofa bed is on sale for 60% off",
@@ -17,6 +47,40 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "5f067d940bb4",
+   "title": "Stocks Settle Mostly Lower on a Rout in Chipmakers and AI Stocks",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-mostly-lower-rout-chipmakers-and-ai-stocks",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -0.50% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.85%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.99%. December E-mini S&amp;P futures (ESZ26 ) fell -0.52%, and December E-mini Nasdaq...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:27:28+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "dfe61bdc8b92",
+   "title": "Stocks Mostly Lower on Weakness in Chipmakers and Renewed Trade Tensions",
+   "link": "https://www.nasdaq.com/articles/stocks-mostly-lower-weakness-chipmakers-and-renewed-trade-tensions",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -0.48% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&amp;P futures (ESZ26 ) are down -0.47%, and December E-mini Nasdaq...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:21:50+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -76,6 +140,38 @@
    "tag_v": 2
   },
   {
+   "id": "2687c9fc9d3c",
+   "title": "Mizuho Initiates Coverage of Intuitive Machines at Outperform",
+   "link": "https://www.nasdaq.com/articles/mizuho-initiates-coverage-intuitive-machines-outperform",
+   "summary": "Fintel reports that on November 24, 2026, Mizuho initiated coverage of Intuitive Machines (NASDAQGM:LUNR) (XTRA:J8W) with a Outperform recommendation. Intuitive Machines Inc. is a private American aerospace company. It focuses on developing autonomous systems and spacecraft for l",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:18:30+00:00",
+   "tickers": [
+    "LUNR"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "84a2132e0ee2",
+   "title": "Seanergy Maritime Holdings Consensus Price Target Raised by 10.11% to $26.11",
+   "link": "https://www.nasdaq.com/articles/seanergy-maritime-holdings-consensus-price-target-raised-1011-2611",
+   "summary": "The average one-year price target for Seanergy Maritime Holdings (NASDAQCM:SHIP) (DB:RHS) has been revised to $26.11 / share. This is an increase of 10.11% from the prior estimate of $23.72 dated November 6, 2026. These figures represent aggregate analyst targets compiled from mu",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:18:29+00:00",
+   "tickers": [
+    "DB"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "62a3c8c6df88",
    "title": "Nvidia’s Huang said he violated code of conduct, source says",
    "link": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
@@ -86,6 +182,20 @@
    "published": "2026-11-25T00:18:18+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d02ca434deb9",
+   "title": "Alta Equipment Group Inc. - Preferred Stock Price Target Increased by 19.10% to $50.79",
+   "link": "https://www.nasdaq.com/articles/alta-equipment-group-inc-preferred-stock-price-target-increased-1910-5079",
+   "summary": "The average one-year price target for Alta Equipment Group Inc. - Preferred Stock (NYSE:ALTG.PRA) has been revised to $50.79 / share. This is an increase of 19.10% from the prior estimate of $42.64 dated November 8, 2026. Please note that these figures represent aggregate analys",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:17:52+00:00",
+   "tickers": [],
+   "type": "analyst",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -104,6 +214,36 @@
    "tag_v": 2
   },
   {
+   "id": "bfe77759b449",
+   "title": "PepGen Consensus Price Target Increased by 25.15% to $13.00",
+   "link": "https://www.nasdaq.com/articles/pepgen-consensus-price-target-increased-2515-1300",
+   "summary": "The average one-year price target for PepGen (NASDAQGS:PEPG) has been revised to $13.00 / share. This is an increase of 25.15% from the prior estimate of $10.39 dated November 6, 2026. These figures represent aggregate analyst targets compiled by Fintel and do not constitute a re",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:16:39+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "92dbf58194c7",
+   "title": "Seaport Global Initiates Coverage of Mobileye Global with Buy Rating",
+   "link": "https://www.nasdaq.com/articles/seaport-global-initiates-coverage-mobileye-global-buy-rating",
+   "summary": "Fintel reports that on November 24, 2026, Seaport Global initiated coverage of Mobileye Global (NASDAQGS:MBLY) (BMV:MBLY) with a Buy recommendation. This initiation occurred following a pre-action close of $4.80 on November 23, 2026. The latest close for the stock was also record",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:16:09+00:00",
+   "tickers": [
+    "MBLY"
+   ],
+   "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "0d6ecd29e578",
    "title": "Amazon CEO Andrew Jassy sells $5.13 million in company stock",
    "link": "https://www.investing.com/news/insider-trading-news/amazon-ceo-andrew-jassy-sells-513-million-in-company-stock-93CH-5049413",
@@ -117,6 +257,22 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "283ee687d91f",
+   "title": "Coffee Prices Fall as Supply Concerns Ease",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-supply-concerns-ease",
+   "summary": "March arabica coffee (KCH26 ) closed down -5.15 (-1.92%) on Tuesday, and January ICE robusta coffee (RMF27 ) closed down -41 (-1.44%). Coffee prices added to Monday’s losses on Tuesday, with arabica falling to a 1.5-week low and robusta slipping to a 3-year low. Easing supply concerns are weighing on...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:15:57+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -160,6 +316,125 @@
    "published": "2026-11-25T00:15:42+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "2dcf43d82a0e",
+   "title": "Mizuho Initiates Coverage of AeroVironment at Outperform",
+   "link": "https://www.nasdaq.com/articles/mizuho-initiates-coverage-aerovironment-outperform",
+   "summary": "Fintel reports that on November 24, 2026, Mizuho initiated coverage of AeroVironment (NASDAQGS:AVAV) (DB:JPX) with a Outperform recommendation.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:15:18+00:00",
+   "tickers": [
+    "DB",
+    "AVAV"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "7cc0d77155ec",
+   "title": "SelectQuote Consensus Price Target Increased by 1,900% to $42.84",
+   "link": "https://www.nasdaq.com/articles/selectquote-consensus-price-target-increased-1900-4284",
+   "summary": "The average one-year price target for SelectQuote (NYSE:SLQT) has been revised to $42.84 / share. This is an increase of 1,900.00% from the prior estimate of $2.14 dated November 6, 2026. These figures represent aggregate analyst targets compiled as of November 20, 2026, and do",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:14:56+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9c9333347425",
+   "title": "United States Antimony Consensus Price Target Cut by 26.63% to $7.90",
+   "link": "https://www.nasdaq.com/articles/united-states-antimony-consensus-price-target-cut-2663-790",
+   "summary": "The average one-year price target for United States Antimony (NYSE:UAMY) (BMV:UAMY) has been revised to $7.90 / share. This is a decrease of 26.63% from the prior estimate of $10.77 dated November 6, 2026. These figures represent aggregate analyst targets and do not constitute a",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:14:22+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "5ecca8fd4c02",
+   "title": "Larimar Therapeutics Consensus Price Target Raised 13.68% to $15.07",
+   "link": "https://www.nasdaq.com/articles/larimar-therapeutics-consensus-price-target-raised-1368-1507",
+   "summary": "The average one-year price target for Larimar Therapeutics (NASDAQGM:LRMR) (DB:ZA71) has been revised to $15.07 / share. This is an increase of 13.68% from the prior estimate of $13.26 dated November 6, 2026.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:14:02+00:00",
+   "tickers": [
+    "DB"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "d1361f18f314",
+   "title": "Matthews International Consensus Price Target Raised 16.05% to $31.96",
+   "link": "https://www.nasdaq.com/articles/matthews-international-consensus-price-target-raised-1605-3196",
+   "summary": "The average one-year price target for Matthews International (NASDAQGS:MATW) (DB:MW1A) has been revised to $31.96 / share. This is an increase of 16.05% from the prior estimate of $27.54 dated November 6, 2026. These figures represent aggregate analyst targets compiled from multi",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:13:55+00:00",
+   "tickers": [
+    "DB"
+   ],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "aed0d97b8c60",
+   "title": "Century Therapeutics Consensus Price Target Raised 15.23% to $6.02",
+   "link": "https://www.nasdaq.com/articles/century-therapeutics-consensus-price-target-raised-1523-602",
+   "summary": "The average one-year price target for Century Therapeutics (NASDAQCM:IPSC) has been revised to $6.02 / share. This is an increase of 15.23% from the prior estimate of $5.22 dated November 6, 2026. These figures represent aggregate analyst targets compiled as of November 20, 2026",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:13:52+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "474a7f1f5cd4",
+   "title": "Grocery Outlet Holding Consensus Price Target Raised 17.19% to $13.10",
+   "link": "https://www.nasdaq.com/articles/grocery-outlet-holding-consensus-price-target-raised-1719-1310",
+   "summary": "The average one-year price target for Grocery Outlet Holding (NASDAQGS:GO) has been revised to $13.10 / share. This is an increase of 17.19% from the prior estimate of $11.18 dated November 6, 2026. These figures represent aggregate analyst targets compiled as of November 20, 20",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:13:46+00:00",
+   "tickers": [],
+   "type": "analyst",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "72abb51ccf15",
+   "title": "MiniMed (MMED) Q2 2027 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/minimed-mmed-q2-2027-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:13:11+00:00",
+   "tickers": [],
+   "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -223,6 +498,22 @@
    "tag_v": 2
   },
   {
+   "id": "f10ccf0a75f3",
+   "title": "5-Year Outlook: Can Domino's Pizza Deliver?",
+   "link": "https://www.nasdaq.com/articles/5-year-outlook-can-dominos-pizza-deliver",
+   "summary": "Key PointsThe asset-light franchise model provides reliable cash flow and high capital returns to shareholders.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:03:35+00:00",
+   "tickers": [
+    "DPZ"
+   ],
+   "type": "guidance",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a49183d47f00",
    "title": "New penny law gives stores a surprising option for cash shoppers",
    "link": "https://www.thestreet.com/retail/penny-shortage-new-law-cash-rounding",
@@ -237,20 +528,31 @@
    "tag_v": 2
   },
   {
-   "id": "5f067d940bb4",
-   "title": "Stocks Settle Mostly Lower on a Rout in Chipmakers and AI Stocks",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-mostly-lower-rout-chipmakers-and-ai-stocks",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -0.50% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.85%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.99%. December E-mini S&amp;P futures (ESZ26 ) fell -0.52%, and December E-mini Nasdaq...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "id": "7b75c042eddc",
+   "title": "Berkshire Hit a Record High While AI Power Stocks Sold Off. Here’s What That Says About Where Energy Money Is Going.",
+   "link": "https://www.nasdaq.com/articles/berkshire-hit-record-high-while-ai-power-stocks-sold-heres-what-says-about-where-energy",
+   "summary": "Key PointsInvestors frequently swing between excitement and fear, pushing high-profile stocks higher and lower as their moods shift.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
-   "published": "2026-11-25T00:01:42+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
+   "published": "2026-11-25T00:02:02+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "8a6304d80187",
+   "title": "Singapore Stock Market May Open In The Red On Wednesday",
+   "link": "https://www.nasdaq.com/articles/singapore-stock-market-may-open-red-wednesday",
+   "summary": "(RTTNews) - The Singapore stock market on Tuesday ended the two-day losing streak in which it had fallen more than 125 points or 2.5 percent. The Straits Times Index now sits just beneath the 4,960-point plateau although it may see renewed selling pressure on Wednesday.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T00:01:17+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -1039,23 +1341,6 @@
    ],
    "type": "8k",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "dfe61bdc8b92",
-   "title": "Stocks Mostly Lower on Weakness in Chipmakers and Renewed Trade Tensions",
-   "link": "https://www.nasdaq.com/articles/stocks-mostly-lower-weakness-chipmakers-and-renewed-trade-tensions",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -0.48% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&amp;P futures (ESZ26 ) are down -0.47%, and December E-mini Nasdaq...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T23:19:54+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -2429,6 +2714,20 @@
     "NFLX"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "029f47c250d3",
+   "title": "Pope Francis' private diary describes a profound spiritual crisis and encounters with the devil - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaThjbVd4eXVxd2lyWDBZdTMxOTA2UVRycVVMdjV5WUtPdnRrUm1VejJ6TWJ0SDgtNlhjUFVNZ1g5TjgxTFJwWjN5N0xsWnRHNl9ocVAyeWgxdnVjVTVvR21wOUNnTlNDMEgtdjE2Sk1oeEVySEFHaGt4Q1ZQOW9sRk5QbzYyLXVoQlo2Y2lWV2dHRlhpTVBvaFQ2M2pCYXdqYmNnU21HWUs?oc=5",
+   "summary": "Pope Francis' private diary describes a profound spiritual crisis and encounters with the devil&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-24T22:30:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3877,6 +4176,20 @@
    "tag_v": 2
   },
   {
+   "id": "a773ef6a191e",
+   "title": "Chicago Cubs add LHP Trevor Rogers and Japanese slugger Teruaki Sato, AP source says - AP News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVFVZLWxEWW9JSU1KZF9URWstZTJXNVNQT3oxVnJ4UVYzQUc3MGdnMkhGZFNmSEhqNzRDRjhTMUVCUUVObjg2R2M0ekFFTlRDYTZVaHo0Ym5kMEJpUHNJSTl1dVRJOEhuUVhobkhiWmFTX0tQZE5VQms1X05LZTJEdEZJcGxlVVh4ZHlRSlVJQQ?oc=5",
+   "summary": "Chicago Cubs add LHP Trevor Rogers and Japanese slugger Teruaki Sato, AP source says&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-24T21:40:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "332f649d60ae",
    "title": "Wall Street Finished Mixed On Tuesday",
    "link": "https://www.nasdaq.com/articles/wall-street-finished-mixed-tuesday",
@@ -5103,22 +5416,6 @@
    "tag_v": 2
   },
   {
-   "id": "283ee687d91f",
-   "title": "Coffee Prices Fall as Supply Concerns Ease",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-supply-concerns-ease",
-   "summary": "March arabica coffee (KCH26 ) closed down -5.15 (-1.92%) on Tuesday, and January ICE robusta coffee (RMF27 ) closed down -41 (-1.44%). Coffee prices added to Monday’s losses on Tuesday, with arabica falling to a 1.5-week low and robusta slipping to a 3-year low. Easing supply concerns are weighing on...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T21:18:54+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "ed60af332bf0",
    "title": "Workday Stock Slides Despite Strong Q3 Results: Details",
    "link": "https://www.benzinga.com/markets/earnings/26/11/63609392/workday-stock-slides-despite-strong-q3-results-details",
@@ -5779,6 +6076,20 @@
    "published": "2026-11-24T21:09:26+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "974b37d8e525",
+   "title": "Shein to pay $100 million to settle Federal Trade Commission allegations over deceptive practices - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjlabzk0OTFwTmdNenladDFGSmFFVlJFMXl5ZGhyMW01ZnluOExnRTRRWTEzd0NsendyWHc4NkFjSEg3TlBWeFhoeDhfNVZJQ01ZcC1ZemlRekRoZElNc0tOSkE3cndmSEdPTUdDeFFwa3ZqVVNfZUJPank5bTlnalZ1TEIzX0hQMmlVUFZ0TXF6VWtxTU9lb1d0SjFBd3QxRzVvMw?oc=5",
+   "summary": "Shein to pay $100 million to settle Federal Trade Commission allegations over deceptive practices&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-24T21:09:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8670,314 +8981,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "89cd5fce819f",
-   "title": "Fluence (FLNC) Q4 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/fluence-flnc-q4-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:44:49+00:00",
-   "tickers": [
-    "FLNC"
-   ],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "043c75eb0d45",
-   "title": "Putin says Ukraine hits Russian oil plants despite Trump’s requests, promises retaliation",
-   "link": "https://www.investing.com/news/commodities-news/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-5048918",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-24T19:42:25+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d53c3a40a10e",
-   "title": "3 Unstoppable Stocks That Can Be Great Buys for Decades",
-   "link": "https://www.nasdaq.com/articles/3-unstoppable-stocks-can-be-great-buys-decades",
-   "summary": "Key PointsThese companies have resilient businesses that have been able to do well even as economic conditions haven't always been ideal.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:42:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b9214e1b9829",
-   "title": "5 questions Nvidia still faces after bringing back Jensen Huang",
-   "link": "https://www.cbsnews.com/news/nvidia-jensen-huang-challenges/",
-   "summary": "Despite Jensen Huang's shock return as Nvidia's CEO, experts say it's anything but business as usual for the chipmaker.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-24T19:42:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8951edd5a405",
-   "title": "BMO highlights top interactive entertainment pick",
-   "link": "https://www.investing.com/news/stock-market-news/bmo-highlights-top-interactive-entertainment-pick-5048917",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-24T19:41:03+00:00",
-   "tickers": [
-    "BMO"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "66054b2833b9",
-   "title": "US arrears leave chemical weapons watchdog facing budget crisis",
-   "link": "https://www.investing.com/news/economy-news/us-arrears-leave-chemical-weapons-watchdog-facing-budget-crisis-5048914",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-24T19:36:25+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "086581704ed1",
-   "title": "$10,000 in GE Vernova on Its First Day of Trading Is Worth How Much Today?",
-   "link": "https://www.nasdaq.com/articles/10000-ge-vernova-its-first-day-trading-worth-how-much-today",
-   "summary": "Key PointsGE Vernova shares have gained over 400% since debuting.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:35:02+00:00",
-   "tickers": [
-    "GEV",
-    "GE"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "1ec57d559a56",
-   "title": "Nvidia’s Jensen Huang apologizes to employees, says he is in therapy",
-   "link": "https://www.investing.com/news/stock-market-news/nvidias-jensen-huang-apologizes-to-employees-says-he-is-in-therapy-5048912",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-24T19:33:56+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cf5ca30aef76",
-   "title": "Suze Orman warns retirees against one costly stock market mistake",
-   "link": "https://www.thestreet.com/retirement/suze-orman-retirees-stock-market-fear-warning",
-   "summary": "This timing trap leaves little room for error.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-24T19:33:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "3f4bce5ecefd",
-   "title": "Coastlands Capital buys $406,000 in iBio shares",
-   "link": "https://www.investing.com/news/insider-trading-news/coastlands-capital-buys-406000-in-ibio-shares-93CH-5048911",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-24T19:31:00+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7e532c1be1f2",
-   "title": "Argentina economic activity declines in September for third straight annual drop",
-   "link": "https://www.investing.com/news/economic-indicators/argentina-economic-activity-declines-120-in-september-5048896",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-24T19:30:26+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "378783077ac1",
-   "title": "What's Next for Everest Group, Ltd. Shareholders After 11.4% Stock Drop? Glancy Prongay Wolke & Rotter LLP Explains Securities Fraud Class Action Lead Plaintiff Deadline",
-   "link": "https://www.prnewswire.com/news-releases/whats-next-for-everest-group-ltd-shareholders-after-11-4-stock-drop-glancy-prongay-wolke--rotter-llp-explains-securities-fraud-class-action-lead-plaintiff-deadline-302948944.html",
-   "summary": "Complaint alleges Everest Group, Ltd. misled investors between February 8, 2024 and October 27, 2025; investors may seek lead plaintiff role by December 28, 2026 LOS ANGELES, Nov. 24, 2026 /PRNewswire/ -- Glancy Prongay Wolke & Rotter LLP (\"Glancy\") announced today that the class action...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-24T19:30:00+00:00",
-   "tickers": [
-    "EG"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "3161051fe0b3",
-   "title": "Why Fluence Energy Stock Is Powering Higher Today",
-   "link": "https://www.nasdaq.com/articles/why-fluence-energy-stock-powering-higher-today",
-   "summary": "Key PointsFluence reported Q4 2026 financial results yesterday",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:29:27+00:00",
-   "tickers": [
-    "FLNC"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3da2a2d426d1",
-   "title": "Federal agency boosts size of most single-family loans the government can guarantee to $855,400 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTjlKV2FqZ0I5SG84VVVjdE10bjFjQ3F4R2tsaEczLTMwUkk0cHVpZWp0NVN2czkyU1ZmdDdjb0FMeF9iZk9NUVNaVUJfLXhZcmpvaW9ESjd6V0hlMGxvSFdmVWdEbEp5Ry1ybGlYRFkwbjJVRU4wTFdnRWhXaGNSby1UbEZjUENhbi1XT2R5WG5feHp4cW5sb2xSTXgyNm82WnlYMVhaVkI0ZVpEaE1PZzZZcmZxOWpHNnc?oc=5",
-   "summary": "Federal agency boosts size of most single-family loans the government can guarantee to $855,400&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-24T19:28:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a786534ed5b5",
-   "title": "Buffer ETFs protect investors from the harshest market swings – for a price",
-   "link": "https://www.cnbc.com/2026/11/24/buffer-etfs-downside-protection.html",
-   "summary": "A slate of ETFs that use esoteric options strategies offers investors protection from market volatility — with a trade-off.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-24T19:27:25+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d896b65688b3",
-   "title": "Michigan drops plans to hire new AD Trev Alberts, decision will cost Wolverines at least $21 million - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDBIR1FwcTVZZXRYTEVkX3RQQVcyQ2ZVLUwzd21YYkFBZGFZTmpnclRRdWZ4YU96RjNEeHVQMlc0cng5SXZHWmdPVm8wWW1zNUhuOEhWakZzVjhTXzZQQXpjUkttWDlkS3NQaEJCYkxXdV9MalgyeHFSY1FZbzhuZXVCUjkzSmxp?oc=5",
-   "summary": "Michigan drops plans to hire new AD Trev Alberts, decision will cost Wolverines at least $21 million&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-24T19:27:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "d3b1131042b8",
-   "title": "Retail turnarounds are taking hold just in time for the holiday season",
-   "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
-   "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "domain": "cnbc.com",
-   "published": "2026-11-24T19:26:39+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "db77396afcf2",
-   "title": "Gold is doing something strange. Here's one way to play it",
-   "link": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
-   "summary": "Gold is not acting like the traditional safe haven. How one trader is playing the move.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-24T19:25:13+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0f9cf99d9f02",
-   "title": "Democrats aim to reverse Trump’s slashes to US food aid, but path unclear",
-   "link": "https://www.investing.com/news/economy-news/democrats-aim-to-reverse-trumps-slashes-to-us-food-aid-but-path-unclear-5048908",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-24T19:24:19+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "61c46f7d43c3",
-   "title": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
-   "link": "https://www.cnbc.com/investingclub/2026/11/24/who-qualifies-for-costcos-dividend-plus-meta-pauses-share-plan.html",
-   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-24T19:23:59+00:00",
-   "tickers": [
-    "COST",
-    "META"
-   ],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "46dfd92af12b",
-   "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
-   "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
-   "summary": "The AG and FBI director evaded answering reporters' questions about details of an investigation Trump said resolved security concerns about Jensen Huang.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-24T19:19:12+00:00",
-   "tickers": [],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9021,6 +9024,7 @@
   "HMY": "Harmony Gold Mining",
   "CACI": "CACI International",
   "DRI": "Darden Restaurants",
+  "LUNR": "Intuitive Machines",
   "SWKS": "Skyworks Solutions",
   "ZBRA": "Zebra Technologies",
   "AMAT": "Applied Materials",
@@ -9032,31 +9036,29 @@
   "TJX": "The TJX Companies",
   "AMTM": "Amentum Holdings",
   "BKNG": "Booking Holdings",
-  "BMO": "Bank of Montreal",
-  "COST": "Costco Wholesale",
   "DY": "Dycom Industries",
   "FCX": "Freeport-McMoRan",
   "J": "Jacobs Solutions",
   "LOW": "Lowe's Companies",
   "NVST": "Envista Holdings",
   "URBN": "Urban Outfitters",
-  "GE": "General Electric",
   "AXON": "Axon Enterprise",
   "BAC": "Bank of America",
   "CHYM": "Chime Financial",
   "COIN": "Coinbase Global",
   "LMT": "Lockheed Martin",
+  "MBLY": "Mobileye Global",
   "PH": "Parker-Hannifin",
   "VRNS": "Varonis Systems",
   "HPQ": "Hewlett-Packard",
   "ADI": "Analog Devices",
   "CAG": "Conagra Brands",
   "DPZ": "Domino's Pizza",
-  "FLNC": "Fluence Energy",
   "HD": "The Home Depot",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "QBTS": "D-Wave Quantum",
+  "AVAV": "AeroVironment",
   "EG": "Everest Group",
   "FHN": "First Horizon",
   "KO": "The Coca-Cola",
@@ -9084,7 +9086,6 @@
   "CLSK": "CleanSpark",
   "DTE": "DTE Energy",
   "F": "Ford Motor",
-  "GEV": "GE Vernova",
   "MA": "Mastercard",
   "MCD": "McDonald's",
   "MOS": "The Mosaic",
