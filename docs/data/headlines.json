@@ -1,8 +1,168 @@
 {
- "generated": "2026-11-25T19:51:19.758985+00:00",
+ "generated": "2026-11-25T19:56:27.029787+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "34334df6d248",
+   "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+   "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+   "summary": "Wall Street is coming off a losing session for the S&amp;P 500 and Nasdaq Composite.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-25T19:54:33+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "eb47aa854dcb",
+   "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+   "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+   "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-25T19:52:47+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "fda",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "bede792d89bc",
+   "title": "Cotton Pushing Higher into the Holiday",
+   "link": "https://www.nasdaq.com/articles/cotton-pushing-higher-holiday",
+   "summary": "Cotton futures are showing 50 to 55 point gains so far on Wednesday, as traders head into the holiday. Crude oil is up $1.60 per barrel on the session to $83.65, with the US dollar index $0.189 lower on the day. The Seam reported 7,268 bales sold on November 24...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T19:49:10+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e7dd3ce33da0",
+   "title": "Hogs Extending Losses into the Holiday Break",
+   "link": "https://www.nasdaq.com/articles/hogs-extending-losses-holiday-break",
+   "summary": "Lean hog futures are trading with midday losses of 70 cents to $1.57 so far on Wednesday. USDA’s national base hog price was reported at $33.56 on Wednesday morning. The CME Lean Hog Index was down 29 cents on November 23 at $55.02. Cold Storage data showed 406.1 million lbs...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T19:49:10+00:00",
+   "tickers": [
+    "CME"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "bff628774037",
+   "title": "Cocoa Prices Rebound as the Dollar Weakens",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-rebound-dollar-weakens",
+   "summary": "March ICE NY cocoa (CCH27 ) is up +23 (+0.42%) today, and ICE London cocoa #7 (CAZ26 ) is up +22 (+0.55%). Cocoa prices erased early losses today and moved higher as short covering emerged after the dollar index ($DXY ) gave up an early advance and turned lower. Cocoa...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T19:49:09+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ecde2b42ad73",
+   "title": "Cattle Falling Ahead of Turkey Day",
+   "link": "https://www.nasdaq.com/articles/cattle-falling-ahead-turkey-day",
+   "summary": "Live Cattle futures are $2.45 to $3.05 lower across the front months on Wednesday. Cash trade has seen very light trade at $355 dressed in the north this week, compared to sales of $340-345 last week, as a few live sales were picked up at $220-223. The Wednesday morning Fed...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T19:49:09+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3d6cd2e3628b",
+   "title": "Wheat Posting Mixed Trade on Wednesday",
+   "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-trade-wednesday",
+   "summary": "The wheat complex is mixed across the three exchanges, with winter wheats holding lower. Chicago SRW futures are down 1 to 3 ¼ cents on the session. KC wheat futures are down 3 ¼ to 10 ¾ cents led by longs exiting ahead of next week’s first notice at for...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T19:49:09+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c732377eaa51",
+   "title": "Soybeans Rallying Despite Tariff News",
+   "link": "https://www.nasdaq.com/articles/soybeans-rallying-despite-tariff-news",
+   "summary": "Soybeans are trading with 3 to 11 cent losses across most contracts on Wednesday.. The cmdtyView national average Cash Bean price was up 5 3/4 cents at $11.76. Soymeal futures are $4.90 to $5.70 higher, with Soy Oil futures up 23 to 31 points. The market will have normal hours...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T19:49:09+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cfea13c92415",
+   "title": "Corn Rallying Heading into Thanksgiving Break",
+   "link": "https://www.nasdaq.com/articles/corn-rallying-heading-thanksgiving-break",
+   "summary": "Corn futures are showing 3 to 5 ¼ cent gains across most contracts. The CmdtyView national average Cash Corn price is up 7 cents at $4.10 ½. The market will have normal hours today, while being closed on Thursday for Thanksgiving. Friday will have a hard 8:30 CST open and...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T19:49:09+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f84144321514",
+   "title": "Corn Starting Wednesday with Thin Trade",
+   "link": "https://www.nasdaq.com/articles/corn-starting-wednesday-thin-trade",
+   "summary": "Corn prices are up just fractionally across the front months on Wednesday. Futures posted mostly higher trade on Tuesday, with nearby December down a tick and other contracts fractionally to 2 cents higher. Open interest was down 22,0445 contracts on Tuesday, heavily in December (-62,233) ahead of next week’s first...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T19:49:08+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d86958d5248e",
+   "title": "Wheat Posting Mixed Action on Wednesday Morning",
+   "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-action-wednesday-morning",
+   "summary": "Wheat is showing mixed action on Wednesday AM, with winter wheats fading lower. The wheat complex closed Tuesday slipping into the holiday, with contracts down across the three exchanges. Chicago SRW futures were down 2 to 7 1/4 cents on the day. Open interest was down 12,715 contracts on Wednesday....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T19:49:08+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "d86b6d167080",
    "title": "Tethys Petroleum Press Release: Update on Kazakhstan Court Rulings and Scheduled Auction of TAG Assets | TETHF Stock News",
@@ -48,20 +208,6 @@
    "tag_v": 2
   },
   {
-   "id": "f84144321514",
-   "title": "Corn Starting Wednesday with Thin Trade",
-   "link": "https://www.nasdaq.com/articles/corn-starting-wednesday-thin-trade",
-   "summary": "Corn prices are up just fractionally across the front months on Wednesday. Futures posted mostly higher trade on Tuesday, with nearby December down a tick and other contracts fractionally to 2 cents higher. Open interest was down 22,0445 contracts on Tuesday, heavily in December (-62,233) ahead of next week’s first...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T19:43:41+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "6fc117f8d81a",
    "title": "Explainer-How China got access to Nvidia’s AI chips despite rules to stop them",
    "link": "https://www.investing.com/news/economic-indicators/explainerhow-china-got-access-to-nvidias-ai-chips-despite-rules-to-stop-them-5051383",
@@ -87,20 +233,6 @@
    "tickers": [],
    "type": "legal",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "d86958d5248e",
-   "title": "Wheat Posting Mixed Action on Wednesday Morning",
-   "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-action-wednesday-morning",
-   "summary": "Wheat is showing mixed action on Wednesday AM, with winter wheats fading lower. The wheat complex closed Tuesday slipping into the holiday, with contracts down across the three exchanges. Chicago SRW futures were down 2 to 7 1/4 cents on the day. Open interest was down 12,715 contracts on Wednesday....",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T19:38:13+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -131,20 +263,6 @@
    ],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "34334df6d248",
-   "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-   "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-   "summary": "Wall Street is coming off a losing session for the S&amp;P 500 and Nasdaq Composite.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-25T19:36:15+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -236,22 +354,6 @@
    ],
    "type": "press",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "eb47aa854dcb",
-   "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-   "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-   "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-25T19:25:10+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "fda",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -790,22 +892,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "bff628774037",
-   "title": "Cocoa Prices Rebound as the Dollar Weakens",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-rebound-dollar-weakens",
-   "summary": "March ICE NY cocoa (CCH27 ) is up +23 (+0.42%) today, and ICE London cocoa #7 (CAZ26 ) is up +22 (+0.55%). Cocoa prices erased early losses today and moved higher as short covering emerged after the dollar index ($DXY ) gave up an early advance and turned lower. Cocoa...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T18:57:58+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2702,20 +2788,6 @@
     "SNDK"
    ],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "18b56b0654b2",
-   "title": "Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume - AP News",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZi1lalA4QTR1T3RxVkRDblVuYkY3SDBXV3A3bWhpaWJzN29ZT2xEWTR5b1RDMzZWUWRfdldya2R1ZlZiQ2ptLThvVjMxQmpMWUFKeFVEWnhjOGMzVUcyZDVjb3ZYa1o0RjFiYXVQSUFCczNFelNVYjQ2ZzFiOWxUSmlKdFVXWW8?oc=5",
-   "summary": "Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-25T17:19:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8886,80 +8958,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "65156d49d110",
-   "title": "Manufacturers can scale Industrial Intelligence faster with Schneider Electric Open Software-Defined Automation on AWS | SBGSY Stock News",
-   "link": "https://www.stocktitan.net/news/SBGSY/manufacturers-can-scale-industrial-intelligence-faster-with-du80g8dm8xnx.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-25T13:30:00+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "146180ca12e8",
-   "title": "Prenetics’ IM8 Leadership Purchases $1.26 Million of Shares Following Third Quarter Results | PRE Stock News",
-   "link": "https://www.stocktitan.net/news/PRE/prenetics-im8-leadership-purchases-1-26-million-of-shares-following-1ko637uyck2l.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-25T13:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7326a0f7be92",
-   "title": "Onconetix Acquisition Target Realbotix Announces Expansion into AI-Powered Hospitality and Event Automation | ONCO Stock News",
-   "link": "https://www.stocktitan.net/news/ONCO/onconetix-acquisition-target-realbotix-announces-expansion-into-ai-a7ldoucbnykf.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-25T13:30:00+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3353136e172a",
-   "title": "Wave Life Sciences to Present at Upcoming Investor Conferences | WVE Stock News",
-   "link": "https://www.stocktitan.net/news/WVE/wave-life-sciences-to-present-at-upcoming-investor-e75g8qe0twoi.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-25T13:30:00+00:00",
-   "tickers": [
-    "WVE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "8432f848dd91",
-   "title": "Sagtec Global Receives Full US$552,500 Payment for Private Placement with His Royal Highness The Crown Prince of Pahang, Malaysia | SAGT Stock News",
-   "link": "https://www.stocktitan.net/news/SAGT/sagtec-global-receives-full-us-552-500-payment-for-private-placement-pzjhp0njazb4.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-25T13:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9008,7 +9006,6 @@
   "BRK-A": "Berkshire Hathaway",
   "NYT": "The New York Times",
   "SCHW": "The Charles Schwab",
-  "WVE": "Wave Life Sciences",
   "AMAT": "Applied Materials",
   "BURL": "Burlington Stores",
   "CL": "Colgate-Palmolive",
