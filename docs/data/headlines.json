@@ -1,8 +1,25 @@
 {
- "generated": "2026-11-25T10:56:08.782382+00:00",
+ "generated": "2026-11-25T11:01:30.777977+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "0ba489cdbfe4",
+   "title": "American Express Stock Lost Nearly Half Its Value in the 2020 Crash. It Recovered in Just 11 Months.",
+   "link": "https://www.nasdaq.com/articles/american-express-stock-lost-nearly-half-its-value-2020-crash-it-recovered-just-11-months",
+   "summary": "Key PointsAmerican Express has only about 165 million cards, but it generates almost double Visa's revenue.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T10:50:02+00:00",
+   "tickers": [
+    "AXP",
+    "V"
+   ],
+   "type": "markets",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "34334df6d248",
    "title": "Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
@@ -15,6 +32,22 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "362168d02e18",
+   "title": "Vertex Could Land Its Fifth Franchise on Nov. 30. Should You Buy Before the FDA Decides?",
+   "link": "https://www.nasdaq.com/articles/vertex-could-land-its-fifth-franchise-nov-30-should-you-buy-fda-decides",
+   "summary": "Key PointsThe FDA is scheduled to decide on Vertex's IgA nephropathy drug povetacicept by Nov. 30, 2026.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T10:45:02+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "type": "fda",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -219,6 +252,22 @@
     "O"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "dc1e5c6c8775",
+   "title": "CMA Accepts Remedies Offered To Resolve AkzoNobel-Axalta Coatings Merger Concerns",
+   "link": "https://www.nasdaq.com/articles/cma-accepts-remedies-offered-resolve-akzonobel-axalta-coatings-merger-concerns",
+   "summary": "(RTTNews) - UK's Competition and Markets Authority or CMA announced Wednesday that the remedies offered could resolve its concerns over the proposed merger between Dutch paint and coating maker Akzo Nobel N.V. (AKZOY, AKZA.AS) and Axalta Coating Systems Ltd. (AXTA).",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T10:34:38+00:00",
+   "tickers": [
+    "AXTA"
+   ],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8874,52 +8923,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "bfe77759b449",
-   "title": "PepGen Consensus Price Target Increased by 25.15% to $13.00",
-   "link": "https://www.nasdaq.com/articles/pepgen-consensus-price-target-increased-2515-1300",
-   "summary": "The average one-year price target for PepGen (NASDAQGS:PEPG) has been revised to $13.00 / share. This is an increase of 25.15% from the prior estimate of $10.39 dated November 6, 2026. These figures represent aggregate analyst targets compiled by Fintel and do not constitute a re",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T00:16:39+00:00",
-   "tickers": [],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "92dbf58194c7",
-   "title": "Seaport Global Initiates Coverage of Mobileye Global with Buy Rating",
-   "link": "https://www.nasdaq.com/articles/seaport-global-initiates-coverage-mobileye-global-buy-rating",
-   "summary": "Fintel reports that on November 24, 2026, Seaport Global initiated coverage of Mobileye Global (NASDAQGS:MBLY) (BMV:MBLY) with a Buy recommendation. This initiation occurred following a pre-action close of $4.80 on November 23, 2026. The latest close for the stock was also record",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T00:16:09+00:00",
-   "tickers": [
-    "MBLY"
-   ],
-   "type": "analyst",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0d6ecd29e578",
-   "title": "Amazon CEO Andrew Jassy sells $5.13 million in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/amazon-ceo-andrew-jassy-sells-513-million-in-company-stock-93CH-5049413",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-25T00:15:57+00:00",
-   "tickers": [
-    "AMZN"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8939,6 +8942,7 @@
   "AMD": "Advanced Micro Devices",
   "AXTA": "Axalta Coating Systems",
   "CHTR": "Charter Communications",
+  "VRTX": "Vertex Pharmaceuticals",
   "PLTR": "Palantir Technologies",
   "AMPX": "Amprius Technologies",
   "BMY": "Bristol-Myers Squibb",
@@ -8962,6 +8966,7 @@
   "VERA": "Vera Therapeutics",
   "AMTM": "Amentum Holdings",
   "AR": "Antero Resources",
+  "AXP": "American Express",
   "BKNG": "Booking Holdings",
   "BMO": "Bank of Montreal",
   "COST": "Costco Wholesale",
@@ -8979,7 +8984,6 @@
   "CRML": "Critical Metals",
   "GILD": "Gilead Sciences",
   "GPN": "Global Payments",
-  "MBLY": "Mobileye Global",
   "PWR": "Quanta Services",
   "VAL": "Valaris Limited",
   "ADI": "Analog Devices",
@@ -9065,6 +9069,7 @@
   "STE": "STERIS",
   "AMGN": "Amgen",
   "LIN": "Linde",
-  "OKLO": "Oklo"
+  "OKLO": "Oklo",
+  "V": "Visa"
  }
 }
