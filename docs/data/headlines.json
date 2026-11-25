@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-25T21:51:49.729235+00:00",
+ "generated": "2026-11-25T21:55:57.763491+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e710ee5bf830",
+   "title": "Stocks turn volatile as Jensen Huang rebound rally fades",
+   "link": "https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/",
+   "summary": "The tech-heavy Nasdaq index fell more than 1,000 points in early trading before clawing back most of the losses.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-25T21:51:43+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
   {
    "id": "bf3e7bd5a5c8",
    "title": "Impact Silver Announces Q3 2026 Results with Revenue up 73% on Silver Prices and Grade | ISVLF Stock News",
@@ -59,6 +73,51 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "bede792d89bc",
+   "title": "Cotton Pushing Higher into the Holiday",
+   "link": "https://www.nasdaq.com/articles/cotton-pushing-higher-holiday",
+   "summary": "Cotton futures are showing 50 to 55 point gains so far on Wednesday, as traders head into the holiday. Crude oil is up $1.60 per barrel on the session to $83.65, with the US dollar index $0.189 lower on the day. The Seam reported 7,268 bales sold on November 24...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:41:10+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "ecde2b42ad73",
+   "title": "Cattle Falling Ahead of Turkey Day",
+   "link": "https://www.nasdaq.com/articles/cattle-falling-ahead-turkey-day",
+   "summary": "Live Cattle futures are $2.45 to $3.05 lower across the front months on Wednesday. Cash trade has seen very light trade at $355 dressed in the north this week, compared to sales of $340-345 last week, as a few live sales were picked up at $220-223. The Wednesday morning Fed...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:41:09+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4d2e5208eabd",
+   "title": "Stocks Sharply Lower on AI Angst",
+   "link": "https://www.nasdaq.com/articles/stocks-sharply-lower-ai-angst",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -2.54% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.48%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -4.16%. December E-mini S&amp;P futures (ESZ26 ) are down -2.68%, and December E-mini Nasdaq...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:41:09+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
    "tag_v": 2
   },
   {
@@ -222,6 +281,22 @@
    "tag_v": 2
   },
   {
+   "id": "c654e3dda4b1",
+   "title": "The Dividend ETF I'd Choose to to Generate $500 a Month in Passive Income",
+   "link": "https://www.nasdaq.com/articles/dividend-etf-id-choose-generate-500-month-passive-income",
+   "summary": "Key PointsThe Schwab U.S. Dividend Equity ETF is a good complement to the S&amp;P 500 because it isn't tech-heavy.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:35:02+00:00",
+   "tickers": [
+    "SCHW"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "f2aea7033cea",
    "title": "BigBear.ai warrants set to expire and delist from NYSE in December",
    "link": "https://www.investing.com/news/sec-filings/bigbearai-warrants-set-to-expire-and-delist-from-nyse-in-december-93CH-5051540",
@@ -321,6 +396,67 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "f494f7fcfa0a",
+   "title": "Sugar Prices Rally on Expectations of a Smaller Sugar Crop in India",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-rally-expectations-smaller-sugar-crop-india",
+   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.68 (+3.85%) on Wednesday, and March London ICE white sugar #5 (SWH27 ) closed up +16.00 (+3.19%). Sugar prices rallied sharply to 1.5-week highs on Wednesday on the outlook for smaller sugar production in India, the world’s second-largest sugar producer. The...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:30:01+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "3d6cd2e3628b",
+   "title": "Wheat Posting Mixed Trade on Wednesday",
+   "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-trade-wednesday",
+   "summary": "The wheat complex is mixed across the three exchanges, with winter wheats holding lower. Chicago SRW futures are down 1 to 3 ¼ cents on the session. KC wheat futures are down 3 ¼ to 10 ¾ cents led by longs exiting ahead of next week’s first notice at for...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:30:01+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "24d32ab8edd0",
+   "title": "Stocks Slump as Tech Selloff Deepens",
+   "link": "https://www.nasdaq.com/articles/stocks-slump-tech-selloff-deepens",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -2.88% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -2.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -4.29%. December E-mini S&amp;P futures (ESZ26 ) are down -2.26%, and December E-mini Nasdaq...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:30:01+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "64dce6f9a74e",
+   "title": "Dollar Climbs on Stock Weakness and Signs of US Economic Strength",
+   "link": "https://www.nasdaq.com/articles/dollar-climbs-stock-weakness-and-signs-us-economic-strength",
+   "summary": "The dollar index (DXY00 ) is up by +0.19% today. The dollar is moving higher today amid the stock selloff, boosting demand for dollar liquidity. Also, today’s mostly better-than-expected US economic news is supportive of the dollar after weekly jobless claims fell more than expected to a 4-month low, Q3...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:30:01+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -430,6 +566,50 @@
    "tag_v": 2
   },
   {
+   "id": "fec5f50445da",
+   "title": "FirstEnergy Corp. Contributes 6,334,459 Common Shares Valued at $299,999,978.24 to Retirement Trust",
+   "link": "https://www.nasdaq.com/articles/firstenergy-corp-contributes-6334459-common-shares-valued-29999997824-retirement-trust",
+   "summary": "On November 25, 2026, FirstEnergy Corp. contributed 6,334,459 shares of its common stock, $0.10 par value, to the FirstEnergy System Master Retirement Trust to satisfy certain future funding obligations of FirstEnergy and its subsidiaries to the Trust. The shares were contributed",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:29:42+00:00",
+   "tickers": [
+    "FE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "01c1a3e7e963",
+   "title": "News Corporation Files Daily Buy-Back Notification Disclosing Share Repurchase Transactions",
+   "link": "https://www.nasdaq.com/articles/news-corporation-files-daily-buy-back-notification-disclosing-share-repurchase",
+   "summary": "News Corporation submitted daily buy-back notifications to the Australian Securities Exchange providing details on share repurchase transactions conducted under the company repurchase program. Under the disclosures, News Corporation reported recent transactions for its Class A co",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:29:42+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "7005570deb16",
+   "title": "Trutankless, Inc. Issues Shares upon Note Conversion",
+   "link": "https://www.nasdaq.com/articles/trutankless-inc-issues-shares-upon-note-conversion",
+   "summary": "On November 23, 2026, Trutankless, Inc. issued an aggregate of 52,721,097 shares of Common Stock of the Company to Notation Labs, Inc. upon conversion of approximately $4,103,132,91 of principal and $1,168,976.72 of accrued interest due under that certain 8% Promissory Note dated",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:29:42+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a1d58314209e",
    "title": "JPMorgan sees $450B in AI bond issuance in 2027",
    "link": "https://www.investing.com/news/stock-market-news/jpmorgan-sees-450b-in-ai-bond-issuance-in-2027-5051506",
@@ -442,6 +622,20 @@
     "JPM"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "81e12db6de4e",
+   "title": "Canadian Stocks Advance As U.S. Omits Canada From Tariff Imposition",
+   "link": "https://www.nasdaq.com/articles/canadian-stocks-advance-us-omits-canada-tariff-imposition",
+   "summary": "(RTTNews) - Offsetting the losses from yesterday's session, Canadian stocks moved higher on Wednesday after the sweeping fresh tariffs imposed on various nations by the U.S. skipped Canada. In addition, comments by U.S. Trade Representative Jamieson Greer on Canada-U.S. trade tal",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:28:11+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -550,6 +744,20 @@
    "tag_v": 2
   },
   {
+   "id": "313af2774a29",
+   "title": "The Best Dividend Stocks to Buy With $5,000 in November",
+   "link": "https://www.nasdaq.com/articles/best-dividend-stocks-buy-5000-november-0",
+   "summary": "Key PointsFederal Realty is the only REIT that is also a Dividend King.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:21:02+00:00",
+   "tickers": [],
+   "type": "ma",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "6f72921add97",
    "title": "RPGL faces Nasdaq delisting risk over late annual report filing",
    "link": "https://www.investing.com/news/company-news/rpgl-faces-nasdaq-delisting-risk-over-late-annual-report-filing-93CH-5051487",
@@ -564,6 +772,20 @@
    "tag_v": 2
   },
   {
+   "id": "46f55b6dce40",
+   "title": "Bullfrog AI Holdings, Inc. Announces 1-for-10 Reverse Stock Split",
+   "link": "https://www.nasdaq.com/articles/bullfrog-ai-holdings-inc-announces-1-10-reverse-stock-split",
+   "summary": "Bullfrog AI Holdings, Inc. announced a 1-for-10 reverse stock split of its common stock, par value $0.00001 per share. The common stock is expected to begin trading on a split-adjusted basis on The Nasdaq Capital Market at the market open on November 30, 2026, under the existing",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:20:11+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "afbf2f03fe92",
    "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.92%",
    "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-092-5051485",
@@ -574,6 +796,52 @@
    "published": "2026-11-25T21:20:03+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "00a7165c84f3",
+   "title": "Traeger, Inc. Announces Chief Financial Officer Transition",
+   "link": "https://www.nasdaq.com/articles/traeger-inc-announces-chief-financial-officer-transition",
+   "summary": "Traeger, Inc. announced that Michael Joseph (Joey) Hord notified the company of his intention to resign from his position as Executive Vice President and Chief Financial Officer, effective February 1, 2027. Mr. Hord is stepping down to accept a position as chief financial officer",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:20:03+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "542b6c366d44",
+   "title": "Deere & Company Reports Net Income of $1.051 Billion for Fourth Quarter, $4.860 Billion for Fiscal Year",
+   "link": "https://www.nasdaq.com/articles/deere-company-reports-net-income-1051-billion-fourth-quarter-4860-billion-fiscal-year",
+   "summary": "Deere &amp; Company reported net income of $1.051 billion for the fourth quarter ended November 1, 2026, or $3.89 per share, compared with net income of $1.065 billion, or $3.93 per share, for the quarter ended November 2, 2025. For fiscal year 2026, net income attributable to De",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:20:02+00:00",
+   "tickers": [
+    "DE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "db540157a8f6",
+   "title": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/qualcomm-vs-sandisk-which-technology-stock-better-buy-2027",
+   "summary": "Key PointsQualcomm is diversifying its revenue beyond smartphones into high-growth areas like automotive and 5G connectivity for satellite networks.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T21:20:02+00:00",
+   "tickers": [
+    "SNDK"
+   ],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -799,22 +1067,6 @@
    "tag_v": 2
   },
   {
-   "id": "f494f7fcfa0a",
-   "title": "Sugar Prices Rally on Expectations of a Smaller Sugar Crop in India",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-rally-expectations-smaller-sugar-crop-india",
-   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.68 (+3.85%) on Wednesday, and March London ICE white sugar #5 (SWH27 ) closed up +16.00 (+3.19%). Sugar prices rallied sharply to 1.5-week highs on Wednesday on the outlook for smaller sugar production in India, the world’s second-largest sugar producer. The...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T21:13:46+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "e7dd3ce33da0",
    "title": "Hogs Extending Losses into the Holiday Break",
    "link": "https://www.nasdaq.com/articles/hogs-extending-losses-holiday-break",
@@ -831,38 +1083,10 @@
    "tag_v": 2
   },
   {
-   "id": "ecde2b42ad73",
-   "title": "Cattle Falling Ahead of Turkey Day",
-   "link": "https://www.nasdaq.com/articles/cattle-falling-ahead-turkey-day",
-   "summary": "Live Cattle futures are $2.45 to $3.05 lower across the front months on Wednesday. Cash trade has seen very light trade at $355 dressed in the north this week, compared to sales of $340-345 last week, as a few live sales were picked up at $220-223. The Wednesday morning Fed...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T21:13:45+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "d86958d5248e",
    "title": "Wheat Posting Mixed Action on Wednesday Morning",
    "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-action-wednesday-morning",
    "summary": "Wheat is showing mixed action on Wednesday AM, with winter wheats fading lower. The wheat complex closed Tuesday slipping into the holiday, with contracts down across the three exchanges. Chicago SRW futures were down 2 to 7 1/4 cents on the day. Open interest was down 12,715 contracts on Wednesday....",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T21:13:45+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3d6cd2e3628b",
-   "title": "Wheat Posting Mixed Trade on Wednesday",
-   "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-trade-wednesday",
-   "summary": "The wheat complex is mixed across the three exchanges, with winter wheats holding lower. Chicago SRW futures are down 1 to 3 ¼ cents on the session. KC wheat futures are down 3 ¼ to 10 ¾ cents led by longs exiting ahead of next week’s first notice at for...",
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "domain": "nasdaq.com",
@@ -1289,23 +1513,6 @@
    "tag_v": 2
   },
   {
-   "id": "24d32ab8edd0",
-   "title": "Stocks Slump as Tech Selloff Deepens",
-   "link": "https://www.nasdaq.com/articles/stocks-slump-tech-selloff-deepens",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -2.88% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -2.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -4.29%. December E-mini S&amp;P futures (ESZ26 ) are down -2.26%, and December E-mini Nasdaq...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T21:04:13+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "ff88bf5d2993",
    "title": "Dropbox to Present at the 2026 UBS Global Technology and AI Conference | DBX Stock News",
    "link": "https://www.stocktitan.net/news/DBX/dropbox-to-present-at-the-2026-ubs-global-technology-and-ai-ugbhmhb8k3o3.html",
@@ -1525,20 +1732,6 @@
    "tag_v": 2
   },
   {
-   "id": "bede792d89bc",
-   "title": "Cotton Pushing Higher into the Holiday",
-   "link": "https://www.nasdaq.com/articles/cotton-pushing-higher-holiday",
-   "summary": "Cotton futures are showing 50 to 55 point gains so far on Wednesday, as traders head into the holiday. Crude oil is up $1.60 per barrel on the session to $83.65, with the US dollar index $0.189 lower on the day. The Seam reported 7,268 bales sold on November 24...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T20:59:27+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "cfea13c92415",
    "title": "Corn Rallying Heading into Thanksgiving Break",
    "link": "https://www.nasdaq.com/articles/corn-rallying-heading-thanksgiving-break",
@@ -1635,7 +1828,7 @@
    "title": "Small Caps and Blue Chips Outpace Broader Market Through Midweek Session",
    "link": "https://www.prnewswire.com/news-releases/small-caps-and-blue-chips-outpace-broader-market-through-midweek-session-302950847.html",
    "summary": "VANCOUVER, BC, Nov. 25, 2026 /PRNewswire/ -- Stock Preachers News Commentary - Stocks were mixed in afternoon trading Wednesday as the Russell 2000 and Dow Jones Industrial Average pushed to gains while the S&amp;P 500 and Nasdaq Composite slipped on the day. The small-cap and blue-chip...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "domain": "prnewswire.com",
    "published": "2026-11-25T20:55:00+00:00",
@@ -2489,23 +2682,6 @@
    "tag_v": 2
   },
   {
-   "id": "4d2e5208eabd",
-   "title": "Stocks Sharply Lower on AI Angst",
-   "link": "https://www.nasdaq.com/articles/stocks-sharply-lower-ai-angst",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is down by -2.54% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.48%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -4.16%. December E-mini S&amp;P futures (ESZ26 ) are down -2.68%, and December E-mini Nasdaq...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T20:03:07+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
    "id": "2d475bfa7e6b",
    "title": "Micron and 6 Other Big Names Are Down More Than 50%. Are They Bargains Now?",
    "link": "https://www.nasdaq.com/articles/micron-and-6-other-big-names-are-down-more-50-are-they-bargains-now",
@@ -3252,20 +3428,6 @@
    "tag_v": 2
   },
   {
-   "id": "64dce6f9a74e",
-   "title": "Dollar Climbs on Stock Weakness and Signs of US Economic Strength",
-   "link": "https://www.nasdaq.com/articles/dollar-climbs-stock-weakness-and-signs-us-economic-strength",
-   "summary": "The dollar index (DXY00 ) is up by +0.19% today. The dollar is moving higher today amid the stock selloff, boosting demand for dollar liquidity. Also, today’s mostly better-than-expected US economic news is supportive of the dollar after weekly jobless claims fell more than expected to a 4-month low, Q3...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T19:14:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "324e18edf037",
    "title": "Cattle Closes Higher, as Beef Rallies Ahead of Turkey Day, Feeders Retreat",
    "link": "https://www.nasdaq.com/articles/cattle-closes-higher-beef-rallies-ahead-turkey-day-feeders-retreat",
@@ -3949,6 +4111,20 @@
    "tag_v": 2
   },
   {
+   "id": "35f6762987e6",
+   "title": "Almost 2,000 migrants arrive on Spain’s Canary Islands in a single day, breaking a record - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa3Jzb2VHSk9lV2k4UlRIWXRJdHBSUzE5a2JjYjc0dWVIRlpmY0dmVjNCSGk5MktVREE1UnNXaHZEb2c2bUFBeV9Oa0tuR2JwYU1rYzdJYXNSVEt3dEJ3cHhnNzZxaFE2YjRJM1FISE0zQlNzWHhQMHRmaW10cGNxamJabUExME9sSFpqMHJpc19kTm9X?oc=5",
+   "summary": "Almost 2,000 migrants arrive on Spain’s Canary Islands in a single day, breaking a record&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-25T18:39:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b8fbd25ac1e2",
    "title": "China’s Huawei convicted in sprawling US criminal trial over Iran business",
    "link": "https://www.investing.com/news/economy-news/chinas-huawei-convicted-at-us-criminal-trial-stemming-from-iran-business-5048943",
@@ -4558,20 +4734,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "35f6762987e6",
-   "title": "Almost 2,000 migrants arrive on Spain’s Canary Islands in a single day, breaking a record - AP News",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa3Jzb2VHSk9lV2k4UlRIWXRJdHBSUzE5a2JjYjc0dWVIRlpmY0dmVjNCSGk5MktVREE1UnNXaHZEb2c2bUFBeV9Oa0tuR2JwYU1rYzdJYXNSVEt3dEJ3cHhnNzZxaFE2YjRJM1FISE0zQlNzWHhQMHRmaW10cGNxamJabUExME9sSFpqMHJpc19kTm9X?oc=5",
-   "summary": "Almost 2,000 migrants arrive on Spain’s Canary Islands in a single day, breaking a record&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-25T18:04:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -8781,169 +8943,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "388882d91936",
-   "title": "AMD stock could reward patient investors enormously",
-   "link": "https://www.thestreet.com/investing/stocks/amd-stock-2027-data-center-growth",
-   "summary": "Wall Street sees more room for this data center stock to climb in 2027.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-25T14:47:00+00:00",
-   "tickers": [
-    "AMD"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "27f6a9de59d9",
-   "title": "SEALSQ Announces that Euronext Paris Approved the Admission of its Ordinary Shares For Trading on Euronext Growth Paris | LAES Stock News",
-   "link": "https://www.stocktitan.net/news/LAES/sealsq-announces-that-euronext-paris-approved-the-admission-of-its-sfke2503nhtr.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-25T14:47:00+00:00",
-   "tickers": [],
-   "type": "fda",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "ae3190df1c2a",
-   "title": "Wall Street veteran names 3 stocks he'd buy while waiting on Nvidia",
-   "link": "https://www.thestreet.com/investing/wall-street-veteran-names-3-stocks-hed-buy-while-waiting-on-nvidia",
-   "summary": "Great Hill Capital Chairman Thomas Hayes expects a year-end AI rally but sees compelling long-term opportunities in three stocks outside the chip sector.",
-   "source": "TheStreet",
-   "category": "stocks",
-   "domain": "thestreet.com",
-   "published": "2026-11-25T14:45:31+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b79d924d55b3",
-   "title": "Lucky Highlights District-Scale Copper-Gold-Nickel Opportunity at Prud'homme and Provides Corporate Update | LKMNF Stock News",
-   "link": "https://www.stocktitan.net/news/LKMNF/lucky-highlights-district-scale-copper-gold-nickel-opportunity-at-fxro9h3kb62n.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-25T14:45:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "26eca34ea9d2",
-   "title": "Qfin Holdings (QFIN) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/qfin-holdings-qfin-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T14:43:33+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "bd63d0e0fdba",
-   "title": "Diana Shipping Slips To Loss In Q3; Shares Down",
-   "link": "https://www.nasdaq.com/articles/diana-shipping-slips-loss-q3-shares-down",
-   "summary": "(RTTNews) - Diana Shipping Inc. (DSX), on Wednesday reported a loss for the third quarter, compared with a profit in the prior-year quarter, despite an increase in revenue.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T14:42:46+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "227a289dba01",
-   "title": "Are Stablecoins a Threat to Visa and Mastercard?",
-   "link": "https://www.nasdaq.com/articles/are-stablecoins-threat-visa-and-mastercard",
-   "summary": "Key PointsFederal Reserve governor Christopher Waller said that stablecoins are already being used behind the scenes to settle obligations within card networks.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T14:41:02+00:00",
-   "tickers": [
-    "MA",
-    "V"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ee296b412707",
-   "title": "Spark Biomedical's Neurostimulation Therapy Makes Opioid Patients 500% More Likely to Remain in Recovery",
-   "link": "https://www.prnewswire.com/news-releases/spark-biomedicals-neurostimulation-therapy-makes-opioid-patients-500-more-likely-to-remain-in-recovery-302950588.html",
-   "summary": "Hazelden Betty Ford and Gaudenzia researchers find Spark Biomedical's non-invasive, non-drug therapy improves treatment retention as an adjunct to OUD standard of care. Researchers to share topline findings during Nov. 30 webinar DALLAS, Nov. 25, 2026 /PRNewswire/ -- National Institute on...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-25T14:41:00+00:00",
-   "tickers": [
-    "F"
-   ],
-   "type": "press",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "e710ee5bf830",
-   "title": "Stocks plummet as Jensen Huang rebound rally fades",
-   "link": "https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/",
-   "summary": "The tech-heavy Nasdaq 100 index is on pace to relinquish earlier gains this week, spurred by the stunning return of Nvidia's CEO.",
-   "source": "CBS MoneyWatch",
-   "category": "macro",
-   "domain": "cbsnews.com",
-   "published": "2026-11-25T14:40:44+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "fb8658124bcd",
-   "title": "Toll Brothers Announces Final Opportunity at Hawthorn in Alpharetta, Georgia | TOL Stock News",
-   "link": "https://www.stocktitan.net/news/TOL/toll-brothers-announces-final-opportunity-at-hawthorn-in-alpharetta-lm6bz1lsnbrt.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-25T14:40:00+00:00",
-   "tickers": [
-    "TOL"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "ac4da92457e7",
-   "title": "Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
-   "link": "https://www.cnbc.com/2026/11/25/kilmar-brego-garca-a-salvadoran-national-mistakenly-deported-from-the-us-arrives-in-spain-.html",
-   "summary": "The U.S. Department of Homeland Security said Tuesday night that he self-deported to Spain as part of a removal order and didn't receive any incentives.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-25T14:39:58+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9039,7 +9038,6 @@
   "FHN": "First Horizon",
   "KO": "The Coca-Cola",
   "SMR": "NuScale Power",
-  "TOL": "Toll Brothers",
   "UNP": "Union Pacific",
   "CDE": "Coeur Mining",
   "HSIC": "Henry Schein",
@@ -9059,6 +9057,7 @@
   "DLTR": "Dollar Tree",
   "DUK": "Duke Energy",
   "EQNR": "Equinor ASA",
+  "FE": "FirstEnergy",
   "LCID": "Lucid Group",
   "NVS": "Novartis AG",
   "AAPL": "Apple Watch",
@@ -9067,7 +9066,6 @@
   "BROS": "Dutch Bros",
   "CAVA": "CAVA Group",
   "F": "Ford Motor",
-  "MA": "Mastercard",
   "MCD": "McDonald's",
   "SPGI": "S&P Global",
   "STLA": "Stellantis",
