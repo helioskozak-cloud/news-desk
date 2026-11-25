@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-25T01:06:12.381805+00:00",
+ "generated": "2026-11-25T01:11:03.456238+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "8eb94956c0af",
+   "title": "Tide and Pampers maker cutting up to 30% of jobs",
+   "link": "https://www.thestreet.com/employment/procter-gamble-cutting-up-to-30-percent-of-jobs-layoffs",
+   "summary": "Procter & Gamble is relying on automation and targeting billions in savings as its workforce shrinks by 5,000.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-25T01:07:00+00:00",
+   "tickers": [
+    "PG"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "a3e68019316f",
    "title": "SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech names",
@@ -15,6 +31,20 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "671a3f76789a",
+   "title": "Soft Start Seen For China Stock Market",
+   "link": "https://www.nasdaq.com/articles/soft-start-seen-china-stock-market",
+   "summary": "(RTTNews) - The China stock market has moved higher in two straight sessions, gathering more than 14 points or 0.4 percent in that span. The Shanghai Composite Index now sits just beneath the 3,550-point plateau although it may spin its wheels on Wednesday.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T01:01:18+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -3280,6 +3310,20 @@
     "NFLX"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "029f47c250d3",
+   "title": "Pope Francis' private diary describes a profound spiritual crisis and encounters with the devil - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaThjbVd4eXVxd2lyWDBZdTMxOTA2UVRycVVMdjV5WUtPdnRrUm1VejJ6TWJ0SDgtNlhjUFVNZ1g5TjgxTFJwWjN5N0xsWnRHNl9ocVAyeWgxdnVjVTVvR21wOUNnTlNDMEgtdjE2Sk1oeEVySEFHaGt4Q1ZQOW9sRk5QbzYyLXVoQlo2Y2lWV2dHRlhpTVBvaFQ2M2pCYXdqYmNnU21HWUs?oc=5",
+   "summary": "Pope Francis' private diary describes a profound spiritual crisis and encounters with the devil&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-24T22:30:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8919,55 +8963,6 @@
    "type": "upgrade",
    "sentiment": "positive",
    "tag_v": 2
-  },
-  {
-   "id": "0cc6bea0993b",
-   "title": "Should Vanguard S&P 500 ETF Investors Be Worried About the Downturn in Nvidia and AI Stocks?",
-   "link": "https://www.nasdaq.com/articles/should-vanguard-sp-500-etf-investors-be-worried-about-downturn-nvidia-and-ai-stocks",
-   "summary": "Key PointsNvidia was an over 7.5% position in the Vanguard S&amp;P 500 ETF at the start of the month.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T20:12:02+00:00",
-   "tickers": [
-    "VOO"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3f663b8f301f",
-   "title": "3 Non-AI Stocks to Buy for Long-Term Dividends and Stability",
-   "link": "https://www.nasdaq.com/articles/3-non-ai-stocks-buy-long-term-dividends-and-stability",
-   "summary": "Key PointsExxonMobil, McDonald's, and Realty Income are solid income stocks that pay more than double the S&amp;P 500 average",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T20:12:02+00:00",
-   "tickers": [
-    "O",
-    "MCD"
-   ],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f5d6669d1b9a",
-   "title": "Coherent's $20 Billion AI Deal Starts in 2028. Can Growth Outrun Its Cash Needs?",
-   "link": "https://www.nasdaq.com/articles/coherents-20-billion-ai-deal-starts-2028-can-growth-outrun-its-cash-needs",
-   "summary": "Coherent (NYSE:COHR) has secured a $20 billion AI agreement that could transform its photonics business. Its PhotonLink revenue ramp is already beginning, though the larger agreement won't start contributing until 2028. With revenue and net income growing rapidly, investors face",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T20:09:02+00:00",
-   "tickers": [
-    "COHR"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -9003,8 +8998,8 @@
   "AWK": "American Water Works",
   "BMY": "Bristol-Myers Squibb",
   "OUNZ": "VanEck Merk Gold ETF",
+  "PG": "The Procter & Gamble",
   "TVTX": "Travere Therapeutics",
-  "VOO": "Vanguard S&P 500 ETF",
   "ANF": "Abercrombie & Fitch",
   "HMY": "Harmony Gold Mining",
   "CACI": "CACI International",
@@ -9049,7 +9044,6 @@
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "MT": "ArcelorMittal",
-  "O": "Realty Income",
   "MSTR": "MicroStrategy",
   "ACMR": "ACM Research",
   "CSGP": "CoStar Group",
@@ -9071,7 +9065,6 @@
   "CLSK": "CleanSpark",
   "DTE": "DTE Energy",
   "MA": "Mastercard",
-  "MCD": "McDonald's",
   "MOS": "The Mosaic",
   "MSFT": "Office 365",
   "DE": "John Deere",
@@ -9090,7 +9083,6 @@
   "APH": "Amphenol",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
-  "COHR": "Coherent",
   "EVR": "Evercore",
   "EXEL": "Exelixis",
   "MNTS": "Momentus",
