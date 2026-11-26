@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T04:06:22.256143+00:00",
+ "generated": "2026-11-26T04:11:34.479666+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -45,6 +45,23 @@
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "04ea84b17f27",
+   "title": "Stock Indices Finish Off Their Lows as Dip Buyers Step In",
+   "link": "https://www.nasdaq.com/articles/stock-indices-finish-their-lows-dip-buyers-step",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -0.25% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.33%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.64%. December E-mini S&amp;P futures (ESZ26 ) fell -0.27%, and December E-mini Nasdaq...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-26T03:53:12+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -101,23 +118,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "04ea84b17f27",
-   "title": "Stock Indices Finish Off Their Lows as Dip Buyers Step In",
-   "link": "https://www.nasdaq.com/articles/stock-indices-finish-their-lows-dip-buyers-step",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -0.25% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.33%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.64%. December E-mini S&amp;P futures (ESZ26 ) fell -0.27%, and December E-mini Nasdaq...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-26T03:40:29+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2907,6 +2907,20 @@
    "published": "2026-11-26T00:30:00+00:00",
    "tickers": [],
    "type": "earnings",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "05100b2b6893",
+   "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+   "link": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+   "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-26T00:27:52+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8422,20 +8436,6 @@
    "published": "2026-11-25T20:27:58+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "05100b2b6893",
-   "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-   "link": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
-   "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-25T20:25:09+00:00",
-   "tickers": [],
-   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
