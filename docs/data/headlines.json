@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-26T15:03:09.228728+00:00",
+ "generated": "2026-11-26T15:06:10.098496+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "d0b050a3576e",
+   "title": "Walmart is selling a $97 multi-panel solar charger for $31",
+   "link": "https://www.thestreet.com/deals/solpowben-portable-solar-powered-charger-walmart-sale",
+   "summary": "It comes with four cables for charging various devices.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-26T15:03:00+00:00",
+   "tickers": [
+    "WMT"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "d2ea0bf9136a",
    "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of HCA Healthcare, Inc. - HCA",
@@ -177,6 +193,22 @@
     "TGT"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "3cc0b416974b",
+   "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Advanced Micro Devices, Inc. - AMD",
+   "link": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-advanced-micro-devices-inc---amd-302949016.html",
+   "summary": "NEW YORK, Nov. 26, 2026 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Advanced Micro Devices, Inc. (\"AMD\" or the \"Company\") (NASDAQ: AMD). Such investors are advised to contact Danielle Peyton at newaction@pomlaw.com or 646-581-9980, ext. 7980. The...",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "domain": "prnewswire.com",
+   "published": "2026-11-26T15:00:00+00:00",
+   "tickers": [
+    "AMD"
+   ],
+   "type": "press",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1133,14 +1165,15 @@
   },
   {
    "id": "25c6634d8877",
-   "title": "BJ’s Wholesale Club confirms nationwide store closures for one day",
+   "title": "BJ’s joins Costco, Sam’s Club in Thanksgiving Day store closings",
    "link": "https://www.thestreet.com/retail/bjs-wholesale-club-thanksgiving-2026-black-friday-hours",
-   "summary": "The warehouse retailer shared its holiday shopping schedule with TheStreet, including extended hours for Black Friday and the days before Christmas.",
+   "summary": "The warehouse retailer confirmed its holiday schedule to TheStreet, including extended shopping hours for Black Friday and the days before Christmas.",
    "source": "TheStreet",
    "category": "stocks",
    "domain": "thestreet.com",
    "published": "2026-11-26T13:29:00+00:00",
    "tickers": [
+    "COST",
     "BJ"
    ],
    "type": "stocks",
@@ -3999,6 +4032,23 @@
    "tag_v": 2
   },
   {
+   "id": "185f7b9751bd",
+   "title": "2 Retailers Are Spending Their Tariff Refunds on Holiday Discounts—Will It Pay Off?",
+   "link": "https://www.marketbeat.com/articles/2-retailers-are-spending-their-tariff-refunds-on-holiday-discountswill-it-pay-off/",
+   "summary": "Burlington and Kohl's posted Q3 results after handling tariff refunds differently: Burlington cut prices with its refund while Kohl's booked much of its refund as earnings, boosting EPS and shares.",
+   "source": "MarketBeat",
+   "category": "stocks",
+   "domain": "marketbeat.com",
+   "published": "2026-11-26T09:05:00+00:00",
+   "tickers": [
+    "BURL",
+    "KSS"
+   ],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "67d07cf6cdbc",
    "title": "Arrow Exploration Corp. Q3 Profit Advances",
    "link": "https://www.nasdaq.com/articles/arrow-exploration-corp-q3-profit-advances",
@@ -4941,22 +4991,6 @@
    "published": "2026-11-26T07:24:00+00:00",
    "tickers": [],
    "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "b506b485f472",
-   "title": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVFCZEVvMWJxMnFTWE96SjlweXVka0V5WC1FVTF4R0IzX3lpODRfTzM5dDhfSWNrRS1iNXdzRWJZME1odmRCY2JMUXJMOENabjBUNzJKMS1lYW5SN1A2bTRrU2hOTXpOUEszSEQ2aTZMeG95VXNMVFltUzNJWHNxbVpKZnAwOFVMQk1KNVFyRFJ4NmctZUMzYw?oc=5",
-   "summary": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-26T07:24:00+00:00",
-   "tickers": [
-    "TSM"
-   ],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8674,38 +8708,9 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "531474510355",
-   "title": "GDS Holdings Limited Reports Third Quarter 2026 Results",
-   "link": "https://www.nasdaq.com/articles/gds-holdings-limited-reports-third-quarter-2026-results",
-   "summary": "GDS Holdings Limited announced its unaudited financial results for the third quarter ended September 30, 2026. Net revenue for the period increased by 10.1% year-over-year to RMB3,180.1 million, compared with RMB2,887.1 million in the third quarter of 2025. Net income was RMB28.5",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-26T01:39:09+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "f80d56abe3c7",
-   "title": "Billionaire investor Todd Boehly talks plans to buy Lukoil's oil and gas assets outside Russia",
-   "link": "https://www.cnbc.com/video/2026/11/25/billionaire-investor-todd-boehly-talks-plans-to-buy-lukoils-oil-and-gas-assets-outside-russia.html",
-   "summary": "Todd Boehly, Eldridge Chairman and CEO, joins 'Power Lunch' to talk plans to acquire Lukoil's global assets.",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-26T01:38:57+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
-  "TSM": "Taiwan Semiconductor Manufacturing",
   "DB": "Deutsche Bank Aktiengesellschaft",
   "IBM": "International Business Machines",
   "CTSH": "Cognizant Technology Solutions",
@@ -8717,7 +8722,6 @@
   "HPE": "Hewlett Packard Enterprise",
   "IBIT": "iShares Bitcoin Trust ETF",
   "ICE": "Intercontinental Exchange",
-  "MDGL": "Madrigal Pharmaceuticals",
   "MPWR": "Monolithic Power Systems",
   "ALNY": "Alnylam Pharmaceuticals",
   "GS": "The Goldman Sachs Group",
@@ -8731,7 +8735,6 @@
   "PG": "The Procter & Gamble",
   "BBAI": "BigBear.ai Holdings",
   "IP": "International Paper",
-  "COGT": "Cogent Biosciences",
   "NXPI": "NXP Semiconductors",
   "SPOT": "Spotify Technology",
   "TT": "Trane Technologies",
@@ -8744,6 +8747,7 @@
   "MU": "Micron Technology",
   "OLED": "Universal Display",
   "AXP": "American Express",
+  "COST": "Costco Wholesale",
   "JPM": "JPMorgan Chase &",
   "SW": "Smurfit Westrock",
   "BAC": "Bank of America",
@@ -8769,7 +8773,6 @@
   "CSGP": "CoStar Group",
   "H": "Hyatt Hotels",
   "HL": "Hecla Mining",
-  "KGC": "Kinross Gold",
   "MO": "Altria Group",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
@@ -8815,7 +8818,7 @@
   "ZS": "Zscaler",
   "SPY": "SPY ETF",
   "ABBV": "AbbVie",
-  "LEN": "Lennar",
+  "KSS": "Kohl's",
   "AMGN": "Amgen",
   "FDX": "FedEx",
   "INTC": "Intel",
