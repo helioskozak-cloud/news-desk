@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T12:31:42.516610+00:00",
+ "generated": "2026-11-26T12:36:31.660574+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -28,6 +28,20 @@
    "published": "2026-11-26T12:30:00+00:00",
    "tickers": [],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7bb6ba9bd49e",
+   "title": "Everkind Wellness Inc. Completes Acquisition of Razroze Inc., Expanding Institutional Research Partnerships and AI Safety Capabilities | EKWIF Stock News",
+   "link": "https://www.stocktitan.net/news/EKWIF/everkind-wellness-inc-completes-acquisition-of-razroze-inc-expanding-mgvtjo1kn7wh.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-26T12:30:00+00:00",
+   "tickers": [],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3455,6 +3469,22 @@
    ],
    "type": "markets",
    "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4f43b98b01a0",
+   "title": "3 Dividend Stocks Wall Street Still Likes—Even After Their Recent Pullbacks",
+   "link": "https://www.marketbeat.com/articles/3-dividend-stocks-wall-street-still-likeseven-after-their-recent-pullbacks/",
+   "summary": "Silgan Holdings, Park Aerospace, and Suncor Energy offer dividend yields above 2%, Moderate Buy or better analyst ratings, and recent share price pullbacks that could signal rebound potential.",
+   "source": "MarketBeat",
+   "category": "stocks",
+   "domain": "marketbeat.com",
+   "published": "2026-11-26T06:35:00+00:00",
+   "tickers": [
+    "SU"
+   ],
+   "type": "dividend",
+   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8649,36 +8679,6 @@
    "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "29e7a8e911ed",
-   "title": "Vance serves up turkey and ‘unfiltered’ conversation to Air Force troops at an Ohio base - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUt2QXRiZ2JUdVlJTUZBNjVQUWRSOFh2UnlQTkJYcnB0TFhZaGJRMUM5RXdwRTVzNjBCcXNSeS12NWc4bXNBWEY2Y0xudmd2ZjQ0QUdhdkpRWDZFOHNqODFrZjlHM3pEUGlHWlFjM2N1UGVVY1pFdlBCRXU4c3phS2h4MFRXbnNqS0FpT0hfWW1hbmlWMTNiaTB4bmJUU0lVNFJjVVR3?oc=5",
-   "summary": "Vance serves up turkey and ‘unfiltered’ conversation to Air Force troops at an Ohio base&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-25T23:24:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "32f99b7c4d44",
-   "title": "Blackstone Private Equity Strategies Fund reports $573 million in unregistered unit sales",
-   "link": "https://www.investing.com/news/sec-filings/blackstone-private-equity-strategies-fund-reports-573-million-in-unregistered-unit-sales-93CH-5051729",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-25T23:23:49+00:00",
-   "tickers": [
-    "BX"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8734,6 +8734,7 @@
   "HSBC": "HSBC Holdings",
   "KO": "The Coca-Cola",
   "O": "Realty Income",
+  "SU": "Suncor Energy",
   "WFC": "Wells Fargo &",
   "CSGP": "CoStar Group",
   "H": "Hyatt Hotels",
@@ -8745,7 +8746,6 @@
   "MORN": "Morningstar",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
-  "BX": "Blackstone",
   "CLSK": "CleanSpark",
   "CVS": "CVS Health",
   "MNDY": "monday.com",
