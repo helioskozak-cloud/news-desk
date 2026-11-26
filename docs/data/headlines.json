@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T10:11:15.721852+00:00",
+ "generated": "2026-11-26T10:16:24.342260+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -1342,6 +1342,36 @@
    "source": "Stock Titan",
    "category": "stocks",
    "domain": "stocktitan.net",
+   "published": "2026-11-26T08:00:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "9de07223d640",
+   "title": "Bull of the Day: Kyndryl Holdings (KD)",
+   "link": "https://www.nasdaq.com/articles/bull-day-kyndryl-holdings-kd",
+   "summary": "Kyndryl Holdings stock, a 2021 IBM spinoff, has held up well amid the broader tech selloff as investors respond to improving profitability.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-26T08:00:00+00:00",
+   "tickers": [
+    "IBM"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "73aec788c8e8",
+   "title": "Bear of the Day: Hermes International (HESAY)",
+   "link": "https://www.nasdaq.com/articles/bear-day-hermes-international-hesay",
+   "summary": "U.S.-traded shares of Hermes International (HESAY) are down over 40% year to date, and more downside could be ahead.",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
    "published": "2026-11-26T08:00:00+00:00",
    "tickers": [],
    "type": "stocks",
@@ -5218,6 +5248,20 @@
    "tag_v": 2
   },
   {
+   "id": "35f6762987e6",
+   "title": "Almost 2,000 migrants arrive on Spain’s Canary Islands in a single day, breaking a record - AP News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa3Jzb2VHSk9lV2k4UlRIWXRJdHBSUzE5a2JjYjc0dWVIRlpmY0dmVjNCSGk5MktVREE1UnNXaHZEb2c2bUFBeV9Oa0tuR2JwYU1rYzdJYXNSVEt3dEJ3cHhnNzZxaFE2YjRJM1FISE0zQlNzWHhQMHRmaW10cGNxamJabUExME9sSFpqMHJpc19kTm9X?oc=5",
+   "summary": "Almost 2,000 migrants arrive on Spain’s Canary Islands in a single day, breaking a record&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-26T01:45:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "5adf591efe45",
    "title": "Arabica Coffee Recovers as Heavy Brazil Rains Spark Short Covering",
    "link": "https://www.nasdaq.com/articles/arabica-coffee-recovers-heavy-brazil-rains-spark-short-covering",
@@ -8664,48 +8708,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "f17af83fa774",
-   "title": "Cathay General Bancorp expands buyback program to $200M",
-   "link": "https://www.investing.com/news/company-news/cathay-general-bancorp-expands-buyback-program-to-200m-93CH-5051643",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-25T22:20:32+00:00",
-   "tickers": [],
-   "type": "dividend",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "47868421aca8",
-   "title": "Nvidia Sell-Off: You Won’t Believe How Cheap the Stock Is",
-   "link": "https://www.nasdaq.com/articles/nvidia-sell-you-wont-believe-how-cheap-stock",
-   "summary": "Key PointsNvidia may have some headline issues over the next few months, but its business is solid.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T22:20:02+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "1661599b2ef8",
-   "title": "Afya Limited Announces Results of Extraordinary General Meeting Held on November 25, 2026 | AFYA Stock News",
-   "link": "https://www.stocktitan.net/news/AFYA/afya-limited-announces-results-of-extraordinary-general-meeting-held-6ndux8p7qyg4.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-25T22:20:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8713,6 +8715,7 @@
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "DB": "Deutsche Bank Aktiengesellschaft",
+  "IBM": "International Business Machines",
   "BMNR": "Bitmine Immersion Technologies",
   "BTI": "British American Tobacco p.l.c",
   "CTSH": "Cognizant Technology Solutions",
