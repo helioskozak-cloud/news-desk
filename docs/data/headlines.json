@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-27T17:56:11.552984+00:00",
+ "generated": "2026-11-27T18:01:18.909683+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "df3bd4ab22ab",
+   "title": "It's not just REI, more retailers skip Black Friday",
+   "link": "https://www.thestreet.com/retail/its-not-just-rei-more-retailers-skip-black-friday",
+   "summary": "Only a few chains close, but others opt out of offering discounts.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-27T17:56:16+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "e9d56422a73b",
+   "title": "IDEX Metals Upsizes Non-Brokered Private Placement for up to $3,000,000 | IDXMF Stock News",
+   "link": "https://www.stocktitan.net/news/IDXMF/idex-metals-upsizes-non-brokered-private-placement-for-up-to-3-000-z57peatk8b0r.html",
+   "summary": "",
+   "source": "Stock Titan",
+   "category": "stocks",
+   "domain": "stocktitan.net",
+   "published": "2026-11-27T17:55:00+00:00",
+   "tickers": [
+    "IEX"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "e9e46b91ba40",
    "title": "SpaceX shares jump over 3% amid tech rally and after Musk says he will expand on Trump Account share donations",
@@ -2350,6 +2380,20 @@
     "AMZN"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "75f7c2cb54c9",
+   "title": "Canada’s Supreme Court largely upholds Quebec ban on religious symbols for public servants - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOE9BOWJaNlNZVUhPNE90VDU0SDNmbUxQNjZITWlkbEowX3E3d3RaRW1SVXVnbFlhVUh4RmNiUGJmckltOFpvb25PQkV6R05IVnRLNFpCbE1DYTRVenM4Z2I1eWdOeVVJcEdsMlJMYWlIYk4zeFJxYmZYWEI4RTUxNDk5YWxzQVZkdWExcFFkR0xpcUV1b0lMV08tNFlnWG1MZXV1RTZnWGg?oc=5",
+   "summary": "Canada’s Supreme Court largely upholds Quebec ban on religious symbols for public servants&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-27T15:59:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8849,50 +8893,6 @@
    "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "b12700069c1d",
-   "title": "Japan Tobacco shares surge on talk it may acquire part of Imperial",
-   "link": "https://www.investing.com/news/stock-market-news/japan-tobacco-shares-surge-on-talk-it-may-acquire-part-of-imperial-5053257",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-27T10:12:41+00:00",
-   "tickers": [],
-   "type": "ma",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "fdbd9487425d",
-   "title": "Trump demands probe of GDP data released before midterms",
-   "link": "https://www.investing.com/news/economy-news/trump-demands-probe-of-gdp-data-released-before-midterms-5052586",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-27T10:12:24+00:00",
-   "tickers": [],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "cb0b71b6c074",
-   "title": "Why is Texas Instruments stock climbing today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-texas-instruments-stock-climbing-today-93CH-5053256",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-27T10:12:23+00:00",
-   "tickers": [
-    "TXN"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8958,7 +8958,6 @@
   "MU": "Micron Technology",
   "POET": "POET Technologies",
   "SOFI": "SoFi Technologies",
-  "TXN": "Texas Instruments",
   "UBER": "Uber Technologies",
   "AMTM": "Amentum Holdings",
   "COST": "Costco Wholesale",
@@ -9045,6 +9044,7 @@
   "SAP": "SAP SE",
   "XPEV": "XPeng",
   "EBAY": "eBay",
+  "IEX": "IDEX",
   "IONQ": "IonQ",
   "MSCI": "MSCI",
   "OKLO": "Oklo"
