@@ -1,8 +1,25 @@
 {
- "generated": "2026-11-27T20:36:08.424181+00:00",
+ "generated": "2026-11-27T20:41:12.370508+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "68469488fbd7",
+   "title": "Stocks Supported by a Recovery in the AI Trade",
+   "link": "https://www.nasdaq.com/articles/stocks-supported-recovery-ai-trade",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.77% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.75%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.90%. December E-mini S&amp;P futures (ESZ26 ) are up +0.70%, and December E-mini Nasdaq 2futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T20:33:27+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "76ca0192955e",
    "title": "IRS makes a 2027 tax move that could change what Americans owe",
@@ -123,6 +140,36 @@
    "category": "stocks",
    "domain": "stocktitan.net",
    "published": "2026-11-27T20:20:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "c7a9047d8e80",
+   "title": "Opendoor Technologies Inc. Enters $300,000,000 At-The-Market Equity Offering Program",
+   "link": "https://www.nasdaq.com/articles/opendoor-technologies-inc-enters-300000000-market-equity-offering-program",
+   "summary": "Opendoor Technologies Inc. entered into a Sales Agreement on November 27, 2026, with Virtu Americas LLC, as sales agent and/or principal. Under the agreement, the company may offer and sell, from time to time at its sole discretion, up to an aggregate of $300,000,000 of shares of",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T20:19:10+00:00",
+   "tickers": [
+    "OPEN"
+   ],
+   "type": "offering",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "82081b7ad473",
+   "title": "AI Financial Corporation Reports Officer Transition and Fiscal Year Change",
+   "link": "https://www.nasdaq.com/articles/ai-financial-corporation-reports-officer-transition-and-fiscal-year-change",
+   "summary": "Effective November 23, 2026, Steven Plumb transitioned from his position as Chief Financial Officer of AI Financial Corporation to become the Chief Financial Officer of Drew Therapeutics Corporation, the biotechnology subsidiary that the issuer anticipates spinning off into a pub",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T20:19:10+00:00",
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
@@ -865,23 +912,6 @@
    "published": "2026-11-27T19:19:02+00:00",
    "tickers": [],
    "type": "offering",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "68469488fbd7",
-   "title": "Stocks Supported by a Recovery in the AI Trade",
-   "link": "https://www.nasdaq.com/articles/stocks-supported-recovery-ai-trade",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +0.77% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.75%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.90%. December E-mini S&amp;P futures (ESZ26 ) are up +0.70%, and December E-mini Nasdaq 2futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T19:15:12+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8883,34 +8913,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "c4128ca9ed93",
-   "title": "ZTEST Electronics Inc. Announces First Quarter Fiscal 2027 Results With 34.9% Revenue Growth and 39.2% Increase in Net Income | ZTSTF Stock News",
-   "link": "https://www.stocktitan.net/news/ZTSTF/ztest-electronics-inc-announces-first-quarter-fiscal-2027-results-8lon9gfemc21.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-27T12:30:00+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6263540cb713",
-   "title": "Jones Soda Co. Announces Proposed Voluntary Delisting from the Canadian Securities Exchange | JSDA Stock News",
-   "link": "https://www.stocktitan.net/news/JSDA/jones-soda-co-announces-proposed-voluntary-delisting-from-the-7mfkg8k5ggsr.html",
-   "summary": "",
-   "source": "Stock Titan",
-   "category": "stocks",
-   "domain": "stocktitan.net",
-   "published": "2026-11-27T12:30:00+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8956,6 +8958,7 @@
   "EFA": "iShares MSCI EAFE ETF",
   "LHX": "L3Harris Technologies",
   "NVTS": "Navitas Semiconductor",
+  "OPEN": "Opendoor Technologies",
   "PLTR": "Palantir Technologies",
   "CEG": "Constellation Energy",
   "MCHP": "Microchip Technology",
