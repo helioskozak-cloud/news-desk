@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-27T17:36:10.284426+00:00",
+ "generated": "2026-11-27T17:41:33.651132+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "e89bf159e85f",
+   "title": "Dow rallies 500 points as benchmark heads for best week since October 2022: Live updates",
+   "link": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+   "summary": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-27T17:40:03+00:00",
+   "tickers": [],
+   "type": "markets",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ab36bc5a2f42",
+   "title": "Mall retailer with 88-year history closes huge key store, cuts jobs",
+   "link": "https://www.thestreet.com/retail/88-year-old-mall-retailer-dillards-closes-key-50000-sq-ft-store-cuts-jobs",
+   "summary": "Shoppers have limited days left to grab 50% discounts at the Dillard's clearance hub before the entire property changes.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-27T17:37:00+00:00",
+   "tickers": [
+    "DDS"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
   {
    "id": "1cb6b8e6f48e",
    "title": "Why Is IonQ Stock Surging on Friday?",
@@ -34,17 +64,127 @@
    "tag_v": 2
   },
   {
-   "id": "e89bf159e85f",
-   "title": "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
-   "link": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-   "summary": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-27T17:24:22+00:00",
+   "id": "b41f925eedcc",
+   "title": "ARKK, BCOM: Big ETF Outflows",
+   "link": "https://www.nasdaq.com/articles/arkk-bcom-big-etf-outflows",
+   "summary": "Looking at units outstanding versus one week prior within the universe of ETFs covered at ETF Channel, the biggest outflow was seen in the ARK Innovation ETF, where 42,300,000 units were destroyed, or a 29.2% decrease week over week. Among the largest underlying components of A",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:25:49+00:00",
+   "tickers": [
+    "ARKK"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "686de0bff6b9",
+   "title": "SOXL, LQDM: Big ETF Inflows",
+   "link": "https://www.nasdaq.com/articles/soxl-lqdm-big-etf-inflows",
+   "summary": "Comparing units outstanding versus one week ago at the coverage universe of ETFs at ETF Channel, the biggest inflow was seen in the Direxion Daily Semiconductor Bull 3X ETF, which added 105,950,000 units, or a 36.4% increase week over week. Among the largest underlying componen",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:25:36+00:00",
+   "tickers": [
+    "SOXL"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "a284d9565149",
+   "title": "Cotton Rallying out of Thanksgiving Break",
+   "link": "https://www.nasdaq.com/articles/cotton-rallying-out-thanksgiving-break",
+   "summary": "Cotton prices are trading with 112 to 115 point gains on Friday morning. Futures saw buying heading into the Thanksgiving break, with contracts up 38 to 95 points at the close. Crude oil was up $2.10 per barrel on the session to $84.15, with the US dollar index $0.094 lower...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:24:21+00:00",
    "tickers": [],
-   "type": "markets",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "b8fc7a9120a9",
+   "title": "Corn Traders Look to Come Back from Thanksgiving Break",
+   "link": "https://www.nasdaq.com/articles/corn-traders-look-come-back-thanksgiving-break",
+   "summary": "Corn futures headed into the Thanksgiving break with contracts 3 ¼ to 6 ¼ cents higher across the board on Wednesday, as shorts were taking money out ahead of the break. Trade will resume at 8:30 am CST this morning and close early. Open interest was down 45,286 contracts on...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:24:21+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "14b47ff70327",
+   "title": "Cotton Post Gains in Pre-Thanksgiving Trade",
+   "link": "https://www.nasdaq.com/articles/cotton-post-gains-pre-thanksgiving-trade",
+   "summary": "Cotton futures saw buying heading into the Thanksgiving break, with contracts up 38 to 95 points at the close. Crude oil was up $2.10 per barrel on the session to $84.15, with the US dollar index $0.094 lower on the day. The market will be closed on Thursday for Thanksgiving,...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:24:21+00:00",
+   "tickers": [],
+   "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "f494f7fcfa0a",
+   "title": "Sugar Prices Rally on Expectations of a Smaller Sugar Crop in India",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-rally-expectations-smaller-sugar-crop-india",
+   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.68 (+3.85%) on Wednesday, and March London ICE white sugar #5 (SWH27 ) closed up +16.00 (+3.19%). Sugar prices rallied sharply to 1.5-week highs on Wednesday on the outlook for smaller sugar production in India, the world’s second-largest sugar producer. The...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:24:20+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "f2b3ee721d79",
+   "title": "Nasdaq 100 Movers: VRTX, HONIV",
+   "link": "https://www.nasdaq.com/articles/nasdaq-100-movers-vrtx-honiv",
+   "summary": "In early trading on Friday, shares of Honeywell International topped the list of the day's best performing components of the Nasdaq 100 index, trading up 7.5%. Year to date, Honeywell International registers a 42.2% gain. And the worst performing Nasdaq 100 component thus far",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:22:36+00:00",
+   "tickers": [
+    "HON",
+    "VRTX"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "49dea3842c11",
+   "title": "S&P 500 Movers: VRTX, COHR",
+   "link": "https://www.nasdaq.com/articles/sp-500-movers-vrtx-cohr",
+   "summary": "In early trading on Friday, shares of Coherent topped the list of the day's best performing components of the S&amp;P 500 index, trading up 7.7%. Year to date, Coherent registers a 14.5% gain. And the worst performing S&amp;P 500 component thus far on the day is Vertex Pharmac",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:21:29+00:00",
+   "tickers": [
+    "VRTX",
+    "COHR"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -61,6 +201,111 @@
    ],
    "type": "upgrade",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "bdd37ac89e13",
+   "title": "Ex-Div Reminder for Mesa Laboratories (MLAB)",
+   "link": "https://www.nasdaq.com/articles/ex-div-reminder-mesa-laboratories-mlab",
+   "summary": "Looking at the universe of stocks we cover at Dividend Channel, on 11/30/26, Mesa Laboratories, Inc. (Symbol: MLAB) will trade ex-dividend, for its quarterly dividend of $0.16, payable on 12/15/26. As a percentage of MLAB's recent stock price of $136.50, this dividend works out",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:20:35+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "660e89385e3d",
+   "title": "Dow Movers: NVDA, HONIV",
+   "link": "https://www.nasdaq.com/articles/dow-movers-nvda-honiv-11",
+   "summary": "In early trading on Friday, shares of Honeywell International topped the list of the day's best performing Dow Jones Industrial Average components, trading up 7.5%. Year to date, Honeywell International registers a 42.2% gain. And the worst performing Dow component thus far on",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:20:12+00:00",
+   "tickers": [
+    "HON",
+    "NVDA"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "efaa520f4bd2",
+   "title": "MCRI Ex-Dividend Reminder - 12/1/26",
+   "link": "https://www.nasdaq.com/articles/mcri-ex-dividend-reminder-12-1-26",
+   "summary": "Looking at the universe of stocks we cover at Dividend Channel, on 12/1/26, Monarch Casino &amp; Resort, Inc. (Symbol: MCRI) will trade ex-dividend, for its quarterly dividend of $0.30, payable on 12/15/26. As a percentage of MCRI's recent stock price of $105.11, this dividend",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:19:13+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "52cb0a073010",
+   "title": "See How Kaiser Aluminum Ranks Among Analysts' Top Metals Picks",
+   "link": "https://www.nasdaq.com/articles/see-how-kaiser-aluminum-ranks-among-analysts-top-metals-picks",
+   "summary": "A study of analyst recommendations at the major brokerages shows that Kaiser Aluminum Corp. (Symbol: KALU) is the #32 broker analyst pick, on average, out of the 50 stocks making up the Metals Channel Global Mining Titans Index, according to Metals Channel. The Metals Channel G",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:19:09+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c673f5c701f4",
+   "title": "SBGI Ex-Dividend Reminder - 12/1/26",
+   "link": "https://www.nasdaq.com/articles/sbgi-ex-dividend-reminder-12-1-26",
+   "summary": "Looking at the universe of stocks we cover at Dividend Channel, on 12/1/26, Sinclair Inc (Symbol: SBGI) will trade ex-dividend, for its quarterly dividend of $0.25, payable on 12/15/26. As a percentage of SBGI's recent stock price of $15.34, this dividend works out to approxima",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:19:05+00:00",
+   "tickers": [],
+   "type": "dividend",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "d8e8f3b6e3ad",
+   "title": "Northrop Grumman About To Put More Money In Your Pocket (NOC)",
+   "link": "https://www.nasdaq.com/articles/northrop-grumman-about-put-more-money-your-pocket-noc",
+   "summary": "Looking at the universe of stocks we cover at Dividend Channel, on 11/30/26, Northrop Grumman Corp (Symbol: NOC) will trade ex-dividend, for its quarterly dividend of $2.47, payable on 12/16/26. As a percentage of NOC's recent stock price of $561.39, this dividend works out to",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:19:00+00:00",
+   "tickers": [
+    "NOC"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "0c328c0ee33d",
+   "title": "British American Tobacco p.l.c. discloses transactions by persons discharging managerial responsibilities",
+   "link": "https://www.nasdaq.com/articles/british-american-tobacco-plc-discloses-transactions-persons-discharging-managerial-0",
+   "summary": "British American Tobacco p.l.c. filed a report detailing transactions by persons discharging managerial responsibilities and persons closely associated with them. Non-Executive Director Matthew Wright acquired 72 ordinary shares of 25p each on 2026-11-23 at a price of &pound;46.4",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:18:57+00:00",
+   "tickers": [
+    "BTI"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2337,20 +2582,6 @@
    "tag_v": 2
   },
   {
-   "id": "a284d9565149",
-   "title": "Cotton Rallying out of Thanksgiving Break",
-   "link": "https://www.nasdaq.com/articles/cotton-rallying-out-thanksgiving-break",
-   "summary": "Cotton prices are trading with 112 to 115 point gains on Friday morning. Futures saw buying heading into the Thanksgiving break, with contracts up 38 to 95 points at the close. Crude oil was up $2.10 per barrel on the session to $84.15, with the US dollar index $0.094 lower...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T15:30:16+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "a95bd540b570",
    "title": "Cattle Traders Look to Closer Out the Week",
    "link": "https://www.nasdaq.com/articles/cattle-traders-look-closer-out-week",
@@ -2866,20 +3097,6 @@
    "tag_v": 2
   },
   {
-   "id": "b8fc7a9120a9",
-   "title": "Corn Traders Look to Come Back from Thanksgiving Break",
-   "link": "https://www.nasdaq.com/articles/corn-traders-look-come-back-thanksgiving-break",
-   "summary": "Corn futures headed into the Thanksgiving break with contracts 3 ¼ to 6 ¼ cents higher across the board on Wednesday, as shorts were taking money out ahead of the break. Trade will resume at 8:30 am CST this morning and close early. Open interest was down 45,286 contracts on...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T15:11:14+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "ec9ccf925eb1",
    "title": "Corn Rallies into Thanksgiving Break",
    "link": "https://www.nasdaq.com/articles/corn-rallies-thanksgiving-break",
@@ -3077,20 +3294,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "14b47ff70327",
-   "title": "Cotton Post Gains in Pre-Thanksgiving Trade",
-   "link": "https://www.nasdaq.com/articles/cotton-post-gains-pre-thanksgiving-trade",
-   "summary": "Cotton futures saw buying heading into the Thanksgiving break, with contracts up 38 to 95 points at the close. Crude oil was up $2.10 per barrel on the session to $84.15, with the US dollar index $0.094 lower on the day. The market will be closed on Thursday for Thanksgiving,...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T15:05:45+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
    "tag_v": 2
   },
   {
@@ -8682,200 +8885,13 @@
    "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "60199f79dad5",
-   "title": "Here’s what to know about Noboa’s strategy to fight record violence in Ecuador - AP News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkRDbWZHdUI5NFZaQ1RBaWtVTTdhQnh5VDNta1F6aVpoTFAxUWdUR0loMkItU1M3REgzcGhhV3NTUWh0T1p1cmdEa2xaNmt1OHpxemFVaU82X0lRbkwycmMySWIyXzlzVlktdkU2NkpieDE0eFNKVDEyMEMyMjhaeWdHRHFiNXRTVGlBLWhaZXRTcS1XUUR1dzBEQQ?oc=5",
-   "summary": "Here’s what to know about Noboa’s strategy to fight record violence in Ecuador&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-27T10:00:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "3d8adc9c557a",
-   "title": "Why is Vertex Pharmaceuticals stock sliding today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-vertex-pharmaceuticals-stock-sliding-today-93CH-5053216",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-27T09:59:29+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "2c758b26d4c5",
-   "title": "Marc Marquez announces immediate MotoGP retirement at Valencia GP",
-   "link": "https://www.investing.com/news/company-news/marc-marquez-announces-immediate-motogp-retirement-at-valencia-gp-93CH-5053215",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-27T09:58:25+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "eb81172c47b9",
-   "title": "Bekaert Q3 2026 slides: sales jump 8%, guidance raised, Dextra deal unveiled",
-   "link": "https://www.investing.com/news/company-news/bekaert-q3-2026-slides-sales-jump-8-guidance-raised-dextra-deal-unveiled-93CH-5053214",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-27T09:58:02+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "cf9c20da8ca2",
-   "title": "Earnings call transcript: ReFuels posts stronger H1 2026 EBITDA as station business turns profitable",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-refuels-posts-stronger-h1-2026-ebitda-as-station-business-turns-profitable-93CH-5053213",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-27T09:57:33+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "4fae4d42bc11",
-   "title": "Why is Rheinmetall stock climbing today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-rheinmetall-stock-climbing-today-93CH-5053206",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-27T09:56:53+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "0e70a6a4b3e0",
-   "title": "South Korea may double its market stabilization fund to KRW40trn: report",
-   "link": "https://www.investing.com/news/stock-market-news/south-korea-may-double-its-market-stabilization-fund-to-krw40trn-report-93CH-5053200",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-27T09:54:06+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "af3a8f2d903b",
-   "title": "Elia raises 2026 net income guidance across all divisions",
-   "link": "https://www.investing.com/news/stock-market-news/elia-raises-2026-net-income-guidance-across-all-divisions-93CH-5053198",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-27T09:52:17+00:00",
-   "tickers": [],
-   "type": "earnings",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "e5e110254007",
-   "title": "Why is Bekaert stock surging today?",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-bekaert-stock-surging-today-93CH-5053191",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-27T09:46:39+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "eb67cf73ea55",
-   "title": "Spain Votes: Will Sanchez's big gamble pay off?",
-   "link": "https://www.cnbc.com/video/2026/11/27/spain-election-preview-sanchez-feijoo-vox.html",
-   "summary": "Spain heads to the polls this Sunday in a snap general election that could end eight years of Socialist-led government and potentially bring the far-right into power for the first time in the country's modern democratic history. CNBC's Charlotte Reed reports.",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-27T09:44:38+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a718196269eb",
-   "title": "D-Wave Quantum Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - QBTS",
-   "link": "https://www.prnewswire.com/news-releases/d-wave-quantum-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--qbts-302951582.html",
-   "summary": "NEW YORK, Nov. 27, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against D-Wave Quantum Inc. (\"D-Wave\" or \"the Company\") (NASDAQ: QBTS) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder by...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-27T09:44:00+00:00",
-   "tickers": [
-    "QBTS"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "5401bc403d42",
-   "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit with SBS Law",
-   "link": "https://www.prnewswire.com/news-releases/qbts-investors-have-opportunity-to-lead-d-wave-quantum-inc-securities-fraud-lawsuit-with-sbs-law-302951578.html",
-   "summary": "LOS ANGELES, Nov. 27, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, reminds investors of a class action lawsuit against D-Wave Quantum Inc. (\"D-Wave\" or \"the Company\") (NASDAQ: QBTS) for violations of §§10(b) and 20(a) of the...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "domain": "prnewswire.com",
-   "published": "2026-11-27T09:43:00+00:00",
-   "tickers": [
-    "QBTS"
-   ],
-   "type": "legal",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "6ae9a99ea72d",
-   "title": "EM equity funds pull in $36.7B, led by China and Taiwan ETFs",
-   "link": "https://www.investing.com/news/stock-market-news/em-equity-funds-pull-in-367b-led-by-china-and-taiwan-etfs-93CH-5053187",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-27T09:41:23+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
   "IDEV": "iShares Core MSCI International Developed Markets ETF",
   "XLK": "State Street Technology Select Sector SPDR ETF",
   "XLF": "State Street Financial Select Sector SPDR ETF",
+  "SOXL": "Direxion Daily Semiconductor Bull 3X Shares",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "SMX": "SMX (Security Matters) Public Limited",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
@@ -8888,6 +8904,7 @@
   "QSR": "Restaurant Brands International",
   "TIGO": "Millicom International Cellular",
   "BR": "Broadridge Financial Solutions",
+  "BTI": "British American Tobacco p.l.c",
   "CCEP": "Coca-Cola Europacific Partners",
   "GBTC": "Grayscale Bitcoin Trust (BTC)",
   "QQQ": "Invesco QQQ Trust, Series 1",
@@ -8902,6 +8919,7 @@
   "SMH": "VanEck Semiconductor ETF",
   "CHRW": "C.H. Robinson Worldwide",
   "GS": "The Goldman Sachs Group",
+  "HON": "Honeywell International",
   "AMD": "Advanced Micro Devices",
   "VRTX": "Vertex Pharmaceuticals",
   "WBD": "Warner Bros. Discovery",
@@ -8913,6 +8931,7 @@
   "PG": "The Procter & Gamble",
   "IP": "International Paper",
   "LULU": "lululemon athletica",
+  "ARKK": "ARK Innovation ETF",
   "BRK-A": "Berkshire Hathaway",
   "LUV": "Southwest Airlines",
   "MPC": "Marathon Petroleum",
@@ -8934,6 +8953,7 @@
   "AMTM": "Amentum Holdings",
   "COST": "Costco Wholesale",
   "JPM": "JPMorgan Chase &",
+  "NOC": "Northrop Grumman",
   "ANET": "Arista Networks",
   "APLD": "Applied Digital",
   "ARES": "Ares Management",
@@ -8982,6 +9002,7 @@
   "BC": "Brunswick",
   "C": "Citigroup",
   "CME": "CME Group",
+  "DDS": "Dillard's",
   "ADBE": "Photoshop",
   "AVGO": "Broadcom",
   "BP": "BP p.l.c",
