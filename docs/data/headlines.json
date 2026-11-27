@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T18:16:12.770585+00:00",
+ "generated": "2026-11-27T18:21:33.465201+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -43,6 +43,22 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "c71bbe6a6bc2",
+   "title": "Qualcomm, Cava, and Dutch Bros Earnings and a Robotics IPO",
+   "link": "https://www.nasdaq.com/articles/qualcomm-cava-and-dutch-bros-earnings-and-robotics-ipo",
+   "summary": "In this podcast, Motley Fool contributors Jon Quast, Tyler Crowe, and Matt Frankel discuss:",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T18:06:02+00:00",
+   "tickers": [
+    "BROS"
+   ],
+   "type": "earnings",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -120,36 +136,16 @@
    "tag_v": 2
   },
   {
-   "id": "217abbebe63a",
-   "title": "Stocks Rally as a Rebound in the AI Trade Gathers Pace",
-   "link": "https://www.nasdaq.com/articles/stocks-rally-rebound-ai-trade-gathers-pace",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +1.14% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.97%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +1.71%. December E-mini S&amp;P futures (ESZ26 ) are up +1.20%, and December E-mini Nasdaq 2futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "id": "1d92974f6494",
+   "title": "Nvidia’s Key Man Problem",
+   "link": "https://www.nasdaq.com/articles/nvidias-key-man-problem",
+   "summary": "Editor's note: This podcast was recorded before Anthropic started trading and before Jensen Huang left, and then returned to, the Nvidia CEO role.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "domain": "nasdaq.com",
-   "published": "2026-11-27T18:00:30+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "04ea84b17f27",
-   "title": "Stock Indices Finish Off Their Lows as Dip Buyers Step In",
-   "link": "https://www.nasdaq.com/articles/stock-indices-finish-their-lows-dip-buyers-step",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -0.25% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.33%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.64%. December E-mini S&amp;P futures (ESZ26 ) fell -0.27%, and December E-mini Nasdaq...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T18:00:30+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
+   "published": "2026-11-27T18:01:02+00:00",
+   "tickers": [],
+   "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -420,6 +416,23 @@
    "tag_v": 2
   },
   {
+   "id": "217abbebe63a",
+   "title": "Stocks Rally as a Rebound in the AI Trade Gathers Pace",
+   "link": "https://www.nasdaq.com/articles/stocks-rally-rebound-ai-trade-gathers-pace",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) is up +1.14% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.97%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +1.71%. December E-mini S&amp;P futures (ESZ26 ) are up +1.20%, and December E-mini Nasdaq 2futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:44:45+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "68469488fbd7",
    "title": "Stocks Supported by a Recovery in the AI Trade",
    "link": "https://www.nasdaq.com/articles/stocks-supported-recovery-ai-trade",
@@ -428,6 +441,23 @@
    "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-27T17:44:45+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "04ea84b17f27",
+   "title": "Stock Indices Finish Off Their Lows as Dip Buyers Step In",
+   "link": "https://www.nasdaq.com/articles/stock-indices-finish-their-lows-dip-buyers-step",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed down by -0.25% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.33%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.64%. December E-mini S&amp;P futures (ESZ26 ) fell -0.27%, and December E-mini Nasdaq...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T17:44:44+00:00",
    "tickers": [
     "SPY",
     "QQQ"
@@ -791,14 +821,14 @@
    "title": "Friday 11/27 Insider Buying Report: FUN, MNTS",
    "link": "https://www.nasdaq.com/articles/friday-11-27-insider-buying-report-fun-mnts",
    "summary": "As the saying goes, there are many possible reasons for an insider to sell a stock, but only one reason to buy -- they expect to make money. So let's look at two noteworthy recent insider buys. At Six Flags Entertainment, a filing with the SEC revealed that on Monday, Director",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-27T17:27:55+00:00",
    "tickers": [
     "MNTS"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -821,14 +851,14 @@
    "title": "ARKK, BCOM: Big ETF Outflows",
    "link": "https://www.nasdaq.com/articles/arkk-bcom-big-etf-outflows",
    "summary": "Looking at units outstanding versus one week prior within the universe of ETFs covered at ETF Channel, the biggest outflow was seen in the ARK Innovation ETF, where 42,300,000 units were destroyed, or a 29.2% decrease week over week. Among the largest underlying components of A",
-   "source": "NASDAQ Markets",
-   "category": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
    "domain": "nasdaq.com",
    "published": "2026-11-27T17:25:49+00:00",
    "tickers": [
     "ARKK"
    ],
-   "type": "markets",
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8852,36 +8882,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "b5950cd88467",
-   "title": "Centrica warns hundreds of Rough gas jobs at risk as ministers stall - report",
-   "link": "https://www.investing.com/news/stock-market-news/centrica-warns-hundreds-of-rough-gas-jobs-at-risk-as-ministers-stall--report-5053291",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "domain": "investing.com",
-   "published": "2026-11-27T10:46:12+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "58cf5883040f",
-   "title": "IonQ's QKD Systems Pass IDEMIA Validation for Critical Communications",
-   "link": "https://www.nasdaq.com/articles/ionqs-qkd-systems-pass-idemia-validation-critical-communications",
-   "summary": "IONQ's QKD systems pass IDEMIA validation, strengthening its quantum-safe security strategy as cybersecurity customers and market opportunities expand.",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T10:46:00+00:00",
-   "tickers": [
-    "IONQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8991,6 +8991,7 @@
   "TGT": "Target Corp",
   "BA": "The Boeing",
   "BN": "Brookfield",
+  "BROS": "Dutch Bros",
   "ERO": "Ero Copper",
   "F": "Ford Motor",
   "MCD": "McDonald's",
