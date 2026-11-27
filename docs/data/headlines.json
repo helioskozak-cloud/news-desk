@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:51:11.226301+00:00",
+ "generated": "2026-11-27T14:56:18.090414+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -11,10 +11,26 @@
    "source": "CNBC Top",
    "category": "markets",
    "domain": "cnbc.com",
-   "published": "2026-11-27T14:50:03+00:00",
+   "published": "2026-11-27T14:55:13+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ffd826ee981d",
+   "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+   "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+   "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "domain": "cnbc.com",
+   "published": "2026-11-27T14:52:40+00:00",
+   "tickers": [
+    "SAP"
+   ],
+   "type": "markets",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -114,6 +130,20 @@
    "published": "2026-11-27T14:38:33+00:00",
    "tickers": [],
    "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "4a0f11d6894f",
+   "title": "Fire Sale: Here's Why Now May Be the Perfect Time to Buy Nvidia Stock",
+   "link": "https://www.nasdaq.com/articles/fire-sale-heres-why-now-may-be-perfect-time-buy-nvidia-stock",
+   "summary": "Key PointsNvidia's price is not compatible with its growth.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T14:38:02+00:00",
+   "tickers": [],
+   "type": "ma",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -3733,22 +3763,6 @@
    "tag_v": 2
   },
   {
-   "id": "ffd826ee981d",
-   "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
-   "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
-   "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-27T11:49:18+00:00",
-   "tickers": [
-    "SAP"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "ad5a05b75ef2",
    "title": "Wedbush cyber recap",
    "link": "https://www.investing.com/news/stock-market-news/wedbush-cyber-recap-93CH-5053360",
@@ -6419,6 +6433,22 @@
    "tag_v": 2
   },
   {
+   "id": "c69b548c3949",
+   "title": "Dollar General Is Winning Wealthier Shoppers as Its Core Customers Cut Back",
+   "link": "https://www.marketbeat.com/articles/dollar-general-is-winning-wealthier-shoppers-as-its-core-customers-cut-back/",
+   "summary": "Dollar General's Q2 earnings beat estimates as higher-income shoppers traded down, but core customers remain financially strained, leaving analysts with a cautious Hold rating on the stock.",
+   "source": "MarketBeat",
+   "category": "stocks",
+   "domain": "marketbeat.com",
+   "published": "2026-11-27T08:55:00+00:00",
+   "tickers": [
+    "DG"
+   ],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
    "id": "f47cfe6a5ffa",
    "title": "China Unicom posouvá hodnocení autonomních sítí. Jako první dokončila standardizované testování v reálném provozu",
    "link": "https://www.prnewswire.com/news-releases/china-unicom-posouva-hodnoceni-autonomnich-siti-jako-prvni-dokonila-standardizovane-testovani-v-realnem-provozu-302951642.html",
@@ -8135,20 +8165,6 @@
    "tag_v": 2
   },
   {
-   "id": "9ed0bf9946e6",
-   "title": "Schottenheimer defends 4th-down call before Eagles' 59-yard FG in 39-38 stunner over Cowboys - AP News",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRm9nckJ6Q1RsQUx3UDNMb3lZazZ2S1BWNWVjeERSSWg2SjRxUkxoZi0zSVhsQ1ItME9nbjBwQVQ0QXZXQlJDMmlBQkxldHFqZDhqY2x2MmlrTG5UWi1WNDJYSno0VnhJU0M4cmVXbmxIbVhtSHR0MS1KT1ByNm5ncHN5VVZ6bWM?oc=5",
-   "summary": "Schottenheimer defends 4th-down call before Eagles' 59-yard FG in 39-38 stunner over Cowboys&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-27T05:20:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "019c411dbc46",
    "title": "Ambiq Micro CEO Fumihide Esaka sells $5.28M in company stock",
    "link": "https://www.investing.com/news/insider-trading-news/ambiq-micro-ceo-fumihide-esaka-sells-528m-in-company-stock-93CH-5052909",
@@ -8792,20 +8808,6 @@
    "category": "markets",
    "domain": "nasdaq.com",
    "published": "2026-11-27T03:22:36+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "6c169002ba73",
-   "title": "Nvidia Is Down 35% From Its All-Time High, Tied for Its Biggest Drop Since the AI Boom Began. Is It a Buy?",
-   "link": "https://www.nasdaq.com/articles/nvidia-down-35-its-all-time-high-tied-its-biggest-drop-ai-boom-began-it-buy",
-   "summary": "Key PointsJensen Huang has built Nvidia into an empire with a wide moat.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T03:20:02+00:00",
    "tickers": [],
    "type": "markets",
    "sentiment": "neutral",
