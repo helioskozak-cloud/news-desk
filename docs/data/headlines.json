@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-27T23:26:06.186388+00:00",
+ "generated": "2026-11-27T23:31:27.969476+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "006e00e66a3e",
+   "title": "The North Face has a $75 quarter-zip pullover in 10 colors for 30% off at Amazon",
+   "link": "https://www.thestreet.com/deals/the-north-face-fleece-quarter-zip-amazon-sale",
+   "summary": "\"I’ve had this for months, and there is no sign of deterioration or pilling.\"",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-27T23:30:00+00:00",
+   "tickers": [
+    "AMZN"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "ac67de8b6cc5",
    "title": "Saba Capital sells $8,031 in PIMCO Dynamic Income Strategy Fund",
@@ -18,48 +34,6 @@
    "tag_v": 2
   },
   {
-   "id": "727a15f11e31",
-   "title": "Hogs Close with Gains on Short Friday Session",
-   "link": "https://www.nasdaq.com/articles/hogs-close-gains-short-friday-session",
-   "summary": "Lean hog futures posted gains of 57 cents to $1.05 across the board on Friday, finding some strength on the short Friday session. December was still down $1.35 on the week. USDA’s national base hog price was reported at $33.37 on Friday afternoon, down 24 cents from the day prior....",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:17:32+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "14d77573c1a4",
-   "title": "Cattle Rally Out of Thanksgiving with Friday Gains",
-   "link": "https://www.nasdaq.com/articles/cattle-rally-out-thanksgiving-friday-gains",
-   "summary": "Live Cattle futures closed with Friday gains of 87 cents to $1.45 on the short session, with December up $1.35 on the week. Cash trade has seen very light trade at $355 dressed in the north this week, with live sales of $222. Southern business was up to $224. Feeder...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:17:32+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "ef335ba4528d",
-   "title": "Soybeans Rally on the Short Friday Session",
-   "link": "https://www.nasdaq.com/articles/soybeans-rally-short-friday-session",
-   "summary": "Soybeans shot higher on the hard 8:30 am CST open, with contracts 18 1/4 to 23 1/4 cents higher at Friday’s close, with the weekly gain at 45 ½ cents. The cmdtyView national average Cash Bean price was up 21 3/4 cents at $12.09 1/4. Soymeal futures rallied $3.80 to...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:17:32+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
    "id": "1534b2533895",
    "title": "Cotton Rallies on the Short Friday Session",
    "link": "https://www.nasdaq.com/articles/cotton-rallies-short-friday-session",
@@ -71,80 +45,6 @@
    "tickers": [],
    "type": "stocks",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "b18c1b523945",
-   "title": "Corn Bulls Rally on the Post-Thanksgiving Session",
-   "link": "https://www.nasdaq.com/articles/corn-bulls-rally-post-thanksgiving-session",
-   "summary": "Corn futures gapped higher at the hard open, with contracts closing with gains of 3 to 7 cents, as December was up 12 ¼ cents on the week. The CmdtyView national average Cash Corn price was up 7 3/4 cents at $4.18 1/4. First Notice Day for December is on...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:17:31+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "9e2d24438bf0",
-   "title": "Crude Prices Retreat on Possible Increase in OPEC Crude Output",
-   "link": "https://www.nasdaq.com/articles/crude-prices-retreat-possible-increase-opec-crude-output",
-   "summary": "January WTI crude oil (CLF27 ) closed down -0.60 (-0.72%) on Friday, and January RBOB gasoline (RBF27 ) closed up +0.0066 (+0.27%). Crude oil and gasoline prices gave up an early advance on Friday and settled mixed. Dollar strength on Friday weighed on energy prices. Also, the outlook for higher...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:17:31+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "19341a146905",
-   "title": "Nat-Gas Prices Tumble on Warm US Weather Forecasts",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-tumble-warm-us-weather-forecasts",
-   "summary": "January Nymex natural gas (NGF27 ) closed down -0.167 (-4.57%) on Friday. Jan nat-gas prices settled sharply lower on Friday as forecasts pointed to above-normal US temperatures for the first half of December, potentially reducing heating demand for nat-gas. The Commodity Weather Group said Friday that forecasts trended warmer, with...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:17:31+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "negative",
-   "tag_v": 2
-  },
-  {
-   "id": "9ce449fd0291",
-   "title": "Supply Woes Push Cocoa Prices to 3-Week Highs",
-   "link": "https://www.nasdaq.com/articles/supply-woes-push-cocoa-prices-3-week-highs",
-   "summary": "March ICE NY cocoa (CCH27 ) closed up +65 (+1.20%) on Friday, and ICE London cocoa #7 (CAZ26 ) closed up +62 (+1.54%). Cocoa prices extended this week’s rally on Friday and posted 3-week highs amid reduced cocoa shipments from the Ivory Coast. Ivory Coast government data on Monday showed...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:17:31+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "d4bee18ee037",
-   "title": "Brazilian Real Strength Lifts Coffee Prices",
-   "link": "https://www.nasdaq.com/articles/brazilian-real-strength-lifts-coffee-prices",
-   "summary": "March arabica coffee (KCH26 ) closed up +5.55 (+2.06%) on Friday, and January ICE robusta coffee (RMF27 ) closed up +89 (+3.12%). Coffee prices settled sharply higher on Friday and posted 1-week highs. Short covering emerged in coffee futures Friday after the Brazilian real (^USDBRL ) rallied to a 2.5-week...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:17:31+00:00",
-   "tickers": [
-    "ICE"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -206,17 +106,17 @@
    "tag_v": 2
   },
   {
-   "id": "ead6f2b91915",
-   "title": "Wheat Round Out Post-Thanksgiving Trade with Gains",
-   "link": "https://www.nasdaq.com/articles/wheat-round-out-post-thanksgiving-trade-gains",
-   "summary": "The wheat complex was higher across three exchanges on Friday’s short session. Chicago SRW futures were 1 to 4 1/4 cents higher on Friday with December slipping 7 ¾ cents this week. KC wheat futures were 3 ¼ to 6 ¼ cents higher at the close, with December 16 ½...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:13:10+00:00",
+   "id": "057a1d63e4ad",
+   "title": "Parts of the US clean up, power being restored after Thanksgiving storm soaks East Coast - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjRuNThwR0c4LU54RVBVM3kzcFFCOGFmR0szVnA2SUI1aW55bTMtWWlvZ1FYLUVLZmNEYk1HM2ZGZmotc09Wck9ySldYcW9zTWZaeUw5eFVoNUxrcFo0aDNmejFnbzkwTmNhRDUyamhlWHpWNTFwb1BiRUlqV0ZMUllxV3lnU2NzYnlfSUhNWUVyV09WcE9wN0pmeGp5d011djRj?oc=5",
+   "summary": "Parts of the US clean up, power being restored after Thanksgiving storm soaks East Coast&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-27T23:11:00+00:00",
    "tickers": [],
-   "type": "stocks",
-   "sentiment": "positive",
+   "type": "macro",
+   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -262,6 +162,136 @@
     "AAPL"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "727a15f11e31",
+   "title": "Hogs Close with Gains on Short Friday Session",
+   "link": "https://www.nasdaq.com/articles/hogs-close-gains-short-friday-session",
+   "summary": "Lean hog futures posted gains of 57 cents to $1.05 across the board on Friday, finding some strength on the short Friday session. December was still down $1.35 on the week. USDA’s national base hog price was reported at $33.37 on Friday afternoon, down 24 cents from the day prior....",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T23:06:58+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "14d77573c1a4",
+   "title": "Cattle Rally Out of Thanksgiving with Friday Gains",
+   "link": "https://www.nasdaq.com/articles/cattle-rally-out-thanksgiving-friday-gains",
+   "summary": "Live Cattle futures closed with Friday gains of 87 cents to $1.45 on the short session, with December up $1.35 on the week. Cash trade has seen very light trade at $355 dressed in the north this week, with live sales of $222. Southern business was up to $224. Feeder...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T23:06:58+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ead6f2b91915",
+   "title": "Wheat Round Out Post-Thanksgiving Trade with Gains",
+   "link": "https://www.nasdaq.com/articles/wheat-round-out-post-thanksgiving-trade-gains",
+   "summary": "The wheat complex was higher across three exchanges on Friday’s short session. Chicago SRW futures were 1 to 4 1/4 cents higher on Friday with December slipping 7 ¾ cents this week. KC wheat futures were 3 ¼ to 6 ¼ cents higher at the close, with December 16 ½...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T23:06:58+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "ef335ba4528d",
+   "title": "Soybeans Rally on the Short Friday Session",
+   "link": "https://www.nasdaq.com/articles/soybeans-rally-short-friday-session",
+   "summary": "Soybeans shot higher on the hard 8:30 am CST open, with contracts 18 1/4 to 23 1/4 cents higher at Friday’s close, with the weekly gain at 45 ½ cents. The cmdtyView national average Cash Bean price was up 21 3/4 cents at $12.09 1/4. Soymeal futures rallied $3.80 to...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T23:06:57+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "b18c1b523945",
+   "title": "Corn Bulls Rally on the Post-Thanksgiving Session",
+   "link": "https://www.nasdaq.com/articles/corn-bulls-rally-post-thanksgiving-session",
+   "summary": "Corn futures gapped higher at the hard open, with contracts closing with gains of 3 to 7 cents, as December was up 12 ¼ cents on the week. The CmdtyView national average Cash Corn price was up 7 3/4 cents at $4.18 1/4. First Notice Day for December is on...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T23:06:57+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
+   "id": "9e2d24438bf0",
+   "title": "Crude Prices Retreat on Possible Increase in OPEC Crude Output",
+   "link": "https://www.nasdaq.com/articles/crude-prices-retreat-possible-increase-opec-crude-output",
+   "summary": "January WTI crude oil (CLF27 ) closed down -0.60 (-0.72%) on Friday, and January RBOB gasoline (RBF27 ) closed up +0.0066 (+0.27%). Crude oil and gasoline prices gave up an early advance on Friday and settled mixed. Dollar strength on Friday weighed on energy prices. Also, the outlook for higher...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T23:06:57+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "19341a146905",
+   "title": "Nat-Gas Prices Tumble on Warm US Weather Forecasts",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-tumble-warm-us-weather-forecasts",
+   "summary": "January Nymex natural gas (NGF27 ) closed down -0.167 (-4.57%) on Friday. Jan nat-gas prices settled sharply lower on Friday as forecasts pointed to above-normal US temperatures for the first half of December, potentially reducing heating demand for nat-gas. The Commodity Weather Group said Friday that forecasts trended warmer, with...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T23:06:57+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "negative",
+   "tag_v": 2
+  },
+  {
+   "id": "9ce449fd0291",
+   "title": "Supply Woes Push Cocoa Prices to 3-Week Highs",
+   "link": "https://www.nasdaq.com/articles/supply-woes-push-cocoa-prices-3-week-highs",
+   "summary": "March ICE NY cocoa (CCH27 ) closed up +65 (+1.20%) on Friday, and ICE London cocoa #7 (CAZ26 ) closed up +62 (+1.54%). Cocoa prices extended this week’s rally on Friday and posted 3-week highs amid reduced cocoa shipments from the Ivory Coast. Ivory Coast government data on Monday showed...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T23:06:56+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "d4bee18ee037",
+   "title": "Brazilian Real Strength Lifts Coffee Prices",
+   "link": "https://www.nasdaq.com/articles/brazilian-real-strength-lifts-coffee-prices",
+   "summary": "March arabica coffee (KCH26 ) closed up +5.55 (+2.06%) on Friday, and January ICE robusta coffee (RMF27 ) closed up +89 (+3.12%). Coffee prices settled sharply higher on Friday and posted 1-week highs. Short covering emerged in coffee futures Friday after the Brazilian real (^USDBRL ) rallied to a 2.5-week...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T23:06:56+00:00",
+   "tickers": [
+    "ICE"
+   ],
+   "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -1282,6 +1312,20 @@
    "tag_v": 2
   },
   {
+   "id": "6ec4a5fd36a5",
+   "title": "Princess Kate takes to the mountains to face mortality in film about cancer recovery - AP News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTm5fMzJuWElVTEVpdG9FZHlZV2txZ3dEVmJjUENfUEgtdVpDOGxBaXNBNUJsQ1RZV054SndZc2pPV21GMW1CMWx3NENXNlBEb0RlRGRiVGx4ZDNtQ0JfSnNRTnRNbHoyR01FVlRPd21hX3FBc3A4UFRra3cyMWhqR3h6QktKdVUwclV3UFVJZTEtcmdHYlpEbGF0OU1NY3d2a3I2MHozV3BOdjZKYlE?oc=5",
+   "summary": "Princess Kate takes to the mountains to face mortality in film about cancer recovery&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-27T22:01:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "2832b0c1df7d",
    "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
    "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
@@ -1796,6 +1840,20 @@
    "tag_v": 2
   },
   {
+   "id": "4cb3171a17fe",
+   "title": "US military says it has disabled another ship trying to breach its blockade, and other Mideast news - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlJjWkszRWtsblptbVZSdklWc0pQeTZOOTYxLWhJS3o2eC02YTJjc0MxQkZDbk5iU1FSSklIT3k4YzVzenBQTzhpZ1pXWTJ2aTNtOTY1S1FyeWhhdjdwTnE2RENkSDN1Q3AyZHlzUlAzckJvNkxUYU5lLTdkZ1pDN0tiM3ZhYjEzZ1dzY09Od1U3ZkZXck5ndHE1SkdCbVJWRGc?oc=5",
+   "summary": "US military says it has disabled another ship trying to breach its blockade, and other Mideast news&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-27T21:26:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "d2b90d3669bc",
    "title": "U.S. Treasury yields rally, snapping eight-day rally as bond bulls pause",
    "link": "https://www.investing.com/news/forex-news/global-bonds-cap-strong-weekly-rally-after-aidriven-flight-to-safety-5053055",
@@ -1996,6 +2054,20 @@
    "tag_v": 2
   },
   {
+   "id": "13b9ff58ff9b",
+   "title": "Music - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FQWF3bmRaX2NPTlZiaFhIZ2JhTFVUYXdDcjZnRWMzT2RHQkRVbzJLSlZZQ0VXSmY4Nk5HS2lYZzRvQQ?oc=5",
+   "summary": "Music&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-27T21:18:03+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "a2a1752ad88b",
    "title": "Walmart bets shoppers won't notice its holiday price change",
    "link": "https://www.thestreet.com/retail/walmart-quietly-cancels-thousands-of-discounts-as-the-holidays-approach",
@@ -2065,20 +2137,6 @@
    "tickers": [],
    "type": "markets",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "13b9ff58ff9b",
-   "title": "Music - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FQWF3bmRaX2NPTlZiaFhIZ2JhTFVUYXdDcjZnRWMzT2RHQkRVbzJLSlZZQ0VXSmY4Nk5HS2lYZzRvQQ?oc=5",
-   "summary": "Music&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-27T21:11:58+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
    "tag_v": 2
   },
   {
@@ -2396,20 +2454,6 @@
    "published": "2026-11-27T20:39:02+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "057a1d63e4ad",
-   "title": "Parts of the US clean up, power outages being restored after Thanksgiving storm soaks East Coast - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjRuNThwR0c4LU54RVBVM3kzcFFCOGFmR0szVnA2SUI1aW55bTMtWWlvZ1FYLUVLZmNEYk1HM2ZGZmotc09Wck9ySldYcW9zTWZaeUw5eFVoNUxrcFo0aDNmejFnbzkwTmNhRDUyamhlWHpWNTFwb1BiRUlqV0ZMUllxV3lnU2NzYnlfSUhNWUVyV09WcE9wN0pmeGp5d011djRj?oc=5",
-   "summary": "Parts of the US clean up, power outages being restored after Thanksgiving storm soaks East Coast&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-27T20:34:00+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6561,20 +6605,6 @@
    "tag_v": 2
   },
   {
-   "id": "4cb3171a17fe",
-   "title": "Yemen's Houthis say an airstrike killed 11 people, including children, and other Mideast news - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlJjWkszRWtsblptbVZSdklWc0pQeTZOOTYxLWhJS3o2eC02YTJjc0MxQkZDbk5iU1FSSklIT3k4YzVzenBQTzhpZ1pXWTJ2aTNtOTY1S1FyeWhhdjdwTnE2RENkSDN1Q3AyZHlzUlAzckJvNkxUYU5lLTdkZ1pDN0tiM3ZhYjEzZ1dzY09Od1U3ZkZXck5ndHE1SkdCbVJWRGc?oc=5",
-   "summary": "Yemen's Houthis say an airstrike killed 11 people, including children, and other Mideast news&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-27T16:48:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "3f4bc7b50a51",
    "title": "Why is Seagate Technology stock surging today?",
    "link": "https://www.investing.com/news/stock-market-news/why-is-seagate-technology-stock-surging-today-93CH-5053717",
@@ -8831,36 +8861,6 @@
    "tickers": [],
    "type": "earnings",
    "sentiment": "positive",
-   "tag_v": 2
-  },
-  {
-   "id": "4669bd279682",
-   "title": "Goodyear Tire stock hits 52-week low at 3.47 USD",
-   "link": "https://www.investing.com/news/company-news/goodyear-tire-stock-hits-52week-low-at-347-usd-93CH-5053604",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "domain": "investing.com",
-   "published": "2026-11-27T14:48:27+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "92c6c0f8dfd1",
-   "title": "Brookfield Business: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/brookfield-business-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsBrookfield Business generated $1.4 billion from capital recycling this year.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T14:48:07+00:00",
-   "tickers": [
-    "BN"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
    "tag_v": 2
   }
  ],
