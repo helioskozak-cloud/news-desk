@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-28T01:06:06.240111+00:00",
+ "generated": "2026-11-28T01:11:18.357813+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "f09e72f9f495",
+   "title": "Michael Burry still sees 2 stocks worth betting against",
+   "link": "https://www.thestreet.com/investing/michael-burry-palantir-metlife-puts",
+   "summary": "Burry has gone almost entirely long, saying volatility made puts too pricey. Not every holdout in his bearish book is a tech name.",
+   "source": "TheStreet",
+   "category": "stocks",
+   "domain": "thestreet.com",
+   "published": "2026-11-28T01:07:00+00:00",
+   "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
   {
    "id": "33850a73910d",
    "title": "Eversource Energy executive sells $312,053 in company stock",
@@ -60,6 +74,22 @@
    "published": "2026-11-28T00:58:50+00:00",
    "tickers": [],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "cf3433e5b2c3",
+   "title": "Shoppers expected to spend nearly $13 billion this Black Friday, Adobe says",
+   "link": "https://www.cbsnews.com/video/shoppers-expected-to-spend-nearly-13-billion-this-black-friday-adobe-says/",
+   "summary": "Shoppers are expected to spend nearly $13 billion on Black Friday alone, according to Adobe, as the holiday shopping rush kicks off. Tom Hanson has the story.",
+   "source": "CBS MoneyWatch",
+   "category": "macro",
+   "domain": "cbsnews.com",
+   "published": "2026-11-28T00:58:30+00:00",
+   "tickers": [
+    "ADBE"
+   ],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8844,36 +8874,6 @@
    ],
    "type": "stocks",
    "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "a95bd540b570",
-   "title": "Cattle Traders Look to Closer Out the Week",
-   "link": "https://www.nasdaq.com/articles/cattle-traders-look-closer-out-week",
-   "summary": "Live Cattle futures posted losses of $1.87 to $2.85 across the board on Wednesday. Open interest was down 1,228 contracts on Wednesday. Cash trade has seen very light trade at $355 dressed in the north this week, compared to sales of $340-345 last week, as a few live sales were...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T15:30:15+00:00",
-   "tickers": [],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "7df61a6ba768",
-   "title": "Hogs Extend Losses into the Holiday Break",
-   "link": "https://www.nasdaq.com/articles/hogs-extend-losses-holiday-break",
-   "summary": "Lean hog futures posted Wednesday losses of 15 cents to $1.87 at the close. USDA’s national base hog price was reported at $33.61 on Wednesday afternoon, up $2.18 from the day prior. The CME Lean Hog Index was down 29 cents on November 23 at $55.02. The market will be...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T15:30:15+00:00",
-   "tickers": [
-    "CME"
-   ],
-   "type": "stocks",
-   "sentiment": "negative",
    "tag_v": 2
   }
  ],
