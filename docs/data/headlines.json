@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T00:06:08.204044+00:00",
+ "generated": "2026-11-28T00:11:09.695878+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -45,6 +45,22 @@
    "domain": "investing.com",
    "published": "2026-11-28T00:00:56+00:00",
    "tickers": [],
+   "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "8353905721ce",
+   "title": "e.l.f. Beauty vs. Wendy's: Which Consumer Goods Stock Is a Better Buy for 2027?",
+   "link": "https://www.nasdaq.com/articles/elf-beauty-vs-wendys-which-consumer-goods-stock-better-buy-2027",
+   "summary": "Key Pointse.l.f. Beauty achieved nearly 40% revenue growth by providing high-quality cosmetics at accessible price points.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T23:58:53+00:00",
+   "tickers": [
+    "ELF"
+   ],
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
@@ -8853,20 +8869,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "6b8e22ed40fc",
-   "title": "Top 10 things to watch in the stock market on Black Friday",
-   "link": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html",
-   "summary": "Stocks are on pace for a record Black Friday as Anthropic tries to regain its IPO price.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "domain": "cnbc.com",
-   "published": "2026-11-27T15:08:31+00:00",
-   "tickers": [],
-   "type": "markets",
-   "sentiment": "positive",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8959,6 +8961,7 @@
   "QBTS": "D-Wave Quantum",
   "TTD": "The Trade Desk",
   "CSCO": "Cisco Systems",
+  "ELF": "e.l.f. Beauty",
   "LLY": "Eli Lilly and",
   "POST": "Post Holdings",
   "WRB": "W. R. Berkley",
