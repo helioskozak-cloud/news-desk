@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T03:41:30.852340+00:00",
+ "generated": "2026-11-28T03:46:28.161055+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -43,6 +43,23 @@
    "domain": "nasdaq.com",
    "published": "2026-11-28T03:15:54+00:00",
    "tickers": [],
+   "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "49a0dd7e6218",
+   "title": "Stocks Settle Sharply Higher as Chipmakers and AI Stocks Rebound",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-sharply-higher-chipmakers-and-ai-stocks-rebound",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +1.60% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +1.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +2.61%. December E-mini S&amp;P futures (ESZ26 ) rose +1.57%, and December E-mini Nasdaq futures...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "domain": "nasdaq.com",
+   "published": "2026-11-28T03:15:54+00:00",
+   "tickers": [
+    "SPY",
+    "QQQ"
+   ],
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
@@ -250,23 +267,6 @@
    "tag_v": 2
   },
   {
-   "id": "49a0dd7e6218",
-   "title": "Stocks Settle Sharply Higher as Chipmakers and AI Stocks Rebound",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-sharply-higher-chipmakers-and-ai-stocks-rebound",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) closed up +1.60% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +1.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +2.61%. December E-mini S&amp;P futures (ESZ26 ) rose +1.57%, and December E-mini Nasdaq futures...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "domain": "nasdaq.com",
-   "published": "2026-11-28T02:21:34+00:00",
-   "tickers": [
-    "SPY",
-    "QQQ"
-   ],
-   "type": "stocks",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "ed0df8c3094c",
    "title": "American Airlines jets clip wings on taxiway at Reagan National Airport",
    "link": "https://www.investing.com/news/stock-market-news/american-airlines-jets-clip-wings-on-taxiway-at-reagan-national-airport-5054097",
@@ -344,7 +344,7 @@
    "source": "AP Business",
    "category": "macro",
    "domain": "news.google.com",
-   "published": "2026-11-28T01:52:54+00:00",
+   "published": "2026-11-28T01:51:08+00:00",
    "tickers": [],
    "type": "macro",
    "sentiment": "positive",
@@ -363,6 +363,20 @@
     "IESC"
    ],
    "type": "markets",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "7a17763d2ccb",
+   "title": "NY Senate leader Andrea Stewart-Cousins, first woman in the role, dies at 76 - AP News",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT25pZFJVVnowN28tOUtSMFg1VFNFWjJWLWxUdkRnRExNd05vOVlMQmFQM3FwLTJqV21HTExSZ1RkTi1VWUpydnIzVm5Kdi1YMk1iQ2ZpTllheFZpZ2hHZmJrNzhIM2FvQ2RYa2dlakxsWERCTHdWSktHalZCX1dSWkh4QVlMcHBxWFdLTFBJNFhOc2ROYjR6VzlVXzhhekU3OWpLMw?oc=5",
+   "summary": "NY Senate leader Andrea Stewart-Cousins, first woman in the role, dies at 76&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-28T01:45:00+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -2856,20 +2870,6 @@
    "tag_v": 2
   },
   {
-   "id": "7a17763d2ccb",
-   "title": "NY Senate leader Andrea Stewart-Cousins, first woman in the role, dies at 76 - AP News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT25pZFJVVnowN28tOUtSMFg1VFNFWjJWLWxUdkRnRExNd05vOVlMQmFQM3FwLTJqV21HTExSZ1RkTi1VWUpydnIzVm5Kdi1YMk1iQ2ZpTllheFZpZ2hHZmJrNzhIM2FvQ2RYa2dlakxsWERCTHdWSktHalZCX1dSWkh4QVlMcHBxWFdLTFBJNFhOc2ROYjR6VzlVXzhhekU3OWpLMw?oc=5",
-   "summary": "NY Senate leader Andrea Stewart-Cousins, first woman in the role, dies at 76&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-27T22:02:00+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "6ec4a5fd36a5",
    "title": "Princess Kate takes to the mountains to face mortality in film about cancer recovery - AP News",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTm5fMzJuWElVTEVpdG9FZHlZV2txZ3dEVmJjUENfUEgtdVpDOGxBaXNBNUJsQ1RZV054SndZc2pPV21GMW1CMWx3NENXNlBEb0RlRGRiVGx4ZDNtQ0JfSnNRTnRNbHoyR01FVlRPd21hX3FBc3A4UFRra3cyMWhqR3h6QktKdVUwclV3UFVJZTEtcmdHYlpEbGF0OU1NY3d2a3I2MHozV3BOdjZKYlE?oc=5",
@@ -3396,6 +3396,20 @@
    "tag_v": 2
   },
   {
+   "id": "13b9ff58ff9b",
+   "title": "Music - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FQWF3bmRaX2NPTlZiaFhIZ2JhTFVUYXdDcjZnRWMzT2RHQkRVbzJLSlZZQ0VXSmY4Nk5HS2lYZzRvQQ?oc=5",
+   "summary": "Music&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-27T21:27:29+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
    "id": "b246e173ad52",
    "title": "Liquidia: 3 Key Takeaways for Long-Term Investors",
    "link": "https://www.nasdaq.com/articles/liquidia-3-key-takeaways-long-term-investors",
@@ -3822,20 +3836,6 @@
    "published": "2026-11-27T21:04:30+00:00",
    "tickers": [],
    "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
-   "id": "13b9ff58ff9b",
-   "title": "Music - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FQWF3bmRaX2NPTlZiaFhIZ2JhTFVUYXdDcjZnRWMzT2RHQkRVbzJLSlZZQ0VXSmY4Nk5HS2lYZzRvQQ?oc=5",
-   "summary": "Music&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-27T21:04:02+00:00",
-   "tickers": [],
-   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
