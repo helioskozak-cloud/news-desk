@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T06:11:24.021297+00:00",
+ "generated": "2026-11-28T06:16:20.793528+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -16,6 +16,20 @@
     "AMZN"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "665935546f7f",
+   "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+   "link": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+   "summary": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "domain": "cnbc.com",
+   "published": "2026-11-28T06:00:01+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -8868,23 +8882,6 @@
    "type": "stocks",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "d1fdbc7549a7",
-   "title": "Interactive Brokers Group vs. SoFi Technologies: Which Financial Stock Is a Better Buy for 2027?",
-   "link": "https://www.nasdaq.com/articles/interactive-brokers-group-vs-sofi-technologies-which-financial-stock-better-buy-2027",
-   "summary": "Key PointsInteractive Brokers Group operates a highly efficient global brokerage platform with a debt-free balance sheet and strong net margins.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T16:29:26+00:00",
-   "tickers": [
-    "SOFI",
-    "IBKR"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8912,7 +8909,6 @@
   "AMG": "Affiliated Managers Group",
   "FCNCA": "First Citizens BancShares",
   "IBIT": "iShares Bitcoin Trust ETF",
-  "IBKR": "Interactive Brokers Group",
   "ICE": "Intercontinental Exchange",
   "REGN": "Regeneron Pharmaceuticals",
   "IVV": "iShares Core S&P 500 ETF",
@@ -8948,7 +8944,6 @@
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
   "RGTI": "Rigetti Computing",
-  "SOFI": "SoFi Technologies",
   "UBER": "Uber Technologies",
   "VERA": "Vera Therapeutics",
   "WU": "The Western Union",
