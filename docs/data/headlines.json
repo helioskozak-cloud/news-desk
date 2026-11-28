@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T12:41:30.259093+00:00",
+ "generated": "2026-11-28T12:46:30.706075+00:00",
  "feed_count": 22,
  "ticker_universe_size": 1752,
  "headlines": [
@@ -811,20 +811,6 @@
    "tag_v": 2
   },
   {
-   "id": "13b9ff58ff9b",
-   "title": "Music - AP News",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FQWF3bmRaX2NPTlZiaFhIZ2JhTFVUYXdDcjZnRWMzT2RHQkRVbzJLSlZZQ0VXSmY4Nk5HS2lYZzRvQQ?oc=5",
-   "summary": "Music&nbsp;&nbsp;AP News",
-   "source": "AP Business",
-   "category": "macro",
-   "domain": "news.google.com",
-   "published": "2026-11-28T08:21:45+00:00",
-   "tickers": [],
-   "type": "macro",
-   "sentiment": "neutral",
-   "tag_v": 2
-  },
-  {
    "id": "ddd7523fe3e6",
    "title": "Deere Management Points To Agrictultural Machinery Recovery",
    "link": "https://www.nasdaq.com/articles/deere-management-points-agrictultural-machinery-recovery",
@@ -1100,6 +1086,20 @@
     "AMZN"
    ],
    "type": "stocks",
+   "sentiment": "neutral",
+   "tag_v": 2
+  },
+  {
+   "id": "13b9ff58ff9b",
+   "title": "Music - AP News",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FQWF3bmRaX2NPTlZiaFhIZ2JhTFVUYXdDcjZnRWMzT2RHQkRVbzJLSlZZQ0VXSmY4Nk5HS2lYZzRvQQ?oc=5",
+   "summary": "Music&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-28T06:02:34+00:00",
+   "tickers": [],
+   "type": "macro",
    "sentiment": "neutral",
    "tag_v": 2
   },
@@ -6120,6 +6120,20 @@
    "tag_v": 2
   },
   {
+   "id": "7a089b1ae08b",
+   "title": "Stocks jump to close out an erratic week that was also Wall Street’s best in more than a year - AP News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3hvSHlmM1QwQVMyanhDWEpTak5ZZkVwd2RBck9ObnBheXJoYWQxcUxMYXJqb2VhdWRiUVM2ZlNrSmNTYlZVZ1JmYXlRZ0lvclBleFJzRGZjUktHREZkY1JjOS15OVdGdmN5SVRmZUN2T1RVNTR2bnJwWjhfQnR5S015XzZtNmpNd19xbHFUbExjQk1OUTdPRDFxcUotZEZn?oc=5",
+   "summary": "Stocks jump to close out an erratic week that was also Wall Street’s best in more than a year&nbsp;&nbsp;AP News",
+   "source": "AP Business",
+   "category": "macro",
+   "domain": "news.google.com",
+   "published": "2026-11-27T19:59:00+00:00",
+   "tickers": [],
+   "type": "macro",
+   "sentiment": "positive",
+   "tag_v": 2
+  },
+  {
    "id": "a20b594479c8",
    "title": "OceanaGold Announces Ausgold Shareholder Approval",
    "link": "https://www.nasdaq.com/articles/oceanagold-announces-ausgold-shareholder-approval",
@@ -8830,23 +8844,6 @@
    "type": "markets",
    "sentiment": "neutral",
    "tag_v": 2
-  },
-  {
-   "id": "ba4614f0b7d6",
-   "title": "December 10th Options Now Available For Ishares Bitcoin Trust ETF (IBIT)",
-   "link": "https://www.nasdaq.com/articles/december-10th-options-now-available-ishares-bitcoin-trust-etf-ibit",
-   "summary": "Investors in Ishares Bitcoin Trust Etf (Symbol: IBIT) saw new options become available today, for the December 10th expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the IBIT options chain for the new December 10th contracts and identified one",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T17:15:34+00:00",
-   "tickers": [
-    "IBIT",
-    "GBTC"
-   ],
-   "type": "markets",
-   "sentiment": "neutral",
-   "tag_v": 2
   }
  ],
  "ticker_names": {
@@ -8862,13 +8859,11 @@
   "TIGO": "Millicom International Cellular",
   "BTI": "British American Tobacco p.l.c",
   "CTSH": "Cognizant Technology Solutions",
-  "GBTC": "Grayscale Bitcoin Trust (BTC)",
   "BJ": "BJ's Wholesale Club Holdings",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "SDS": "ProShares UltraShort S&P500",
   "AMG": "Affiliated Managers Group",
   "FCNCA": "First Citizens BancShares",
-  "IBIT": "iShares Bitcoin Trust ETF",
   "ICE": "Intercontinental Exchange",
   "LTH": "Life Time Group Holdings",
   "ARR": "ARMOUR Residential REIT",
